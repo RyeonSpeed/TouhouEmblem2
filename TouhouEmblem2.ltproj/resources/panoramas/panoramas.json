@@ -1,0 +1,1190 @@
+[
+    [
+        "Arena",
+        1
+    ],
+    [
+        "default_background",
+        1
+    ],
+    [
+        "info_menu_background",
+        1
+    ],
+    [
+        "Hill",
+        1
+    ],
+    [
+        "House",
+        1
+    ],
+    [
+        "Forest",
+        1
+    ],
+    [
+        "InsideCastle",
+        1
+    ],
+    [
+        "Plains",
+        1
+    ],
+    [
+        "Bedroom",
+        1
+    ],
+    [
+        "Clearing",
+        1
+    ],
+    [
+        "Town",
+        1
+    ],
+    [
+        "TownSunset",
+        1
+    ],
+    [
+        "ForestDark",
+        1
+    ],
+    [
+        "CastleSepia",
+        1
+    ],
+    [
+        "Ruins",
+        1
+    ],
+    [
+        "CastleRuins",
+        1
+    ],
+    [
+        "GradoCastle",
+        1
+    ],
+    [
+        "DeepForest",
+        1
+    ],
+    [
+        "VillageGate",
+        1
+    ],
+    [
+        "Village",
+        1
+    ],
+    [
+        "BlackBackground",
+        1
+    ],
+    [
+        "title_background",
+        1
+    ],
+    [
+        "combat_arena",
+        1
+    ],
+    [
+        "combat_castle1",
+        1
+    ],
+    [
+        "combat_castle2",
+        1
+    ],
+    [
+        "combat_castle3",
+        1
+    ],
+    [
+        "combat_castle4",
+        1
+    ],
+    [
+        "combat_forest",
+        1
+    ],
+    [
+        "combat_forest_night",
+        1
+    ],
+    [
+        "combat_hill",
+        1
+    ],
+    [
+        "combat_lava",
+        1
+    ],
+    [
+        "combat_marsh",
+        1
+    ],
+    [
+        "combat_outside_castle",
+        1
+    ],
+    [
+        "combat_plains",
+        1
+    ],
+    [
+        "combat_plains_night",
+        1
+    ],
+    [
+        "combat_river",
+        1
+    ],
+    [
+        "combat_riverbed",
+        1
+    ],
+    [
+        "combat_ruins",
+        1
+    ],
+    [
+        "combat_sea",
+        1
+    ],
+    [
+        "combat_swamp",
+        1
+    ],
+    [
+        "combat_village",
+        1
+    ],
+    [
+        "HakureiShrine",
+        1
+    ],
+    [
+        "Camp Site (Day)",
+        1
+    ],
+    [
+        "Castle Hallway",
+        1
+    ],
+    [
+        "Crimea Reconstruction",
+        1
+    ],
+    [
+        "Kilvas Castle (2)",
+        1
+    ],
+    [
+        "Ashnard`s Army",
+        1
+    ],
+    [
+        "Camp Site (Afternoon)",
+        1
+    ],
+    [
+        "Castle Exterior (2)",
+        1
+    ],
+    [
+        "Castle Exterior (Snow)",
+        1
+    ],
+    [
+        "Collapsed Castle Nados",
+        1
+    ],
+    [
+        "Crimea Courtyard",
+        1
+    ],
+    [
+        "Crimean Army Strategy Room (2)",
+        1
+    ],
+    [
+        "Crimean Army Strategy Room (3)",
+        1
+    ],
+    [
+        "Crimean Army Strategy Room",
+        1
+    ],
+    [
+        "Crimean Market",
+        1
+    ],
+    [
+        "Daein Rider",
+        1
+    ],
+    [
+        "Daein Throne Roome",
+        1
+    ],
+    [
+        "Elena`s Quarters (2)",
+        1
+    ],
+    [
+        "Elena`s Quarters (3)",
+        1
+    ],
+    [
+        "Elena`s Quarters (4)",
+        1
+    ],
+    [
+        "Elincia`s Retainers",
+        1
+    ],
+    [
+        "Field (Foggy)",
+        1
+    ],
+    [
+        "Field Night",
+        1
+    ],
+    [
+        "Forest Field",
+        1
+    ],
+    [
+        "Forest_1",
+        1
+    ],
+    [
+        "Greil Mercenary Base",
+        1
+    ],
+    [
+        "Greil`s Grave",
+        1
+    ],
+    [
+        "Hallway (Night)",
+        1
+    ],
+    [
+        "Hawk",
+        1
+    ],
+    [
+        "Laguz Cat",
+        1
+    ],
+    [
+        "Meeting Place",
+        1
+    ],
+    [
+        "Misc. Interior (2)",
+        1
+    ],
+    [
+        "Misc. Interior (3)",
+        1
+    ],
+    [
+        "Misc. Interior",
+        1
+    ],
+    [
+        "Misc. Room",
+        1
+    ],
+    [
+        "Oliver`s Mansion",
+        1
+    ],
+    [
+        "Prison (4)",
+        1
+    ],
+    [
+        "Prison (5)",
+        1
+    ],
+    [
+        "Prison (6)",
+        1
+    ],
+    [
+        "Raining Field (2)",
+        1
+    ],
+    [
+        "Raining Field (3)",
+        1
+    ],
+    [
+        "Raining Field",
+        1
+    ],
+    [
+        "Rural Town (Day)",
+        1
+    ],
+    [
+        "Sea Town",
+        1
+    ],
+    [
+        "Ship Deck",
+        1
+    ],
+    [
+        "Ship Sails",
+        1
+    ],
+    [
+        "Snow Forest Clearing",
+        1
+    ],
+    [
+        "Tent Interior",
+        1
+    ],
+    [
+        "Ashnard",
+        1
+    ],
+    [
+        "Base (Snow)",
+        1
+    ],
+    [
+        "Below Deck (2)",
+        1
+    ],
+    [
+        "Castle Exterior (Night) (2)",
+        1
+    ],
+    [
+        "Castle Exterior (Night) (3)",
+        1
+    ],
+    [
+        "Castle Exterior (Night) (4)",
+        1
+    ],
+    [
+        "Castle Exterior (Night) (5)",
+        1
+    ],
+    [
+        "Castle",
+        1
+    ],
+    [
+        "Collapsing Castle Nados (2)",
+        1
+    ],
+    [
+        "Collapsing Castle Nados",
+        1
+    ],
+    [
+        "Daein Castle",
+        1
+    ],
+    [
+        "Deep Forest (Day)",
+        1
+    ],
+    [
+        "Forest Exit",
+        1
+    ],
+    [
+        "Gallia Castle",
+        1
+    ],
+    [
+        "Grann Desert",
+        1
+    ],
+    [
+        "Greil Merc. Strategy Room  (2)",
+        1
+    ],
+    [
+        "Greil Merc. Strategy Room  (3)",
+        1
+    ],
+    [
+        "Greil Merc. Strategy Room  (4)",
+        1
+    ],
+    [
+        "Greil Merc. Strategy Room ",
+        1
+    ],
+    [
+        "Mansion Interior",
+        1
+    ],
+    [
+        "Oliver`s Mansion (2)",
+        1
+    ],
+    [
+        "Oliver`s Mansion (3)",
+        1
+    ],
+    [
+        "Oliver`s Mansion (4)",
+        1
+    ],
+    [
+        "Prison (7)",
+        1
+    ],
+    [
+        "Prison (8)",
+        1
+    ],
+    [
+        "Prison (9)",
+        1
+    ],
+    [
+        "Ranulf",
+        1
+    ],
+    [
+        "Serenes Altar Restored (2)",
+        1
+    ],
+    [
+        "Serenes Altar Restored (3)",
+        1
+    ],
+    [
+        "Serenes Altar Restored",
+        1
+    ],
+    [
+        "Snow Castle",
+        1
+    ],
+    [
+        "Tent Interior (2)",
+        1
+    ],
+    [
+        "Town (Day)",
+        1
+    ],
+    [
+        "Base Conversation Tent",
+        1
+    ],
+    [
+        "Forest Clearing Day",
+        1
+    ],
+    [
+        "Fort Interior (2)",
+        1
+    ],
+    [
+        "Fort Interior (3)",
+        1
+    ],
+    [
+        "Fort Interior",
+        1
+    ],
+    [
+        "Greil Merc. HQ (2)",
+        1
+    ],
+    [
+        "Greil Merc. HQ (3)",
+        1
+    ],
+    [
+        "Greil Merc. HQ",
+        1
+    ],
+    [
+        "Heron`s Heaing Rajaion",
+        1
+    ],
+    [
+        "Laguz Resistancce Base (2)",
+        1
+    ],
+    [
+        "Laguz Resistancce Base (3)",
+        1
+    ],
+    [
+        "Laguz Resistancce Base",
+        1
+    ],
+    [
+        "Misc. Castle (Night) (2)",
+        1
+    ],
+    [
+        "Misc. Castle (Night) (3)",
+        1
+    ],
+    [
+        "Misc. Castle (Night)",
+        1
+    ],
+    [
+        "Misc. Castle Interior",
+        1
+    ],
+    [
+        "p8g",
+        1
+    ],
+    [
+        "Reyson",
+        1
+    ],
+    [
+        "Sanaki (2)",
+        1
+    ],
+    [
+        "backwoods (Day) (2)",
+        1
+    ],
+    [
+        "backwoods (Day) (3)",
+        1
+    ],
+    [
+        "backwoods (Day) (4)",
+        1
+    ],
+    [
+        "backwoods (Day)",
+        1
+    ],
+    [
+        "Backwoods (Late Night)",
+        1
+    ],
+    [
+        "Base Locations (2)",
+        1
+    ],
+    [
+        "Base Locations (3)",
+        1
+    ],
+    [
+        "Base Locations (4)",
+        1
+    ],
+    [
+        "Base Locations (5)",
+        1
+    ],
+    [
+        "Base Locations",
+        1
+    ],
+    [
+        "Begnion (Afternoon)",
+        1
+    ],
+    [
+        "Briefing Room",
+        1
+    ],
+    [
+        "Camp (Snow) (2)",
+        1
+    ],
+    [
+        "Camp (Snow)",
+        1
+    ],
+    [
+        "Camp Site (Night)",
+        1
+    ],
+    [
+        "Camp Tent Interior (2)",
+        1
+    ],
+    [
+        "Camp Tent Interior (3)",
+        1
+    ],
+    [
+        "Camp Tent Interior",
+        1
+    ],
+    [
+        "Campsite",
+        1
+    ],
+    [
+        "Castle (Outside Shot)",
+        1
+    ],
+    [
+        "Castle Exterior (Night)",
+        1
+    ],
+    [
+        "Castle Exterior",
+        1
+    ],
+    [
+        "Crimean Resistance HQ",
+        1
+    ],
+    [
+        "Crow",
+        1
+    ],
+    [
+        "Daein Army",
+        1
+    ],
+    [
+        "Desert",
+        1
+    ],
+    [
+        "Elincia",
+        1
+    ],
+    [
+        "Forest (Night)",
+        1
+    ],
+    [
+        "Game Over",
+        1
+    ],
+    [
+        "General Store",
+        1
+    ],
+    [
+        "Greil Merceraries Sleeping Quarters",
+        1
+    ],
+    [
+        "Greil`s  Funeral",
+        1
+    ],
+    [
+        "Griel Merc. Base (Day)",
+        1
+    ],
+    [
+        "Griel Merc. Base",
+        1
+    ],
+    [
+        "Hallway",
+        1
+    ],
+    [
+        "Ike Rally",
+        1
+    ],
+    [
+        "Leanne",
+        1
+    ],
+    [
+        "Mad King Ashnard",
+        1
+    ],
+    [
+        "Mansion Exterior (Night)",
+        1
+    ],
+    [
+        "Mansion Exterior",
+        1
+    ],
+    [
+        "Misc. Castle Interior (2)",
+        1
+    ],
+    [
+        "Misc. Castle Interior (3)",
+        1
+    ],
+    [
+        "Misc. Castle Interior (4)",
+        1
+    ],
+    [
+        "Open Field (Snow)",
+        1
+    ],
+    [
+        "Open Field",
+        1
+    ],
+    [
+        "Palmeni Temple",
+        1
+    ],
+    [
+        "Port Bar (2)",
+        1
+    ],
+    [
+        "Port Bar (3)",
+        1
+    ],
+    [
+        "Port Bar (4)",
+        1
+    ],
+    [
+        "Port Bar",
+        1
+    ],
+    [
+        "Prison (2)",
+        1
+    ],
+    [
+        "Prison (3)",
+        1
+    ],
+    [
+        "Prison",
+        1
+    ],
+    [
+        "Red Dragon",
+        1
+    ],
+    [
+        "Renning",
+        1
+    ],
+    [
+        "Ruined Serenes (Zoomed In)",
+        1
+    ],
+    [
+        "Rural Town (Night)",
+        1
+    ],
+    [
+        "Sanaki",
+        1
+    ],
+    [
+        "Sea Home",
+        1
+    ],
+    [
+        "Serenes Altar (2)",
+        1
+    ],
+    [
+        "Serenes Altar (3)",
+        1
+    ],
+    [
+        "Serenes Altar",
+        1
+    ],
+    [
+        "Serenes Forest",
+        1
+    ],
+    [
+        "Ship Deck (Afternoon)",
+        1
+    ],
+    [
+        "Ship Deck (Night) (2)",
+        1
+    ],
+    [
+        "Ship Deck (Night) (3)",
+        1
+    ],
+    [
+        "Ship Deck (Night) (4)",
+        1
+    ],
+    [
+        "Ship Deck (Night)",
+        1
+    ],
+    [
+        "Skies 2",
+        1
+    ],
+    [
+        "Supply Fort Day (2)",
+        1
+    ],
+    [
+        "Supply Fort Day",
+        1
+    ],
+    [
+        "The End",
+        1
+    ],
+    [
+        "Tiger",
+        1
+    ],
+    [
+        "Town (Night)",
+        1
+    ],
+    [
+        "Town_1",
+        1
+    ],
+    [
+        "Army HQ",
+        1
+    ],
+    [
+        "Base (Night) (2)",
+        1
+    ],
+    [
+        "Base (Night) (3)",
+        1
+    ],
+    [
+        "Base (Night)",
+        1
+    ],
+    [
+        "Battle Ready Elincia",
+        1
+    ],
+    [
+        "Begnion Castle",
+        1
+    ],
+    [
+        "Begnion Throne Room",
+        1
+    ],
+    [
+        "Begnion",
+        1
+    ],
+    [
+        "Castle Throne Room",
+        1
+    ],
+    [
+        "Elena And Leanne`s Quarters (2)",
+        1
+    ],
+    [
+        "Elena And Leanne`s Quarters (3)",
+        1
+    ],
+    [
+        "Elena And Leanne`s Quarters",
+        1
+    ],
+    [
+        "Elena`s Quarters",
+        1
+    ],
+    [
+        "Elincia (w armor)",
+        1
+    ],
+    [
+        "Gallia Throne Room",
+        1
+    ],
+    [
+        "Greil killing Elena",
+        1
+    ],
+    [
+        "Gritnea Tower Laguz Prison (2)",
+        1
+    ],
+    [
+        "Gritnea Tower Laguz Prison (3)",
+        1
+    ],
+    [
+        "Gritnea Tower Laguz Prison",
+        1
+    ],
+    [
+        "Inside Tent (2)",
+        1
+    ],
+    [
+        "Inside Tent (3)",
+        1
+    ],
+    [
+        "Inside Tent",
+        1
+    ],
+    [
+        "Kilvas Castle",
+        1
+    ],
+    [
+        "Kilvas",
+        1
+    ],
+    [
+        "Mansion Interior (Night) (2)",
+        1
+    ],
+    [
+        "Mansion Interior (Night) (3)",
+        1
+    ],
+    [
+        "Mansion Interior (Night)",
+        1
+    ],
+    [
+        "Mist`s Medallion",
+        1
+    ],
+    [
+        "Near the Sea (Night)",
+        1
+    ],
+    [
+        "Noble Ike (2)",
+        1
+    ],
+    [
+        "Outside House",
+        1
+    ],
+    [
+        "OutsideTown",
+        1
+    ],
+    [
+        "Rajaion and Ena (1)",
+        1
+    ],
+    [
+        "Rajaion and Ena (Zoomed out) (2)",
+        1
+    ],
+    [
+        "Rajaion and Ena (Zoomed out)",
+        1
+    ],
+    [
+        "Rajaion and Ena Bottom Half",
+        1
+    ],
+    [
+        "Rajaion and Ena",
+        1
+    ],
+    [
+        "Red Dragons",
+        1
+    ],
+    [
+        "River",
+        1
+    ],
+    [
+        "Ruined Serenes",
+        1
+    ],
+    [
+        "Rural Town",
+        1
+    ],
+    [
+        "Ship",
+        1
+    ],
+    [
+        "Strategy Room",
+        1
+    ],
+    [
+        "Supply Fort (2)",
+        1
+    ],
+    [
+        "Supply Fort (3)",
+        1
+    ],
+    [
+        "Supply Fort (4)",
+        1
+    ],
+    [
+        "Supply Fort",
+        1
+    ],
+    [
+        "Army Camp",
+        1
+    ],
+    [
+        "Backwoods (Afternoon)",
+        1
+    ],
+    [
+        "Backwoods (Night)",
+        1
+    ],
+    [
+        "Base (Fort)",
+        1
+    ],
+    [
+        "Base Room",
+        1
+    ],
+    [
+        "Below Deck",
+        1
+    ],
+    [
+        "Castle Courtyard",
+        1
+    ],
+    [
+        "Field (Afternoon)",
+        1
+    ],
+    [
+        "Field (Night)",
+        1
+    ],
+    [
+        "Forest (Snow)",
+        1
+    ],
+    [
+        "Greil Mercenaries HQ",
+        1
+    ],
+    [
+        "Gritnea Tower Prison (2)",
+        1
+    ],
+    [
+        "Gritnea Tower Prison (3)",
+        1
+    ],
+    [
+        "Gritnea Tower Prison",
+        1
+    ],
+    [
+        "House Interior",
+        1
+    ],
+    [
+        "Ike and Greil (2)",
+        1
+    ],
+    [
+        "Ike and Greil (3)",
+        1
+    ],
+    [
+        "Ike and Greil (4)",
+        1
+    ],
+    [
+        "Ike and Greil",
+        1
+    ],
+    [
+        "Ike",
+        1
+    ],
+    [
+        "Near The Sea",
+        1
+    ],
+    [
+        "Noble Ike",
+        1
+    ],
+    [
+        "Port",
+        1
+    ],
+    [
+        "Raining Town (2)",
+        1
+    ],
+    [
+        "Raining Town (3)",
+        1
+    ],
+    [
+        "Raining Town (4)",
+        1
+    ],
+    [
+        "Raining Town",
+        1
+    ],
+    [
+        "Rural Town (Snow)",
+        1
+    ],
+    [
+        "Skies",
+        1
+    ],
+    [
+        "Small Castle Interior (2)",
+        1
+    ],
+    [
+        "Small Castle Interior (3)",
+        1
+    ],
+    [
+        "Small Castle Interior",
+        1
+    ],
+    [
+        "Thick Forest (Night)",
+        1
+    ],
+    [
+        "Tower of Guidance",
+        1
+    ]
+]
