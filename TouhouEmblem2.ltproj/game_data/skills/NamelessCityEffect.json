@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "NamelessCityEffect",
+        "name": "NamelessCityEffect",
+        "desc": "",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "hidden",
+                null
+            ],
+            [
+                "resist_multiplier",
+                0.5
+            ]
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Interfering_Waves",
+        "name": "Interfering Waves",
+        "desc": "Allies and enemies alike wielding magic within 3 spaces receive -3 Mag/+3 Res.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            2,
+            2
+        ],
+        "components": [
+            [
+                "aura",
+                "Quiet_Aura"
+            ],
+            [
+                "aura_range",
+                3
+            ],
+            [
+                "aura_target",
+                "unit"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Intro",
+        "trigger": "level_start",
+        "level_nid": "2",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "game_var;hireable_guys;v('hireable_guys') + ['Yuna','Yuika']",
+            "add_base_convo;Fog",
+            "add_market_item;Torch",
+            "trigger_script;Housekeeping",
+            "base;Backwoods (Night);{e:};Mercenary Camp;True;Global Mercenary_Camp",
+            "enable_fog_of_war;t",
+            "set_fog_of_war;thracia;5;5;5",
+            "add_talk;Marisa;Mystia",
+            "add_talk;Reimu;Mystia",
+            "add_talk;Mystia;Wriggle",
+            "prep;1"
+        ]
+    }
+]

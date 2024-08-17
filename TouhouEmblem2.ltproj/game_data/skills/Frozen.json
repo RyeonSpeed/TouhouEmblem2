@@ -1,0 +1,43 @@
+[
+    {
+        "nid": "Frozen",
+        "name": "Frozen",
+        "desc": "Applies -3 Spd on the enemy for 2 turns.",
+        "icon_nid": "skillicons4",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "drain_charge",
+                3
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "SPD",
+                        -3
+                    ]
+                ]
+            ],
+            [
+                "hidden",
+                null
+            ],
+            [
+                "unit_flickering_tint",
+                [
+                    85,
+                    170,
+                    255
+                ]
+            ],
+            [
+                "negative",
+                null
+            ]
+        ]
+    }
+]

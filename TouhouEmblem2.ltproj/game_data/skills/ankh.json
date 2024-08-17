@@ -1,0 +1,31 @@
+[
+    {
+        "nid": "ankh",
+        "name": "poppet",
+        "desc": "",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "hidden",
+                null
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "RES",
+                        15
+                    ],
+                    [
+                        "DEF",
+                        -5
+                    ]
+                ]
+            ]
+        ]
+    }
+]

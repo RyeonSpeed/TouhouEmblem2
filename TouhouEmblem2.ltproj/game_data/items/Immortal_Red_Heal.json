@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Immortal_Red_Heal",
+        "name": "Immortality",
+        "desc": "",
+        "icon_nid": "Skills",
+        "icon_index": [
+            8,
+            10
+        ],
+        "components": [
+            [
+                "equation_heal",
+                "MAGIC_DAMAGE"
+            ],
+            [
+                "target_ally",
+                null
+            ]
+        ]
+    }
+]

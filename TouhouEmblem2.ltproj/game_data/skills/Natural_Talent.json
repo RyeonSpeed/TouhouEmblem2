@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Natural_Talent",
+        "name": "Natural Talent",
+        "desc": "Gives +1% Hit/Avoid per level. ",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            3,
+            4
+        ],
+        "components": [
+            [
+                "eval_hit",
+                "unit.level * 0.5"
+            ],
+            [
+                "eval_avoid",
+                "unit.level * 0.5"
+            ]
+        ]
+    }
+]

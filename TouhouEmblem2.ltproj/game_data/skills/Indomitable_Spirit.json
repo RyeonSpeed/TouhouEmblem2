@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Indomitable_Spirit",
+        "name": "Indomitable Spirit",
+        "desc": "Immune to negative statuses.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            1,
+            2
+        ],
+        "components": [
+            [
+                "immune_status",
+                null
+            ]
+        ]
+    }
+]

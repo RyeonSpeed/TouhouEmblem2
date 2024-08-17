@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Chest_1",
+        "trigger": "Chest",
+        "level_nid": "4",
+        "condition": "region.nid == 'Chest_1'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "unlock;{unit}",
+            "show_layer;Chest1",
+            "give_item;{unit};Tarot"
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "nid": "Rumia_Boss",
+        "name": "Rumia",
+        "desc": "The youkai of darkness. Eats humans, but doesn't bother hunting them. Not the brightest.",
+        "variant": null,
+        "level": 3,
+        "klass": "Shaman",
+        "tags": [
+            "Boss"
+        ],
+        "bases": {
+            "HP": 25,
+            "STR": 3,
+            "MAG": 8,
+            "SKL": 4,
+            "SPD": 3,
+            "CON": 7,
+            "DEF": 7,
+            "RES": 4,
+            "LCK": 5,
+            "MOV": 0
+        },
+        "growths": {
+            "DEF": 0,
+            "SPD": 0,
+            "MOV": 0,
+            "STR": 0,
+            "SKL": 0,
+            "LCK": 0,
+            "RES": 0,
+            "HP": 0,
+            "CON": 0,
+            "MAG": 0
+        },
+        "stat_cap_modifiers": {
+            "DEF": 0,
+            "SPD": 0,
+            "MOV": 0,
+            "STR": 0,
+            "SKL": 0,
+            "LCK": 0,
+            "RES": 0,
+            "HP": 0,
+            "CON": 0,
+            "MAG": 0
+        },
+        "starting_items": [
+            [
+                "Flux",
+                false
+            ],
+            [
+                "Life_Gem",
+                true
+            ]
+        ],
+        "learned_skills": [],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Dark": [
+                false,
+                31,
+                null
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "rumia",
+        "affinity": "None",
+        "fields": []
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "name": "DeathKagerou",
+        "trigger": "unit_death",
+        "level_nid": "1",
+        "condition": "unit.nid == \"Kagerou_Boss\"",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Kagerou;Left",
+            "speak;Kagerou;Ouch! Ew, you got dirt all over my fur!",
+            "expression;Kagerou;CloseEyes",
+            "remove_portrait;Kagerou",
+            "give_bexp;50;no_banner"
+        ]
+    }
+]

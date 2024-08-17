@@ -1,0 +1,123 @@
+[
+    {
+        "nid": "Remilia",
+        "name": "Remilia",
+        "desc": "The owner of the SDM. She acts refined, but is actually quite childish. Her status makes her feared by many.",
+        "variant": "",
+        "level": 1,
+        "klass": "Lord_L",
+        "tags": [],
+        "bases": {
+            "HP": 21,
+            "STR": 7,
+            "MAG": 3,
+            "SKL": 6,
+            "SPD": 7,
+            "LCK": 3,
+            "DEF": 5,
+            "CON": 9,
+            "MOV": 5,
+            "RES": 3
+        },
+        "growths": {
+            "HP": 85,
+            "STR": 45,
+            "MAG": 30,
+            "SKL": 35,
+            "SPD": 45,
+            "LCK": 30,
+            "DEF": 45,
+            "CON": 0,
+            "MOV": 0,
+            "RES": 25
+        },
+        "stat_cap_modifiers": {
+            "CON": 0,
+            "HP": 0,
+            "DEF": 0,
+            "MAG": 0,
+            "RES": 0,
+            "LCK": 0,
+            "SPD": 0,
+            "STR": 0,
+            "SKL": 0,
+            "MOV": 0
+        },
+        "starting_items": [
+            [
+                "Iron_Lance",
+                false
+            ],
+            [
+                "Life_Gem",
+                false
+            ],
+            [
+                "Maple_Shield",
+                false
+            ]
+        ],
+        "learned_skills": [
+            [
+                1,
+                "Controller_of_Fate"
+            ],
+            [
+                1,
+                "Bloodsucker"
+            ]
+        ],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0,
+                251
+            ],
+            "Lance": [
+                true,
+                31,
+                251
+            ],
+            "Axe": [
+                false,
+                0,
+                251
+            ],
+            "Bow": [
+                false,
+                0,
+                251
+            ],
+            "Staff": [
+                false,
+                0,
+                251
+            ],
+            "Light": [
+                false,
+                0,
+                251
+            ],
+            "Anima": [
+                false,
+                0,
+                251
+            ],
+            "Dark": [
+                false,
+                0,
+                251
+            ],
+            "Default": [
+                false,
+                0,
+                251
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "remi",
+        "affinity": "Dark",
+        "fields": []
+    }
+]
