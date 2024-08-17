@@ -330,7 +330,7 @@
             "speak;Rumia_Boss;Not...again...",
             "expression;Rumia_Boss;CloseEyes",
             "remove_portrait;Rumia_Boss",
-            "give_bexp;100;no_banner"
+            "give_bexp;50;no_banner"
         ]
     },
     {
@@ -2523,10 +2523,10 @@
         ]
     },
     {
-        "name": "SeiranDeath",
+        "name": "DefeatBoss",
         "trigger": "unit_death",
         "level_nid": "3",
-        "condition": "unit.nid == \"Seiran_Boss\"",
+        "condition": "game.check_dead(\"Seiran_Boss\")",
         "commands": [],
         "only_once": false,
         "priority": 20,
@@ -3050,7 +3050,7 @@
         "_source": [
             "unlock;{unit}",
             "show_layer;Chest3",
-            "give_item;{unit};Yukkuri_M"
+            "give_item;{unit};Yukkuri_R"
         ]
     },
     {
@@ -3269,6 +3269,64 @@
         "priority": 20,
         "_source": [
             "win_game"
+        ]
+    },
+    {
+        "name": "SeiranFight",
+        "trigger": "combat_start",
+        "level_nid": "3",
+        "condition": "(unit.nid == \"Seiran_Boss\" and unit2.team == 'player') or (unit2.nid == \"Seiran_Boss\" and unit.team == 'player')",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Seiran;Left",
+            "speak;Seiran;Don't hold it against me. The pay's better than what I make selling dango!",
+            "remove_portrait;Seiran"
+        ]
+    },
+    {
+        "name": "RingoFight",
+        "trigger": "combat_start",
+        "level_nid": "3",
+        "condition": "(unit.nid == \"Ringo_Boss\" and unit2.team == 'player') or (unit2.nid == \"Ringo_Boss\" and unit.team == 'player')",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Ringo;Left",
+            "speak;Ringo;Finally, something interesting on this job. Don't bore me.",
+            "remove_portrait;Ringo"
+        ]
+    },
+    {
+        "name": "SeiranDefeat",
+        "trigger": "unit_death",
+        "level_nid": "3",
+        "condition": "unit.nid == \"Seiran_Boss\"",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Seiran;Left",
+            "speak;Seiran;Man...I thought freelance work would give me more dignity...",
+            "remove_portrait;Seiran",
+            "give_bexp;100;no_banner"
+        ]
+    },
+    {
+        "name": "RingoDefeat",
+        "trigger": "unit_death",
+        "level_nid": "3",
+        "condition": "unit.nid == \"Ringo_Boss\"",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Ringo;Left",
+            "speak;Ringo;You earthlings sure are interesting beings.",
+            "remove_portrait;Ringo",
+            "give_bexp;100;no_banner"
         ]
     }
 ]

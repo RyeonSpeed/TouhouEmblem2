@@ -9780,7 +9780,7 @@
     {
         "nid": "Eirins_Drugs",
         "name": "Eirin's Drugs",
-        "desc": "Fully recovers HP.",
+        "desc": "Restores 20 HP.",
         "icon_nid": "the2icons",
         "icon_index": [
             4,
@@ -9793,7 +9793,7 @@
             ],
             [
                 "value",
-                3000
+                700
             ],
             [
                 "target_ally",
@@ -9812,7 +9812,7 @@
             ],
             [
                 "heal",
-                99
+                20
             ],
             [
                 "map_hit_add_blend",
