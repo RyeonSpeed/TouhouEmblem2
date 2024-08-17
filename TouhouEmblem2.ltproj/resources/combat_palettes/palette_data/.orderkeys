@@ -3,7 +3,7 @@
     "Archer0_GenericRed",
     "Myrmidon0_GenericBlue",
     "Myrmidon0_GenericRed",
-    "Myrmidon0_Ophie",
+    "Myrmidon0_Rinnosuke",
     "Mercenary0_GenericBlue",
     "Mercenary0_GenericGreen",
     "Mercenary0_GenericRed",
@@ -270,5 +270,14 @@
     "FighterFemale_GenericBlue",
     "FighterFemale_GenericRed",
     "ArcherFemale_GenericBlue",
-    "ArcherFemale_GenericRed"
+    "ArcherFemale_GenericRed",
+    "BrigandFemale_GenericBlue",
+    "BrigandFemale_GenericRed",
+    "BrigandFemale_Suika",
+    "Kosuzu",
+    "Acolyte_GenericBlue",
+    "Acolyte_GenericRed",
+    "Lycanthrope_GenericRed",
+    "Kagerou",
+    "Keine"
 ]

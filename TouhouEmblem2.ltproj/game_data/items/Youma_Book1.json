@@ -74,6 +74,10 @@
             [
                 "wexp",
                 0
+            ],
+            [
+                "battle_cast_anim",
+                "Flux"
             ]
         ]
     }

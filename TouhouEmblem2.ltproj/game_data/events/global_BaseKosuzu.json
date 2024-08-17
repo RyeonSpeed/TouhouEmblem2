@@ -11,6 +11,7 @@
             "transition;close",
             "change_background;Camp Tent Interior",
             "transition;open",
+            "music;Comrades",
             "load_unit;Kosuzu",
             "add_portrait;Kosuzu;Left",
             "add_portrait;Reimu;CenterRight",

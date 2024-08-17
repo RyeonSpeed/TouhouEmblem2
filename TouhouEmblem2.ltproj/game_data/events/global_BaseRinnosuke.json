@@ -11,6 +11,7 @@
             "transition;close",
             "change_background;Camp Tent Interior",
             "transition;open",
+            "music;Comrades",
             "load_unit;Rinnosuke",
             "add_portrait;Rinnosuke;Left",
             "add_portrait;Marisa;Right",
