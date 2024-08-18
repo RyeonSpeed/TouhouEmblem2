@@ -1,0 +1,226 @@
+[
+    {
+        "nid": "Intro",
+        "name": "Intro",
+        "title": "Intro",
+        "category": "Guide",
+        "text": "The purpose of this guide is to teach players who may be new to Fire Emblem-style gameplay how to play the game. Afterwards, you're all on your own :){br}No, I cannot stop this stupid ass slow scroll text. My apologies."
+    },
+    {
+        "nid": "Character_Stats",
+        "name": "Character Stats",
+        "title": "Character Stats",
+        "category": "Guide",
+        "text": "There are a few stats that are quite important in Fire Emblem. I will introduce you to a basic rundown of each of them, starting with character stats.\nHP: Health points. Your units will be defeated if they reach 0. In Standard Mode, any units who are defeated will be unusable permanently. In Baby Mode, any units who are defeated will return in the next chapter.\nSTR: Strength. This affects how much damage you do with physical weapons (Swords, Axes, Lances, Bows).\nMAG: Magic. This affects how much damage/healing you do with magical weapons (Anima, Light, Dark, Staves)\nSKL: Skill. This affects your accuracy (+2 Hit/1 Skill) and Critical Rate (+1 Crit/1 Skill). This is a dump stat usually lmao\nSPD: Speed. This affects your chance to dodge a hit (+1 Avoid/1 Spd). However, the most important part is that if you have 4 or more Spd than your opponent, you will attack them twice. \nLCK: Luck. This affects your chance to dodge a hit (+1 Avoid/1 Lck), and decreases the likelihood of an enemy critting you (+1 Crit Avoid/1 Lck). Luck is the best stat and totally not another dump stat :)\nDEF: Defense. You take one less damage from physical attacks for every point of Def you have.\nRES: Resistance. You take one less damage from magical attacks for every point of Res you have.\nCON: Constitution. Constitution offsets the speed loss you receive from a weapon's weight (More on that later). It also affects your ability to rescue (More on that later).\nMOV: Movement/Move. Movement affects how many tiles you can move in a single action. This is the best stat. Period.\nRAT: Rating. This is always set at 69. That is all."
+    },
+    {
+        "nid": "Weapon_Stats_and_Tags",
+        "name": "Weapon Stats and Tags",
+        "title": "Weapon Stats and Tags",
+        "category": "Guide",
+        "text": "Weapon Stats{br}Weapons have various stats in their description.\nDurability: The number next to the weapon that displays as x/x is the durability of the weapon. Each weapon loses one durability per use. A weapon with no durability is broken and cannot be used anymore. Weapons with --/-- durability have infinite uses. Weapons with x/-- have a limited number of uses per chapter.\nWeapon Icon: Shows what type of weapon it is. Also has a letter called the Weapon Rank, which identifies how much Weapon Experience a unit needs to wield the weapon. Weapons with a \"Prf\" weapon rank are locked to certain units as described.\nMinimum Weapon Experience Needed To Wield Weapon:{br}[S: 251]{br}[A: 181]{br}[B: 121]{br}[C: 71]{br}[D: 31]{br}[E: 1]\nRng: Range. This shows up to how many tiles forward a weapon can attack.\nWt: Weight. This is the speed penalty imposed on a unit for wielding the weapon. This is counteracted with the Con stat. The speed penalty for a weapon can be calculated with (Con - Wt).\nMt: Might. This is how much damage the weapon does at base, not counting any other calculations.\nHit: Hit Rate. This is the base hit rate of the weapon, not counting any other calculations.\nCrit: Crit Rate. This is the base crit rate of the weapon, not counting any other calculations. If a weapon has no crit rate, it cannot make a critical hit.\nTags{br}Weapons have brief tags in their description that allow you to quickly identify what bonus abilities a weapon has.\nArmorpiercing: Weapon does bonus damage against enemies with the tag \"Armor\".\nAnti-Mounted: Weapon does bonus damage against enemies with the tag \"Horse\".\nBeastkiller: Weapon does bonus damage against enemies with the tag \"Beast\".\nAnti-Monstrous: Weapon does bonus damage against enemies with the tag \"Monster\".\nAnti-Fliers: Weapon does bonus damage against enemies with the tag \"Flier\".\nMagicbuster: Weapon does bonus damage against enemies with the tag \"Magic\".\nBrave: Weapon can attack twice as much as usual.\nDevil: Weapon has a (31 - Lck)% chance of backfiring and dealing damage to the wielder as well.\nReaver: Weapon reverses the effects of the weapon triangle.\nPhysical: This weapon which belongs to a usually magical weapon type now scales off of the user's STR stat and the enemy's DEF stat.\nMagic: This weapon which belongs to a usually physical weapon type now scales off of the user's MAG stat and the enemy's RES stat.\nPoisonous: This weapon inflicts Poisoned on the enemy after combat.\nPrf (Unit): This weapon is locked to the unit mentioned. (For example, Prf Reimu weapons are locked to Reimu)."
+    },
+    {
+        "nid": "Items_and_Accessories",
+        "name": "Items and Accessories",
+        "title": "Items and Accessories",
+        "category": "Guide",
+        "text": "Beyond weapons, items are also important to your success. In Touhou Emblem 2, there are items and accessories. Your inventory has 4 slots for weapons & items, and 1 slot for an accessory.\nItems are usually consumable and have limited durability. These are usually things like healing items and promotion items.\nAccessories are special equippable items that usually provide some sort of bonus to the player, such as extra stats/growths or crit negation."
+    },
+    {
+        "nid": "Weapon_Triangle",
+        "name": "Weapon Triangle",
+        "title": "Weapon Triangle",
+        "category": "Guide",
+        "text": "The weapon triangle is a rock-paper-scissors system in Fire Emblem that means that different types of weapons have advantage over others. There are technically two triangles, the Weapon Triangle and Trinity of Magic, but the concept as a whole is called the \"Weapon Triangle\". Bows and Staves are exempt from this system.\nWeapon Triangle{br}The weapon triangle between swords/lances/axes has a 3 DMG/15 Hit Advantage/Disadvantage to the weapon with the Advantage/Disadvantage.{br}Swords beat Axes{br}Axes beat Lances{br}Lances beat Swords\nTrinity of Magic{br}The trinity of magic between anima/light/dark also has a 3 DMG/15 Hit Advantage/Disadvantage to the weapon with the Advantage/Disadvantage.{br}Anima beats Light{br}Light beats Dark{br}Dark beats Anima\n"
+    },
+    {
+        "nid": "Effective_Damage",
+        "name": "Effective Damage",
+        "title": "Effective Damage",
+        "category": "Guide",
+        "text": "Some weapons will have tags like \"Anti-Monstrous\" or \"Armorpiercing\" which means that they deal effective damage against targets with certain tags. Effective Damage generally increases damage greatly by an amount and also multiplies damage done. Generally, bringing effective weaponry around is the greatest way to deal with certain issues or speed up your pace in a map."
+    },
+    {
+        "nid": "Movement_Types",
+        "name": "Movement Types",
+        "title": "Movement Types",
+        "category": "Guide",
+        "text": "Obviously, a horse can't swim. Unless it's a kelpie, of course, but that's irrelevant. Generally, speaking, certain movement types will have more or less trouble traversing certain environments. The most important ones to remember are that fliers can cross most terrain, magic users are unhindered by sand, and certain classes like Berserkers can traverse mountains slowly.\nTerrain on the battlefield has different qualities too, and may give certain stat bonuses or penalties. Fliers are generally exempt from these bonuses and penalties. For example, Forests give +1 Def and +20 Avoid, but slow down the movement of non-flying units. You can check this bonus by hovering over a tile and looking at the bottom left corner of the screen."
+    },
+    {
+        "nid": "Growths",
+        "name": "Growths",
+        "title": "Growths",
+        "category": "Guide",
+        "text": "Growth rates are an important part of each character, and are a big part (BUT NOT THE END-ALL-BE-ALL) of defining their viability. Growths can be accessed by pressing whatever key/button is your SELECT key while on the character's stat screen. Growths usually come in a two digit number like 50 or 60 that represent the percentage chance a character is to gain that stat on a level-up. \nGrowths over 100, like 105, have a 100% chance to level the stat once on level-up and a 5% additional chance to level it up 2 times. Looking at growths can give you a general idea of how a character will grow and what stats they will trend to. Just remember that everything is up to the whims of RNG."
+    },
+    {
+        "nid": "Supports",
+        "name": "Supports",
+        "title": "Supports",
+        "category": "Guide",
+        "text": "Support conversations are bonus conversations that two units can have after being within a 3 tile distance of each other for enough turns over the course of the game (usually a pretty big amount of turns). After holding a support conversation, you can boost the affinity between two units (Ranks C, B, and A). When two units have a support rank, they will give each other bonuses corresponding to the rank of their support as long as they are within a 3 tile distance of each other. A unit can have up to 5 support conversations, meaning they can at best have a singular A support and up to a B support with another unit."
+    },
+    {
+        "nid": "Rescue",
+        "name": "Rescue",
+        "title": "Rescue",
+        "category": "Guide",
+        "text": "Rescue is a function that basically all units can do which allows them to absorb a unit into them and carry them around. Rescuing can be used to save a unit from being killed once enemy phase rolls around, or can be used to ferry units around the battlefield. \nUnits who are rescuing another unit receive penalties to their Skl and Spd, which can make them vulnerable to attack.\nThere are certain restrictions to who a unit can rescue. A unit can only rescue other units if the unit being rescued has a Con stat equal or lower than the rescuer's Aid stat (calculated using Con - 1 for infantry, and 25 - Con for mounted/flying units)."
+    },
+    {
+        "nid": "Lockpicking",
+        "name": "Lockpicking",
+        "title": "Lockpicking",
+        "category": "Guide",
+        "text": "You need to be able to lockpick to open up doors and chests. Marisa always has the \"Thief's Set\" skill on her, so you will always have a unit capable of lockpicking. It doesn't hurt, however, to have multiple in order to meet certain objectives faster. Some maps with chests will also have enemy thieves that will compete with your thieves to pick open doors and chests, so watch out for those."
+    },
+    {
+        "nid": "Villages",
+        "name": "Villages",
+        "title": "Villages",
+        "category": "Guide",
+        "text": "Villages and houses can be found throughout Gensokyo and can be visited for rewards. Rewards can be anything from items to important information, so it is always worth visiting a house/village just in case it might have something. Brigands and thieves on certain maps may race towards a village and burn it down if you are not quick enough to intercept them, depriving you of the rewards."
+    },
+    {
+        "nid": "Fog_of_War",
+        "name": "Fog of War",
+        "title": "Fog of War",
+        "category": "Guide",
+        "text": "Some maps may have this thing called Fog of War which hinders your ability to see all of the map. In Fog of War, you will have to play more carefully considering you don't know what lies around the corner. Luckily, certain items and accessories help your range of vision in fog of war and may allow you to get better recon, limiting your risk. Units that can lockpick also have good eyesight and can see further in the Fog of War."
+    },
+    {
+        "nid": "Combat_Arts",
+        "name": "Combat Arts",
+        "title": "Combat Arts",
+        "category": "Guide",
+        "text": "Combat Arts are special skills possessed by certain characters which allow them to perform an alternate, usually more powerful attack. Combat Arts require you to enter combat to build up their charge to replenish their use, so active use of a unit will help you more effectively build up their Combat Art."
+    },
+    {
+        "nid": "Bonus_Experience",
+        "name": "Bonus Experience",
+        "title": "Bonus Experience",
+        "category": "Guide",
+        "text": "Bonus Exp is a feature that gives you extra stored exp for completing certain objectives, such as visiting houses or unlocking certain secrets on maps. You can use bonus exp before a chapter in Base Preps. This exp can be utilized to grind up a new unit to help them catch up, or invest further into an already trained unit. A single point of Bonus Exp will be less effective the higher level a unit is."
+    },
+    {
+        "nid": "Base_Conversations",
+        "name": "Base Conversations",
+        "title": "Base Conversations",
+        "category": "Guide",
+        "text": "Each chapter, there will be new base conversations for you to access. These conversations will give you rewards like bonus exp, extra items, and maybe even new playables. Be forewarned, however, that not all base conversations will be available permanently. Some may disappear after the chapter ends or after a period of time."
+    },
+    {
+        "nid": "Market",
+        "name": "Market",
+        "title": "Market",
+        "category": "Guide",
+        "text": "The market can be accessed in base preps and has various items that may be helpful for you to buy. You may also sell items in the base market."
+    },
+    {
+        "nid": "Mercenaries",
+        "name": "Mercenaries",
+        "title": "Mercenaries",
+        "category": "Guide",
+        "text": "Mercenaries can be hired in the base for a certain price. More expensive mercenaries generally have better stats and potential than the cheaper ones, but cheaper mercs may have some uses unseen."
+    },
+    {
+        "nid": "Reimu",
+        "name": "Reimu",
+        "title": "Reimu",
+        "category": "Character",
+        "text": "Reimu acts as a standard magic user, being physically frail with middling Spd, but generally fairly good Mag. Her personal skill, Natural Talent, doesn't really help her much early on, but can be impactful later. Use her as a backline damage dealer. Reimu also has access to the Combat Art \"Homing Shot\", which allows her to tackle some more pesky enemies that have high Avoid."
+    },
+    {
+        "nid": "Marisa",
+        "name": "Marisa",
+        "title": "Marisa",
+        "category": "Character",
+        "text": "Marisa is a frailer but faster magic user than Reimu, enabling her to be your glass cannon. Marisa has access to a few neat tools, foremost of which being her skill, Hard Worker, which allows her to increase her growth rates per kill (resets on level up). This can be used and abused to an extent to get some pretty crazy growths if done right. Beyond that, Marisa's Star Laser has pretty good function as an AoE attack to soften up or pick off a few weakened enemies."
+    },
+    {
+        "nid": "Kasen",
+        "name": "Kasen",
+        "title": "Kasen",
+        "category": "Character",
+        "text": "Kasen comes as a prepromoted character with pretty high base stats but pretty bad growths. However, that isn't to say you should just bench her automatically for more \"higher\" potential units; Kasen has a lot to contribute. Her \"Mercy\" Combat Art allows her to weaken her attacks and let other units swipe up kills. Beyond that, she also serves as a backup option in case you find yourself in danger and need an out. Don't skip over Kasen and fall into the classic Casual's Pitfall."
+    },
+    {
+        "nid": "Aunn",
+        "name": "Aunn",
+        "title": "Aunn",
+        "category": "Character",
+        "text": "Aunn is a mounted unit, and thus has fairly good movement. Use this to your advantage. Her sturdy build and high movement allows her to hit the frontlines pretty fast. However, do watch out for anti-mounted weapons and fast mages, which will end up being Aunn's undoing if you're not careful."
+    },
+    {
+        "nid": "Remilia",
+        "name": "Remilia",
+        "title": "Remilia",
+        "category": "Character",
+        "text": "Remilia is a pretty standard infantry unit, possessing a neat tech in the \"Bloodsucker\" Combat Art, which allows her to drain HP from a unit during combat. Her strength, however, lies in the fact that you can use her \"Controller of Fate\" ability to turn back the clock on your actions up to 3 times a map. "
+    },
+    {
+        "nid": "Suika",
+        "name": "Suika",
+        "title": "Suika",
+        "category": "Character",
+        "text": "Suika is an unorthodox bulky frontliner who has a huge HP pool and strength. She makes for a great bruiser and can smash apart frailer enemies with aplomb. However, Suika also is quite slow, and will be prone to getting doubled later on. Her Combat Art, \"Shattering Moon\", adds her weapon weight to her damage, making for a devastating blow perfect for bosskilling."
+    },
+    {
+        "nid": "Rinnosuke",
+        "name": "Rinnosuke",
+        "title": "Rinnosuke",
+        "category": "Character",
+        "text": "Rinnosuke is a relatively weak infantry unit with middling growths. What are you to do with him?\n;)"
+    },
+    {
+        "nid": "Kosuzu",
+        "name": "Kosuzu",
+        "title": "Kosuzu",
+        "category": "Character",
+        "text": "Kosuzu is a unique character in the fact that she has a whole line of weapons, the Youma Scrolls, to herself. Each provides a unique offering to her skill set and allows her to perform various tasks. Growths-wise, just make sure Kosuzu doesn't see too much frontline action."
+    },
+    {
+        "nid": "Tokiko",
+        "name": "Tokiko",
+        "title": "Tokiko",
+        "category": "Character",
+        "text": "As a flier, Tokiko has amazing utility in being able to be basically anywhere on the map in a quick time, alongside rescuing and ferrying units where they need to be. Beyond this, Tokiko's skill \"Knowledge is Power\" allows you to more efficiently train up weapon exp."
+    },
+    {
+        "nid": "Letty",
+        "name": "Letty",
+        "title": "Letty",
+        "category": "Character",
+        "text": "Letty is a very strange character, scaling off of a weird mix of Mag and Res. Her \"Flood of Frost\" combat art allows her to slow down enemies and boost her own damage at the same time (indirectly through the Res boost). Letty does absolutely wonderfully against magic users, but she might flounder a bit if she's caught on the defense against physical units."
+    },
+    {
+        "nid": "Kokoro",
+        "name": "Kokoro",
+        "title": "Kokoro",
+        "category": "Character",
+        "text": "Kokoro is a very difficult character to play, as her main gimmick is shifting between different masks each turn, each giving wildly different effects. However, if you play to her instability correctly, you will be rewarded with a very effective unit."
+    },
+    {
+        "nid": "Rumia",
+        "name": "Rumia",
+        "title": "Rumia",
+        "category": "Character",
+        "text": "Rumia is a very high risk high reward character that can play into your cards well if you use her correctly. Her combat art, \"Apparitions That Stalk The Night\", invokes heavy fog over the battlefield, so thick that most units can only see 1 tile ahead. However, with that comes a huge stat bonus, including a coveted 1 movement buff. If you can work around the fog of war, Rumia can be a big boon for your army."
+    },
+    {
+        "nid": "Mystia",
+        "name": "Mystia",
+        "title": "Mystia",
+        "category": "Character",
+        "text": "Mystia is a dancer character, and for those of you not in the know, dancers are EXTREMELY efficient. Giving another unit a free turn is like having two of that unit. Her high mobility also allows her to reach pretty much any spot you need. Definitely a recommended pick no matter what team you're running."
+    },
+    {
+        "nid": "Wriggle",
+        "name": "Wriggle",
+        "title": "Wriggle",
+        "category": "Character",
+        "text": "In contrast to Aunn, Wriggle is a faster but frailer Lance Cav who takes more of an offensive approach, being a better player phase duelist at the expense of a lot of defense. However, Wriggle excels at hit and run tactics, with her Combat Art, infest, slowing down a unit's movement and allowing her to attack a unit and then ride off elsewhere. "
+    }
+]
