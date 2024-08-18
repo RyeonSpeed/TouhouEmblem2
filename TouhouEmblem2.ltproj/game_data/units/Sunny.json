@@ -1,0 +1,63 @@
+[
+    {
+        "nid": "Sunny",
+        "name": "Sunny",
+        "desc": "One of the three Fairies of Light. She is confident and acts as their leader.",
+        "variant": "",
+        "level": 3,
+        "klass": "Outlaw",
+        "tags": [],
+        "bases": {
+            "HP": 17,
+            "CON": 5,
+            "STR": 5,
+            "MAG": 5,
+            "SKL": 10,
+            "SPD": 10,
+            "LCK": 11,
+            "DEF": 3,
+            "RES": 5,
+            "MOV": 6
+        },
+        "growths": {
+            "STR": 25,
+            "MAG": 25,
+            "SKL": 80,
+            "SPD": 80,
+            "LCK": 80,
+            "DEF": 20,
+            "RES": 30,
+            "MOV": 2,
+            "HP": 40
+        },
+        "stat_cap_modifiers": {},
+        "starting_items": [
+            [
+                "Short_Bow",
+                false
+            ],
+            [
+                "Life_Gem",
+                false
+            ]
+        ],
+        "learned_skills": [
+            [
+                1,
+                "Prism_Camouflage"
+            ]
+        ],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Bow": [
+                false,
+                31,
+                null
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "Sunny",
+        "affinity": "Light",
+        "fields": []
+    }
+]

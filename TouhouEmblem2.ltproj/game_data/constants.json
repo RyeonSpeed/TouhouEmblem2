@@ -80,10 +80,6 @@
         true
     ],
     [
-        "long_range_storage",
-        true
-    ],
-    [
         "allow_negative_as",
         true
     ],
@@ -94,10 +90,6 @@
     [
         "growth_info",
         true
-    ],
-    [
-        "alt_growth_format",
-        false
     ],
     [
         "glancing_hit",

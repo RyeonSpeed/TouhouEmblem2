@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Talk_Mystia_Reimu",
+        "trigger": "on_talk",
+        "level_nid": "2",
+        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Mystia'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Reimu;Right",
+            "add_portrait;Mystia;Left",
+            "speak;Mystia;Eek-",
+            "speak;Reimu;I got two options for you. Join us, or I exterminate you. Wanna join us?",
+            "speak;Mystia;*nods*",
+            "speak;Reimu;These youkai really are easy to push around if you're just a bit more assertive. Heh.",
+            "multi_remove_portrait;Reimu;Mystia",
+            "change_team;Mystia;player",
+            "remove_talk;Reimu;Mystia",
+            "remove_talk;Marisa;Mystia"
+        ]
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "nid": "Youma_Book1",
+        "name": "Nameless City",
+        "desc": "Halves damage taken by Kosuzu.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            4,
+            7
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "weapon_type",
+                "Dark"
+            ],
+            [
+                "prf_unit",
+                [
+                    "Kosuzu"
+                ]
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                1
+            ],
+            [
+                "damage",
+                2
+            ],
+            [
+                "hit",
+                70
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "weight",
+                3
+            ],
+            [
+                "map_hit_add_blend",
+                [
+                    85,
+                    0,
+                    127
+                ]
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "status_on_equip",
+                "NamelessCityEffect"
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "wexp",
+                0
+            ],
+            [
+                "battle_cast_anim",
+                "Flux"
+            ]
+        ]
+    }
+]

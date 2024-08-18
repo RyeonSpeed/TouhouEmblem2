@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Haphazard_Smash",
+        "name": "Haphazard Smash",
+        "desc": "+1 DMG for every point of weight above user's Con.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            0,
+            8
+        ],
+        "components": [
+            [
+                "dynamic_damage",
+                "max(0, item.weight.value - unit.get_stat('CON'))"
+            ]
+        ]
+    }
+]

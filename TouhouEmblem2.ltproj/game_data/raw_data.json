@@ -4,13 +4,6 @@
         "dtype": "list",
         "svalue": "",
         "kvvalue": [],
-        "oattrs": [
-            "nid",
-            "Class",
-            "Name",
-            "Cost",
-            "Description"
-        ],
         "lovalue": [
             {
                 "nid": "Tokiko",
@@ -117,6 +110,13 @@
                 "Cost": "500",
                 "Description": "Various nameless Gensokyo mercenaries."
             }
+        ],
+        "oattrs": [
+            "nid",
+            "Class",
+            "Name",
+            "Cost",
+            "Description"
         ]
     }
 ]

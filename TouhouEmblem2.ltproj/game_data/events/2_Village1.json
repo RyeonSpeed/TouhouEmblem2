@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Village1",
+        "trigger": "Visit",
+        "level_nid": "2",
+        "condition": "region.nid == 'Village1' ",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "if;game.turncount < 7",
+            "add_portrait;Mokou;Left",
+            "add_portrait;{unit1};Right",
+            "speak;Mokou;Hm? What are you doing here? I'd rather not be bothered right now. Here, take this.",
+            "transition;close",
+            "multi_remove_portrait;Mokou;{unit1}",
+            "change_background",
+            "transition;open",
+            "give_bexp;200;no_banner",
+            "give_item;{unit};Thunder",
+            "has_traded;{unit}",
+            "show_layer;Village1",
+            "else",
+            "add_portrait;{unit1};Right",
+            "speak;{unit1};What's this?",
+            "transition;close",
+            "remove_portrait;{unit1}",
+            "change_background",
+            "transition;open",
+            "give_item;{unit};Thunder",
+            "give_bexp;50;no_banner",
+            "has_traded;{unit}",
+            "show_layer;Village1",
+            "end"
+        ]
+    }
+]

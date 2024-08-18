@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Mercy_Art",
+        "name": "Mercy",
+        "desc": "Prevents unit from critting or doubling.",
+        "icon_nid": "skillicons4",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "combat_art",
+                "MercyAura"
+            ],
+            [
+                "allowed_weapons",
+                "item_system.weapon_type(unit, item) in ['Sword', 'Lance', 'Axe', 'Bow', 'Anima', 'Dark', 'Light']"
+            ]
+        ]
+    }
+]

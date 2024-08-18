@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "shield_check",
+        "name": "shield check",
+        "desc": "",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "hidden",
+                null
+            ],
+            [
+                "event_after_combat",
+                "Global Shield_Check"
+            ],
+            [
+                "combat_condition",
+                "not item2.magic and not item2.targets_allies"
+            ]
+        ]
+    }
+]

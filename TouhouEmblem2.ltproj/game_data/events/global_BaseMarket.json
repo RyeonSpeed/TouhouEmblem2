@@ -1,0 +1,29 @@
+[
+    {
+        "name": "BaseMarket",
+        "trigger": "on_base_convo",
+        "level_nid": null,
+        "condition": "unit == 'Market'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "transition;close",
+            "change_background;Camp Tent Interior",
+            "transition;open",
+            "add_portrait;Reimu;CenterRight",
+            "add_portrait;Rinnosuke;CenterLeft",
+            "speak;Rinnosuke;Hey Reimu, I've opened up shop around your camp.",
+            "speak;Reimu;That fast...? Are you even going to be selling anything of worth?",
+            "speak;Rinnosuke;Hey, I can sell normal wares too! They're just not my passion.",
+            "speak;Reimu;If you say so.",
+            "multi_remove_portrait;Rinnosuke,Reimu",
+            "give_bexp;25;no_banner",
+            "transition;close",
+            "change_background",
+            "remove_base_convo;Market",
+            "game_var;baseconvolist;[x for x in v('baseconvolist') if not x == 'Market']",
+            "transition;open"
+        ]
+    }
+]

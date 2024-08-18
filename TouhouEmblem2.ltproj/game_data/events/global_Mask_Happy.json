@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Mask_Happy",
+        "trigger": null,
+        "level_nid": null,
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "give_skill;{unit};Mask_Anger"
+        ]
+    }
+]

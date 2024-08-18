@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Searchlight_1",
+        "name": "Searchlight",
+        "desc": "+4 Fog Vision, -10 Avoid/Crit Avoid to enemies within 2 tiles.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            3,
+            3
+        ],
+        "components": [
+            [
+                "avoid",
+                -10
+            ],
+            [
+                "crit_avoid",
+                -10
+            ],
+            [
+                "hidden",
+                null
+            ]
+        ]
+    }
+]

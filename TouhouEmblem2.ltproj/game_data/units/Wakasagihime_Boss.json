@@ -1,0 +1,54 @@
+[
+    {
+        "nid": "Wakasagihime_Boss",
+        "name": "Wakasagihime ",
+        "desc": "A mermaid who is a member of the Grassroots Youkai Network. Usually keeps it on the down low when not agitated.",
+        "variant": null,
+        "level": 1,
+        "klass": "Mermaid",
+        "tags": [
+            "Boss"
+        ],
+        "bases": {
+            "HP": 30,
+            "MAG": 10,
+            "SKL": 8,
+            "SPD": 6,
+            "LCK": 8,
+            "DEF": 5,
+            "RES": 10,
+            "CON": 9,
+            "MOV": 5
+        },
+        "growths": {},
+        "stat_cap_modifiers": {},
+        "starting_items": [
+            [
+                "Poseidon_Bolt",
+                false
+            ],
+            [
+                "Lucky_Clover",
+                false
+            ]
+        ],
+        "learned_skills": [
+            [
+                1,
+                "Indomitable_Spirit"
+            ]
+        ],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Anima": [
+                false,
+                71,
+                null
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "Wakasagihime",
+        "affinity": "None",
+        "fields": []
+    }
+]

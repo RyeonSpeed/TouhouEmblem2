@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Talk_Mystia_Marisa",
+        "trigger": "on_talk",
+        "level_nid": "2",
+        "condition": "unit.nid == 'Marisa' and unit2.nid == 'Mystia'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Mystia;Left",
+            "add_portrait;Marisa;Right",
+            "speak;Marisa;Heyo! Time to die!",
+            "speak;Mystia;W-wait! Wait! Don't hurt me, please! I just got dragged into this by Wriggle!",
+            "speak;Marisa;Huh. Lotta loyalty there. Welp, prepare to-",
+            "speak;Mystia;Wait, I can help you! I can help you!",
+            "speak;Marisa;You're just a chirping bird.",
+            "speak;Mystia;Please, I can convince Wriggle to stand down!",
+            "speak;Marisa;Well, I guess that does save us the trouble.",
+            "speak;Mystia;Phew...",
+            "multi_remove_portrait;Marisa;Mystia",
+            "change_team;Mystia;player",
+            "remove_talk;Reimu;Mystia",
+            "remove_talk;Marisa;Mystia"
+        ]
+    }
+]
