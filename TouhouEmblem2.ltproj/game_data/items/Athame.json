@@ -89,6 +89,10 @@
             [
                 "battle_cast_anim",
                 "Arrow"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

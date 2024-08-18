@@ -3,10 +3,10 @@
         "nid": "Purge",
         "name": "Purge",
         "desc": "",
-        "icon_nid": "Light",
+        "icon_nid": "LightMagic",
         "icon_index": [
             0,
-            3
+            0
         ],
         "components": [
             [
@@ -54,7 +54,7 @@
             ],
             [
                 "crit",
-                5
+                30
             ],
             [
                 "wexp",
@@ -83,6 +83,10 @@
                     255,
                     0
                 ]
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

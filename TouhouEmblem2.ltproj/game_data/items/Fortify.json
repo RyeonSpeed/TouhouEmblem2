@@ -59,6 +59,10 @@
             [
                 "equation_heal",
                 "HEAL"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

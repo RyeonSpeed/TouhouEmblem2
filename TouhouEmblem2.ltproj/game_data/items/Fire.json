@@ -2,7 +2,7 @@
     {
         "nid": "Fire",
         "name": "Fire",
-        "desc": "",
+        "desc": "Anti-Mounted.",
         "icon_nid": "the2icons",
         "icon_index": [
             8,
@@ -83,6 +83,22 @@
             [
                 "battle_cast_anim",
                 "Fire"
+            ],
+            [
+                "effective_damage",
+                {
+                    "effective_tags": [
+                        "Mounted"
+                    ],
+                    "effective_multiplier": 1.0,
+                    "effective_bonus_damage": 5,
+                    "show_effectiveness_flash": true,
+                    "weapon_effectiveness_multiplied": true
+                }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

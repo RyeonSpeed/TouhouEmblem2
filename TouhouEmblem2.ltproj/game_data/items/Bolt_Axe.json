@@ -67,6 +67,10 @@
             [
                 "magic",
                 null
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

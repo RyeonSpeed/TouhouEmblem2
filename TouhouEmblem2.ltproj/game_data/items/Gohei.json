@@ -2,11 +2,11 @@
     {
         "nid": "Gohei",
         "name": "Gohei",
-        "desc": "",
-        "icon_nid": "the2icons",
+        "desc": "Anti-Monstrous.",
+        "icon_nid": "LightMagic",
         "icon_index": [
-            9,
-            4
+            0,
+            1
         ],
         "components": [
             [
@@ -15,7 +15,7 @@
             ],
             [
                 "value",
-                8000
+                2000
             ],
             [
                 "target_enemy",
@@ -31,7 +31,7 @@
             ],
             [
                 "damage",
-                12
+                6
             ],
             [
                 "hit",
@@ -43,7 +43,7 @@
             ],
             [
                 "weight",
-                15
+                5
             ],
             [
                 "uses",
@@ -66,7 +66,7 @@
             ],
             [
                 "weapon_rank",
-                "A"
+                "C"
             ],
             [
                 "map_hit_add_blend",
@@ -79,6 +79,22 @@
             [
                 "magic",
                 null
+            ],
+            [
+                "effective_damage",
+                {
+                    "effective_tags": [
+                        "Monster"
+                    ],
+                    "effective_multiplier": 2.0,
+                    "effective_bonus_damage": 10,
+                    "show_effectiveness_flash": true,
+                    "weapon_effectiveness_multiplied": true
+                }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

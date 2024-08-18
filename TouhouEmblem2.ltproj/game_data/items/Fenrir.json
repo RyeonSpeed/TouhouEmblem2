@@ -27,11 +27,11 @@
             ],
             [
                 "damage",
-                15
+                14
             ],
             [
                 "hit",
-                70
+                65
             ],
             [
                 "crit",
@@ -39,7 +39,7 @@
             ],
             [
                 "weight",
-                18
+                13
             ],
             [
                 "level_exp",
@@ -51,7 +51,7 @@
             ],
             [
                 "weapon_rank",
-                "A"
+                "B"
             ],
             [
                 "map_hit_add_blend",
@@ -67,7 +67,7 @@
             ],
             [
                 "value",
-                9000
+                2500
             ],
             [
                 "uses",
@@ -79,6 +79,10 @@
                     "lose_uses_on_miss": false,
                     "one_loss_per_combat": false
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

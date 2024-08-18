@@ -2,7 +2,7 @@
     {
         "nid": "Fimbulvetr",
         "name": "Fimbulvetr",
-        "desc": "",
+        "desc": "Anti-Fliers. +6 Spd.",
         "icon_nid": "the2icons",
         "icon_index": [
             8,
@@ -71,6 +71,20 @@
             [
                 "max_range",
                 2
+            ],
+            [
+                "effective_damage",
+                {
+                    "effective_tags": [],
+                    "effective_multiplier": 3,
+                    "effective_bonus_damage": 0,
+                    "show_effectiveness_flash": true,
+                    "weapon_effectiveness_multiplied": true
+                }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

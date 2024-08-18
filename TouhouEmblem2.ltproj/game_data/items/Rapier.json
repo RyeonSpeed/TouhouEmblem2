@@ -80,6 +80,10 @@
             [
                 "weapon_rank",
                 "D"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

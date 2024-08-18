@@ -60,6 +60,10 @@
             [
                 "siege_weapon",
                 null
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

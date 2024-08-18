@@ -95,6 +95,10 @@
             [
                 "battle_cast_anim",
                 "Ofuda"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

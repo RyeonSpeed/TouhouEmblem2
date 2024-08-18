@@ -79,6 +79,10 @@
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

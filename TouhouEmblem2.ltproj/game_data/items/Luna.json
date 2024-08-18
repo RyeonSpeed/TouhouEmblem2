@@ -2,7 +2,7 @@
     {
         "nid": "Luna",
         "name": "Luna",
-        "desc": "Ignores the enemy's resistance.",
+        "desc": "Reaver.",
         "icon_nid": "the2icons",
         "icon_index": [
             7,
@@ -23,11 +23,11 @@
             ],
             [
                 "damage",
-                0
+                10
             ],
             [
                 "hit",
-                50
+                65
             ],
             [
                 "weapon_type",
@@ -43,7 +43,7 @@
             ],
             [
                 "uses",
-                30
+                15
             ],
             [
                 "uses_options",
@@ -58,11 +58,11 @@
             ],
             [
                 "crit",
-                10
+                0
             ],
             [
                 "value",
-                4200
+                1400
             ],
             [
                 "min_range",
@@ -73,8 +73,12 @@
                 2
             ],
             [
-                "alternate_resist_formula",
-                "ZERO"
+                "reaver",
+                null
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

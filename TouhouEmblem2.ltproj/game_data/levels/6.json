@@ -15,6 +15,7 @@
         "roam_unit": null,
         "go_to_overworld": false,
         "should_record": true,
+        "tags": [],
         "units": [],
         "regions": [],
         "unit_groups": [],

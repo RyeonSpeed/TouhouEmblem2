@@ -78,6 +78,10 @@
             [
                 "battle_cast_anim",
                 "Flux"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

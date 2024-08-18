@@ -82,6 +82,10 @@
             [
                 "battle_cast_anim",
                 "Fire"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

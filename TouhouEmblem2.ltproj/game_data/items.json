@@ -67,6 +67,10 @@
             [
                 "weapon_rank",
                 "E"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -147,6 +151,10 @@
                         2
                     ]
                 ]
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -218,6 +226,10 @@
             [
                 "weapon_rank",
                 "D"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -289,6 +301,10 @@
                     "lose_uses_on_miss": false,
                     "one_loss_per_combat": false
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -364,6 +380,10 @@
             [
                 "warning",
                 null
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -447,6 +467,10 @@
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -530,6 +554,10 @@
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -614,6 +642,10 @@
             [
                 "weapon_rank",
                 "D"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -680,6 +712,10 @@
                 [
                     "Rinnosuke"
                 ]
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -759,6 +795,10 @@
             [
                 "reaver",
                 null
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -834,6 +874,10 @@
             [
                 "brave",
                 null
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -905,6 +949,10 @@
                     "lose_uses_on_miss": false,
                     "one_loss_per_combat": false
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -980,6 +1028,10 @@
             [
                 "value",
                 1000
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -1059,11 +1111,15 @@
                         "Beast",
                         "Mounted"
                     ],
-                    "effective_multiplier": 1.3,
+                    "effective_multiplier": 1.0,
                     "effective_bonus_damage": 5,
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -1147,6 +1203,10 @@
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -1218,6 +1278,10 @@
             [
                 "magic",
                 null
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -1297,6 +1361,10 @@
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -1372,6 +1440,10 @@
             [
                 "max_range",
                 2
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -1443,6 +1515,10 @@
                     "lose_uses_on_miss": false,
                     "one_loss_per_combat": false
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -1523,6 +1599,10 @@
                         2
                     ]
                 ]
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -1598,6 +1678,10 @@
             [
                 "max_range",
                 1
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -1669,6 +1753,10 @@
                     "lose_uses_on_miss": false,
                     "one_loss_per_combat": false
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -1744,6 +1832,10 @@
             [
                 "warning",
                 null
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -1827,6 +1919,10 @@
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -1910,6 +2006,10 @@
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -1994,6 +2094,10 @@
             [
                 "level_exp",
                 null
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -2073,6 +2177,10 @@
             [
                 "max_range",
                 1
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -2148,6 +2256,10 @@
             [
                 "max_range",
                 1
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -2219,6 +2331,10 @@
                     "lose_uses_on_miss": false,
                     "one_loss_per_combat": false
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -2294,6 +2410,10 @@
             [
                 "value",
                 880
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -2365,6 +2485,10 @@
                     "lose_uses_on_miss": false,
                     "one_loss_per_combat": false
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -2436,6 +2560,10 @@
             [
                 "max_range",
                 2
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -2507,6 +2635,10 @@
                     "lose_uses_on_miss": false,
                     "one_loss_per_combat": false
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -2586,11 +2718,15 @@
                         "Beast",
                         "Mounted"
                     ],
-                    "effective_multiplier": 1.3,
+                    "effective_multiplier": 1.0,
                     "effective_bonus_damage": 5,
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -2662,6 +2798,10 @@
             [
                 "magic",
                 null
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -2741,6 +2881,10 @@
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -2812,6 +2956,10 @@
             [
                 "weapon_rank",
                 "E"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -2892,6 +3040,10 @@
             [
                 "value",
                 330
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -2967,6 +3119,10 @@
             [
                 "wexp",
                 2
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -3038,6 +3194,10 @@
             [
                 "weapon_rank",
                 "B"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -3112,6 +3272,10 @@
             ],
             [
                 "max_range",
+                1
+            ],
+            [
+                "fatigue",
                 1
             ]
         ]
@@ -3200,6 +3364,10 @@
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -3283,6 +3451,10 @@
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -3358,6 +3530,10 @@
             [
                 "reaver",
                 null
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -3445,6 +3621,10 @@
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -3520,6 +3700,10 @@
             [
                 "max_range",
                 1
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -3591,6 +3775,10 @@
                     "lose_uses_on_miss": false,
                     "one_loss_per_combat": false
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -3666,6 +3854,10 @@
             [
                 "value",
                 800
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -3737,13 +3929,17 @@
             [
                 "value",
                 300
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
     {
         "nid": "Short_Axe",
         "name": "Short Axe",
-        "desc": "+2 Spd",
+        "desc": "",
         "icon_nid": "throwing",
         "icon_index": [
             0,
@@ -3804,6 +4000,10 @@
             [
                 "weapon_rank",
                 "E"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -3875,6 +4075,10 @@
             [
                 "value",
                 3000
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -3954,11 +4158,15 @@
                         "Mounted",
                         "Beast"
                     ],
-                    "effective_multiplier": 1.3,
+                    "effective_multiplier": 1.0,
                     "effective_bonus_damage": 5,
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -4030,6 +4238,10 @@
             [
                 "magic",
                 null
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -4109,6 +4321,10 @@
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -4188,6 +4404,10 @@
             [
                 "max_range",
                 1
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -4258,6 +4478,10 @@
             ],
             [
                 "max_range",
+                1
+            ],
+            [
+                "fatigue",
                 1
             ]
         ]
@@ -4342,6 +4566,10 @@
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -4434,6 +4662,10 @@
                         2
                     ]
                 ]
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -4517,6 +4749,10 @@
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -4600,6 +4836,10 @@
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -4683,6 +4923,10 @@
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -4770,6 +5014,10 @@
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -4857,6 +5105,10 @@
             [
                 "value",
                 880
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -4944,6 +5196,10 @@
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -5027,6 +5283,10 @@
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -5114,6 +5374,10 @@
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -5185,6 +5449,10 @@
                     "lose_uses_on_miss": false,
                     "one_loss_per_combat": false
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -5275,6 +5543,10 @@
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -5365,6 +5637,10 @@
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -5455,6 +5731,10 @@
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -5526,6 +5806,10 @@
             [
                 "equation_heal",
                 "HEAL"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -5597,6 +5881,10 @@
             [
                 "equation_heal",
                 "HEAL"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -5672,6 +5960,10 @@
                     144,
                     232
                 ]
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -5747,6 +6039,10 @@
             [
                 "equation_heal",
                 "HEAL"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -5810,6 +6106,10 @@
             [
                 "equation_heal",
                 "HEAL"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -5885,6 +6185,10 @@
             [
                 "menu_after_combat",
                 null
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -5944,6 +6248,10 @@
             [
                 "unlock_staff",
                 null
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -6011,6 +6319,10 @@
             [
                 "restore",
                 null
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -6082,6 +6394,10 @@
             [
                 "eval_target_restrict_2",
                 "target.wexp['Light'] or target.wexp['Anima'] or target.wexp['Dark'] or target.wexp['Staff']"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -6149,6 +6465,10 @@
             [
                 "target_enemy",
                 null
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -6216,6 +6536,10 @@
             [
                 "target_enemy",
                 null
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -6287,6 +6611,10 @@
             [
                 "repair",
                 null
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -6354,6 +6682,10 @@
             [
                 "target_enemy",
                 null
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -6420,6 +6752,10 @@
             ],
             [
                 "max_range",
+                1
+            ],
+            [
+                "fatigue",
                 1
             ]
         ]
@@ -6495,6 +6831,10 @@
             [
                 "target_tile",
                 null
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -6640,6 +6980,10 @@
             ],
             [
                 "max_range",
+                1
+            ],
+            [
+                "fatigue",
                 1
             ]
         ]
@@ -6819,7 +7163,7 @@
             ],
             [
                 "weight",
-                6
+                4
             ],
             [
                 "uses",
@@ -6855,6 +7199,14 @@
             [
                 "magic",
                 null
+            ],
+            [
+                "battle_cast_anim",
+                "Ofuda"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -6950,6 +7302,14 @@
                 [
                     "Reimu"
                 ]
+            ],
+            [
+                "battle_cast_anim",
+                "Ofuda"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -7008,11 +7368,11 @@
             ],
             [
                 "weight",
-                8
+                6
             ],
             [
                 "crit",
-                10
+                15
             ],
             [
                 "wexp",
@@ -7037,6 +7397,204 @@
                     255,
                     0
                 ]
+            ],
+            [
+                "fatigue",
+                1
+            ]
+        ]
+    },
+    {
+        "nid": "Hikari",
+        "name": "Hikari",
+        "desc": "Grants user \"Divine Fortune\".",
+        "icon_nid": "LightMagic",
+        "icon_index": [
+            0,
+            4
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "damage",
+                5
+            ],
+            [
+                "hit",
+                80
+            ],
+            [
+                "weapon_type",
+                "Light"
+            ],
+            [
+                "weapon_rank",
+                "D"
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "uses",
+                30
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "weight",
+                7
+            ],
+            [
+                "crit",
+                10
+            ],
+            [
+                "wexp",
+                2
+            ],
+            [
+                "value",
+                1200
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                2
+            ],
+            [
+                "map_hit_add_blend",
+                [
+                    255,
+                    255,
+                    0
+                ]
+            ],
+            [
+                "status_on_equip",
+                "Divine_Fortune"
+            ],
+            [
+                "fatigue",
+                1
+            ]
+        ]
+    },
+    {
+        "nid": "Gohei",
+        "name": "Gohei",
+        "desc": "Anti-Monstrous.",
+        "icon_nid": "LightMagic",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "value",
+                2000
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                2
+            ],
+            [
+                "damage",
+                6
+            ],
+            [
+                "hit",
+                85
+            ],
+            [
+                "crit",
+                15
+            ],
+            [
+                "weight",
+                5
+            ],
+            [
+                "uses",
+                20
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Light"
+            ],
+            [
+                "weapon_rank",
+                "C"
+            ],
+            [
+                "map_hit_add_blend",
+                [
+                    255,
+                    255,
+                    0
+                ]
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "effective_damage",
+                {
+                    "effective_tags": [
+                        "Monster"
+                    ],
+                    "effective_multiplier": 2.0,
+                    "effective_bonus_damage": 10,
+                    "show_effectiveness_flash": true,
+                    "weapon_effectiveness_multiplied": true
+                }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -7095,15 +7653,15 @@
             ],
             [
                 "weight",
-                12
+                8
             ],
             [
                 "crit",
-                20
+                30
             ],
             [
                 "value",
-                2500
+                1700
             ],
             [
                 "min_range",
@@ -7120,6 +7678,10 @@
                     255,
                     0
                 ]
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -7127,10 +7689,10 @@
         "nid": "Purge",
         "name": "Purge",
         "desc": "",
-        "icon_nid": "Light",
+        "icon_nid": "LightMagic",
         "icon_index": [
             0,
-            3
+            0
         ],
         "components": [
             [
@@ -7178,7 +7740,7 @@
             ],
             [
                 "crit",
-                5
+                30
             ],
             [
                 "wexp",
@@ -7207,13 +7769,17 @@
                     255,
                     0
                 ]
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
     {
-        "nid": "Gohei",
-        "name": "Gohei",
-        "desc": "",
+        "nid": "Exorcism",
+        "name": "Exorcism",
+        "desc": "Dispelling.",
         "icon_nid": "the2icons",
         "icon_index": [
             9,
@@ -7225,12 +7791,55 @@
                 null
             ],
             [
-                "value",
-                8000
-            ],
-            [
                 "target_enemy",
                 null
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "damage",
+                10
+            ],
+            [
+                "hit",
+                85
+            ],
+            [
+                "weapon_type",
+                "Light"
+            ],
+            [
+                "weapon_rank",
+                "B"
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "uses",
+                22
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "weight",
+                10
+            ],
+            [
+                "crit",
+                25
+            ],
+            [
+                "value",
+                3000
             ],
             [
                 "min_range",
@@ -7241,20 +7850,163 @@
                 2
             ],
             [
+                "map_hit_add_blend",
+                [
+                    255,
+                    255,
+                    0
+                ]
+            ],
+            [
+                "effective_damage",
+                {
+                    "effective_tags": [
+                        "Dark"
+                    ],
+                    "effective_multiplier": 2.0,
+                    "effective_bonus_damage": 10,
+                    "show_effectiveness_flash": true,
+                    "weapon_effectiveness_multiplied": true
+                }
+            ],
+            [
+                "fatigue",
+                1
+            ]
+        ]
+    },
+    {
+        "nid": "Scripture",
+        "name": "Scripture",
+        "desc": "Brave.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            9,
+            3
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
                 "damage",
-                12
+                8
+            ],
+            [
+                "hit",
+                75
+            ],
+            [
+                "weapon_type",
+                "Light"
+            ],
+            [
+                "weapon_rank",
+                "A"
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "uses",
+                30
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "weight",
+                14
+            ],
+            [
+                "crit",
+                20
+            ],
+            [
+                "value",
+                7500
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                2
+            ],
+            [
+                "map_hit_add_blend",
+                [
+                    255,
+                    255,
+                    0
+                ]
+            ],
+            [
+                "brave",
+                null
+            ],
+            [
+                "fatigue",
+                1
+            ]
+        ]
+    },
+    {
+        "nid": "Inquisition",
+        "name": "Inquisition",
+        "desc": "Anti Monstrous. Dispelling.",
+        "icon_nid": "LightMagic",
+        "icon_index": [
+            0,
+            3
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "damage",
+                13
             ],
             [
                 "hit",
                 85
             ],
             [
-                "crit",
-                15
+                "weapon_type",
+                "Light"
             ],
             [
-                "weight",
-                15
+                "weapon_rank",
+                "A"
+            ],
+            [
+                "magic",
+                null
             ],
             [
                 "uses",
@@ -7268,35 +8020,56 @@
                 }
             ],
             [
-                "level_exp",
-                null
+                "weight",
+                13
             ],
             [
-                "weapon_type",
-                "Light"
+                "crit",
+                40
             ],
             [
-                "weapon_rank",
-                "A"
+                "value",
+                5000
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                2
             ],
             [
                 "map_hit_add_blend",
                 [
-                    255,
-                    255,
+                    170,
+                    0,
                     0
                 ]
             ],
             [
-                "magic",
-                null
+                "effective_damage",
+                {
+                    "effective_tags": [
+                        "Dark",
+                        "Monster"
+                    ],
+                    "effective_multiplier": 2.0,
+                    "effective_bonus_damage": 10,
+                    "show_effectiveness_flash": true,
+                    "weapon_effectiveness_multiplied": true
+                }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
     {
         "nid": "Fire",
         "name": "Fire",
-        "desc": "",
+        "desc": "Anti-Mounted.",
         "icon_nid": "the2icons",
         "icon_index": [
             8,
@@ -7373,13 +8146,145 @@
             [
                 "magic",
                 null
+            ],
+            [
+                "battle_cast_anim",
+                "Fire"
+            ],
+            [
+                "effective_damage",
+                {
+                    "effective_tags": [
+                        "Mounted"
+                    ],
+                    "effective_multiplier": 1.0,
+                    "effective_bonus_damage": 5,
+                    "show_effectiveness_flash": true,
+                    "weapon_effectiveness_multiplied": true
+                }
+            ],
+            [
+                "fatigue",
+                1
+            ]
+        ]
+    },
+    {
+        "nid": "Gust",
+        "name": "Gust",
+        "desc": "Anti-Fliers. +2 Spd.",
+        "icon_nid": "AnimaMagic",
+        "icon_index": [
+            0,
+            3
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                2
+            ],
+            [
+                "damage",
+                3
+            ],
+            [
+                "hit",
+                95
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "weight",
+                3
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Anima"
+            ],
+            [
+                "weapon_rank",
+                "E"
+            ],
+            [
+                "map_hit_add_blend",
+                [
+                    0,
+                    255,
+                    127
+                ]
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "value",
+                600
+            ],
+            [
+                "uses",
+                30
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "wexp",
+                2
+            ],
+            [
+                "effective_damage",
+                {
+                    "effective_tags": [
+                        "Flying"
+                    ],
+                    "effective_multiplier": 1.5,
+                    "effective_bonus_damage": 3,
+                    "show_effectiveness_flash": true,
+                    "weapon_effectiveness_multiplied": true
+                }
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "SPD",
+                        2
+                    ]
+                ]
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
     {
         "nid": "Thunder",
         "name": "Thunder",
-        "desc": "",
+        "desc": "Dragonslayer.",
         "icon_nid": "the2icons",
         "icon_index": [
             8,
@@ -7412,7 +8317,7 @@
             ],
             [
                 "crit",
-                5
+                0
             ],
             [
                 "weight",
@@ -7456,13 +8361,112 @@
                     "lose_uses_on_miss": false,
                     "one_loss_per_combat": false
                 }
+            ],
+            [
+                "fatigue",
+                1
+            ]
+        ]
+    },
+    {
+        "nid": "Torch_Tome",
+        "name": "Torch",
+        "desc": "Offers +3 sight in the dark. +10 Hit.",
+        "icon_nid": "AnimaMagic",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "value",
+                780
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                2
+            ],
+            [
+                "damage",
+                7
+            ],
+            [
+                "hit",
+                100
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "weight",
+                4
+            ],
+            [
+                "uses",
+                25
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Anima"
+            ],
+            [
+                "weapon_rank",
+                "D"
+            ],
+            [
+                "map_hit_add_blend",
+                [
+                    224,
+                    96,
+                    0
+                ]
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "battle_cast_anim",
+                "Fire"
+            ],
+            [
+                "status_on_equip",
+                "LanternBonus"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
     {
         "nid": "Elfire",
         "name": "Elfire",
-        "desc": "",
+        "desc": "Anti-Mounted.",
         "icon_nid": "the2icons",
         "icon_index": [
             8,
@@ -7499,7 +8503,7 @@
             ],
             [
                 "weight",
-                10
+                8
             ],
             [
                 "level_exp",
@@ -7543,6 +8547,460 @@
             [
                 "wexp",
                 2
+            ],
+            [
+                "effective_damage",
+                {
+                    "effective_tags": [
+                        "Mounted"
+                    ],
+                    "effective_multiplier": 1.5,
+                    "effective_bonus_damage": 5,
+                    "show_effectiveness_flash": true,
+                    "weapon_effectiveness_multiplied": true
+                }
+            ],
+            [
+                "fatigue",
+                1
+            ]
+        ]
+    },
+    {
+        "nid": "Aircalibur",
+        "name": "Aircalibur",
+        "desc": "Anti-Fliers. +4 Spd.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            8,
+            4
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                2
+            ],
+            [
+                "damage",
+                6
+            ],
+            [
+                "hit",
+                85
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "weight",
+                5
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Anima"
+            ],
+            [
+                "weapon_rank",
+                "C"
+            ],
+            [
+                "map_hit_add_blend",
+                [
+                    0,
+                    255,
+                    127
+                ]
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "value",
+                1500
+            ],
+            [
+                "uses",
+                25
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "wexp",
+                2
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "SPD",
+                        4
+                    ]
+                ]
+            ],
+            [
+                "fatigue",
+                1
+            ]
+        ]
+    },
+    {
+        "nid": "Instant",
+        "name": "Instant",
+        "desc": "",
+        "icon_nid": "AnimaMagic",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                2
+            ],
+            [
+                "max_range",
+                3
+            ],
+            [
+                "damage",
+                8
+            ],
+            [
+                "hit",
+                70
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "weight",
+                11
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Anima"
+            ],
+            [
+                "weapon_rank",
+                "C"
+            ],
+            [
+                "map_hit_add_blend",
+                [
+                    170,
+                    85,
+                    255
+                ]
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "value",
+                1900
+            ],
+            [
+                "uses",
+                20
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "wexp",
+                2
+            ],
+            [
+                "fatigue",
+                1
+            ]
+        ]
+    },
+    {
+        "nid": "Fimbulvetr",
+        "name": "Fimbulvetr",
+        "desc": "Anti-Fliers. +6 Spd.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            8,
+            3
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "damage",
+                13
+            ],
+            [
+                "hit",
+                80
+            ],
+            [
+                "weapon_type",
+                "Anima"
+            ],
+            [
+                "weapon_rank",
+                "A"
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "uses",
+                20
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "weight",
+                12
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "value",
+                6000
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                2
+            ],
+            [
+                "effective_damage",
+                {
+                    "effective_tags": [],
+                    "effective_multiplier": 3,
+                    "effective_bonus_damage": 0,
+                    "show_effectiveness_flash": true,
+                    "weapon_effectiveness_multiplied": true
+                }
+            ],
+            [
+                "fatigue",
+                1
+            ]
+        ]
+    },
+    {
+        "nid": "Arson",
+        "name": "Arson",
+        "desc": "",
+        "icon_nid": "AnimaMagic",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "damage",
+                13
+            ],
+            [
+                "hit",
+                80
+            ],
+            [
+                "weapon_type",
+                "Anima"
+            ],
+            [
+                "weapon_rank",
+                "A"
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "uses",
+                20
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "weight",
+                12
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "value",
+                6000
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                2
+            ],
+            [
+                "fatigue",
+                1
+            ]
+        ]
+    },
+    {
+        "nid": "Fimbulvetr_2",
+        "name": "Fimbulvetr",
+        "desc": "",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            8,
+            3
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "damage",
+                13
+            ],
+            [
+                "hit",
+                80
+            ],
+            [
+                "weapon_type",
+                "Anima"
+            ],
+            [
+                "weapon_rank",
+                "A"
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "uses",
+                20
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "weight",
+                12
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "value",
+                6000
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                2
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -7626,6 +9084,10 @@
             [
                 "siege_weapon",
                 null
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -7715,6 +9177,10 @@
                 [
                     "Mermaid"
                 ]
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -7804,81 +9270,14 @@
                 [
                     "Marisa"
                 ]
-            ]
-        ]
-    },
-    {
-        "nid": "Fimbulvetr",
-        "name": "Fimbulvetr",
-        "desc": "",
-        "icon_nid": "the2icons",
-        "icon_index": [
-            8,
-            3
-        ],
-        "components": [
-            [
-                "weapon",
-                null
             ],
             [
-                "target_enemy",
-                null
+                "battle_cast_anim",
+                "Arrow"
             ],
             [
-                "level_exp",
-                null
-            ],
-            [
-                "damage",
-                13
-            ],
-            [
-                "hit",
-                80
-            ],
-            [
-                "weapon_type",
-                "Anima"
-            ],
-            [
-                "weapon_rank",
-                "A"
-            ],
-            [
-                "magic",
-                null
-            ],
-            [
-                "uses",
-                20
-            ],
-            [
-                "uses_options",
-                {
-                    "lose_uses_on_miss": false,
-                    "one_loss_per_combat": false
-                }
-            ],
-            [
-                "weight",
-                12
-            ],
-            [
-                "crit",
-                0
-            ],
-            [
-                "value",
-                6000
-            ],
-            [
-                "min_range",
+                "fatigue",
                 1
-            ],
-            [
-                "max_range",
-                2
             ]
         ]
     },
@@ -7910,11 +9309,11 @@
             ],
             [
                 "damage",
-                7
+                8
             ],
             [
                 "hit",
-                80
+                75
             ],
             [
                 "crit",
@@ -7962,13 +9361,17 @@
                     "lose_uses_on_miss": false,
                     "one_loss_per_combat": false
                 }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
     {
         "nid": "Luna",
         "name": "Luna",
-        "desc": "Ignores the enemy's resistance.",
+        "desc": "Reaver.",
         "icon_nid": "the2icons",
         "icon_index": [
             7,
@@ -7989,11 +9392,11 @@
             ],
             [
                 "damage",
-                0
+                10
             ],
             [
                 "hit",
-                50
+                65
             ],
             [
                 "weapon_type",
@@ -8009,7 +9412,7 @@
             ],
             [
                 "uses",
-                30
+                15
             ],
             [
                 "uses_options",
@@ -8024,11 +9427,11 @@
             ],
             [
                 "crit",
-                10
+                0
             ],
             [
                 "value",
-                4200
+                1400
             ],
             [
                 "min_range",
@@ -8039,19 +9442,23 @@
                 2
             ],
             [
-                "alternate_resist_formula",
-                "ZERO"
+                "reaver",
+                null
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
     {
-        "nid": "Nosferatu",
-        "name": "Nosferatu",
-        "desc": "Drain.",
-        "icon_nid": "the2icons",
+        "nid": "Slime",
+        "name": "Slime",
+        "desc": "Devil.",
+        "icon_nid": "Darkmagic",
         "icon_index": [
-            7,
-            2
+            0,
+            0
         ],
         "components": [
             [
@@ -8072,19 +9479,19 @@
             ],
             [
                 "damage",
-                10
+                9
             ],
             [
                 "hit",
-                70
+                80
             ],
             [
                 "crit",
-                0
+                40
             ],
             [
                 "weight",
-                14
+                7
             ],
             [
                 "level_exp",
@@ -8112,7 +9519,185 @@
             ],
             [
                 "value",
-                3200
+                1400
+            ],
+            [
+                "uses",
+                30
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "status_on_equip",
+                "Devil_Luck"
+            ],
+            [
+                "fatigue",
+                1
+            ]
+        ]
+    },
+    {
+        "nid": "Yomi",
+        "name": "Yomi",
+        "desc": "",
+        "icon_nid": "Darkmagic",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                2
+            ],
+            [
+                "damage",
+                11
+            ],
+            [
+                "hit",
+                65
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "weight",
+                11
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Dark"
+            ],
+            [
+                "weapon_rank",
+                "C"
+            ],
+            [
+                "map_hit_add_blend",
+                [
+                    72,
+                    0,
+                    65
+                ]
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "value",
+                1200
+            ],
+            [
+                "uses",
+                35
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "fatigue",
+                1
+            ]
+        ]
+    },
+    {
+        "nid": "Dark_Spikes",
+        "name": "Dark Spikes",
+        "desc": "Anti-Mounted.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            7,
+            3
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                2
+            ],
+            [
+                "damage",
+                10
+            ],
+            [
+                "hit",
+                55
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "weight",
+                10
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Dark"
+            ],
+            [
+                "weapon_rank",
+                "C"
+            ],
+            [
+                "map_hit_add_blend",
+                [
+                    72,
+                    0,
+                    65
+                ]
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "value",
+                1800
             ],
             [
                 "uses",
@@ -8126,15 +9711,209 @@
                 }
             ],
             [
-                "lifelink",
-                1.0
+                "effective_damage",
+                {
+                    "effective_tags": [
+                        "Mounted"
+                    ],
+                    "effective_multiplier": 2.0,
+                    "effective_bonus_damage": 10,
+                    "show_effectiveness_flash": true,
+                    "weapon_effectiveness_multiplied": true
+                }
+            ],
+            [
+                "fatigue",
+                1
+            ]
+        ]
+    },
+    {
+        "nid": "Mire",
+        "name": "Mire",
+        "desc": "Poisonous. Attacks in a 2 tile radius blast.",
+        "icon_nid": "Darkmagic",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                1
+            ],
+            [
+                "damage",
+                7
+            ],
+            [
+                "hit",
+                60
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "weight",
+                11
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Dark"
+            ],
+            [
+                "weapon_rank",
+                "B"
+            ],
+            [
+                "map_hit_add_blend",
+                [
+                    72,
+                    0,
+                    65
+                ]
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "value",
+                2200
+            ],
+            [
+                "uses",
+                25
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "status_on_hit",
+                "Poisoned"
+            ],
+            [
+                "blast_aoe",
+                2
+            ],
+            [
+                "fatigue",
+                1
+            ]
+        ]
+    },
+    {
+        "nid": "Darkbolt",
+        "name": "Darkbolt",
+        "desc": "",
+        "icon_nid": "Darkmagic",
+        "icon_index": [
+            0,
+            3
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                3
+            ],
+            [
+                "damage",
+                10
+            ],
+            [
+                "hit",
+                50
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "weight",
+                12
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Dark"
+            ],
+            [
+                "weapon_rank",
+                "B"
+            ],
+            [
+                "map_hit_add_blend",
+                [
+                    72,
+                    0,
+                    65
+                ]
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "value",
+                2400
+            ],
+            [
+                "uses",
+                20
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
     {
         "nid": "Eclipse",
         "name": "Eclipse",
-        "desc": "Halves the enemy's HP.",
+        "desc": "",
         "icon_nid": "the2icons",
         "icon_index": [
             7,
@@ -8151,7 +9930,7 @@
             ],
             [
                 "hit",
-                30
+                50
             ],
             [
                 "weapon_type",
@@ -8178,7 +9957,7 @@
             ],
             [
                 "weight",
-                12
+                16
             ],
             [
                 "wexp",
@@ -8197,16 +9976,20 @@
                 10
             ],
             [
-                "status_on_hit",
-                "Eclipse_Helper"
-            ],
-            [
                 "siege_weapon",
                 null
             ],
             [
                 "no_double",
                 null
+            ],
+            [
+                "damage",
+                13
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -8238,11 +10021,189 @@
             ],
             [
                 "damage",
-                15
+                14
             ],
             [
                 "hit",
-                70
+                65
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "weight",
+                13
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Dark"
+            ],
+            [
+                "weapon_rank",
+                "B"
+            ],
+            [
+                "map_hit_add_blend",
+                [
+                    72,
+                    0,
+                    65
+                ]
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "value",
+                2500
+            ],
+            [
+                "uses",
+                20
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "fatigue",
+                1
+            ]
+        ]
+    },
+    {
+        "nid": "Nosferatu",
+        "name": "Nosferatu",
+        "desc": "Drain.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            7,
+            2
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                2
+            ],
+            [
+                "damage",
+                12
+            ],
+            [
+                "hit",
+                55
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "weight",
+                14
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Dark"
+            ],
+            [
+                "weapon_rank",
+                "A"
+            ],
+            [
+                "map_hit_add_blend",
+                [
+                    72,
+                    0,
+                    65
+                ]
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "value",
+                4000
+            ],
+            [
+                "uses",
+                20
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "lifelink",
+                0.5
+            ],
+            [
+                "fatigue",
+                1
+            ]
+        ]
+    },
+    {
+        "nid": "Sakura_Fan",
+        "name": "Sakura Fan",
+        "desc": "Attacks in a 4 tile radius blast.",
+        "icon_nid": "Darkmagic",
+        "icon_index": [
+            0,
+            4
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                2
+            ],
+            [
+                "damage",
+                13
+            ],
+            [
+                "hit",
+                55
             ],
             [
                 "crit",
@@ -8290,6 +10251,14 @@
                     "lose_uses_on_miss": false,
                     "one_loss_per_combat": false
                 }
+            ],
+            [
+                "blast_aoe",
+                4
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -8372,6 +10341,14 @@
             [
                 "wexp",
                 0
+            ],
+            [
+                "battle_cast_anim",
+                "Fire"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -8450,6 +10427,14 @@
             [
                 "wexp",
                 0
+            ],
+            [
+                "battle_cast_anim",
+                "Flux"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -8749,6 +10734,10 @@
             [
                 "max_range",
                 2
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -8813,6 +10802,10 @@
             [
                 "siege_weapon",
                 null
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -8868,6 +10861,10 @@
             ],
             [
                 "max_range",
+                1
+            ],
+            [
+                "fatigue",
                 1
             ]
         ]
@@ -8925,6 +10922,10 @@
             [
                 "max_range",
                 1
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -8980,6 +10981,10 @@
             ],
             [
                 "max_range",
+                1
+            ],
+            [
+                "fatigue",
                 1
             ]
         ]
@@ -9041,6 +11046,10 @@
             [
                 "max_range",
                 1
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -9101,6 +11110,10 @@
             [
                 "max_range",
                 1
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -9157,6 +11170,10 @@
             [
                 "max_range",
                 1
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -9212,6 +11229,10 @@
             ],
             [
                 "max_range",
+                1
+            ],
+            [
+                "fatigue",
                 1
             ]
         ]
@@ -9277,6 +11298,10 @@
             [
                 "max_range",
                 2
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -9341,6 +11366,10 @@
             [
                 "max_range",
                 2
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     },
@@ -9780,7 +11809,7 @@
     {
         "nid": "Eirins_Drugs",
         "name": "Eirin's Drugs",
-        "desc": "Restores 20 HP.",
+        "desc": "Fully recovers HP.",
         "icon_nid": "the2icons",
         "icon_index": [
             4,
@@ -9793,7 +11822,7 @@
             ],
             [
                 "value",
-                700
+                3000
             ],
             [
                 "target_ally",
@@ -9812,7 +11841,7 @@
             ],
             [
                 "heal",
-                20
+                99
             ],
             [
                 "map_hit_add_blend",
@@ -10666,6 +12695,22 @@
             [
                 "status_on_hold",
                 "Anticrit"
+            ]
+        ]
+    },
+    {
+        "nid": "Ancient_Coin",
+        "name": "Ancient Coin",
+        "desc": "A relic worth a measley 100 Gold.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            5,
+            0
+        ],
+        "components": [
+            [
+                "value",
+                200
             ]
         ]
     },

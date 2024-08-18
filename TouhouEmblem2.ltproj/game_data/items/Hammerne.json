@@ -67,6 +67,10 @@
             [
                 "repair",
                 null
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

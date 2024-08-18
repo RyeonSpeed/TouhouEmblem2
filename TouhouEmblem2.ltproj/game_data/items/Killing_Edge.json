@@ -71,6 +71,10 @@
             [
                 "warning",
                 null
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

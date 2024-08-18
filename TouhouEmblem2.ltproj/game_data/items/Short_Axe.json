@@ -2,7 +2,7 @@
     {
         "nid": "Short_Axe",
         "name": "Short Axe",
-        "desc": "+2 Spd",
+        "desc": "",
         "icon_nid": "throwing",
         "icon_index": [
             0,
@@ -63,6 +63,10 @@
             [
                 "weapon_rank",
                 "E"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

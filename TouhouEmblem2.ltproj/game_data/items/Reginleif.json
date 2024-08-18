@@ -80,6 +80,10 @@
             [
                 "level_exp",
                 null
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

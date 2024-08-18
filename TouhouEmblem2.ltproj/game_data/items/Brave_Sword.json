@@ -71,6 +71,10 @@
             [
                 "brave",
                 null
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

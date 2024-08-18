@@ -67,6 +67,10 @@
             [
                 "eval_target_restrict_2",
                 "target.wexp['Light'] or target.wexp['Anima'] or target.wexp['Dark'] or target.wexp['Staff']"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

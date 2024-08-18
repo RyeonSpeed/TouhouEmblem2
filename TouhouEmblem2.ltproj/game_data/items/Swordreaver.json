@@ -71,6 +71,10 @@
             [
                 "reaver",
                 null
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

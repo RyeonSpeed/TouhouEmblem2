@@ -43,7 +43,7 @@
             ],
             [
                 "weight",
-                6
+                4
             ],
             [
                 "uses",
@@ -83,6 +83,10 @@
             [
                 "battle_cast_anim",
                 "Ofuda"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }
