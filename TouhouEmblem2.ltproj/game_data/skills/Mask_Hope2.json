@@ -1,0 +1,46 @@
+[
+    {
+        "nid": "Mask_Hope2",
+        "name": "1000 Masks: Hope?",
+        "desc": "+3 Dmg, -3 Dmg taken, -15 Avoid/Crit Avoid, Cannot Double. Takes half damage on any strikes after the first hit. Mask will shift at the start of next turn.",
+        "icon_nid": "skillicons4",
+        "icon_index": [
+            0,
+            5
+        ],
+        "components": [
+            [
+                "crit_avoid",
+                -15
+            ],
+            [
+                "avoid",
+                -15
+            ],
+            [
+                "cannot_double",
+                null
+            ],
+            [
+                "damage",
+                3
+            ],
+            [
+                "resist",
+                3
+            ],
+            [
+                "lost_on_upkeep",
+                null
+            ],
+            [
+                "event_on_remove",
+                "Global Mask_Hope2"
+            ],
+            [
+                "resist_follow_up",
+                0.5
+            ]
+        ]
+    }
+]

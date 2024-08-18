@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Intro",
+        "trigger": "level_start",
+        "level_nid": "3",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "game_var;hireable_guys;v('hireable_guys') + ['Miu','Akane']",
+            "trigger_script;Housekeeping",
+            "add_unit;Sunny",
+            "add_unit;Star",
+            "add_unit;Luna",
+            "add_lore;Lockpicking",
+            "base;Backwoods (Night);{e:};Mercenary Camp;True;Global Mercenary_Camp",
+            "enable_fog_of_war;t",
+            "set_fog_of_war;thracia;3;3;3",
+            "prep;1"
+        ]
+    }
+]

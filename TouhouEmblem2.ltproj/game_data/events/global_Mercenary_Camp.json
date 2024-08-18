@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Mercenary_Camp",
+        "trigger": null,
+        "level_nid": null,
+        "condition": "",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "textbox;MercDescription;\"{d:MercenaryHiringList.{v:MercenaryHireChoice_choice_hover}.Description}|Cost: {d:MercenaryHiringList.{v:MercenaryHireChoice_choice_hover}.Cost}\";bottom_right;90;5;;0.5;;;menu_bg_parchment;expression",
+            "table;GoldDisplay;str(game.get_money())+'G';Funds;Alignment=top_right;RowWidth=60;expression",
+            "choice;MercenaryHireChoice;Hire a Merc;[merc.nid for merc in game.get_data('MercenaryHiringList')if merc.nid in v('hireable_guys')];Alignment=top_left;EntryType=type_unit;EventNid=Global ConfirmMercHire;persist;expression;Dimensions=6,1;scroll_bar"
+        ]
+    }
+]

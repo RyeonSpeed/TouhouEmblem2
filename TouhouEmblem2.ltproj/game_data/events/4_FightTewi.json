@@ -1,0 +1,16 @@
+[
+    {
+        "name": "FightTewi",
+        "trigger": "combat_start",
+        "level_nid": "4",
+        "condition": "(unit.nid == \"Tewi_Boss\" and unit2.team == 'player') or (unit2.nid == \"Tewi_Boss\" and unit.team == 'player')",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Tewi;Left",
+            "speak;Tewi;Step right up and see how fortunate you are!",
+            "remove_portrait;Tewi"
+        ]
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "name": "DeathRumia",
+        "trigger": "unit_death",
+        "level_nid": "0",
+        "condition": "unit.nid == \"Rumia_Boss\"",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Rumia_Boss;Left",
+            "speak;Rumia_Boss;Not...again...",
+            "expression;Rumia_Boss;CloseEyes",
+            "remove_portrait;Rumia_Boss",
+            "give_bexp;100;no_banner"
+        ]
+    }
+]

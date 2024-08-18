@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Nature_Power",
+        "name": "Nature Power",
+        "desc": "Increases crit by Mag/2.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            8,
+            1
+        ],
+        "components": [
+            [
+                "eval_crit",
+                "0.5 * unit.get_stat('MAG')"
+            ]
+        ]
+    }
+]

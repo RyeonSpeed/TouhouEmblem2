@@ -1,0 +1,133 @@
+[
+    {
+        "nid": "Acolyte",
+        "name": "Acolyte",
+        "desc": "Users of light magic who usually follow some sort of creed.\nTags: Magic",
+        "tier": 1,
+        "movement_group": "Mages",
+        "promotes_from": null,
+        "turns_into": [
+            "Exorcist"
+        ],
+        "tags": [
+            "Magic"
+        ],
+        "max_level": 20,
+        "bases": {
+            "HP": 15,
+            "STR": 0,
+            "MAG": 4,
+            "SKL": 5,
+            "SPD": 7,
+            "LCK": 0,
+            "DEF": 2,
+            "RES": 7,
+            "CON": 6,
+            "MOV": 5
+        },
+        "growths": {
+            "HP": 65,
+            "STR": 5,
+            "MAG": 35,
+            "SKL": 35,
+            "SPD": 50,
+            "LCK": 45,
+            "DEF": 10,
+            "RES": 40,
+            "CON": 0,
+            "MOV": 0
+        },
+        "growth_bonus": {
+            "HP": 0,
+            "STR": 0,
+            "MAG": 0,
+            "SKL": 0,
+            "SPD": 0,
+            "LCK": 0,
+            "DEF": 0,
+            "RES": 0,
+            "CON": 0,
+            "MOV": 0
+        },
+        "promotion": {
+            "HP": 1,
+            "STR": 0,
+            "MAG": 0,
+            "SKL": 2,
+            "SPD": 2,
+            "LCK": 0,
+            "DEF": 0,
+            "RES": 2,
+            "CON": 1,
+            "MOV": -99
+        },
+        "max_stats": {
+            "HP": 60,
+            "STR": 20,
+            "MAG": 20,
+            "SKL": 20,
+            "SPD": 20,
+            "LCK": 30,
+            "DEF": 20,
+            "RES": 20,
+            "CON": 20,
+            "MOV": 15
+        },
+        "learned_skills": [],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0,
+                251
+            ],
+            "Lance": [
+                false,
+                0,
+                251
+            ],
+            "Axe": [
+                false,
+                0,
+                251
+            ],
+            "Bow": [
+                false,
+                0,
+                251
+            ],
+            "Staff": [
+                false,
+                0,
+                251
+            ],
+            "Light": [
+                true,
+                1,
+                181
+            ],
+            "Anima": [
+                false,
+                0,
+                251
+            ],
+            "Dark": [
+                false,
+                0,
+                251
+            ],
+            "Default": [
+                false,
+                0,
+                251
+            ]
+        },
+        "icon_nid": "Generic_Portrait_Monk",
+        "icon_index": [
+            0,
+            0
+        ],
+        "map_sprite_nid": "Monk (F) Veil {TATUTA_CHANG}-stand",
+        "combat_anim_nid": "Tactician",
+        "fields": []
+    }
+]

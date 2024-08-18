@@ -1,0 +1,68 @@
+[
+    {
+        "nid": "Star",
+        "name": "Star",
+        "desc": "One of the three Fairies of Light. Often lets the other two do all the work.",
+        "variant": "",
+        "level": 3,
+        "klass": "Herald_S",
+        "tags": [],
+        "bases": {
+            "CON": 5,
+            "MOV": 6,
+            "HP": 17,
+            "STR": 1,
+            "MAG": 6,
+            "SKL": 3,
+            "LCK": 11,
+            "SPD": 7,
+            "DEF": 2,
+            "RES": 8
+        },
+        "growths": {
+            "MAG": 40,
+            "SPD": 40,
+            "SKL": 40,
+            "LCK": 35,
+            "DEF": 10,
+            "RES": 55,
+            "STR": 5,
+            "HP": 60,
+            "CON": 0
+        },
+        "stat_cap_modifiers": {},
+        "starting_items": [
+            [
+                "Heal",
+                false
+            ],
+            [
+                "Eirins_Drugs",
+                false
+            ]
+        ],
+        "learned_skills": [
+            [
+                1,
+                "Searchlight"
+            ]
+        ],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0,
+                null
+            ],
+            "Staff": [
+                false,
+                31,
+                null
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "Star",
+        "affinity": "Light",
+        "fields": []
+    }
+]

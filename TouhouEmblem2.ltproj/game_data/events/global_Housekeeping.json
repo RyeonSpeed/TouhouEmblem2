@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Housekeeping",
+        "trigger": "level_start",
+        "level_nid": null,
+        "condition": "False",
+        "commands": [],
+        "only_once": false,
+        "priority": 1,
+        "_source": [
+            "for;baseconvo;v('baseconvolist')",
+            "add_base_convo;{baseconvo}",
+            "endf",
+            "game_var;_base_market;1",
+            "enable_convoy;1",
+            "enable_supports;1",
+            "game_var;_current_turnwheel_uses;3"
+        ]
+    }
+]

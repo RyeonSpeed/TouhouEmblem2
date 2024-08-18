@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Talk_Wriggle",
+        "trigger": "on_talk",
+        "level_nid": "2",
+        "condition": "unit.nid == 'Mystia' and unit2.nid == 'Wriggle'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Mystia;Right",
+            "add_portrait;Wriggle;Left",
+            "speak;Mystia;Wriggle! Wriggle! Stand down!",
+            "speak;Wriggle;What the-Mystia?! Why?",
+            "speak;Mystia;I mean, think about it! Do you really wanna get blasted into a crater again?",
+            "speak;Wriggle;Hm, that's true. But we have the advantage of the night!",
+            "speak;Mystia;They're also, uh...right there.",
+            "speak;Wriggle;...",
+            "speak;Mystia;...",
+            "speak;Wriggle;Yeah, on second thought. Let's go talk it out with them.",
+            "multi_remove_portrait;Wriggle;Mystia",
+            "change_team;Wriggle;player",
+            "remove_talk;Mystia;Wriggle",
+            ""
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "nid": "Phoenix_Aura_1",
+        "name": "Phoenix Aura",
+        "desc": "Inflicts Burning onto enemies within 2 tiles. (Burning: Str/2, takes 5 damage at the end of each turn. Lasts 3 turns.)",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "aura",
+                "Burning"
+            ],
+            [
+                "aura_range",
+                2
+            ],
+            [
+                "aura_target",
+                "enemy"
+            ],
+            [
+                "time",
+                2
+            ],
+            [
+                "show_aura",
+                [
+                    255,
+                    85,
+                    0
+                ]
+            ]
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "House3",
+        "trigger": "Visit",
+        "level_nid": "1",
+        "condition": "region.nid == 'House3'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "transition;Close",
+            "change_background;House",
+            "transition;Open",
+            "add_portrait;Man2;Left;no_block",
+            "add_portrait;{unit};Right",
+            "speak;Man2; H\u2013hey what\u2019s going on? Why are those youkai suddenly going crazy? I\u2019ve even seen some of them wandering around the village before, and they all seemed nice. They aren\u2019t doing this on purpose, right? Here, take this. That straw-hatted pharmacist gave me this to help treat my scrape yesterday. If you get hurt, please use this.",
+            "transition;Close",
+            "change_background",
+            "transition;Open",
+            "give_item;{unit};Eirins_Drugs",
+            "give_bexp;30;no_banner",
+            "show_layer;Closed3",
+            "has_traded;{unit}"
+        ]
+    }
+]

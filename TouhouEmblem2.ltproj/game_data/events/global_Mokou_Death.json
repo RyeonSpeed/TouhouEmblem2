@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Mokou_Death",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "has_skill(unit, 'Immortal_Red_Soul')",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Mokou_NPC;FarLeft",
+            "speak;Mokou_NPC;RISE, IMMORTAL PHOENIX!",
+            "resurrect;{unit}",
+            "add_unit;{unit};{v:UnitPosition}",
+            "end"
+        ]
+    }
+]

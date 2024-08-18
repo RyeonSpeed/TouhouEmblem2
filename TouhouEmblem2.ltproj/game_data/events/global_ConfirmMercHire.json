@@ -1,0 +1,31 @@
+[
+    {
+        "name": "ConfirmMercHire",
+        "trigger": null,
+        "level_nid": null,
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "if;u('{d:MercenaryHiringList.{v:MercenaryHireChoice}.nid}') in game.get_all_units_in_party()",
+            "    add_portrait;Reimu;FarRight",
+            "    speak;Reimu;Idiot. You can't hire the same person twice.",
+            "    finish",
+            "end",
+            "if;game.get_money() < int({d:MercenaryHiringList.{v:MercenaryHireChoice}.Cost})",
+            "        add_portrait;Reimu;FarRight",
+            "        speak;Reimu;Damn, we really are poor.",
+            "        finish",
+            "    end",
+            "choice;Confirmation;You sure?;Yes,No",
+            "if;'{v:Confirmation}' == 'Yes'",
+            "    alert;You hired {d:MercenaryHiringList.{v:MercenaryHireChoice}.Name}.",
+            "    give_money;{eval: -1 * int({d:MercenaryHiringList.{v:MercenaryHireChoice}.Cost})};no_banner",
+            "    load_unit;{v:MercenaryHireChoice};player",
+            "    add_lore;{v:MercenaryHireChoice}",
+            "    game_var;hireable_guys;[x for x in v('hireable_guys') if not x == '{d:MercenaryHiringList.{v:MercenaryHireChoice}.Name}']",
+            "end"
+        ]
+    }
+]

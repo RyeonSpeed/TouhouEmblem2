@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "Mask_Hope",
+        "name": "1000 Masks: Hope",
+        "desc": "All weapons are brave, but cannot double. Mask will shift at the start of next turn.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            2,
+            5
+        ],
+        "components": [
+            [
+                "all_brave",
+                null
+            ],
+            [
+                "cannot_double",
+                null
+            ],
+            [
+                "lost_on_upkeep",
+                null
+            ],
+            [
+                "event_on_remove",
+                "Global Mask_Hope"
+            ]
+        ]
+    }
+]

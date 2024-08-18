@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Mercy",
+        "name": "Mercy",
+        "desc": "",
+        "icon_nid": "skillicons4",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "TrueMiracle",
+                null
+            ]
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Optimism",
+        "name": "Optimism",
+        "desc": "Aunn restores 20% of her health at the beginning of each turn and gets +5 HP from all sources of healing.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            3,
+            4
+        ],
+        "components": [
+            [
+                "empower_heal_received",
+                "5"
+            ],
+            [
+                "regeneration",
+                0.2
+            ]
+        ]
+    }
+]

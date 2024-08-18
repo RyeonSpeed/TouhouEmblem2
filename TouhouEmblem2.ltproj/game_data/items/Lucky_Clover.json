@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Lucky_Clover",
+        "name": "Lucky Clover",
+        "desc": "Negates Crits. Only one accessory can be equipped at a time.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            4,
+            4
+        ],
+        "components": [
+            [
+                "value",
+                1000
+            ],
+            [
+                "status_on_hold",
+                "Anticrit"
+            ],
+            [
+                "equippable_accessory",
+                null
+            ]
+        ]
+    }
+]

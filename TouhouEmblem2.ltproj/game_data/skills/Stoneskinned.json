@@ -1,0 +1,13 @@
+[
+    {
+        "nid": "Stoneskinned",
+        "name": "Stoneskinned",
+        "desc": "Unit gains +4 defense for 1 turn after ending their turn.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            1,
+            6
+        ],
+        "components": []
+    }
+]

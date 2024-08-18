@@ -1,0 +1,16 @@
+[
+    {
+        "name": "FightSekibanki",
+        "trigger": "combat_start",
+        "level_nid": "1",
+        "condition": "(unit.nid == \"Sekibanki_Boss\" and unit2.team == 'player') or (unit2.nid == \"Sekibanki_Boss\" and unit.team == 'player')",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Sekibanki;Left",
+            "speak;Sekibanki;Well, well. Don't get dizzy as my heads run circles!",
+            "remove_portrait;Sekibanki"
+        ]
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "name": "FightWakasagihime",
+        "trigger": "combat_start",
+        "level_nid": "1",
+        "condition": "(unit.nid == \"Wakasagihime_Boss\" and unit2.team == 'player') or (unit2.nid == \"Wakasagihime_Boss\" and unit.team == 'player')",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Wakasagihime;Left",
+            "speak;Wakasagihime;Just because you're above the water doesn't mean you're safe from it!",
+            "remove_portrait;Wakasagihime"
+        ]
+    }
+]
