@@ -69,7 +69,7 @@
     },
     {
         "nid": "RESCUE_AID",
-        "expression": "max(0, 25 - CON) if 'Mounted' or 'Flying' in unit.tags else max(0, CON - 1)"
+        "expression": "max(0, 25 - CON) if 'Mounted' in unit.tags or 'Flying' in unit.tags else max(0, CON - 1)"
     },
     {
         "nid": "RESCUE_WEIGHT",
