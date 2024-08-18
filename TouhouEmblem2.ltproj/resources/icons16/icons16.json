@@ -696,17 +696,5 @@
     {
         "nid": "skillicons4",
         "subicon_dict": {}
-    },
-    {
-        "nid": "LightMagic",
-        "subicon_dict": {}
-    },
-    {
-        "nid": "AnimaMagic",
-        "subicon_dict": {}
-    },
-    {
-        "nid": "Darkmagic",
-        "subicon_dict": {}
     }
 ]

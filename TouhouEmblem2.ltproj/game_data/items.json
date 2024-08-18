@@ -668,6 +668,10 @@
                 "Sword"
             ],
             [
+                "value",
+                1800
+            ],
+            [
                 "weapon_rank",
                 "E"
             ],
@@ -6855,97 +6859,6 @@
             [
                 "magic",
                 null
-            ],
-            [
-                "battle_cast_anim",
-                "Ofuda"
-            ]
-        ]
-    },
-    {
-        "nid": "Gohei",
-        "name": "Gohei",
-        "desc": "",
-        "icon_nid": "LightMagic",
-        "icon_index": [
-            0,
-            1
-        ],
-        "components": [
-            [
-                "weapon",
-                null
-            ],
-            [
-                "value",
-                630
-            ],
-            [
-                "target_enemy",
-                null
-            ],
-            [
-                "min_range",
-                1
-            ],
-            [
-                "max_range",
-                2
-            ],
-            [
-                "damage",
-                4
-            ],
-            [
-                "hit",
-                95
-            ],
-            [
-                "crit",
-                0
-            ],
-            [
-                "weight",
-                6
-            ],
-            [
-                "uses",
-                35
-            ],
-            [
-                "uses_options",
-                {
-                    "lose_uses_on_miss": false,
-                    "one_loss_per_combat": false
-                }
-            ],
-            [
-                "level_exp",
-                null
-            ],
-            [
-                "weapon_type",
-                "Light"
-            ],
-            [
-                "weapon_rank",
-                "E"
-            ],
-            [
-                "map_hit_add_blend",
-                [
-                    255,
-                    255,
-                    0
-                ]
-            ],
-            [
-                "magic",
-                null
-            ],
-            [
-                "battle_cast_anim",
-                "Ofuda"
             ]
         ]
     },
@@ -7041,10 +6954,6 @@
                 [
                     "Reimu"
                 ]
-            ],
-            [
-                "battle_cast_anim",
-                "Ofuda"
             ]
         ]
     },
@@ -7306,8 +7215,8 @@
         ]
     },
     {
-        "nid": "Exorcism",
-        "name": "Exorcism",
+        "nid": "Gohei",
+        "name": "Gohei",
         "desc": "",
         "icon_nid": "the2icons",
         "icon_index": [
@@ -7468,10 +7377,6 @@
             [
                 "magic",
                 null
-            ],
-            [
-                "battle_cast_anim",
-                "Fire"
             ]
         ]
     },
@@ -7903,10 +7808,6 @@
                 [
                     "Marisa"
                 ]
-            ],
-            [
-                "battle_cast_anim",
-                "Arrow"
             ]
         ]
     },
@@ -8475,10 +8376,6 @@
             [
                 "wexp",
                 0
-            ],
-            [
-                "battle_cast_anim",
-                "Fire"
             ]
         ]
     },
@@ -8557,10 +8454,6 @@
             [
                 "wexp",
                 0
-            ],
-            [
-                "battle_cast_anim",
-                "Flux"
             ]
         ]
     },
@@ -11119,10 +11012,6 @@
             ],
             [
                 "pivot_target_restrict",
-                1
-            ],
-            [
-                "pivot",
                 1
             ]
         ]

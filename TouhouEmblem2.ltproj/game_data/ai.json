@@ -94,10 +94,7 @@
             {
                 "action": "None",
                 "target": "None",
-                "target_spec": [
-                    "Name",
-                    "Reimu"
-                ],
+                "target_spec": null,
                 "view_range": 0,
                 "invert_targeting": false,
                 "roam_speed": 100,

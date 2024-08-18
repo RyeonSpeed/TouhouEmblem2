@@ -1197,7 +1197,7 @@
             0
         ],
         "map_sprite_nid": "Dismounted (F) Lance {ArcherBias}-stand",
-        "combat_anim_nid": "Lancer",
+        "combat_anim_nid": "Miko",
         "fields": []
     },
     {
@@ -2383,7 +2383,7 @@
             0
         ],
         "map_sprite_nid": "Mercenary",
-        "combat_anim_nid": "VagrantSword",
+        "combat_anim_nid": "Mercenary",
         "fields": []
     },
     {
@@ -2512,7 +2512,7 @@
             0
         ],
         "map_sprite_nid": "Fighter (F) FE10-Style Axe {Pikmin} 1-stand",
-        "combat_anim_nid": "VagrantAxe",
+        "combat_anim_nid": "Mercenary",
         "fields": []
     },
     {
@@ -2641,7 +2641,7 @@
             0
         ],
         "map_sprite_nid": "Fighter (F) FE10-Style Axe {Pikmin} 1-stand",
-        "combat_anim_nid": "VagrantAxe",
+        "combat_anim_nid": "Mercenary",
         "fields": []
     },
     {
@@ -2901,7 +2901,7 @@
             0
         ],
         "map_sprite_nid": "Hero (F) Blue Shield Sword {Pikmin}-stand",
-        "combat_anim_nid": "HeroFemale",
+        "combat_anim_nid": null,
         "fields": []
     },
     {
@@ -3159,7 +3159,7 @@
             0
         ],
         "map_sprite_nid": "Lancer (F) Brown Hair {SALVAGED}-stand",
-        "combat_anim_nid": "Lancer",
+        "combat_anim_nid": "Soldier",
         "fields": []
     },
     {
@@ -3545,7 +3545,7 @@
             0
         ],
         "map_sprite_nid": "Fighter (F) Axe {Alusq}-stand",
-        "combat_anim_nid": "FighterFemale",
+        "combat_anim_nid": "Fighter",
         "fields": []
     },
     {
@@ -3801,7 +3801,7 @@
             0
         ],
         "map_sprite_nid": "Brigand (F) Axe {Skitty}-stand",
-        "combat_anim_nid": "BrigandFemale",
+        "combat_anim_nid": "Brigand",
         "fields": []
     },
     {
@@ -4325,7 +4325,7 @@
             0
         ],
         "map_sprite_nid": "ArcherFemale2",
-        "combat_anim_nid": "ArcherFemale",
+        "combat_anim_nid": "Archer",
         "fields": []
     },
     {
@@ -4454,7 +4454,7 @@
             0
         ],
         "map_sprite_nid": "ArcherFemale2",
-        "combat_anim_nid": "ArcherFemale",
+        "combat_anim_nid": "Archer",
         "fields": []
     },
     {
@@ -5510,7 +5510,7 @@
             0
         ],
         "map_sprite_nid": "Knight (U) Bow {Agro}-stand",
-        "combat_anim_nid": null,
+        "combat_anim_nid": "Knight",
         "fields": []
     },
     {
@@ -5905,7 +5905,7 @@
             0
         ],
         "map_sprite_nid": "Cavalier (F) Alt Hair Lance {SALVAGED, flasuban}-stand",
-        "combat_anim_nid": "LanceCav",
+        "combat_anim_nid": "Cavalier",
         "fields": []
     },
     {
@@ -6043,7 +6043,7 @@
             0
         ],
         "map_sprite_nid": "Cavalier (F) Alt Hair Sword {SALVAGED, flasuban}-stand",
-        "combat_anim_nid": "SwordCav",
+        "combat_anim_nid": "Cavalier",
         "fields": []
     },
     {
@@ -6724,7 +6724,7 @@
             0
         ],
         "map_sprite_nid": "Gold Knight (M) Axe {Pikmin, Der}-stand",
-        "combat_anim_nid": "Cataphract",
+        "combat_anim_nid": "Paladin",
         "fields": []
     },
     {
@@ -6990,7 +6990,7 @@
             0
         ],
         "map_sprite_nid": "MageFemale",
-        "combat_anim_nid": "MageFemale",
+        "combat_anim_nid": "Mage",
         "fields": []
     },
     {
@@ -8038,7 +8038,7 @@
             0
         ],
         "map_sprite_nid": "Mage (F) Apprentice {BBHood217}-stand",
-        "combat_anim_nid": "Bookworm",
+        "combat_anim_nid": "Shaman",
         "fields": []
     },
     {
@@ -8298,7 +8298,7 @@
             0
         ],
         "map_sprite_nid": "Monk (F) Veil {TATUTA_CHANG}-stand",
-        "combat_anim_nid": "Acolyte",
+        "combat_anim_nid": "Tactician",
         "fields": []
     },
     {
@@ -8429,7 +8429,7 @@
             0
         ],
         "map_sprite_nid": "Monk (F) Veil {TATUTA_CHANG}-stand",
-        "combat_anim_nid": "Acolyte",
+        "combat_anim_nid": "Tactician",
         "fields": []
     },
     {
@@ -8962,7 +8962,7 @@
             0
         ],
         "map_sprite_nid": "Shaman",
-        "combat_anim_nid": "ShamanFemale",
+        "combat_anim_nid": "Shaman",
         "fields": []
     },
     {
@@ -9224,7 +9224,7 @@
             0
         ],
         "map_sprite_nid": "Shaman (F) {IS}-stand",
-        "combat_anim_nid": "ShamanFemale",
+        "combat_anim_nid": "Shaman",
         "fields": []
     },
     {
@@ -10984,7 +10984,7 @@
             0
         ],
         "map_sprite_nid": "Revenant",
-        "combat_anim_nid": "Revenant",
+        "combat_anim_nid": null,
         "fields": []
     },
     {
@@ -11244,7 +11244,7 @@
             0
         ],
         "map_sprite_nid": "Bonewalker (U) Lance {Epicer}-stand",
-        "combat_anim_nid": "Skeleton",
+        "combat_anim_nid": null,
         "fields": []
     },
     {
@@ -11633,7 +11633,7 @@
             0
         ],
         "map_sprite_nid": "Bow_Bonewalker",
-        "combat_anim_nid": "Skeleton",
+        "combat_anim_nid": null,
         "fields": []
     },
     {
@@ -12166,7 +12166,7 @@
             0
         ],
         "map_sprite_nid": "Tarvos (F) (Alfred Kamon's Anim) {Blood}-stand",
-        "combat_anim_nid": "Centaur",
+        "combat_anim_nid": null,
         "fields": []
     },
     {
@@ -12953,7 +12953,7 @@
             0
         ],
         "map_sprite_nid": "Goyle (U) T1 Lance Resize {Pikmin}-stand",
-        "combat_anim_nid": "Demon",
+        "combat_anim_nid": null,
         "fields": []
     },
     {
@@ -13215,7 +13215,7 @@
             0
         ],
         "map_sprite_nid": "Wolf (U) {IS}-stand",
-        "combat_anim_nid": "Lycanthrope",
+        "combat_anim_nid": null,
         "fields": []
     },
     {

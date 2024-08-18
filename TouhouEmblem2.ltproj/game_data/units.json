@@ -601,7 +601,7 @@
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "Aunn",
+        "portrait_nid": "SoldierBlue",
         "affinity": "Light",
         "fields": []
     },
@@ -6205,7 +6205,7 @@
         },
         "starting_items": [
             [
-                "Exorcism",
+                "Gohei",
                 true
             ]
         ],

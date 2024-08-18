@@ -253,7 +253,7 @@
     ],
     [
         "attack_zero_dam",
-        false
+        true
     ],
     [
         "zero_move",

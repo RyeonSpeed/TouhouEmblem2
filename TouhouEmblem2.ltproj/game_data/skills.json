@@ -1179,7 +1179,7 @@
     {
         "nid": "Mercy_Art",
         "name": "Mercy",
-        "desc": "Prevents unit from critting or doubling.",
+        "desc": "Sets enemy to live at 1 HP.",
         "icon_nid": "skillicons4",
         "icon_index": [
             0,

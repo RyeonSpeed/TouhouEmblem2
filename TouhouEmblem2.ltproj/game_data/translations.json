@@ -390,37 +390,5 @@
     {
         "nid": "MANA_desc",
         "text": "The amount of power this unit has to use spells."
-    },
-    {
-        "nid": "Baby Mode_desc",
-        "text": "Easy Modo? Can you do 2+5? Locked in casual mode."
-    },
-    {
-        "nid": "Normal_desc",
-        "text": "For beginners. No enemy autolevels."
-    },
-    {
-        "nid": "Classic Normal_desc",
-        "text": "For people who play FE. +3 autolevels. Permadeath."
-    },
-    {
-        "nid": "Lunatic_desc",
-        "text": "For the experienced. +5 autolevels. Permadeath."
-    },
-    {
-        "nid": "Tezukan't_desc",
-        "text": "For annoying staff. +8 autolevels. Permadeath & Random Growths."
-    },
-    {
-        "nid": "Random_desc",
-        "text": "Growths are completely random."
-    },
-    {
-        "nid": "Fixed_desc",
-        "text": "Units will grow the same way no matter what. "
-    },
-    {
-        "nid": "Dynamic_desc",
-        "text": "Random growths, but units will grow around a stat baseline."
     }
 ]
