@@ -24,41 +24,50 @@
             "add_lore;Rescue",
             "add_lore;Combat_Arts",
             "change_background;HakureiShrine",
-            "add_portrait;Reimu;MidRight",
-            "add_portrait;Marisa;MidLeft",
-            "speak;Marisa;Phew, nothing like a nice cup of tea to start off the day! You've really outdone yourself|this time, Reimu!",
+            "add_portrait;Reimu;Right",
+            "add_portrait;Marisa;Left;ExpressionList=Smile",
+            "speak;Marisa;Phew, nothing like a nice cup of tea\u2028to start off the day! You've really\u2028outdone yourself this time, Reimu!",
+            "expression;Reimu;Smile",
             "speak;Reimu;Well, I had a feeling that it would be a good time to break out the special blend.",
             "speak;Marisa;What's even in this stuff, anyway?",
             "speak;Reimu;Warabi and kogomi.",
-            "speak;Marisa;Are you sure that poverty goddess isn't the owner of this shrine?",
-            "add_portrait;Remilia;FarLeft",
+            "speak;Marisa;Heh. {c:wait;200}Are you sure that poverty goddess isn't the owner of this shrine?",
+            "expression;Reimu;NoSmile",
+            "move_portrait;Marisa;CenterLeft",
+            "add_portrait;Remilia;FarLeft;ExpressionList=Smile",
             "speak;Remilia;Fufu, I heard that there was a party today.",
             "speak;Reimu;Even with you, we still couldn't make a full party...",
             "speak;Remilia;I see you have tea out. Let me take a sip.",
-            "speak;Marisa;Where's that weird maid of yours?",
+            "speak;Marisa;Where's that weird maid of yours, Remi?",
+            "expression;Remilia;NoSmile",
             "speak;Remilia;I can go out by myself, thank you very much.",
             "speak;Reimu;Couldn't have guessed...",
+            "expression;Remilia;Smile",
             "speak;Remilia;This tea is quite excellent, what manner of brew is this?",
             "speak;Reimu;Darjeeling.",
             "speak;Remilia;Really? Japanese darjeeling is quite different.",
-            "add_portrait;Aunn;FarRight",
+            "move_portrait;Reimu;CenterRight",
+            "add_portrait;Aunn;FarRight;ExpressionList=Smile",
             "speak;Aunn;Miss Reimu! Miss Yukari has come to see you!",
             "speak;Marisa;See, Reimu? We did have a full party!",
             "speak;Reimu;Oh, the komainu. I guess she counts.",
+            "expression;Aunn;NoSmile",
             "speak;Aunn;I'm wounded by your words!",
             "remove_portrait;Aunn",
-            "add_portrait;Yukari;FarRight",
+            "add_portrait;Yukari;ScreenPosition=FarRight;ExpressionList=Smile",
             "speak;Yukari;Greetings Reimu. And you too, Marisa.",
+            "expression;Remilia;NoSmile",
+            "expression;Marisa;NoSmile",
             "speak;Remilia;Am I not here too?",
             "speak;Yukari;Ah yes, and the vampire. Where's your maid?",
             "speak;Remilia;I seem to be getting that question a lot today.",
             "speak;Yukari;I believe it might relate to the absence of said maid.",
             "speak;Reimu;What do you need this time?",
-            "speak;Yukari;Oh, nothing much. I simply wished to announce the start of another incident?",
+            "speak;Yukari;Oh, nothing much. I simply wished to announce the start of another incident.",
             "speak;Reimu;Just what I needed on this peaceful morning. Who is it? The Moriyas? Animal realm? The vampire next to me?",
             "speak;Remilia;I'm quite offended you would suspect the person who has been doing nothing but enjoying this fine darjeeling with you.",
             "speak;Yukari;That tea is warabi and kogomi.",
-            "speak;Remilia;I may have a reason to start an incident.",
+            "speak;Remilia;...{c:wait;200}I may have a reason to start an incident.",
             "speak;Reimu;Quiet down. ",
             "speak;Yukari;Remember that one incident two years ago, where you all lost the power to wield spell cards?",
             "speak;Reimu;Oh, that annoying one.",
@@ -66,7 +75,8 @@
             "speak;Reimu;You're right. We should just beat her up again.",
             "speak;Yukari;Ah, but you see, I too am unaware of who orchestrated this incident this time. And thus, it falls upon you to resolve it.",
             "speak;Reimu;It would have fallen upon me either way...",
-            "speak;Marisa;I love a good mystery! ",
+            "expression;Marisa;Smile",
+            "speak;Marisa;I do love a good mystery.",
             "speak;Yukari;Well, I would love to stay and chat, but I sensed a disturbance in the boundary recently, so I will be looking into that. Good luck!",
             "remove_portrait;Yukari",
             "speak;Reimu;Damn gap youkai, always pushing responsibility onto me.",
@@ -76,6 +86,7 @@
             "speak;Reimu;Fair.",
             "add_portrait;Kasen;FarRight",
             "speak;Kasen;Hello, everyone!",
+            "expression;Reimu;Smile",
             "speak;Reimu;Ah, just who I was looking for!",
             "speak;Kasen;What?",
             "speak;Reimu;You're coming along for another grand conquest of Gensokyo!",
@@ -84,19 +95,23 @@
             "speak;Kasen;I don't even know what the incident is...",
             "speak;Marisa;Everyone's lost their spell cards again.",
             "speak;Kasen;*sigh*",
+            "expression;Remilia;Smile",
             "speak;Remilia;I shall tag along too! This sounds like an interesting time.",
+            "expression;Reimu;NoSmile",
             "speak;Reimu;Interesting this, fun that. Do you people ever think about anything but fun?",
             "speak;Marisa;Hey! I care! About having fun.",
             "speak;Kasen;I care...",
             "speak;Remilia;Speaking of which, it seems we have more guests at the torii.",
             "speak;Reimu;Not these guys again...",
             "multi_remove_portrait;Reimu;Marisa;Kasen;Remilia",
-            "add_portrait;Rumia;Right",
+            "add_portrait;Rumia;Right;ExpressionList=Smile",
             "add_portrait;Reimu;CenterLeft",
             "add_portrait;Marisa;FarLeft",
             "speak;Rumia;Hahaha! With everyone's powers gone again, it's time for another attack on Hakurei Shrine!",
             "speak;Reimu;This only exacerbates the power gap between us...",
+            "expression;Rumia;NoSmile",
             "speak;Rumia;Shut it! I'll win today!",
+            "expression;Marisa;Smile",
             "speak;Marisa;In broad daylight?",
             "speak;Rumia;Sh-shut it!"
         ]
@@ -330,7 +345,7 @@
             "speak;Rumia_Boss;Not...again...",
             "expression;Rumia_Boss;CloseEyes",
             "remove_portrait;Rumia_Boss",
-            "give_bexp;50;no_banner"
+            "give_bexp;100;no_banner"
         ]
     },
     {
@@ -2523,10 +2538,10 @@
         ]
     },
     {
-        "name": "DefeatBoss",
+        "name": "SeiranDeath",
         "trigger": "unit_death",
         "level_nid": "3",
-        "condition": "game.check_dead(\"Seiran_Boss\")",
+        "condition": "unit.nid == \"Seiran_Boss\"",
         "commands": [],
         "only_once": false,
         "priority": 20,
@@ -2661,6 +2676,7 @@
             "transition;close",
             "change_background;Camp Tent Interior",
             "transition;open",
+            "music;Comrades",
             "load_unit;Suika",
             "add_portrait;Suika;Left",
             "add_portrait;Reimu;CenterRight",
@@ -2794,6 +2810,7 @@
             "transition;close",
             "change_background;Camp Tent Interior",
             "transition;open",
+            "music;Comrades",
             "load_unit;Rinnosuke",
             "add_portrait;Rinnosuke;Left",
             "add_portrait;Marisa;Right",
@@ -2856,6 +2873,7 @@
             "transition;close",
             "change_background;Camp Tent Interior",
             "transition;open",
+            "music;Comrades",
             "load_unit;Kosuzu",
             "add_portrait;Kosuzu;Left",
             "add_portrait;Reimu;CenterRight",
@@ -3050,7 +3068,7 @@
         "_source": [
             "unlock;{unit}",
             "show_layer;Chest3",
-            "give_item;{unit};Yukkuri_R"
+            "give_item;{unit};Yukkuri_M"
         ]
     },
     {
@@ -3269,64 +3287,6 @@
         "priority": 20,
         "_source": [
             "win_game"
-        ]
-    },
-    {
-        "name": "SeiranFight",
-        "trigger": "combat_start",
-        "level_nid": "3",
-        "condition": "(unit.nid == \"Seiran_Boss\" and unit2.team == 'player') or (unit2.nid == \"Seiran_Boss\" and unit.team == 'player')",
-        "commands": [],
-        "only_once": false,
-        "priority": 20,
-        "_source": [
-            "add_portrait;Seiran;Left",
-            "speak;Seiran;Don't hold it against me. The pay's better than what I make selling dango!",
-            "remove_portrait;Seiran"
-        ]
-    },
-    {
-        "name": "RingoFight",
-        "trigger": "combat_start",
-        "level_nid": "3",
-        "condition": "(unit.nid == \"Ringo_Boss\" and unit2.team == 'player') or (unit2.nid == \"Ringo_Boss\" and unit.team == 'player')",
-        "commands": [],
-        "only_once": false,
-        "priority": 20,
-        "_source": [
-            "add_portrait;Ringo;Left",
-            "speak;Ringo;Finally, something interesting on this job. Don't bore me.",
-            "remove_portrait;Ringo"
-        ]
-    },
-    {
-        "name": "SeiranDefeat",
-        "trigger": "unit_death",
-        "level_nid": "3",
-        "condition": "unit.nid == \"Seiran_Boss\"",
-        "commands": [],
-        "only_once": false,
-        "priority": 20,
-        "_source": [
-            "add_portrait;Seiran;Left",
-            "speak;Seiran;Man...I thought freelance work would give me more dignity...",
-            "remove_portrait;Seiran",
-            "give_bexp;100;no_banner"
-        ]
-    },
-    {
-        "name": "RingoDefeat",
-        "trigger": "unit_death",
-        "level_nid": "3",
-        "condition": "unit.nid == \"Ringo_Boss\"",
-        "commands": [],
-        "only_once": false,
-        "priority": 20,
-        "_source": [
-            "add_portrait;Ringo;Left",
-            "speak;Ringo;You earthlings sure are interesting beings.",
-            "remove_portrait;Ringo",
-            "give_bexp;100;no_banner"
         ]
     }
 ]

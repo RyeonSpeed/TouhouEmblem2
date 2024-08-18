@@ -2536,7 +2536,7 @@
                     ],
                     [
                         "Yukkuri_R",
-                        false
+                        true
                     ]
                 ],
                 "starting_skills": [
@@ -3335,10 +3335,6 @@
                 "starting_items": [
                     [
                         "Ofuda",
-                        false
-                    ],
-                    [
-                        "Life_Gem",
                         false
                     ]
                 ],
@@ -4375,10 +4371,6 @@
                     [
                         "Fire",
                         false
-                    ],
-                    [
-                        "Life_Gem",
-                        false
                     ]
                 ],
                 "starting_skills": [],
@@ -4691,10 +4683,6 @@
                     [
                         "Iron_Axe",
                         false
-                    ],
-                    [
-                        "Life_Gem",
-                        false
                     ]
                 ],
                 "starting_skills": [],
@@ -4814,10 +4802,6 @@
                 "starting_items": [
                     [
                         "Steel_Bow",
-                        false
-                    ],
-                    [
-                        "Life_Gem",
                         false
                     ]
                 ],
@@ -5110,10 +5094,6 @@
                 "starting_items": [
                     [
                         "Iron_Lance",
-                        false
-                    ],
-                    [
-                        "Life_Gem",
                         false
                     ]
                 ],
