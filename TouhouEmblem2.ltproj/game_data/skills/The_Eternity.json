@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "The_Eternity",
+        "name": "The Eternity",
+        "desc": "Kaguya takes half damage from all sources of damage and is immune to all negative status effects.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            4,
+            4
+        ],
+        "components": [
+            [
+                "resist_multiplier",
+                0.5
+            ],
+            [
+                "immune_status",
+                null
+            ]
+        ]
+    }
+]

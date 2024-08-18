@@ -1,6 +1,6 @@
 [
     {
-        "nid": "Mokou_NPC",
+        "nid": "Mokou",
         "name": "Mokou ",
         "desc": "A scion of the Fujiwara clan, Mokou is cursed with immortality and rises like the phoenix whenever she dies. Rivals with Kaguya.",
         "variant": null,
@@ -8,13 +8,13 @@
         "klass": "Mage_M",
         "tags": [],
         "bases": {
-            "HP": 45,
+            "HP": 36,
             "DEF": 0,
             "RES": 0,
             "CON": 5,
             "MOV": 5,
             "STR": 8,
-            "MAG": 14,
+            "MAG": 9,
             "SPD": 12,
             "SKL": 4,
             "LCK": 5
@@ -25,12 +25,16 @@
             "RES": 5,
             "STR": 50,
             "MAG": 50,
-            "SPD": 45,
+            "SPD": 50,
             "SKL": 25,
             "LCK": 40
         },
         "stat_cap_modifiers": {},
         "starting_items": [
+            [
+                "Gust",
+                false
+            ],
             [
                 "Elfire",
                 false
@@ -52,10 +56,6 @@
             [
                 1,
                 "Phoenix_Crash"
-            ],
-            [
-                1,
-                "Eye_of_Bullshit"
             ]
         ],
         "unit_notes": [],
@@ -68,7 +68,7 @@
         },
         "alternate_classes": [],
         "portrait_nid": "Mokou",
-        "affinity": "None",
+        "affinity": "Fire",
         "fields": []
     }
 ]

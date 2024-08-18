@@ -1,0 +1,78 @@
+[
+    {
+        "nid": "Kaguya",
+        "name": "Kaguya",
+        "desc": "A princess from the Lunarian Kingdom on the Moon, Kaguya is a fairly curious person and shares a rivalry with Mokou.",
+        "variant": null,
+        "level": 7,
+        "klass": "Mage",
+        "tags": [],
+        "bases": {
+            "HP": 23,
+            "DEF": 11,
+            "RES": 6,
+            "CON": 8,
+            "MOV": 3,
+            "STR": 1,
+            "MAG": 9,
+            "SPD": 6,
+            "SKL": 7,
+            "LCK": 0
+        },
+        "growths": {
+            "HP": 55,
+            "DEF": 65,
+            "RES": 30,
+            "STR": 10,
+            "MAG": 70,
+            "SPD": 15,
+            "SKL": 40,
+            "LCK": 45,
+            "CON": 0,
+            "MOV": 0
+        },
+        "stat_cap_modifiers": {
+            "DEF": 0
+        },
+        "starting_items": [
+            [
+                "Instant",
+                false
+            ],
+            [
+                "Thunder",
+                false
+            ],
+            [
+                "Eirins_Drugs",
+                false
+            ],
+            [
+                "Maple_Shield",
+                false
+            ]
+        ],
+        "learned_skills": [
+            [
+                1,
+                "The_Eternity"
+            ],
+            [
+                1,
+                "In_An_Instant"
+            ]
+        ],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Anima": [
+                false,
+                71,
+                null
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "Kaguya",
+        "affinity": "Dark",
+        "fields": []
+    }
+]

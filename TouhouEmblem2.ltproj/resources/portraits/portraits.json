@@ -6,7 +6,7 @@
             32
         ],
         "smiling_offset": [
-            16,
+            32,
             48
         ],
         "info_offset": 0
@@ -464,6 +464,30 @@
         "smiling_offset": [
             24,
             56
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Kaguya",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Eirin",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
         ],
         "info_offset": 0
     }

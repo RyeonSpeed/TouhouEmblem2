@@ -1,0 +1,14 @@
+[
+    {
+        "name": "WarpA",
+        "trigger": "Warp!",
+        "level_nid": "5",
+        "condition": "region.nid == 'WarpA'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "move_unit;{unit};12,18;warp"
+        ]
+    }
+]

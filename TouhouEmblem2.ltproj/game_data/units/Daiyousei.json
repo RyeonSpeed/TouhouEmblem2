@@ -2,7 +2,7 @@
     {
         "nid": "Daiyousei",
         "name": "Daiyousei",
-        "desc": "A fairy friend of Cirno\u2019s. Playful and mischievous, but a bit shyer than other fairies.",
+        "desc": "A fairy friend of Cirno's. Playful and mischievous, but a bit \nshyer than other fairies.",
         "variant": "Female",
         "level": 3,
         "klass": "Archer",

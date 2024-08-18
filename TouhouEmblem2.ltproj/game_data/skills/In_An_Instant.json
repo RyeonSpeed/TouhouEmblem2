@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "In_An_Instant",
+        "name": "In An Instant",
+        "desc": "Kaguya can teleport to any ally on the map.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            0,
+            3
+        ],
+        "components": [
+            [
+                "witch_warp",
+                null
+            ],
+            [
+                "build_charge_start_charged",
+                8
+            ],
+            [
+                "combat_charge_increase",
+                1
+            ]
+        ]
+    }
+]

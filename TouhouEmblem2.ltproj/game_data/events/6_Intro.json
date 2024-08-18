@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Intro",
+        "trigger": "level_start",
+        "level_nid": "6",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "chapter_title",
+            "game_var;hireable_guys;v('hireable_guys') ",
+            "trigger_script;Housekeeping",
+            "base;Backwoods (Night);{e:};Mercenary Camp;True;Global Mercenary_Camp",
+            "enable_fog_of_war;t",
+            "set_fog_of_war;gba;6;6;6",
+            "prep;1",
+            "change_team;Mokou;player",
+            "change_team;Kaguya;player"
+        ]
+    }
+]

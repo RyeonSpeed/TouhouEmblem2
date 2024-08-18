@@ -152,6 +152,54 @@
                 "generic": true
             },
             {
+                "nid": "163",
+                "variant": null,
+                "level": 4,
+                "klass": "Mage",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Gust",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    13,
+                    7
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "164",
+                "variant": null,
+                "level": 4,
+                "klass": "Mage",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Fire",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    18
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
                 "nid": "103",
                 "variant": null,
                 "level": 4,
@@ -171,6 +219,30 @@
                 "starting_position": [
                     14,
                     31
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "165",
+                "variant": null,
+                "level": 4,
+                "klass": "Fighter",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Hand_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    15,
+                    20
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1240,6 +1312,54 @@
                 "generic": true
             },
             {
+                "nid": "161",
+                "variant": null,
+                "level": 4,
+                "klass": "Occultist",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Flux",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    13,
+                    23
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "162",
+                "variant": null,
+                "level": 4,
+                "klass": "Occultist",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Flux",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    13,
+                    26
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
                 "nid": "120",
                 "variant": null,
                 "level": 4,
@@ -1824,6 +1944,40 @@
                 "time_left": null,
                 "only_once": false,
                 "interrupt_move": false
+            },
+            {
+                "nid": "WarpA",
+                "region_type": "event",
+                "position": [
+                    14,
+                    24
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "Warp!",
+                "condition": "unit.team == 'player'",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "WarpB",
+                "region_type": "event",
+                "position": [
+                    12,
+                    18
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "Warp!",
+                "condition": "unit.team == 'player'",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
             }
         ],
         "unit_groups": [
@@ -1853,11 +2007,6 @@
                 "positions": {}
             }
         ],
-        "ai_groups": [
-            {
-                "nid": "",
-                "trigger_threshold": 1
-            }
-        ]
+        "ai_groups": []
     }
 ]

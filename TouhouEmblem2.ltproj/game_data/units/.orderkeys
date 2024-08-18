@@ -26,6 +26,8 @@
     "Tewi_Boss",
     "Reisen",
     "Reisen_Boss",
+    "Mokou",
+    "Kaguya",
     "Miki",
     "Konami",
     "Kabin",
@@ -43,5 +45,6 @@
     "Kagerou_Boss",
     "Wakasagihime_Boss",
     "Keine_NPC",
-    "Mokou_NPC"
+    "Mokou_NPC",
+    "Eirin_NPC"
 ]

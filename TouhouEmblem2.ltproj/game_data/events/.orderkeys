@@ -144,5 +144,9 @@
     "3_FightSeiran",
     "3_FightRingo",
     "3_DefeatSeiran",
-    "3_DefeatRingo"
+    "3_DefeatRingo",
+    "5_WarpA",
+    "5_WarpB",
+    "6_Outro",
+    "6_Intro"
 ]
