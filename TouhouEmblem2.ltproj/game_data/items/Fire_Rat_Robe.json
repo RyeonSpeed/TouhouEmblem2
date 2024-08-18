@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Fire_Rat_Robe",
+        "name": "Fire-Rat Robe",
+        "desc": "+15% Def/Res Growths, -15% Spd/Str Growths. Grants Thick Fur. Only one accessory can be equipped at a time.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            4,
+            10
+        ],
+        "components": [
+            [
+                "multi_status_on_hold",
+                [
+                    "growths_robe",
+                    "Thick_Fur",
+                    "Thick_Fur_Part2"
+                ]
+            ],
+            [
+                "equippable_accessory",
+                null
+            ]
+        ]
+    }
+]

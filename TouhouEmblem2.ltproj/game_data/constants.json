@@ -117,7 +117,7 @@
     ],
     [
         "aura_los",
-        false
+        true
     ],
     [
         "fog_los",

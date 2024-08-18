@@ -27,19 +27,6 @@
         "tags": [],
         "units": [
             {
-                "nid": "Bone",
-                "team": "enemy",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    2,
-                    5
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
                 "nid": "Reimu",
                 "team": "player",
                 "ai": "None",

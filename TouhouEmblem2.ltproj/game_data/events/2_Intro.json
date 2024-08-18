@@ -14,7 +14,7 @@
             "trigger_script;Housekeeping",
             "base;Backwoods (Night);{e:};Mercenary Camp;True;Global Mercenary_Camp",
             "enable_fog_of_war;t",
-            "set_fog_of_war;thracia;5;5;5",
+            "set_fog_of_war;gba;5;5;5",
             "add_talk;Marisa;Mystia",
             "add_talk;Reimu;Mystia",
             "add_talk;Mystia;Wriggle",

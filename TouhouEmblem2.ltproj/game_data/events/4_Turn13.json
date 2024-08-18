@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Turn13",
+        "trigger": "turn_change",
+        "level_nid": "4",
+        "condition": "game.turncount == 13",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_group;WestRein;WestRein;fade;closest",
+            "move_cursor;0,7",
+            "add_group;EastRein;EastRein;fade;closest",
+            "move_cursor;30,14"
+        ]
+    }
+]

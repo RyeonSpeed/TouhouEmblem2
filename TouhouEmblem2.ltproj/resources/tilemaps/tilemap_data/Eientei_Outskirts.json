@@ -8331,6 +8331,70 @@
                         ]
                     ]
                 }
+            },
+            {
+                "nid": "Wall1",
+                "visible": false,
+                "foreground": false,
+                "terrain_grid": {
+                    "6,17": "6",
+                    "6,18": "6",
+                    "7,18": "6",
+                    "7,17": "6",
+                    "8,17": "6",
+                    "8,18": "6"
+                },
+                "sprite_grid": {
+                    "6,17": [
+                        "Thracia Fort",
+                        [
+                            7,
+                            15
+                        ]
+                    ],
+                    "6,18": [
+                        "Thracia Fort",
+                        [
+                            7,
+                            15
+                        ]
+                    ],
+                    "7,17": [
+                        "Thracia Fort",
+                        [
+                            7,
+                            14
+                        ]
+                    ],
+                    "7,18": [
+                        "Thracia Fort",
+                        [
+                            7,
+                            14
+                        ]
+                    ],
+                    "8,18": [
+                        "Thracia Fort",
+                        [
+                            7,
+                            14
+                        ]
+                    ],
+                    "8,17": [
+                        "Thracia Fort",
+                        [
+                            7,
+                            14
+                        ]
+                    ],
+                    "9,17": [
+                        "Thracia Fort",
+                        [
+                            17,
+                            19
+                        ]
+                    ]
+                }
             }
         ],
         "tilesets": [

@@ -1,12 +1,12 @@
 [
     {
-        "nid": "Killer_Bow",
-        "name": "Killer Bow",
-        "desc": "Anti-Fliers.",
-        "icon_nid": "the2icons",
+        "nid": "Illusion_Bow",
+        "name": "Illusion Bow",
+        "desc": "Magic. Anti-Fliers.",
+        "icon_nid": "bows",
         "icon_index": [
-            3,
-            3
+            0,
+            5
         ],
         "components": [
             [
@@ -23,7 +23,7 @@
             ],
             [
                 "damage",
-                9
+                10
             ],
             [
                 "hit",
@@ -39,7 +39,7 @@
             ],
             [
                 "uses",
-                20
+                15
             ],
             [
                 "uses_options",
@@ -50,11 +50,11 @@
             ],
             [
                 "weight",
-                7
+                5
             ],
             [
                 "crit",
-                30
+                0
             ],
             [
                 "warning",
@@ -62,7 +62,7 @@
             ],
             [
                 "value",
-                1400
+                2000
             ],
             [
                 "min_range",
@@ -87,6 +87,10 @@
             [
                 "fatigue",
                 1
+            ],
+            [
+                "magic",
+                null
             ]
         ]
     }

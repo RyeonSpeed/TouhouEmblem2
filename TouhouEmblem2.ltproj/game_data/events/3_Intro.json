@@ -16,7 +16,7 @@
             "add_lore;Lockpicking",
             "base;Backwoods (Night);{e:};Mercenary Camp;True;Global Mercenary_Camp",
             "enable_fog_of_war;t",
-            "set_fog_of_war;thracia;3;3;3",
+            "set_fog_of_war;gba;3;3;3",
             "prep;1"
         ]
     }

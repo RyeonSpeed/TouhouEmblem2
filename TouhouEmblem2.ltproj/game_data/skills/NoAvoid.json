@@ -20,6 +20,10 @@
             [
                 "crit_avoid",
                 1000
+            ],
+            [
+                "defense_speed",
+                1000
             ]
         ]
     }

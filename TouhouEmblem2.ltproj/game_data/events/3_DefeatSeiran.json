@@ -1,6 +1,6 @@
 [
     {
-        "name": "SeiranDeath",
+        "name": "DefeatSeiran",
         "trigger": "unit_death",
         "level_nid": "3",
         "condition": "unit.nid == \"Seiran_Boss\"",
@@ -8,7 +8,9 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "win_game"
+            "add_portrait;Seiran;Left",
+            "speak;Seiran;I'm handing in my resignation after this...",
+            "remove_portrait;Seiran"
         ]
     }
 ]

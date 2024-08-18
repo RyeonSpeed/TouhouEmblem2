@@ -348,7 +348,7 @@
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Short_Axe",
+                        "Hand_Axe",
                         false
                     ]
                 ],
@@ -372,7 +372,7 @@
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Short_Axe",
+                        "Hand_Axe",
                         false
                     ]
                 ],
@@ -612,7 +612,7 @@
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Steel_Bow",
+                        "Iron_Bow",
                         false
                     ]
                 ],
@@ -832,7 +832,7 @@
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Steel_Lance",
+                        "Slim_Lance",
                         false
                     ]
                 ],
@@ -856,7 +856,7 @@
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Steel_Lance",
+                        "Iron_Lance",
                         false
                     ]
                 ],
@@ -1072,7 +1072,7 @@
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Steel_Axe",
+                        "Iron_Axe",
                         false
                     ]
                 ],
@@ -1120,7 +1120,7 @@
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Steel_Sword",
+                        "Slim_Sword",
                         false
                     ]
                 ],
@@ -1303,6 +1303,306 @@
                 ],
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "Wall1",
+                "variant": null,
+                "level": 1,
+                "klass": "Wall25",
+                "faction": "Youkai",
+                "starting_items": [],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    7,
+                    18
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "152",
+                "variant": null,
+                "level": 4,
+                "klass": "Vagrant_A",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Iron_Axe",
+                        false
+                    ],
+                    [
+                        "Hand_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "155",
+                "variant": null,
+                "level": 4,
+                "klass": "Mage",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Gust",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "156",
+                "variant": null,
+                "level": 4,
+                "klass": "Mage",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Fire",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "157",
+                "variant": null,
+                "level": 4,
+                "klass": "Archer",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Steel_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "153",
+                "variant": null,
+                "level": 4,
+                "klass": "Vagrant_A",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Iron_Axe",
+                        false
+                    ],
+                    [
+                        "Hand_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "154",
+                "variant": null,
+                "level": 4,
+                "klass": "Fighter",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Steel_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "158",
+                "variant": null,
+                "level": 4,
+                "klass": "Thief",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Poison_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Thief",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "159",
+                "variant": null,
+                "level": 4,
+                "klass": "Thief",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Poison_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Thief",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "160",
+                "variant": null,
+                "level": 4,
+                "klass": "Fencer",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Flamberge",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "161",
+                "variant": null,
+                "level": 4,
+                "klass": "Vagrant_S",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "162",
+                "variant": null,
+                "level": 4,
+                "klass": "Fencer",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Armorslayer",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "163",
+                "variant": null,
+                "level": 4,
+                "klass": "Occultist",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Flux",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "164",
+                "variant": null,
+                "level": 4,
+                "klass": "Occultist",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Flux",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
             }
         ],
         "regions": [
@@ -1745,26 +2045,97 @@
                 "positions": {}
             },
             {
-                "nid": "RevenantRein",
-                "units": [],
-                "positions": {}
-            },
-            {
-                "nid": "PlayerTeam",
+                "nid": "BreakoutRein1",
                 "units": [
-                    "Reimu"
+                    "152",
+                    "153",
+                    "154",
+                    "155",
+                    "156",
+                    "157"
                 ],
-                "positions": {}
+                "positions": {
+                    "154": [
+                        15,
+                        30
+                    ],
+                    "153": [
+                        16,
+                        30
+                    ],
+                    "152": [
+                        14,
+                        30
+                    ],
+                    "155": [
+                        14,
+                        31
+                    ],
+                    "156": [
+                        16,
+                        31
+                    ],
+                    "157": [
+                        15,
+                        31
+                    ]
+                }
             },
             {
-                "nid": "EnemyArmy",
-                "units": [],
-                "positions": {}
+                "nid": "Turn5Thief",
+                "units": [
+                    "158",
+                    "159"
+                ],
+                "positions": {
+                    "158": [
+                        30,
+                        1
+                    ],
+                    "159": [
+                        30,
+                        2
+                    ]
+                }
             },
             {
-                "nid": "LGang",
-                "units": [],
-                "positions": {}
+                "nid": "WestRein",
+                "units": [
+                    "161",
+                    "162",
+                    "160"
+                ],
+                "positions": {
+                    "161": [
+                        0,
+                        8
+                    ],
+                    "162": [
+                        0,
+                        7
+                    ],
+                    "160": [
+                        0,
+                        9
+                    ]
+                }
+            },
+            {
+                "nid": "EastRein",
+                "units": [
+                    "164",
+                    "163"
+                ],
+                "positions": {
+                    "164": [
+                        30,
+                        14
+                    ],
+                    "163": [
+                        30,
+                        15
+                    ]
+                }
             }
         ],
         "ai_groups": []

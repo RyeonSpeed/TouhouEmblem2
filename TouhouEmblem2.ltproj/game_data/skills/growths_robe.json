@@ -1,6 +1,6 @@
 [
     {
-        "nid": "growths_stone",
+        "nid": "growths_robe",
         "name": "growths stone",
         "desc": "",
         "icon_nid": null,
@@ -18,11 +18,11 @@
                     ],
                     [
                         "RES",
-                        -15
+                        15
                     ],
                     [
-                        "MAG",
-                        15
+                        "SPD",
+                        -15
                     ],
                     [
                         "STR",

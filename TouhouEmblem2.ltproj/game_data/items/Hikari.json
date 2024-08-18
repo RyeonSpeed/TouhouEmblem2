@@ -2,7 +2,7 @@
     {
         "nid": "Hikari",
         "name": "Hikari",
-        "desc": "Grants user \"Divine Fortune\".",
+        "desc": "After kill, Lck% chance to obtain an Ancient Coin.",
         "icon_nid": "LightMagic",
         "icon_index": [
             0,

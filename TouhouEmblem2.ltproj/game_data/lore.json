@@ -126,6 +126,13 @@
         "text": "Mercenaries can be hired in the base for a certain price. More expensive mercenaries generally have better stats and potential than the cheaper ones, but cheaper mercs may have some uses unseen."
     },
     {
+        "nid": "Breakable_Tiles",
+        "name": "Breakable Tiles",
+        "title": "Breakable Tiles",
+        "category": "Guide",
+        "text": "You might notice some cracks in a wall or a snag along a river. These are breakable tiles, and attacking and defeating them might open up new routes on the map."
+    },
+    {
         "nid": "Reimu",
         "name": "Reimu",
         "title": "Reimu",

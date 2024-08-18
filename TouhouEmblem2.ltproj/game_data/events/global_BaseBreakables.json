@@ -1,0 +1,35 @@
+[
+    {
+        "name": "BaseBreakables",
+        "trigger": "on_base_convo",
+        "level_nid": null,
+        "condition": "unit == 'Breakables'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "transition;close",
+            "change_background;Camp Tent Interior",
+            "transition;open",
+            "add_portrait;Marisa;Left",
+            "add_portrait;Reimu;CenterRight",
+            "add_portrait;Kasen;FarRight",
+            "speak;Marisa;Hey y'all!",
+            "speak;Reimu;What's up, Marisa?",
+            "speak;Marisa;Been thinkin', haven't we been taking awhile on the battlefield?",
+            "speak;Reimu;What do you mean?",
+            "speak;Marisa;I mean, there's gotta be an easier way to get through the battlefield! A shortcut!",
+            "speak;Kasen;Well, there might be some weak spots in some places we could break down to get access faster.",
+            "speak;Marisa;So...we just need to hit it until it breaks?",
+            "speak;Reimu;I like the idea of that.",
+            "multi_remove_portrait;Reimu;Kasen;Marisa",
+            "give_bexp;25;no_banner",
+            "transition;close",
+            "change_background",
+            "remove_base_convo;Breakables",
+            "game_var;baseconvolist;[x for x in v('baseconvolist') if not x == 'Breakables']",
+            "add_lore;Breakable_Tiles",
+            "transition;open"
+        ]
+    }
+]

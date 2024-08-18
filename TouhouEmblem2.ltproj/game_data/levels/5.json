@@ -31,48 +31,73 @@
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
-                "ai_group": null,
+                "ai_group": "",
                 "starting_position": [
-                    4,
-                    17
+                    2,
+                    33
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
-                "nid": "Daiyousei",
+                "nid": "Marisa",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
-                "ai_group": null,
+                "ai_group": "",
                 "starting_position": [
-                    5,
-                    18
+                    22,
+                    32
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
-                "nid": "Seiran",
+                "nid": "Wall1",
+                "variant": null,
+                "level": 4,
+                "klass": "Wall25",
+                "faction": "Eientei",
+                "starting_items": [],
+                "starting_skills": [],
                 "team": "enemy",
-                "ai": "JoshuaDefend",
+                "ai": "None",
                 "roam_ai": null,
-                "ai_group": null,
+                "ai_group": "",
                 "starting_position": [
-                    9,
-                    7
+                    17,
+                    10
                 ],
                 "starting_traveler": null,
-                "generic": false
+                "generic": true
             },
             {
-                "nid": "Saar",
+                "nid": "Wall2",
+                "variant": null,
+                "level": 4,
+                "klass": "Wall25",
+                "faction": "Eientei",
+                "starting_items": [],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    8,
+                    9
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Reisen_Boss",
                 "team": "enemy",
                 "ai": "Guard",
                 "roam_ai": null,
-                "ai_group": null,
+                "ai_group": "",
                 "starting_position": [
-                    13,
+                    12,
                     1
                 ],
                 "starting_traveler": null,
@@ -81,23 +106,23 @@
             {
                 "nid": "101",
                 "variant": null,
-                "level": 3,
-                "klass": "Lancer",
-                "faction": "Youkai",
+                "level": 4,
+                "klass": "Mage",
+                "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Iron_Lance",
-                        false
+                        "Torch_Tome",
+                        true
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Attack",
                 "roam_ai": null,
-                "ai_group": null,
+                "ai_group": "",
                 "starting_position": [
-                    0,
-                    10
+                    19,
+                    29
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -105,23 +130,23 @@
             {
                 "nid": "102",
                 "variant": null,
-                "level": 5,
-                "klass": "Archer",
-                "faction": "Youkai",
+                "level": 4,
+                "klass": "Mage",
+                "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Iron_Bow",
+                        "Gust",
                         false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Attack",
                 "roam_ai": null,
-                "ai_group": null,
+                "ai_group": "",
                 "starting_position": [
-                    1,
-                    7
+                    21,
+                    28
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -131,7 +156,7 @@
                 "variant": null,
                 "level": 4,
                 "klass": "Fighter",
-                "faction": "Youkai",
+                "faction": "Eientei",
                 "starting_items": [
                     [
                         "Iron_Axe",
@@ -142,20 +167,496 @@
                 "team": "enemy",
                 "ai": "Attack",
                 "roam_ai": null,
-                "ai_group": null,
+                "ai_group": "",
                 "starting_position": [
-                    0,
-                    0
+                    14,
+                    31
                 ],
                 "starting_traveler": null,
                 "generic": true
             },
             {
-                "nid": "104",
+                "nid": "132",
+                "variant": null,
+                "level": 4,
+                "klass": "Fighter",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Iron_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    20,
+                    25
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "133",
+                "variant": null,
+                "level": 4,
+                "klass": "Lancer",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Slim_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    22,
+                    22
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "134",
+                "variant": null,
+                "level": 4,
+                "klass": "Lancer",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Iron_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    23,
+                    22
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "135",
                 "variant": null,
                 "level": 6,
+                "klass": "Guard",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Hand_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    17,
+                    25
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "136",
+                "variant": null,
+                "level": 4,
+                "klass": "Acolyte",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Ofuda",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    23,
+                    26
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "137",
+                "variant": null,
+                "level": 4,
+                "klass": "Brigand",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Iron_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    20,
+                    18
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "138",
+                "variant": null,
+                "level": 4,
+                "klass": "Pirate",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Iron_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    18,
+                    18
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "139",
+                "variant": null,
+                "level": 4,
                 "klass": "Vagrant_S",
-                "faction": "Youkai",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Flamberge",
+                        false
+                    ],
+                    [
+                        "Life_Gem",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    19,
+                    17
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "140",
+                "variant": null,
+                "level": 4,
+                "klass": "Acolyte",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Tarot",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    13,
+                    14
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "141",
+                "variant": null,
+                "level": 6,
+                "klass": "Pirate",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Short_Axe",
+                        false
+                    ],
+                    [
+                        "Maple_Shield",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    19,
+                    8
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "142",
+                "variant": null,
+                "level": 4,
+                "klass": "Brigand",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Halberd",
+                        false
+                    ],
+                    [
+                        "Forged_Shield",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    20,
+                    13
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "143",
+                "variant": null,
+                "level": 5,
+                "klass": "Fighter",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Steel_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    23,
+                    12
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "144",
+                "variant": null,
+                "level": 5,
+                "klass": "Archer",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Steel_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    21,
+                    9
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "145",
+                "variant": null,
+                "level": 4,
+                "klass": "Acolyte",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Ofuda",
+                        false
+                    ],
+                    [
+                        "Yukkuri_R",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    24,
+                    10
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "146",
+                "variant": null,
+                "level": 6,
+                "klass": "Brigand",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Devil_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    22,
+                    6
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "147",
+                "variant": null,
+                "level": 6,
+                "klass": "Guard",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Short_Spear",
+                        false
+                    ],
+                    [
+                        "Energy_Ring",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    23,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "148",
+                "variant": null,
+                "level": 4,
+                "klass": "Bow_Rider",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Steel_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    24,
+                    2
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "149",
+                "variant": null,
+                "level": 4,
+                "klass": "Bow_Rider",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Illusion_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    24,
+                    3
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "151",
+                "variant": null,
+                "level": 4,
+                "klass": "Fencer",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Slim_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    22,
+                    15
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "152",
+                "variant": null,
+                "level": 4,
+                "klass": "Fencer",
+                "faction": "Eientei",
                 "starting_items": [
                     [
                         "Iron_Sword",
@@ -166,212 +667,44 @@
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
-                "ai_group": null,
+                "ai_group": "",
                 "starting_position": [
-                    3,
+                    23,
+                    14
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "150",
+                "variant": null,
+                "level": 6,
+                "klass": "Guard",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Short_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    19,
                     3
                 ],
                 "starting_traveler": null,
                 "generic": true
             },
             {
-                "nid": "105",
-                "variant": null,
-                "level": 5,
-                "klass": "Fighter",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Iron_Axe",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    7,
-                    2
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "106",
-                "variant": null,
-                "level": 5,
-                "klass": "Archer",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Iron_Bow",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Pursue",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    10,
-                    0
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "107",
-                "variant": null,
-                "level": 5,
-                "klass": "Lancer",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Iron_Lance",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Pursue",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    9,
-                    4
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "108",
-                "variant": null,
-                "level": 6,
-                "klass": "Lancer",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Iron_Lance",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    11,
-                    2
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "109",
-                "variant": null,
-                "level": 6,
-                "klass": "Lancer",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Iron_Lance",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    13,
-                    3
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "110",
+                "nid": "104",
                 "variant": null,
                 "level": 4,
-                "klass": "Fighter",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Iron_Axe",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    8,
-                    8
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "111",
-                "variant": null,
-                "level": 4,
-                "klass": "Fighter",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Iron_Axe",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    10,
-                    8
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "112",
-                "variant": null,
-                "level": 5,
                 "klass": "Lancer",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Iron_Lance",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    9,
-                    9
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "113",
-                "variant": null,
-                "level": 5,
-                "klass": "Lancer",
-                "faction": "Youkai",
+                "faction": "Eientei",
                 "starting_items": [
                     [
                         "Iron_Lance",
@@ -382,10 +715,226 @@
                 "team": "enemy",
                 "ai": "Attack",
                 "roam_ai": null,
-                "ai_group": null,
+                "ai_group": "",
+                "starting_position": [
+                    15,
+                    33
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "106",
+                "variant": null,
+                "level": 4,
+                "klass": "Lancer",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Iron_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    7,
+                    32
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "107",
+                "variant": null,
+                "level": 4,
+                "klass": "Vagrant_A",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Iron_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    6,
+                    33
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "108",
+                "variant": null,
+                "level": 4,
+                "klass": "Lancer",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Iron_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    3,
+                    25
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "109",
+                "variant": null,
+                "level": 4,
+                "klass": "Vagrant_S",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Iron_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    4,
+                    26
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "110",
+                "variant": null,
+                "level": 4,
+                "klass": "Occultist",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Flux",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
                 "starting_position": [
                     5,
-                    7
+                    25
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "111",
+                "variant": null,
+                "level": 4,
+                "klass": "Archer",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Poison_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    11,
+                    26
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "128",
+                "variant": null,
+                "level": 4,
+                "klass": "Archer",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Iron_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    11,
+                    25
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "112",
+                "variant": null,
+                "level": 4,
+                "klass": "Guard",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Steel_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    7,
+                    21
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "113",
+                "variant": null,
+                "level": 4,
+                "klass": "Guard",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    9,
+                    21
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -395,7 +944,7 @@
                 "variant": null,
                 "level": 4,
                 "klass": "Archer",
-                "faction": "Youkai",
+                "faction": "Eientei",
                 "starting_items": [
                     [
                         "Iron_Bow",
@@ -406,10 +955,10 @@
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
-                "ai_group": null,
+                "ai_group": "",
                 "starting_position": [
-                    3,
-                    7
+                    0,
+                    19
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -418,22 +967,26 @@
                 "nid": "115",
                 "variant": null,
                 "level": 4,
-                "klass": "Fighter",
-                "faction": "Youkai",
+                "klass": "Brigand",
+                "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Iron_Axe",
+                        "Hammer",
+                        false
+                    ],
+                    [
+                        "Yukkuri_R",
                         false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Attack",
+                "ai": "Defend",
                 "roam_ai": null,
-                "ai_group": null,
+                "ai_group": "",
                 "starting_position": [
-                    4,
-                    10
+                    0,
+                    21
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -442,20 +995,23 @@
                 "nid": "116",
                 "variant": null,
                 "level": 4,
-                "klass": "Brigand",
-                "faction": "Bandit",
+                "klass": "Lancer",
+                "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Iron_Axe",
+                        "Iron_Lance",
                         false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "PursueVillage",
+                "ai": "Defend",
                 "roam_ai": null,
-                "ai_group": null,
-                "starting_position": null,
+                "ai_group": "",
+                "starting_position": [
+                    5,
+                    17
+                ],
                 "starting_traveler": null,
                 "generic": true
             },
@@ -463,92 +1019,304 @@
                 "nid": "117",
                 "variant": null,
                 "level": 4,
-                "klass": "Brigand",
-                "faction": "Bandit",
+                "klass": "Vagrant_S",
+                "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Iron_Axe",
+                        "Steel_Sword",
+                        false
+                    ],
+                    [
+                        "Maple_Shield",
                         false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "PursueVillage",
+                "ai": "Defend",
                 "roam_ai": null,
-                "ai_group": null,
-                "starting_position": null,
+                "ai_group": "",
+                "starting_position": [
+                    3,
+                    16
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "156",
+                "variant": null,
+                "level": 4,
+                "klass": "Vagrant_S",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ],
+                    [
+                        "Maple_Shield",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    10,
+                    3
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "157",
+                "variant": null,
+                "level": 4,
+                "klass": "Vagrant_S",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ],
+                    [
+                        "Maple_Shield",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    10,
+                    4
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "158",
+                "variant": null,
+                "level": 4,
+                "klass": "Vagrant_S",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ],
+                    [
+                        "Maple_Shield",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    3
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "159",
+                "variant": null,
+                "level": 4,
+                "klass": "Vagrant_S",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ],
+                    [
+                        "Maple_Shield",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    4
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "160",
+                "variant": null,
+                "level": 6,
+                "klass": "Acolyte",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Tarot",
+                        false
+                    ],
+                    [
+                        "Maple_Shield",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    12,
+                    2
+                ],
                 "starting_traveler": null,
                 "generic": true
             },
             {
                 "nid": "118",
                 "variant": null,
-                "level": 5,
-                "klass": "Brigand",
-                "faction": "Bandit",
+                "level": 4,
+                "klass": "Shaman",
+                "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Iron_Axe",
+                        "Yomi",
+                        true
+                    ],
+                    [
+                        "Lantern",
+                        false
+                    ],
+                    [
+                        "Eirins_Drugs",
                         false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "PursueVillage",
+                "ai": "Defend",
                 "roam_ai": null,
-                "ai_group": null,
-                "starting_position": null,
+                "ai_group": "",
+                "starting_position": [
+                    5,
+                    15
+                ],
                 "starting_traveler": null,
                 "generic": true
             },
             {
                 "nid": "119",
                 "variant": null,
-                "level": 5,
-                "klass": "Brigand",
-                "faction": "Bandit",
+                "level": 4,
+                "klass": "Occultist",
+                "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Iron_Axe",
+                        "Flux",
                         false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "PursueVillage",
+                "ai": "Defend",
                 "roam_ai": null,
-                "ai_group": null,
-                "starting_position": null,
+                "ai_group": "",
+                "starting_position": [
+                    11,
+                    14
+                ],
                 "starting_traveler": null,
                 "generic": true
             },
             {
                 "nid": "120",
                 "variant": null,
-                "level": 5,
-                "klass": "Brigand",
-                "faction": "Bandit",
+                "level": 4,
+                "klass": "Fencer",
+                "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Iron_Axe",
+                        "Flamberge",
                         false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "PursueVillage",
+                "ai": "Defend",
                 "roam_ai": null,
-                "ai_group": null,
-                "starting_position": null,
+                "ai_group": "",
+                "starting_position": [
+                    6,
+                    10
+                ],
                 "starting_traveler": null,
                 "generic": true
             },
             {
                 "nid": "121",
                 "variant": null,
+                "level": 4,
+                "klass": "Fighter",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Steel_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    1,
+                    11
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "122",
+                "variant": null,
                 "level": 5,
-                "klass": "Brigand",
-                "faction": "Bandit",
+                "klass": "Vagrant_A",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Swordreaver",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    2,
+                    10
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "130",
+                "variant": null,
+                "level": 5,
+                "klass": "Vagrant_A",
+                "faction": "Eientei",
                 "starting_items": [
                     [
                         "Iron_Axe",
@@ -557,10 +1325,297 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "PursueVillage",
+                "ai": "Defend",
                 "roam_ai": null,
-                "ai_group": null,
-                "starting_position": null,
+                "ai_group": "",
+                "starting_position": [
+                    5,
+                    9
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "131",
+                "variant": null,
+                "level": 5,
+                "klass": "Vagrant_A",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Iron_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    7,
+                    9
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "123",
+                "variant": null,
+                "level": 4,
+                "klass": "Lance_Rider",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Slim_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    0,
+                    3
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "124",
+                "variant": null,
+                "level": 4,
+                "klass": "Lance_Rider",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Reginleif",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    0,
+                    2
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "125",
+                "variant": null,
+                "level": 6,
+                "klass": "Guard",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Short_Axe",
+                        false
+                    ],
+                    [
+                        "Forged_Shield",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    5,
+                    3
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "126",
+                "variant": null,
+                "level": 5,
+                "klass": "Mage",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Thunder",
+                        true
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    3,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "129",
+                "variant": null,
+                "level": 6,
+                "klass": "Mage",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Instant",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    1,
+                    0
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "155",
+                "variant": null,
+                "level": 6,
+                "klass": "Mage",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Instant",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    23,
+                    0
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "127",
+                "variant": null,
+                "level": 5,
+                "klass": "Archer",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Short_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    1,
+                    7
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "105",
+                "variant": null,
+                "level": 4,
+                "klass": "Archer",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Slim_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    34
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "153",
+                "variant": null,
+                "level": 12,
+                "klass": "Vagrant_A",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Silver_Axe",
+                        false
+                    ],
+                    [
+                        "Killer_Axe",
+                        false
+                    ],
+                    [
+                        "Fire_Rat_Robe",
+                        true
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    15,
+                    8
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "154",
+                "variant": null,
+                "level": 12,
+                "klass": "Vagrant_A",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Silver_Axe",
+                        false
+                    ],
+                    [
+                        "Killer_Axe",
+                        false
+                    ],
+                    [
+                        "Maple_Shield",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    11,
+                    8
+                ],
                 "starting_traveler": null,
                 "generic": true
             }
@@ -570,8 +1625,8 @@
                 "nid": "1",
                 "region_type": "formation",
                 "position": [
-                    3,
-                    16
+                    2,
+                    31
                 ],
                 "size": [
                     1,
@@ -587,8 +1642,8 @@
                 "nid": "2",
                 "region_type": "formation",
                 "position": [
-                    3,
-                    18
+                    1,
+                    34
                 ],
                 "size": [
                     1,
@@ -604,8 +1659,8 @@
                 "nid": "3",
                 "region_type": "formation",
                 "position": [
-                    4,
-                    19
+                    0,
+                    33
                 ],
                 "size": [
                     1,
@@ -621,8 +1676,8 @@
                 "nid": "4",
                 "region_type": "formation",
                 "position": [
-                    6,
-                    19
+                    1,
+                    32
                 ],
                 "size": [
                     1,
@@ -638,8 +1693,8 @@
                 "nid": "5",
                 "region_type": "formation",
                 "position": [
-                    7,
-                    18
+                    0,
+                    31
                 ],
                 "size": [
                     1,
@@ -655,8 +1710,8 @@
                 "nid": "6",
                 "region_type": "formation",
                 "position": [
-                    6,
-                    17
+                    22,
+                    33
                 ],
                 "size": [
                     1,
@@ -672,8 +1727,8 @@
                 "nid": "7",
                 "region_type": "formation",
                 "position": [
-                    5,
-                    16
+                    23,
+                    32
                 ],
                 "size": [
                     1,
@@ -686,170 +1741,85 @@
                 "interrupt_move": false
             },
             {
-                "nid": "Village1",
-                "region_type": "event",
+                "nid": "7_1",
+                "region_type": "formation",
                 "position": [
-                    12,
-                    19
+                    23,
+                    34
                 ],
                 "size": [
                     1,
                     1
                 ],
-                "sub_nid": "Visit",
-                "condition": "True",
-                "time_left": null,
-                "only_once": true,
-                "interrupt_move": false
-            },
-            {
-                "nid": "DestroyVillage1",
-                "region_type": "event",
-                "position": [
-                    12,
-                    19
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": "Destructible",
-                "condition": "unit.team == 'enemy'",
-                "time_left": null,
-                "only_once": true,
-                "interrupt_move": false
-            },
-            {
-                "nid": "Village2",
-                "region_type": "event",
-                "position": [
-                    12,
-                    10
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": "Visit",
-                "condition": "True",
-                "time_left": null,
-                "only_once": true,
-                "interrupt_move": false
-            },
-            {
-                "nid": "DestroyVillage2",
-                "region_type": "event",
-                "position": [
-                    12,
-                    10
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": "Destructible",
-                "condition": "unit.team == 'enemy'",
-                "time_left": null,
-                "only_once": true,
-                "interrupt_move": false
-            },
-            {
-                "nid": "Village3",
-                "region_type": "event",
-                "position": [
-                    5,
-                    6
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": "Visit",
-                "condition": "True",
-                "time_left": null,
-                "only_once": true,
-                "interrupt_move": false
-            },
-            {
-                "nid": "DestroyVillage3",
-                "region_type": "event",
-                "position": [
-                    5,
-                    6
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": "Destructible",
-                "condition": "unit.team == 'enemy'",
-                "time_left": null,
-                "only_once": true,
-                "interrupt_move": false
-            },
-            {
-                "nid": "Village4",
-                "region_type": "event",
-                "position": [
-                    5,
-                    1
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": "Visit",
-                "condition": "True",
-                "time_left": null,
-                "only_once": true,
-                "interrupt_move": false
-            },
-            {
-                "nid": "DestroyVillage4",
-                "region_type": "event",
-                "position": [
-                    5,
-                    1
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": "Destructible",
-                "condition": "unit.team == 'enemy'",
-                "time_left": null,
-                "only_once": true,
-                "interrupt_move": false
-            },
-            {
-                "nid": "Vendor",
-                "region_type": "event",
-                "position": [
-                    6,
-                    10
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": "Vendor",
+                "sub_nid": "",
                 "condition": "True",
                 "time_left": null,
                 "only_once": false,
                 "interrupt_move": false
             },
             {
-                "nid": "Armory",
-                "region_type": "event",
+                "nid": "7_2",
+                "region_type": "formation",
                 "position": [
-                    2,
-                    1
+                    23,
+                    31
                 ],
                 "size": [
                     1,
                     1
                 ],
-                "sub_nid": "Armory",
+                "sub_nid": "",
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "7_3",
+                "region_type": "formation",
+                "position": [
+                    24,
+                    33
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "",
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "7_4",
+                "region_type": "formation",
+                "position": [
+                    22,
+                    34
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "",
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "7_5",
+                "region_type": "formation",
+                "position": [
+                    2,
+                    34
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "",
                 "condition": "True",
                 "time_left": null,
                 "only_once": false,
@@ -859,97 +1829,35 @@
         "unit_groups": [
             {
                 "nid": "Brigand1",
-                "units": [
-                    "116",
-                    "117"
-                ],
-                "positions": {
-                    "116": [
-                        14,
-                        15
-                    ],
-                    "117": [
-                        14,
-                        16
-                    ]
-                }
+                "units": [],
+                "positions": {}
             },
             {
                 "nid": "Brigand2",
-                "units": [
-                    "118",
-                    "119"
-                ],
-                "positions": {
-                    "118": [
-                        14,
-                        6
-                    ],
-                    "119": [
-                        14,
-                        8
-                    ]
-                }
+                "units": [],
+                "positions": {}
             },
             {
                 "nid": "Brigand3",
-                "units": [
-                    "120",
-                    "121"
-                ],
-                "positions": {
-                    "120": [
-                        13,
-                        0
-                    ],
-                    "121": [
-                        14,
-                        1
-                    ]
-                }
+                "units": [],
+                "positions": {}
             },
             {
                 "nid": "ThreeEnemies",
-                "units": [
-                    "110",
-                    "111",
-                    "112"
-                ],
-                "positions": {
-                    "110": [
-                        9,
-                        2
-                    ],
-                    "111": [
-                        9,
-                        3
-                    ],
-                    "112": [
-                        10,
-                        2
-                    ]
-                }
+                "units": [],
+                "positions": {}
             },
             {
                 "nid": "EnemyTeam",
-                "units": [
-                    "101",
-                    "Saar",
-                    "102",
-                    "103",
-                    "104",
-                    "105",
-                    "106",
-                    "107",
-                    "108",
-                    "109",
-                    "113",
-                    "114",
-                    "115"
-                ],
+                "units": [],
                 "positions": {}
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

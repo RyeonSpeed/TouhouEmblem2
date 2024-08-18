@@ -1,0 +1,16 @@
+[
+    {
+        "name": "FightRingo",
+        "trigger": "combat_start",
+        "level_nid": "3",
+        "condition": "(unit.nid == \"Ringo_Boss\" and unit2.team == 'player') or (unit2.nid == \"Ringo_Boss\" and unit.team == 'player')",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Ringo;Left",
+            "speak;Ringo;Finally, an interesting opponent. This job was getting kinda boring.",
+            "remove_portrait;Ringo"
+        ]
+    }
+]

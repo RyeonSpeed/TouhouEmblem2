@@ -105,6 +105,21 @@
         "status": null
     },
     {
+        "nid": "6_1",
+        "name": "Warp",
+        "color": [
+            84,
+            84,
+            84
+        ],
+        "minimap": "Floor",
+        "platform": "Floor",
+        "background": "combat_castle2",
+        "mtype": "Normal",
+        "opaque": false,
+        "status": null
+    },
+    {
         "nid": "7",
         "name": "Road",
         "color": [
