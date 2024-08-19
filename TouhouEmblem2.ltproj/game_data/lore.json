@@ -133,6 +133,13 @@
         "text": "You might notice some cracks in a wall or a snag along a river. These are breakable tiles, and attacking and defeating them might open up new routes on the map."
     },
     {
+        "nid": "Elite_Mercenaries",
+        "name": "Elite Mercenaries",
+        "title": "Elite Mercenaries",
+        "category": "Guide",
+        "text": "On the eve of a particularly eventful battle, elite mercenaries will flock to your camp. That chapter will be your only opportunity to hire these individuals. They're still not as good as actual characters, mind you."
+    },
+    {
         "nid": "Warp_Tiles",
         "name": "Warp Tiles",
         "title": "Warp Tiles",

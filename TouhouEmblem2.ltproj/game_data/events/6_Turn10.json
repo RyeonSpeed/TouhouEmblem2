@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Turn10",
+        "trigger": "turn_change",
+        "level_nid": "6",
+        "condition": "game.turncount == 10",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "enable_fog_of_war;false",
+            "add_group;Turn10;Turn10;fade;closest",
+            "move_cursor;Yumemi_Boss",
+            "change_objective_win;Defeat enemy,Left {eval:len(game.get_enemy_units())}",
+            "change_objective_simple;Rout Enemy",
+            "speak;;This map's clear bonus is 500 Bonus EXP, with a decrease of 100 BExp per turn you take over 15 turns!;;;hint"
+        ]
+    }
+]

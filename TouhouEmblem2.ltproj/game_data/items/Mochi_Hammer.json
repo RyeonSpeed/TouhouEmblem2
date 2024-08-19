@@ -1,12 +1,12 @@
 [
     {
-        "nid": "Steel_Axe",
-        "name": "Steel Axe",
+        "nid": "Mochi_Hammer",
+        "name": "Mochi_Hammer",
         "desc": "",
         "icon_nid": "the2icons",
         "icon_index": [
             2,
-            1
+            9
         ],
         "components": [
             [
@@ -14,51 +14,20 @@
                 null
             ],
             [
-                "value",
-                660
-            ],
-            [
                 "target_enemy",
                 null
             ],
             [
-                "min_range",
-                1
-            ],
-            [
-                "max_range",
-                1
+                "level_exp",
+                null
             ],
             [
                 "damage",
-                11
+                9
             ],
             [
                 "hit",
-                65
-            ],
-            [
-                "crit",
-                0
-            ],
-            [
-                "weight",
-                15
-            ],
-            [
-                "uses",
-                30
-            ],
-            [
-                "uses_options",
-                {
-                    "lose_uses_on_miss": false,
-                    "one_loss_per_combat": false
-                }
-            ],
-            [
-                "level_exp",
-                null
+                70
             ],
             [
                 "weapon_type",
@@ -69,8 +38,39 @@
                 "D"
             ],
             [
+                "uses",
+                15
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "weight",
+                10
+            ],
+            [
+                "crit",
+                20
+            ],
+            [
                 "wexp",
                 2
+            ],
+            [
+                "value",
+                750
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                1
             ],
             [
                 "fatigue",

@@ -33,6 +33,14 @@
             [
                 "cannot_use_items",
                 null
+            ],
+            [
+                "unit_flickering_tint",
+                [
+                    170,
+                    170,
+                    255
+                ]
             ]
         ]
     }

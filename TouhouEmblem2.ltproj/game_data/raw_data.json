@@ -48,6 +48,34 @@
                 "Description": "Various nameless Gensokyo mercenaries."
             },
             {
+                "nid": "Konami",
+                "Class": "Vagrant_S",
+                "Name": "Konami",
+                "Cost": "500",
+                "Description": "Various nameless Gensokyo mercenaries."
+            },
+            {
+                "nid": "Kabin",
+                "Class": "Lancer",
+                "Name": "Kabin",
+                "Cost": "500",
+                "Description": "Various nameless Gensokyo mercenaries."
+            },
+            {
+                "nid": "Yae",
+                "Class": "Mage",
+                "Name": "Yae",
+                "Cost": "500",
+                "Description": "Various nameless Gensokyo mercenaries."
+            },
+            {
+                "nid": "Amane",
+                "Class": "Guard",
+                "Name": "Amane",
+                "Cost": "500",
+                "Description": "Various nameless Gensokyo mercenaries."
+            },
+            {
                 "nid": "Yuna",
                 "Class": "Archer",
                 "Name": "Yuna",
@@ -90,32 +118,32 @@
                 "Description": "Various nameless Gensokyo mercenaries."
             },
             {
-                "nid": "Konami",
+                "nid": "Meiko",
+                "Class": "Archer",
+                "Name": "Meiko",
+                "Cost": "500",
+                "Description": "Various nameless Gensokyo mercenaries."
+            },
+            {
+                "nid": "Hanae",
+                "Class": "Fencer_Y",
+                "Name": "Hanae",
+                "Cost": "500",
+                "Description": "Various nameless Gensokyo mercenaries."
+            },
+            {
+                "nid": "Yan",
+                "Class": "Axe_Rider",
+                "Name": "Yan",
+                "Cost": "1000",
+                "Description": "Elite mercs drawn in by a bigger battle."
+            },
+            {
+                "nid": "Sena",
                 "Class": "Vagrant_S",
-                "Name": "Konami",
-                "Cost": "500",
-                "Description": "Various nameless Gensokyo mercenaries."
-            },
-            {
-                "nid": "Kabin",
-                "Class": "Lancer",
-                "Name": "Kabin",
-                "Cost": "500",
-                "Description": "Various nameless Gensokyo mercenaries."
-            },
-            {
-                "nid": "Yae",
-                "Class": "Mage",
-                "Name": "Yae",
-                "Cost": "500",
-                "Description": "Various nameless Gensokyo mercenaries."
-            },
-            {
-                "nid": "Amane",
-                "Class": "Guard",
-                "Name": "Amane",
-                "Cost": "500",
-                "Description": "Various nameless Gensokyo mercenaries."
+                "Name": "Sena",
+                "Cost": "1000",
+                "Description": "Elite mercs drawn in by a bigger battle."
             }
         ]
     }

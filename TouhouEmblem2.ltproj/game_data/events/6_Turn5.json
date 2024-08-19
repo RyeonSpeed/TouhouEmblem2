@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Turn5",
+        "trigger": "turn_change",
+        "level_nid": "6",
+        "condition": "game.turncount == 5",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_group;Turn5;Turn5;fade;closest",
+            "move_cursor;173",
+            "move_cursor;Reimu"
+        ]
+    }
+]

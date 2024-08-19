@@ -1,0 +1,53 @@
+[
+    {
+        "nid": "Chiyuri_Boss",
+        "name": "Chiyuri ",
+        "desc": "",
+        "variant": null,
+        "level": 12,
+        "klass": "Outlaw",
+        "tags": [],
+        "bases": {
+            "HP": 34,
+            "STR": 9,
+            "SPD": 13,
+            "SKL": 12,
+            "MAG": 5,
+            "LCK": 5,
+            "DEF": 5,
+            "RES": 9,
+            "CON": 7,
+            "MOV": 6
+        },
+        "growths": {},
+        "stat_cap_modifiers": {},
+        "starting_items": [
+            [
+                "Silencer",
+                false
+            ],
+            [
+                "Maple_Shield",
+                false
+            ]
+        ],
+        "learned_skills": [
+            [
+                1,
+                "Indomitable_Spirit"
+            ]
+        ],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Bow": [
+                false,
+                71,
+                null
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "Chiyuri",
+        "affinity": "Wind",
+        "fields": []
+    }
+]

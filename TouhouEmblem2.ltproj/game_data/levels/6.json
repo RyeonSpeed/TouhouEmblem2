@@ -90,7 +90,7 @@
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Iron_Bow",
+                        "Longbow",
                         false
                     ],
                     [
@@ -111,6 +111,62 @@
                 "generic": true
             },
             {
+                "nid": "139",
+                "variant": null,
+                "level": 4,
+                "klass": "Archer",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Longbow",
+                        false
+                    ],
+                    [
+                        "Lantern",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    22,
+                    3
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "140",
+                "variant": null,
+                "level": 4,
+                "klass": "Archer",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Longbow",
+                        false
+                    ],
+                    [
+                        "Lantern",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    23,
+                    3
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
                 "nid": "102",
                 "variant": null,
                 "level": 4,
@@ -118,7 +174,7 @@
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Iron_Bow",
+                        "Longbow",
                         false
                     ],
                     [
@@ -230,7 +286,7 @@
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Hammer",
+                        "Mochi_Hammer",
                         false
                     ]
                 ],
@@ -254,7 +310,7 @@
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Hammer",
+                        "Mochi_Hammer",
                         false
                     ]
                 ],
@@ -278,7 +334,7 @@
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Hammer",
+                        "Mochi_Hammer",
                         false
                     ]
                 ],
@@ -302,7 +358,7 @@
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Hammer",
+                        "Mochi_Hammer",
                         false
                     ]
                 ],
@@ -437,11 +493,15 @@
                 "variant": null,
                 "level": 5,
                 "klass": "Fighter",
-                "faction": "Eientei",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Iron_Axe",
                         false
+                    ],
+                    [
+                        "Poppet",
+                        true
                     ]
                 ],
                 "starting_skills": [],
@@ -461,7 +521,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "Thief",
-                "faction": "Eientei",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Poison_Sword",
@@ -485,7 +545,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "Occultist",
-                "faction": "Eientei",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Luna",
@@ -513,7 +573,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "Herald",
-                "faction": "Eientei",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Heal",
@@ -541,7 +601,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "Acolyte",
-                "faction": "Eientei",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Ofuda",
@@ -565,7 +625,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "Lancer",
-                "faction": "Eientei",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Flame_Lance",
@@ -589,7 +649,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "Mage",
-                "faction": "Eientei",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Gust",
@@ -613,7 +673,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "Sword_Rider",
-                "faction": "Eientei",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Rapier",
@@ -637,7 +697,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "Pirate",
-                "faction": "Eientei",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Halberd",
@@ -665,7 +725,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "Lance_Rider",
-                "faction": "Eientei",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Lance",
@@ -689,7 +749,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "Axe_Rider",
-                "faction": "Eientei",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Iron_Axe",
@@ -713,7 +773,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "Acolyte",
-                "faction": "Eientei",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Tarot",
@@ -737,7 +797,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "Lancer",
-                "faction": "Eientei",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Iron_Lance",
@@ -761,7 +821,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "Lancer",
-                "faction": "Eientei",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Lance",
@@ -785,7 +845,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "Fighter",
-                "faction": "Eientei",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Iron_Axe",
@@ -809,7 +869,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "Archer",
-                "faction": "Eientei",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Iron_Bow",
@@ -833,7 +893,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "Brigand",
-                "faction": "Eientei",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Axe",
@@ -861,7 +921,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "Thief",
-                "faction": "Eientei",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Lancereaver",
@@ -885,7 +945,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "Vagrant_S",
-                "faction": "Eientei",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Sword",
@@ -913,7 +973,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "Lancer",
-                "faction": "Eientei",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Iron_Lance",
@@ -937,7 +997,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "Lancer",
-                "faction": "Eientei",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Iron_Lance",
@@ -961,7 +1021,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "Vagrant_A",
-                "faction": "Eientei",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Iron_Axe",
@@ -985,7 +1045,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "Mage",
-                "faction": "Eientei",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Fire",
@@ -1009,7 +1069,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "Archer",
-                "faction": "Eientei",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Iron_Bow",
@@ -1033,11 +1093,15 @@
                 "variant": null,
                 "level": 5,
                 "klass": "Kappa_Mech",
-                "faction": "Eientei",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Iron_Bow",
                         false
+                    ],
+                    [
+                        "Misfortune_Amulet",
+                        true
                     ]
                 ],
                 "starting_skills": [],
@@ -1057,7 +1121,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "Acolyte",
-                "faction": "Eientei",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Ofuda",
@@ -1075,15 +1139,1530 @@
                 ],
                 "starting_traveler": null,
                 "generic": true
+            },
+            {
+                "nid": "141",
+                "variant": null,
+                "level": 5,
+                "klass": "Archer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Heavy_Bow",
+                        true
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "142",
+                "variant": null,
+                "level": 5,
+                "klass": "Vagrant_A",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "144",
+                "variant": null,
+                "level": 5,
+                "klass": "Fencer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Iron_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "145",
+                "variant": null,
+                "level": 5,
+                "klass": "Mage",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Thunder",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "146",
+                "variant": null,
+                "level": 5,
+                "klass": "Vagrant_A",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "147",
+                "variant": null,
+                "level": 5,
+                "klass": "Occultist",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Flux",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "148",
+                "variant": null,
+                "level": 5,
+                "klass": "Vagrant_S",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Lancereaver",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "143",
+                "variant": null,
+                "level": 5,
+                "klass": "Mage",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Fire",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "149",
+                "variant": null,
+                "level": 5,
+                "klass": "Vagrant_A",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Axe",
+                        false
+                    ],
+                    [
+                        "Hand_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "150",
+                "variant": null,
+                "level": 5,
+                "klass": "Brigand",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Axe",
+                        false
+                    ],
+                    [
+                        "Hand_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "151",
+                "variant": null,
+                "level": 5,
+                "klass": "Vagrant_A",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Axe",
+                        false
+                    ],
+                    [
+                        "Hand_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "152",
+                "variant": null,
+                "level": 5,
+                "klass": "Herald",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Mend",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Heal",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "153",
+                "variant": null,
+                "level": 5,
+                "klass": "Bow_Rider",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Poison_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "154",
+                "variant": null,
+                "level": 5,
+                "klass": "Bow_Rider",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Poison_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "155",
+                "variant": null,
+                "level": 5,
+                "klass": "Lance_Rider",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ],
+                    [
+                        "Maple_Shield",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "156",
+                "variant": null,
+                "level": 5,
+                "klass": "Archer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Iron_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "157",
+                "variant": null,
+                "level": 5,
+                "klass": "Mage",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Fire",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "158",
+                "variant": null,
+                "level": 5,
+                "klass": "Archer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Iron_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "159",
+                "variant": null,
+                "level": 5,
+                "klass": "Fencer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Flamberge",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "160",
+                "variant": null,
+                "level": 5,
+                "klass": "Vagrant_S",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ],
+                    [
+                        "Maple_Shield",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "161",
+                "variant": null,
+                "level": 5,
+                "klass": "Vagrant_A",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "162",
+                "variant": null,
+                "level": 5,
+                "klass": "Lancer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Toxin_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "163",
+                "variant": null,
+                "level": 5,
+                "klass": "Thief",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Rapier",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "SimpleThief",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "164",
+                "variant": null,
+                "level": 5,
+                "klass": "Vagrant_S",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Flamberge",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "165",
+                "variant": null,
+                "level": 5,
+                "klass": "Vagrant_A",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Hammer",
+                        false
+                    ],
+                    [
+                        "Halberd",
+                        false
+                    ],
+                    [
+                        "Maple_Shield",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "166",
+                "variant": null,
+                "level": 5,
+                "klass": "Vagrant_S",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Flamberge",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "167",
+                "variant": null,
+                "level": 5,
+                "klass": "Vagrant_S",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "171",
+                "variant": null,
+                "level": 5,
+                "klass": "Vagrant_A",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Halberd",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "172",
+                "variant": null,
+                "level": 5,
+                "klass": "Fencer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Killing_Edge",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "168",
+                "variant": null,
+                "level": 5,
+                "klass": "Bow_Rider",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Iron_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "169",
+                "variant": null,
+                "level": 5,
+                "klass": "Bow_Rider",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "170",
+                "variant": null,
+                "level": 5,
+                "klass": "Bow_Rider",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Short_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "173",
+                "variant": null,
+                "level": 5,
+                "klass": "Axe_Rider",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "174",
+                "variant": null,
+                "level": 5,
+                "klass": "Sword_Rider",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Lancereaver",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Wall1",
+                "variant": null,
+                "level": 1,
+                "klass": "Wall100",
+                "faction": "Eientei",
+                "starting_items": [],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    23,
+                    6
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Wall2",
+                "variant": null,
+                "level": 1,
+                "klass": "Wall100",
+                "faction": "Eientei",
+                "starting_items": [],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    2,
+                    11
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Chiyuri_Boss",
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Yumemi_Boss",
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "175",
+                "variant": null,
+                "level": 7,
+                "klass": "Fencer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Zanbato",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "176",
+                "variant": null,
+                "level": 7,
+                "klass": "Fighter",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "177",
+                "variant": null,
+                "level": 7,
+                "klass": "Archer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "178",
+                "variant": null,
+                "level": 7,
+                "klass": "Vagrant_S",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "179",
+                "variant": null,
+                "level": 7,
+                "klass": "Archer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "180",
+                "variant": null,
+                "level": 7,
+                "klass": "Thief",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Flamberge",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Thief",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
             }
         ],
-        "regions": [],
-        "unit_groups": [],
-        "ai_groups": [
+        "regions": [
             {
-                "nid": "",
-                "trigger_threshold": 1
+                "nid": "F_1",
+                "region_type": "formation",
+                "position": [
+                    7,
+                    1
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "",
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "F_2",
+                "region_type": "formation",
+                "position": [
+                    13,
+                    1
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": null,
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "F_3",
+                "region_type": "formation",
+                "position": [
+                    12,
+                    3
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": null,
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "F_4",
+                "region_type": "formation",
+                "position": [
+                    8,
+                    3
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": null,
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "F_5",
+                "region_type": "formation",
+                "position": [
+                    14,
+                    2
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": null,
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "F_6",
+                "region_type": "formation",
+                "position": [
+                    6,
+                    2
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": null,
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "F_7",
+                "region_type": "formation",
+                "position": [
+                    9,
+                    4
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": null,
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "F_8",
+                "region_type": "formation",
+                "position": [
+                    11,
+                    4
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": null,
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "F_9",
+                "region_type": "formation",
+                "position": [
+                    7,
+                    5
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": null,
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "F_10",
+                "region_type": "formation",
+                "position": [
+                    13,
+                    5
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": null,
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "F_11",
+                "region_type": "formation",
+                "position": [
+                    17,
+                    1
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": null,
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "F_12",
+                "region_type": "formation",
+                "position": [
+                    16,
+                    2
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "",
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "WarpA1",
+                "region_type": "event",
+                "position": [
+                    2,
+                    6
+                ],
+                "size": [
+                    2,
+                    2
+                ],
+                "sub_nid": "Warp!",
+                "condition": "unit.team == 'player'",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "WarpB1",
+                "region_type": "event",
+                "position": [
+                    2,
+                    2
+                ],
+                "size": [
+                    2,
+                    2
+                ],
+                "sub_nid": "Warp!",
+                "condition": "unit.team == 'player'",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "WarpB2",
+                "region_type": "event",
+                "position": [
+                    16,
+                    25
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "Warp!",
+                "condition": "unit.team == 'player'",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "WarpA2",
+                "region_type": "event",
+                "position": [
+                    3,
+                    14
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "Warp!",
+                "condition": "unit.team == 'player'",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "Door1",
+                "region_type": "event",
+                "position": [
+                    11,
+                    26
+                ],
+                "size": [
+                    3,
+                    1
+                ],
+                "sub_nid": "Door",
+                "condition": "unit.can_unlock(region)",
+                "time_left": null,
+                "only_once": true,
+                "interrupt_move": false
+            },
+            {
+                "nid": "Chest1",
+                "region_type": "event",
+                "position": [
+                    15,
+                    25
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "Chest",
+                "condition": "unit.can_unlock(region)",
+                "time_left": null,
+                "only_once": true,
+                "interrupt_move": false
+            },
+            {
+                "nid": "Chest2",
+                "region_type": "event",
+                "position": [
+                    17,
+                    25
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "Chest",
+                "condition": "unit.can_unlock(region)",
+                "time_left": null,
+                "only_once": true,
+                "interrupt_move": false
+            },
+            {
+                "nid": "Chest3",
+                "region_type": "event",
+                "position": [
+                    16,
+                    17
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "Chest",
+                "condition": "unit.can_unlock(region)",
+                "time_left": null,
+                "only_once": true,
+                "interrupt_move": false
             }
-        ]
+        ],
+        "unit_groups": [
+            {
+                "nid": "Turn3",
+                "units": [
+                    "141",
+                    "142",
+                    "143",
+                    "144",
+                    "145",
+                    "146",
+                    "147",
+                    "148"
+                ],
+                "positions": {
+                    "142": [
+                        0,
+                        14
+                    ],
+                    "141": [
+                        0,
+                        13
+                    ],
+                    "143": [
+                        0,
+                        15
+                    ],
+                    "144": [
+                        25,
+                        12
+                    ],
+                    "145": [
+                        22,
+                        28
+                    ],
+                    "146": [
+                        23,
+                        28
+                    ],
+                    "147": [
+                        24,
+                        28
+                    ],
+                    "148": [
+                        25,
+                        13
+                    ]
+                }
+            },
+            {
+                "nid": "Turn6",
+                "units": [
+                    "149",
+                    "150",
+                    "151",
+                    "152",
+                    "153",
+                    "154",
+                    "155",
+                    "156",
+                    "157",
+                    "158",
+                    "159",
+                    "160",
+                    "161",
+                    "162",
+                    "163",
+                    "164",
+                    "165"
+                ],
+                "positions": {
+                    "149": [
+                        25,
+                        11
+                    ],
+                    "150": [
+                        25,
+                        12
+                    ],
+                    "151": [
+                        25,
+                        13
+                    ],
+                    "152": [
+                        23,
+                        28
+                    ],
+                    "153": [
+                        24,
+                        28
+                    ],
+                    "154": [
+                        22,
+                        28
+                    ],
+                    "155": [
+                        23,
+                        27
+                    ],
+                    "156": [
+                        0,
+                        13
+                    ],
+                    "157": [
+                        0,
+                        14
+                    ],
+                    "158": [
+                        0,
+                        15
+                    ],
+                    "159": [
+                        1,
+                        13
+                    ],
+                    "160": [
+                        1,
+                        14
+                    ],
+                    "161": [
+                        1,
+                        15
+                    ],
+                    "162": [
+                        0,
+                        25
+                    ],
+                    "163": [
+                        0,
+                        26
+                    ],
+                    "164": [
+                        0,
+                        27
+                    ],
+                    "165": [
+                        1,
+                        26
+                    ]
+                }
+            },
+            {
+                "nid": "Turn9",
+                "units": [
+                    "171",
+                    "172"
+                ],
+                "positions": {
+                    "171": [
+                        25,
+                        11
+                    ],
+                    "172": [
+                        25,
+                        13
+                    ]
+                }
+            },
+            {
+                "nid": "Turn5",
+                "units": [
+                    "166",
+                    "167",
+                    "173",
+                    "174"
+                ],
+                "positions": {
+                    "166": [
+                        25,
+                        11
+                    ],
+                    "167": [
+                        25,
+                        12
+                    ],
+                    "173": [
+                        25,
+                        16
+                    ],
+                    "174": [
+                        25,
+                        18
+                    ]
+                }
+            },
+            {
+                "nid": "Turn8",
+                "units": [
+                    "168",
+                    "169",
+                    "170",
+                    "180"
+                ],
+                "positions": {
+                    "168": [
+                        25,
+                        16
+                    ],
+                    "169": [
+                        25,
+                        17
+                    ],
+                    "170": [
+                        25,
+                        18
+                    ],
+                    "180": [
+                        19,
+                        27
+                    ]
+                }
+            },
+            {
+                "nid": "Turn10",
+                "units": [
+                    "Chiyuri_Boss",
+                    "Yumemi_Boss",
+                    "175",
+                    "176",
+                    "178",
+                    "177",
+                    "179"
+                ],
+                "positions": {
+                    "Chiyuri_Boss": [
+                        25,
+                        16
+                    ],
+                    "Yumemi_Boss": [
+                        25,
+                        18
+                    ],
+                    "175": [
+                        24,
+                        17
+                    ],
+                    "176": [
+                        24,
+                        15
+                    ],
+                    "178": [
+                        24,
+                        19
+                    ],
+                    "177": [
+                        25,
+                        19
+                    ],
+                    "179": [
+                        25,
+                        15
+                    ]
+                }
+            }
+        ],
+        "ai_groups": []
     }
 ]

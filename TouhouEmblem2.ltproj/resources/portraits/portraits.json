@@ -490,5 +490,29 @@
             48
         ],
         "info_offset": 0
+    },
+    {
+        "nid": "Chiyuri",
+        "blinking_offset": [
+            32,
+            40
+        ],
+        "smiling_offset": [
+            32,
+            56
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Yumemi",
+        "blinking_offset": [
+            32,
+            32
+        ],
+        "smiling_offset": [
+            32,
+            48
+        ],
+        "info_offset": 0
     }
 ]

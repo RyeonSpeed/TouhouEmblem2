@@ -1,33 +1,33 @@
 [
     {
-        "nid": "Kana",
-        "name": "Kana",
-        "desc": "A yamawaro mercenary who has been lost in the Bamboo Forest for a week.",
+        "nid": "Hanae",
+        "name": "Hanae",
+        "desc": "A tsukumogami created from the vengeful spirit of an Outside World mall katana.",
         "variant": null,
-        "level": 1,
-        "klass": "Kappa_Mech",
+        "level": 5,
+        "klass": "Fencer_Y",
         "tags": [],
         "bases": {
             "LCK": 1,
-            "HP": 20,
+            "HP": 18,
             "STR": 8,
-            "MAG": 0,
-            "SKL": 5,
-            "SPD": 2,
-            "DEF": 9,
-            "RES": 6,
-            "CON": 13,
-            "MOV": 4
+            "MAG": 3,
+            "SKL": 11,
+            "SPD": 10,
+            "DEF": 4,
+            "RES": 4,
+            "CON": 5,
+            "MOV": 5
         },
         "growths": {
-            "HP": 80,
-            "STR": 40,
-            "MAG": 10,
-            "SKL": 35,
-            "SPD": 15,
-            "LCK": 25,
-            "DEF": 40,
-            "RES": 35,
+            "HP": 70,
+            "STR": 45,
+            "MAG": 25,
+            "SKL": 50,
+            "SPD": 55,
+            "LCK": 30,
+            "DEF": 20,
+            "RES": 20,
             "CON": 0,
             "MOV": 0
         },
@@ -45,7 +45,7 @@
         },
         "starting_items": [
             [
-                "Iron_Bow",
+                "Iron_Sword",
                 false
             ]
         ],
@@ -63,6 +63,11 @@
                 null
             ],
             "Bow": [
+                false,
+                0,
+                null
+            ],
+            "Sword": [
                 false,
                 31,
                 null
