@@ -133,6 +133,13 @@
         "text": "You might notice some cracks in a wall or a snag along a river. These are breakable tiles, and attacking and defeating them might open up new routes on the map."
     },
     {
+        "nid": "Warp_Tiles",
+        "name": "Warp Tiles",
+        "title": "Warp Tiles",
+        "category": "Guide",
+        "text": "On some maps, there may be a warp tile that allows you to warp back and forth between two spots. Use these to your advantage."
+    },
+    {
         "nid": "Reimu",
         "name": "Reimu",
         "title": "Reimu",

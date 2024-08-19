@@ -25,7 +25,8 @@
             "add_talk;Rumia;Daiyousei",
             "enable_fog_of_war;t",
             "set_fog_of_war;gba;7;7;7",
-            "prep;1"
+            "prep;1",
+            "speak;;This map's clear bonus is 375 Bonus EXP, with a decrease of 15 BExp per turn you take over 20 turns!;;;hint"
         ]
     }
 ]

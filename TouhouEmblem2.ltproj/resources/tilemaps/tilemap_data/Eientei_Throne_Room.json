@@ -7079,6 +7079,148 @@
                         ]
                     ]
                 }
+            },
+            {
+                "nid": "DoorA",
+                "visible": false,
+                "foreground": false,
+                "terrain_grid": {},
+                "sprite_grid": {
+                    "17,3": [
+                        "Flasuban Castle V2",
+                        [
+                            22,
+                            27
+                        ]
+                    ],
+                    "17,4": [
+                        "Flasuban Castle V2",
+                        [
+                            22,
+                            28
+                        ]
+                    ],
+                    "18,4": [
+                        "Flasuban Castle V2",
+                        [
+                            23,
+                            31
+                        ]
+                    ],
+                    "19,4": [
+                        "Flasuban Castle V2",
+                        [
+                            23,
+                            31
+                        ]
+                    ],
+                    "18,3": [
+                        "Flasuban Castle V2",
+                        [
+                            23,
+                            29
+                        ]
+                    ],
+                    "18,2": [
+                        "Flasuban Castle V2",
+                        [
+                            10,
+                            12
+                        ]
+                    ],
+                    "19,2": [
+                        "Flasuban Castle V2",
+                        [
+                            22,
+                            29
+                        ]
+                    ],
+                    "19,3": [
+                        "Flasuban Castle V2",
+                        [
+                            21,
+                            27
+                        ]
+                    ],
+                    "18,5": [
+                        "Flasuban Castle V2",
+                        [
+                            10,
+                            10
+                        ]
+                    ],
+                    "6,4": [
+                        "Flasuban Castle V2",
+                        [
+                            16,
+                            11
+                        ]
+                    ]
+                }
+            },
+            {
+                "nid": "DoorB",
+                "visible": false,
+                "foreground": false,
+                "terrain_grid": {},
+                "sprite_grid": {
+                    "6,4": [
+                        "Flasuban Castle V2",
+                        [
+                            23,
+                            31
+                        ]
+                    ],
+                    "7,4": [
+                        "Flasuban Castle V2",
+                        [
+                            21,
+                            28
+                        ]
+                    ],
+                    "7,3": [
+                        "Flasuban Castle V2",
+                        [
+                            21,
+                            27
+                        ]
+                    ],
+                    "6,3": [
+                        "Flasuban Castle V2",
+                        [
+                            23,
+                            29
+                        ]
+                    ],
+                    "5,2": [
+                        "Flasuban Castle V2",
+                        [
+                            24,
+                            29
+                        ]
+                    ],
+                    "5,3": [
+                        "Flasuban Castle V2",
+                        [
+                            22,
+                            27
+                        ]
+                    ],
+                    "6,2": [
+                        "Flasuban Castle V2",
+                        [
+                            10,
+                            12
+                        ]
+                    ],
+                    "6,5": [
+                        "Flasuban Castle V2",
+                        [
+                            10,
+                            10
+                        ]
+                    ]
+                }
             }
         ],
         "tilesets": [

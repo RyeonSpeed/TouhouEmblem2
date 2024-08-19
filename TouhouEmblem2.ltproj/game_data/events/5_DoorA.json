@@ -1,0 +1,14 @@
+[
+    {
+        "name": "DoorA",
+        "trigger": "Door",
+        "level_nid": "5",
+        "condition": "region.nid == 'DoorA'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "show_layer;DoorA"
+        ]
+    }
+]

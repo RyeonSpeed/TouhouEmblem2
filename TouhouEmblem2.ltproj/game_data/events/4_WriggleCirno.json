@@ -1,0 +1,16 @@
+[
+    {
+        "name": "WriggleCirno",
+        "trigger": "on_talk",
+        "level_nid": "4",
+        "condition": "unit.nid == 'Wriggle' and unit2.nid == 'Cirno'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "change_team;Cirno;player",
+            "remove_talk;Rumia;Cirno",
+            "remove_talk;Mystia;Cirno"
+        ]
+    }
+]

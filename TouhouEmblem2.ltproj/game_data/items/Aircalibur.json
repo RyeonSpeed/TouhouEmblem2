@@ -96,6 +96,10 @@
             [
                 "fatigue",
                 1
+            ],
+            [
+                "battle_cast_anim",
+                "AetherWave"
             ]
         ]
     }

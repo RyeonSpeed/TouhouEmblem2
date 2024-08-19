@@ -1,0 +1,33 @@
+[
+    {
+        "name": "BaseWarps",
+        "trigger": "on_base_convo",
+        "level_nid": null,
+        "condition": "unit == 'Warps'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "transition;close",
+            "change_background;Camp Tent Interior",
+            "transition;open",
+            "add_portrait;Marisa;Left",
+            "add_portrait;Reimu;CenterRight",
+            "add_portrait;Kasen;FarRight",
+            "speak;Marisa;There's always some strange stuff happenin' around here.",
+            "speak;Kasen;Yeah. I've noticed recently that there's been warp points springing up in some areas.",
+            "speak;Reimu;Warp points?",
+            "speak;Kasen;It seems to be some sort of distortion causing these things. I don't know what it is.",
+            "speak;Marisa;Personally, I'm always down for a lil' adventure myself!",
+            "speak;Kasen;Dangerous, but you're right. We can use these distortions to our advantage.",
+            "multi_remove_portrait;Reimu;Kasen;Marisa",
+            "give_bexp;25;no_banner",
+            "transition;close",
+            "change_background",
+            "remove_base_convo;Warps",
+            "game_var;baseconvolist;[x for x in v('baseconvolist') if not x == 'Warps']",
+            "add_lore;Warp_Tiles",
+            "transition;open"
+        ]
+    }
+]

@@ -1676,6 +1676,30 @@
                 "generic": true
             },
             {
+                "nid": "166",
+                "variant": null,
+                "level": 4,
+                "klass": "Archer",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Farshot",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    0,
+                    24
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
                 "nid": "153",
                 "variant": null,
                 "level": 12,
@@ -1977,6 +2001,40 @@
                 "condition": "unit.team == 'player'",
                 "time_left": null,
                 "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "DoorA",
+                "region_type": "event",
+                "position": [
+                    5,
+                    3
+                ],
+                "size": [
+                    3,
+                    1
+                ],
+                "sub_nid": "Door",
+                "condition": "unit.can_unlock(region)",
+                "time_left": null,
+                "only_once": true,
+                "interrupt_move": false
+            },
+            {
+                "nid": "DoorB",
+                "region_type": "event",
+                "position": [
+                    17,
+                    3
+                ],
+                "size": [
+                    3,
+                    1
+                ],
+                "sub_nid": "Door",
+                "condition": "unit.can_unlock(region)",
+                "time_left": null,
+                "only_once": true,
                 "interrupt_move": false
             }
         ],

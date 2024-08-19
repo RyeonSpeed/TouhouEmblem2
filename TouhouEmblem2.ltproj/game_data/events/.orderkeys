@@ -107,6 +107,7 @@
     "1_Vendor",
     "global_BaseSuika",
     "global_BaseBreakables",
+    "global_BaseWarps",
     "global_BaseKasen'sAdvice",
     "global_BaseMercenary",
     "global_BaseMarket",
@@ -148,5 +149,13 @@
     "5_WarpA",
     "5_WarpB",
     "6_Outro",
-    "6_Intro"
+    "6_Intro",
+    "5_DoorA",
+    "5_DoorB",
+    "4_RumiaCirno",
+    "4_WriggleCirno",
+    "4_MystiaCirno",
+    "4_RumiaDaiyousei",
+    "4_WriggleDaiyousei",
+    "4_MystiaDaiyousei"
 ]

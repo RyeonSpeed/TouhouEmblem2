@@ -1,0 +1,16 @@
+[
+    {
+        "name": "RumiaDaiyousei",
+        "trigger": "on_talk",
+        "level_nid": "4",
+        "condition": "unit.nid == 'Rumia' and unit2.nid == 'Daiyousei'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "change_team;Daiyousei;player",
+            "remove_talk;Wriggle;Daiyousei",
+            "remove_talk;Mystia;Daiyousei"
+        ]
+    }
+]
