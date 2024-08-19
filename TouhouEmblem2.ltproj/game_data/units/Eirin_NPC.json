@@ -59,6 +59,10 @@
             [
                 "Physic",
                 false
+            ],
+            [
+                "Lantern",
+                false
             ]
         ],
         "learned_skills": [

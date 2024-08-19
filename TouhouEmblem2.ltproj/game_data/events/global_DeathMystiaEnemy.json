@@ -1,0 +1,17 @@
+[
+    {
+        "name": "DeathMystiaEnemy",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "unit.nid == 'Mystia' and unit.team == 'Enemy'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Mystia;FarLeft",
+            "speak;Mystia;Alright, time to hightail it outta here!",
+            "expression;Mystia;CloseEyes",
+            "remove_portrait;Mystia"
+        ]
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "name": "DeathMystia",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "unit.nid == 'Mystia' and unit.team == 'Player'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Mystia;FarRight",
+            "speak;Mystia;I'd rather not be attacked! Begone! I'm going!",
+            "expression;Mystia;CloseEyes",
+            "remove_portrait;Mystia"
+        ]
+    }
+]

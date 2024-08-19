@@ -1,0 +1,17 @@
+[
+    {
+        "name": "DeathMokou",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "unit.nid == 'Mokou'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Mokou;FarRight",
+            "speak;Mokou;To...the ashes...",
+            "expression;Mokou;CloseEyes",
+            "remove_portrait;Mokou"
+        ]
+    }
+]

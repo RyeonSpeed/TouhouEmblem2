@@ -1,0 +1,19 @@
+[
+    {
+        "name": "DeathReimu",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "unit.nid == 'Reimu'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Reimu;FarRight",
+            "speak;Reimu;Man...you suck at this game...",
+            "expression;Reimu;CloseEyes",
+            "remove_portrait;Reimu",
+            "remove_unit;Reimu",
+            "lose_game"
+        ]
+    }
+]

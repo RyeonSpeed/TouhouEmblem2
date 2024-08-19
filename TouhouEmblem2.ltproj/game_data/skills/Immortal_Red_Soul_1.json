@@ -1,6 +1,6 @@
 [
     {
-        "nid": "Immortal_Red_Soul",
+        "nid": "Immortal_Red_Soul_1",
         "name": "Immortal Red Soul",
         "desc": "Locked to 1 Rng. 5 HP battle recoil. +1 Dmg/4 HP lost. Heal HP = Mag each turn. May revive once.",
         "icon_nid": "skillicons3",
@@ -10,20 +10,12 @@
         ],
         "components": [
             [
-                "limit_maximum_range",
-                1
+                "event_before_combat",
+                "Global Record Position"
             ],
             [
-                "recoil",
-                5
-            ],
-            [
-                "event_on_upkeep",
-                "Global MokouRecover"
-            ],
-            [
-                "event_after_combat",
-                "Global Mokou_Recoil"
+                "hidden",
+                null
             ]
         ]
     }

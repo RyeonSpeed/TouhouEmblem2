@@ -1,0 +1,17 @@
+[
+    {
+        "name": "DeathDaiyousei",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "unit.nid == 'Daiyousei'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Daiyousei;FarRight",
+            "speak;Daiyousei;Cirno?! Cirno, where are you?!",
+            "expression;Daiyousei;CloseEyes",
+            "remove_portrait;Daiyousei"
+        ]
+    }
+]

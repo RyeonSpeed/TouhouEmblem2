@@ -16,7 +16,9 @@
             "set_fog_of_war;gba;6;6;6",
             "prep;1",
             "change_team;Mokou;player",
-            "change_team;Kaguya;player"
+            "change_team;Kaguya;player",
+            "change_team;Tewi;player",
+            "change_team;Reisen;player"
         ]
     }
 ]

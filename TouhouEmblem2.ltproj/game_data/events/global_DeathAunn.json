@@ -1,0 +1,17 @@
+[
+    {
+        "name": "DeathAunn",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "unit.nid == 'Aunn'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Aunn;FarRight",
+            "speak;Aunn;I'm sorry, Ms. Reimu...",
+            "expression;Aunn;CloseEyes",
+            "remove_portrait;Aunn"
+        ]
+    }
+]

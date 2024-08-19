@@ -1,9 +1,9 @@
 [
     {
-        "name": "Defeat Boss",
-        "trigger": "combat_end",
+        "name": "Seize",
+        "trigger": "Seize",
         "level_nid": "5",
-        "condition": "game.check_dead(\"Saar\")",
+        "condition": "region.nid == 'Seize'",
         "commands": [],
         "only_once": false,
         "priority": 20,

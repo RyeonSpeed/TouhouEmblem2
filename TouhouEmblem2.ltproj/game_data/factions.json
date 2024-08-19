@@ -68,5 +68,15 @@
             0,
             0
         ]
+    },
+    {
+        "nid": "Insurgents",
+        "name": "Insurgents",
+        "desc": "Mysterious insurgents who seem to come from nowhere.",
+        "icon_nid": "ResistanceEmblem",
+        "icon_index": [
+            0,
+            0
+        ]
     }
 ]

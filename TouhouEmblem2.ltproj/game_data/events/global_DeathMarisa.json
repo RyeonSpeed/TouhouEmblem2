@@ -1,0 +1,17 @@
+[
+    {
+        "name": "DeathMarisa",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "unit.nid == 'Marisa'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Marisa;FarRight",
+            "speak;Marisa;Yer the worst tactician ever!",
+            "expression;Marisa;CloseEyes",
+            "remove_portrait;Marisa"
+        ]
+    }
+]

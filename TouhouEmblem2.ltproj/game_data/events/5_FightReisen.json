@@ -1,0 +1,16 @@
+[
+    {
+        "name": "FightReisen",
+        "trigger": "combat_start",
+        "level_nid": "5",
+        "condition": "unit.nid == \"Reisen_Boss\" or unit2.nid == \"Reisen_Boss\"",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Reisen;Left",
+            "speak;Reisen;I'll stop you here, so that Lady Eirin doesn't even have to deal with you!",
+            "remove_portrait;Reisen"
+        ]
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "name": "DeathWriggleEnemy",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "unit.nid == 'Wriggle' and unit.team == 'Enemy'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Wriggle;FarLeft",
+            "speak;Wriggle;Tch..! I'll get my revenge!",
+            "expression;Wriggle;CloseEyes",
+            "remove_portrait;Wriggle"
+        ]
+    }
+]

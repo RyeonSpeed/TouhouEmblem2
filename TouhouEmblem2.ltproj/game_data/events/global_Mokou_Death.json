@@ -3,7 +3,7 @@
         "name": "Mokou_Death",
         "trigger": "unit_death",
         "level_nid": null,
-        "condition": "has_skill(unit, 'Immortal_Red_Soul')",
+        "condition": "has_skill(unit, 'Immortal_Red_Soul_1')",
         "commands": [],
         "only_once": true,
         "priority": 20,
@@ -12,6 +12,7 @@
             "speak;Mokou_NPC;RISE, IMMORTAL PHOENIX!",
             "resurrect;{unit}",
             "add_unit;{unit};{v:UnitPosition}",
+            "remove_skill;{unit};Immortal_Red_Soul_1",
             "end"
         ]
     }

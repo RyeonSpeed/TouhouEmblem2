@@ -1,0 +1,17 @@
+[
+    {
+        "name": "DeathReisen",
+        "trigger": "unit_death",
+        "level_nid": "5",
+        "condition": "unit.nid == \"Reisen_Boss\"",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Reisen;Left",
+            "speak;Reisen;Insane...",
+            "expression;Reisen;CloseEyes",
+            "remove_portrait;Reisen"
+        ]
+    }
+]

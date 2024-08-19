@@ -16,9 +16,9 @@
             "enemy2_battle": null
         },
         "objective": {
-            "simple": "Defeat enemy,Left {eval:len(game.get_enemy_units())}",
-            "win": "Defeat enemy,Left {eval:len(game.get_enemy_units())}",
-            "loss": "Eirika dies"
+            "simple": "Defeat Tewi",
+            "win": "Defeat Tewi",
+            "loss": "Reimu or Marisa dies"
         },
         "roam": false,
         "roam_unit": null,

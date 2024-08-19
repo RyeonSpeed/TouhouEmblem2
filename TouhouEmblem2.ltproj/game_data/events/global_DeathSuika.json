@@ -1,6 +1,6 @@
 [
     {
-        "name": "DeathNeimi",
+        "name": "DeathSuika",
         "trigger": "unit_death",
         "level_nid": null,
         "condition": "unit.nid == 'Neimi'",
@@ -8,10 +8,10 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "add_portrait;Neimi;FarRight",
-            "speak;Neimi;You were right, Colm...|I am a klutz. Sorry...",
-            "expression;Neimi;CloseEyes",
-            "remove_portrait;Neimi"
+            "add_portrait;Suika;FarRight",
+            "speak;Suika;Aw man...the party ended...so soon...",
+            "expression;Suika;CloseEyes",
+            "remove_portrait;Suika"
         ]
     }
 ]
