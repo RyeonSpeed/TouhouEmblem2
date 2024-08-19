@@ -89,6 +89,7 @@
     "Wight_King",
     "Skeleton_B",
     "Boneguard_B",
+    "Grave_Rider",
     "Bigle",
     "Bigler",
     "Centaur",
@@ -114,5 +115,6 @@
     "Thundercaller",
     "Wall25",
     "Wall100",
-    "Snag20"
+    "Snag20",
+    "Dryad"
 ]

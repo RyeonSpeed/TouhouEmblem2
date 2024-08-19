@@ -1,0 +1,43 @@
+[
+    {
+        "name": "BaseKogasa",
+        "trigger": "on_base_convo",
+        "level_nid": null,
+        "condition": "unit == 'Kogasa'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "transition;close",
+            "change_background;Camp Tent Interior",
+            "transition;open",
+            "music;Comrades",
+            "load_unit;Kogasa",
+            "add_portrait;Kogasa;Left",
+            "add_portrait;Reimu;CenterRight",
+            "add_portrait;Kasen;FarRight",
+            "speak;Reimu;Huh? What are you doing here?",
+            "speak;Kogasa;G-gah?! How did you find my secret hiding spot?!",
+            "speak;Kasen;Was pretty obvious from how much you were giggling to yourself.",
+            "speak;Reimu;If you have nothing to do here, you have 10 seconds before it's extermination time.",
+            "speak;Kogasa;W-wait! I can fix your weapons for you, remember?!",
+            "speak;Reimu;Oh. Right. That is something you can do.",
+            "speak;Kogasa;Here, let me tag along with you! Plus, there's bound to be a few opportunities for scaring!",
+            "speak;Kasen;Not exactly a great motivation, but there's not a lot of people here with those...",
+            "speak;Reimu;Finally. I can get some repairs done on my gear.",
+            "speak;Kogasa;Miiight not be able to do certain special weapons, though.",
+            "speak;Reimu;Useless.",
+            "multi_remove_portrait;Reimu;Kasen;Kogasa",
+            "sound;Item",
+            "alert;Kogasa joined the party!",
+            "speak;;You can now repair items in the Manage menu!;;;hint",
+            "give_bexp;25;no_banner",
+            "transition;close",
+            "change_background",
+            "remove_base_convo;Kogasa",
+            "game_var;baseconvolist;[x for x in v('baseconvolist') if not x == 'Kogasa']",
+            "add_lore;Kogasa",
+            "transition;open"
+        ]
+    }
+]

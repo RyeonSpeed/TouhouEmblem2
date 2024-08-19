@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Intro",
+        "trigger": "level_start",
+        "level_nid": "7",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "game_var;hireable_guys;v('hireable_guys') ",
+            "game_var;baseconvolist;v('baseconvolist') + ['Kogasa']",
+            "trigger_script;Global Housekeeping",
+            "load_unit;Mima",
+            "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Miu']",
+            "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Akane']",
+            "base;Serenes Forest;{e:};Mercenary Camp;True;Global Mercenary_Camp",
+            "prep;1"
+        ]
+    }
+]

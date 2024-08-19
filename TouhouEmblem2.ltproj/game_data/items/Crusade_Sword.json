@@ -1,12 +1,12 @@
 [
     {
-        "nid": "Zanbato",
-        "name": "Zanbato",
-        "desc": "Anti-Mounted.",
+        "nid": "Crusade_Sword",
+        "name": "Crusade Sword",
+        "desc": "Anti-Monstrous.",
         "icon_nid": "the2icons",
         "icon_index": [
-            0,
-            12
+            7,
+            8
         ],
         "components": [
             [
@@ -23,7 +23,7 @@
             ],
             [
                 "damage",
-                8
+                7
             ],
             [
                 "hit",
@@ -50,7 +50,7 @@
             ],
             [
                 "weight",
-                11
+                7
             ],
             [
                 "crit",

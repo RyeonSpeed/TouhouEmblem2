@@ -217,7 +217,7 @@
     ],
     [
         "repair_shop",
-        false
+        true
     ],
     [
         "sound_room_in_codex",

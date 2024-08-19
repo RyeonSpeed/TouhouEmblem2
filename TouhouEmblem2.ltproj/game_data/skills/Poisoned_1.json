@@ -1,6 +1,6 @@
 [
     {
-        "nid": "Poisoned",
+        "nid": "Poisoned_1",
         "name": "Poison",
         "desc": "Inflicts -2 to Def/Res. Unit takes 3 damage at the start of their turn. Stacks up to 5 times.",
         "icon_nid": "skillicons3",
@@ -12,10 +12,6 @@
             [
                 "negative",
                 null
-            ],
-            [
-                "time",
-                3
             ],
             [
                 "gba_poison",

@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Bangasa_Bombing_Run_1",
+        "name": "Bangasa Bombing Run",
+        "desc": "Attacks in a 2 radius blast. ",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            0,
+            8
+        ],
+        "components": [
+            [
+                "item_override",
+                "Bangasa_Bombing_Run"
+            ]
+        ]
+    }
+]

@@ -8,7 +8,7 @@
         "klass": "Archer_R",
         "tags": [],
         "bases": {
-            "HP": 20,
+            "HP": 25,
             "STR": 7,
             "MAG": 8,
             "SKL": 10,

@@ -9,7 +9,7 @@
                     "Team",
                     "other"
                 ],
-                "view_range": -5,
+                "view_range": 0,
                 "invert_targeting": true,
                 "roam_speed": 100,
                 "desired_proximity": 0,
@@ -46,9 +46,12 @@
             {
                 "action": "Attack",
                 "target": "Enemy",
-                "target_spec": null,
+                "target_spec": [
+                    "Class",
+                    "Dryad"
+                ],
                 "view_range": -3,
-                "invert_targeting": false,
+                "invert_targeting": true,
                 "roam_speed": 100,
                 "desired_proximity": 0,
                 "condition": ""
@@ -56,9 +59,12 @@
             {
                 "action": "None",
                 "target": "None",
-                "target_spec": null,
+                "target_spec": [
+                    "Class",
+                    "Citizen"
+                ],
                 "view_range": 0,
-                "invert_targeting": false,
+                "invert_targeting": true,
                 "roam_speed": 100,
                 "desired_proximity": 0,
                 "condition": ""
@@ -84,9 +90,12 @@
             {
                 "action": "Attack",
                 "target": "Enemy",
-                "target_spec": null,
+                "target_spec": [
+                    "Class",
+                    "Dryad"
+                ],
                 "view_range": -4,
-                "invert_targeting": false,
+                "invert_targeting": true,
                 "roam_speed": 100,
                 "desired_proximity": 0,
                 "condition": ""
@@ -125,9 +134,12 @@
             {
                 "action": "Attack",
                 "target": "Enemy",
-                "target_spec": null,
+                "target_spec": [
+                    "Class",
+                    "Dryad"
+                ],
                 "view_range": -2,
-                "invert_targeting": false,
+                "invert_targeting": true,
                 "roam_speed": 100,
                 "desired_proximity": 0,
                 "condition": ""
@@ -163,9 +175,12 @@
             {
                 "action": "Attack",
                 "target": "Enemy",
-                "target_spec": null,
+                "target_spec": [
+                    "Class",
+                    "Dryad"
+                ],
                 "view_range": -1,
-                "invert_targeting": false,
+                "invert_targeting": true,
                 "roam_speed": 100,
                 "desired_proximity": 0,
                 "condition": ""
@@ -201,9 +216,12 @@
             {
                 "action": "Attack",
                 "target": "Enemy",
-                "target_spec": null,
+                "target_spec": [
+                    "Class",
+                    "Dryad"
+                ],
                 "view_range": -2,
-                "invert_targeting": false,
+                "invert_targeting": true,
                 "roam_speed": 100,
                 "desired_proximity": 0,
                 "condition": ""
@@ -242,9 +260,12 @@
             {
                 "action": "Attack",
                 "target": "Enemy",
-                "target_spec": null,
+                "target_spec": [
+                    "Class",
+                    "Dryad"
+                ],
                 "view_range": -2,
-                "invert_targeting": false,
+                "invert_targeting": true,
                 "roam_speed": 100,
                 "desired_proximity": 0,
                 "condition": ""

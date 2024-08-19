@@ -114,5 +114,9 @@
     {
         "nid": "SUIKA_EQUATION",
         "expression": "STR + CON"
+    },
+    {
+        "nid": "FORGEMASTER",
+        "expression": "SKL"
     }
 ]

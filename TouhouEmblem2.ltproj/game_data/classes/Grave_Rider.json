@@ -1,41 +1,42 @@
 [
     {
-        "nid": "Skeleton",
-        "name": "Skeleton",
-        "desc": "Skeletons of past warriors who act as the backbone for any monstrous army.\nTags: Monster",
+        "nid": "Grave_Rider",
+        "name": "Grave_Rider",
+        "desc": "Skeleton riders who spread terror in the night.\nTags: Mounted, Monster",
         "tier": 1,
-        "movement_group": "Light Foot",
+        "movement_group": "Heavy Cav",
         "promotes_from": null,
         "turns_into": [
-            "Boneguard"
+            "Charger"
         ],
         "tags": [
+            "Mounted",
             "Monster"
         ],
         "max_level": 20,
         "bases": {
             "HP": 20,
             "STR": 6,
-            "MAG": 4,
-            "SKL": 5,
-            "SPD": 4,
+            "MAG": 0,
+            "SKL": 4,
+            "SPD": 6,
             "LCK": 0,
-            "DEF": 5,
-            "RES": 0,
-            "CON": 8,
-            "MOV": 5
+            "DEF": 6,
+            "CON": 9,
+            "MOV": 7,
+            "RES": 0
         },
         "growths": {
-            "HP": 80,
-            "STR": 45,
-            "MAG": 30,
-            "SKL": 30,
-            "SPD": 30,
-            "LCK": 10,
-            "DEF": 35,
-            "RES": 15,
+            "HP": 75,
+            "STR": 35,
+            "MAG": 20,
+            "SKL": 35,
+            "SPD": 35,
+            "LCK": 30,
+            "DEF": 25,
             "CON": 0,
-            "MOV": 0
+            "MOV": 0,
+            "RES": 15
         },
         "growth_bonus": {
             "HP": 0,
@@ -45,9 +46,9 @@
             "SPD": 0,
             "LCK": 0,
             "DEF": 0,
-            "RES": 0,
             "CON": 0,
-            "MOV": 0
+            "MOV": 0,
+            "RES": 0
         },
         "promotion": {
             "HP": 0,
@@ -57,9 +58,9 @@
             "SPD": 0,
             "LCK": 0,
             "DEF": 0,
-            "RES": 0,
             "CON": 0,
-            "MOV": 0
+            "MOV": 0,
+            "RES": 0
         },
         "max_stats": {
             "HP": 60,
@@ -69,11 +70,15 @@
             "SPD": 20,
             "LCK": 30,
             "DEF": 20,
-            "RES": 20,
-            "CON": 20,
-            "MOV": 15
+            "CON": 25,
+            "MOV": 15,
+            "RES": 20
         },
         "learned_skills": [
+            [
+                1,
+                "Canto"
+            ],
             [
                 1,
                 "Undead"
@@ -83,7 +88,7 @@
             "Sword": [
                 true,
                 1,
-                181
+                251
             ],
             "Lance": [
                 true,
@@ -126,13 +131,13 @@
                 251
             ]
         },
-        "icon_nid": "Generic_Portrait_Sword_Bonewalker",
+        "icon_nid": "Generic_Portrait_Cavalier",
         "icon_index": [
             0,
             0
         ],
-        "map_sprite_nid": "Bonewalker (U) Lance {Epicer}-stand",
-        "combat_anim_nid": "Skeleton",
+        "map_sprite_nid": "Cavalier (U) Skeleton Lance {d_h}-stand",
+        "combat_anim_nid": "LanceCav",
         "fields": []
     }
 ]

@@ -165,5 +165,10 @@
         "nid": "Flasuban Castle V2",
         "terrain_grid": {},
         "autotiles": {}
+    },
+    {
+        "nid": "Zoramine Fields",
+        "terrain_grid": {},
+        "autotiles": {}
     }
 ]

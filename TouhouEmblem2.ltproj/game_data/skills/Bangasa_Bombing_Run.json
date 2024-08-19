@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "Bangasa_Bombing_Run",
+        "name": "Bangasa Bombing Run",
+        "desc": "Attacks in a 2 radius blast, then pivots 2 tiles over the target. ",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            0,
+            8
+        ],
+        "components": [
+            [
+                "build_charge_start_charged",
+                5
+            ],
+            [
+                "combat_charge_increase",
+                1
+            ],
+            [
+                "combat_art",
+                "Bangasa_Bombing_Run_1"
+            ],
+            [
+                "allowed_weapons",
+                "item_system.weapon_type(unit, item) in ['Sword', 'Lance', 'Axe', 'Bow', 'Anima', 'Dark', 'Light']"
+            ]
+        ]
+    }
+]

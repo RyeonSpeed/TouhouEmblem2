@@ -73,7 +73,12 @@
             "CON": 20,
             "MOV": 15
         },
-        "learned_skills": [],
+        "learned_skills": [
+            [
+                1,
+                "Undead"
+            ]
+        ],
         "wexp_gain": {
             "Sword": [
                 false,
