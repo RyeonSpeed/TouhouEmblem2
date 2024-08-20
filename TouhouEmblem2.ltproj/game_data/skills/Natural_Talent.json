@@ -10,6 +10,10 @@
         ],
         "components": [
             [
+                "ability_indicator",
+                null
+            ],
+            [
                 "eval_hit",
                 "unit.level * 0.5"
             ],

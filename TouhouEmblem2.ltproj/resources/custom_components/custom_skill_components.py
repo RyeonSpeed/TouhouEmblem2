@@ -45,14 +45,14 @@ class PersonalSkill(SkillComponent):
     desc = "Just for later."
     tag = SkillTags.ATTRIBUTE  
     
-class RuneSkill(SkillComponent):
-    nid = 'rune_skill'
-    desc = "To remove easier."
+class CombatArtIndicator(SkillComponent):
+    nid = 'combat_art_indicator'
+    desc = "This skill should be displayed organizationally as a combat art."
     tag = SkillTags.ATTRIBUTE  
     
-class VehicleSkill(SkillComponent):
-    nid = 'vehicle_skill'
-    desc = "Actually matters mechanically."
+class AbilityIndicator(SkillComponent):
+    nid = 'ability_indicator'
+    desc = "This skill should be displayed organizationally as an ability."
     tag = SkillTags.ATTRIBUTE  
     
 class PassengerSkill(SkillComponent):
