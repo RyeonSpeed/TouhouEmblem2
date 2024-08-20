@@ -44,7 +44,7 @@
         "name": "Luck",
         "maximum": 30,
         "desc": "Luck affects many things.",
-        "position": "left",
+        "position": "right",
         "growth_colors": true
     },
     {
