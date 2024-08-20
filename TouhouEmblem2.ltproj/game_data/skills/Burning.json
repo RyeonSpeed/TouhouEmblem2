@@ -19,10 +19,6 @@
                 ]
             ],
             [
-                "hidden",
-                null
-            ],
-            [
                 "unit_flickering_tint",
                 [
                     255,

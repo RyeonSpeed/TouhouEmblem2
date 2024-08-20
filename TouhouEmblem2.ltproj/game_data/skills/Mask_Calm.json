@@ -20,6 +20,10 @@
             [
                 "event_on_remove",
                 "Global Mask_Calm"
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

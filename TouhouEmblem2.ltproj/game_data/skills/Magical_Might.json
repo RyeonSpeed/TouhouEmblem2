@@ -12,6 +12,10 @@
             [
                 "alternate_damage_formula",
                 "LETTY_EQUATION"
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

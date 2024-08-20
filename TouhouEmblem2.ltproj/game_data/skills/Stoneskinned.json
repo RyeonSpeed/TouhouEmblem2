@@ -8,6 +8,11 @@
             1,
             6
         ],
-        "components": []
+        "components": [
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
     }
 ]

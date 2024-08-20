@@ -24,6 +24,10 @@
             [
                 "sight_range_bonus",
                 1
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

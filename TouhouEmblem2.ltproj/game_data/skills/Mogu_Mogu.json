@@ -12,6 +12,10 @@
             [
                 "item_override",
                 "new_1"
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

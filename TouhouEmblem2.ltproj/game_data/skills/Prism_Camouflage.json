@@ -24,6 +24,10 @@
             [
                 "modify_ai_priority",
                 0.3
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

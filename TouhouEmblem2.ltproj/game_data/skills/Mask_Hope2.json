@@ -40,6 +40,10 @@
             [
                 "resist_follow_up",
                 0.5
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

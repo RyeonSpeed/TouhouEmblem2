@@ -16,6 +16,10 @@
             [
                 "crit",
                 15
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

@@ -12,6 +12,10 @@
             [
                 "immune_status",
                 null
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

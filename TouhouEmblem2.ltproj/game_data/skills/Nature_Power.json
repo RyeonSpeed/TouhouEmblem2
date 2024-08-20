@@ -12,6 +12,10 @@
             [
                 "eval_crit",
                 "0.5 * unit.get_stat('MAG')"
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

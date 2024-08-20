@@ -124,7 +124,9 @@
     "global_BaseRinnosuke",
     "global_BaseFunds",
     "global_BaseKosuzu",
-    "global_Housekeeping",
+    "global_Housekeeping2",
+    "global_Housekeeping3",
+    "global_Housekeeping1",
     "1_ReimuRumiaTalk",
     "2_Fog",
     "3_Turn9",
@@ -189,5 +191,6 @@
     "6_Elites",
     "7_Outro",
     "7_Intro",
-    "DEBUG_New_Event_1"
+    "DEBUG_New_Event_1",
+    "global_RemiliaCheck"
 ]

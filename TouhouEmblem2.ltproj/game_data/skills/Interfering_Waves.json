@@ -20,6 +20,10 @@
             [
                 "aura_target",
                 "unit"
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

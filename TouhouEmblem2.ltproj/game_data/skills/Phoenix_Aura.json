@@ -12,6 +12,10 @@
             [
                 "event_after_combat",
                 "Global Mokou_Aura"
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

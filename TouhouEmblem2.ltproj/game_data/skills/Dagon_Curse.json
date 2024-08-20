@@ -2,17 +2,13 @@
     {
         "nid": "Dagon_Curse",
         "name": "Dagon Curse",
-        "desc": "",
+        "desc": "-2 Spd/Def/Res.",
         "icon_nid": "Skills",
         "icon_index": [
             7,
             0
         ],
         "components": [
-            [
-                "negative",
-                null
-            ],
             [
                 "hidden",
                 null

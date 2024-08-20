@@ -24,6 +24,10 @@
             [
                 "distant_counter",
                 null
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

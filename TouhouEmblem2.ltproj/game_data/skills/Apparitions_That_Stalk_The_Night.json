@@ -16,6 +16,10 @@
             [
                 "combat_art",
                 "Apparitions_That_Stalk_The_Night_1"
+            ],
+            [
+                "combat_art_indicator",
+                null
             ]
         ]
     }

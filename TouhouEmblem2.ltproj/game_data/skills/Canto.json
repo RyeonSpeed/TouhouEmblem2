@@ -16,6 +16,10 @@
             [
                 "canto",
                 null
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

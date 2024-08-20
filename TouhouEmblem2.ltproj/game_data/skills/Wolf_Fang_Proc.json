@@ -20,6 +20,10 @@
             [
                 "attack_pre_proc",
                 "Wolf_Fang"
+            ],
+            [
+                "combat_art_indicator",
+                null
             ]
         ]
     }

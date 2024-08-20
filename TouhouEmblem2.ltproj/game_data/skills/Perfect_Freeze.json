@@ -16,6 +16,10 @@
             [
                 "give_status_after_hit",
                 "Frozen_1"
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

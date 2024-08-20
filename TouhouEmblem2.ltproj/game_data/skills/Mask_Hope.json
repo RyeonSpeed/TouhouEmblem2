@@ -24,6 +24,10 @@
             [
                 "event_on_remove",
                 "Global Mask_Hope"
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Housekeeping1",
+        "trigger": "level_start",
+        "level_nid": null,
+        "condition": "False",
+        "commands": [],
+        "only_once": false,
+        "priority": 1,
+        "_source": [
+            "game_var;_base_market;1",
+            "enable_convoy;1",
+            "enable_supports;1",
+            "game_var;_current_turnwheel_uses;3",
+            "if;not v('hireable_guys') ",
+            "game_var;hireable_guys;['Tokiko','Letty','Kokoro','Miki','Tomomi','Konami','Kabin','Yae','Amane']",
+            "else",
+            "end"
+        ]
+    }
+]

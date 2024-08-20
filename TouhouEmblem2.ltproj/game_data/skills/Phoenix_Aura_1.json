@@ -32,6 +32,10 @@
                     85,
                     0
                 ]
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

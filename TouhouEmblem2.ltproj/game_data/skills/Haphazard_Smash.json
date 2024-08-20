@@ -12,6 +12,10 @@
             [
                 "dynamic_damage",
                 "max(0, item.weight.value - unit.get_stat('CON'))"
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

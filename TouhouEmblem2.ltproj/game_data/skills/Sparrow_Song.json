@@ -12,6 +12,10 @@
             [
                 "ability",
                 "Refresh"
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

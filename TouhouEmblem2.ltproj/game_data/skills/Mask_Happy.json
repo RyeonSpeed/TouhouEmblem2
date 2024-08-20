@@ -32,6 +32,10 @@
             [
                 "event_on_remove",
                 "Global Mask_Happy"
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

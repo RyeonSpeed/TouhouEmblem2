@@ -24,6 +24,10 @@
             [
                 "aura_target",
                 "enemy"
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

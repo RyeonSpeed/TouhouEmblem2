@@ -20,6 +20,10 @@
             [
                 "combat_charge_increase",
                 1
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

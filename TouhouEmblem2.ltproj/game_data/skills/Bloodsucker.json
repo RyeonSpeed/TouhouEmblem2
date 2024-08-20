@@ -24,6 +24,10 @@
             [
                 "combat_charge_increase",
                 1
+            ],
+            [
+                "combat_art_indicator",
+                null
             ]
         ]
     }

@@ -16,6 +16,10 @@
             [
                 "crit_avoid",
                 100
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

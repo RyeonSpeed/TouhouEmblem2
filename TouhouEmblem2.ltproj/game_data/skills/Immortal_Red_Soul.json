@@ -24,6 +24,10 @@
             [
                 "event_after_combat",
                 "Global Mokou_Recoil"
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

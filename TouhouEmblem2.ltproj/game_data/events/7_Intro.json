@@ -8,9 +8,11 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "chapter_title",
+            "trigger_script;Housekeeping3",
+            "trigger_script;Housekeeping1",
             "game_var;hireable_guys;v('hireable_guys') ",
             "game_var;baseconvolist;v('baseconvolist') + ['Kogasa','Fatigue']",
-            "trigger_script;Global Housekeeping",
             "game_var;_fatigue;1",
             "load_unit;Mima",
             "add_lore;Mima",
@@ -20,6 +22,7 @@
             "enable_repair_shop;true",
             "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Miu']",
             "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Akane']",
+            "trigger_script;Housekeeping2",
             "base;Serenes Forest;{e:};Mercenary Camp;True;Global Mercenary_Camp",
             "prep;1"
         ]

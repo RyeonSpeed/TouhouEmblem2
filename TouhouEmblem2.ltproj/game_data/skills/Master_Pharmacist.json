@@ -16,6 +16,10 @@
             [
                 "armsthrift",
                 1
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

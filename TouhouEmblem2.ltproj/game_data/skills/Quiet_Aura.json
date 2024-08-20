@@ -2,7 +2,7 @@
     {
         "nid": "Quiet_Aura",
         "name": "Quiet!",
-        "desc": "Allies and enemies alike within 3 spaces receive -3 Mag/+3 Res.",
+        "desc": "-3 Mag/+3 Res.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             2,

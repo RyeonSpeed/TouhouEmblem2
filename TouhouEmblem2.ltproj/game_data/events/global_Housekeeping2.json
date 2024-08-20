@@ -1,6 +1,6 @@
 [
     {
-        "name": "Housekeeping",
+        "name": "Housekeeping2",
         "trigger": "level_start",
         "level_nid": null,
         "condition": "False",
@@ -10,11 +10,7 @@
         "_source": [
             "for;baseconvo;v('baseconvolist')",
             "add_base_convo;{baseconvo}",
-            "endf",
-            "game_var;_base_market;1",
-            "enable_convoy;1",
-            "enable_supports;1",
-            "game_var;_current_turnwheel_uses;3"
+            "endf"
         ]
     }
 ]

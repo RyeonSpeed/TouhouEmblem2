@@ -28,6 +28,10 @@
             [
                 "event_on_remove",
                 "Global Mask_Anger"
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

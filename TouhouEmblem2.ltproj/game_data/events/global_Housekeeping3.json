@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Housekeeping3",
+        "trigger": "level_start",
+        "level_nid": null,
+        "condition": "False",
+        "commands": [],
+        "only_once": false,
+        "priority": 1,
+        "_source": [
+            "if;not v('baseconvolist') ",
+            "game_var;baseconvolist;['Advice', 'Market', 'Mercenaries', 'Funds', 'Suika', 'Rinnosuke', 'Kosuzu']"
+        ]
+    }
+]

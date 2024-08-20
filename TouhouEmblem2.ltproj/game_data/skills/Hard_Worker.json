@@ -53,6 +53,10 @@
             [
                 "sight_range_bonus",
                 3
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

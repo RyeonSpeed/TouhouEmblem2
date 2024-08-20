@@ -16,6 +16,10 @@
             [
                 "resist_multiplier",
                 0.5
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

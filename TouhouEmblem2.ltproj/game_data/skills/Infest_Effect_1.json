@@ -2,7 +2,7 @@
     {
         "nid": "Infest_Effect_1",
         "name": "Infested",
-        "desc": "",
+        "desc": "-3 Mov.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             1,
@@ -29,10 +29,6 @@
             [
                 "time",
                 2
-            ],
-            [
-                "hidden",
-                null
             ]
         ]
     }

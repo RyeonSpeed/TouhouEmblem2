@@ -28,6 +28,10 @@
             [
                 "combat_condition",
                 "unit.get_stat('STR') < unit2.get_stat('STR')"
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }
