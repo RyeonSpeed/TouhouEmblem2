@@ -16,8 +16,14 @@
             "speak;;Unfortunately, you completed the map in more than 15 turns, so your reward will be reduced accordingly.;;;hint",
             "elif;game.turncount > 20",
             "speak;;Lmao skill issue;;;hint",
+            "end",
             "change_party;Mokou;Dumpster",
             "change_party;Kaguya;Dumpster",
+            "choice;KaguyaMokou;Kaguya or Mokou?;Kaguya,Mokou;;h;center",
+            "if;'{v:KaguyaMokou}' == 'Kaguya'",
+            "change_party;Kaguya;Reimu",
+            "elif;'{v:KaguyaMokou}' == 'Mokou'",
+            "change_party;Mokou;Reimu",
             "end",
             "set_next_chapter;7"
         ]

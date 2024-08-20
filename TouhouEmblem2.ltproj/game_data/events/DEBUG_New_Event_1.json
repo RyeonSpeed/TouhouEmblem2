@@ -1,0 +1,21 @@
+[
+    {
+        "name": "New Event_1",
+        "trigger": "turn_change",
+        "level_nid": "DEBUG",
+        "condition": "game.turncount == 1",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "choice;KaguyaMokou;Kaguya or Mokou?;Kaguya,Mokou;;h;center",
+            "if;'{v:KaguyaMokou}' == 'Kaguya'",
+            "change_party;Kaguya;Reimu",
+            "speak;;bruh1",
+            "elif;'{v:KaguyaMokou}' == 'Mokou'",
+            "change_party;Mokou;Reimu",
+            "speak;;bruh2",
+            "end"
+        ]
+    }
+]

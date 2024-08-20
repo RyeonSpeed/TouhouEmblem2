@@ -67,6 +67,10 @@
             [
                 1,
                 "Natural_Talent"
+            ],
+            [
+                1,
+                "NoFatigue"
             ]
         ],
         "unit_notes": [],
