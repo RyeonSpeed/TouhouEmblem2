@@ -144,6 +144,20 @@
                 "Name": "Sena",
                 "Cost": "1000",
                 "Description": "Elite mercs drawn in by a bigger battle."
+            },
+            {
+                "nid": "Seiran",
+                "Class": "Vagrant_A",
+                "Name": "Seiran",
+                "Cost": "3000",
+                "Description": "Swift fighter that can counter at any range."
+            },
+            {
+                "nid": "Ringo",
+                "Class": "Lancer_R",
+                "Name": "Ringo",
+                "Cost": "3000",
+                "Description": "Gets a free action after using an item."
             }
         ]
     }

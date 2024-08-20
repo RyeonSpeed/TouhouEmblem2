@@ -33,8 +33,8 @@
                 "roam_ai": null,
                 "ai_group": null,
                 "starting_position": [
-                    8,
-                    5
+                    9,
+                    6
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -47,7 +47,7 @@
                 "ai_group": "",
                 "starting_position": [
                     6,
-                    5
+                    7
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -59,8 +59,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    7,
-                    4
+                    10,
+                    5
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -72,8 +72,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    7,
-                    6
+                    8,
+                    7
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -86,7 +86,7 @@
                 "ai_group": null,
                 "starting_position": [
                     7,
-                    5
+                    6
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -177,7 +177,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Attack",
+                "ai": "Pursue",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -438,7 +438,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Attack",
+                "ai": "Pursue",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [

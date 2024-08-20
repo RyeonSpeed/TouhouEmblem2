@@ -7,9 +7,9 @@
         "party": "Reimu",
         "music": {},
         "objective": {
-            "simple": "",
-            "win": "",
-            "loss": ""
+            "simple": "Escape",
+            "win": "Escape",
+            "loss": "Reimu or Marisa dies"
         },
         "roam": false,
         "roam_unit": null,
@@ -1489,6 +1489,74 @@
                 "condition": "True",
                 "time_left": null,
                 "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "Village1",
+                "region_type": "event",
+                "position": [
+                    21,
+                    16
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "Visit",
+                "condition": "True",
+                "time_left": null,
+                "only_once": true,
+                "interrupt_move": false
+            },
+            {
+                "nid": "Village2",
+                "region_type": "event",
+                "position": [
+                    2,
+                    2
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "Visit",
+                "condition": "True",
+                "time_left": null,
+                "only_once": true,
+                "interrupt_move": false
+            },
+            {
+                "nid": "Destructible1",
+                "region_type": "event",
+                "position": [
+                    21,
+                    16
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "Destructible",
+                "condition": "unit.team == 'enemy'",
+                "time_left": null,
+                "only_once": true,
+                "interrupt_move": false
+            },
+            {
+                "nid": "Destructible2",
+                "region_type": "event",
+                "position": [
+                    2,
+                    2
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "Destructible",
+                "condition": "unit.team == 'enemy'",
+                "time_left": null,
+                "only_once": true,
                 "interrupt_move": false
             }
         ],

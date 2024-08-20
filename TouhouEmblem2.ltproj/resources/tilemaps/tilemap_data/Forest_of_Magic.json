@@ -5415,6 +5415,150 @@
                         ]
                     ]
                 }
+            },
+            {
+                "nid": "Village1",
+                "visible": false,
+                "foreground": false,
+                "terrain_grid": {},
+                "sprite_grid": {
+                    "21,16": [
+                        "Zoramine Fields",
+                        [
+                            25,
+                            31
+                        ]
+                    ]
+                }
+            },
+            {
+                "nid": "Village2",
+                "visible": false,
+                "foreground": false,
+                "terrain_grid": {},
+                "sprite_grid": {
+                    "2,2": [
+                        "Zoramine Fields",
+                        [
+                            25,
+                            31
+                        ]
+                    ]
+                }
+            },
+            {
+                "nid": "Destroyed1",
+                "visible": false,
+                "foreground": false,
+                "terrain_grid": {
+                    "20,15": "Village Ruins",
+                    "20,16": "Village Ruins",
+                    "21,16": "Village Ruins",
+                    "21,15": "Village Ruins",
+                    "22,15": "Village Ruins",
+                    "22,16": "Village Ruins"
+                },
+                "sprite_grid": {
+                    "21,15": [
+                        "Zoramine Fields",
+                        [
+                            10,
+                            27
+                        ]
+                    ],
+                    "20,16": [
+                        "Zoramine Fields",
+                        [
+                            9,
+                            28
+                        ]
+                    ],
+                    "22,16": [
+                        "Zoramine Fields",
+                        [
+                            11,
+                            28
+                        ]
+                    ],
+                    "20,15": [
+                        "Zoramine Fields",
+                        [
+                            9,
+                            27
+                        ]
+                    ],
+                    "21,16": [
+                        "Zoramine Fields",
+                        [
+                            10,
+                            28
+                        ]
+                    ],
+                    "22,15": [
+                        "Zoramine Fields",
+                        [
+                            11,
+                            27
+                        ]
+                    ]
+                }
+            },
+            {
+                "nid": "Destroyed2",
+                "visible": false,
+                "foreground": false,
+                "terrain_grid": {
+                    "1,1": "Village Ruins",
+                    "1,2": "Village Ruins",
+                    "2,2": "Village Ruins",
+                    "2,1": "Village Ruins",
+                    "3,1": "Village Ruins",
+                    "3,2": "Village Ruins"
+                },
+                "sprite_grid": {
+                    "2,1": [
+                        "Zoramine Fields",
+                        [
+                            10,
+                            27
+                        ]
+                    ],
+                    "1,2": [
+                        "Zoramine Fields",
+                        [
+                            9,
+                            28
+                        ]
+                    ],
+                    "3,2": [
+                        "Zoramine Fields",
+                        [
+                            11,
+                            28
+                        ]
+                    ],
+                    "1,1": [
+                        "Zoramine Fields",
+                        [
+                            9,
+                            27
+                        ]
+                    ],
+                    "2,2": [
+                        "Zoramine Fields",
+                        [
+                            10,
+                            28
+                        ]
+                    ],
+                    "3,1": [
+                        "Zoramine Fields",
+                        [
+                            11,
+                            27
+                        ]
+                    ]
+                }
             }
         ],
         "tilesets": [

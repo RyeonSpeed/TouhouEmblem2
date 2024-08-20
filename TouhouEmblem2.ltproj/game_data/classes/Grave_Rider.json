@@ -1,7 +1,7 @@
 [
     {
         "nid": "Grave_Rider",
-        "name": "Grave_Rider",
+        "name": "Grave Rider",
         "desc": "Skeleton riders who spread terror in the night.\nTags: Mounted, Monster",
         "tier": 1,
         "movement_group": "Heavy Cav",

@@ -8,8 +8,8 @@
         "klass": "Vagrant_S",
         "tags": [],
         "bases": {
-            "HP": 21,
-            "STR": 7,
+            "HP": 24,
+            "STR": 8,
             "MAG": 3,
             "SKL": 7,
             "SPD": 8,

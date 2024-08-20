@@ -8,19 +8,19 @@
         "klass": "Mage",
         "tags": [],
         "bases": {
-            "HP": 23,
+            "HP": 20,
             "DEF": 11,
             "RES": 6,
-            "CON": 8,
+            "CON": 7,
             "MOV": 3,
             "STR": 1,
             "MAG": 9,
             "SPD": 6,
             "SKL": 7,
-            "LCK": 0
+            "LCK": 5
         },
         "growths": {
-            "HP": 55,
+            "HP": 40,
             "DEF": 65,
             "RES": 30,
             "STR": 10,

@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Destroy1",
+        "trigger": "Destructible",
+        "level_nid": "7",
+        "condition": "region.nid == 'Destructible1'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "flicker_cursor;21,16",
+            "show_layer;Destroyed1",
+            "wait;500"
+        ]
+    }
+]
