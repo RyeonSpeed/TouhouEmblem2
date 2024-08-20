@@ -10,6 +10,10 @@
         ],
         "components": [
             [
+                "combat_art_indicator",
+                null
+            ],
+            [
                 "combat_art",
                 "Homing_ShotAttack"
             ],
