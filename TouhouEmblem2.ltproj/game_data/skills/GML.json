@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "GML",
+        "name": "Great, Unmoving Library",
+        "desc": "This unit can attack twice in a turn, but cannot move and attack in the same turn.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "no_attack_after_move",
+                null
+            ],
+            [
+                "item_override",
+                "new_2"
+            ]
+        ]
+    }
+]

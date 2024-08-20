@@ -118,6 +118,14 @@
     "Bolting",
     "Poseidon_Bolt",
     "Athame",
+    "Grimoire",
+    "Ignite",
+    "Splash",
+    "Growth",
+    "Unearth",
+    "Forge",
+    "Rising_Sun",
+    "Dipping_Moon",
     "Flux",
     "Luna",
     "Slime",
@@ -192,6 +200,7 @@
     "Mask_Change_Calm",
     "Immortal_Red_Heal",
     "new_1",
+    "new_2",
     "Dragonstone",
     "Sear"
 ]

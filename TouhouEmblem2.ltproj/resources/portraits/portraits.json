@@ -550,5 +550,17 @@
             48
         ],
         "info_offset": 0
+    },
+    {
+        "nid": "Patchouli",
+        "blinking_offset": [
+            24,
+            40
+        ],
+        "smiling_offset": [
+            24,
+            56
+        ],
+        "info_offset": 0
     }
 ]

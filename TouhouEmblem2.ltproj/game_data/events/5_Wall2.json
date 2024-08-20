@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Wall2",
+        "trigger": "unit_death",
+        "level_nid": "5",
+        "condition": "unit.nid == 'Wall2'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "map_anim;Snag;{position}",
+            "show_layer;Wall2"
+        ]
+    }
+]

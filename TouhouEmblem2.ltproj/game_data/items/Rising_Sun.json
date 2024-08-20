@@ -1,0 +1,70 @@
+[
+    {
+        "nid": "Rising_Sun",
+        "name": "Rising Sun",
+        "desc": "",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            8,
+            0
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                2
+            ],
+            [
+                "damage",
+                2
+            ],
+            [
+                "weight",
+                4
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Light"
+            ],
+            [
+                "weapon_rank",
+                "E"
+            ],
+            [
+                "map_hit_add_blend",
+                [
+                    224,
+                    207,
+                    18
+                ]
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "battle_cast_anim",
+                "Fire"
+            ],
+            [
+                "fatigue",
+                1
+            ]
+        ]
+    }
+]

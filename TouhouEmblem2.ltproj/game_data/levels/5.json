@@ -46,8 +46,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    22,
-                    32
+                    5,
+                    3
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -1548,10 +1548,7 @@
                 "ai": "Guard",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": [
-                    5,
-                    3
-                ],
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": true
             },
@@ -2004,7 +2001,7 @@
                 "interrupt_move": false
             },
             {
-                "nid": "DoorA",
+                "nid": "DoorB",
                 "region_type": "event",
                 "position": [
                     5,
@@ -2021,7 +2018,7 @@
                 "interrupt_move": false
             },
             {
-                "nid": "DoorB",
+                "nid": "DoorA",
                 "region_type": "event",
                 "position": [
                     17,
@@ -2082,6 +2079,11 @@
                 "positions": {}
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

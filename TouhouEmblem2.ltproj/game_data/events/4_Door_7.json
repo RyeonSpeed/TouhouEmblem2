@@ -3,7 +3,7 @@
         "name": "Door_7",
         "trigger": "Door",
         "level_nid": "4",
-        "condition": "region.nid == 'Door_1'",
+        "condition": "region.nid == 'Door_7'",
         "commands": [],
         "only_once": true,
         "priority": 20,

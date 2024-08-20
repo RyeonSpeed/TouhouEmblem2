@@ -1,0 +1,38 @@
+[
+    {
+        "nid": "Grimoire",
+        "name": "Grimoire",
+        "desc": "",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            7,
+            5
+        ],
+        "components": [
+            [
+                "multi_item",
+                [
+                    "Ignite",
+                    "Splash",
+                    "Growth",
+                    "Unearth",
+                    "Forge",
+                    "Rising_Sun",
+                    "Dipping_Moon"
+                ]
+            ],
+            [
+                "weapon",
+                null
+            ],
+            [
+                "weapon_type",
+                "Anima"
+            ],
+            [
+                "target_enemy",
+                null
+            ]
+        ]
+    }
+]
