@@ -11,6 +11,7 @@
             "chapter_title",
             "enable_convoy;1",
             "enable_turnwheel;1",
+            "enable_repair_shop;false",
             "game_var;_max_turnwheel_uses;3",
             "game_var;_current_turnwheel_uses;3",
             "add_lore;Intro",

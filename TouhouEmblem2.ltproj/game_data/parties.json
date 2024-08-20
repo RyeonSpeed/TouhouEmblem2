@@ -3,5 +3,10 @@
         "nid": "Reimu",
         "name": "Reimu's Team",
         "leader": "Reimu"
+    },
+    {
+        "nid": "Dumpster",
+        "name": "Dumpster",
+        "leader": "Reimu"
     }
 ]

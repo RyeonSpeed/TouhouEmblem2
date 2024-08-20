@@ -118,6 +118,7 @@
     "global_BaseBreakables",
     "global_BaseWarps",
     "global_BaseKasen'sAdvice",
+    "global_BaseFatigue",
     "global_BaseMercenary",
     "global_BaseMarket",
     "global_BaseRinnosuke",

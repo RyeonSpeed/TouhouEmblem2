@@ -1,7 +1,7 @@
 [
     {
         "nid": "Lunatic_Red_Eyes_Effect",
-        "name": "Lunatic Red Eyes",
+        "name": "Lunacy",
         "desc": "Can target any unit on the field. Berserks them for 3 turns and gives them -30 Hit/Dodge but also +50 Crit",
         "icon_nid": "skillicons_1",
         "icon_index": [

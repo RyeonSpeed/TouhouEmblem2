@@ -10,7 +10,8 @@
         "_source": [
             "change_team;Daiyousei;player",
             "remove_talk;Rumia;Daiyousei",
-            "remove_talk;Wriggle;Daiyousei"
+            "remove_talk;Wriggle;Daiyousei",
+            "add_lore;Daiyousei"
         ]
     }
 ]

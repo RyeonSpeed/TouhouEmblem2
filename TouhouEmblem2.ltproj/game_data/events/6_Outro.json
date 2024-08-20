@@ -16,6 +16,8 @@
             "speak;;Unfortunately, you completed the map in more than 15 turns, so your reward will be reduced accordingly.;;;hint",
             "elif;game.turncount > 20",
             "speak;;Lmao skill issue;;;hint",
+            "change_party;Mokou;Dumpster",
+            "change_party;Kaguya;Dumpster",
             "end",
             "set_next_chapter;7"
         ]

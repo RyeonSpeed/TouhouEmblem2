@@ -147,46 +147,67 @@
         "text": "On some maps, there may be a warp tile that allows you to warp back and forth between two spots. Use these to your advantage."
     },
     {
+        "nid": "Fatigue",
+        "name": "Fatigue",
+        "title": "Fatigue",
+        "category": "Guide",
+        "text": "When units attack on the battlefield, they gain fatigue from their actions. Each use of a weapon gives a unit 1 fatigue. A unit's fatigue cap is equal to their HP stat.\nWhen a unit hits max fatigue or above, they are unable to participate for the next chapter. Whenever a unit sits out a chapter, their fatigue is reset to 0. You can also reset fatigue by using special items. Lords are unaffected by fatigue."
+    },
+    {
+        "nid": "Repair",
+        "name": "Repair",
+        "title": "Repair",
+        "category": "Guide",
+        "text": "You can repair items using money when managing items."
+    },
+    {
+        "nid": "Miasma",
+        "name": "Miasma",
+        "title": "Miasma",
+        "category": "Guide",
+        "text": "The Forest of Magic has neutral spirits that spew out miasma. This will affect most units, and will give them Poison if they linger within the miasma auras."
+    },
+    {
         "nid": "Reimu",
         "name": "Reimu",
         "title": "Reimu",
         "category": "Character",
-        "text": "Reimu acts as a standard magic user, being physically frail with middling Spd, but generally fairly good Mag. Her personal skill, Natural Talent, doesn't really help her much early on, but can be impactful later. Use her as a backline damage dealer. Reimu also has access to the Combat Art \"Homing Shot\", which allows her to tackle some more pesky enemies that have high Avoid."
+        "text": "Reimu acts as a standard magic user, being physically frail with middling Spd, but generally fairly good Mag. Her personal skill, Natural Talent, doesn't really help her much early on, but can be impactful later. Use her as a backline damage dealer. \nReimu also has access to the Combat Art \"Homing Shot\", which allows her to tackle some more pesky enemies that have high Avoid."
     },
     {
         "nid": "Marisa",
         "name": "Marisa",
         "title": "Marisa",
         "category": "Character",
-        "text": "Marisa is a frailer but faster magic user than Reimu, enabling her to be your glass cannon. Marisa has access to a few neat tools, foremost of which being her skill, Hard Worker, which allows her to increase her growth rates per kill (resets on level up). This can be used and abused to an extent to get some pretty crazy growths if done right. Beyond that, Marisa's Star Laser has pretty good function as an AoE attack to soften up or pick off a few weakened enemies."
+        "text": "Marisa is a frailer but faster magic user than Reimu, enabling her to be your glass cannon. \nMarisa has access to a few neat tools, foremost of which being her skill, Hard Worker, which allows her to increase her growth rates per kill (resets on level up). This can be used and abused to an extent to get some pretty crazy growths if done right. \nBeyond that, Marisa's Star Laser has pretty good function as an AoE attack to soften up or pick off a few weakened enemies."
     },
     {
         "nid": "Kasen",
         "name": "Kasen",
         "title": "Kasen",
         "category": "Character",
-        "text": "Kasen comes as a prepromoted character with pretty high base stats but pretty bad growths. However, that isn't to say you should just bench her automatically for more \"higher\" potential units; Kasen has a lot to contribute. Her \"Mercy\" Combat Art allows her to weaken her attacks and let other units swipe up kills. Beyond that, she also serves as a backup option in case you find yourself in danger and need an out. Don't skip over Kasen and fall into the classic Casual's Pitfall."
+        "text": "Kasen comes as a prepromoted character with pretty high base stats but pretty bad growths. However, that isn't to say you should just bench her automatically for more \"higher\" potential units; Kasen has a lot to contribute. \nHer \"Mercy\" Combat Art allows her to weaken her attacks and let other units swipe up kills. Beyond that, she also serves as a backup option in case you find yourself in danger and need an out. \nDon't skip over Kasen and fall into the classic Casual's Pitfall."
     },
     {
         "nid": "Aunn",
         "name": "Aunn",
         "title": "Aunn",
         "category": "Character",
-        "text": "Aunn is a mounted unit, and thus has fairly good movement. Use this to your advantage. Her sturdy build and high movement allows her to hit the frontlines pretty fast. However, do watch out for anti-mounted weapons and fast mages, which will end up being Aunn's undoing if you're not careful."
+        "text": "Aunn is a mounted unit, and thus has fairly good movement. Use this to your advantage. Her sturdy build and high movement allows her to hit the frontlines pretty fast. \nHowever, do watch out for anti-mounted weapons and fast mages, which will end up being Aunn's undoing if you're not careful."
     },
     {
         "nid": "Remilia",
         "name": "Remilia",
         "title": "Remilia",
         "category": "Character",
-        "text": "Remilia is a pretty standard infantry unit, possessing a neat tech in the \"Bloodsucker\" Combat Art, which allows her to drain HP from a unit during combat. Her strength, however, lies in the fact that you can use her \"Controller of Fate\" ability to turn back the clock on your actions up to 3 times a map. "
+        "text": "Remilia is a pretty standard infantry unit, possessing a neat tech in the \"Bloodsucker\" Combat Art, which allows her to drain HP from a unit during combat. \nHer strength, however, lies in the fact that you can use her \"Controller of Fate\" ability to turn back the clock on your actions up to 3 times a map. "
     },
     {
         "nid": "Suika",
         "name": "Suika",
         "title": "Suika",
         "category": "Character",
-        "text": "Suika is an unorthodox bulky frontliner who has a huge HP pool and strength. She makes for a great bruiser and can smash apart frailer enemies with aplomb. However, Suika also is quite slow, and will be prone to getting doubled later on. Her Combat Art, \"Shattering Moon\", adds her weapon weight to her damage, making for a devastating blow perfect for bosskilling."
+        "text": "Suika is an unorthodox bulky frontliner who has a huge HP pool and strength. She makes for a great bruiser and can smash apart frailer enemies with aplomb. \nHowever, Suika also is quite slow, and will be prone to getting doubled later on. Her Combat Art, \"Shattering Moon\", adds her weapon weight to her damage, making for a devastating blow perfect for bosskilling."
     },
     {
         "nid": "Rinnosuke",
@@ -200,21 +221,21 @@
         "name": "Kosuzu",
         "title": "Kosuzu",
         "category": "Character",
-        "text": "Kosuzu is a unique character in the fact that she has a whole line of weapons, the Youma Scrolls, to herself. Each provides a unique offering to her skill set and allows her to perform various tasks. Growths-wise, just make sure Kosuzu doesn't see too much frontline action."
+        "text": "Kosuzu is a unique character in the fact that she has a whole line of weapons, the Youma Scrolls, to herself. Each provides a unique offering to her skill set and allows her to perform various tasks. \nGrowths-wise, just make sure Kosuzu doesn't see too much frontline action."
     },
     {
         "nid": "Tokiko",
         "name": "Tokiko",
         "title": "Tokiko",
         "category": "Character",
-        "text": "As a flier, Tokiko has amazing utility in being able to be basically anywhere on the map in a quick time, alongside rescuing and ferrying units where they need to be. Beyond this, Tokiko's skill \"Knowledge is Power\" allows you to more efficiently train up weapon exp."
+        "text": "As a flier, Tokiko has amazing utility in being able to be basically anywhere on the map in a quick time, alongside rescuing and ferrying units where they need to be. \nBeyond this, Tokiko's skill \"Knowledge is Power\" allows you to more efficiently train up weapon exp."
     },
     {
         "nid": "Letty",
         "name": "Letty",
         "title": "Letty",
         "category": "Character",
-        "text": "Letty is a very strange character, scaling off of a weird mix of Mag and Res. Her \"Flood of Frost\" combat art allows her to slow down enemies and boost her own damage at the same time (indirectly through the Res boost). Letty does absolutely wonderfully against magic users, but she might flounder a bit if she's caught on the defense against physical units."
+        "text": "Letty is a very strange character, scaling off of a weird mix of Mag and Res. Her \"Flood of Frost\" combat art allows her to slow down enemies and boost her own damage at the same time (indirectly through the Res boost). \nLetty does absolutely wonderfully against magic users, but she might flounder a bit if she's caught on the defense against physical units."
     },
     {
         "nid": "Kokoro",
@@ -228,20 +249,111 @@
         "name": "Rumia",
         "title": "Rumia",
         "category": "Character",
-        "text": "Rumia is a very high risk high reward character that can play into your cards well if you use her correctly. Her combat art, \"Apparitions That Stalk The Night\", invokes heavy fog over the battlefield, so thick that most units can only see 1 tile ahead. However, with that comes a huge stat bonus, including a coveted 1 movement buff. If you can work around the fog of war, Rumia can be a big boon for your army."
+        "text": "Rumia is a very high risk high reward character that can play into your cards well if you use her correctly. Her combat art, \"Apparitions That Stalk The Night\", invokes heavy fog over the battlefield, so thick that most units can only see 1 tile ahead. \nHowever, with that comes a huge stat bonus, including a coveted 1 movement buff. If you can work around the fog of war, Rumia can be a big boon for your army."
     },
     {
         "nid": "Mystia",
         "name": "Mystia",
         "title": "Mystia",
         "category": "Character",
-        "text": "Mystia is a dancer character, and for those of you not in the know, dancers are EXTREMELY efficient. Giving another unit a free turn is like having two of that unit. Her high mobility also allows her to reach pretty much any spot you need. Definitely a recommended pick no matter what team you're running."
+        "text": "Mystia is a dancer character, and for those of you not in the know, dancers are EXTREMELY efficient. Giving another unit a free turn is like having two of that unit.\nHer high mobility also allows her to reach pretty much any spot you need. Definitely a recommended pick no matter what team you're running."
     },
     {
         "nid": "Wriggle",
         "name": "Wriggle",
         "title": "Wriggle",
         "category": "Character",
-        "text": "In contrast to Aunn, Wriggle is a faster but frailer Lance Cav who takes more of an offensive approach, being a better player phase duelist at the expense of a lot of defense. However, Wriggle excels at hit and run tactics, with her Combat Art, infest, slowing down a unit's movement and allowing her to attack a unit and then ride off elsewhere. "
+        "text": "In contrast to Aunn, Wriggle is a faster but frailer Lance Cav who takes more of an offensive approach, being a better player phase duelist at the expense of a lot of defense. \nHowever, Wriggle excels at hit and run tactics, with her Combat Art, infest, slowing down a unit's movement and allowing her to attack a unit and then ride off elsewhere. "
+    },
+    {
+        "nid": "Sunny",
+        "name": "Sunny",
+        "title": "Sunny",
+        "category": "Character",
+        "text": "Sunny is a character mostly focused on countering mages and stealing. As a more support oriented character, she will be perfect for allowing you to steal items off of the enemy, paired with her high movement and speed."
+    },
+    {
+        "nid": "Star",
+        "name": "Star",
+        "title": "Star",
+        "category": "Character",
+        "text": "Star is just your average healer for the most part. However, her skill, Searchlight, is a very effective support ability that will help your hit rates become more reliable."
+    },
+    {
+        "nid": "Luna",
+        "name": "Luna",
+        "title": "Luna",
+        "category": "Character",
+        "text": "Luna is a risky character to play, with a low Con stat mixed with high weight weapons. However, due to her skill, Haphazard Smash, this actually plays into her favor as she can be used as a glass cannon to smash through high HP but frail units."
+    },
+    {
+        "nid": "Cirno",
+        "name": "Cirno",
+        "title": "Cirno",
+        "category": "Character",
+        "text": "Cirno has great bases and alright growths. She works best when facing down bosses due to her skill, The Strongest, which gives her a boost against stronger enemies."
+    },
+    {
+        "nid": "Daiyousei",
+        "name": "Daiyousei",
+        "title": "Daiyousei",
+        "category": "Character",
+        "text": "Daiyousei builds up Crit very fast using her ability, Nature Power. She should be used with high critical weapons to get the most out of her ability to spam critical hits."
+    },
+    {
+        "nid": "Tewi",
+        "name": "Tewi",
+        "title": "Tewi",
+        "category": "Character",
+        "text": "Tewi, beyond being a good thief, is also a decent combatant, with her skill, Super Luck, giving her more crit the more luck she has, allowing her to become a critting menace on the battlefield."
+    },
+    {
+        "nid": "Reisen",
+        "name": "Reisen",
+        "title": "Reisen",
+        "category": "Character",
+        "text": "Reisen is a mixed attacker, having decent magic and strength. Her biggest boon is her combat, Lunatic Red Eyes, which allows her to shift a unit on the map into a frenzy, allowing her to sow discord in enemy battle lines if she uses it effectively."
+    },
+    {
+        "nid": "Mokou",
+        "name": "Mokou",
+        "title": "Mokou",
+        "category": "Character",
+        "text": "Mokou is very unorthodox as a mage character, operating like a JRPG berserker character instead. While Mokou is fit for the frontlines, make sure she doesn't get too overwhelmed, or she'll end up taking a lot of damage."
+    },
+    {
+        "nid": "Kaguya",
+        "name": "Kaguya",
+        "title": "Kaguya",
+        "category": "Character",
+        "text": "As a counterpart to Mokou, Kaguya is a character more dedicated to stall, having incredible resistance to damage. This comes at the drawback of having horrible movement, only 3. \nShe can, however, mitigate this using \"In An Instant\", allowing her to warp to the side of an ally. This has a long cooldown, mind you, so position Kaguya well, as she'll be there for awhile."
+    },
+    {
+        "nid": "Seiran",
+        "name": "Seiran",
+        "title": "Seiran",
+        "category": "Character",
+        "text": "Seiran is build like average for a Vagrant, but her skill, \"Portal Combat\", allows her to counter at any range, giving her great defensive capability. \nDo keep in mind, however, that she suffers a speed and damage penalty from countering."
+    },
+    {
+        "nid": "Ringo",
+        "name": "Ringo",
+        "title": "Ringo",
+        "category": "Character",
+        "text": "Ringo can use any item as a free action, giving her the ability to heal up as a free action and then move again. This can be incredibly useful in various situations, and makes Ringo a considerable unit."
+    },
+    {
+        "nid": "Mima",
+        "name": "Mima",
+        "title": "Mima",
+        "category": "Character",
+        "text": "NO_FILE_FOUND"
+    },
+    {
+        "nid": "Kogasa",
+        "name": "Kogasa",
+        "title": "Kogasa",
+        "category": "Character",
+        "text": "Kogasa has access to a special combat art, \"Bangasa Bombing Run\", that allows her to deal damage in a 2 tile radius from the target. \nThis can be useful, but keep in mind that she also pivots 2 tiles off a target, so she can end up in inopportune situations if you're uncareful."
     }
 ]

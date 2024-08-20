@@ -2,7 +2,7 @@
     {
         "nid": "Portal_Combat",
         "name": "Portal Combat",
-        "desc": "Can counter at any range. Halves damage dealt and -2 AS when unit is defending.",
+        "desc": "Can counter at any range. Multiplies damage by 0.75 and -2 AS when unit is defending.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             5,
@@ -19,7 +19,7 @@
             ],
             [
                 "damage_multiplier",
-                0.5
+                0.75
             ],
             [
                 "distant_counter",

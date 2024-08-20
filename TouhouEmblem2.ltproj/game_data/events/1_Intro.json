@@ -92,7 +92,9 @@
             "add_portrait;Keine;CenterRight",
             "speak;Keine;I knew some youkai would make a move the second something like this happened. What a|pain. Listen here, you scum! I may not be able to erase history anymore, but I'll erase you|all the same!",
             "remove_portrait;Keine",
-            "speak;;From here on out, every map will feature a clear bonus if you finish the map within a certain|number of turns. This map's clear bonus is 300 Bonus EXP, with a decrease of 15 BExp|per turn you take over 15 turns!;;;hint"
+            "speak;;From here on out, every map will feature a clear bonus if you finish the map within a certain|number of turns. This map's clear bonus is 300 Bonus EXP, with a decrease of 15 BExp|per turn you take over 15 turns!;;;hint",
+            "win_game",
+            ""
         ]
     }
 ]

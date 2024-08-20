@@ -10,7 +10,8 @@
         "_source": [
             "change_team;Cirno;player",
             "remove_talk;Rumia;Cirno",
-            "remove_talk;Mystia;Cirno"
+            "remove_talk;Mystia;Cirno",
+            "add_lore;Cirno"
         ]
     }
 ]

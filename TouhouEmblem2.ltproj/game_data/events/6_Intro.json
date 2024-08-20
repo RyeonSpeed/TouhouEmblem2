@@ -22,7 +22,9 @@
             "change_team;Mokou;player",
             "change_team;Kaguya;player",
             "change_team;Tewi;player",
-            "change_team;Reisen;player"
+            "change_team;Reisen;player",
+            "add_lore;Tewi",
+            "add_lore;Reisen"
         ]
     }
 ]

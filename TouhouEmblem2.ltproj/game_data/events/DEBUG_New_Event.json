@@ -11,7 +11,32 @@
             "game_var;_fatigue;1",
             "game_var;_turnwheel;True",
             "game_var;_max_turnwheel_uses;4",
-            "game_var;_current_turnwheel_uses;4"
+            "game_var;_current_turnwheel_uses;4",
+            "add_lore;Reimu",
+            "add_lore;Marisa",
+            "add_lore;Kasen",
+            "add_lore;Aunn",
+            "add_lore;Remilia",
+            "add_lore;Kosuzu",
+            "add_lore;Rinnosuke",
+            "add_lore;Suika",
+            "add_lore;Kokoro",
+            "add_lore;Letty",
+            "add_lore;Tokiko",
+            "add_lore;Rumia",
+            "add_lore;Wriggle",
+            "add_lore;Mystia",
+            "add_lore;Sunny",
+            "add_lore;Luna",
+            "add_lore;Star",
+            "add_lore;Cirno",
+            "add_lore;Daiyousei",
+            "add_lore;Tewi",
+            "add_lore;Reisen",
+            "add_lore;Mokou",
+            "add_lore;Kaguya",
+            "add_lore;Kogasa",
+            "add_lore;Mima"
         ]
     }
 ]
