@@ -25,6 +25,9 @@
             "    load_unit;{v:MercenaryHireChoice};player",
             "    add_lore;{v:MercenaryHireChoice}",
             "    game_var;hireable_guys;[x for x in v('hireable_guys') if not x == '{d:MercenaryHiringList.{v:MercenaryHireChoice}.Name}']",
+            "    if;v('hireable_guys')",
+            "        unchoice",
+            "    end",
             "end"
         ]
     }
