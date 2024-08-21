@@ -1,0 +1,34 @@
+[
+    {
+        "nid": "Extreme_Edge",
+        "name": "Extreme Edge",
+        "desc": "When initiating combat, +20 Crit. Swords only.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            1,
+            0
+        ],
+        "components": [
+            [
+                "build_charge_start_charged",
+                5
+            ],
+            [
+                "combat_charge_increase",
+                1
+            ],
+            [
+                "allowed_weapons",
+                "item_system.weapon_type(unit, item) in ['Sword']"
+            ],
+            [
+                "combat_art_indicator",
+                null
+            ],
+            [
+                "combat_art",
+                "Extreme_Edge_1"
+            ]
+        ]
+    }
+]

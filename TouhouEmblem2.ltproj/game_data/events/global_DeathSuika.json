@@ -3,7 +3,7 @@
         "name": "DeathSuika",
         "trigger": "unit_death",
         "level_nid": null,
-        "condition": "unit.nid == 'Neimi'",
+        "condition": "unit.nid == 'Suika'",
         "commands": [],
         "only_once": false,
         "priority": 20,

@@ -1,0 +1,23 @@
+[
+    {
+        "nid": "Fleetfoot_Whack_1",
+        "name": "Fleetfoot Whack",
+        "desc": "When initiating combat, +3 Spd.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            3,
+            0
+        ],
+        "components": [
+            [
+                "stat_change",
+                [
+                    [
+                        "SPD",
+                        3
+                    ]
+                ]
+            ]
+        ]
+    }
+]

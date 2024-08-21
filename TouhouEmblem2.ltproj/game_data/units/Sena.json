@@ -49,7 +49,12 @@
                 false
             ]
         ],
-        "learned_skills": [],
+        "learned_skills": [
+            [
+                1,
+                "Extreme_Edge"
+            ]
+        ],
         "unit_notes": [],
         "wexp_gain": {
             "Sword": [

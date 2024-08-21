@@ -24,7 +24,7 @@
             "DEF": 25,
             "SPD": 50,
             "STR": 35,
-            "MAG": 45,
+            "MAG": 35,
             "SKL": 35,
             "HP": 65,
             "CON": 5,
@@ -65,6 +65,10 @@
             [
                 1,
                 "Haphazard_Smash"
+            ],
+            [
+                1,
+                "Staking_Your_Life_on_a_Prank"
             ]
         ],
         "unit_notes": [],

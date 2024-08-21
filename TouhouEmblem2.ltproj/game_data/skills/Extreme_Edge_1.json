@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Extreme_Edge_1",
+        "name": "Extreme Edge",
+        "desc": "When initiating combat, +20 Crit. Swords only.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            1,
+            0
+        ],
+        "components": [
+            [
+                "crit",
+                20
+            ]
+        ]
+    }
+]
