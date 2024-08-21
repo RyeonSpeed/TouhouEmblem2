@@ -13,7 +13,7 @@
             "transition;open",
             "music;Comrades",
             "load_unit;Suika",
-            "add_portrait;Suika;Left",
+            "add_portrait;Suika;Left;ExpressionList=Smile",
             "add_portrait;Reimu;CenterRight",
             "add_portrait;Kasen;FarRight",
             "speak;Suika;Heyyy!",
