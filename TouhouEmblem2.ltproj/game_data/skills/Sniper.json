@@ -1,0 +1,38 @@
+[
+    {
+        "nid": "Sniper",
+        "name": "Sniper",
+        "desc": "Critical hits are now double damage + 10 extra damage. ",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            4,
+            3
+        ],
+        "components": [
+            [
+                "alternate_critical_addition_formula",
+                "AltCritAdd"
+            ],
+            [
+                "alternate_critical_multiplier_formula",
+                "AltCritMult"
+            ],
+            [
+                "allowed_weapons",
+                "item_system.weapon_type(unit, item) in ['Bow']"
+            ],
+            [
+                "condition",
+                "unit.klass == 'Archer'"
+            ],
+            [
+                "hidden_if_inactive",
+                null
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

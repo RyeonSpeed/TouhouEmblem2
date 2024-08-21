@@ -465,7 +465,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Flamberge",
+                        "Slim_Sword",
                         false
                     ]
                 ],
@@ -513,7 +513,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Flame_Lance",
+                        "Iron_Lance",
                         false
                     ]
                 ],
@@ -1012,7 +1012,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Thunder",
+                        "Gust",
                         false
                     ]
                 ],
@@ -1035,7 +1035,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Thunder",
+                        "Gust",
                         false
                     ]
                 ],
@@ -1068,7 +1068,7 @@
                 "faction": "Bandit",
                 "starting_items": [
                     [
-                        "Flamberge",
+                        "Iron_Sword",
                         false
                     ]
                 ],
@@ -1094,7 +1094,7 @@
                 "faction": "Bandit",
                 "starting_items": [
                     [
-                        "Flamberge",
+                        "Iron_Sword",
                         false
                     ]
                 ],
@@ -1106,8 +1106,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    15,
-                    6
+                    18,
+                    1
                 ],
                 "starting_traveler": null,
                 "generic": true

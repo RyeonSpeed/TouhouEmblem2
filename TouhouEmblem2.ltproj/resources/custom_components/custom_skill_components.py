@@ -30,6 +30,32 @@ class ImmuneNewStatus(SkillComponent):
     def after_gain_skill(self, unit, other_skill):
         if other_skill.negative:
             action.do(action.RemoveSkill(unit, other_skill))
+            
+class ImmuneNewChooseStatus(SkillComponent):
+    nid = 'immune_new__choose_status'
+    desc = "Unit is not affected by incoming negative statuses"
+    tag = SkillTags.STATUS
+    
+    expose = ComponentType.Skill
+    value = ''
+
+    def after_gain_skill(self, unit, other_skill):
+        if other_skill.nid == self.value:
+            if other_skill.negative:
+                action.do(action.RemoveSkill(unit, other_skill))
+            
+class ImmuneChooseStatus(SkillComponent):
+    nid = 'immune__choose_status'
+    desc = "Unit does not receive negative statuses and is not affected by existing negative statuses"
+    tag = SkillTags.STATUS
+    
+    expose = ComponentType.Skill
+    value = ''
+
+    def after_gain_skill(self, unit, other_skill):
+        if other_skill.nid == self.value:
+            if other_skill.negative and skill_system.condition(self.skill, unit):
+                action.do(action.RemoveSkill(unit, other_skill))
 
 class ImmunePropaganda(SkillComponent):
     nid = 'immune_propaganda'
@@ -245,3 +271,19 @@ class BuildChargeStartCharged(SkillComponent):
             return self.skill.data['charge'] / self.skill.data['total_charge']
         else:
             return 1
+            
+class DeathRecoil(SkillComponent):
+    nid = 'deathrecoil'
+    desc = "Unit takes lethal damage after combat with an enemy"
+    tag = SkillTags.COMBAT2
+
+    expose = ComponentType.Int
+    value = 0
+    author = 'Lord_Tweed'
+
+    def end_combat(self, playback, unit, item, target, item2, mode):
+        if target and skill_system.check_enemy(unit, target):
+           end_health = unit.get_hp() - self.value
+           action.do(action.SetHP(unit, max(0, end_health)))
+           action.do(action.TriggerCharge(unit, self.skill))
+        

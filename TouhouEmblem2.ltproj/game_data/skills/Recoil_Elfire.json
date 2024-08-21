@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Recoil_Elfire",
+        "name": "Recoil Elfire",
+        "desc": "",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "deathrecoil",
+                20
+            ]
+        ]
+    }
+]

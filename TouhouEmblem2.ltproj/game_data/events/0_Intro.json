@@ -83,6 +83,7 @@
             "enable_repair_shop;false",
             "game_var;_max_turnwheel_uses;3",
             "game_var;_current_turnwheel_uses;3",
+            "game_var;_fatigue;0",
             "add_lore;Intro",
             "add_lore;Character_Stats",
             "add_lore;Weapon_Stats_and_Tags",

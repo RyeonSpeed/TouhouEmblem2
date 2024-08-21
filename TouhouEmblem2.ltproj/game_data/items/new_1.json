@@ -10,7 +10,7 @@
         ],
         "components": [
             [
-                "attack_after_combat",
+                "menu_after_combat",
                 null
             ]
         ]

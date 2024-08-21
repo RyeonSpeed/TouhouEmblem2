@@ -2,7 +2,7 @@
     {
         "nid": "Magic_Miasma",
         "name": "Magic Miasma",
-        "desc": "Enemies within a 4 tile radius of this unit will be inflicted with Poison.",
+        "desc": "Enemies within a 3 tile radius of this unit will be inflicted with Poisoned.",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,
@@ -11,7 +11,7 @@
         "components": [
             [
                 "aura",
-                "Poisoned_1"
+                "Poisoned"
             ],
             [
                 "aura_range",

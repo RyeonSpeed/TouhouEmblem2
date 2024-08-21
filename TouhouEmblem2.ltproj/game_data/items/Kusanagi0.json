@@ -27,7 +27,7 @@
             ],
             [
                 "damage",
-                2
+                3
             ],
             [
                 "hit",
@@ -50,10 +50,6 @@
                 "Sword"
             ],
             [
-                "weapon_rank",
-                "E"
-            ],
-            [
                 "wexp",
                 3
             ],
@@ -66,6 +62,10 @@
             [
                 "fatigue",
                 1
+            ],
+            [
+                "locked",
+                null
             ]
         ]
     }

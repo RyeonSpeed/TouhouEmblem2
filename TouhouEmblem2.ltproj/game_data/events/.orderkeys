@@ -191,12 +191,13 @@
     "6_Elites",
     "7_Outro",
     "7_Intro",
-    "DEBUG_New_Event_1",
     "global_RemiliaCheck",
     "7_Village1",
     "7_Village2",
     "7_Destroy1",
     "7_Destroy2",
     "5_Wall1",
-    "5_Wall2"
+    "5_Wall2",
+    "global_PatchyReset",
+    "6_KusanagiUpgrade"
 ]

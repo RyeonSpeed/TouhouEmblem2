@@ -21,7 +21,7 @@
         },
         "growths": {
             "DEF": 35,
-            "SPD": 55,
+            "SPD": 40,
             "MOV": 0,
             "STR": 35,
             "SKL": 35,

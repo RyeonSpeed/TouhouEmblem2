@@ -2,7 +2,7 @@
     {
         "nid": "Grimoire",
         "name": "Grimoire",
-        "desc": "",
+        "desc": "Patchy can move twice when attacking with this item.",
         "icon_nid": "the2icons",
         "icon_index": [
             7,
@@ -32,6 +32,12 @@
             [
                 "target_enemy",
                 null
+            ],
+            [
+                "prf_unit",
+                [
+                    "Patchouli"
+                ]
             ]
         ]
     }

@@ -9,7 +9,7 @@
                     "Team",
                     "other"
                 ],
-                "view_range": 0,
+                "view_range": -5,
                 "invert_targeting": true,
                 "roam_speed": 100,
                 "desired_proximity": 0,
@@ -114,11 +114,14 @@
                 "condition": ""
             },
             {
-                "action": "None",
-                "target": "None",
-                "target_spec": null,
+                "action": "Attack",
+                "target": "Enemy",
+                "target_spec": [
+                    "ID",
+                    "Keine_NPC"
+                ],
                 "view_range": 0,
-                "invert_targeting": false,
+                "invert_targeting": true,
                 "roam_speed": 100,
                 "desired_proximity": 0,
                 "condition": ""
@@ -281,11 +284,14 @@
                 "condition": ""
             },
             {
-                "action": "None",
-                "target": "None",
-                "target_spec": null,
+                "action": "Attack",
+                "target": "Enemy",
+                "target_spec": [
+                    "ID",
+                    "Keine_NPC"
+                ],
                 "view_range": 0,
-                "invert_targeting": false,
+                "invert_targeting": true,
                 "roam_speed": 100,
                 "desired_proximity": 0,
                 "condition": ""

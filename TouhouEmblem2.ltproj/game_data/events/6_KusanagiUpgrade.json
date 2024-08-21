@@ -1,0 +1,28 @@
+[
+    {
+        "name": "KusanagiUpgrade",
+        "trigger": null,
+        "level_nid": "6",
+        "condition": "game.check_alive(\"Rinnosuke\") and game.get_unit('Rinnosuke').team == 'player'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "transition;close",
+            "change_background;Camp Tent Interior",
+            "transition;open",
+            "add_portrait;Rinnosuke;Left",
+            "speak;Rinnosuke;Hm? What's happening to the Kusanagi?",
+            "speak;Rinnosuke;...Woah!",
+            "remove_portrait;Rinnosuke",
+            "add_portrait;Rinnosuke;Left",
+            "speak;Rinnosuke;Damn, I tripped over. Hm. The Kusanagi seems to be a bit more shiny now. ",
+            "speak;Rinnosuke;I'll have to research this further.",
+            "remove_item;Rinnosuke;Kusanagi0;no_banner",
+            "give_item;Rinnosuke;Kusanagi1;no_banner",
+            "transition;close",
+            "change_background",
+            "transition;open"
+        ]
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Recoil_Arson",
+        "name": "Recoil Arson",
+        "desc": "",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "deathrecoil",
+                40
+            ]
+        ]
+    }
+]

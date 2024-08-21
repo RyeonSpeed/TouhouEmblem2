@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Gas_Mask",
+        "name": "Gas Mask",
+        "desc": "Immune to poison. +2 Res. -2 sight in the dark.",
+        "icon_nid": "lantern",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "value",
+                800
+            ],
+            [
+                "equippable_accessory",
+                null
+            ],
+            [
+                "status_on_equip",
+                "GasMaskBonus"
+            ]
+        ]
+    }
+]

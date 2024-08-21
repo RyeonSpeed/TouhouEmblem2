@@ -10,7 +10,7 @@
         "bases": {
             "HP": 23,
             "STR": 9,
-            "MAG": 0,
+            "MAG": 5,
             "SKL": 8,
             "SPD": 7,
             "LCK": 11,
@@ -22,7 +22,7 @@
         "growths": {
             "HP": 60,
             "STR": 45,
-            "MAG": 20,
+            "MAG": 35,
             "SKL": 60,
             "SPD": 55,
             "LCK": 55,
@@ -61,6 +61,14 @@
             [
                 1,
                 "Nature_Power"
+            ],
+            [
+                1,
+                "Sniper"
+            ],
+            [
+                1,
+                "Sharpshooter"
             ]
         ],
         "unit_notes": [],

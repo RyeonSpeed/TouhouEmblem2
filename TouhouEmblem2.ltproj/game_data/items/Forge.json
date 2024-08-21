@@ -2,7 +2,7 @@
     {
         "nid": "Forge",
         "name": "Forge",
-        "desc": "",
+        "desc": "Applies Metallic. Gives Patchy another turn after use.",
         "icon_nid": "the2icons",
         "icon_index": [
             8,
@@ -23,10 +23,6 @@
             ],
             [
                 "max_range",
-                2
-            ],
-            [
-                "damage",
                 2
             ],
             [
@@ -64,6 +60,18 @@
             [
                 "fatigue",
                 1
+            ],
+            [
+                "hit",
+                75
+            ],
+            [
+                "status_on_equip",
+                "GML_1"
+            ],
+            [
+                "status_on_hit",
+                "Metallic"
             ]
         ]
     }

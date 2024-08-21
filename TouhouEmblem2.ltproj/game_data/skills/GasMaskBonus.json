@@ -1,0 +1,39 @@
+[
+    {
+        "nid": "GasMaskBonus",
+        "name": "GasMaskBonus",
+        "desc": "",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "sight_range_bonus",
+                -2
+            ],
+            [
+                "hidden",
+                null
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "RES",
+                        2
+                    ]
+                ]
+            ],
+            [
+                "immune__choose_status",
+                "Poisoned"
+            ],
+            [
+                "immune_new__choose_status",
+                "Magic_Miasma"
+            ]
+        ]
+    }
+]

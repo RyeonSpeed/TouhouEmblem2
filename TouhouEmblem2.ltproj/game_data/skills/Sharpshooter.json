@@ -1,0 +1,38 @@
+[
+    {
+        "nid": "Sharpshooter",
+        "name": "Sharpshooter",
+        "desc": "Critical hits are now double damage + 20 extra damage.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            4,
+            3
+        ],
+        "components": [
+            [
+                "alternate_critical_addition_formula",
+                "AltCritAdd_1"
+            ],
+            [
+                "alternate_critical_multiplier_formula",
+                "AltCritMult"
+            ],
+            [
+                "allowed_weapons",
+                "item_system.weapon_type(unit, item) in ['Bow']"
+            ],
+            [
+                "condition",
+                "unit.klass == 'Sniper'"
+            ],
+            [
+                "hidden_if_inactive",
+                null
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

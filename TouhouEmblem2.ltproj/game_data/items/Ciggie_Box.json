@@ -1,0 +1,34 @@
+[
+    {
+        "nid": "Ciggie_Box",
+        "name": "Ciggie Box",
+        "desc": "Allows user to cast Fire, but they also take 3 damage per turn. Only one accessory can be equipped at a time.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            4,
+            4
+        ],
+        "components": [
+            [
+                "value",
+                1000
+            ],
+            [
+                "status_on_hold",
+                "Anticrit"
+            ],
+            [
+                "equippable_accessory",
+                null
+            ],
+            [
+                "multi_item",
+                [
+                    "Fire_Ciggies",
+                    "Elfire_Ciggies",
+                    "Arson_Ciggies"
+                ]
+            ]
+        ]
+    }
+]

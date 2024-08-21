@@ -118,5 +118,17 @@
     {
         "nid": "FORGEMASTER",
         "expression": "SKL"
+    },
+    {
+        "nid": "AltCritMult",
+        "expression": "2"
+    },
+    {
+        "nid": "AltCritAdd",
+        "expression": "10"
+    },
+    {
+        "nid": "AltCritAdd_1",
+        "expression": "20"
     }
 ]

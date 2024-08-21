@@ -2,7 +2,7 @@
     {
         "nid": "Nature_Power",
         "name": "Nature Power",
-        "desc": "Increases crit by Mag/2.",
+        "desc": "Increases crit by Mag.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             8,
@@ -11,7 +11,7 @@
         "components": [
             [
                 "eval_crit",
-                "0.5 * unit.get_stat('MAG')"
+                "unit.get_stat('MAG')"
             ],
             [
                 "ability_indicator",

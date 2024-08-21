@@ -18,6 +18,7 @@
             "    add_market_item;{MARKET_ENTRY}",
             "    endf",
             "trigger_script;Housekeeping2",
+            "game_var;_fatigue;0",
             "base;Backwoods (Night);{e:};Mercenary Camp;True;Global Mercenary_Camp",
             "add_talk;Wriggle;Cirno",
             "add_talk;Wriggle;Daiyousei",
