@@ -43,17 +43,22 @@
                 "nid": "104",
                 "variant": null,
                 "level": 1,
-                "klass": "Lancer",
+                "klass": "Skeleton",
                 "faction": "Youkai",
-                "starting_items": [],
+                "starting_items": [
+                    [
+                        "Flamberge",
+                        false
+                    ]
+                ],
                 "starting_skills": [],
                 "team": "enemy",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    8,
-                    9
+                    3,
+                    4
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -110,11 +115,11 @@
                 "generic": false
             },
             {
-                "nid": "Letty",
+                "nid": "Reisen",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
-                "ai_group": null,
+                "ai_group": "",
                 "starting_position": [
                     1,
                     2
@@ -395,6 +400,11 @@
             }
         ],
         "unit_groups": [],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

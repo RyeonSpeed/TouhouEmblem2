@@ -249,7 +249,7 @@
     "New Palette_2",
     "New Palette_3",
     "Lancer_GenericBlue",
-    "Remilia",
+    "Remilia_Lancer",
     "Lancer_GenericRed",
     "Marisa",
     "VagrantAxe_GenericBlue",
@@ -279,5 +279,9 @@
     "Acolyte_GenericRed",
     "Lycanthrope_GenericRed",
     "Kagerou",
-    "Keine"
+    "Keine",
+    "Remilia",
+    "Peg_GenericBlue",
+    "Peg_GenericRed",
+    "Tokiko"
 ]
