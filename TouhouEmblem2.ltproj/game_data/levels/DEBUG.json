@@ -27,37 +27,89 @@
         "tags": [],
         "units": [
             {
-                "nid": "Reimu",
+                "nid": "Kosuzu",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
-                "ai_group": null,
+                "ai_group": "",
                 "starting_position": [
-                    2,
-                    6
+                    5,
+                    7
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
-                "nid": "104",
+                "nid": "101",
                 "variant": null,
                 "level": 1,
-                "klass": "Skeleton",
+                "klass": "Guard",
                 "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Flamberge",
-                        false
-                    ]
-                ],
+                "starting_items": [],
                 "starting_skills": [],
                 "team": "enemy",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    3,
+                    4,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "102",
+                "variant": null,
+                "level": 1,
+                "klass": "Guard",
+                "faction": "Youkai",
+                "starting_items": [],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    4,
+                    4
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "103",
+                "variant": null,
+                "level": 1,
+                "klass": "Guard",
+                "faction": "Youkai",
+                "starting_items": [],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    5,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "104",
+                "variant": null,
+                "level": 1,
+                "klass": "Guard",
+                "faction": "Youkai",
+                "starting_items": [],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    6,
                     4
                 ],
                 "starting_traveler": null,
@@ -67,7 +119,7 @@
                 "nid": "105",
                 "variant": null,
                 "level": 1,
-                "klass": "Lancer",
+                "klass": "Guard",
                 "faction": "Youkai",
                 "starting_items": [],
                 "starting_skills": [],
@@ -76,8 +128,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    8,
-                    10
+                    3,
+                    4
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -86,7 +138,7 @@
                 "nid": "106",
                 "variant": null,
                 "level": 1,
-                "klass": "Lancer",
+                "klass": "Guard",
                 "faction": "Youkai",
                 "starting_items": [],
                 "starting_skills": [],
@@ -94,273 +146,12 @@
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": [
-                    7,
-                    11
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "Kasen",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
                 "starting_position": [
                     5,
                     4
                 ],
                 "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Reisen",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    1,
-                    2
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Tokiko",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    2,
-                    2
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "101",
-                "variant": null,
-                "level": 1,
-                "klass": "Shaman",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Flux",
-                        false
-                    ],
-                    [
-                        "Luna",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    4,
-                    6
-                ],
-                "starting_traveler": null,
                 "generic": true
-            },
-            {
-                "nid": "Sunny",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    6,
-                    9
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Luna",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    5,
-                    8
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Star",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    4,
-                    9
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Yan",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    6,
-                    10
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Sena",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    6,
-                    11
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "102",
-                "variant": null,
-                "level": 4,
-                "klass": "Vagrant_S",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Poison_Sword",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Attack",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    1,
-                    13
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "Alice",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    5,
-                    12
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "103",
-                "variant": null,
-                "level": 4,
-                "klass": "Dryad",
-                "faction": "Youkai",
-                "starting_items": [],
-                "starting_skills": [],
-                "team": "enemy2",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    3,
-                    14
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "107",
-                "variant": null,
-                "level": 1,
-                "klass": "Brigand",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Ciggie_Box",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": null,
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "Patchouli",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    9,
-                    8
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Daiyousei",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    10,
-                    9
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Ringo",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    7,
-                    9
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Rinnosuke",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    7,
-                    10
-                ],
-                "starting_traveler": null,
-                "generic": false
             }
         ],
         "regions": [

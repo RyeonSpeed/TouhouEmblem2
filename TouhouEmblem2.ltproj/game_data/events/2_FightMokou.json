@@ -1,0 +1,16 @@
+[
+    {
+        "name": "FightMokou",
+        "trigger": "combat_start",
+        "level_nid": "2",
+        "condition": "(unit.nid == \"Mokou_NPC\" and unit2.team == 'enemy') or (unit2.nid == \"Mokou_NPC\" and unit.team == 'enemy')",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Mokou;Left",
+            "speak;Mokou;Outta my way! I have fools to burn!",
+            "remove_portrait;Mokou"
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Turn7",
+        "trigger": "turn_change",
+        "level_nid": "7",
+        "condition": "game.turncount == 7",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_group;Brigand1;Brigand1;fade;closest"
+        ]
+    }
+]

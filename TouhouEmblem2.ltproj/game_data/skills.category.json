@@ -50,9 +50,11 @@
     "Infest": "Personal Skills",
     "Infest_Effect": "Personal Skills",
     "Infest_Effect_1": "Statuses",
+    "Instinct_Versus_Desire": "Personal Skills",
+    "Instinct_Versus_Desire_1": "Personal Skills",
     "Interfering_Waves": "Personal Skills",
-    "Knowledge_is_Power": "Statuses",
-    "Knowledge_is_Power_Effect": "Personal Skills",
+    "Knowledge_is_Power": "Personal Skills",
+    "Knowledge_is_Power_Effect": "Statuses",
     "LanternBonus": "Item Shit",
     "Lunar": "Statuses",
     "Lunatic_Red_Eyes": "Personal Skills",
@@ -123,6 +125,7 @@
     "Thick_Fur_Part2": "Personal Skills",
     "Thief": "Class Skills",
     "Throne": "Statuses",
+    "TindalosEffect": "Item Shit",
     "Tired": "Personal Skills",
     "Torch": "Item Shit",
     "Undead": "Class Skills",
@@ -131,6 +134,7 @@
     "Wolf_Fang": "Personal Skills",
     "Wolf_Fang_Proc": "Personal Skills",
     "ankh": "Item Shit",
+    "eyeofsenri": "Item Shit",
     "forged_shield": "Item Shit",
     "growths_robe": "Item Shit",
     "growths_stone": "Item Shit",
@@ -140,5 +144,6 @@
     "misfortune_amulet": "Item Shit",
     "poppet": "Item Shit",
     "poppet_2": "Item Shit",
-    "shield_check": "Item Shit"
+    "shield_check": "Item Shit",
+    "shield_check_1": "Item Shit"
 }

@@ -3,10 +3,10 @@
         "nid": "Rapier",
         "name": "Rapier",
         "desc": "Anti-Mounted, Armorpiercing.",
-        "icon_nid": "the2icons",
+        "icon_nid": "rapierrrr",
         "icon_index": [
-            8,
-            6
+            0,
+            0
         ],
         "components": [
             [

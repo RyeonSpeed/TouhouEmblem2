@@ -77,6 +77,13 @@
         "text": "You need to be able to lockpick to open up doors and chests. Marisa always has the \"Thief's Set\" skill on her, so you will always have a unit capable of lockpicking. It doesn't hurt, however, to have multiple in order to meet certain objectives faster. Some maps with chests will also have enemy thieves that will compete with your thieves to pick open doors and chests, so watch out for those."
     },
     {
+        "nid": "Stealing",
+        "name": "Stealing",
+        "title": "Stealing",
+        "category": "Lore",
+        "text": "Units with the \"Thief's Set\" skill will be able to steal items and unequipped weapons from the enemy. However, weapons being stolen must have a lower weight than the stealing unit's CON, and the enemy must be slower than the stealing unit."
+    },
+    {
         "nid": "Villages",
         "name": "Villages",
         "title": "Villages",

@@ -1,12 +1,12 @@
 [
     {
-        "nid": "Swordslayer",
-        "name": "Swordslayer",
-        "desc": "Reaver, Bladesmasher.",
-        "icon_nid": "swordslayer",
+        "nid": "Naginata",
+        "name": "Naginata",
+        "desc": "+3 Def/Res",
+        "icon_nid": "lances",
         "icon_index": [
             0,
-            0
+            3
         ],
         "components": [
             [
@@ -23,19 +23,19 @@
             ],
             [
                 "damage",
-                11
+                8
             ],
             [
                 "hit",
-                80
+                70
             ],
             [
                 "weapon_type",
-                "Axe"
+                "Lance"
             ],
             [
                 "weapon_rank",
-                "C"
+                "D"
             ],
             [
                 "uses",
@@ -49,20 +49,20 @@
                 }
             ],
             [
-                "reaver",
-                null
-            ],
-            [
                 "weight",
                 13
             ],
             [
+                "wexp",
+                1
+            ],
+            [
                 "crit",
-                5
+                0
             ],
             [
                 "value",
-                3300
+                1120
             ],
             [
                 "min_range",
@@ -73,20 +73,21 @@
                 1
             ],
             [
-                "effective_damage",
-                {
-                    "effective_tags": [
-                        "Sword"
-                    ],
-                    "effective_multiplier": 1.0,
-                    "effective_bonus_damage": 22,
-                    "show_effectiveness_flash": true,
-                    "weapon_effectiveness_multiplied": true
-                }
-            ],
-            [
                 "fatigue",
                 1
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "DEF",
+                        3
+                    ],
+                    [
+                        "RES",
+                        3
+                    ]
+                ]
             ]
         ]
     }

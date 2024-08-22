@@ -1,8 +1,8 @@
 [
     {
-        "nid": "Youma_Book0",
-        "name": "Dagon",
-        "desc": "After battle, inflicts enemy with -2 Spd/Def/Res for 2 turns. Cooldown for 2 turns.",
+        "nid": "Carcosa",
+        "name": "Carcosa",
+        "desc": "",
         "icon_nid": "the2icons",
         "icon_index": [
             4,
@@ -25,7 +25,7 @@
             ],
             [
                 "min_range",
-                1
+                2
             ],
             [
                 "max_range",
@@ -33,11 +33,11 @@
             ],
             [
                 "damage",
-                4
+                6
             ],
             [
                 "hit",
-                100
+                70
             ],
             [
                 "crit",
@@ -45,7 +45,7 @@
             ],
             [
                 "weight",
-                5
+                6
             ],
             [
                 "map_hit_add_blend",
@@ -60,14 +60,6 @@
                 null
             ],
             [
-                "status_on_hit",
-                "Dagon_Curse"
-            ],
-            [
-                "cooldown",
-                2
-            ],
-            [
                 "level_exp",
                 null
             ],
@@ -77,7 +69,7 @@
             ],
             [
                 "battle_cast_anim",
-                "Hex"
+                "Nyx"
             ],
             [
                 "fatigue",

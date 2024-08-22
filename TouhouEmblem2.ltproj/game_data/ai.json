@@ -114,13 +114,13 @@
                 "condition": ""
             },
             {
-                "action": "Attack",
+                "action": "Move_away_from",
                 "target": "Enemy",
                 "target_spec": [
                     "ID",
                     "Keine_NPC"
                 ],
-                "view_range": 0,
+                "view_range": -3,
                 "invert_targeting": true,
                 "roam_speed": 100,
                 "desired_proximity": 0,
@@ -284,14 +284,14 @@
                 "condition": ""
             },
             {
-                "action": "Attack",
+                "action": "Move_away_from",
                 "target": "Enemy",
                 "target_spec": [
                     "ID",
                     "Keine_NPC"
                 ],
-                "view_range": 0,
-                "invert_targeting": true,
+                "view_range": -3,
+                "invert_targeting": false,
                 "roam_speed": 100,
                 "desired_proximity": 0,
                 "condition": ""

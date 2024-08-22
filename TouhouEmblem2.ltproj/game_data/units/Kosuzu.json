@@ -45,11 +45,15 @@
         },
         "starting_items": [
             [
-                "Youma_Book0",
+                "Dagon",
                 false
             ],
             [
-                "Youma_Book1",
+                "Nameless_City",
+                false
+            ],
+            [
+                "Carcosa",
                 false
             ]
         ],

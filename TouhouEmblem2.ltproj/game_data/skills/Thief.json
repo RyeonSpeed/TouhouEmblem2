@@ -2,7 +2,7 @@
     {
         "nid": "Thief",
         "name": "Thief's Set",
-        "desc": "Unit can pick locks, open treasure, steal and see one tile further in the dark.",
+        "desc": "Unit can pick locks, open treasure, steal and see one tile further in the dark. Units may only steal from units slower than them, and only weapons with a lower Wt than the stealer's CON.",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,

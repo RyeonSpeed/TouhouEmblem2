@@ -43,11 +43,11 @@
     "2_Intro",
     "2_Village1",
     "2_Turn8",
-    "2_Turn9",
     "2_Turn6",
-    "2_Turn9_1",
+    "2_Turn9",
     "2_FightWriggle",
     "2_FightMystia",
+    "2_FightMokou",
     "2_Outro",
     "DEBUG_Test",
     "2_DestroyVillage1",
@@ -199,5 +199,9 @@
     "5_Wall1",
     "5_Wall2",
     "global_PatchyReset",
-    "6_KusanagiUpgrade"
+    "6_KusanagiUpgrade",
+    "6_KosuzuScroll",
+    "7_Turn7",
+    "7_Turn3",
+    "2_MokouNPCDeath"
 ]

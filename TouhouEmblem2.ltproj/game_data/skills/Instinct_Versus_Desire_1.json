@@ -1,0 +1,35 @@
+[
+    {
+        "nid": "Instinct_Versus_Desire_1",
+        "name": "Instinct Versus Desire",
+        "desc": "+5% Mag/Skl/Res and -5% Str/HP/Def growth for every tome in Tokiko's inventory. +5% Str/HP/Def and -5% Mag/Skl/Res for every sword/axe/lance in Tokiko's inventory.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            1,
+            3
+        ],
+        "components": [
+            [
+                "expression_growth_change",
+                [
+                    [
+                        "STR",
+                        "5 * len([x.nid for x in unit.items if item_system.weapon_type(unit, x) in ['Sword', 'Axe', 'Lance']])"
+                    ],
+                    [
+                        "MAG",
+                        "-5 * len([x.nid for x in unit.items if item_system.weapon_type(unit, x) in ['Sword', 'Axe', 'Lance']])"
+                    ]
+                ]
+            ],
+            [
+                "hidden",
+                null
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

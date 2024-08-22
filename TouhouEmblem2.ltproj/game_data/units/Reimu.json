@@ -7,7 +7,9 @@
         "level": 1,
         "klass": "Miko",
         "tags": [
-            "Lord"
+            "Lord",
+            "Convoy",
+            "AdjConvoy"
         ],
         "bases": {
             "HP": 18,

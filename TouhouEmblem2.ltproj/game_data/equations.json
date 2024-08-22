@@ -130,5 +130,9 @@
     {
         "nid": "AltCritAdd_1",
         "expression": "20"
+    },
+    {
+        "nid": "TINDALOS",
+        "expression": "50"
     }
 ]

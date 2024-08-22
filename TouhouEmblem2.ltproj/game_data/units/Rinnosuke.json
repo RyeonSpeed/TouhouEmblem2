@@ -6,7 +6,10 @@
         "variant": null,
         "level": 4,
         "klass": "Fencer_R",
-        "tags": [],
+        "tags": [
+            "Convoy",
+            "AdjConvoy"
+        ],
         "bases": {
             "DEF": 4,
             "SPD": 8,

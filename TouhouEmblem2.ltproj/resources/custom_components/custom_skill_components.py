@@ -281,7 +281,7 @@ class DeathRecoil(SkillComponent):
     value = 0
     author = 'Lord_Tweed'
 
-    def end_combat(self, playback, unit, item, target, item2, mode):
+    def cleanup_combat(self, playback, unit, item, target, item2, mode):
         if target and skill_system.check_enemy(unit, target):
            end_health = unit.get_hp() - self.value
            action.do(action.SetHP(unit, max(0, end_health)))
