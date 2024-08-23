@@ -126,7 +126,7 @@
             0
         ],
         "map_sprite_nid": "Goyle (U) T2 Lance {IS}-stand",
-        "combat_anim_nid": null,
+        "combat_anim_nid": "Archdemon",
         "fields": []
     }
 ]

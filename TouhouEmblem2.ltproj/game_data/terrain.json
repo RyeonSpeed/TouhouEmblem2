@@ -24,7 +24,7 @@
         ],
         "minimap": "Wall",
         "platform": "Wall",
-        "background": "BlackBackground",
+        "background": "VillageGate",
         "mtype": "Fence",
         "opaque": false,
         "status": null
@@ -69,7 +69,7 @@
         ],
         "minimap": "Bridge",
         "platform": "Bridge",
-        "background": "combat_riverbed",
+        "background": "combat_river",
         "mtype": "Normal",
         "opaque": false,
         "status": null
@@ -491,6 +491,51 @@
         "platform": "Sand",
         "background": "combat_sea",
         "mtype": "Cliff",
+        "opaque": false,
+        "status": null
+    },
+    {
+        "nid": "41",
+        "name": "Dock",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "minimap": "Pier",
+        "platform": "Deck",
+        "background": "combat_sea",
+        "mtype": "Normal",
+        "opaque": false,
+        "status": null
+    },
+    {
+        "nid": "42",
+        "name": "Stairs",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "minimap": "Floor",
+        "platform": "Floor",
+        "background": "combat_hill",
+        "mtype": "Normal",
+        "opaque": false,
+        "status": null
+    },
+    {
+        "nid": "43",
+        "name": "Stairs",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "minimap": "Floor",
+        "platform": "Floor",
+        "background": "combat_village",
+        "mtype": "Normal",
         "opaque": false,
         "status": null
     }

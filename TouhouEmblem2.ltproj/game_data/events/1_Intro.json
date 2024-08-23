@@ -88,7 +88,7 @@
             "base;River;{e:};Mercenary Camp;True;Global Mercenary_Camp",
             "change_background",
             "transition;open",
-            "prep;1",
+            "prep;1;Music=Mist Lake",
             "#Open Map",
             "move_cursor;Keine_NPC",
             "add_portrait;Keine;CenterRight",

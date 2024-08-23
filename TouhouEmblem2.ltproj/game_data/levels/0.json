@@ -7,11 +7,11 @@
         "party": "Reimu",
         "music": {
             "player_phase": "Distant Roads",
-            "enemy_phase": "Shadow of the Enemy",
+            "enemy_phase": "Wayward Springs",
             "other_phase": null,
             "enemy2_phase": null,
             "player_battle": "Attack",
-            "enemy_battle": "Defense",
+            "enemy_battle": "Wayward Springs",
             "other_battle": null,
             "enemy2_battle": null
         },
