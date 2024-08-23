@@ -31,7 +31,7 @@
             "DEF": 40,
             "RES": 15,
             "CON": 0,
-            "MOV": 1
+            "MOV": 0
         },
         "stat_cap_modifiers": {
             "CON": 0,

@@ -3,10 +3,10 @@
         "nid": "Mochi_Hammer",
         "name": "Mochi Hammer",
         "desc": "",
-        "icon_nid": "the2icons",
+        "icon_nid": "bruh2",
         "icon_index": [
-            2,
-            9
+            0,
+            2
         ],
         "components": [
             [

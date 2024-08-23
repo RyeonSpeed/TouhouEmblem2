@@ -4,7 +4,7 @@
         "name": "Rumia",
         "desc": "The youkai of darkness. Eats humans, but doesn't bother hunting them. Not the brightest.",
         "variant": null,
-        "level": 3,
+        "level": 5,
         "klass": "Shaman",
         "tags": [
             "Boss"
@@ -22,16 +22,16 @@
             "MOV": 0
         },
         "growths": {
-            "DEF": 0,
-            "SPD": 0,
+            "DEF": 50,
+            "SPD": 30,
             "MOV": 0,
-            "STR": 0,
-            "SKL": 0,
-            "LCK": 0,
-            "RES": 0,
-            "HP": 0,
+            "STR": 50,
+            "SKL": 45,
+            "LCK": 35,
+            "RES": 25,
+            "HP": 80,
             "CON": 0,
-            "MAG": 0
+            "MAG": 45
         },
         "stat_cap_modifiers": {
             "DEF": 0,
@@ -66,7 +66,7 @@
         },
         "alternate_classes": [],
         "portrait_nid": "rumia",
-        "affinity": "Dark",
+        "affinity": "Light",
         "fields": []
     }
 ]

@@ -3,10 +3,10 @@
         "nid": "Poison_Axe",
         "name": "Poison Axe",
         "desc": "Poisonous.",
-        "icon_nid": "Axe",
+        "icon_nid": "bruh1",
         "icon_index": [
             0,
-            3
+            1
         ],
         "components": [
             [

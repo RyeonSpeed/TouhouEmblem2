@@ -15,7 +15,23 @@
             ],
             [
                 "resist_multiplier",
-                0.5
+                0.0
+            ],
+            [
+                "time",
+                1
+            ],
+            [
+                "modify_ai_priority",
+                1.5
+            ],
+            [
+                "unit_flickering_tint",
+                [
+                    85,
+                    0,
+                    127
+                ]
             ]
         ]
     }

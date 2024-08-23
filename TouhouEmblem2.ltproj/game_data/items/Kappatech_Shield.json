@@ -3,10 +3,10 @@
         "nid": "Kappatech_Shield",
         "name": "Kappatech Shield",
         "desc": "+8 Def when in inventory, but -4 Spd. Loses one durability per round of combat. Only one accessory can be equipped at a time.",
-        "icon_nid": "Boosters",
+        "icon_nid": "accessories",
         "icon_index": [
             0,
-            10
+            3
         ],
         "components": [
             [

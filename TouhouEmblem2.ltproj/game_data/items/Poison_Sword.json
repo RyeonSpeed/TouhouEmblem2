@@ -3,10 +3,10 @@
         "nid": "Poison_Sword",
         "name": "Poison Sword",
         "desc": "Poisonous.",
-        "icon_nid": "Sword",
+        "icon_nid": "bruh1",
         "icon_index": [
             0,
-            7
+            0
         ],
         "components": [
             [

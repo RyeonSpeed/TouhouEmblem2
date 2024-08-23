@@ -2,7 +2,7 @@
     {
         "nid": "Nameless_City",
         "name": "Nameless City",
-        "desc": "Halves damage taken by Kosuzu.",
+        "desc": "Prevents Kosuzu from taking damage until next turn after being used and also makes enemies more likely to target her.",
         "icon_nid": "the2icons",
         "icon_index": [
             4,
@@ -60,10 +60,6 @@
                 null
             ],
             [
-                "status_on_equip",
-                "NamelessCityEffect"
-            ],
-            [
                 "level_exp",
                 null
             ],
@@ -78,6 +74,14 @@
             [
                 "fatigue",
                 1
+            ],
+            [
+                "cooldown",
+                3
+            ],
+            [
+                "self_status_on_hit",
+                "NamelessCityEffect"
             ]
         ]
     }

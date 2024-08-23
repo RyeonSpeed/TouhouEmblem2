@@ -287,11 +287,11 @@
                 "action": "Move_away_from",
                 "target": "Enemy",
                 "target_spec": [
-                    "ID",
-                    "Keine_NPC"
+                    "Team",
+                    "other"
                 ],
                 "view_range": -3,
-                "invert_targeting": false,
+                "invert_targeting": true,
                 "roam_speed": 100,
                 "desired_proximity": 0,
                 "condition": ""

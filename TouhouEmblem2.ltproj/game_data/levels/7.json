@@ -7,8 +7,8 @@
         "party": "Reimu",
         "music": {},
         "objective": {
-            "simple": "Escape",
-            "win": "Escape",
+            "simple": "Defeat Louise",
+            "win": "Defeat Louise",
             "loss": "Reimu or Marisa dies"
         },
         "roam": false,
@@ -1013,6 +1013,54 @@
                 "generic": true
             },
             {
+                "nid": "117",
+                "variant": null,
+                "level": 6,
+                "klass": "Demon",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    10,
+                    1
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "118",
+                "variant": null,
+                "level": 6,
+                "klass": "Demon",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    12,
+                    1
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
                 "nid": "105",
                 "variant": null,
                 "level": 6,
@@ -1024,7 +1072,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Looter"
+                ],
                 "team": "enemy",
                 "ai": "PursueVillage",
                 "roam_ai": null,
@@ -1045,7 +1095,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Looter"
+                ],
                 "team": "enemy",
                 "ai": "PursueVillage",
                 "roam_ai": null,
@@ -1066,7 +1118,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Looter"
+                ],
                 "team": "enemy",
                 "ai": "PursueVillage",
                 "roam_ai": null,
@@ -1206,6 +1260,19 @@
                 ],
                 "starting_traveler": null,
                 "generic": true
+            },
+            {
+                "nid": "Louise",
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    11,
+                    1
+                ],
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [

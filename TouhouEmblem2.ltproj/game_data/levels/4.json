@@ -1469,7 +1469,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Looter"
+                ],
                 "team": "enemy",
                 "ai": "Thief",
                 "roam_ai": null,
@@ -1490,7 +1492,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Looter"
+                ],
                 "team": "enemy",
                 "ai": "Thief",
                 "roam_ai": null,

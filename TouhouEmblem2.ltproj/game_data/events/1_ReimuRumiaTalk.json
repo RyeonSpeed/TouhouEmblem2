@@ -22,7 +22,9 @@
             "speak;Rumia;What",
             "speak;Reimu;I don't really like having more youkai around, but welcome to the team.",
             "speak;Rumia;Huh",
-            "change_team;Rumia;player"
+            "change_team;Rumia;player",
+            "remove_talk;Reimu;Rumia",
+            "remove_skill;Rumia;Looter"
         ]
     }
 ]

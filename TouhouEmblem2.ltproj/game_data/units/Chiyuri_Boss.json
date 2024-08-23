@@ -6,11 +6,13 @@
         "variant": null,
         "level": 12,
         "klass": "Outlaw",
-        "tags": [],
+        "tags": [
+            "Boss"
+        ],
         "bases": {
             "HP": 34,
             "STR": 9,
-            "SPD": 13,
+            "SPD": 14,
             "SKL": 12,
             "MAG": 5,
             "LCK": 5,
@@ -20,16 +22,16 @@
             "MOV": 6
         },
         "growths": {
-            "LCK": 0,
+            "LCK": 55,
             "CON": 0,
             "MOV": 0,
-            "STR": 0,
-            "SKL": 0,
-            "RES": 0,
-            "HP": 0,
-            "MAG": 0,
-            "SPD": 0,
-            "DEF": 0
+            "STR": 35,
+            "SKL": 55,
+            "RES": 40,
+            "HP": 65,
+            "MAG": 10,
+            "SPD": 60,
+            "DEF": 30
         },
         "stat_cap_modifiers": {
             "LCK": 0,

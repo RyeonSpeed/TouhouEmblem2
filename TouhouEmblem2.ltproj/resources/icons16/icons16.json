@@ -724,5 +724,25 @@
     {
         "nid": "swords",
         "subicon_dict": {}
+    },
+    {
+        "nid": "bruh2",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "bruh1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "accessories",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "lordweapons",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "stakingyourlifeonaprank",
+        "subicon_dict": {}
     }
 ]

@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Looter",
+        "name": "Looter",
+        "desc": "This unit will destroy villages and/or loot treasure chests.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

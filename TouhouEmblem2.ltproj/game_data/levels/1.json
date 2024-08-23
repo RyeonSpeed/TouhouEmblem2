@@ -769,11 +769,36 @@
                 "faction": "Bandit",
                 "starting_items": [
                     [
-                        "Flame_Axe",
+                        "Hand_Axe",
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Looter"
+                ],
+                "team": "enemy",
+                "ai": "PursueVillage",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "131",
+                "variant": null,
+                "level": 1,
+                "klass": "Brigand",
+                "faction": "Bandit",
+                "starting_items": [
+                    [
+                        "Hand_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Looter"
+                ],
                 "team": "enemy",
                 "ai": "PursueVillage",
                 "roam_ai": null,
@@ -790,11 +815,36 @@
                 "faction": "Bandit",
                 "starting_items": [
                     [
-                        "Flame_Axe",
+                        "Hand_Axe",
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Looter"
+                ],
+                "team": "enemy",
+                "ai": "PursueVillage",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "132",
+                "variant": null,
+                "level": 1,
+                "klass": "Brigand",
+                "faction": "Bandit",
+                "starting_items": [
+                    [
+                        "Hand_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Looter"
+                ],
                 "team": "enemy",
                 "ai": "PursueVillage",
                 "roam_ai": null,
@@ -1148,6 +1198,23 @@
                     "Wakasagihime_Boss": [
                         8,
                         12
+                    ]
+                }
+            },
+            {
+                "nid": "Bandits",
+                "units": [
+                    "131",
+                    "132"
+                ],
+                "positions": {
+                    "131": [
+                        0,
+                        6
+                    ],
+                    "132": [
+                        1,
+                        8
                     ]
                 }
             }

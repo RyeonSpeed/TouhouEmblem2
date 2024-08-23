@@ -81,7 +81,7 @@
         "player_autolevels": 0,
         "enemy_autolevels": 0,
         "boss_autolevels": 0,
-        "promoted_autolevels_fraction": 1.0,
+        "promoted_autolevels_fraction": 0.75,
         "start_locked": false
     },
     {
@@ -250,7 +250,7 @@
         },
         "player_autolevels": 0,
         "enemy_autolevels": 3,
-        "boss_autolevels": 0,
+        "boss_autolevels": 3,
         "promoted_autolevels_fraction": 1.0,
         "start_locked": false
     },
@@ -335,7 +335,7 @@
         },
         "player_autolevels": 0,
         "enemy_autolevels": 5,
-        "boss_autolevels": 0,
+        "boss_autolevels": 5,
         "promoted_autolevels_fraction": 1.0,
         "start_locked": false
     },
@@ -420,7 +420,7 @@
         },
         "player_autolevels": 0,
         "enemy_autolevels": 8,
-        "boss_autolevels": 0,
+        "boss_autolevels": 8,
         "promoted_autolevels_fraction": 1.0,
         "start_locked": false
     }

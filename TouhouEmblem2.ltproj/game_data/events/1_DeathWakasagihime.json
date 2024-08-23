@@ -3,7 +3,7 @@
         "name": "DeathWakasagihime",
         "trigger": "unit_death",
         "level_nid": "1",
-        "condition": "unit.nid == \"Sekibanki_Boss\"",
+        "condition": "unit.nid == \"Wakasagihime_Boss\"",
         "commands": [],
         "only_once": false,
         "priority": 20,

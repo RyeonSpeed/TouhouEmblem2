@@ -3,10 +3,10 @@
         "nid": "Ancient_Coin",
         "name": "Ancient Coin",
         "desc": "A relic worth a measley 100 Gold.",
-        "icon_nid": "the2icons",
+        "icon_nid": "accessories",
         "icon_index": [
-            5,
-            0
+            0,
+            6
         ],
         "components": [
             [

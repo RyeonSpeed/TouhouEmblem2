@@ -137,7 +137,7 @@
     ],
     [
         "enemy_leveling",
-        "Dynamic"
+        "Fixed"
     ],
     [
         "auto_promote",

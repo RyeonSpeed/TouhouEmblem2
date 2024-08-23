@@ -1073,7 +1073,8 @@
                     ]
                 ],
                 "starting_skills": [
-                    "Eye_of_Bullshit"
+                    "Eye_of_Bullshit",
+                    "Looter"
                 ],
                 "team": "enemy",
                 "ai": "PursueVillage",
@@ -1099,7 +1100,8 @@
                     ]
                 ],
                 "starting_skills": [
-                    "Eye_of_Bullshit"
+                    "Eye_of_Bullshit",
+                    "Looter"
                 ],
                 "team": "enemy",
                 "ai": "PursueVillage",

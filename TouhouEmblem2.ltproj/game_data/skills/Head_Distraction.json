@@ -2,7 +2,7 @@
     {
         "nid": "Head_Distraction",
         "name": "Head Distraction",
-        "desc": "Sekibanki's heads fly about, causing all enemies -20 Hit within 3 tiles.",
+        "desc": "Sekibanki's heads fly about, causing all enemies -10 Hit within 3 tiles.",
         "icon_nid": "skillicons3",
         "icon_index": [
             0,

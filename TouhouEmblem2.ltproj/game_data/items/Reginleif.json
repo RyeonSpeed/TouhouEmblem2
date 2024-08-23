@@ -3,10 +3,10 @@
         "nid": "Reginleif",
         "name": "Reginleif",
         "desc": "Armorpiercing, Anti-Mounted.",
-        "icon_nid": "Lance",
+        "icon_nid": "lordweapons",
         "icon_index": [
             0,
-            11
+            1
         ],
         "components": [
             [

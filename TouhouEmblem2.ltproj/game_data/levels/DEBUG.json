@@ -42,116 +42,86 @@
             {
                 "nid": "101",
                 "variant": null,
-                "level": 1,
-                "klass": "Guard",
+                "level": 20,
+                "klass": "Veteran_A",
                 "faction": "Youkai",
-                "starting_items": [],
+                "starting_items": [
+                    [
+                        "Iron_Sword",
+                        false
+                    ]
+                ],
                 "starting_skills": [],
                 "team": "enemy",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    4,
+                    5,
                     5
                 ],
                 "starting_traveler": null,
                 "generic": true
+            },
+            {
+                "nid": "Rumia",
+                "team": "enemy",
+                "ai": "PursueVillage",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    11,
+                    7
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Kasen",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
             },
             {
                 "nid": "102",
                 "variant": null,
                 "level": 1,
-                "klass": "Guard",
+                "klass": "Citizen",
                 "faction": "Youkai",
-                "starting_items": [],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    4,
-                    4
+                "starting_items": [
+                    [
+                        "Iron_Sword",
+                        false
+                    ]
                 ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "103",
-                "variant": null,
-                "level": 1,
-                "klass": "Guard",
-                "faction": "Youkai",
-                "starting_items": [],
                 "starting_skills": [],
-                "team": "enemy",
+                "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    5,
+                    13,
                     5
                 ],
                 "starting_traveler": null,
                 "generic": true
             },
             {
-                "nid": "104",
-                "variant": null,
-                "level": 1,
-                "klass": "Guard",
-                "faction": "Youkai",
-                "starting_items": [],
-                "starting_skills": [],
-                "team": "enemy",
+                "nid": "Marisa",
+                "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    6,
-                    4
+                    12,
+                    6
                 ],
                 "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "105",
-                "variant": null,
-                "level": 1,
-                "klass": "Guard",
-                "faction": "Youkai",
-                "starting_items": [],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    3,
-                    4
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "106",
-                "variant": null,
-                "level": 1,
-                "klass": "Guard",
-                "faction": "Youkai",
-                "starting_items": [],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    5,
-                    4
-                ],
-                "starting_traveler": null,
-                "generic": true
+                "generic": false
             }
         ],
         "regions": [

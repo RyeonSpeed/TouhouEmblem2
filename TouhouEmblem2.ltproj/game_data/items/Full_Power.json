@@ -1,12 +1,12 @@
 [
     {
-        "nid": "Master_Seal",
-        "name": "Master Seal",
-        "desc": "Promotes all normal classes",
-        "icon_nid": "Boosters",
+        "nid": "Full_Power",
+        "name": "Full Power",
+        "desc": "Promotes a unit.",
+        "icon_nid": "accessories",
         "icon_index": [
             0,
-            14
+            8
         ],
         "components": [
             [

@@ -5,7 +5,7 @@
         "level_nid": "7",
         "condition": "region.nid == 'Village2'",
         "commands": [],
-        "only_once": false,
+        "only_once": true,
         "priority": 20,
         "_source": [
             "transition;Close",
