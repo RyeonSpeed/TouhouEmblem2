@@ -1,0 +1,14 @@
+[
+    {
+        "name": "YumemiDeath",
+        "trigger": "unit_death",
+        "level_nid": "6",
+        "condition": "unit.nid == \"Yumemi_Boss\"",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            ""
+        ]
+    }
+]

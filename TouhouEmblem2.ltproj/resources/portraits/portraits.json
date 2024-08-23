@@ -562,5 +562,17 @@
             56
         ],
         "info_offset": 0
+    },
+    {
+        "nid": "Sakuya",
+        "blinking_offset": [
+            16,
+            32
+        ],
+        "smiling_offset": [
+            16,
+            48
+        ],
+        "info_offset": 0
     }
 ]

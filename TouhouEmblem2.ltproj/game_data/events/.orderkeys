@@ -204,5 +204,19 @@
     "7_Turn7",
     "7_Turn3",
     "2_MokouNPCDeath",
-    "1_Turn10"
+    "1_Turn10",
+    "global_TewiGamble",
+    "global_LunaDial",
+    "global_LunaDialCharge",
+    "7_DefeatLouise",
+    "7_FightLouise",
+    "7_DefeatBoss",
+    "6_YumemiDeath",
+    "6_ChiyuriDeath",
+    "6_FightYumemi",
+    "6_FightChiyuri",
+    "7_Turn5",
+    "7_RemiliaSakuya",
+    "7_New_Event",
+    "7_Turn11"
 ]

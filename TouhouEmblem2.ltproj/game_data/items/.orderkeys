@@ -22,6 +22,8 @@
     "Levin_Sword",
     "Wind_Sword",
     "Runesword",
+    "Athame",
+    "Silver_Knife",
     "Iron_Lance",
     "Slim_Lance",
     "Steel_Lance",
@@ -125,7 +127,6 @@
     "Fimbulvetr_2",
     "Bolting",
     "Poseidon_Bolt",
-    "Athame",
     "Grimoire",
     "Ignite",
     "Splash",
@@ -214,6 +215,7 @@
     "Immortal_Red_Heal",
     "new_1",
     "new_2",
+    "new",
     "Dragonstone",
     "Sear"
 ]

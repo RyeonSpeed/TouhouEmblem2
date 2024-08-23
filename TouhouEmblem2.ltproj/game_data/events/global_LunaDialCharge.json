@@ -1,0 +1,23 @@
+[
+    {
+        "name": "LunaDialCharge",
+        "trigger": "combat_end",
+        "level_nid": null,
+        "condition": "unit.nid == 'Sakuya'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "if;{v:TimeToken} == 5",
+            "add_portrait;Sakuya;Right",
+            "speak;Sakuya;It's time! Luna Dial!",
+            "give_skill;Sakuya;Jack_The_Ripper",
+            "sound;RefreshDanceMap",
+            "map_anim;OverchargeAura;Sakuya",
+            "reset;Sakuya",
+            "set_skill_data;{unit};Time_Token;0",
+            "else",
+            "end"
+        ]
+    }
+]

@@ -19,14 +19,23 @@
             "add_lore;Fatigue",
             "add_lore;Miasma",
             "add_lore;Repair",
+            "add_talk;Remilia;Sakuya",
             "enable_repair_shop;true",
             "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Miu']",
             "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Akane']",
             "trigger_script;Housekeeping2",
+            "for;MARKET_ENTRY;['Iron_Sword', 'Iron_Axe', 'Iron_Lance', 'Iron_Bow', 'Fire', 'Ofuda', 'Flux', 'Heal', 'Life_Gem', 'Poppet', 'Maple_Shield', 'Lucky_Clover', 'Lantern']",
+            "    add_market_item;{MARKET_ENTRY}",
+            "    endf",
+            "for;MARKET_ENTRY;['Slim_Sword', 'Slim_Lance', 'Slim_Axe', 'Slim_Bow', 'Flamberge', 'Flame_Lance', 'Flame_Axe', 'Gust']",
+            "    add_market_item;{MARKET_ENTRY}",
+            "    endf",
             "for;MARKET_ENTRY;['Steel_Sword', 'Steel_Axe', 'Steel_Lance', 'Steel_Bow', 'Thunder', 'Tarot', 'Slime', 'Yomi', 'Mend', 'Restore', 'Life_Gem', 'Misfortune_Amulet', 'Forged_Shield', 'Eye_of_Senri', 'Gas_Mask']",
             "    add_market_item;{MARKET_ENTRY}",
+            "    endf",
             "base;Serenes Forest;{e:};Mercenary Camp;True;Global Mercenary_Camp",
-            "prep;1"
+            "prep;1",
+            "speak;;This map's clear bonus is 500 Bonus EXP, with a decrease of 100 BExp per turn you take over 15 turns!;;;hint"
         ]
     }
 ]

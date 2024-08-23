@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Time_Token",
+        "name": "Time Tokens",
+        "desc": "Builds up a charge whenever Sakuya initates combat. When Sakuya hits 5 time tokens, they are all spent to activate Luna Dial.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            0,
+            4
+        ],
+        "components": [
+            [
+                "build_charge",
+                5
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

@@ -72,7 +72,7 @@
             {
                 "nid": "Kagerou_Boss",
                 "team": "enemy",
-                "ai": "Guard",
+                "ai": "Defend",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -1219,6 +1219,11 @@
                 }
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

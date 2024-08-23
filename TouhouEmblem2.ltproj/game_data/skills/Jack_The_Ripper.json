@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Jack_The_Ripper",
+        "name": "Jack The Ripper",
+        "desc": "Unit cannot be countered, but also cannot move and attack in the same action.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            1,
+            1
+        ],
+        "components": [
+            [
+                "item_override",
+                "new"
+            ],
+            [
+                "time",
+                1
+            ]
+        ]
+    }
+]

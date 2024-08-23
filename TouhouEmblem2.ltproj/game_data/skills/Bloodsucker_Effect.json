@@ -10,8 +10,8 @@
         ],
         "components": [
             [
-                "item_override",
-                "Life_Leech"
+                "gain_skill_after_attack",
+                "Bloodsucker_Effect_1"
             ]
         ]
     }

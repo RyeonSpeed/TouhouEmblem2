@@ -3,10 +3,10 @@
         "nid": "GML_1",
         "name": "Great, Unmoving Library",
         "desc": "Cannot move and attack in the same turn.",
-        "icon_nid": "skillicons_1",
+        "icon_nid": "moreskillicons",
         "icon_index": [
             0,
-            0
+            2
         ],
         "components": [
             [

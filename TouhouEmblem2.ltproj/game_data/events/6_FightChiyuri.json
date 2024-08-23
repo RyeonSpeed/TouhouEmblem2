@@ -1,0 +1,14 @@
+[
+    {
+        "name": "FightChiyuri",
+        "trigger": "combat_start",
+        "level_nid": "6",
+        "condition": "unit.nid == \"Chiyuri_Boss\" or unit2.nid == \"Chiyuri_Boss\"",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            ""
+        ]
+    }
+]

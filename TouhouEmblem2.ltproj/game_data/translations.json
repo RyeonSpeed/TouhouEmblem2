@@ -393,7 +393,7 @@
     },
     {
         "nid": "Baby Mode_desc",
-        "text": "Easy Modo? Can you do 2+5? Locked in casual mode."
+        "text": "Units come back when they die. Can save mid chapter. Coward."
     },
     {
         "nid": "Normal_desc",
@@ -422,5 +422,13 @@
     {
         "nid": "Dynamic_desc",
         "text": "Random growths, but units will grow around a stat baseline."
+    },
+    {
+        "nid": "Casual_desc",
+        "text": "Units come back when they die. Can save mid chapter. For cowards."
+    },
+    {
+        "nid": "Classic_desc",
+        "text": "Units die when they are killed. The correct way to play."
     }
 ]

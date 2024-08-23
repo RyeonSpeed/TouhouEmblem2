@@ -3,10 +3,10 @@
         "nid": "Forgemaster",
         "name": "Forgemaster",
         "desc": "Kogasa has a Skl% chance to conserve a weapon use upon attacking.",
-        "icon_nid": "skillicons_1",
+        "icon_nid": "moreskillicons",
         "icon_index": [
-            1,
-            0
+            0,
+            1
         ],
         "components": [
             [

@@ -744,5 +744,9 @@
     {
         "nid": "stakingyourlifeonaprank",
         "subicon_dict": {}
+    },
+    {
+        "nid": "moreskillicons",
+        "subicon_dict": {}
     }
 ]

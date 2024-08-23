@@ -39,18 +39,7 @@
             ],
             [
                 "weight",
-                4
-            ],
-            [
-                "uses",
-                50
-            ],
-            [
-                "uses_options",
-                {
-                    "lose_uses_on_miss": false,
-                    "one_loss_per_combat": false
-                }
+                6
             ],
             [
                 "level_exp",
@@ -99,6 +88,17 @@
             [
                 "fatigue",
                 1
+            ],
+            [
+                "c_uses",
+                10
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": true
+                }
             ]
         ]
     }

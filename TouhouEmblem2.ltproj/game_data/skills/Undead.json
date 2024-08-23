@@ -3,10 +3,10 @@
         "nid": "Undead",
         "name": "Undead",
         "desc": "Immune to negative statuses.",
-        "icon_nid": "skillicons_1",
+        "icon_nid": "moreskillicons",
         "icon_index": [
-            3,
-            1
+            0,
+            3
         ],
         "components": [
             [

@@ -166,7 +166,7 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    14,
+                    13,
                     4
                 ],
                 "starting_traveler": null,
@@ -230,6 +230,10 @@
                     [
                         "Naginata",
                         false
+                    ],
+                    [
+                        "Yukkuri_R",
+                        true
                     ]
                 ],
                 "starting_skills": [],
@@ -373,6 +377,10 @@
                 "starting_items": [
                     [
                         "Steel_Lance",
+                        false
+                    ],
+                    [
+                        "Yukkuri_M",
                         false
                     ]
                 ],
@@ -838,7 +846,7 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    13,
+                    15,
                     24
                 ],
                 "starting_traveler": null,
@@ -853,7 +861,7 @@
                 "starting_items": [
                     [
                         "Platepiercer",
-                        false
+                        true
                     ]
                 ],
                 "starting_skills": [],
@@ -1022,6 +1030,10 @@
                     [
                         "Steel_Lance",
                         false
+                    ],
+                    [
+                        "Forged_Shield",
+                        false
                     ]
                 ],
                 "starting_skills": [],
@@ -1045,6 +1057,10 @@
                 "starting_items": [
                     [
                         "Steel_Lance",
+                        false
+                    ],
+                    [
+                        "Forged_Shield",
                         false
                     ]
                 ],
@@ -1169,8 +1185,8 @@
                         false
                     ],
                     [
-                        "Iron_Sword",
-                        false
+                        "Yukkuri_M",
+                        true
                     ]
                 ],
                 "starting_skills": [],
@@ -1262,7 +1278,133 @@
                 "generic": true
             },
             {
-                "nid": "Louise",
+                "nid": "119",
+                "variant": null,
+                "level": 6,
+                "klass": "Grave_Rider",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "120",
+                "variant": null,
+                "level": 6,
+                "klass": "Grave_Rider",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Naginata",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "121",
+                "variant": null,
+                "level": 6,
+                "klass": "Grave_Rider",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "122",
+                "variant": null,
+                "level": 6,
+                "klass": "Grave_Rider",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "123",
+                "variant": null,
+                "level": 6,
+                "klass": "Grave_Rider",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Silver_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "124",
+                "variant": null,
+                "level": 6,
+                "klass": "Grave_Rider",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Louise_Boss",
                 "team": "enemy",
                 "ai": "Attack",
                 "roam_ai": null,
@@ -1273,12 +1415,22 @@
                 ],
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "Sakuya",
+                "team": "other",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [
             {
                 "nid": "F_1",
-                "region_type": "formation",
+                "region_type": "fog",
                 "position": [
                     3,
                     23
@@ -1527,8 +1679,69 @@
                         17
                     ]
                 }
+            },
+            {
+                "nid": "Sakuya",
+                "units": [
+                    "Sakuya"
+                ],
+                "positions": {
+                    "Sakuya": [
+                        24,
+                        26
+                    ]
+                }
+            },
+            {
+                "nid": "Rein1",
+                "units": [
+                    "120",
+                    "119",
+                    "121"
+                ],
+                "positions": {
+                    "120": [
+                        23,
+                        26
+                    ],
+                    "119": [
+                        22,
+                        26
+                    ],
+                    "121": [
+                        24,
+                        26
+                    ]
+                }
+            },
+            {
+                "nid": "Rein2",
+                "units": [
+                    "123",
+                    "124",
+                    "122"
+                ],
+                "positions": {
+                    "123": [
+                        1,
+                        26
+                    ],
+                    "124": [
+                        0,
+                        26
+                    ],
+                    "122": [
+                        2,
+                        26
+                    ]
+                }
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

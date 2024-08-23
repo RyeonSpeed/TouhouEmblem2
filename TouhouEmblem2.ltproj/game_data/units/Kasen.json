@@ -9,10 +9,10 @@
         "tags": [],
         "bases": {
             "HP": 30,
-            "STR": 14,
+            "STR": 13,
             "MAG": 5,
-            "SKL": 18,
-            "SPD": 13,
+            "SKL": 13,
+            "SPD": 12,
             "LCK": 4,
             "DEF": 11,
             "CON": 11,

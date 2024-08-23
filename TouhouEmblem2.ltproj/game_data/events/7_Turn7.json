@@ -8,7 +8,10 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "add_group;Brigand1;Brigand1;fade;closest"
+            "add_group;Brigand1;Brigand1;fade;closest",
+            "move_cursor;13,19",
+            "add_group;Rein1;Rein1;fade;closest",
+            "move_cursor;23,25"
         ]
     }
 ]

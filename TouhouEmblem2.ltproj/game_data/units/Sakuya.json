@@ -1,0 +1,77 @@
+[
+    {
+        "nid": "Sakuya",
+        "name": "Sakuya",
+        "desc": "Head maid of the Scarlet Devil Mansion. A witty, responsible, and sometimes composed maid. Tends to be a little silly otherwise.",
+        "variant": null,
+        "level": 1,
+        "klass": "Maid",
+        "tags": [],
+        "bases": {
+            "HP": 28,
+            "STR": 12,
+            "MAG": 8,
+            "SKL": 12,
+            "SPD": 16,
+            "LCK": 6,
+            "DEF": 9,
+            "RES": 6,
+            "CON": 8,
+            "MOV": 6
+        },
+        "growths": {
+            "HP": 65,
+            "STR": 35,
+            "MAG": 30,
+            "SKL": 45,
+            "SPD": 55,
+            "LCK": 40,
+            "DEF": 25,
+            "RES": 20,
+            "CON": 0,
+            "MOV": 0
+        },
+        "stat_cap_modifiers": {},
+        "starting_items": [
+            [
+                "Silver_Knife",
+                false
+            ],
+            [
+                "Silver_Sword",
+                false
+            ],
+            [
+                "Heal",
+                false
+            ]
+        ],
+        "learned_skills": [
+            [
+                1,
+                "Luna_Dial"
+            ],
+            [
+                1,
+                "Time_Token"
+            ]
+        ],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                121,
+                null
+            ],
+            "Staff": [
+                false,
+                1,
+                null
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "Sakuya",
+        "affinity": "Ice",
+        "fields": []
+    }
+]

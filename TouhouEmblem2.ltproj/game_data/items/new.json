@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "new",
+        "name": "new",
+        "desc": "",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "cannot_be_countered",
+                null
+            ],
+            [
+                "no_attack_after_move",
+                null
+            ]
+        ]
+    }
+]

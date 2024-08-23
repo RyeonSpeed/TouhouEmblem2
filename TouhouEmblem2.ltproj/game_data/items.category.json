@@ -7,7 +7,7 @@
     "Armorslayer": "Swords",
     "Arson": "Anima Magic",
     "Arson_Ciggies": "Anima Magic",
-    "Athame": "Anima Magic",
+    "Athame": "Swords",
     "Axereaver": "Lances",
     "Ballista": "Bows",
     "Bangasa_Bombing_Run": "Bullshit",
@@ -158,6 +158,7 @@
     "Silencer": "Bows",
     "Silver_Axe": "Axes",
     "Silver_Bow": "Bows",
+    "Silver_Knife": "Swords",
     "Silver_Lance": "Lances",
     "Silver_Sword": "Swords",
     "Sleep": "Staves",
@@ -212,6 +213,7 @@
     "Yukkuri_R": "Valuables",
     "Yukkuri_X": "Valuables",
     "Zanbato": "Swords",
+    "new": "Bullshit",
     "new_1": "Bullshit",
     "new_2": "Bullshit"
 }

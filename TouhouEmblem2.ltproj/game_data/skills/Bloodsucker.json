@@ -2,7 +2,7 @@
     {
         "nid": "Bloodsucker",
         "name": "Bloodsucker",
-        "desc": "Heals 50% of damage dealt.",
+        "desc": "Upon hitting the enemy, gains an effect lasting to next turn that allows Remilia to regain HP equal to 50% of damage dealt per hit.",
         "icon_nid": "skillicons3",
         "icon_index": [
             0,
@@ -19,7 +19,7 @@
             ],
             [
                 "build_charge_start_charged",
-                2
+                5
             ],
             [
                 "combat_charge_increase",
