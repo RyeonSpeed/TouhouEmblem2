@@ -13,7 +13,7 @@
             "end",
             "textbox;MercDescription;\"{d:MercenaryHiringList.{v:MercenaryHireChoice_choice_hover}.Description}|Cost: {d:MercenaryHiringList.{v:MercenaryHireChoice_choice_hover}.Cost}\";bottom_right;90;5;;0.5;;;menu_bg_parchment;expression",
             "table;GoldDisplay;str(game.get_money())+'G';Funds;Alignment=top_right;RowWidth=60;expression",
-            "choice;MercenaryHireChoice;Hire a Merc;v('hireable_guys') or ['Reimu'];Alignment=top_left;EntryType=type_unit;EventNid=Global ConfirmMercHire;expression;Dimensions=6,1;scroll_bar"
+            "choice;MercenaryHireChoice;Hire a Merc;v('hireable_guys') or ['Reimu'];Alignment=top_left;EntryType=type_unit;EventNid=Global ConfirmMercHire;expression;Dimensions=6,1;scroll_bar;backable"
         ]
     }
 ]

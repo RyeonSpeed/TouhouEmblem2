@@ -6,12 +6,12 @@
         "bg_tilemap": null,
         "party": "Reimu",
         "music": {
-            "player_phase": "Distant Roads",
-            "enemy_phase": "Shadow of the Enemy",
+            "player_phase": "Mist Lake",
+            "enemy_phase": "Wayward Springs",
             "other_phase": "Shadow of the Enemy",
             "enemy2_phase": null,
-            "player_battle": "Attack",
-            "enemy_battle": "Defense",
+            "player_battle": "Mist Lake",
+            "enemy_battle": "Wayward Springs",
             "other_battle": null,
             "enemy2_battle": null
         },
@@ -777,7 +777,7 @@
                     "Looter"
                 ],
                 "team": "enemy",
-                "ai": "PursueVillage",
+                "ai": "PursueVillage2",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
@@ -800,7 +800,7 @@
                     "Looter"
                 ],
                 "team": "enemy",
-                "ai": "PursueVillage",
+                "ai": "PursueVillage2",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
@@ -823,7 +823,7 @@
                     "Looter"
                 ],
                 "team": "enemy",
-                "ai": "PursueVillage",
+                "ai": "PursueVillage2",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
@@ -846,7 +846,7 @@
                     "Looter"
                 ],
                 "team": "enemy",
-                "ai": "PursueVillage",
+                "ai": "PursueVillage2",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
@@ -856,7 +856,7 @@
             {
                 "nid": "Rumia",
                 "team": "enemy",
-                "ai": "PursueVillage",
+                "ai": "PursueVillage2",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,

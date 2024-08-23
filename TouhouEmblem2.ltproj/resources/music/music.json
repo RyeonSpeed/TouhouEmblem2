@@ -83,5 +83,15 @@
         "Comrades",
         false,
         false
+    ],
+    [
+        "Mist Lake",
+        true,
+        false
+    ],
+    [
+        "Wayward Springs",
+        true,
+        false
     ]
 ]

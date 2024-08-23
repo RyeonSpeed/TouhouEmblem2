@@ -18,7 +18,7 @@
             "speak;;Lmao skill issue;;;hint",
             "end",
             "change_background;VillageGate",
-            "add_portrait;Keine;CenterLeft",
+            "add_portrait;Keine;Left",
             "add_portrait;Reimu;CenterRight",
             "add_portrait;Marisa;FarRight",
             "speak;Keine;Alright, that seems to be the last of them.",

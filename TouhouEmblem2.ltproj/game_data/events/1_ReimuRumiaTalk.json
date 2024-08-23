@@ -8,6 +8,7 @@
         "only_once": true,
         "priority": 20,
         "_source": [
+            "music;Comrades",
             "add_portrait;Reimu;CenterLeft",
             "add_portrait;Rumia;CenterRight",
             "speak;Reimu;Oh, well look what the cat dragged in.",
@@ -24,7 +25,8 @@
             "speak;Rumia;Huh",
             "change_team;Rumia;player",
             "remove_talk;Reimu;Rumia",
-            "remove_skill;Rumia;Looter"
+            "remove_skill;Rumia;Looter",
+            "music_fade_back"
         ]
     }
 ]
