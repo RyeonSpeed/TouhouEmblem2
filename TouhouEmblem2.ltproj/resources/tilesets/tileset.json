@@ -170,5 +170,10 @@
         "nid": "Zoramine Fields",
         "terrain_grid": {},
         "autotiles": {}
+    },
+    {
+        "nid": "tfw water",
+        "terrain_grid": {},
+        "autotiles": {}
     }
 ]

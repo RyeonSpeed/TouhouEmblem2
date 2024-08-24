@@ -2,7 +2,7 @@
     {
         "nid": "8",
         "name": "Chapter 8",
-        "tilemap": null,
+        "tilemap": "Frozen River",
         "bg_tilemap": null,
         "party": "Reimu",
         "music": {},
