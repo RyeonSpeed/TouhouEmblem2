@@ -10,12 +10,12 @@
         ],
         "components": [
             [
-                "eval_crit",
-                "unit.get_stat('LCK')"
-            ],
-            [
                 "crit_avoid",
                 100
+            ],
+            [
+                "eval_crit",
+                "unit.get_stat('LCK')"
             ],
             [
                 "ability_indicator",

@@ -95,7 +95,7 @@
                 "ai_group": "",
                 "starting_position": [
                     13,
-                    20
+                    5
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -105,7 +105,7 @@
                 "variant": null,
                 "level": 6,
                 "klass": "Shaman",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Yomi",
@@ -129,7 +129,7 @@
                 "variant": null,
                 "level": 6,
                 "klass": "Shaman",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Flux",
@@ -153,7 +153,7 @@
                 "variant": null,
                 "level": 6,
                 "klass": "Shaman",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Flux",
@@ -177,7 +177,7 @@
                 "variant": null,
                 "level": 6,
                 "klass": "Shaman",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Flux",
@@ -201,7 +201,7 @@
                 "variant": null,
                 "level": 6,
                 "klass": "Shaman",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Flux",
@@ -572,7 +572,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Sharp_Claw",
+                        "Razor_Claw",
                         false
                     ]
                 ],
@@ -596,7 +596,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Sharp_Claw",
+                        "Razor_Claw",
                         false
                     ]
                 ],
@@ -620,7 +620,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Sharp_Claw",
+                        "Razor_Claw",
                         false
                     ]
                 ],
@@ -644,7 +644,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Sharp_Claw",
+                        "Razor_Claw",
                         false
                     ]
                 ],
@@ -668,7 +668,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Sharp_Claw",
+                        "Razor_Claw",
                         false
                     ]
                 ],
@@ -692,7 +692,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Sharp_Claw",
+                        "Razor_Claw",
                         false
                     ]
                 ],
@@ -716,7 +716,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Sharp_Claw",
+                        "Razor_Claw",
                         false
                     ]
                 ],
@@ -740,7 +740,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Sharp_Claw",
+                        "Razor_Claw",
                         false
                     ]
                 ],
@@ -764,7 +764,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Sharp_Claw",
+                        "Razor_Claw",
                         false
                     ]
                 ],
@@ -788,7 +788,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Sharp_Claw",
+                        "Razor_Claw",
                         false
                     ]
                 ],

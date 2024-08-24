@@ -6,7 +6,7 @@
     "Killing_Edge",
     "Armorslayer",
     "Zanbato",
-    "Crusade_Sword",
+    "Crusaderblade",
     "Rapier",
     "Kusanagi0",
     "Kusanagi1",
@@ -150,10 +150,10 @@
     "Nameless_City",
     "Dagon",
     "Tindalos",
+    "Razor_Claw",
     "Sharp_Claw",
     "Fetid_Claw",
     "Poison_Claw",
-    "Razor_Claw",
     "Demon_Surge",
     "Shadowshot",
     "Lethal_Talon",
@@ -216,6 +216,7 @@
     "new_1",
     "new_2",
     "new",
+    "CanineDash",
     "Dragonstone",
     "Sear"
 ]

@@ -158,6 +158,13 @@
                 "Name": "Ringo",
                 "Cost": "3000",
                 "Description": "Gets a free action after using an item."
+            },
+            {
+                "nid": "Kagerou",
+                "Class": "Lycanthrope",
+                "Name": "Kagerou_Boss",
+                "Cost": "2000",
+                "Description": "High movement & avoid offensive unit."
             }
         ]
     }

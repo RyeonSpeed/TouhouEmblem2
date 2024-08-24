@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Swift_Hunter",
+        "name": "Swift Hunter",
+        "desc": "When below 50% HP, Kagerou gains +50% Avoid.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            2,
+            0
+        ],
+        "components": [
+            [
+                "condition",
+                "unit.get_hp() <= unit.get_stat('HP')/2"
+            ],
+            [
+                "avoid",
+                50
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

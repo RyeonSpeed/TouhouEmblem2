@@ -34,6 +34,10 @@
             [
                 "value",
                 1000
+            ],
+            [
+                "eval_target_restrict_2",
+                "False"
             ]
         ]
     }

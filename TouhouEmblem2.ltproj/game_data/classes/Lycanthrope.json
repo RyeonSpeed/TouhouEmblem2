@@ -120,6 +120,11 @@
                 false,
                 0,
                 null
+            ],
+            "Monster": [
+                true,
+                31,
+                null
             ]
         },
         "icon_nid": null,

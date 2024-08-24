@@ -1,0 +1,57 @@
+[
+    {
+        "nid": "Mai_Boss",
+        "name": "Mai ",
+        "desc": "A witch from Makai who's partners with a fire bending witch. She specializes in ice magic.",
+        "variant": null,
+        "level": 1,
+        "klass": "Medic",
+        "tags": [
+            "Boss"
+        ],
+        "bases": {
+            "HP": 32,
+            "STR": 1,
+            "MAG": 14,
+            "SKL": 10,
+            "SPD": 12,
+            "LCK": 12,
+            "DEF": 7,
+            "RES": 12,
+            "CON": 8,
+            "MOV": 7
+        },
+        "growths": {
+            "HP": 45,
+            "STR": 5,
+            "MAG": 45,
+            "SKL": 30,
+            "SPD": 25,
+            "LCK": 15,
+            "DEF": 10,
+            "RES": 40,
+            "CON": 0,
+            "MOV": 0
+        },
+        "stat_cap_modifiers": {},
+        "starting_items": [
+            [
+                "Fimbulvetr",
+                false
+            ]
+        ],
+        "learned_skills": [],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Anima": [
+                false,
+                181,
+                null
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "",
+        "affinity": "Ice",
+        "fields": []
+    }
+]

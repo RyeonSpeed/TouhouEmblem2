@@ -122,6 +122,11 @@
                 false,
                 0,
                 251
+            ],
+            "Monster": [
+                true,
+                71,
+                null
             ]
         },
         "icon_nid": "Generic_Portrait_Entombed",

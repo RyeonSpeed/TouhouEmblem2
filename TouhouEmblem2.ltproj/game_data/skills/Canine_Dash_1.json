@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Canine_Dash_1",
+        "name": "Canine Dash",
+        "desc": "Dashes through two enemies. Takes 5 HP in recoil.\n",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "item_override",
+                "CanineDash"
+            ],
+            [
+                "deathrecoil",
+                5
+            ],
+            [
+                "cannot_double",
+                null
+            ]
+        ]
+    }
+]

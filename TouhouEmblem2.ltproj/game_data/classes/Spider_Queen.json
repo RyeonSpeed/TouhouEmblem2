@@ -119,6 +119,11 @@
                 false,
                 0,
                 null
+            ],
+            "Monster": [
+                true,
+                181,
+                null
             ]
         },
         "icon_nid": null,

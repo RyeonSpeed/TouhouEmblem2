@@ -2,7 +2,7 @@
     {
         "nid": "Wolf_Fang",
         "name": "Wolf Fang",
-        "desc": "Applies \"Bleeding\" after attack. Unit takes 5 damage per turn and takes 1.2x damage. Stacks up to 3 times. Lasts 3 turns.\n",
+        "desc": "Applies \"Bleeding\" after attack. Unit takes 5 damage per turn and takes 1.2x damage. Stacks up to 3 times. Lasts 3 turns. Unit takes 7 HP in recoil after attack.\n",
         "icon_nid": "skillicons3",
         "icon_index": [
             0,
@@ -10,20 +10,16 @@
         ],
         "components": [
             [
-                "give_status_after_combat_on_hit",
-                "Bleeding"
-            ],
-            [
-                "build_charge_start_charged",
-                5
-            ],
-            [
-                "combat_charge_increase",
-                1
-            ],
-            [
                 "combat_art_indicator",
                 null
+            ],
+            [
+                "combat_art",
+                "Wolf_Fang_1"
+            ],
+            [
+                "condition",
+                "item_system.weapon_type(unit, item) in ['Monster']"
             ]
         ]
     }

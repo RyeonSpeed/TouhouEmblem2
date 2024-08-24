@@ -119,6 +119,11 @@
                 false,
                 1,
                 251
+            ],
+            "Monster": [
+                false,
+                0,
+                null
             ]
         },
         "icon_nid": "Generic_Portrait_Shaman",

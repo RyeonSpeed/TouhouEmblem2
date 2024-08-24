@@ -271,5 +271,79 @@
             9,
             0
         ]
+    },
+    {
+        "nid": "Monster",
+        "name": "Monster",
+        "force_melee_anim": false,
+        "rank_bonus": [
+            {
+                "weapon_type": "Sword",
+                "weapon_rank": "D",
+                "damage": 0,
+                "resist": 0,
+                "accuracy": 10,
+                "avoid": 0,
+                "crit": 0,
+                "dodge": 0,
+                "attack_speed": 0,
+                "defense_speed": 0
+            },
+            {
+                "weapon_type": "Sword",
+                "weapon_rank": "C",
+                "damage": 1,
+                "resist": 0,
+                "accuracy": 10,
+                "avoid": 10,
+                "crit": 0,
+                "dodge": 0,
+                "attack_speed": 0,
+                "defense_speed": 0
+            },
+            {
+                "weapon_type": "Sword",
+                "weapon_rank": "B",
+                "damage": 2,
+                "resist": 0,
+                "accuracy": 15,
+                "avoid": 10,
+                "crit": 0,
+                "dodge": 0,
+                "attack_speed": 0,
+                "defense_speed": 0
+            },
+            {
+                "weapon_type": "Sword",
+                "weapon_rank": "A",
+                "damage": 3,
+                "resist": 0,
+                "accuracy": 15,
+                "avoid": 15,
+                "crit": 10,
+                "dodge": 0,
+                "attack_speed": 0,
+                "defense_speed": 0
+            },
+            {
+                "weapon_type": "Sword",
+                "weapon_rank": "S",
+                "damage": 3,
+                "resist": 0,
+                "accuracy": 20,
+                "avoid": 20,
+                "crit": 15,
+                "dodge": 0,
+                "attack_speed": 0,
+                "defense_speed": 0
+            }
+        ],
+        "advantage": [],
+        "disadvantage": [],
+        "icon_nid": "skillicons2_1",
+        "icon_index": [
+            0,
+            1
+        ]
     }
 ]

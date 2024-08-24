@@ -34,6 +34,10 @@
                     "lose_uses_on_miss": false,
                     "one_loss_per_combat": false
                 }
+            ],
+            [
+                "eval_target_restrict_2",
+                "False"
             ]
         ]
     }

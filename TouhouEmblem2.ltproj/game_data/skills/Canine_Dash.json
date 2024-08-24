@@ -1,0 +1,34 @@
+[
+    {
+        "nid": "Canine_Dash",
+        "name": "Canine Dash",
+        "desc": "Selects an enemy 2-3 tiles away and dashes to them, then pivots once space over them, dealing damage to all enemies in the line.\n",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "combat_art_indicator",
+                null
+            ],
+            [
+                "combat_art",
+                "Canine_Dash_1"
+            ],
+            [
+                "combat_charge_increase",
+                1
+            ],
+            [
+                "build_charge_start_charged",
+                3
+            ],
+            [
+                "condition",
+                "item_system.weapon_type(unit, item) in ['Monster']"
+            ]
+        ]
+    }
+]

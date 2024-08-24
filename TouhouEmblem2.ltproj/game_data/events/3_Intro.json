@@ -11,7 +11,7 @@
             "chapter_title",
             "trigger_script;Housekeeping3",
             "trigger_script;Housekeeping1",
-            "game_var;hireable_guys;v('hireable_guys') + ['Miu','Akane']",
+            "game_var;hireable_guys;v('hireable_guys') + ['Miu','Akane','Kagerou']",
             "add_unit;Sunny",
             "add_unit;Star",
             "add_unit;Luna",
