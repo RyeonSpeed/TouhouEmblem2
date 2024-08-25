@@ -1,0 +1,44 @@
+[
+    {
+        "nid": "Momiji",
+        "name": "Momiji",
+        "desc": "",
+        "variant": null,
+        "level": 1,
+        "klass": "Veteran_S",
+        "tags": [],
+        "bases": {
+            "HP": 23,
+            "STR": 8,
+            "MAG": 3,
+            "SKL": 9,
+            "SPD": 8,
+            "LCK": 0,
+            "DEF": 8,
+            "RES": 3,
+            "CON": 11,
+            "MOV": 6
+        },
+        "growths": {
+            "HP": 80,
+            "STR": 40,
+            "MAG": 20,
+            "SKL": 40,
+            "SPD": 40,
+            "LCK": 30,
+            "DEF": 30,
+            "RES": 20,
+            "CON": 0,
+            "MOV": 0
+        },
+        "stat_cap_modifiers": {},
+        "starting_items": [],
+        "learned_skills": [],
+        "unit_notes": [],
+        "wexp_gain": {},
+        "alternate_classes": [],
+        "portrait_nid": "Momiji",
+        "affinity": null,
+        "fields": []
+    }
+]

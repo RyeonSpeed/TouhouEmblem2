@@ -1,0 +1,44 @@
+[
+    {
+        "nid": "Seija",
+        "name": "Seija",
+        "desc": "",
+        "variant": null,
+        "level": 1,
+        "klass": "Rogue",
+        "tags": [],
+        "bases": {
+            "HP": 20,
+            "STR": 5,
+            "MAG": 5,
+            "SKL": 5,
+            "SPD": 8,
+            "LCK": 0,
+            "DEF": 4,
+            "RES": 4,
+            "CON": 6,
+            "MOV": 6
+        },
+        "growths": {
+            "HP": 50,
+            "STR": 25,
+            "MAG": 25,
+            "SKL": 45,
+            "SPD": 60,
+            "LCK": 40,
+            "DEF": 20,
+            "RES": 20,
+            "CON": 0,
+            "MOV": 0
+        },
+        "stat_cap_modifiers": {},
+        "starting_items": [],
+        "learned_skills": [],
+        "unit_notes": [],
+        "wexp_gain": {},
+        "alternate_classes": [],
+        "portrait_nid": "",
+        "affinity": null,
+        "fields": []
+    }
+]

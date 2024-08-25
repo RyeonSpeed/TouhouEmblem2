@@ -598,5 +598,281 @@
             48
         ],
         "info_offset": 0
+    },
+    {
+        "nid": "Koakuma",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Merlin",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Lunasa",
+        "blinking_offset": [
+            16,
+            32
+        ],
+        "smiling_offset": [
+            16,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Lyrica",
+        "blinking_offset": [
+            24,
+            40
+        ],
+        "smiling_offset": [
+            24,
+            56
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Youmu",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Yuyuko",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Meiling",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Lily White",
+        "blinking_offset": [
+            24,
+            40
+        ],
+        "smiling_offset": [
+            24,
+            56
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Mamizou",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Nitori",
+        "blinking_offset": [
+            24,
+            40
+        ],
+        "smiling_offset": [
+            24,
+            56
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Shizuha",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Hina",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Aya",
+        "blinking_offset": [
+            32,
+            32
+        ],
+        "smiling_offset": [
+            32,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Hatate",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Sanae",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Kanako",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Suwako",
+        "blinking_offset": [
+            32,
+            40
+        ],
+        "smiling_offset": [
+            32,
+            56
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Ran",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Chen",
+        "blinking_offset": [
+            24,
+            40
+        ],
+        "smiling_offset": [
+            24,
+            56
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Yuuka",
+        "blinking_offset": [
+            32,
+            24
+        ],
+        "smiling_offset": [
+            32,
+            40
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Momiji",
+        "blinking_offset": [
+            32,
+            32
+        ],
+        "smiling_offset": [
+            32,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Kokoro",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Rin",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
     }
 ]

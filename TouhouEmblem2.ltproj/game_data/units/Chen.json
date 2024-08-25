@@ -1,0 +1,44 @@
+[
+    {
+        "nid": "Chen",
+        "name": "Chen",
+        "desc": "",
+        "variant": null,
+        "level": 1,
+        "klass": "Swordmaster",
+        "tags": [],
+        "bases": {
+            "HP": 21,
+            "STR": 6,
+            "MAG": 4,
+            "SKL": 11,
+            "SPD": 12,
+            "LCK": 0,
+            "DEF": 5,
+            "RES": 3,
+            "CON": 9,
+            "MOV": 6
+        },
+        "growths": {
+            "HP": 65,
+            "STR": 25,
+            "MAG": 15,
+            "SKL": 30,
+            "SPD": 30,
+            "LCK": 25,
+            "DEF": 15,
+            "RES": 22,
+            "CON": 0,
+            "MOV": 0
+        },
+        "stat_cap_modifiers": {},
+        "starting_items": [],
+        "learned_skills": [],
+        "unit_notes": [],
+        "wexp_gain": {},
+        "alternate_classes": [],
+        "portrait_nid": "Chen",
+        "affinity": null,
+        "fields": []
+    }
+]
