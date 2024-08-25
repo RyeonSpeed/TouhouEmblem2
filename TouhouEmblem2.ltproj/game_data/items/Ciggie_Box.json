@@ -2,7 +2,7 @@
     {
         "nid": "Ciggie_Box",
         "name": "Ciggie Box",
-        "desc": "Allows user to cast Fire, but they also take 3 damage per turn. Only one accessory can be equipped at a time.",
+        "desc": "Allows user access to the entire fire magic library, but they take severe damage in recoil for using a spell. Only one accessory can be equipped at a time.",
         "icon_nid": "accessories",
         "icon_index": [
             0,
