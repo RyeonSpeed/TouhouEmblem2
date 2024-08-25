@@ -33,8 +33,8 @@
             "for;MARKET_ENTRY;['Steel_Sword', 'Steel_Axe', 'Steel_Lance', 'Steel_Bow', 'Thunder', 'Tarot', 'Slime', 'Yomi', 'Mend', 'Restore', 'Life_Gem', 'Misfortune_Amulet', 'Forged_Shield', 'Eye_of_Senri', 'Gas_Mask']",
             "    add_market_item;{MARKET_ENTRY}",
             "    endf",
-            "base;Serenes Forest;{e:};Mercenary Camp;True;Global Mercenary_Camp",
-            "prep;1",
+            "base;Serenes Forest;{e:};Mercenary Camp;True;Global Mercenary_Camp;Music=Sealed Gods",
+            "prep;1;Sealed Gods",
             "speak;;This map's clear bonus is 1000 Bonus EXP, but you won't get a single point if you go over 20 turns!;;;hint",
             "speak;;Oh, and just to let you know, Alice isn't a patient person! She'll leave in 15 turns if you're just too slow!;;;hint"
         ]

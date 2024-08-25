@@ -93,5 +93,45 @@
         "Wayward Springs",
         true,
         false
+    ],
+    [
+        "Sealed Gods",
+        true,
+        false
+    ],
+    [
+        "Bonds",
+        false,
+        false
+    ],
+    [
+        "Nostalgic Blood",
+        true,
+        false
+    ],
+    [
+        "Fragrant Plants",
+        true,
+        false
+    ],
+    [
+        "The Doll Maker of Bucuresti",
+        false,
+        false
+    ],
+    [
+        "A Popular Location",
+        false,
+        false
+    ],
+    [
+        "Illusionary Night",
+        true,
+        false
+    ],
+    [
+        "Deaf to All but the Song",
+        true,
+        false
     ]
 ]

@@ -538,5 +538,65 @@
         "mtype": "Normal",
         "opaque": false,
         "status": null
+    },
+    {
+        "nid": "44",
+        "name": "Plain",
+        "color": [
+            170,
+            255,
+            0
+        ],
+        "minimap": "Grass",
+        "platform": "Forest",
+        "background": "combat_forest_night",
+        "mtype": "Normal",
+        "opaque": false,
+        "status": null
+    },
+    {
+        "nid": "45",
+        "name": "Forest",
+        "color": [
+            0,
+            170,
+            0
+        ],
+        "minimap": "Forest",
+        "platform": "Forest",
+        "background": "combat_forest_night",
+        "mtype": "Forest",
+        "opaque": false,
+        "status": "Forest"
+    },
+    {
+        "nid": "46",
+        "name": "Cliff",
+        "color": [
+            170,
+            170,
+            127
+        ],
+        "minimap": "Cliff",
+        "platform": "Cliff",
+        "background": "combat_swamp",
+        "mtype": "Cliff",
+        "opaque": false,
+        "status": null
+    },
+    {
+        "nid": "47",
+        "name": "Hill",
+        "color": [
+            157,
+            110,
+            94
+        ],
+        "minimap": "Hill",
+        "platform": "Hill",
+        "background": "combat_swamp",
+        "mtype": "Hill",
+        "opaque": false,
+        "status": "Mountain"
     }
 ]
