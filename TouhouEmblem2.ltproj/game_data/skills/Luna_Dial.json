@@ -2,7 +2,7 @@
     {
         "nid": "Luna_Dial",
         "name": "Luna Dial",
-        "desc": "Initiating battle builds up \"Time Tokens\". After five tokens are gained, Sakuya may take another action that turn, and gains \"Jack The Ripper\" for that turn.",
+        "desc": "Initiating battle builds up \"Time Tokens\". After five tokens are gained, User may take another action that turn, and gains \"Jack The Ripper\" for that turn.",
         "icon_nid": "skillicons3",
         "icon_index": [
             0,

@@ -2,7 +2,7 @@
     {
         "nid": "Master_Pharmacist",
         "name": "Master Pharmacist",
-        "desc": "Eirin does not expend durability when using staves.",
+        "desc": "User does not expend durability when using staves.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             2,

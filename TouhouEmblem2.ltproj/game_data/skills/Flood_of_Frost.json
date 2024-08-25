@@ -2,7 +2,7 @@
     {
         "nid": "Flood_of_Frost",
         "name": "Flood of Frost",
-        "desc": "Applies -3 Spd on the enemy for 2 turns. Gives Letty +10 Res for 2 turns.",
+        "desc": "Applies -3 Spd on the enemy for 2 turns. Gives user +10 Res for 2 turns.",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,
