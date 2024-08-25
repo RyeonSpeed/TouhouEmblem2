@@ -5,7 +5,7 @@
         "desc": "Experienced adventurers who know the lay of the land.\nTags: Sword",
         "tier": 2,
         "movement_group": "Light Foot",
-        "promotes_from": "Vagrant_K",
+        "promotes_from": "Vagrant_A",
         "turns_into": [
             "Dracolord"
         ],
@@ -119,6 +119,11 @@
                 false,
                 0,
                 251
+            ],
+            "Monster": [
+                false,
+                0,
+                null
             ]
         },
         "icon_nid": "Generic_Portrait_Vanguard",
