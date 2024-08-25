@@ -19,7 +19,7 @@
             "    endf",
             "trigger_script;Housekeeping2",
             "game_var;_fatigue;0",
-            "base;Backwoods (Night);{e:};Mercenary Camp;True;Global Mercenary_Camp;Music=Sealed Gods",
+            "base;Backwoods (Night);{e:};Mercenary Camp;True;Global Mercenary_Camp",
             "add_talk;Wriggle;Cirno",
             "add_talk;Wriggle;Daiyousei",
             "add_talk;Mystia;Cirno",
@@ -28,7 +28,7 @@
             "add_talk;Rumia;Daiyousei",
             "enable_fog_of_war;t",
             "set_fog_of_war;gba;7;7;7",
-            "prep;1;Sealed Gods",
+            "prep;1",
             "speak;;This map's clear bonus is 375 Bonus EXP, with a decrease of 15 BExp per turn you take over 20 turns!;;;hint"
         ]
     }

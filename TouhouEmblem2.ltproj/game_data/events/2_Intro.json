@@ -19,7 +19,6 @@
             "game_var;_fatigue;0",
             "change_background;River",
             "transition;open",
-            "music;Bonds",
             "add_portrait;Reimu;CenterLeft",
             "add_portrait;Marisa;FarLeft",
             "add_portrait;Kasen;Right",
@@ -84,13 +83,13 @@
             "change_background",
             "multi_remove_portrait;Marisa;Reimu;Kasen",
             "transition;open",
-            "base;Backwoods (Night);{e:};Mercenary Camp;True;Global Mercenary_Camp;Music=Sealed Gods",
+            "base;Backwoods (Night);{e:};Mercenary Camp;True;Global Mercenary_Camp",
             "enable_fog_of_war;t",
             "set_fog_of_war;gba;5;5;5",
             "add_talk;Marisa;Mystia",
             "add_talk;Reimu;Mystia",
             "add_talk;Mystia;Wriggle",
-            "prep;1;Sealed Gods",
+            "prep;1",
             "speak;;This map's clear bonus is 300 Bonus EXP, with a decrease of 15 BExp per turn you take over 15 turns!;;;hint"
         ]
     }

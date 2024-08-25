@@ -86,6 +86,7 @@
             "game_var;_fatigue;0",
             "add_lore;Intro",
             "add_lore;Character_Stats",
+            "add_lore;Prf_Weapons",
             "add_lore;Weapon_Stats_and_Tags",
             "add_lore;Weapon_Triangle",
             "add_lore;Effective_Damage",

@@ -21,10 +21,10 @@
             "add_lore;Luna",
             "trigger_script;Housekeeping2",
             "game_var;_fatigue;0",
-            "base;Backwoods (Night);{e:};Mercenary Camp;True;Global Mercenary_Camp;Music=Sealed Gods",
+            "base;Backwoods (Night);{e:};Mercenary Camp;True;Global Mercenary_Camp",
             "enable_fog_of_war;t",
             "set_fog_of_war;gba;3;3;3",
-            "prep;1;Sealed Gods",
+            "prep;1",
             "speak;;This map's clear bonus is 300 Bonus EXP, with a decrease of 15 BExp per turn you take over 15 turns!;;;hint"
         ]
     }
