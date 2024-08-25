@@ -2,7 +2,7 @@
     {
         "nid": "Bloodsucker",
         "name": "Bloodsucker",
-        "desc": "Upon hitting the enemy, heals 50% damage dealt and gains an effect lasting to next turn that allows user to regain HP equal to 50% of damage dealt per hit.",
+        "desc": "Upon hitting the enemy, heals 50% damage dealt and gains an effect lasting to next turn that allows Remilia to regain HP equal to 50% of damage dealt per hit.",
         "icon_nid": "skillicons3",
         "icon_index": [
             0,

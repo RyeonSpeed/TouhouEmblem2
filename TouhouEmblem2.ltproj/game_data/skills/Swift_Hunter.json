@@ -2,7 +2,7 @@
     {
         "nid": "Swift_Hunter",
         "name": "Swift Hunter",
-        "desc": "When below 50% HP, user gains +50% Avoid.",
+        "desc": "When below 50% HP, Kagerou gains +50% Avoid.",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,

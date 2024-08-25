@@ -5,7 +5,7 @@
         "desc": "A karakasa obake whose main goal in life is to scare as many people as possible. Also is a great blacksmith.",
         "variant": null,
         "level": 6,
-        "klass": "Peg_Rider_K",
+        "klass": "Peg_Rider",
         "tags": [],
         "bases": {
             "HP": 22,
