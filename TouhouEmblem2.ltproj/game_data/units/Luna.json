@@ -55,6 +55,10 @@
             [
                 "Life_Gem",
                 false
+            ],
+            [
+                "Torch",
+                false
             ]
         ],
         "learned_skills": [
