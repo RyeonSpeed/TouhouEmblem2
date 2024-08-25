@@ -145,7 +145,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Sharp_Claw",
+                        "Razor_Claw",
                         false
                     ]
                 ],
@@ -169,7 +169,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Sharp_Claw",
+                        "Razor_Claw",
                         false
                     ]
                 ],
@@ -1336,6 +1336,11 @@
                 }
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

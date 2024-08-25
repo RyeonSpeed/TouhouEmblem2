@@ -10,12 +10,12 @@
         ],
         "components": [
             [
-                "gain_skill_after_attack",
-                "Bloodsucker_Effect_1"
-            ],
-            [
                 "lifelink",
                 0.5
+            ],
+            [
+                "crit",
+                30
             ]
         ]
     }
