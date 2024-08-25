@@ -1,0 +1,44 @@
+[
+    {
+        "nid": "Byakuren",
+        "name": "Byakuren",
+        "desc": "",
+        "variant": null,
+        "level": 1,
+        "klass": "Saint",
+        "tags": [],
+        "bases": {
+            "HP": 21,
+            "STR": 0,
+            "MAG": 4,
+            "SKL": 5,
+            "SPD": 4,
+            "LCK": 0,
+            "DEF": 3,
+            "RES": 9,
+            "CON": 7,
+            "MOV": 6
+        },
+        "growths": {
+            "HP": 45,
+            "STR": 0,
+            "MAG": 35,
+            "SKL": 25,
+            "SPD": 22,
+            "LCK": 40,
+            "DEF": 8,
+            "RES": 50,
+            "CON": 0,
+            "MOV": 0
+        },
+        "stat_cap_modifiers": {},
+        "starting_items": [],
+        "learned_skills": [],
+        "unit_notes": [],
+        "wexp_gain": {},
+        "alternate_classes": [],
+        "portrait_nid": "",
+        "affinity": "None",
+        "fields": []
+    }
+]

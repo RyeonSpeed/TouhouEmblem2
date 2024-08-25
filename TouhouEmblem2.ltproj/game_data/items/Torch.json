@@ -2,7 +2,7 @@
     {
         "nid": "Torch",
         "name": "Torch",
-        "desc": "Increases user's sight range in fog of war",
+        "desc": "Increases user's sight range in fog of war by8 tiles. Decreases by 1 per turn.",
         "icon_nid": "Consumable",
         "icon_index": [
             0,

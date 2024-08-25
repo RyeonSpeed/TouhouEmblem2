@@ -1,0 +1,24 @@
+[
+    {
+        "nid": "Hatate",
+        "name": "Hatate",
+        "desc": "",
+        "variant": null,
+        "level": 1,
+        "klass": "Tengu",
+        "tags": [],
+        "bases": {
+            "HP": 5
+        },
+        "growths": {},
+        "stat_cap_modifiers": {},
+        "starting_items": [],
+        "learned_skills": [],
+        "unit_notes": [],
+        "wexp_gain": {},
+        "alternate_classes": [],
+        "portrait_nid": "Hatate",
+        "affinity": null,
+        "fields": []
+    }
+]

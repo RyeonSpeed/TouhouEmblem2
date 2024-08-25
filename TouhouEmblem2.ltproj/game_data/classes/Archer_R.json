@@ -24,7 +24,7 @@
             "MOV": 5
         },
         "growths": {
-            "HP": 90,
+            "HP": 70,
             "STR": 40,
             "MAG": 20,
             "SKL": 50,
@@ -117,6 +117,11 @@
                 false,
                 0,
                 251
+            ],
+            "Monster": [
+                false,
+                0,
+                null
             ]
         },
         "icon_nid": "Generic_Portrait_Archer",

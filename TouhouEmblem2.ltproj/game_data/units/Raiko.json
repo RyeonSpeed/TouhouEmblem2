@@ -1,0 +1,24 @@
+[
+    {
+        "nid": "Raiko",
+        "name": "Raiko",
+        "desc": "",
+        "variant": null,
+        "level": 1,
+        "klass": "Thundercaller",
+        "tags": [],
+        "bases": {
+            "HP": 5
+        },
+        "growths": {},
+        "stat_cap_modifiers": {},
+        "starting_items": [],
+        "learned_skills": [],
+        "unit_notes": [],
+        "wexp_gain": {},
+        "alternate_classes": [],
+        "portrait_nid": "",
+        "affinity": null,
+        "fields": []
+    }
+]

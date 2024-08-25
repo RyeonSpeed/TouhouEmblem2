@@ -1,0 +1,63 @@
+[
+    {
+        "nid": "Koakuma",
+        "name": "Koakuma",
+        "desc": "A servant of the Scarlet Devil Mansion. She's mostly found helping out Patchouli in her library.",
+        "variant": null,
+        "level": 1,
+        "klass": "Demon",
+        "tags": [],
+        "bases": {
+            "HP": 21,
+            "STR": 7,
+            "MAG": 0,
+            "SKL": 4,
+            "SPD": 5,
+            "LCK": 0,
+            "DEF": 7,
+            "RES": 3,
+            "CON": 9,
+            "MOV": 6
+        },
+        "growths": {
+            "HP": 80,
+            "STR": 45,
+            "MAG": 20,
+            "SKL": 35,
+            "SPD": 35,
+            "LCK": 10,
+            "DEF": 35,
+            "RES": 15,
+            "CON": 0,
+            "MOV": 0
+        },
+        "stat_cap_modifiers": {},
+        "starting_items": [
+            [
+                "Naginata",
+                false
+            ],
+            [
+                "Flame_Lance",
+                false
+            ],
+            [
+                "Forged_Shield",
+                false
+            ]
+        ],
+        "learned_skills": [],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Lance": [
+                false,
+                71,
+                null
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "Koakuma",
+        "affinity": "Dark",
+        "fields": []
+    }
+]

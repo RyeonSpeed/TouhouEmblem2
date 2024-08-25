@@ -1,0 +1,44 @@
+[
+    {
+        "nid": "Koishi",
+        "name": "Koishi",
+        "desc": "",
+        "variant": null,
+        "level": 1,
+        "klass": "Sniper",
+        "tags": [],
+        "bases": {
+            "HP": 21,
+            "STR": 7,
+            "MAG": 0,
+            "SKL": 6,
+            "SPD": 7,
+            "LCK": 0,
+            "DEF": 5,
+            "RES": 3,
+            "CON": 8,
+            "MOV": 6
+        },
+        "growths": {
+            "HP": 65,
+            "STR": 30,
+            "MAG": 0,
+            "SKL": 40,
+            "SPD": 20,
+            "LCK": 30,
+            "DEF": 15,
+            "RES": 25,
+            "CON": 0,
+            "MOV": 0
+        },
+        "stat_cap_modifiers": {},
+        "starting_items": [],
+        "learned_skills": [],
+        "unit_notes": [],
+        "wexp_gain": {},
+        "alternate_classes": [],
+        "portrait_nid": "",
+        "affinity": null,
+        "fields": []
+    }
+]
