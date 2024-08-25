@@ -3,7 +3,7 @@
         "name": "Turn15",
         "trigger": "turn_change",
         "level_nid": "2",
-        "condition": "game.turncount == 15",
+        "condition": "game.turncount == 15 and game.check_alive(\"Wriggle_Boss\")",
         "commands": [],
         "only_once": false,
         "priority": 20,

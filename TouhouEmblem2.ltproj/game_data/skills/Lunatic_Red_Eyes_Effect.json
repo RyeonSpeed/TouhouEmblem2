@@ -48,6 +48,10 @@
             [
                 "change_ai",
                 "Pursue"
+            ],
+            [
+                "lost_on_end_chapter",
+                null
             ]
         ]
     }

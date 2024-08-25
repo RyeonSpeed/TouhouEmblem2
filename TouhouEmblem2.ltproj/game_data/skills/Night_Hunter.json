@@ -37,6 +37,10 @@
             [
                 "resist_follow_up",
                 1.5
+            ],
+            [
+                "lost_on_end_chapter",
+                null
             ]
         ]
     }

@@ -12,6 +12,10 @@
             [
                 "enemy_exp_multiplier",
                 0
+            ],
+            [
+                "lost_on_end_chapter",
+                null
             ]
         ]
     }
