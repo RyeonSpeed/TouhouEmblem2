@@ -8,7 +8,31 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            ""
+            "game_var;RinClass;game.get_random_choice(['Bigle','Demon','Lycanthrope','Revenant','Centaur','Ronin','Skeleton','Skeleton_B','Grave_Rider','Thief','Miko','Witch','Lord_L','Lord_S','Lord_B','Fencer','Fencer_R','Vagrant_S','Vagrant_A','Lancer','Lancer_R','Fighter','Brigand','Pirate','Archer','Archer_R','Outlaw','Guard','Kappa_Mech','Lance_Rider','Axe_Rider','Sword_Rider','Bow_Rider','Mage','Mage_M','Acolyte','Acolyte_N','Shaman','Shaman_S','Peg_Rider','Peg_Rider_K','Dracorider','Tengu','Mermaid','Cursed_Armor','Mage_B','Fencer_Y'])",
+            "promote;Rin;{v:RinClass};silent",
+            "change_portrait;Rin;Rin{v:RinClass}",
+            "        level_var;rin_hp;game.get_random(15,25)",
+            "        level_var;rin_hp_growth;20 + game.get_random(0,90)",
+            "        level_var;rin_str;game.get_random(2,8)",
+            "        level_var;rin_str_growth;20 + game.get_random(0,55)",
+            "        level_var;rin_mag;game.get_random(2,8)",
+            "        level_var;rin_mag_growth;20 + game.get_random(0,55)",
+            "        level_var;rin_skl;game.get_random(2,8)",
+            "        level_var;rin_skl_growth;20 + game.get_random(0,55)",
+            "        level_var;rin_spd;game.get_random(2,8)",
+            "        level_var;rin_spd_growth;10 + game.get_random(0,65)",
+            "        level_var;rin_lck;game.get_random(0,15)",
+            "        level_var;rin_lck_growth;game.get_random(0,100)",
+            "        level_var;rin_def;game.get_random(2,8)",
+            "        level_var;rin_def_growth;10 + game.get_random(0,50)",
+            "        level_var;rin_res;game.get_random(2,8)",
+            "        level_var;rin_res_growth;10 + game.get_random(0,50)",
+            "set_growths;Rin;HP,{v:rin_hp_growth},STR,{v:rin_str_growth},MAG,{v:rin_mag_growth},SKL,{v:rin_skl_growth},SPD,{v:rin_spd_growth},LCK,{v:rin_lck_growth},DEF,{v:rin_def_growth},RES,{v:rin_res_growth}",
+            "set_stats;Rin;HP,{v:rin_hp},STR,{v:rin_str},MAG,{v:rin_mag},SKL,{v:rin_skl},SPD,{v:rin_spd},LCK,{v:rin_lck},DEF,{v:rin_def},RES,{v:rin_res};immediate",
+            "game_var;RinCombatArt;game.get_random_choice(['Mercy_Art','Homing_Shot','Star_Laser','Bloodsucker','Wolf_Fang','Canine_Dash','Flood_of_Frost','Apparitions_That_Stalk_The_Night','Shattering_Moon','Infest','Phoenix_Crash','Lunatic_Red_Eyes','Bangasa_Bombing_Run'])",
+            "give_skill;Rin;{v:RinCombatArt};;no_banner",
+            "game_var;RinPassive;game.get_random_choice(['Pivot','Taskmaster','Natural_Talent','Head_Distraction','Swift_Hunter','Magical_Might','Knowledge_is_Power','Mask_Calm','In_An_Instant','Master_Pharmacist','Searchlight','Prism_Camouflage','Interfering_Waves','Haphazard_Smash','Portal_Combat','Mogu_Mogu','Perfect_Freeze','The_Strongest','Nature_Power','Super_Luck','Great_Fortune','Optimism','Forgemaster','Sniper','Sharpshooter','Zip_Bomb'])",
+            "give_skill;Rin;{v:RinPassive};;no_banner"
         ]
     }
 ]

@@ -50,16 +50,16 @@
             "MOV": 0
         },
         "promotion": {
-            "HP": 1,
+            "HP": 15,
             "STR": 0,
-            "MAG": 0,
-            "SKL": 2,
-            "SPD": 2,
+            "MAG": 4,
+            "SKL": 5,
+            "SPD": 7,
             "LCK": 0,
-            "DEF": 0,
-            "RES": 2,
-            "CON": 1,
-            "MOV": -99
+            "DEF": 2,
+            "RES": 7,
+            "CON": 6,
+            "MOV": 5
         },
         "max_stats": {
             "HP": 60,
@@ -119,6 +119,11 @@
                 false,
                 0,
                 251
+            ],
+            "Monster": [
+                false,
+                0,
+                null
             ]
         },
         "icon_nid": "Generic_Portrait_Monk",

@@ -19,7 +19,7 @@
             ],
             [
                 "allowed_weapons",
-                "item_system.weapon_type(unit, item) in ['Bow']"
+                "item_system.weapon_type(unit, item) in ['Sword', 'Lance', 'Axe', 'Bow', 'Anima', 'Dark', 'Light', 'Monster']"
             ],
             [
                 "condition",

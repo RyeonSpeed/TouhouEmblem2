@@ -8,14 +8,65 @@
         "klass": "Citizen",
         "tags": [],
         "bases": {
-            "HP": 5
+            "HP": 0
         },
         "growths": {},
         "stat_cap_modifiers": {},
         "starting_items": [],
         "learned_skills": [],
         "unit_notes": [],
-        "wexp_gain": {},
+        "wexp_gain": {
+            "Sword": [
+                false,
+                31,
+                null
+            ],
+            "Lance": [
+                false,
+                31,
+                null
+            ],
+            "Axe": [
+                false,
+                31,
+                null
+            ],
+            "Bow": [
+                false,
+                31,
+                null
+            ],
+            "Light": [
+                false,
+                31,
+                null
+            ],
+            "Staff": [
+                false,
+                31,
+                null
+            ],
+            "Anima": [
+                false,
+                31,
+                null
+            ],
+            "Dark": [
+                false,
+                31,
+                null
+            ],
+            "Default": [
+                false,
+                31,
+                null
+            ],
+            "Monster": [
+                false,
+                31,
+                null
+            ]
+        },
         "alternate_classes": [],
         "portrait_nid": "RinMermaid",
         "affinity": "None",

@@ -63,7 +63,7 @@
             "transition;close",
             "multi_remove_portrait;Reimu;Kasen;Marisa;Remilia",
             "game_var;_base_market;1",
-            "game_var;hireable_guys;['Tokiko','Letty','Kokoro','Miki','Tomomi','Konami','Kabin','Yae','Amane']",
+            "game_var;hireable_guys;['Tokiko','Letty','Kokoro','Miki','Tomomi','Konami','Kabin','Yae','Amane','Rin']",
             "add_talk;Reimu;Keine_NPC",
             "add_talk;Marisa;Keine_NPC",
             "add_talk;Keine_NPC;Reimu",

@@ -165,6 +165,13 @@
                 "Name": "Kagerou_Boss",
                 "Cost": "2000",
                 "Description": "High movement & avoid offensive unit."
+            },
+            {
+                "nid": "Rin",
+                "Class": "Civilian",
+                "Name": "Rin",
+                "Cost": "2000",
+                "Description": "???"
             }
         ]
     }

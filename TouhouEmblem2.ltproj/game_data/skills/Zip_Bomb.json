@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Zip_Bomb",
+        "name": "Zip Bomb",
+        "desc": "\"You should kill yourself, NOW!\" - Daluan Sparrow",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            9,
+            5
+        ],
+        "components": [
+            [
+                "ability",
+                "KYS_NOW"
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

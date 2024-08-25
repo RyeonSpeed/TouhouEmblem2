@@ -27,7 +27,7 @@
             ],
             [
                 "condition",
-                "item_system.weapon_type(unit, item) in ['Monster']"
+                "item_system.weapon_type(unit, item) in ['Sword', 'Lance', 'Axe', 'Bow', 'Anima', 'Dark', 'Light', 'Monster']"
             ]
         ]
     }
