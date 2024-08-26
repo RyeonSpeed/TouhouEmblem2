@@ -14,7 +14,7 @@
                 null
             ],
             [
-                "event_after_combat",
+                "event_after_combat_when_hit",
                 "Global Shield_Check"
             ],
             [
