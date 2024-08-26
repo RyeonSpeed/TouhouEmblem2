@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "PuppeteersMark",
+        "name": "Puppeteer's Mark",
+        "desc": "-15% Crit Avoid. This does not count as a negative status effect.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            2,
+            0
+        ],
+        "components": [
+            [
+                "crit_avoid",
+                -15
+            ],
+            [
+                "time",
+                1
+            ]
+        ]
+    }
+]

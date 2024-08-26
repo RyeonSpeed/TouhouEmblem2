@@ -175,5 +175,30 @@
         "nid": "tfw water",
         "terrain_grid": {},
         "autotiles": {}
+    },
+    {
+        "nid": "Zoramine_Snow_Fields_Water",
+        "terrain_grid": {},
+        "autotiles": {}
+    },
+    {
+        "nid": "Zoramine Castle ",
+        "terrain_grid": {},
+        "autotiles": {}
+    },
+    {
+        "nid": "Zoramine Snow Fields (Water)",
+        "terrain_grid": {},
+        "autotiles": {}
+    },
+    {
+        "nid": "eternalsteps",
+        "terrain_grid": {},
+        "autotiles": {}
+    },
+    {
+        "nid": "Jizou",
+        "terrain_grid": {},
+        "autotiles": {}
     }
 ]

@@ -57,7 +57,7 @@
                 "effective_damage",
                 {
                     "effective_tags": [
-                        "Monster"
+                        "Magic"
                     ],
                     "effective_multiplier": 2.0,
                     "effective_bonus_damage": 10,

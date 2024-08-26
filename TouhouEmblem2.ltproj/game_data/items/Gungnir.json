@@ -1,0 +1,71 @@
+[
+    {
+        "nid": "Gungnir",
+        "name": "Gungnir",
+        "desc": "Remilia's lance of legend. Grants \"Bloodlust\" and \"Spear The Gungnir\".",
+        "icon_nid": "swords",
+        "icon_index": [
+            5,
+            0
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                1
+            ],
+            [
+                "damage",
+                11
+            ],
+            [
+                "hit",
+                80
+            ],
+            [
+                "crit",
+                15
+            ],
+            [
+                "weight",
+                10
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Lance"
+            ],
+            [
+                "fatigue",
+                1
+            ],
+            [
+                "prf_unit",
+                [
+                    "Remilia"
+                ]
+            ],
+            [
+                "c_uses",
+                10
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ]
+        ]
+    }
+]

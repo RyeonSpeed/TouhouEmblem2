@@ -10,6 +10,10 @@
         "_source": [
             "if;unit2 and skill_system.check_enemy(unit, unit2)",
             "set_item_uses;{unit1};{e:unit.equipped_accessory.uid};-1;additive",
+            "end",
+            "if;item.data.get('uses') == 0",
+            "break_item;{unit};{item}",
+            "else",
             "end"
         ]
     }

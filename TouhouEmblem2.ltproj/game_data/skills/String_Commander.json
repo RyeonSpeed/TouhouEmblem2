@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "String_Commander",
+        "name": "String Commander",
+        "desc": "Can target an enemy up to 2 tiles away, inflicting them with \"Puppeteer's Mark\" for one turn, lowering their Crit Avoid by 15%.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            2,
+            0
+        ],
+        "components": [
+            [
+                "ability",
+                "String_Mark"
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

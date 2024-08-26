@@ -16,6 +16,10 @@
             [
                 "max_range",
                 3
+            ],
+            [
+                "no_double",
+                null
             ]
         ]
     }

@@ -1416,6 +1416,30 @@
         "info_offset": 0
     },
     {
+        "nid": "RinMage_B",
+        "blinking_offset": [
+            32,
+            32
+        ],
+        "smiling_offset": [
+            32,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "RinFencer_Y",
+        "blinking_offset": [
+            16,
+            48
+        ],
+        "smiling_offset": [
+            16,
+            64
+        ],
+        "info_offset": 0
+    },
+    {
         "nid": "RinTengu",
         "blinking_offset": [
             24,
@@ -1442,35 +1466,23 @@
     {
         "nid": "RinCursed_Armor",
         "blinking_offset": [
-            24,
+            32,
             32
         ],
         "smiling_offset": [
-            24,
+            32,
             48
         ],
         "info_offset": 0
     },
     {
-        "nid": "RinFencer_Y",
+        "nid": "Louise",
         "blinking_offset": [
-            24,
+            32,
             32
         ],
         "smiling_offset": [
-            24,
-            48
-        ],
-        "info_offset": 0
-    },
-    {
-        "nid": "RinMage_B",
-        "blinking_offset": [
-            24,
-            32
-        ],
-        "smiling_offset": [
-            24,
+            32,
             48
         ],
         "info_offset": 0

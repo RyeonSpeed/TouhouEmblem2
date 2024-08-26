@@ -1,0 +1,34 @@
+[
+    {
+        "nid": "Lethal_Life_Flow",
+        "name": "Lethal Life Flow",
+        "desc": "Whenever user is hit, gain one charge. Allows user to kill a single non-boss enemy.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            9,
+            5
+        ],
+        "components": [
+            [
+                "combat_art_indicator",
+                null
+            ],
+            [
+                "combat_art",
+                "Lethal_Life_Flow1"
+            ],
+            [
+                "build_charge",
+                7
+            ],
+            [
+                "event_when_hit",
+                "Global LethalLifeFlowCharge"
+            ],
+            [
+                "condition",
+                "False"
+            ]
+        ]
+    }
+]

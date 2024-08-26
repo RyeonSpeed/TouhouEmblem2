@@ -28,6 +28,10 @@
             [
                 "ability_indicator",
                 null
+            ],
+            [
+                "eval_damage",
+                "int(unit.get_max_hp() - unit.get_hp()) * 0.25"
             ]
         ]
     }

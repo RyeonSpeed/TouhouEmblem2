@@ -73,7 +73,12 @@
             "CON": 20,
             "MOV": 15
         },
-        "learned_skills": [],
+        "learned_skills": [
+            [
+                1,
+                "Flying"
+            ]
+        ],
         "wexp_gain": {
             "Sword": [
                 false,
@@ -119,6 +124,11 @@
                 false,
                 0,
                 251
+            ],
+            "Monster": [
+                false,
+                0,
+                null
             ]
         },
         "icon_nid": "Generic_Portrait_Arch_Mogall",

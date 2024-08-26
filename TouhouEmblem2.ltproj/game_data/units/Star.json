@@ -55,6 +55,10 @@
             [
                 "Eirins_Drugs",
                 false
+            ],
+            [
+                "Lantern",
+                false
             ]
         ],
         "learned_skills": [

@@ -4,49 +4,66 @@
         "name": "Koakuma",
         "desc": "A servant of the Scarlet Devil Mansion. She's mostly found helping out Patchouli in her library.",
         "variant": null,
-        "level": 1,
+        "level": 7,
         "klass": "Demon",
         "tags": [],
         "bases": {
-            "HP": 21,
-            "STR": 7,
-            "MAG": 0,
-            "SKL": 4,
-            "SPD": 5,
-            "LCK": 0,
-            "DEF": 7,
-            "RES": 3,
-            "CON": 9,
+            "HP": 27,
+            "STR": 11,
+            "MAG": 7,
+            "SKL": 3,
+            "SPD": 10,
+            "LCK": 13,
+            "DEF": 10,
+            "RES": 8,
+            "CON": 7,
             "MOV": 6
         },
         "growths": {
-            "HP": 80,
-            "STR": 45,
-            "MAG": 20,
-            "SKL": 35,
-            "SPD": 35,
-            "LCK": 10,
-            "DEF": 35,
-            "RES": 15,
+            "HP": 95,
+            "STR": 50,
+            "MAG": 35,
+            "SKL": 15,
+            "SPD": 45,
+            "LCK": 65,
+            "DEF": 45,
+            "RES": 35,
             "CON": 0,
             "MOV": 0
         },
         "stat_cap_modifiers": {},
         "starting_items": [
             [
-                "Naginata",
+                "Devil_Lance",
                 false
             ],
             [
-                "Flame_Lance",
+                "Short_Spear",
                 false
             ],
             [
-                "Forged_Shield",
+                "Eye_of_Senri",
+                false
+            ],
+            [
+                "Gungnir",
                 false
             ]
         ],
-        "learned_skills": [],
+        "learned_skills": [
+            [
+                1,
+                "Capricious_Cheerleader"
+            ],
+            [
+                1,
+                "Flighty_Helper"
+            ],
+            [
+                1,
+                "Bumbling_Dodge"
+            ]
+        ],
         "unit_notes": [],
         "wexp_gain": {
             "Lance": [

@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Lethal_Life_Flow1",
+        "name": "Lethal Life Flow",
+        "desc": "Allows user to kill a single non-boss enemy.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            9,
+            5
+        ],
+        "components": [
+            [
+                "damage",
+                1000
+            ]
+        ]
+    }
+]

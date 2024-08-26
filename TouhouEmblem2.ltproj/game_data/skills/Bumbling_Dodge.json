@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Bumbling_Dodge",
+        "name": "Bumbling Dodge",
+        "desc": "Unit gets +20 Avoid at full HP.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            1,
+            0
+        ],
+        "components": [
+            [
+                "condition",
+                "unit.get_hp() = unit.get_max_hp() "
+            ],
+            [
+                "avoid",
+                20
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

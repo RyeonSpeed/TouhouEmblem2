@@ -5791,10 +5791,75 @@
                         ]
                     ]
                 }
+            },
+            {
+                "nid": "Chest1",
+                "visible": false,
+                "foreground": false,
+                "terrain_grid": {},
+                "sprite_grid": {
+                    "1,0": [
+                        "Zoramine_Snow_Fields_Water",
+                        [
+                            2,
+                            25
+                        ]
+                    ]
+                }
+            },
+            {
+                "nid": "Chest2",
+                "visible": false,
+                "foreground": false,
+                "terrain_grid": {},
+                "sprite_grid": {
+                    "11,11": [
+                        "Zoramine_Snow_Fields_Water",
+                        [
+                            2,
+                            25
+                        ]
+                    ]
+                }
+            },
+            {
+                "nid": "Chest3",
+                "visible": false,
+                "foreground": false,
+                "terrain_grid": {},
+                "sprite_grid": {
+                    "33,0": [
+                        "Zoramine_Snow_Fields_Water",
+                        [
+                            2,
+                            25
+                        ]
+                    ]
+                }
+            },
+            {
+                "nid": "House1",
+                "visible": false,
+                "foreground": false,
+                "terrain_grid": {},
+                "sprite_grid": {
+                    "23,12": [
+                        "Zoramine_Snow_Fields_Water",
+                        [
+                            1,
+                            31
+                        ]
+                    ]
+                }
             }
         ],
         "tilesets": [
-            "tfw water"
+            "tfw water",
+            "Zoramine_Snow_Fields_Water",
+            "Zoramine Castle ",
+            "Zoramine Snow Fields (Water)",
+            "Zoramine Castle ",
+            "Zoramine Snow Fields (Water)"
         ]
     }
 ]

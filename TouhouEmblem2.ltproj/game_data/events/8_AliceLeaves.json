@@ -1,7 +1,7 @@
 [
     {
         "name": "AliceLeaves",
-        "trigger": null,
+        "trigger": "turn_change",
         "level_nid": "8",
         "condition": "game.turncount == 15",
         "commands": [],

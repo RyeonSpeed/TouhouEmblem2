@@ -1,0 +1,47 @@
+[
+    {
+        "nid": "Motivated",
+        "name": "Motivated",
+        "desc": "+2 Str/Mag/Skl/Spd/Def/Res.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            2,
+            7
+        ],
+        "components": [
+            [
+                "time",
+                1
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "STR",
+                        2
+                    ],
+                    [
+                        "MAG",
+                        2
+                    ],
+                    [
+                        "SKL",
+                        2
+                    ],
+                    [
+                        "SPD",
+                        2
+                    ],
+                    [
+                        "DEF",
+                        2
+                    ],
+                    [
+                        "RES",
+                        2
+                    ]
+                ]
+            ]
+        ]
+    }
+]

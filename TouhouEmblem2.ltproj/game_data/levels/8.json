@@ -100,7 +100,7 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    2,
+                    3,
                     7
                 ],
                 "starting_traveler": null,
@@ -114,7 +114,7 @@
                 "ai_group": "",
                 "starting_position": [
                     2,
-                    14
+                    13
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -193,7 +193,7 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    15,
+                    18,
                     15
                 ],
                 "starting_traveler": null,
@@ -425,8 +425,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    12,
-                    17
+                    26,
+                    8
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -737,8 +737,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    9,
-                    16
+                    12,
+                    17
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -837,8 +837,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    10,
-                    17
+                    11,
+                    9
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -862,7 +862,7 @@
                 "ai_group": "",
                 "starting_position": [
                     14,
-                    1
+                    0
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -914,7 +914,7 @@
                 "ai_group": "",
                 "starting_position": [
                     13,
-                    2
+                    1
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -998,7 +998,7 @@
                 "ai_group": "",
                 "starting_position": [
                     15,
-                    2
+                    1
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1101,7 +1101,7 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    21,
+                    11,
                     18
                 ],
                 "starting_traveler": null,
@@ -1245,8 +1245,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    9,
-                    10
+                    33,
+                    1
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1341,8 +1341,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    9,
-                    9
+                    35,
+                    7
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1721,6 +1721,19 @@
                 ],
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "Koakuma",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    4,
+                    11
+                ],
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [
@@ -1728,8 +1741,8 @@
                 "nid": "Formation_1",
                 "region_type": "formation",
                 "position": [
-                    1,
-                    15
+                    2,
+                    11
                 ],
                 "size": [
                     1,
@@ -1779,7 +1792,7 @@
                 "nid": "Formation_4",
                 "region_type": "formation",
                 "position": [
-                    3,
+                    4,
                     7
                 ],
                 "size": [
@@ -1813,14 +1826,14 @@
                 "nid": "Formation_6",
                 "region_type": "formation",
                 "position": [
-                    1,
+                    2,
                     6
                 ],
                 "size": [
                     1,
                     1
                 ],
-                "sub_nid": null,
+                "sub_nid": "",
                 "condition": "True",
                 "time_left": null,
                 "only_once": false,
@@ -1865,13 +1878,13 @@
                 "region_type": "formation",
                 "position": [
                     3,
-                    15
+                    12
                 ],
                 "size": [
                     1,
                     1
                 ],
-                "sub_nid": null,
+                "sub_nid": "",
                 "condition": "True",
                 "time_left": null,
                 "only_once": false,
@@ -1881,7 +1894,7 @@
                 "nid": "Formation_10",
                 "region_type": "formation",
                 "position": [
-                    3,
+                    2,
                     14
                 ],
                 "size": [
@@ -1898,7 +1911,7 @@
                 "nid": "Formation_11",
                 "region_type": "formation",
                 "position": [
-                    1,
+                    2,
                     7
                 ],
                 "size": [
@@ -1915,8 +1928,8 @@
                 "nid": "Formation_12",
                 "region_type": "formation",
                 "position": [
-                    1,
-                    8
+                    4,
+                    9
                 ],
                 "size": [
                     1,
@@ -1924,6 +1937,91 @@
                 ],
                 "sub_nid": null,
                 "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "Chest_1",
+                "region_type": "event",
+                "position": [
+                    1,
+                    0
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "Chest",
+                "condition": "unit.can_unlock(region)",
+                "time_left": null,
+                "only_once": true,
+                "interrupt_move": false
+            },
+            {
+                "nid": "Chest_2",
+                "region_type": "event",
+                "position": [
+                    11,
+                    11
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "Chest",
+                "condition": "unit.can_unlock(region)",
+                "time_left": null,
+                "only_once": true,
+                "interrupt_move": false
+            },
+            {
+                "nid": "Chest_3",
+                "region_type": "event",
+                "position": [
+                    33,
+                    0
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "Chest",
+                "condition": "unit.can_unlock(region)",
+                "time_left": null,
+                "only_once": true,
+                "interrupt_move": false
+            },
+            {
+                "nid": "House_1",
+                "region_type": "event",
+                "position": [
+                    23,
+                    12
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "Visit",
+                "condition": "True",
+                "time_left": null,
+                "only_once": true,
+                "interrupt_move": false
+            },
+            {
+                "nid": "Escape",
+                "region_type": "event",
+                "position": [
+                    37,
+                    4
+                ],
+                "size": [
+                    1,
+                    2
+                ],
+                "sub_nid": "Escape",
+                "condition": "unit.team == 'player'",
                 "time_left": null,
                 "only_once": false,
                 "interrupt_move": false

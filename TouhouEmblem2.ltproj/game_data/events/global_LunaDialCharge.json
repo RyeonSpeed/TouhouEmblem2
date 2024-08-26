@@ -15,7 +15,7 @@
             "sound;RefreshDanceMap",
             "map_anim;OverchargeAura;Sakuya",
             "reset;Sakuya",
-            "set_skill_data;{unit};Time_Token;0",
+            "set_skill_data;{unit};Time_Token;{e:get_skill(unit, 'Time_Token').data.get('charge') + 1}",
             "else",
             "end"
         ]

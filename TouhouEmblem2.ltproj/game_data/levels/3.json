@@ -110,7 +110,7 @@
                 "ai_group": "",
                 "starting_position": [
                     10,
-                    4
+                    2
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -161,7 +161,7 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    6,
+                    4,
                     11
                 ],
                 "starting_traveler": null,
@@ -185,7 +185,7 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    8,
+                    6,
                     10
                 ],
                 "starting_traveler": null,
@@ -289,7 +289,7 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    12,
+                    13,
                     13
                 ],
                 "starting_traveler": null,
@@ -363,8 +363,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    14,
-                    4
+                    19,
+                    16
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -377,7 +377,7 @@
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Steel_Bow",
+                        "Iron_Bow",
                         false
                     ]
                 ],
@@ -403,7 +403,7 @@
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Steel_Bow",
+                        "Iron_Bow",
                         false
                     ]
                 ],
@@ -717,7 +717,7 @@
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Steel_Lance",
+                        "Iron_Sword",
                         false
                     ]
                 ],
@@ -727,8 +727,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    26,
-                    1
+                    25,
+                    2
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -741,7 +741,7 @@
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Steel_Lance",
+                        "Iron_Lance",
                         false
                     ]
                 ],
@@ -752,7 +752,7 @@
                 "ai_group": "",
                 "starting_position": [
                     28,
-                    3
+                    11
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -765,7 +765,7 @@
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Horseslayer",
+                        "Iron_Sword",
                         false
                     ],
                     [

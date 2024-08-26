@@ -8,14 +8,14 @@
     },
     {
         "nid": "Character_Stats",
-        "name": "Character Stats",
+        "name": "Stats",
         "title": "Character Stats",
         "category": "Guide",
         "text": "There are a few stats that are quite important in Fire Emblem. I will introduce you to a basic rundown of each of them, starting with character stats.\nHP: Health points. Your units will be defeated if they reach 0. In Standard Mode, any units who are defeated will be unusable permanently. In Baby Mode, any units who are defeated will return in the next chapter.\nSTR: Strength. This affects how much damage you do with physical weapons (Swords, Axes, Lances, Bows).\nMAG: Magic. This affects how much damage/healing you do with magical weapons (Anima, Light, Dark, Staves)\nSKL: Skill. This affects your accuracy (+2 Hit/1 Skill) and Critical Rate (+1 Crit/1 Skill). This is a dump stat usually lmao\nSPD: Speed. This affects your chance to dodge a hit (+1 Avoid/1 Spd). However, the most important part is that if you have 4 or more Spd than your opponent, you will attack them twice. \nLCK: Luck. This affects your chance to dodge a hit (+1 Avoid/1 Lck), and decreases the likelihood of an enemy critting you (+1 Crit Avoid/1 Lck). Luck is the best stat and totally not another dump stat :)\nDEF: Defense. You take one less damage from physical attacks for every point of Def you have.\nRES: Resistance. You take one less damage from magical attacks for every point of Res you have.\nCON: Constitution. Constitution offsets the speed loss you receive from a weapon's weight (More on that later). It also affects your ability to rescue (More on that later).\nMOV: Movement/Move. Movement affects how many tiles you can move in a single action. This is the best stat. Period.\nRAT: Rating. This is always set at 69. That is all."
     },
     {
         "nid": "Weapon_Stats_and_Tags",
-        "name": "Weapon Stats and Tags",
+        "name": "Weapons",
         "title": "Weapon Stats and Tags",
         "category": "Guide",
         "text": "Weapon Stats{br}Weapons have various stats in their description.\nDurability: The number next to the weapon that displays as x/x is the durability of the weapon. Each weapon loses one durability per use. A weapon with no durability is broken and cannot be used anymore. Weapons with --/-- durability have infinite uses. Weapons with x/-- have a limited number of uses per chapter.\nWeapon Icon: Shows what type of weapon it is. Also has a letter called the Weapon Rank, which identifies how much Weapon Experience a unit needs to wield the weapon. Weapons with a \"Prf\" weapon rank are locked to certain units as described.\nMinimum Weapon Experience Needed To Wield Weapon:{br}[S: 251]{br}[A: 181]{br}[B: 121]{br}[C: 71]{br}[D: 31]{br}[E: 1]\nRng: Range. This shows up to how many tiles forward a weapon can attack.\nWt: Weight. This is the speed penalty imposed on a unit for wielding the weapon. This is counteracted with the Con stat. The speed penalty for a weapon can be calculated with (Con - Wt).\nMt: Might. This is how much damage the weapon does at base, not counting any other calculations.\nHit: Hit Rate. This is the base hit rate of the weapon, not counting any other calculations.\nCrit: Crit Rate. This is the base crit rate of the weapon, not counting any other calculations. If a weapon has no crit rate, it cannot make a critical hit.\nTags{br}Weapons have brief tags in their description that allow you to quickly identify what bonus abilities a weapon has.\nArmorpiercing: Weapon does bonus damage against enemies with the tag \"Armor\".\nAnti-Mounted: Weapon does bonus damage against enemies with the tag \"Horse\".\nBeastkiller: Weapon does bonus damage against enemies with the tag \"Beast\".\nAnti-Monstrous: Weapon does bonus damage against enemies with the tag \"Monster\".\nAnti-Fliers: Weapon does bonus damage against enemies with the tag \"Flier\".\nMagicbuster: Weapon does bonus damage against enemies with the tag \"Magic\".\nBrave: Weapon can attack twice as much as usual.\nDevil: Weapon has a (31 - Lck)% chance of backfiring and dealing damage to the wielder as well.\nReaver: Weapon reverses the effects of the weapon triangle.\nPhysical: This weapon which belongs to a usually magical weapon type now scales off of the user's STR stat and the enemy's DEF stat.\nMagic: This weapon which belongs to a usually physical weapon type now scales off of the user's MAG stat and the enemy's RES stat.\nPoisonous: This weapon inflicts Poisoned on the enemy after combat.\nPrf (Unit): This weapon is locked to the unit mentioned. (For example, Prf Reimu weapons are locked to Reimu)."
@@ -29,28 +29,28 @@
     },
     {
         "nid": "Items_and_Accessories",
-        "name": "Items and Accessories",
+        "name": "Items",
         "title": "Items and Accessories",
         "category": "Guide",
         "text": "Beyond weapons, items are also important to your success. In Touhou Emblem 2, there are items and accessories. Your inventory has 4 slots for weapons & items, and 1 slot for an accessory.\nItems are usually consumable and have limited durability. These are usually things like healing items and promotion items.\nAccessories are special equippable items that usually provide some sort of bonus to the player, such as extra stats/growths or crit negation."
     },
     {
         "nid": "Weapon_Triangle",
-        "name": "Weapon Triangle",
+        "name": "Wpn Triangle",
         "title": "Weapon Triangle",
         "category": "Guide",
-        "text": "The weapon triangle is a rock-paper-scissors system in Fire Emblem that means that different types of weapons have advantage over others. There are technically two triangles, the Weapon Triangle and Trinity of Magic, but the concept as a whole is called the \"Weapon Triangle\". Bows and Staves are exempt from this system.\nWeapon Triangle{br}The weapon triangle between swords/lances/axes has a 3 DMG/15 Hit Advantage/Disadvantage to the weapon with the Advantage/Disadvantage.{br}Swords beat Axes{br}Axes beat Lances{br}Lances beat Swords\nTrinity of Magic{br}The trinity of magic between anima/light/dark also has a 3 DMG/15 Hit Advantage/Disadvantage to the weapon with the Advantage/Disadvantage.{br}Anima beats Light{br}Light beats Dark{br}Dark beats Anima\n"
+        "text": "The weapon triangle is a rock-paper-scissors system in Fire Emblem that means that different types of weapons have advantage over others. There are technically two triangles, the Weapon Triangle and Trinity of Magic, but the concept as a whole is called the \"Weapon Triangle\". Bows and Staves are exempt from this system.\nWeapon Triangle{br}The weapon triangle between swords/lances/axes has a 3 DMG/15 Hit Advantage/Disadvantage to the weapon with the Advantage/Disadvantage.{br}Swords beat Axes{br}Axes beat Lances{br}Lances beat Swords\nTrinity of Magic{br}The trinity of magic between anima/light/dark also has a 3 DMG/15 Hit Advantage/Disadvantage to the weapon with the Advantage/Disadvantage.{br}Anima beats Light{br}Light beats Dark{br}Dark beats Anima"
     },
     {
         "nid": "Effective_Damage",
-        "name": "Effective Damage",
+        "name": "Effective Dmg",
         "title": "Effective Damage",
         "category": "Guide",
         "text": "Some weapons will have tags like \"Anti-Monstrous\" or \"Armorpiercing\" which means that they deal effective damage against targets with certain tags. Effective Damage generally increases damage greatly by an amount and also multiplies damage done. Generally, bringing effective weaponry around is the greatest way to deal with certain issues or speed up your pace in a map."
     },
     {
         "nid": "Movement_Types",
-        "name": "Movement Types",
+        "name": "Movement",
         "title": "Movement Types",
         "category": "Guide",
         "text": "Obviously, a horse can't swim. Unless it's a kelpie, of course, but that's irrelevant. Generally, speaking, certain movement types will have more or less trouble traversing certain environments. The most important ones to remember are that fliers can cross most terrain, magic users are unhindered by sand, and certain classes like Berserkers can traverse mountains slowly.\nTerrain on the battlefield has different qualities too, and may give certain stat bonuses or penalties. Fliers are generally exempt from these bonuses and penalties. For example, Forests give +1 Def and +20 Avoid, but slow down the movement of non-flying units. You can check this bonus by hovering over a tile and looking at the bottom left corner of the screen."
@@ -113,14 +113,14 @@
     },
     {
         "nid": "Bonus_Experience",
-        "name": "Bonus Experience",
+        "name": "Bonus Exp",
         "title": "Bonus Experience",
         "category": "Guide",
         "text": "Bonus Exp is a feature that gives you extra stored exp for completing certain objectives, such as visiting houses or unlocking certain secrets on maps. You can use bonus exp before a chapter in Base Preps. This exp can be utilized to grind up a new unit to help them catch up, or invest further into an already trained unit. A single point of Bonus Exp will be less effective the higher level a unit is."
     },
     {
         "nid": "Base_Conversations",
-        "name": "Base Conversations",
+        "name": "Base Convos",
         "title": "Base Conversations",
         "category": "Guide",
         "text": "Each chapter, there will be new base conversations for you to access. These conversations will give you rewards like bonus exp, extra items, and maybe even new playables. Be forewarned, however, that not all base conversations will be available permanently. Some may disappear after the chapter ends or after a period of time."
@@ -208,6 +208,13 @@
         "title": "Aunn",
         "category": "Character",
         "text": "Aunn is a mounted unit, and thus has fairly good movement. Use this to your advantage. Her sturdy build and high movement allows her to hit the frontlines pretty fast. \nHowever, do watch out for anti-mounted weapons and fast mages, which will end up being Aunn's undoing if you're not careful."
+    },
+    {
+        "nid": "Rin",
+        "name": "Rin",
+        "title": "Rin",
+        "category": "Character",
+        "text": "01010100 01101000 01101001 01110011 00100000 01101111 01101110 01100101 00100000 01100100 01101111 01100101 01110011 01101110 00100111 01110100 00100000 01100010 01100101 01101100 01101111 01101110 01100111 00100000 01101000 01100101 01110010 01100101 00101110"
     },
     {
         "nid": "Remilia",

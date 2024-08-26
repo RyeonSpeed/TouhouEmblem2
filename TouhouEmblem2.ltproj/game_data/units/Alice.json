@@ -34,11 +34,11 @@
         "stat_cap_modifiers": {},
         "starting_items": [
             [
-                "Yomi",
+                "Restore",
                 false
             ],
             [
-                "Flux",
+                "Barrier",
                 false
             ],
             [
@@ -50,17 +50,22 @@
                 false
             ]
         ],
-        "learned_skills": [],
+        "learned_skills": [
+            [
+                1,
+                "String_Commander"
+            ]
+        ],
         "unit_notes": [],
         "wexp_gain": {
             "Dark": [
                 false,
-                71,
+                0,
                 null
             ],
             "Staff": [
                 false,
-                31,
+                71,
                 null
             ]
         },

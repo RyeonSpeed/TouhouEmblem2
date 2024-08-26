@@ -5,7 +5,7 @@
         "desc": "",
         "variant": null,
         "level": 1,
-        "klass": "Lord",
+        "klass": "Lord_S",
         "tags": [],
         "bases": {
             "HP": 16,

@@ -29,6 +29,8 @@
     "Steel_Lance",
     "Naginata",
     "Silver_Lance",
+    "Devil_Lance",
+    "Gungnir",
     "Killer_Lance",
     "Platepiercer",
     "Horseslayer",
@@ -218,6 +220,7 @@
     "new",
     "CanineDash",
     "KYS_NOW",
+    "String_Mark",
     "Dragonstone",
     "Sear"
 ]
