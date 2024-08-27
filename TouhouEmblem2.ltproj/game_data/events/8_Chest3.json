@@ -10,7 +10,8 @@
         "_source": [
             "unlock;{unit}",
             "show_layer;Chest3",
-            "give_item;{unit};Reginleif"
+            "give_item;{unit};Reginleif",
+            "has_finished;{unit}"
         ]
     }
 ]

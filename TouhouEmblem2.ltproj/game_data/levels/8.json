@@ -9,7 +9,7 @@
         "objective": {
             "simple": "",
             "win": "",
-            "loss": ""
+            "loss": "Reimu or Marisa dies"
         },
         "roam": false,
         "roam_unit": null,
@@ -154,10 +154,6 @@
                 "klass": "Skeleton_B",
                 "faction": "Youkai",
                 "starting_items": [
-                    [
-                        "Longbow",
-                        false
-                    ],
                     [
                         "Steel_Bow",
                         false
@@ -407,10 +403,6 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Longbow",
-                        false
-                    ],
-                    [
                         "Steel_Bow",
                         false
                     ],
@@ -583,7 +575,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Steel_Lance",
+                        "Steel_Sword",
                         false
                     ]
                 ],
@@ -607,7 +599,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Slim_Lance",
+                        "Crusaderblade",
                         false
                     ]
                 ],
@@ -895,15 +887,11 @@
                 "nid": "119",
                 "variant": null,
                 "level": 7,
-                "klass": "Centaur",
+                "klass": "Grave_Rider",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Steel_Sword",
-                        false
-                    ],
-                    [
-                        "Heal",
+                        "Poison_Sword",
                         false
                     ]
                 ],
@@ -979,15 +967,11 @@
                 "nid": "120",
                 "variant": null,
                 "level": 7,
-                "klass": "Centaur",
+                "klass": "Grave_Rider",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Flamberge",
-                        false
-                    ],
-                    [
-                        "Heal",
+                        "Toxin_Lance",
                         false
                     ]
                 ],
@@ -1724,14 +1708,11 @@
             },
             {
                 "nid": "Koakuma",
-                "team": "player",
+                "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": [
-                    4,
-                    11
-                ],
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
             }

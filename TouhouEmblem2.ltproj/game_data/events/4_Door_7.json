@@ -9,7 +9,8 @@
         "priority": 20,
         "_source": [
             "unlock;{unit}",
-            "show_layer;Door7"
+            "show_layer;Door7",
+            "has_finished;{unit}102"
         ]
     }
 ]

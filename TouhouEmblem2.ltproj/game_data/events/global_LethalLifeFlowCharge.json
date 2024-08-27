@@ -3,7 +3,7 @@
         "name": "LethalLifeFlowCharge",
         "trigger": "combat_end",
         "level_nid": null,
-        "condition": "True",
+        "condition": "False",
         "commands": [],
         "only_once": false,
         "priority": 20,

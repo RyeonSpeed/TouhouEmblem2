@@ -10,7 +10,8 @@
         "_source": [
             "unlock;{unit}",
             "show_layer;Chest4",
-            "give_item;{unit};Eirins_Drugs"
+            "give_item;{unit};Eirins_Drugs",
+            "has_finished;{unit}"
         ]
     }
 ]

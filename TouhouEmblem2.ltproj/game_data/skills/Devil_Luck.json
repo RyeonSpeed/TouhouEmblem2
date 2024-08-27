@@ -10,12 +10,16 @@
         ],
         "components": [
             [
-                "hidden",
-                null
-            ],
-            [
                 "lifelink",
                 -1.0
+            ],
+            [
+                "condition",
+                "not 'Monster' in unit.tags"
+            ],
+            [
+                "hidden",
+                null
             ]
         ]
     }

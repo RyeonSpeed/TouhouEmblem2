@@ -2,7 +2,7 @@
     {
         "nid": "Bloodsucker",
         "name": "Bloodsucker",
-        "desc": "Increases user's Crit Rate by 50%. Heals 50% damage dealt.",
+        "desc": "Increases user's Crit Rate by 50%. Heals 50% damage dealt. Then gives Bleeding to the enemy.",
         "icon_nid": "skillicons3",
         "icon_index": [
             0,

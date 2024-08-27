@@ -17,7 +17,7 @@
     },
     {
         "nid": "HIT",
-        "expression": "SKL*2 + LCK//2"
+        "expression": "SKL*2 + LCK"
     },
     {
         "nid": "AVOID",

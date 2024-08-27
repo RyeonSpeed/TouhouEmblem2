@@ -27,40 +27,6 @@
         "tags": [],
         "units": [
             {
-                "nid": "Alice",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    10,
-                    8
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "101",
-                "variant": null,
-                "level": 8,
-                "klass": "Lancer",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Steel_Lance",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": null,
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
                 "nid": "Tewi",
                 "team": "player",
                 "ai": "None",
@@ -74,7 +40,57 @@
                 "generic": false
             },
             {
-                "nid": "Narumi",
+                "nid": "Marisa",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    11,
+                    8
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Koakuma",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    11,
+                    10
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "101",
+                "variant": null,
+                "level": 1,
+                "klass": "Berserker",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Devil_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    12,
+                    10
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Remilia",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -89,12 +105,12 @@
             {
                 "nid": "102",
                 "variant": null,
-                "level": 20,
-                "klass": "Vagrant_K",
+                "level": 1,
+                "klass": "Lord_B",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Maple_Shield",
+                        "Devil_Axe",
                         false
                     ]
                 ],
@@ -105,10 +121,23 @@
                 "ai_group": "",
                 "starting_position": [
                     14,
-                    8
+                    9
                 ],
                 "starting_traveler": null,
                 "generic": true
+            },
+            {
+                "nid": "Kagerou",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    13,
+                    8
+                ],
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [

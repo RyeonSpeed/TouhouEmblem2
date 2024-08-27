@@ -16,6 +16,10 @@
             [
                 "crit",
                 50
+            ],
+            [
+                "give_status_after_hit",
+                "Bleeding"
             ]
         ]
     }

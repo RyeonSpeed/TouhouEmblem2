@@ -16,7 +16,7 @@
             "LCK": 13,
             "DEF": 10,
             "RES": 8,
-            "CON": 7,
+            "CON": 8,
             "MOV": 6
         },
         "growths": {
@@ -38,7 +38,7 @@
                 false
             ],
             [
-                "Short_Spear",
+                "Naginata",
                 false
             ],
             [

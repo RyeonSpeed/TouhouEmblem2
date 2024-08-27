@@ -231,5 +231,7 @@
     "8_Chest3",
     "8_House1",
     "8_Escape",
-    "global_LethalLifeFlowCharge"
+    "global_LethalLifeFlowCharge",
+    "8_Turn1",
+    "global_Bloodlust"
 ]

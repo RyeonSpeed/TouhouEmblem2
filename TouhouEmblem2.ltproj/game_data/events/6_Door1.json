@@ -8,7 +8,8 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "show_layer;Door1"
+            "show_layer;Door1",
+            "has_finished;{unit}"
         ]
     }
 ]

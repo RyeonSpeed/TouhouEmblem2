@@ -1476,6 +1476,18 @@
         "info_offset": 0
     },
     {
+        "nid": "Mai",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
         "nid": "Louise",
         "blinking_offset": [
             32,

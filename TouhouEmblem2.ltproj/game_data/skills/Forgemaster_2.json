@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "Forgemaster_2",
+        "name": "Forgemaster",
+        "desc": "User and allies in a 2 tile radius have a Skl% chance to conserve a weapon use upon attacking.",
+        "icon_nid": "moreskillicons",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "aura",
+                "Forgemaster_1"
+            ],
+            [
+                "aura_range",
+                2
+            ],
+            [
+                "aura_target",
+                "ally"
+            ]
+        ]
+    }
+]

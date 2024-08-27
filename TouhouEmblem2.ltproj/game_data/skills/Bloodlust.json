@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Bloodlust",
+        "name": "Bloodlust",
+        "desc": "If this unit kills an enemy with Bleeding, they get another turn. ",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "event_after_combat",
+                "Global Bloodlust"
+            ]
+        ]
+    }
+]

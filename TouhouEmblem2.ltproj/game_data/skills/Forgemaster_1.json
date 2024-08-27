@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Forgemaster_1",
+        "name": "Forge Apprentice",
+        "desc": "User has a Skl% chance to conserve a weapon use upon attacking.",
+        "icon_nid": "moreskillicons",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "proc_rate",
+                "FORGEMASTER"
+            ],
+            [
+                "armsthrift",
+                1
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

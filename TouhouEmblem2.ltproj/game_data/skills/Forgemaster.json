@@ -2,7 +2,7 @@
     {
         "nid": "Forgemaster",
         "name": "Forgemaster",
-        "desc": "User has a Skl% chance to conserve a weapon use upon attacking.",
+        "desc": "User and allies in a 2 tile radius have a Skl% chance to conserve a weapon use upon attacking.",
         "icon_nid": "moreskillicons",
         "icon_index": [
             0,
@@ -10,16 +10,11 @@
         ],
         "components": [
             [
-                "proc_rate",
-                "FORGEMASTER"
-            ],
-            [
-                "armsthrift",
-                1
-            ],
-            [
-                "ability_indicator",
-                null
+                "multi_skill",
+                [
+                    "Forgemaster_1",
+                    "Forgemaster_2"
+                ]
             ]
         ]
     }

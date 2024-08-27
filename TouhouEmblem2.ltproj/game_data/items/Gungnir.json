@@ -27,7 +27,7 @@
             ],
             [
                 "hit",
-                80
+                90
             ],
             [
                 "crit",
@@ -35,7 +35,7 @@
             ],
             [
                 "weight",
-                10
+                7
             ],
             [
                 "level_exp",
@@ -65,6 +65,16 @@
                     "lose_uses_on_miss": false,
                     "one_loss_per_combat": false
                 }
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "multi_status_on_equip",
+                [
+                    "Bloodlust"
+                ]
             ]
         ]
     }

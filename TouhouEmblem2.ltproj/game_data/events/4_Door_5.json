@@ -28,7 +28,8 @@
             "change_ai;146;GreenEscape",
             "change_ai;147;GreenEscape",
             "add_group;BreakoutRein1;BreakoutRein1",
-            "move_cursor;153"
+            "move_cursor;153",
+            "has_finished;{unit}"
         ]
     }
 ]
