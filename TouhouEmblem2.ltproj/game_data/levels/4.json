@@ -1955,7 +1955,7 @@
                 "region_type": "event",
                 "position": [
                     11,
-                    8
+                    16
                 ],
                 "size": [
                     1,
@@ -1971,7 +1971,7 @@
                 "nid": "Door_7",
                 "region_type": "event",
                 "position": [
-                    11,
+                    19,
                     16
                 ],
                 "size": [
@@ -1988,8 +1988,8 @@
                 "nid": "Door_8",
                 "region_type": "event",
                 "position": [
-                    19,
-                    16
+                    11,
+                    8
                 ],
                 "size": [
                     1,
