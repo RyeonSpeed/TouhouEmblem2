@@ -8,6 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "music;Comrades",
             "add_portrait;Reimu;Right",
             "add_portrait;Mystia;Left",
             "speak;Mystia;Eek-",
@@ -17,7 +18,8 @@
             "multi_remove_portrait;Reimu;Mystia",
             "change_team;Mystia;player",
             "remove_talk;Reimu;Mystia",
-            "remove_talk;Marisa;Mystia"
+            "remove_talk;Marisa;Mystia",
+            "music_fade_back"
         ]
     }
 ]

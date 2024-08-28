@@ -138,7 +138,7 @@
             0
         ],
         "map_sprite_nid": "Nomad (F) {IS}-stand",
-        "combat_anim_nid": "Cavalier",
+        "combat_anim_nid": "BowCav",
         "fields": []
     }
 ]

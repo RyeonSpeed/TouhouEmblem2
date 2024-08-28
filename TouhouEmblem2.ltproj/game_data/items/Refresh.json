@@ -34,7 +34,7 @@
                 null
             ],
             [
-                "map_cast_sfx",
+                "map_hit_sfx",
                 "RefreshDanceMap"
             ]
         ]

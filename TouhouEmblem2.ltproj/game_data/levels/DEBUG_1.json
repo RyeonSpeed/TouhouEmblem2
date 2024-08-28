@@ -83,6 +83,10 @@
                     [
                         "Storm_Lance",
                         false
+                    ],
+                    [
+                        "Torch",
+                        false
                     ]
                 ],
                 "starting_skills": [],
