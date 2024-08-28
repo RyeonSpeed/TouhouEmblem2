@@ -53,10 +53,6 @@
                 11
             ],
             [
-                "magic",
-                null
-            ],
-            [
                 "lifelink",
                 1.0
             ],
@@ -75,6 +71,10 @@
             [
                 "fatigue",
                 1
+            ],
+            [
+                "magic",
+                null
             ]
         ]
     }

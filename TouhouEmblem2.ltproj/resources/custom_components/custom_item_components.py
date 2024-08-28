@@ -17,3 +17,14 @@ class DoNothing(ItemComponent):
 
     expose = ComponentType.Int
     value = 1
+
+class KindaMagic(ItemComponent):
+    nid = 'kinda_magic'
+    desc = 'Makes Item use magic damage formula but not magic anims'
+    tag = ItemTags.WEAPON
+
+    def damage_formula(self, unit, item):
+        return 'MAGIC_DAMAGE'
+
+    def resist_formula(self, unit, item):
+        return 'MAGIC_DEFENSE'

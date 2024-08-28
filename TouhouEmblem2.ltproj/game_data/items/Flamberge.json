@@ -65,10 +65,6 @@
                 1
             ],
             [
-                "magic",
-                null
-            ],
-            [
                 "effective_damage",
                 {
                     "effective_tags": [
@@ -86,8 +82,8 @@
                 1
             ],
             [
-                "battle_cast_anim",
-                "Fire"
+                "kinda_magic",
+                null
             ]
         ]
     }

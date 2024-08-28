@@ -2,7 +2,7 @@
     {
         "nid": "Sword",
         "name": "Sword",
-        "force_melee_anim": false,
+        "force_melee_anim": true,
         "rank_bonus": [],
         "advantage": [
             {
@@ -41,7 +41,7 @@
     {
         "nid": "Lance",
         "name": "Lance",
-        "force_melee_anim": false,
+        "force_melee_anim": true,
         "rank_bonus": [],
         "advantage": [
             {
@@ -80,7 +80,7 @@
     {
         "nid": "Axe",
         "name": "Axe",
-        "force_melee_anim": false,
+        "force_melee_anim": true,
         "rank_bonus": [],
         "advantage": [
             {

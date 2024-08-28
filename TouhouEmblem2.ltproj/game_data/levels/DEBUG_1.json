@@ -40,7 +40,7 @@
                 "generic": false
             },
             {
-                "nid": "Marisa",
+                "nid": "Mystia",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -53,14 +53,14 @@
                 "generic": false
             },
             {
-                "nid": "Koakuma",
+                "nid": "Remilia",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    11,
-                    10
+                    3,
+                    13
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -69,11 +69,19 @@
                 "nid": "101",
                 "variant": null,
                 "level": 1,
-                "klass": "Berserker",
+                "klass": "Skeleton",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Devil_Axe",
+                        "Bolt_Naginata",
+                        false
+                    ],
+                    [
+                        "Javelin",
+                        false
+                    ],
+                    [
+                        "Storm_Lance",
                         false
                     ]
                 ],
@@ -83,40 +91,31 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    12,
-                    10
+                    3,
+                    15
                 ],
                 "starting_traveler": null,
                 "generic": true
             },
             {
-                "nid": "Remilia",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    11,
-                    9
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
                 "nid": "102",
                 "variant": null,
                 "level": 1,
-                "klass": "Lord_B",
+                "klass": "Skeleton",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Devil_Axe",
+                        "Flame_Lance",
+                        false
+                    ],
+                    [
+                        "Lucky_Clover",
                         false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "None",
+                "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -127,17 +126,76 @@
                 "generic": true
             },
             {
-                "nid": "Kagerou",
+                "nid": "104",
+                "variant": null,
+                "level": 1,
+                "klass": "Vagrant_A",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Flame_Axe",
+                        false
+                    ],
+                    [
+                        "Bolt_Axe",
+                        false
+                    ],
+                    [
+                        "Hand_Axe",
+                        false
+                    ],
+                    [
+                        "Gale_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    13,
-                    8
+                    5,
+                    14
                 ],
                 "starting_traveler": null,
-                "generic": false
+                "generic": true
+            },
+            {
+                "nid": "105",
+                "variant": null,
+                "level": 1,
+                "klass": "Fencer",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Levin_Sword",
+                        false
+                    ],
+                    [
+                        "Wind_Sword",
+                        false
+                    ],
+                    [
+                        "Flamberge",
+                        false
+                    ],
+                    [
+                        "Shine_Knife",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    4,
+                    15
+                ],
+                "starting_traveler": null,
+                "generic": true
             }
         ],
         "regions": [
@@ -177,6 +235,11 @@
             }
         ],
         "unit_groups": [],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

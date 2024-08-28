@@ -257,6 +257,7 @@
     "VagrantAxe_GenericBlue",
     "VagrantAxe_GenericRed",
     "SwordCav_GenericBlue",
+    "Wriggle",
     "SwordCav_GenericRed",
     "Aunn",
     "Hero_GenericRed",
@@ -265,7 +266,7 @@
     "Kokoro",
     "Knight_GenericRed",
     "Centaur_GenericRed",
-    "Demon_Generic",
+    "Archdemon_Generic",
     "Skeleton_Generic",
     "Revenant_Generic",
     "VagrantSword_GenericRed",
@@ -286,5 +287,13 @@
     "Peg_GenericBlue",
     "Peg_GenericRed",
     "Tokiko",
-    "New Palette_4"
+    "Demon_Generic",
+    "Fencer_GenericBlue",
+    "Fencer_GenericRed",
+    "Mokou",
+    "ElfirePillar_Image",
+    "ElfireSpheres_Image",
+    "FirePillars_Image_1",
+    "FireShoot_Image",
+    "Mystia"
 ]

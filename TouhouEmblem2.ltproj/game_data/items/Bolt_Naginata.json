@@ -65,12 +65,16 @@
                 2
             ],
             [
-                "magic",
-                null
-            ],
-            [
                 "fatigue",
                 1
+            ],
+            [
+                "battle_cast_anim",
+                "Thunder"
+            ],
+            [
+                "kinda_magic",
+                null
             ]
         ]
     }
