@@ -100,7 +100,7 @@
             "transition;open",
             "add_portrait;Reimu;Right",
             "add_portrait;Marisa;Left;ExpressionList=Smile",
-            "speak;Marisa;Phew, nothing like a nice cup of tea\u2028to start off the day! You've really|\u2028outdone yourself this time, Reimu!",
+            "speak;Marisa;Phew, nothing like a nice cup of tea\u2028to start off the day! You've really|outdone yourself this time, Reimu!",
             "expression;Reimu;Smile",
             "speak;Reimu;Well, I had a feeling that it would be a good time to break out the special blend.",
             "speak;Marisa;What's even in this stuff, anyway?",
