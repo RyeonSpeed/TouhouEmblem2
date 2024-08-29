@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "Salvation",
+        "name": "Salvation",
+        "desc": "If this unit's HP <= 50%, all units within a 2 tile range gain Optimism.",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "condition",
+                "unit.get_hp() <= unit.get_stat('HP')/2"
+            ],
+            [
+                "aura_range",
+                2
+            ],
+            [
+                "aura",
+                "Optimism"
+            ],
+            [
+                "aura_target",
+                "unit"
+            ]
+        ]
+    }
+]

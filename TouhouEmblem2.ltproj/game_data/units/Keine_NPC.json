@@ -2,7 +2,7 @@
     {
         "nid": "Keine_NPC",
         "name": "Keine",
-        "desc": "",
+        "desc": "A were-hakutaku acting as the guardian of the Human Village. Very kind, but do not get on her bad side",
         "variant": null,
         "level": 13,
         "klass": "Cataphract",
