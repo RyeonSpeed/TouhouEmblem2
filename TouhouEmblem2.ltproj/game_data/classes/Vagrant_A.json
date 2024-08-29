@@ -2,14 +2,16 @@
     {
         "nid": "Vagrant_A",
         "name": "Vagrant",
-        "desc": "Masterless individuals who offer their services when they feel like it.\nTags: None",
+        "desc": "Masterless individuals who offer their services when they feel like it.\nTags: Ruffian",
         "tier": 1,
         "movement_group": "Light Foot",
         "promotes_from": null,
         "turns_into": [
             "Veteran_A"
         ],
-        "tags": [],
+        "tags": [
+            "Ruffian"
+        ],
         "max_level": 20,
         "bases": {
             "HP": 18,

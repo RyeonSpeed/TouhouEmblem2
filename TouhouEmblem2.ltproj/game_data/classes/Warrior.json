@@ -2,12 +2,15 @@
     {
         "nid": "Warrior",
         "name": "Warrior",
-        "desc": "Battlers who wield both mighty axes and precise bows for a double whammy of power.\nTags: None",
+        "desc": "Battlers who wield both mighty axes and precise bows for a double whammy of power.\nTags: Ruffian, Crossbow",
         "tier": 2,
         "movement_group": "Regular",
         "promotes_from": "Fighter",
         "turns_into": [],
-        "tags": [],
+        "tags": [
+            "Ruffian",
+            "Crossbow"
+        ],
         "max_level": 20,
         "bases": {
             "HP": 28,

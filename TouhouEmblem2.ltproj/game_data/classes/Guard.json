@@ -2,7 +2,7 @@
     {
         "nid": "Guard",
         "name": "Guard",
-        "desc": "Armored soldiers who act as frontliners in battle.\nTags: Armor",
+        "desc": "Armored soldiers who act as frontliners in battle.\nTags: Armor, Pikeman, Ruffian",
         "tier": 1,
         "movement_group": "Armors",
         "promotes_from": null,
@@ -10,7 +10,8 @@
             "Warden"
         ],
         "tags": [
-            "Armor"
+            "Armor",
+            "Pikeman"
         ],
         "max_level": 20,
         "bases": {

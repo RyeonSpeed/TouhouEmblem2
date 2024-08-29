@@ -2,7 +2,7 @@
     {
         "nid": "Fencer_R",
         "name": "Fencer",
-        "desc": "Wandering swordfighters who specialize in being swift and technical.\nTags: Sword",
+        "desc": "Wandering swordfighters who specialize in being swift and technical.\nTags: Swiftblade",
         "tier": 1,
         "movement_group": "Light Foot",
         "promotes_from": null,
@@ -10,7 +10,7 @@
             "Swordmaster"
         ],
         "tags": [
-            "Sword"
+            "Swiftblade"
         ],
         "max_level": 20,
         "bases": {

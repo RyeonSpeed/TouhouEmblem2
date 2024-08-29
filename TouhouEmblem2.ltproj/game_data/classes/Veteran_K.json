@@ -2,7 +2,7 @@
     {
         "nid": "Veteran_K",
         "name": "Veteran",
-        "desc": "Experienced adventurers who know the lay of the land.\nTags: Sword",
+        "desc": "Experienced adventurers who know the lay of the land.\nTags: Broadblade, Ruffian",
         "tier": 2,
         "movement_group": "Light Foot",
         "promotes_from": "Vagrant_A",
@@ -10,7 +10,8 @@
             "Dracolord"
         ],
         "tags": [
-            "Sword"
+            "Broadblade",
+            "Ruffian"
         ],
         "max_level": 20,
         "bases": {

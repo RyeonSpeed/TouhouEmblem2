@@ -1,12 +1,12 @@
 [
     {
-        "nid": "Flamberge",
-        "name": "Flamberge",
-        "desc": "Magic.",
+        "nid": "Wo_Dao",
+        "name": "Wo Dao",
+        "desc": "Swiftblade.",
         "icon_nid": "the2icons",
         "icon_index": [
             0,
-            6
+            0
         ],
         "components": [
             [
@@ -14,28 +14,36 @@
                 null
             ],
             [
+                "value",
+                1400
+            ],
+            [
                 "target_enemy",
                 null
             ],
             [
-                "level_exp",
-                null
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                1
             ],
             [
                 "damage",
-                5
+                8
             ],
             [
                 "hit",
-                70
+                80
             ],
             [
-                "weapon_type",
-                "Sword"
+                "crit",
+                40
             ],
             [
-                "weapon_rank",
-                "E"
+                "weight",
+                6
             ],
             [
                 "uses",
@@ -49,28 +57,20 @@
                 }
             ],
             [
-                "weight",
-                6
+                "level_exp",
+                null
             ],
             [
-                "value",
-                670
+                "weapon_type",
+                "Sword"
             ],
             [
-                "min_range",
-                1
-            ],
-            [
-                "max_range",
-                1
+                "weapon_rank",
+                "C"
             ],
             [
                 "fatigue",
                 1
-            ],
-            [
-                "kinda_magic",
-                null
             ]
         ]
     }

@@ -2,12 +2,14 @@
     {
         "nid": "Sniper",
         "name": "Sniper",
-        "desc": "Sharpshooters whose shots carry extra power in them.\nTags: None",
+        "desc": "Sharpshooters whose shots carry extra power in them.\nTags: Archery",
         "tier": 2,
         "movement_group": "Light Foot",
         "promotes_from": "Archer",
         "turns_into": [],
-        "tags": [],
+        "tags": [
+            "Archery"
+        ],
         "max_level": 20,
         "bases": {
             "HP": 21,

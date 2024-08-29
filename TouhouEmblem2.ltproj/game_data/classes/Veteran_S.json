@@ -2,13 +2,14 @@
     {
         "nid": "Veteran_S",
         "name": "Veteran",
-        "desc": "Experienced adventurers who know the lay of the land.\nTags: Sword",
+        "desc": "Experienced adventurers who know the lay of the land.\nTags: Broadblade, Ruffian",
         "tier": 2,
         "movement_group": "Light Foot",
         "promotes_from": "Vagrant_S",
         "turns_into": [],
         "tags": [
-            "Sword"
+            "Broadblade",
+            "Ruffian"
         ],
         "max_level": 20,
         "bases": {
@@ -117,6 +118,11 @@
                 false,
                 0,
                 251
+            ],
+            "Monster": [
+                false,
+                0,
+                null
             ]
         },
         "icon_nid": "Generic_Portrait_Vanguard",

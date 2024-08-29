@@ -2,14 +2,16 @@
     {
         "nid": "Brigand",
         "name": "Brigand",
-        "desc": "Loud, noisy troublemakers who wreak havoc in civilized places.\nTags: None",
+        "desc": "Loud, noisy troublemakers who wreak havoc in civilized places.\nTags: Ruffian",
         "tier": 1,
         "movement_group": "Bandits",
         "promotes_from": null,
         "turns_into": [
             "Berserker"
         ],
-        "tags": [],
+        "tags": [
+            "Ruffian"
+        ],
         "max_level": 20,
         "bases": {
             "HP": 22,
