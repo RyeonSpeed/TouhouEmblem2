@@ -2,14 +2,13 @@
     {
         "nid": "Super_Mech",
         "name": "Super Mech",
-        "desc": "The pinnacle of kappa engineering. The ultimate suit in terms of attack and defense.\nTags: Armor, Crossbow",
+        "desc": "The pinnacle of kappa engineering. The ultimate suit in terms of attack and defense.\nTags: Armor",
         "tier": 2,
         "movement_group": "Armors",
         "promotes_from": "Kappa_Mech",
         "turns_into": [],
         "tags": [
-            "Armor",
-            "Crossbow"
+            "Armor"
         ],
         "max_level": 20,
         "bases": {
@@ -118,11 +117,6 @@
                 false,
                 0,
                 251
-            ],
-            "Monster": [
-                false,
-                0,
-                null
             ]
         },
         "icon_nid": "Generic_Portrait_General",

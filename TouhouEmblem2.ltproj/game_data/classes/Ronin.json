@@ -2,15 +2,13 @@
     {
         "nid": "Ronin",
         "name": "Ronin",
-        "desc": "Wandering oni who have dedicated themselves to fighting like samurai of old.\nTags: Monster, Ruffian, Archery",
+        "desc": "Wandering oni who have dedicated themselves to fighting like samurai of old.\nTags: Monster",
         "tier": 1,
         "movement_group": "Light Foot",
         "promotes_from": null,
         "turns_into": [],
         "tags": [
-            "Monster",
-            "Ruffian",
-            "Archery"
+            "Monster"
         ],
         "max_level": 20,
         "bases": {

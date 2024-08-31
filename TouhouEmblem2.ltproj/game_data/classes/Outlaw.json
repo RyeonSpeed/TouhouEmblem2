@@ -2,16 +2,14 @@
     {
         "nid": "Outlaw",
         "name": "Outlaw",
-        "desc": "Those who operate under the word of the law and commit robbery as they go.\nTags: Crossbow",
+        "desc": "Those who operate under the word of the law and commit robbery as they go.\nTags: None",
         "tier": 1,
         "movement_group": "Light Foot",
         "promotes_from": null,
         "turns_into": [
             "Spy"
         ],
-        "tags": [
-            "Crossbow"
-        ],
+        "tags": [],
         "max_level": 20,
         "bases": {
             "HP": 16,

@@ -2,7 +2,7 @@
     {
         "nid": "Thunder",
         "name": "Thunder",
-        "desc": "",
+        "desc": "Dragonslayer.",
         "icon_nid": "the2icons",
         "icon_index": [
             8,
@@ -72,6 +72,13 @@
             [
                 "uses",
                 35
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
             ],
             [
                 "fatigue",

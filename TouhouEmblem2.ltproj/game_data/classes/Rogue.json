@@ -2,13 +2,13 @@
     {
         "nid": "Rogue",
         "name": "Rogue",
-        "desc": "Thieves who have proven their worth on the street and now aim for bigger loot.\nTags: Swiftblade",
+        "desc": "Thieves who have proven their worth on the street and now aim for bigger loot.\nTags: Sword",
         "tier": 2,
         "movement_group": "Light Foot",
         "promotes_from": "Thief",
         "turns_into": [],
         "tags": [
-            "Swiftblade"
+            "Sword"
         ],
         "max_level": 20,
         "bases": {

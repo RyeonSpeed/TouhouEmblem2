@@ -2,14 +2,13 @@
     {
         "nid": "Oni",
         "name": "Oni",
-        "desc": "Demons who possess mighty strength and the ability to wield some magic.\nTags: Magic, Ruffian",
+        "desc": "Demons who possess mighty strength and the ability to wield some magic.\nTags: Magic",
         "tier": 2,
         "movement_group": "Pirates",
         "promotes_from": null,
         "turns_into": [],
         "tags": [
-            "Magic",
-            "Ruffian"
+            "Magic"
         ],
         "max_level": 20,
         "bases": {
@@ -123,11 +122,6 @@
                 false,
                 0,
                 251
-            ],
-            "Monster": [
-                false,
-                0,
-                null
             ]
         },
         "icon_nid": "Berserker",

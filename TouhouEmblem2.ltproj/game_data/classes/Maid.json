@@ -2,13 +2,13 @@
     {
         "nid": "Maid",
         "name": "Maid",
-        "desc": "Servants who work for their wealthy masters loyally.\nTags: Swiftblade",
+        "desc": "Servants who work for their wealthy masters loyally.\nTags: Sword",
         "tier": 2,
         "movement_group": "Light Foot",
         "promotes_from": "Thief",
         "turns_into": [],
         "tags": [
-            "Swiftblade"
+            "Sword"
         ],
         "max_level": 20,
         "bases": {
@@ -117,11 +117,6 @@
                 false,
                 0,
                 251
-            ],
-            "Monster": [
-                false,
-                0,
-                null
             ]
         },
         "icon_nid": "Generic_Portrait_Assassin",

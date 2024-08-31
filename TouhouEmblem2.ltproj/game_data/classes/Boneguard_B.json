@@ -2,14 +2,13 @@
     {
         "nid": "Boneguard_B",
         "name": "Boneguard",
-        "desc": "Leaders of skeleton armies who display a greater aptitude for thinking than their minions.\nTags: Monster, Archery",
+        "desc": "Leaders of skeleton armies who display a greater aptitude for thinking than their minions.\nTags: Monster",
         "tier": 2,
         "movement_group": "Light Foot",
         "promotes_from": "Skeleton_B",
         "turns_into": [],
         "tags": [
-            "Monster",
-            "Archery"
+            "Monster"
         ],
         "max_level": 20,
         "bases": {

@@ -2,7 +2,7 @@
     {
         "nid": "Skeleton_B",
         "name": "Skeleton",
-        "desc": "Skeletons of past warriors who act as the backbone for any monstrous army.\nTags: Monster, Archery",
+        "desc": "Skeletons of past warriors who act as the backbone for any monstrous army.\nTags: Monster",
         "tier": 1,
         "movement_group": "Light Foot",
         "promotes_from": null,
@@ -10,8 +10,7 @@
             "Boneguard_B"
         ],
         "tags": [
-            "Monster",
-            "Archery"
+            "Monster"
         ],
         "max_level": 20,
         "bases": {

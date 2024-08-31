@@ -2,14 +2,12 @@
     {
         "nid": "Berserker",
         "name": "Berserker",
-        "desc": "Crazed warriors who are a terror to face on the battlefield.\nTags: Ruffian",
+        "desc": "Crazed warriors who are a terror to face on the battlefield.\nTags: None",
         "tier": 2,
         "movement_group": "Pirates",
         "promotes_from": "Brigand",
         "turns_into": [],
-        "tags": [
-            "Ruffian"
-        ],
+        "tags": [],
         "max_level": 20,
         "bases": {
             "HP": 24,
@@ -122,11 +120,6 @@
                 false,
                 0,
                 251
-            ],
-            "Monster": [
-                false,
-                0,
-                null
             ]
         },
         "icon_nid": "Berserker",

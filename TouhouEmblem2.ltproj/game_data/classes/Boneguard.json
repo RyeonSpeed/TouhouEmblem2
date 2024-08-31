@@ -2,14 +2,13 @@
     {
         "nid": "Boneguard",
         "name": "Boneguard",
-        "desc": "Leaders of skeleton armies who display a greater aptitude for thinking than their minions.\nTags: Monster, Pikeman",
+        "desc": "Leaders of skeleton armies who display a greater aptitude for thinking than their minions.\nTags: Monster",
         "tier": 2,
         "movement_group": "Light Foot",
         "promotes_from": "Skeleton",
         "turns_into": [],
         "tags": [
-            "Monster",
-            "Pikeman"
+            "Monster"
         ],
         "max_level": 20,
         "bases": {
