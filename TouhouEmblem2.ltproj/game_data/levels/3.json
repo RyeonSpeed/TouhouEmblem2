@@ -6,12 +6,12 @@
         "bg_tilemap": null,
         "party": "Reimu",
         "music": {
-            "player_phase": null,
-            "enemy_phase": null,
+            "player_phase": "Nostalgic Blood",
+            "enemy_phase": "Deaf to All but the Song",
             "other_phase": null,
             "enemy2_phase": null,
-            "player_battle": null,
-            "enemy_battle": null,
+            "player_battle": "Nostalgic Blood",
+            "enemy_battle": "Deaf to All but the Song",
             "other_battle": null,
             "enemy2_battle": null
         },

@@ -132,7 +132,7 @@
             0
         ],
         "map_sprite_nid": "Myrmidon (M) Shorthaired Sword {Sephie}-stand",
-        "combat_anim_nid": "Fencer",
+        "combat_anim_nid": "Myrmidon",
         "fields": []
     }
 ]
