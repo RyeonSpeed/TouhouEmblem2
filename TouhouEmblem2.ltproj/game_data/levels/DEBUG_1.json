@@ -71,12 +71,7 @@
                 "level": 1,
                 "klass": "Vagrant_S",
                 "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Wo_Dao",
-                        false
-                    ]
-                ],
+                "starting_items": [],
                 "starting_skills": [],
                 "team": "player",
                 "ai": "None",
@@ -207,6 +202,11 @@
             }
         ],
         "unit_groups": [],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

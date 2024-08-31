@@ -148,5 +148,15 @@
         "Victory",
         true,
         false
+    ],
+    [
+        "Spirit of Avarice",
+        true,
+        false
+    ],
+    [
+        "Pocket Watch",
+        false,
+        false
     ]
 ]
