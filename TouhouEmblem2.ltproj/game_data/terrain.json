@@ -598,5 +598,35 @@
         "mtype": "Hill",
         "opaque": false,
         "status": "Mountain"
+    },
+    {
+        "nid": "48",
+        "name": "Chest",
+        "color": [
+            255,
+            255,
+            0
+        ],
+        "minimap": "Chest",
+        "platform": "Chest",
+        "background": "combat_forest_night",
+        "mtype": "Normal",
+        "opaque": false,
+        "status": null
+    },
+    {
+        "nid": "49",
+        "name": "Fort",
+        "color": [
+            170,
+            0,
+            255
+        ],
+        "minimap": "Fort",
+        "platform": "Forest",
+        "background": "combat_ruins",
+        "mtype": "Fort",
+        "opaque": false,
+        "status": "Fort"
     }
 ]

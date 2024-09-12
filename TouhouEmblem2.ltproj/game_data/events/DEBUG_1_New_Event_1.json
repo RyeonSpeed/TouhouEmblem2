@@ -1,0 +1,18 @@
+[
+    {
+        "name": "New Event_1",
+        "trigger": "unit_death",
+        "level_nid": "DEBUG_1",
+        "condition": "unit.nid == \"Sekibanki_Boss\"",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "music;Dullahan Under the Willows",
+            "add_portrait;Wakasagihime;Left",
+            "speak;Wakasagihime;Sunk to the bottom...",
+            "expression;Wakasagihime;CloseEyes",
+            "remove_portrait;Wakasagihime"
+        ]
+    }
+]

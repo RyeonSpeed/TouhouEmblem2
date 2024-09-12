@@ -10,10 +10,11 @@
             "enemy_phase": null,
             "other_phase": null,
             "enemy2_phase": null,
-            "player_battle": "Attack",
+            "player_battle": "Shadow of the Enemy",
             "enemy_battle": null,
             "other_battle": null,
-            "enemy2_battle": null
+            "enemy2_battle": null,
+            "boss_battle": "Dullahan Under the Willows"
         },
         "objective": {
             "simple": "DEBUG",
@@ -163,6 +164,32 @@
                 ],
                 "starting_traveler": null,
                 "generic": true
+            },
+            {
+                "nid": "Sekibanki_Boss",
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    15,
+                    8
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Keine_NPC",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    11,
+                    9
+                ],
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [
