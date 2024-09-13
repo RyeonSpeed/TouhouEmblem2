@@ -6,12 +6,12 @@
         "bg_tilemap": null,
         "party": "Reimu",
         "music": {
-            "player_phase": null,
-            "enemy_phase": null,
+            "player_phase": "Quiet Burn",
+            "enemy_phase": "Pocket Watch",
             "other_phase": null,
             "enemy2_phase": null,
-            "player_battle": null,
-            "enemy_battle": null,
+            "player_battle": "Quiet Burn",
+            "enemy_battle": "Pocket Watch",
             "other_battle": null,
             "enemy2_battle": null,
             "boss_battle": "Dullahan Under the Willows"

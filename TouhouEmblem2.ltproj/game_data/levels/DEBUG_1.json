@@ -6,11 +6,11 @@
         "bg_tilemap": null,
         "party": "Reimu",
         "music": {
-            "player_phase": "Shadow of the Enemy",
+            "player_phase": "Quiet Burn",
             "enemy_phase": null,
             "other_phase": null,
             "enemy2_phase": null,
-            "player_battle": "Shadow of the Enemy",
+            "player_battle": "Quiet Burn",
             "enemy_battle": null,
             "other_battle": null,
             "enemy2_battle": null,
@@ -89,7 +89,7 @@
                 "nid": "102",
                 "variant": null,
                 "level": 1,
-                "klass": "Skeleton",
+                "klass": "Dark_Flier",
                 "faction": "Youkai",
                 "starting_items": [
                     [
