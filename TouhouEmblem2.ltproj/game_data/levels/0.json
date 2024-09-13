@@ -6,14 +6,15 @@
         "bg_tilemap": null,
         "party": "Reimu",
         "music": {
-            "player_phase": "Distant Roads",
+            "player_phase": "Spring Lane",
             "enemy_phase": "Wayward Springs",
             "other_phase": null,
             "enemy2_phase": null,
-            "player_battle": "Attack",
+            "player_battle": "Spring Lane",
             "enemy_battle": "Wayward Springs",
             "other_battle": null,
-            "enemy2_battle": null
+            "enemy2_battle": null,
+            "boss_battle": "Dullahan Under the Willows"
         },
         "objective": {
             "simple": "Defeat boss",

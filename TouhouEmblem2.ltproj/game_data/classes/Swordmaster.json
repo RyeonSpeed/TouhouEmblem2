@@ -2,13 +2,13 @@
     {
         "nid": "Swordmaster",
         "name": "Swordmaster",
-        "desc": "Master swordswomen who fight with precise and deadly swiftness.\nTags: Swiftblade",
+        "desc": "Master swordswomen who fight with precise and deadly swiftness.\nTags: Sword",
         "tier": 2,
         "movement_group": "Light Foot",
         "promotes_from": "Fencer",
         "turns_into": [],
         "tags": [
-            "Swiftblade"
+            "Sword"
         ],
         "max_level": 20,
         "bases": {

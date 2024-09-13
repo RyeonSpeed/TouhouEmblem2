@@ -2,7 +2,7 @@
     {
         "nid": "Fencer_Y",
         "name": "Fencer",
-        "desc": "Wandering swordfighters who specialize in being swift and technical.\nTags: Swiftblade",
+        "desc": "Wandering swordfighters who specialize in being swift and technical.\nTags: Sword",
         "tier": 1,
         "movement_group": "Light Foot",
         "promotes_from": null,
@@ -10,7 +10,7 @@
             "Tsukumogami_S"
         ],
         "tags": [
-            "Swiftblade"
+            "Sword"
         ],
         "max_level": 20,
         "bases": {

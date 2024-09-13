@@ -2,7 +2,7 @@
     {
         "nid": "Fencer_R",
         "name": "Fencer",
-        "desc": "Wandering swordfighters who specialize in being swift and technical.\nTags: Swiftblade",
+        "desc": "Wandering swordfighters who specialize in being swift and technical.\nTags: Sword",
         "tier": 1,
         "movement_group": "Light Foot",
         "promotes_from": null,
@@ -10,7 +10,7 @@
             "Swordmaster"
         ],
         "tags": [
-            "Swiftblade"
+            "Sword"
         ],
         "max_level": 20,
         "bases": {
@@ -132,7 +132,7 @@
             0
         ],
         "map_sprite_nid": "Myrmidon (M) Shorthaired Sword {Sephie}-stand",
-        "combat_anim_nid": "Fencer",
+        "combat_anim_nid": "Myrmidon",
         "fields": []
     }
 ]

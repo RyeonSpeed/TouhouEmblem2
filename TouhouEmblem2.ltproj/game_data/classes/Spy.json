@@ -2,14 +2,13 @@
     {
         "nid": "Spy",
         "name": "Spy",
-        "desc": "Experts in espionage who can pick locks and steal important items as needed.\nTags: Swiftblade, Crossbow",
+        "desc": "Experts in espionage who can pick locks and steal important items as needed.\nTags: Sword",
         "tier": 2,
         "movement_group": "Light Foot",
         "promotes_from": "Thief",
         "turns_into": [],
         "tags": [
-            "Swiftblade",
-            "Crossbow"
+            "Sword"
         ],
         "max_level": 20,
         "bases": {
@@ -123,11 +122,6 @@
                 false,
                 0,
                 251
-            ],
-            "Monster": [
-                false,
-                0,
-                null
             ]
         },
         "icon_nid": "Generic_Portrait_Assassin",

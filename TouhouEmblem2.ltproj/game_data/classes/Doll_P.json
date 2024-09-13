@@ -128,7 +128,7 @@
             0
         ],
         "map_sprite_nid": "Phantom (U) {IS, Pushwall}-stand",
-        "combat_anim_nid": null,
+        "combat_anim_nid": "Herald_1",
         "fields": []
     }
 ]

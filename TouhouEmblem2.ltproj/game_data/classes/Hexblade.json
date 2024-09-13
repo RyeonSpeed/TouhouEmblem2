@@ -2,15 +2,14 @@
     {
         "nid": "Hexblade",
         "name": "Shaman",
-        "desc": "Occultists who have a background in physical combat as well, creating a potent combo.\nTags: Sword, Magic, Swiftblade",
+        "desc": "Occultists who have a background in physical combat as well, creating a potent combo.\nTags: Sword, Magic",
         "tier": 1,
         "movement_group": "Mages",
         "promotes_from": "Shaman",
         "turns_into": [],
         "tags": [
-            "Lord",
-            "Magic",
-            "Swiftblade"
+            "Sword",
+            "Magic"
         ],
         "max_level": 20,
         "bases": {
@@ -119,11 +118,6 @@
                 false,
                 0,
                 251
-            ],
-            "Monster": [
-                false,
-                0,
-                null
             ]
         },
         "icon_nid": "Generic_Portrait_Shaman",

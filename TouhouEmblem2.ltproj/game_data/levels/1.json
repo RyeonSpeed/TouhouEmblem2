@@ -9,11 +9,12 @@
             "player_phase": "Mist Lake",
             "enemy_phase": "Wayward Springs",
             "other_phase": "Shadow of the Enemy",
-            "enemy2_phase": null,
+            "enemy2_phase": "Wayward Springs",
             "player_battle": "Mist Lake",
             "enemy_battle": "Wayward Springs",
             "other_battle": null,
-            "enemy2_battle": null
+            "enemy2_battle": "Wayward Springs",
+            "boss_battle": "Dullahan Under the Willows"
         },
         "objective": {
             "simple": "Talk to Keine",

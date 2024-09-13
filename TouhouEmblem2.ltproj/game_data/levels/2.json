@@ -13,7 +13,8 @@
             "player_battle": "Nostalgic Blood",
             "enemy_battle": "Deaf to All but the Song",
             "other_battle": null,
-            "enemy2_battle": null
+            "enemy2_battle": null,
+            "boss_battle": "Dullahan Under the Willows"
         },
         "objective": {
             "simple": "Defeat enemy,Left {eval:len(game.get_enemy_units())}",

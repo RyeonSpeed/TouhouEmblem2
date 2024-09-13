@@ -2,7 +2,7 @@
     {
         "nid": "Master_Knight",
         "name": "Master Knight",
-        "desc": "A powerful lord who has mastered various types of weapons.\nTags: Lord, Mounted, Magic, Beast, Archery",
+        "desc": "A powerful lord who has mastered various types of weapons.\nTags: Lord, Mounted, Sword, Magic, Beast",
         "tier": 1,
         "movement_group": "Light Foot",
         "promotes_from": null,
@@ -12,9 +12,9 @@
         "tags": [
             "Lord",
             "Mounted",
+            "Sword",
             "Magic",
-            "Beast",
-            "Archery"
+            "Beast"
         ],
         "max_level": 20,
         "bases": {

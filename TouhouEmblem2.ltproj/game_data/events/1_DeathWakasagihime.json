@@ -8,6 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "music;Dullahan Under the Willows",
             "add_portrait;Wakasagihime;Left",
             "speak;Wakasagihime;Sunk to the bottom...",
             "expression;Wakasagihime;CloseEyes",

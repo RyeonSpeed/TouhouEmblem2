@@ -2,14 +2,13 @@
     {
         "nid": "Veteran_A",
         "name": "Veteran",
-        "desc": "Experienced adventurers who know the lay of the land.\nTags: Broadblade, Ruffian",
+        "desc": "Experienced adventurers who know the lay of the land.\nTags: Sword",
         "tier": 2,
         "movement_group": "Light Foot",
         "promotes_from": "Vagrant_A",
         "turns_into": [],
         "tags": [
-            "Broadblade",
-            "Ruffian"
+            "Sword"
         ],
         "max_level": 20,
         "bases": {

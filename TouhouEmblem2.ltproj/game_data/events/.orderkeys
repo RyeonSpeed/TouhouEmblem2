@@ -233,5 +233,8 @@
     "8_Escape",
     "global_LethalLifeFlowCharge",
     "8_Turn1",
-    "global_Bloodlust"
+    "global_Bloodlust",
+    "DEBUG_1_New_Event",
+    "DEBUG_1_New_Event_1",
+    "DEBUG_1_New_Event_2"
 ]

@@ -5,7 +5,14 @@
         "tilemap": "Forest of Magic",
         "bg_tilemap": null,
         "party": "Reimu",
-        "music": {},
+        "music": {
+            "player_phase": "Fragrant Plants",
+            "player_battle": "Fragrant Plants",
+            "enemy_phase": "The Doll Maker of Bucuresti",
+            "enemy2_phase": "The Doll Maker of Bucuresti",
+            "enemy_battle": "The Doll Maker of Bucuresti",
+            "enemy2_battle": "The Doll Maker of Bucuresti"
+        },
         "objective": {
             "simple": "Defeat Louise",
             "win": "Defeat Louise",
