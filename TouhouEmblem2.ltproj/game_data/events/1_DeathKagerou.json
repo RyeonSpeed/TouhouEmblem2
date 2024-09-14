@@ -8,6 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "music;Dullahan Under the Willows",
             "add_portrait;Kagerou;Left",
             "speak;Kagerou;Ouch! Ew, you got dirt all over my fur!",
             "expression;Kagerou;CloseEyes",

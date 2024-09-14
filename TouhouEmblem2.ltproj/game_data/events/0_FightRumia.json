@@ -8,6 +8,7 @@
         "only_once": true,
         "priority": 20,
         "_source": [
+            "music;Dullahan Under the Willows",
             "add_portrait;Rumia_Boss;Left",
             "speak;Rumia_Boss;This is my day! Embrace the darkness!",
             "remove_portrait;Rumia_Boss",

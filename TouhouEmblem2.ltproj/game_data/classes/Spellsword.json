@@ -2,15 +2,14 @@
     {
         "nid": "Spellsword",
         "name": "Spellsword",
-        "desc": "Swordfighters who can use blade and sorcery side by side in battle.\nTags: Sword, Magic, Swiftblade",
+        "desc": "Swordfighters who can use blade and sorcery side by side in battle.\nTags: Sword, Magic",
         "tier": 2,
         "movement_group": "Mages",
         "promotes_from": "Mage_M",
         "turns_into": [],
         "tags": [
-            "Lord",
-            "Magic",
-            "Swiftblade"
+            "Sword",
+            "Magic"
         ],
         "max_level": 20,
         "bases": {

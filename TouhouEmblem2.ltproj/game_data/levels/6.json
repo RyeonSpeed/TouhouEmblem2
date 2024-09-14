@@ -5,7 +5,14 @@
         "tilemap": "Kaguya's Courtyard",
         "bg_tilemap": null,
         "party": "Reimu",
-        "music": {},
+        "music": {
+            "player_phase": "Quiet Burn",
+            "enemy_phase": "Pocket Watch",
+            "other_phase": "Pocket Watch",
+            "player_battle": "Quiet Burn",
+            "enemy_battle": "Pocket Watch",
+            "other_battle": "Pocket Watch"
+        },
         "objective": {
             "simple": "Survive <blue>{e:game.turncount}</>/10 turns",
             "win": "Survive",

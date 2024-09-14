@@ -2,16 +2,13 @@
     {
         "nid": "Warden",
         "name": "Warden",
-        "desc": "Guardians heavily clad in armor that are ready to hold the line against waves of enemies.\nTags: Armor, Pikeman, Broadblade, Ruffian",
+        "desc": "Guardians heavily clad in armor that are ready to hold the line against waves of enemies.\nTags: Armor",
         "tier": 2,
         "movement_group": "Armors",
         "promotes_from": "Guard",
         "turns_into": [],
         "tags": [
-            "Armor",
-            "Broadblade",
-            "Pikeman",
-            "Ruffian"
+            "Armor"
         ],
         "max_level": 20,
         "bases": {
@@ -120,11 +117,6 @@
                 false,
                 0,
                 251
-            ],
-            "Monster": [
-                false,
-                0,
-                null
             ]
         },
         "icon_nid": "Generic_Portrait_General",

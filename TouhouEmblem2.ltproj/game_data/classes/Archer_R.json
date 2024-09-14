@@ -2,17 +2,14 @@
     {
         "nid": "Archer_R",
         "name": "Archer",
-        "desc": "Fighters who wield a bow to attack from afar.\nTags: Archery, Crossbow",
+        "desc": "Fighters who wield a bow to attack from afar.\nTags: None",
         "tier": 1,
         "movement_group": "Light Foot",
         "promotes_from": null,
         "turns_into": [
             "Apothecary"
         ],
-        "tags": [
-            "Crossbow",
-            "Archery"
-        ],
+        "tags": [],
         "max_level": 20,
         "bases": {
             "HP": 20,

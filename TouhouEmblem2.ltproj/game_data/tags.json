@@ -13,13 +13,8 @@
     "Tile",
     "Flying",
     "Monster",
+    "Sword",
     "Magic",
     "Beast",
-    "Dark",
-    "Broadblade",
-    "Swiftblade",
-    "Pikeman",
-    "Ruffian",
-    "Crossbow",
-    "Archery"
+    "Dark"
 ]

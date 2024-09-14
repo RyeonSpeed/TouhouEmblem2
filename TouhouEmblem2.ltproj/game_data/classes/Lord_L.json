@@ -2,7 +2,7 @@
     {
         "nid": "Lord_L",
         "name": "Lord",
-        "desc": "A noble who holds a title of sorts.\nTags: Lord, Pikeman",
+        "desc": "A noble who holds a title of sorts.\nTags: Lord",
         "tier": 1,
         "movement_group": "Light Foot",
         "promotes_from": null,
@@ -10,8 +10,7 @@
             "Kannushi"
         ],
         "tags": [
-            "Lord",
-            "Pikeman"
+            "Lord"
         ],
         "max_level": 20,
         "bases": {

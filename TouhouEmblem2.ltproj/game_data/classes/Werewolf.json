@@ -131,7 +131,7 @@
             0
         ],
         "map_sprite_nid": "Wolf (U) Mauthe Doog T3 {EldritchAbomination}-stand",
-        "combat_anim_nid": null,
+        "combat_anim_nid": "Herald_1",
         "fields": []
     }
 ]

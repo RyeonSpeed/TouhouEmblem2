@@ -8,8 +8,9 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "music;Dullahan Under the Willows",
             "add_portrait;Rumia_Boss;Left",
-            "speak;Rumia_Boss;Not...again...",
+            "speak;Rumia_Boss;Not... again...",
             "expression;Rumia_Boss;CloseEyes",
             "remove_portrait;Rumia_Boss",
             "give_bexp;100;no_banner"

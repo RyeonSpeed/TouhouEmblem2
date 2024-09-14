@@ -2,13 +2,13 @@
     {
         "nid": "Apothecary",
         "name": "Apothecary",
-        "desc": "Healers who wield the bow in defense and the staff in support of their allies.\nTags: Archery",
+        "desc": "Healers who wield the bow in defense and the staff in support of their allies.\nTags: Magic",
         "tier": 2,
         "movement_group": "Light Foot",
         "promotes_from": "Archer_R",
         "turns_into": [],
         "tags": [
-            "Archery"
+            "Magic"
         ],
         "max_level": 20,
         "bases": {

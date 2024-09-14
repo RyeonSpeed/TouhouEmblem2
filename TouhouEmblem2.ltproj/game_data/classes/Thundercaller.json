@@ -131,7 +131,7 @@
             0
         ],
         "map_sprite_nid": "Blade Lord (F) Exalt Magic {FE7if}-stand",
-        "combat_anim_nid": null,
+        "combat_anim_nid": "Herald_1",
         "fields": []
     }
 ]
