@@ -6,15 +6,14 @@
         "bg_tilemap": null,
         "party": "Reimu",
         "music": {
-            "player_phase": "Quiet Burn",
+            "player_phase": "Shadow of the Enemy",
             "enemy_phase": null,
             "other_phase": null,
             "enemy2_phase": null,
-            "player_battle": "Quiet Burn",
+            "player_battle": "Attack",
             "enemy_battle": null,
             "other_battle": null,
-            "enemy2_battle": null,
-            "boss_battle": "Dullahan Under the Willows"
+            "enemy2_battle": null
         },
         "objective": {
             "simple": "DEBUG",
@@ -60,8 +59,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    12,
-                    12
+                    3,
+                    13
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -70,17 +69,34 @@
                 "nid": "101",
                 "variant": null,
                 "level": 1,
-                "klass": "Vagrant_S",
+                "klass": "Skeleton",
                 "faction": "Youkai",
-                "starting_items": [],
+                "starting_items": [
+                    [
+                        "Bolt_Naginata",
+                        false
+                    ],
+                    [
+                        "Javelin",
+                        false
+                    ],
+                    [
+                        "Storm_Lance",
+                        false
+                    ],
+                    [
+                        "Torch",
+                        false
+                    ]
+                ],
                 "starting_skills": [],
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    12,
-                    11
+                    3,
+                    15
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -89,7 +105,7 @@
                 "nid": "102",
                 "variant": null,
                 "level": 1,
-                "klass": "Dark_Flier",
+                "klass": "Skeleton",
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -117,11 +133,23 @@
                 "nid": "104",
                 "variant": null,
                 "level": 1,
-                "klass": "Brigand",
+                "klass": "Vagrant_A",
                 "faction": "Youkai",
                 "starting_items": [
                     [
                         "Flame_Axe",
+                        false
+                    ],
+                    [
+                        "Bolt_Axe",
+                        false
+                    ],
+                    [
+                        "Hand_Axe",
+                        false
+                    ],
+                    [
+                        "Gale_Axe",
                         false
                     ]
                 ],
@@ -131,8 +159,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    13,
-                    11
+                    5,
+                    14
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -141,15 +169,23 @@
                 "nid": "105",
                 "variant": null,
                 "level": 1,
-                "klass": "Warden",
+                "klass": "Fencer",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Javelin",
+                        "Levin_Sword",
                         false
                     ],
                     [
-                        "Spear",
+                        "Wind_Sword",
+                        false
+                    ],
+                    [
+                        "Flamberge",
+                        false
+                    ],
+                    [
+                        "Shine_Knife",
                         false
                     ]
                 ],
@@ -159,37 +195,11 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    11,
-                    11
+                    4,
+                    15
                 ],
                 "starting_traveler": null,
                 "generic": true
-            },
-            {
-                "nid": "Sekibanki_Boss",
-                "team": "enemy",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    15,
-                    8
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Keine_NPC",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    11,
-                    9
-                ],
-                "starting_traveler": null,
-                "generic": false
             }
         ],
         "regions": [

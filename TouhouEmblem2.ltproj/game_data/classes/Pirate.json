@@ -2,14 +2,16 @@
     {
         "nid": "Pirate",
         "name": "Pirate",
-        "desc": "Seafarers who know the waterways of Gensokyo by heart.\nTags: None",
+        "desc": "Seafarers who know the waterways of Gensokyo by heart.\nTags: Ruffian",
         "tier": 1,
         "movement_group": "Pirates",
         "promotes_from": null,
         "turns_into": [
             "War_Monk"
         ],
-        "tags": [],
+        "tags": [
+            "Ruffian"
+        ],
         "max_level": 20,
         "bases": {
             "HP": 22,

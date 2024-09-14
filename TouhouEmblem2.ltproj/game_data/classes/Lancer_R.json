@@ -2,14 +2,16 @@
     {
         "nid": "Lancer_R",
         "name": "Lancer",
-        "desc": "Fighters who possess a balanced style, fighting with spears.\nTags: None",
+        "desc": "Fighters who possess a balanced style, fighting with spears.\nTags: Pikeman",
         "tier": 1,
         "movement_group": "Light Foot",
         "promotes_from": null,
         "turns_into": [
             "Seraphknight"
         ],
-        "tags": [],
+        "tags": [
+            "Pikeman"
+        ],
         "max_level": 20,
         "bases": {
             "HP": 20,
@@ -130,7 +132,7 @@
             0
         ],
         "map_sprite_nid": "Lancer (F) Brown Hair {SALVAGED}-stand",
-        "combat_anim_nid": "Lancer",
+        "combat_anim_nid": "Soldier",
         "fields": []
     }
 ]

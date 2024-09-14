@@ -10,7 +10,7 @@
         "tags": [
             "Mounted",
             "Monster",
-            "Sword",
+            "Lord",
             "Magic",
             "Beast"
         ],
@@ -129,7 +129,7 @@
             0
         ],
         "map_sprite_nid": "Tarvos (F) Centaur Sword {DATonDemand}-stand",
-        "combat_anim_nid": "Herald_1",
+        "combat_anim_nid": null,
         "fields": []
     }
 ]

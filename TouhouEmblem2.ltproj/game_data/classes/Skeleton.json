@@ -2,7 +2,7 @@
     {
         "nid": "Skeleton",
         "name": "Skeleton",
-        "desc": "Skeletons of past warriors who act as the backbone for any monstrous army.\nTags: Monster",
+        "desc": "Skeletons of past warriors who act as the backbone for any monstrous army.\nTags: Monster, Pikeman",
         "tier": 1,
         "movement_group": "Light Foot",
         "promotes_from": null,
@@ -10,7 +10,8 @@
             "Boneguard"
         ],
         "tags": [
-            "Monster"
+            "Monster",
+            "Pikeman"
         ],
         "max_level": 20,
         "bases": {

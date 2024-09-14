@@ -2,7 +2,7 @@
     {
         "nid": "Kappa_Mech",
         "name": "Kappa Mech",
-        "desc": "Kappa in heavily armored mech suits that provide them suitable defense in all situations.\nTags: Armor",
+        "desc": "Kappa in heavily armored mech suits that provide them suitable defense in all situations.\nTags: Armor, Crossbow",
         "tier": 1,
         "movement_group": "Armors",
         "promotes_from": null,
@@ -10,7 +10,8 @@
             "Super_Mech"
         ],
         "tags": [
-            "Armor"
+            "Armor",
+            "Crossbow"
         ],
         "max_level": 20,
         "bases": {
@@ -132,7 +133,7 @@
             0
         ],
         "map_sprite_nid": "Knight (U) Bow {Agro}-stand",
-        "combat_anim_nid": "Herald_1",
+        "combat_anim_nid": null,
         "fields": []
     }
 ]

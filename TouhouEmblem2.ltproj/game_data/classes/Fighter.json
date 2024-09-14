@@ -2,7 +2,7 @@
     {
         "nid": "Fighter",
         "name": "Fighter",
-        "desc": "Brawlers who forgo defense for offensive power.\nTags: None",
+        "desc": "Brawlers who forgo defense for offensive power.\nTags: Ruffian",
         "tier": 1,
         "movement_group": "Regular",
         "promotes_from": null,
@@ -10,7 +10,9 @@
             "Veteran_A",
             "Warrior"
         ],
-        "tags": [],
+        "tags": [
+            "Ruffian"
+        ],
         "max_level": 20,
         "bases": {
             "HP": 22,

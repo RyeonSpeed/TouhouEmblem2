@@ -2,13 +2,14 @@
     {
         "nid": "Wight_King",
         "name": "Wight King",
-        "desc": "The king of skeletons who keeps the unending waves of skeletons coming.\nTags: Monster",
+        "desc": "The king of skeletons who keeps the unending waves of skeletons coming.\nTags: Monster, Swiftblade",
         "tier": 2,
         "movement_group": "Light Foot",
         "promotes_from": "Skeleton",
         "turns_into": [],
         "tags": [
-            "Monster"
+            "Monster",
+            "Swiftblade"
         ],
         "max_level": 20,
         "bases": {
@@ -135,7 +136,7 @@
             0
         ],
         "map_sprite_nid": "Bonewalker (U) King Sword {Seal, Cornontherob}-stand",
-        "combat_anim_nid": "Herald_1",
+        "combat_anim_nid": null,
         "fields": []
     }
 ]

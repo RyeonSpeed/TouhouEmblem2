@@ -2,13 +2,14 @@
     {
         "nid": "War_Monk",
         "name": "War Monk",
-        "desc": "Battle monks dedicated to both physical and magical discipline in battle.\nTags: Magic",
+        "desc": "Battle monks dedicated to both physical and magical discipline in battle.\nTags: Magic, Ruffian",
         "tier": 2,
         "movement_group": "Mages",
         "promotes_from": "Pirate",
         "turns_into": [],
         "tags": [
-            "Magic"
+            "Magic",
+            "Ruffian"
         ],
         "max_level": 20,
         "bases": {
@@ -122,6 +123,11 @@
                 false,
                 0,
                 251
+            ],
+            "Monster": [
+                false,
+                0,
+                null
             ]
         },
         "icon_nid": "Generic_Portrait_Bishop",

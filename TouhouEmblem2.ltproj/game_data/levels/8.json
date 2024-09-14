@@ -5,14 +5,7 @@
         "tilemap": "Frozen River",
         "bg_tilemap": null,
         "party": "Reimu",
-        "music": {
-            "player_phase": "Fragrant Plants",
-            "enemy_phase": "The Doll Maker of Bucuresti",
-            "enemy2_phase": "The Doll Maker of Bucuresti",
-            "player_battle": "Fragrant Plants",
-            "enemy_battle": "The Doll Maker of Bucuresti",
-            "enemy2_battle": "The Doll Maker of Bucuresti"
-        },
+        "music": {},
         "objective": {
             "simple": "",
             "win": "",

@@ -128,7 +128,7 @@
             0
         ],
         "map_sprite_nid": "Sage (F) Battle Sage Magic {Smug_Mug, Unknown}-stand",
-        "combat_anim_nid": "Herald_1",
+        "combat_anim_nid": null,
         "fields": []
     }
 ]

@@ -2,7 +2,7 @@
     {
         "nid": "Thief",
         "name": "Thief",
-        "desc": "Shifty knaves who sneak around the battlefield and steal treasure.\nTags: Sword",
+        "desc": "Shifty knaves who sneak around the battlefield and steal treasure.\nTags: Swiftblade",
         "tier": 1,
         "movement_group": "Light Foot",
         "promotes_from": null,
@@ -10,7 +10,7 @@
             "Rogue"
         ],
         "tags": [
-            "Sword"
+            "Swiftblade"
         ],
         "max_level": 20,
         "bases": {

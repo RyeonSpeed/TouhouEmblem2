@@ -2,7 +2,7 @@
     {
         "nid": "Lord_S",
         "name": "Lord",
-        "desc": "A noble who holds a title of sorts.\nTags: Lord",
+        "desc": "A noble who holds a title of sorts.\nTags: Lord, Broadblade",
         "tier": 1,
         "movement_group": "Light Foot",
         "promotes_from": null,
@@ -10,7 +10,8 @@
             "Kannushi"
         ],
         "tags": [
-            "Lord"
+            "Lord",
+            "Broadblade"
         ],
         "max_level": 20,
         "bases": {

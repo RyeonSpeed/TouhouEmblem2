@@ -8,7 +8,6 @@
         "only_once": true,
         "priority": 20,
         "_source": [
-            "music;Dullahan Under the Willows",
             "add_portrait;Seiran;Left",
             "speak;Seiran;Guh...I'd rather be selling dango, but the pay is quite good!",
             "remove_portrait;Seiran"

@@ -80,6 +80,11 @@
         false
     ],
     [
+        "Comrades",
+        false,
+        false
+    ],
+    [
         "Mist Lake",
         true,
         false
@@ -126,51 +131,6 @@
     ],
     [
         "Deaf to All but the Song",
-        true,
-        false
-    ],
-    [
-        "The Gensokyo the Gods Loved",
-        true,
-        false
-    ],
-    [
-        "Lonesome Werewolf",
-        true,
-        false
-    ],
-    [
-        "Comrades",
-        true,
-        false
-    ],
-    [
-        "Victory",
-        true,
-        false
-    ],
-    [
-        "Spirit of Avarice",
-        true,
-        false
-    ],
-    [
-        "Pocket Watch",
-        false,
-        false
-    ],
-    [
-        "Spring Lane",
-        true,
-        false
-    ],
-    [
-        "Dullahan Under the Willows",
-        true,
-        false
-    ],
-    [
-        "Sacred Strength",
         true,
         false
     ]

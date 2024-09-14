@@ -32,10 +32,6 @@
             [
                 "steal",
                 null
-            ],
-            [
-                "map_hit_sfx",
-                "Miss"
             ]
         ]
     }

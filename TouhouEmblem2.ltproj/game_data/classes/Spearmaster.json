@@ -2,12 +2,14 @@
     {
         "nid": "Spearmaster",
         "name": "Spearmaster",
-        "desc": "Masters of the lance that possess a balance of defense and offense.\nTags: None",
+        "desc": "Masters of the lance that possess a balance of defense and offense.\nTags: Pikeman",
         "tier": 2,
         "movement_group": "Light Foot",
         "promotes_from": "Lancer",
         "turns_into": [],
-        "tags": [],
+        "tags": [
+            "Pikeman"
+        ],
         "max_level": 20,
         "bases": {
             "HP": 20,
@@ -115,6 +117,11 @@
                 false,
                 0,
                 251
+            ],
+            "Monster": [
+                false,
+                0,
+                null
             ]
         },
         "icon_nid": "Generic_Portrait_Soldier",

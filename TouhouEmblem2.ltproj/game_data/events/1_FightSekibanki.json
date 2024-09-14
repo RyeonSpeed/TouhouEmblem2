@@ -8,7 +8,6 @@
         "only_once": true,
         "priority": 20,
         "_source": [
-            "music;Dullahan Under the Willows",
             "add_portrait;Sekibanki;Left",
             "speak;Sekibanki;Well, well. Don't get dizzy as my heads run circles!",
             "remove_portrait;Sekibanki"

@@ -1,12 +1,12 @@
 [
     {
-        "nid": "Flamberge",
-        "name": "Flamberge",
-        "desc": "Magic.",
+        "nid": "Odachi",
+        "name": "Odachi",
+        "desc": "Swiftblade.",
         "icon_nid": "the2icons",
         "icon_index": [
             0,
-            6
+            0
         ],
         "components": [
             [
@@ -14,32 +14,40 @@
                 null
             ],
             [
+                "value",
+                2700
+            ],
+            [
                 "target_enemy",
                 null
             ],
             [
-                "level_exp",
-                null
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                2
             ],
             [
                 "damage",
-                5
+                11
             ],
             [
                 "hit",
-                70
+                90
             ],
             [
-                "weapon_type",
-                "Sword"
+                "crit",
+                50
             ],
             [
-                "weapon_rank",
-                "E"
+                "weight",
+                8
             ],
             [
                 "uses",
-                20
+                15
             ],
             [
                 "uses_options",
@@ -49,28 +57,20 @@
                 }
             ],
             [
-                "weight",
-                6
+                "level_exp",
+                null
             ],
             [
-                "value",
-                670
+                "weapon_type",
+                "Sword"
             ],
             [
-                "min_range",
-                1
-            ],
-            [
-                "max_range",
-                1
+                "weapon_rank",
+                "A"
             ],
             [
                 "fatigue",
                 1
-            ],
-            [
-                "kinda_magic",
-                null
             ]
         ]
     }

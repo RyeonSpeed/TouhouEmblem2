@@ -130,7 +130,7 @@
             0
         ],
         "map_sprite_nid": "Dryad (F) {Stephano}-stand",
-        "combat_anim_nid": "Herald_1",
+        "combat_anim_nid": null,
         "fields": []
     }
 ]

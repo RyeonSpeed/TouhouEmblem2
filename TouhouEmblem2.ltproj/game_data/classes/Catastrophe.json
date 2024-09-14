@@ -2,7 +2,7 @@
     {
         "nid": "Catastrophe",
         "name": "Catastrophe",
-        "desc": "A celestial whose arrival on the ground signifies disaster.\nTags: Lord, Armor",
+        "desc": "A celestial whose arrival on the ground signifies disaster.\nTags: Lord, Armor, Broadblade",
         "tier": 1,
         "movement_group": "Light Foot",
         "promotes_from": null,
@@ -11,7 +11,8 @@
         ],
         "tags": [
             "Lord",
-            "Armor"
+            "Armor",
+            "Broadblade"
         ],
         "max_level": 20,
         "bases": {

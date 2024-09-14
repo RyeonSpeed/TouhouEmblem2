@@ -2,7 +2,7 @@
     {
         "nid": "Vagrant_S",
         "name": "Vagrant",
-        "desc": "Masterless individuals who offer their services when they feel like it.\nTags: Sword",
+        "desc": "Masterless individuals who offer their services when they feel like it.\nTags: Broadblade",
         "tier": 1,
         "movement_group": "Light Foot",
         "promotes_from": null,
@@ -10,7 +10,7 @@
             "Veteran_S"
         ],
         "tags": [
-            "Sword"
+            "Broadblade"
         ],
         "max_level": 20,
         "bases": {

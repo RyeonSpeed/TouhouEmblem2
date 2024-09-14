@@ -2,13 +2,13 @@
     {
         "nid": "Maid",
         "name": "Maid",
-        "desc": "Servants who work for their wealthy masters loyally.\nTags: Sword",
+        "desc": "Servants who work for their wealthy masters loyally.\nTags: Swiftblade",
         "tier": 2,
         "movement_group": "Light Foot",
         "promotes_from": "Thief",
         "turns_into": [],
         "tags": [
-            "Sword"
+            "Swiftblade"
         ],
         "max_level": 20,
         "bases": {
@@ -117,6 +117,11 @@
                 false,
                 0,
                 251
+            ],
+            "Monster": [
+                false,
+                0,
+                null
             ]
         },
         "icon_nid": "Generic_Portrait_Assassin",
@@ -125,7 +130,7 @@
             0
         ],
         "map_sprite_nid": "Maid (F) Staff {Batima, NamelessX,Hanakko}-stand",
-        "combat_anim_nid": "Herald_1",
+        "combat_anim_nid": null,
         "fields": []
     }
 ]

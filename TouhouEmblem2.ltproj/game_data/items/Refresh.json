@@ -36,10 +36,6 @@
             [
                 "map_hit_sfx",
                 "RefreshDanceMap"
-            ],
-            [
-                "battle_animation_music",
-                "Sacred Strength"
             ]
         ]
     }

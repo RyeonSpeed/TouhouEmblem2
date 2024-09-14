@@ -133,7 +133,7 @@
             0
         ],
         "map_sprite_nid": "Bael (U) {IS}-stand",
-        "combat_anim_nid": "Herald_1",
+        "combat_anim_nid": null,
         "fields": []
     }
 ]

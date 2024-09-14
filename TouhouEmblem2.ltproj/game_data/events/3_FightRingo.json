@@ -8,7 +8,6 @@
         "only_once": true,
         "priority": 20,
         "_source": [
-            "music;Dullahan Under the Willows",
             "add_portrait;Ringo;Left",
             "speak;Ringo;Finally, an interesting opponent. This job was getting kinda boring.",
             "remove_portrait;Ringo"

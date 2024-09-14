@@ -8,9 +8,8 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "music;Dullahan Under the Willows",
             "add_portrait;Ringo;Left",
-            "speak;Ringo;Aaaah... that's a bit too much for me to handle...",
+            "speak;Ringo;Aaaah...that's a bit too much for me to handle...",
             "remove_portrait;Ringo"
         ]
     }
