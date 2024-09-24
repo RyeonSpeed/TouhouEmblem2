@@ -11,6 +11,7 @@
             "change_team;Cirno;player",
             "remove_talk;Wriggle;Cirno",
             "remove_talk;Mystia;Cirno",
+            "remove_talk;Rumia;Cirno",
             "add_lore;Cirno"
         ]
     }

@@ -75,7 +75,7 @@
         "wexp_gain": {
             "Sword": [
                 false,
-                0,
+                31,
                 null
             ],
             "Staff": [

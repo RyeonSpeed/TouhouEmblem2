@@ -8,7 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "give_skill;{unit};Mask_Anger"
+            "give_skill;{unit};Mask_Anger;;no_banner"
         ]
     }
 ]
