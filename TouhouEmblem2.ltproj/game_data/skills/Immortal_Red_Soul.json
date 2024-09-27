@@ -2,7 +2,7 @@
     {
         "nid": "Immortal_Red_Soul",
         "name": "Immortal Red Soul",
-        "desc": "Locked to 1 Rng. 5 HP battle recoil. +1 Dmg/4 HP lost. Heal HP = Mag each turn. May revive once.",
+        "desc": "Locked to 1 Rng. Takes 1/8 of Max HP in recoil damage. +1 Dmg/4 HP lost. Heal HP = Mag each turn. May revive once.",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,
@@ -12,10 +12,6 @@
             [
                 "limit_maximum_range",
                 1
-            ],
-            [
-                "recoil",
-                5
             ],
             [
                 "event_on_upkeep",

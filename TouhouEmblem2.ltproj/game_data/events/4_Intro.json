@@ -12,7 +12,7 @@
             "trigger_script;Housekeeping3",
             "trigger_script;Housekeeping1",
             "game_var;hireable_guys;v('hireable_guys') + ['Kana','Haruka']",
-            "game_var;baseconvolist;v('baseconvolist') + ['Breakables']",
+            "game_var;baseconvolist;v('baseconvolist') + ['Breakables','Deathbox']",
             "level_var;GreenEscaped;0",
             "for;MARKET_ENTRY;['Slim_Sword', 'Slim_Lance', 'Slim_Axe', 'Slim_Bow', 'Flamberge', 'Flame_Lance', 'Flame_Axe', 'Gust']",
             "    add_market_item;{MARKET_ENTRY}",

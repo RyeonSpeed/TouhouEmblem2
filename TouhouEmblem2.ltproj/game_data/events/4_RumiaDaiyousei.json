@@ -11,6 +11,7 @@
             "change_team;Daiyousei;player",
             "remove_talk;Wriggle;Daiyousei",
             "remove_talk;Mystia;Daiyousei",
+            "remove_talk;Rumia;Daiyousei",
             "add_lore;Daiyousei"
         ]
     }

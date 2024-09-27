@@ -11,7 +11,7 @@
             "if;unit != unit2",
             "sound;FireHit",
             "map_anim;AOE_Fireball;{unit}",
-            "set_current_hp;{unit};{e:max(1, unit.get_hp() - int(unit.get_max_hp() / 5))}",
+            "set_current_hp;{unit};{e:max(1, unit.get_hp() - int(unit.get_max_hp() / 8))}",
             "else",
             "end"
         ]
