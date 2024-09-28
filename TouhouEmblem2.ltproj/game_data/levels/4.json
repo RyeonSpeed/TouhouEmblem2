@@ -1138,63 +1138,6 @@
                 "generic": true
             },
             {
-                "nid": "145",
-                "variant": null,
-                "level": 4,
-                "klass": "Shaman",
-                "faction": "Prisoner",
-                "starting_items": [],
-                "starting_skills": [],
-                "team": "other",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    1,
-                    16
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "146",
-                "variant": null,
-                "level": 4,
-                "klass": "Shaman",
-                "faction": "Prisoner",
-                "starting_items": [],
-                "starting_skills": [],
-                "team": "other",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    2,
-                    15
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "147",
-                "variant": null,
-                "level": 4,
-                "klass": "Shaman",
-                "faction": "Prisoner",
-                "starting_items": [],
-                "starting_skills": [],
-                "team": "other",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    3,
-                    16
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
                 "nid": "Cirno",
                 "team": "other",
                 "ai": "None",
@@ -1608,6 +1551,45 @@
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": true
+            },
+            {
+                "nid": "Prisoner",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    1,
+                    16
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Prisoner_1",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    2,
+                    15
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Prisoner_2",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    3,
+                    16
+                ],
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [
@@ -2092,9 +2074,6 @@
             {
                 "nid": "Greenies",
                 "units": [
-                    "145",
-                    "146",
-                    "147",
                     "Cirno",
                     "Daiyousei"
                 ],

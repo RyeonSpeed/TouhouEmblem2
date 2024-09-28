@@ -70,9 +70,14 @@
                 "nid": "101",
                 "variant": null,
                 "level": 1,
-                "klass": "Vagrant_S",
+                "klass": "Acolyte",
                 "faction": "Youkai",
-                "starting_items": [],
+                "starting_items": [
+                    [
+                        "Tarot",
+                        false
+                    ]
+                ],
                 "starting_skills": [],
                 "team": "player",
                 "ai": "None",
@@ -227,21 +232,8 @@
                 "generic": false
             },
             {
-                "nid": "Suika",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    16,
-                    12
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Luna",
-                "team": "player",
+                "nid": "Prisoner",
+                "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
@@ -251,6 +243,30 @@
                 ],
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "102",
+                "variant": null,
+                "level": 4,
+                "klass": "Shaman",
+                "faction": "Prisoner",
+                "starting_items": [
+                    [
+                        "Iron_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    13
+                ],
+                "starting_traveler": null,
+                "generic": true
             }
         ],
         "regions": [
