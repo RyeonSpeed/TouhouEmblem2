@@ -6,13 +6,13 @@
         "bg_tilemap": null,
         "party": "Reimu",
         "music": {
-            "player_phase": "Quiet Burn",
-            "enemy_phase": "Pocket Watch",
-            "other_phase": "Pocket Watch",
+            "player_phase": "Kagome Kagome",
+            "enemy_phase": "Invisible Full Moon",
+            "other_phase": "Invisible Full Moon",
             "enemy2_phase": null,
-            "player_battle": "Quiet Burn",
-            "enemy_battle": "Pocket Watch",
-            "other_battle": "Pocket Watch",
+            "player_battle": "Kagome Kagome",
+            "enemy_battle": "Invisible Full Moon",
+            "other_battle": "Invisible Full Moon",
             "enemy2_battle": null,
             "boss_battle": "Dullahan Under the Willows"
         },
@@ -1138,63 +1138,6 @@
                 "generic": true
             },
             {
-                "nid": "145",
-                "variant": null,
-                "level": 4,
-                "klass": "Shaman",
-                "faction": "Prisoner",
-                "starting_items": [],
-                "starting_skills": [],
-                "team": "other",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    1,
-                    16
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "146",
-                "variant": null,
-                "level": 4,
-                "klass": "Shaman",
-                "faction": "Prisoner",
-                "starting_items": [],
-                "starting_skills": [],
-                "team": "other",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    2,
-                    15
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "147",
-                "variant": null,
-                "level": 4,
-                "klass": "Shaman",
-                "faction": "Prisoner",
-                "starting_items": [],
-                "starting_skills": [],
-                "team": "other",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    3,
-                    16
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
                 "nid": "Cirno",
                 "team": "other",
                 "ai": "None",
@@ -1608,6 +1551,45 @@
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": true
+            },
+            {
+                "nid": "Prisoner",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    1,
+                    16
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Prisoner_1",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    2,
+                    15
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Prisoner_2",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    3,
+                    16
+                ],
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [
@@ -2092,9 +2074,6 @@
             {
                 "nid": "Greenies",
                 "units": [
-                    "145",
-                    "146",
-                    "147",
                     "Cirno",
                     "Daiyousei"
                 ],

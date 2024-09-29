@@ -288,30 +288,6 @@
         "info_offset": 0
     },
     {
-        "nid": "Ringo",
-        "blinking_offset": [
-            32,
-            32
-        ],
-        "smiling_offset": [
-            32,
-            48
-        ],
-        "info_offset": 0
-    },
-    {
-        "nid": "Seiran",
-        "blinking_offset": [
-            32,
-            40
-        ],
-        "smiling_offset": [
-            32,
-            56
-        ],
-        "info_offset": 0
-    },
-    {
         "nid": "Kasen",
         "blinking_offset": [
             24,
@@ -1500,30 +1476,6 @@
         "info_offset": 0
     },
     {
-        "nid": "Ringo_1",
-        "blinking_offset": [
-            24,
-            32
-        ],
-        "smiling_offset": [
-            24,
-            48
-        ],
-        "info_offset": 0
-    },
-    {
-        "nid": "Seiran_1",
-        "blinking_offset": [
-            32,
-            32
-        ],
-        "smiling_offset": [
-            32,
-            48
-        ],
-        "info_offset": 0
-    },
-    {
         "nid": "Tokiko",
         "blinking_offset": [
             24,
@@ -1532,6 +1484,42 @@
         "smiling_offset": [
             24,
             48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "ringo",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "seiran",
+        "blinking_offset": [
+            32,
+            32
+        ],
+        "smiling_offset": [
+            32,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "zun_cultist",
+        "blinking_offset": [
+            24,
+            24
+        ],
+        "smiling_offset": [
+            24,
+            40
         ],
         "info_offset": 0
     }

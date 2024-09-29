@@ -11,6 +11,7 @@ from app.engine.objects.unit import UnitObject
 from app.utilities import utils, static_random
 from app.engine.combat import playback as pb
 from app.utilities.enums import Strike
+from app.events import event_commands, regions, triggers
 
 import logging
 
@@ -281,9 +282,13 @@ class DeathRecoil(SkillComponent):
     value = 0
     author = 'Lord_Tweed'
 
-    def cleanup_combat(self, playback, unit, item, target, item2, mode):
+    def end_combat(self, playback, unit, item, target, item2, mode):
         if target and skill_system.check_enemy(unit, target):
-           end_health = unit.get_hp() - self.value
-           action.do(action.SetHP(unit, max(0, end_health)))
-           action.do(action.TriggerCharge(unit, self.skill))
-        
+            action.do(action.TriggerCharge(unit, self.skill))
+            end_health = unit.get_hp() - self.value
+            action.do(action.SetHP(unit, max(0, end_health)))
+            if end_health <= 0:
+                game.death.should_die(unit)
+                game.state.change('dying')
+                game.events.trigger(triggers.UnitDeath(unit, None, unit.position))
+                skill_system.on_death(unit)

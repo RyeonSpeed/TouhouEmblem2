@@ -6,11 +6,11 @@
         "bg_tilemap": null,
         "party": "Reimu",
         "music": {
-            "player_phase": "Quiet Burn",
-            "enemy_phase": "Pocket Watch",
+            "player_phase": "Kagome Kagome",
+            "enemy_phase": "Invisible Full Moon",
             "other_phase": "Pocket Watch",
-            "player_battle": "Quiet Burn",
-            "enemy_battle": "Pocket Watch",
+            "player_battle": "Kagome Kagome",
+            "enemy_battle": "Invisible Full Moon",
             "other_battle": "Pocket Watch"
         },
         "objective": {
