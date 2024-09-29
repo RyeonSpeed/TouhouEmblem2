@@ -4,7 +4,7 @@
         "name": "Kana",
         "desc": "A yamawaro mercenary who has been lost in the Bamboo Forest for a week.",
         "variant": null,
-        "level": 1,
+        "level": 4,
         "klass": "Kappa_Mech",
         "tags": [],
         "bases": {

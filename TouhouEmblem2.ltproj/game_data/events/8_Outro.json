@@ -14,7 +14,7 @@
             "elif;game.turncount > 20",
             "speak;;Lmao skill issue;;;hint",
             "end",
-            "set_next_chapter;8"
+            "set_next_chapter;9"
         ]
     }
 ]
