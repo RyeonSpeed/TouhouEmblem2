@@ -70,11 +70,11 @@
                 "nid": "101",
                 "variant": null,
                 "level": 1,
-                "klass": "Acolyte",
+                "klass": "Shaman",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Tarot",
+                        "Luna",
                         false
                     ]
                 ],

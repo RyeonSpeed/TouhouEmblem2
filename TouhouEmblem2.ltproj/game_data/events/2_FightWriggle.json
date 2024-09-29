@@ -8,7 +8,6 @@
         "only_once": true,
         "priority": 20,
         "_source": [
-            "music;Dullahan Under the Willows",
             "add_portrait;Wriggle;Left",
             "speak;Wriggle;You know... this doesn't seem like a good idea now.",
             "remove_portrait;Wriggle"

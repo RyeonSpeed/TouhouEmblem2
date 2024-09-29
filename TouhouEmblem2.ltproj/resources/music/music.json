@@ -173,5 +173,20 @@
         "Sacred Strength",
         true,
         false
+    ],
+    [
+        "Night Sparrow",
+        false,
+        false
+    ],
+    [
+        "Kagome Kagome",
+        true,
+        false
+    ],
+    [
+        "Invisible Full Moon",
+        false,
+        false
     ]
 ]

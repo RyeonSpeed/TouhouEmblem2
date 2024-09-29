@@ -1,7 +1,7 @@
 [
     {
         "name": "TewiDeath",
-        "trigger": "unit_death",
+        "trigger": "combat_death",
         "level_nid": "4",
         "condition": "unit.nid == \"Tewi_Boss\"",
         "commands": [],

@@ -1,14 +1,13 @@
 [
     {
         "name": "DeathRumia",
-        "trigger": "unit_death",
+        "trigger": "combat_death",
         "level_nid": "0",
         "condition": "unit.nid == \"Rumia_Boss\"",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
-            "music;Dullahan Under the Willows",
             "add_portrait;Rumia_Boss;Left",
             "speak;Rumia_Boss;Not... again...",
             "expression;Rumia_Boss;CloseEyes",

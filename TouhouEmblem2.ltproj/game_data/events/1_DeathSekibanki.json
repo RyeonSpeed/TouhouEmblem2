@@ -1,14 +1,13 @@
 [
     {
         "name": "DeathSekibanki",
-        "trigger": "unit_death",
+        "trigger": "combat_death",
         "level_nid": "1",
         "condition": "unit.nid == \"Sekibanki_Boss\"",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
-            "music;Dullahan Under the Willows",
             "add_portrait;Sekibanki;Left",
             "speak;Sekibanki;Urgh...you're all too insane...",
             "expression;Sekibanki;CloseEyes",

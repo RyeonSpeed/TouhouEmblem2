@@ -6,12 +6,12 @@
         "bg_tilemap": null,
         "party": "Reimu",
         "music": {
-            "player_phase": "Quiet Burn",
-            "enemy_phase": "Pocket Watch",
+            "player_phase": "Kagome Kagome",
+            "enemy_phase": "Invisible Full Moon",
             "other_phase": null,
             "enemy2_phase": null,
-            "player_battle": "Quiet Burn",
-            "enemy_battle": "Pocket Watch",
+            "player_battle": "Kagome Kagome",
+            "enemy_battle": "Invisible Full Moon",
             "other_battle": null,
             "enemy2_battle": null,
             "boss_battle": "Dullahan Under the Willows"

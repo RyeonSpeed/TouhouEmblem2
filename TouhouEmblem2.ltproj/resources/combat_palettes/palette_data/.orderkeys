@@ -101,6 +101,7 @@
     "Thief0_GenericRed",
     "Thief5_GenericBlue",
     "Thief5_GenericRed",
+    "Tewi",
     "Thief5_Renae",
     "Vanguard0_Coyote",
     "Vanguard0_GenericBlue",
@@ -247,7 +248,7 @@
     "map_sprite_dark_red",
     "map_sprite_dark_green",
     "map_sprite_dark_wait",
-    "New Palette_1",
+    "Reimu",
     "New Palette_2",
     "New Palette_3",
     "Lancer_GenericBlue",
@@ -309,5 +310,9 @@
     "Outlaw_GenericRed",
     "Sunny",
     "Herald_GenericBlue",
-    "Star"
+    "Star",
+    "FluxSpiralReverse_Image_1",
+    "LunaRune_Image",
+    "LunaSheet_Image",
+    "LunaSpheres_Image"
 ]

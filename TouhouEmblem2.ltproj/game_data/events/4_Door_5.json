@@ -13,7 +13,7 @@
             "add_portrait;{unit};Left",
             "speak;{unit};Alright! You're all free now!",
             "add_portrait;zun_cultist;Right;",
-            "speak;zun_cultist;{tgm}...",
+            "speak;zun_cultist;...;no_talk",
             "remove_portrait;zun_cultist",
             "speak;{unit};What a weirdo.",
             "add_portrait;Cirno;CenterRight",

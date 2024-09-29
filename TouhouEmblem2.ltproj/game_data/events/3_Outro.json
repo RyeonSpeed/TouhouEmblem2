@@ -11,7 +11,7 @@
             "transition;close",
             "change_background;Forest (Night)",
             "music;Victory",
-"multi_add_portrait;Reimu;FarLeft;Marisa;CenterLeft;Ringo;CenterRight;Seiran;FarRight",
+            "multi_add_portrait;Reimu;FarLeft;Marisa;CenterLeft;Ringo;CenterRight;Seiran;FarRight",
             "transition;open",
             "",
             "speak;Ringo;Ow, jeez! Easy on the ears, okay?;;;;0.5",

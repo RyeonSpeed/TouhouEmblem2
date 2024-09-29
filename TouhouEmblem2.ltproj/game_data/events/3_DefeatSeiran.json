@@ -1,14 +1,13 @@
 [
     {
         "name": "DefeatSeiran",
-        "trigger": "unit_death",
+        "trigger": "combat_death",
         "level_nid": "3",
         "condition": "unit.nid == \"Seiran_Boss\"",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
-            "music;Dullahan Under the Willows",
             "add_portrait;Seiran;Left",
             "speak;Seiran;I'm handing in my resignation after this...",
             "remove_portrait;Seiran"
