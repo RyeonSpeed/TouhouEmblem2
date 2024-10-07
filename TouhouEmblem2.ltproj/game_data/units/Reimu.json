@@ -57,6 +57,10 @@
                 false
             ],
             [
+                "Heal",
+                false
+            ],
+            [
                 "Life_Gem",
                 false
             ]
@@ -99,7 +103,7 @@
             ],
             "Staff": [
                 false,
-                0,
+                1,
                 251
             ],
             "Light": [

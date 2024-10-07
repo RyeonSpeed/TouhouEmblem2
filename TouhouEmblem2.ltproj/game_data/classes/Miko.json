@@ -97,8 +97,8 @@
                 251
             ],
             "Staff": [
-                false,
-                0,
+                true,
+                1,
                 71
             ],
             "Light": [

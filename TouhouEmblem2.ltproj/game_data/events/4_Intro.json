@@ -26,10 +26,14 @@
             "add_talk;Mystia;Daiyousei",
             "add_talk;Rumia;Cirno",
             "add_talk;Rumia;Daiyousei",
-            "enable_fog_of_war;t",
-            "set_fog_of_war;gba;7;7;7",
             "prep;1;Sealed Gods",
-            "speak;;This map's clear bonus is 375 Bonus EXP, with a decrease of 15 BExp per turn you take over 20 turns!;;;hint"
+            "level_var;Darkness;0",
+            "speak;;This map's clear bonus is 375 Bonus EXP, with a decrease of 15 BExp per turn you take over 20 turns!;;;hint",
+            "add_portrait;Reimu;CenterRight",
+            "add_portrait;Kasen;CenterLeft",
+            "speak;Reimu;Man...this place was such a pain last time...it felt like the corners would fade in and out and disorient me all the time...",
+            "speak;Kasen;We'll have to be careful, then. We won't always be able to get a great view of our situation once Eientei's illusion magic starts taking effect.",
+            "multi_remove_portrait;Kasen;Reimu"
         ]
     }
 ]

@@ -14,7 +14,7 @@
             "SKL": 4,
             "SPD": 4,
             "LCK": 4,
-            "DEF": 5,
+            "DEF": 6,
             "RES": 2,
             "CON": 13,
             "MOV": 5
@@ -61,6 +61,10 @@
             [
                 1,
                 "Shattering_Moon"
+            ],
+            [
+                1,
+                "Density"
             ]
         ],
         "unit_notes": [],

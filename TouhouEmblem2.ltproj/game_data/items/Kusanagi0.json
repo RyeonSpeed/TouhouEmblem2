@@ -66,6 +66,10 @@
             [
                 "locked",
                 null
+            ],
+            [
+                "status_on_equip",
+                "Kusanagi_Gold"
             ]
         ]
     }
