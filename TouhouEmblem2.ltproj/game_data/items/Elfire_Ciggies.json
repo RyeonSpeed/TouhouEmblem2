@@ -95,6 +95,10 @@
             [
                 "status_on_equip",
                 "Recoil_Elfire"
+            ],
+            [
+                "battle_cast_anim",
+                "Elfire"
             ]
         ]
     }

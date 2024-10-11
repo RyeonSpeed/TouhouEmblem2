@@ -9,6 +9,7 @@
         "priority": 20,
         "_source": [
             "add_portrait;Marisa;FarRight",
+            "music;In Sorrows Shroud",
             "speak;Marisa;Yer the worst tactician ever!",
             "expression;Marisa;CloseEyes",
             "remove_portrait;Marisa",

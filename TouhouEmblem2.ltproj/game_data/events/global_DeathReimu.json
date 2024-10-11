@@ -9,7 +9,8 @@
         "priority": 20,
         "_source": [
             "add_portrait;Reimu;FarRight",
-            "speak;Reimu;Man...you suck at this game...",
+            "music;In Sorrows Shroud",
+            "speak;Reimu;Man... you suck at this game...",
             "expression;Reimu;CloseEyes",
             "remove_portrait;Reimu",
             "remove_unit;Reimu",

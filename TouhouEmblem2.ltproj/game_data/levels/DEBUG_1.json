@@ -28,27 +28,14 @@
         "tags": [],
         "units": [
             {
-                "nid": "Tewi",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    10,
-                    9
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
                 "nid": "Mystia",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    11,
-                    8
+                    18,
+                    11
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -67,30 +54,6 @@
                 "generic": false
             },
             {
-                "nid": "101",
-                "variant": null,
-                "level": 1,
-                "klass": "Shaman",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Luna",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    12,
-                    11
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
                 "nid": "104",
                 "variant": null,
                 "level": 1,
@@ -99,6 +62,14 @@
                 "starting_items": [
                     [
                         "Flame_Axe",
+                        false
+                    ],
+                    [
+                        "Ciggie_Box",
+                        false
+                    ],
+                    [
+                        "Torch_Tome",
                         false
                     ]
                 ],
@@ -157,13 +128,13 @@
             },
             {
                 "nid": "Keine_NPC",
-                "team": "player",
+                "team": "enemy",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    11,
-                    9
+                    16,
+                    8
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -172,11 +143,11 @@
                 "nid": "103",
                 "variant": null,
                 "level": 15,
-                "klass": "Guard",
+                "klass": "Druid",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Iron_Sword",
+                        "Yomi",
                         false
                     ]
                 ],
@@ -206,19 +177,6 @@
                 "generic": false
             },
             {
-                "nid": "Kokoro",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    18,
-                    10
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
                 "nid": "Wriggle",
                 "team": "player",
                 "ai": "None",
@@ -232,37 +190,50 @@
                 "generic": false
             },
             {
-                "nid": "Prisoner",
-                "team": "other",
+                "nid": "Star",
+                "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
                     14,
-                    12
+                    11
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
-                "nid": "102",
-                "variant": null,
-                "level": 4,
-                "klass": "Shaman",
-                "faction": "Prisoner",
-                "starting_items": [
-                    [
-                        "Iron_Sword",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "other",
+                "nid": "Marisa",
+                "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    14,
+                    13,
+                    9
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "101",
+                "variant": null,
+                "level": 1,
+                "klass": "Druid",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Yomi",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    16,
                     13
                 ],
                 "starting_traveler": null,
