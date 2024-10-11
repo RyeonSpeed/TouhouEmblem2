@@ -157,6 +157,9 @@
     "global_Divine_Fortune",
     "4_Wall1",
     "4_Turn5",
+    "4_Turn5_1",
+    "4_Turn8",
+    "4_Turn4",
     "4_Turn13",
     "3_FightSeiran",
     "3_FightRingo",
@@ -242,5 +245,9 @@
     "DEBUG_1_New_Event_1",
     "DEBUG_1_New_Event_2",
     "9_Intro",
-    "9_Outro"
+    "9_Outro",
+    "global_RinnosukeHit",
+    "global_RinnosukeDamage",
+    "5_Turn6",
+    "5_Turn8"
 ]

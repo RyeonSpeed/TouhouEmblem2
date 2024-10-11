@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Turn5_1",
+        "trigger": "turn_change",
+        "level_nid": "4",
+        "condition": "game.turncount % 6 == 5 and game.turncount >= 5",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "if;v('Darkness') == 0",
+            "set_fog_of_war;gba;7;7;7",
+            "else",
+            "end"
+        ]
+    }
+]

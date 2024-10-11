@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Turn6",
+        "trigger": "turn_change",
+        "level_nid": "5",
+        "condition": "game.turncount % 6 == 6 and game.turncount >= 6",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "if;v('Darkness') == 0",
+            "add_portrait;Kasen;CenterRight",
+            "speak;Kasen;I have a bad feeling that we're going to be stumbling in the dark soon...",
+            "remove_portrait;Kasen",
+            "else",
+            "end"
+        ]
+    }
+]

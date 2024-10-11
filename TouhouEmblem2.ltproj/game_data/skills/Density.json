@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Density",
+        "name": "Density",
+        "desc": "Reduces damage by (Con * 2)%.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            0,
+            5
+        ],
+        "components": [
+            [
+                "resist_multiplier",
+                "(100-(unit.get_stat('CON') * 2))/100"
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

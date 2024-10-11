@@ -75,6 +75,10 @@
                         2
                     ]
                 ]
+            ],
+            [
+                "status_on_equip",
+                "Kusanagi_Gold"
             ]
         ]
     }

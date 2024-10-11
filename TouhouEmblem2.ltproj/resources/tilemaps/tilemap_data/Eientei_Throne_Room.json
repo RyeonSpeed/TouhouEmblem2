@@ -7084,7 +7084,10 @@
                 "nid": "DoorA",
                 "visible": false,
                 "foreground": false,
-                "terrain_grid": {},
+                "terrain_grid": {
+                    "18,3": "6",
+                    "18,4": "6"
+                },
                 "sprite_grid": {
                     "17,3": [
                         "Flasuban Castle V2",
@@ -7162,7 +7165,10 @@
                 "nid": "DoorB",
                 "visible": false,
                 "foreground": false,
-                "terrain_grid": {},
+                "terrain_grid": {
+                    "6,3": "6",
+                    "6,4": "6"
+                },
                 "sprite_grid": {
                     "6,4": [
                         "Flasuban Castle V2",
