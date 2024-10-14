@@ -90,6 +90,21 @@
         "status": null
     },
     {
+        "nid": "5_1",
+        "name": "Stairs",
+        "color": [
+            84,
+            24,
+            84
+        ],
+        "minimap": "Floor",
+        "platform": "Floor2",
+        "background": "combat_castle5",
+        "mtype": "Normal",
+        "opaque": false,
+        "status": null
+    },
+    {
         "nid": "6",
         "name": "Floor",
         "color": [
@@ -105,6 +120,21 @@
         "status": null
     },
     {
+        "nid": "6_2",
+        "name": "Floor",
+        "color": [
+            140,
+            136,
+            113
+        ],
+        "minimap": "Floor",
+        "platform": "Floor2",
+        "background": "combat_castle5",
+        "mtype": "Normal",
+        "opaque": false,
+        "status": null
+    },
+    {
         "nid": "6_1",
         "name": "Warp",
         "color": [
@@ -115,6 +145,21 @@
         "minimap": "Floor",
         "platform": "Floor",
         "background": "combat_castle2",
+        "mtype": "Normal",
+        "opaque": false,
+        "status": null
+    },
+    {
+        "nid": "6_3",
+        "name": "Warp",
+        "color": [
+            84,
+            84,
+            84
+        ],
+        "minimap": "Floor",
+        "platform": "Floor2",
+        "background": "combat_castle5",
         "mtype": "Normal",
         "opaque": false,
         "status": null
@@ -330,6 +375,21 @@
         "status": "Throne"
     },
     {
+        "nid": "32_1",
+        "name": "Gate",
+        "color": [
+            32,
+            96,
+            216
+        ],
+        "minimap": "House",
+        "platform": "House",
+        "background": "combat_outside_castle",
+        "mtype": "Normal",
+        "opaque": false,
+        "status": "Avoid10"
+    },
+    {
         "nid": "33",
         "name": "Armory",
         "color": [
@@ -428,7 +488,7 @@
             77
         ],
         "minimap": "Throne",
-        "platform": "Throne",
+        "platform": "Carpet",
         "background": "combat_castle3",
         "mtype": "Throne",
         "opaque": false,
@@ -628,5 +688,20 @@
         "mtype": "Fort",
         "opaque": false,
         "status": "Fort"
+    },
+    {
+        "nid": "50",
+        "name": "Carpet",
+        "color": [
+            255,
+            0,
+            0
+        ],
+        "minimap": "Lava",
+        "platform": "Carpet",
+        "background": "combat_castle4",
+        "mtype": "Normal",
+        "opaque": false,
+        "status": null
     }
 ]
