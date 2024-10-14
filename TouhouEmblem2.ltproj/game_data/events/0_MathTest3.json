@@ -1,0 +1,23 @@
+[
+    {
+        "name": "MathTest3",
+        "trigger": null,
+        "level_nid": "0",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Patchouli;Left",
+            "speak;Patchouli;You can do multiplication, at least in theory. ",
+            "speak;Patchouli;I can't say the same about your prospects with multiplication in other fields.",
+            "speak;Patchouli;Final question. What is 5(3 + 4) x 7?",
+            "choice;Q6;5(3 + 4) x 7?;87.,245.,265.",
+            "if;'{v:Q6}' == '245.'",
+            "else",
+            "speak;Patchouli;Bruh",
+            "main_menu",
+            "end"
+        ]
+    }
+]

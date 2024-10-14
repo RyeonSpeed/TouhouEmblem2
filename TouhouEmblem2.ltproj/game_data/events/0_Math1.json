@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Math1",
+        "trigger": null,
+        "level_nid": "0",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Patchouli;Left",
+            "speak;Patchouli;Excellent. Your cognitive skills are at least of a 9-year old human child. ",
+            "speak;Patchouli;On a side note, it may help to read the guide provided for you.",
+            "speak;Patchouli;Question two. What does it mean when someone tells you to \"Do the math\"?",
+            "choice;Q2;What does it mean to \"Do the math\"?;Perform calculations.,Ignore the asker.,Sniff your own ass.",
+            "if;'{v:Q2}' == 'Perform calculations.'",
+            "else",
+            "speak;Patchouli;Bruh",
+            "main_menu",
+            "end"
+        ]
+    }
+]

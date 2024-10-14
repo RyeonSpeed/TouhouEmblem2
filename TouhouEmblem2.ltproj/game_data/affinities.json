@@ -13,7 +13,7 @@
     {
         "nid": "Fire",
         "name": "Fire",
-        "desc": "Grants increased might, accuracy, avoid, and crit rate.",
+        "desc": "Those who approach this world with spirit and passion.",
         "bonus": [
             {
                 "support_rank": "C",
@@ -58,7 +58,7 @@
     {
         "nid": "Thunder",
         "name": "Thunder",
-        "desc": "Grants increased defense, avoid, crit rate, and crit avoid.",
+        "desc": "Those who approach this world with brute force.",
         "bonus": [
             {
                 "support_rank": "C",
@@ -103,7 +103,7 @@
     {
         "nid": "Wind",
         "name": "Wind",
-        "desc": "Grants increased might, accuracy, crit rate, and crit avoid.",
+        "desc": "Those who approach this world with flexibility.",
         "bonus": [
             {
                 "support_rank": "C",
@@ -148,7 +148,7 @@
     {
         "nid": "Ice",
         "name": "Ice",
-        "desc": "Grants increased defense, accuracy, avoid, and crit avoid.",
+        "desc": "Those who approach this world with unflinching drive.",
         "bonus": [
             {
                 "support_rank": "C",
@@ -193,7 +193,7 @@
     {
         "nid": "Dark",
         "name": "Dark",
-        "desc": "Grants increased accuracy, avoid, crit rate, and crit avoid.",
+        "desc": "Those who approach this world with foolhardy courage.",
         "bonus": [
             {
                 "support_rank": "C",
@@ -238,7 +238,7 @@
     {
         "nid": "Light",
         "name": "Light",
-        "desc": "Grants increased attack, defense, accuracy, and crit rate.",
+        "desc": "Those who approach this world with serene grace.",
         "bonus": [
             {
                 "support_rank": "C",
@@ -283,7 +283,7 @@
     {
         "nid": "Anima",
         "name": "Anima",
-        "desc": "Grants increased attack, defense, avoid, and crit avoid.",
+        "desc": "Those who approach this world with interest.",
         "bonus": [
             {
                 "support_rank": "C",

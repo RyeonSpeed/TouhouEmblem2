@@ -1,0 +1,25 @@
+[
+    {
+        "name": "MathTest1",
+        "trigger": null,
+        "level_nid": "0",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Patchouli;Left",
+            "speak;Patchouli;Excellent, you at least understand that you must read.",
+            "speak;Patchouli;I sincerely hope you remember that.",
+            "speak;Patchouli;I believe that is enough for you to pass the reading portion of the test. ",
+            "speak;Patchouli;Let us now progress to the mathematics portion.",
+            "speak;Patchouli;Question four. What is 2 + 5?",
+            "choice;Q4;2 + 5?;7.,3.,Cassava.",
+            "if;'{v:Q4}' == '7.'",
+            "else",
+            "speak;Patchouli;Bruh",
+            "main_menu",
+            "end"
+        ]
+    }
+]

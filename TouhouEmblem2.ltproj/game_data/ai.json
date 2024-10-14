@@ -432,8 +432,8 @@
                 "condition": ""
             },
             {
-                "action": "Move_to",
-                "target": "Ally",
+                "action": "None",
+                "target": "None",
                 "target_spec": null,
                 "view_range": -4,
                 "invert_targeting": false,

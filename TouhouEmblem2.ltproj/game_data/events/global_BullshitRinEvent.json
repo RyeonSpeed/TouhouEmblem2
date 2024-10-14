@@ -68,7 +68,21 @@
             "if;'Monster' in unit_funcs.usable_wtypes(u('Rin'))",
             "give_item;Rin;Razor_Claw;no_banner",
             "else",
-            "end"
+            "end",
+            "if;{v:Fire} == 1",
+            "change_affinity;Rin;Fire",
+            "if;{v:Thunder} == 1",
+            "change_affinity;Rin;Thunder",
+            "if;{v:Wind} == 1",
+            "change_affinity;Rin;Wind",
+            "if;{v:Ice} == 1",
+            "change_affinity;Rin;Ice",
+            "if;{v:Anima} == 1",
+            "change_affinity;Rin;Anima",
+            "if;{v:Light} == 1",
+            "change_affinity;Rin;Light",
+            "if;{v:Dark} == 1",
+            "change_affinity;Rin;Dark"
         ]
     }
 ]

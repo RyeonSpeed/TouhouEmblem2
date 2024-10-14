@@ -249,5 +249,12 @@
     "global_RinnosukeHit",
     "global_RinnosukeDamage",
     "5_Turn6",
-    "5_Turn8"
+    "5_Turn8",
+    "0_Are_you_ready",
+    "0_Guide",
+    "0_Math1",
+    "0_Reading",
+    "0_MathTest1",
+    "0_MathTest2",
+    "0_MathTest3"
 ]
