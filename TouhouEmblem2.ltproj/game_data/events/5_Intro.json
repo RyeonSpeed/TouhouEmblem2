@@ -25,6 +25,7 @@
             "base;Backwoods (Night);{e:};Mercenary Camp;True;Global Mercenary_Camp;Music=Sealed Gods",
             "prep;1;Sealed Gods",
             "speak;;This map's clear bonus is 375 Bonus EXP, with a decrease of 15 BExp per turn you take over 20 turns!;;;hint\u2028"
-        ]
+        ],
+        "nid": "5 Intro"
     }
 ]

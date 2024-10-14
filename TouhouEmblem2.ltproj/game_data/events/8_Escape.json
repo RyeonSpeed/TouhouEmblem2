@@ -13,6 +13,7 @@
             "if;not any(unit.team == 'player' for unit in game.units if unit.position)",
             "    win_game",
             "end"
-        ]
+        ],
+        "nid": "8 Escape"
     }
 ]

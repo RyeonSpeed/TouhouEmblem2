@@ -12,6 +12,7 @@
             "speak;Aunn;I'm sorry, Ms. Reimu...",
             "expression;Aunn;CloseEyes",
             "remove_portrait;Aunn"
-        ]
+        ],
+        "nid": "Global DeathAunn"
     }
 ]

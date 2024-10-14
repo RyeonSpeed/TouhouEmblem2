@@ -30,6 +30,7 @@
             "prep;1;Sealed Gods",
             "speak;;This map's clear bonus is 1000 Bonus EXP, but you won't get a single point if you go over 20 turns!;;;hint",
             "speak;;Oh, and just to let you know, Alice isn't a patient person! She'll leave in 15 turns if you're just too slow!;;;hint"
-        ]
+        ],
+        "nid": "8 Intro"
     }
 ]

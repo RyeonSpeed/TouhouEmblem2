@@ -11,6 +11,7 @@
             "flicker_cursor;2,2",
             "show_layer;Destroyed2",
             "wait;500"
-        ]
+        ],
+        "nid": "7 Destroy2"
     }
 ]

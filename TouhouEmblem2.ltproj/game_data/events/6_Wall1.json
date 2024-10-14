@@ -9,6 +9,7 @@
         "priority": 20,
         "_source": [
             "show_layer;Wall1"
-        ]
+        ],
+        "nid": "6 Wall1"
     }
 ]

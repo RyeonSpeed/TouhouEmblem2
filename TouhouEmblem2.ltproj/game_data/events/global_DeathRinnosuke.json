@@ -12,6 +12,7 @@
             "speak;Rinnosuke;You know, I'll just leave the fighting to the experts...",
             "expression;Rinnosuke;CloseEyes",
             "remove_portrait;Rinnosuke"
-        ]
+        ],
+        "nid": "Global DeathRinnosuke"
     }
 ]

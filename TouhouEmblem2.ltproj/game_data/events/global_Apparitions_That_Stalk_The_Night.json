@@ -14,6 +14,7 @@
             "enable_fog_of_war;t",
             "give_skill;{unit};Night_Hunter;no_banner",
             "level_var;Darkness;1"
-        ]
+        ],
+        "nid": "Global Apparitions That Stalk The Night"
     }
 ]

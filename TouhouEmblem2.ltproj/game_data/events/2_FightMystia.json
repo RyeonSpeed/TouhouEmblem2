@@ -11,6 +11,7 @@
             "add_portrait;Mystia;Left",
             "speak;Mystia;Ack! Away! Away!",
             "remove_portrait;Mystia"
-        ]
+        ],
+        "nid": "2 FightMystia"
     }
 ]

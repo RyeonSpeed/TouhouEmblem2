@@ -30,6 +30,7 @@
             "add_group;BreakoutRein1;BreakoutRein1",
             "move_cursor;153",
             "has_finished;{unit}"
-        ]
+        ],
+        "nid": "4 Door_5"
     }
 ]

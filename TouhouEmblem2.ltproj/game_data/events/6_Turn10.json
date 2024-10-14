@@ -14,6 +14,7 @@
             "change_objective_win;Defeat enemy,Left {eval:len(game.get_enemy_units())}",
             "change_objective_simple;Rout Enemy",
             "speak;;This map's clear bonus is 500 Bonus EXP, with a decrease of 100 BExp per turn you take over 15 turns!;;;hint"
-        ]
+        ],
+        "nid": "6 Turn10"
     }
 ]

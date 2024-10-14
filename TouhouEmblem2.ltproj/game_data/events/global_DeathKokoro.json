@@ -12,6 +12,7 @@
             "speak;Kokoro;Ah! My masks! My masks are dropping all over the place!",
             "expression;Kokoro;CloseEyes",
             "remove_portrait;Kokoro"
-        ]
+        ],
+        "nid": "Global DeathKokoro"
     }
 ]

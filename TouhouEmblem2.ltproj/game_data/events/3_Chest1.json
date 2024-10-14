@@ -12,6 +12,7 @@
             "show_layer;Chest1",
             "give_item;{unit};Javelin",
             "has_finished;{unit}"
-        ]
+        ],
+        "nid": "3 Chest1"
     }
 ]

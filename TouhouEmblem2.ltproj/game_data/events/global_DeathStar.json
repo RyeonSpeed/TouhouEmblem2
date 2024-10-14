@@ -12,6 +12,7 @@
             "speak;Star;Time to make a break for it! I needed to do other things anyway!",
             "expression;Star;CloseEyes",
             "remove_portrait;Star"
-        ]
+        ],
+        "nid": "Global DeathStar"
     }
 ]

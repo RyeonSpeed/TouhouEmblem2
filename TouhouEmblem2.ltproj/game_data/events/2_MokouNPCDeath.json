@@ -12,6 +12,7 @@
             "speak;Mokou;Damn it, dying is not on my to-do list tonight. ",
             "speak;Mokou;Ugh, I'm going to feel this one in the morning, aren't I?",
             "remove_portrait;Mokou"
-        ]
+        ],
+        "nid": "2 MokouNPCDeath"
     }
 ]

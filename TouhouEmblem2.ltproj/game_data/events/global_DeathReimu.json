@@ -15,6 +15,7 @@
             "remove_portrait;Reimu",
             "remove_unit;Reimu",
             "lose_game"
-        ]
+        ],
+        "nid": "Global DeathReimu"
     }
 ]

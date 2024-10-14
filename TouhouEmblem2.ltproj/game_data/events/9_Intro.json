@@ -26,6 +26,7 @@
             "    endf",
             "base;Serenes Forest;{e:};Mercenary Camp;True;Global Mercenary_Camp;Music=Sealed Gods",
             "prep;1;Sealed Gods"
-        ]
+        ],
+        "nid": "9 Intro"
     }
 ]

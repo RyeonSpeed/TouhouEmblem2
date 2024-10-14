@@ -9,6 +9,7 @@
         "priority": 20,
         "_source": [
             "inc_game_var;TimeToken;1"
-        ]
+        ],
+        "nid": "Global LunaDial"
     }
 ]

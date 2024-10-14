@@ -36,6 +36,7 @@
             "remove_base_convo;Advice",
             "game_var;baseconvolist;[x for x in v('baseconvolist') if not x == 'Advice']",
             "transition;open"
-        ]
+        ],
+        "nid": "Global BaseKasen'sAdvice"
     }
 ]

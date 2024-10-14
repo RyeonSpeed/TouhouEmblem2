@@ -12,6 +12,7 @@
             "speak;Suika;Aw man...the party ended...so soon...",
             "expression;Suika;CloseEyes",
             "remove_portrait;Suika"
-        ]
+        ],
+        "nid": "Global DeathSuika"
     }
 ]

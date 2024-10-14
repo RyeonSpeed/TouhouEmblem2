@@ -28,6 +28,7 @@
             "remove_base_convo;Deathbox",
             "game_var;baseconvolist;[x for x in v('baseconvolist') if not x == 'Deathbox']",
             "transition;open"
-        ]
+        ],
+        "nid": "Global BaseDeathbox"
     }
 ]

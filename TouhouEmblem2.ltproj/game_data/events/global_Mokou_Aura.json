@@ -12,6 +12,7 @@
             "set_current_hp;{unit};{e:max(1, int(unit.get_max_hp() / 2))}",
             "sound;FireBall",
             "end"
-        ]
+        ],
+        "nid": "Global Mokou_Aura"
     }
 ]

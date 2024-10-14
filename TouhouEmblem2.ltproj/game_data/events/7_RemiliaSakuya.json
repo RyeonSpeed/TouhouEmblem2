@@ -20,6 +20,7 @@
             "speak;Sakuya;Oh well...",
             "multi_remove_portrait;Sakuya;Remilia",
             "change_team;Sakuya;player"
-        ]
+        ],
+        "nid": "7 RemiliaSakuya"
     }
 ]

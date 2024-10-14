@@ -12,6 +12,7 @@
             "speak;Rumia;Owie...! Run! Run!",
             "expression;Rumia;CloseEyes",
             "remove_portrait;Rumia"
-        ]
+        ],
+        "nid": "Global DeathRumiaEnemy"
     }
 ]

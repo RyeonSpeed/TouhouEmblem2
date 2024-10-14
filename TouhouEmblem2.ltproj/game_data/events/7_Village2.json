@@ -18,6 +18,7 @@
             "give_bexp;30;no_banner",
             "show_layer;Village2",
             "has_traded;{unit}"
-        ]
+        ],
+        "nid": "7 Village2"
     }
 ]

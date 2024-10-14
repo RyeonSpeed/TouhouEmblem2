@@ -26,6 +26,7 @@
             "remove_base_convo;Elites",
             "game_var;baseconvolist;[x for x in v('baseconvolist') if not x == 'Elites']",
             "transition;open"
-        ]
+        ],
+        "nid": "6 Elites"
     }
 ]

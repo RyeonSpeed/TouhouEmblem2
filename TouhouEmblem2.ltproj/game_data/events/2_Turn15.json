@@ -12,6 +12,7 @@
             "add_portrait;Wriggle;Left",
             "speak;Wriggle;What's taking them so long?! I'm gonna go myself!",
             "remove_portrait;Wriggle"
-        ]
+        ],
+        "nid": "2 Turn15"
     }
 ]

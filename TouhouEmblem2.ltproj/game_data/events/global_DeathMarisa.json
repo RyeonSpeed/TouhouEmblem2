@@ -14,6 +14,7 @@
             "expression;Marisa;CloseEyes",
             "remove_portrait;Marisa",
             "lose_game"
-        ]
+        ],
+        "nid": "Global DeathMarisa"
     }
 ]

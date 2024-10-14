@@ -11,6 +11,7 @@
             "unlock;{unit}",
             "show_layer;Door4",
             "has_finished;{unit}"
-        ]
+        ],
+        "nid": "4 Door_4"
     }
 ]

@@ -12,6 +12,7 @@
             "speak;Letty;It's getting way too heated! Not the place for me!",
             "expression;Letty;CloseEyes",
             "remove_portrait;Letty"
-        ]
+        ],
+        "nid": "Global DeathLetty"
     }
 ]

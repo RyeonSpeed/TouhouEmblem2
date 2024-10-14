@@ -11,6 +11,7 @@
             "game_var;RinClass;game.get_random_choice(['Bigle','Demon','Lycanthrope','Revenant','Centaur','Ronin','Skeleton','Skeleton_B','Grave_Rider','Thief','Miko','Witch','Lord_L','Lord_S','Lord_B','Fencer','Fencer_R','Vagrant_S','Vagrant_A','Lancer','Lancer_R','Fighter','Brigand','Pirate','Archer','Archer_R','Outlaw','Guard','Kappa_Mech','Lance_Rider','Axe_Rider','Sword_Rider','Bow_Rider','Mage','Mage_M','Acolyte','Acolyte_N','Shaman','Shaman_S','Peg_Rider','Peg_Rider_K','Dracorider','Tengu','Mermaid','Cursed_Armor','Mage_B','Fencer_Y'])",
             "promote;Rin;{v:RinClass};silent",
             "change_portrait;Rin;Rin{v:RinClass}"
-        ]
+        ],
+        "nid": "Global RinHire"
     }
 ]
