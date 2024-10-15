@@ -19,7 +19,6 @@
             "inc_game_var;marisa_res;game.get_random(1,3)",
             "else",
             "end"
-        ],
-        "nid": "Global Marisa_Kill"
+        ]
     }
 ]

@@ -14,7 +14,6 @@
             "set_current_hp;{unit};{e:max(1, unit.get_hp() - int(unit.get_max_hp() / 8))}",
             "else",
             "end"
-        ],
-        "nid": "Global Mokou_Recoil"
+        ]
     }
 ]

@@ -13,7 +13,6 @@
             "speak;PC-98 Alice;I tire of this farce! I'm leaving!",
             "remove_portrait;PC-98 Alice",
             "remove_unit;Alice_Boss;warp"
-        ],
-        "nid": "8 AliceLeaves"
+        ]
     }
 ]

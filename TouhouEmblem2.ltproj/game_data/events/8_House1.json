@@ -18,7 +18,6 @@
             "give_bexp;30;no_banner",
             "show_layer;House1",
             "has_traded;{unit}"
-        ],
-        "nid": "8 House1"
+        ]
     }
 ]

@@ -12,7 +12,6 @@
             "speak;Tokiko;Gah! I was reading that!",
             "expression;Tokiko;CloseEyes",
             "remove_portrait;Tokiko"
-        ],
-        "nid": "Global DeathTokiko"
+        ]
     }
 ]

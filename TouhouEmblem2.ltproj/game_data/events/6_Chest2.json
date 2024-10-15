@@ -12,7 +12,6 @@
             "show_layer;Chest2",
             "give_item;{unit};Rapier",
             "has_finished;{unit}"
-        ],
-        "nid": "6 Chest2"
+        ]
     }
 ]

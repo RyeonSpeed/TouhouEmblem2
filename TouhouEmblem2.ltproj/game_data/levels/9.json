@@ -110,7 +110,7 @@
                 "ai_group": "",
                 "starting_position": [
                     10,
-                    7
+                    5
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -253,8 +253,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    15,
-                    9
+                    16,
+                    10
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -325,8 +325,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    16,
-                    10
+                    15,
+                    20
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -349,7 +349,7 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    13,
+                    12,
                     17
                 ],
                 "starting_traveler": null,
@@ -373,7 +373,7 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    14,
+                    13,
                     16
                 ],
                 "starting_traveler": null,
@@ -572,6 +572,69 @@
                 "generic": true
             },
             {
+                "nid": "143",
+                "variant": null,
+                "level": 8,
+                "klass": "Dracorider",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "145",
+                "variant": null,
+                "level": 8,
+                "klass": "Dracorider",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "144",
+                "variant": null,
+                "level": 8,
+                "klass": "Dracorider",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
                 "nid": "122",
                 "variant": null,
                 "level": 8,
@@ -666,7 +729,7 @@
                 "ai_group": "",
                 "starting_position": [
                     9,
-                    7
+                    5
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -681,6 +744,10 @@
                     [
                         "Steel_Bow",
                         false
+                    ],
+                    [
+                        "Yukkuri_R",
+                        true
                     ]
                 ],
                 "starting_skills": [],
@@ -728,6 +795,10 @@
                 "starting_items": [
                     [
                         "Steel_Sword",
+                        false
+                    ],
+                    [
+                        "Yukkuri_M",
                         false
                     ]
                 ],
@@ -908,6 +979,135 @@
                     8,
                     1
                 ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "146",
+                "variant": null,
+                "level": 8,
+                "klass": "Doll_L",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    5,
+                    16
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "147",
+                "variant": null,
+                "level": 8,
+                "klass": "Doll_L",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    15,
+                    9
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "137",
+                "variant": null,
+                "level": 8,
+                "klass": "Doll_L",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ],
+                    [
+                        "Javelin",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "141",
+                "variant": null,
+                "level": 8,
+                "klass": "Doll_L",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ],
+                    [
+                        "Javelin",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "142",
+                "variant": null,
+                "level": 8,
+                "klass": "Doll_L",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ],
+                    [
+                        "Javelin",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": true
             },
@@ -1168,11 +1368,73 @@
                 "sub_nid": "Secret!",
                 "condition": "True",
                 "time_left": null,
-                "only_once": false,
+                "only_once": true,
+                "interrupt_move": false
+            },
+            {
+                "nid": "House",
+                "region_type": "event",
+                "position": [
+                    2,
+                    14
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "Visit",
+                "condition": "True",
+                "time_left": null,
+                "only_once": true,
                 "interrupt_move": false
             }
         ],
-        "unit_groups": [],
+        "unit_groups": [
+            {
+                "nid": "Per4Rein",
+                "units": [
+                    "137",
+                    "142",
+                    "141"
+                ],
+                "positions": {
+                    "137": [
+                        17,
+                        4
+                    ],
+                    "142": [
+                        17,
+                        5
+                    ],
+                    "141": [
+                        17,
+                        6
+                    ]
+                }
+            },
+            {
+                "nid": "Turn5Rein",
+                "units": [
+                    "143",
+                    "145",
+                    "144"
+                ],
+                "positions": {
+                    "143": [
+                        8,
+                        25
+                    ],
+                    "145": [
+                        9,
+                        25
+                    ],
+                    "144": [
+                        10,
+                        25
+                    ]
+                }
+            }
+        ],
         "ai_groups": []
     }
 ]

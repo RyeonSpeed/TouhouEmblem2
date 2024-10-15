@@ -12,7 +12,6 @@
             "shop;{unit};Iron_Sword, Slim_Sword, Iron_Lance, Slim_Lance, Iron_Axe, Slim_Axe, Iron_Bow, Slim_Bow;armory",
             "transition;open",
             "has_finished;{unit}"
-        ],
-        "nid": "1 Armory"
+        ]
     }
 ]

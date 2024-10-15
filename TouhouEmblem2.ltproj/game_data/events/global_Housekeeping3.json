@@ -11,7 +11,6 @@
             "if;not v('baseconvolist')",
             "    game_var;baseconvolist;[]",
             "end"
-        ],
-        "nid": "Global Housekeeping3"
+        ]
     }
 ]

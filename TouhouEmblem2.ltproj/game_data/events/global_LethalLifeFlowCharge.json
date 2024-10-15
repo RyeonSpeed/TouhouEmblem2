@@ -9,7 +9,6 @@
         "priority": 20,
         "_source": [
             "set_skill_data;{unit};Lethal_Life_Flow;charge;{e:get_skill(unit, 'Lethal_Life_Flow').data.get('charge') + 1}"
-        ],
-        "nid": "Global LethalLifeFlowCharge"
+        ]
     }
 ]

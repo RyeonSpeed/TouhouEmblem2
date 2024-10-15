@@ -12,7 +12,6 @@
             "speak;Daiyousei;Cirno?! Cirno, where are you?!",
             "expression;Daiyousei;CloseEyes",
             "remove_portrait;Daiyousei"
-        ],
-        "nid": "Global DeathDaiyousei"
+        ]
     }
 ]

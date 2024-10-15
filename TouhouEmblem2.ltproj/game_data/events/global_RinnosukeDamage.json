@@ -9,7 +9,6 @@
         "priority": 20,
         "_source": [
             "give_money;-50;Reimu;no_banner"
-        ],
-        "nid": "Global RinnosukeDamage"
+        ]
     }
 ]

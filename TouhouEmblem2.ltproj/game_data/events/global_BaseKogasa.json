@@ -38,7 +38,6 @@
             "game_var;baseconvolist;[x for x in v('baseconvolist') if not x == 'Kogasa']",
             "add_lore;Kogasa",
             "transition;open"
-        ],
-        "nid": "Global BaseKogasa"
+        ]
     }
 ]

@@ -12,7 +12,6 @@
             "speak;Sunny;Alright! Playtime's over! Getting outta here!",
             "expression;Sunny;CloseEyes",
             "remove_portrait;Sunny"
-        ],
-        "nid": "Global DeathSunny"
+        ]
     }
 ]

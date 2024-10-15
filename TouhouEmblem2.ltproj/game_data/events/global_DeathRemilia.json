@@ -12,7 +12,6 @@
             "speak;Remilia;Hmph! I'm leaving! How dare you leave me to be injured like that!",
             "expression;Remilia;CloseEyes",
             "remove_portrait;Remilia"
-        ],
-        "nid": "Global DeathRemilia"
+        ]
     }
 ]

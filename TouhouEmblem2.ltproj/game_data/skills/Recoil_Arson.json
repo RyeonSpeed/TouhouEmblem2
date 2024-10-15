@@ -10,8 +10,8 @@
         ],
         "components": [
             [
-                "mid_battle_recoil",
-                "-40"
+                "deathrecoil",
+                40
             ]
         ]
     }

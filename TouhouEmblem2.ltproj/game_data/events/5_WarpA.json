@@ -9,7 +9,6 @@
         "priority": 20,
         "_source": [
             "move_unit;{unit};12,18;warp"
-        ],
-        "nid": "5 WarpA"
+        ]
     }
 ]

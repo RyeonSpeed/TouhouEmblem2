@@ -25,7 +25,6 @@
             "remove_base_convo;Fatigue",
             "game_var;baseconvolist;[x for x in v('baseconvolist') if not x == 'Fatigue']",
             "transition;open"
-        ],
-        "nid": "Global BaseFatigue"
+        ]
     }
 ]

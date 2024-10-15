@@ -512,6 +512,10 @@
                     [
                         "Steel_Lance",
                         false
+                    ],
+                    [
+                        "Yukkuri_M",
+                        false
                     ]
                 ],
                 "starting_skills": [],
@@ -851,6 +855,10 @@
                 "starting_items": [
                     [
                         "Elfire",
+                        false
+                    ],
+                    [
+                        "Yukkuri_R",
                         false
                     ]
                 ],

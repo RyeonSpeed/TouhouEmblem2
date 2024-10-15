@@ -12,7 +12,6 @@
             "add_portrait;Seiran;Left",
             "speak;Seiran;Guh... I'd rather be selling dango, but the pay is quite good!",
             "remove_portrait;Seiran"
-        ],
-        "nid": "3 FightSeiran"
+        ]
     }
 ]

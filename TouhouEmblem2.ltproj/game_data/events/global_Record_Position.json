@@ -10,7 +10,6 @@
         "_source": [
             "game_var;UnitPosition;unit.position",
             "end"
-        ],
-        "nid": "Global Record Position"
+        ]
     }
 ]

@@ -21,7 +21,6 @@
             "give_bexp;30;no_banner",
             "show_layer;Closed2",
             "has_traded;{unit}"
-        ],
-        "nid": "1 House2"
+        ]
     }
 ]

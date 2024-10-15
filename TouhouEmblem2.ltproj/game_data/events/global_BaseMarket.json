@@ -24,7 +24,6 @@
             "remove_base_convo;Market",
             "game_var;baseconvolist;[x for x in v('baseconvolist') if not x == 'Market']",
             "transition;open"
-        ],
-        "nid": "Global BaseMarket"
+        ]
     }
 ]

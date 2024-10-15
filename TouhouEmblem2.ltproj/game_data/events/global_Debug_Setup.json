@@ -11,7 +11,6 @@
             "# Give access to the convoy",
             "change_background;BlackBackground",
             "game_var;_convoy;True"
-        ],
-        "nid": "Global Debug Setup"
+        ]
     }
 ]

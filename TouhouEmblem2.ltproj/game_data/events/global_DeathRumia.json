@@ -12,7 +12,6 @@
             "speak;Rumia;Time for a...nice...long...nap...",
             "expression;Rumia;CloseEyes",
             "remove_portrait;Rumia"
-        ],
-        "nid": "Global DeathRumia"
+        ]
     }
 ]

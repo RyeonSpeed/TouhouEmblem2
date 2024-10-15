@@ -9,7 +9,6 @@
         "priority": 20,
         "_source": [
             "remove_skill;{unit};Night_Hunter;no_banner"
-        ],
-        "nid": "Global Apparitions That Stalk The Night_End"
+        ]
     }
 ]

@@ -32,10 +32,6 @@
             [
                 "pivot",
                 1
-            ],
-            [
-                "map_hit_sfx",
-                "Weapon Push"
             ]
         ]
     }

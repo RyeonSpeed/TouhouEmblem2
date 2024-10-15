@@ -9,7 +9,6 @@
         "priority": 20,
         "_source": [
             "give_skill;{unit};Mask_Happy;;no_banner"
-        ],
-        "nid": "Global Mask_Calm"
+        ]
     }
 ]

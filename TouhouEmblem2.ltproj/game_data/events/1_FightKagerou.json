@@ -12,7 +12,6 @@
             "add_portrait;Kagerou;Left",
             "speak;Kagerou;It may not be the full moon, but I'm a proud wolf! Taste my claws!",
             "remove_portrait;Kagerou"
-        ],
-        "nid": "1 FightKagerou"
+        ]
     }
 ]

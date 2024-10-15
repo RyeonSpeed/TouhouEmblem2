@@ -9,7 +9,6 @@
         "priority": 20,
         "_source": [
             "give_skill;{unit};Stoneskinned_Status;no_banner"
-        ],
-        "nid": "Global Stoneskinned"
+        ]
     }
 ]

@@ -36,7 +36,6 @@
             "speak;Reimu;Well, that settles it. To the human village!",
             "transition;Close",
             "set_next_chapter;1"
-        ],
-        "nid": "0 Outro"
+        ]
     }
 ]

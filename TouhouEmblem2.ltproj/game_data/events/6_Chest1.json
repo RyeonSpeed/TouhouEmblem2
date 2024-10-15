@@ -12,7 +12,6 @@
             "show_layer;Chest1",
             "give_item;{unit};Yukkuri_M",
             "has_finished;{unit}"
-        ],
-        "nid": "6 Chest1"
+        ]
     }
 ]

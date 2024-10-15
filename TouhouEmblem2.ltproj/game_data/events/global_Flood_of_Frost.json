@@ -9,7 +9,6 @@
         "priority": 20,
         "_source": [
             "give_skill;{unit};Frost_Barrier"
-        ],
-        "nid": "Global Flood_of_Frost"
+        ]
     }
 ]

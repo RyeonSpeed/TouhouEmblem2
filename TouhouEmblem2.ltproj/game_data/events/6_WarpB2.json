@@ -9,7 +9,6 @@
         "priority": 20,
         "_source": [
             "move_unit;{unit};3,3;warp;giveup"
-        ],
-        "nid": "6 WarpB2"
+        ]
     }
 ]

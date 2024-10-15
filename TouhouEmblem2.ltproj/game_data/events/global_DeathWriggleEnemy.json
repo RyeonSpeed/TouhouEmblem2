@@ -12,7 +12,6 @@
             "speak;Wriggle;Tch..! I'll get my revenge!",
             "expression;Wriggle;CloseEyes",
             "remove_portrait;Wriggle"
-        ],
-        "nid": "Global DeathWriggleEnemy"
+        ]
     }
 ]

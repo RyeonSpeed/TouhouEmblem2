@@ -13,7 +13,6 @@
             "expression;Rumia_Boss;CloseEyes",
             "remove_portrait;Rumia_Boss",
             "give_bexp;100;no_banner"
-        ],
-        "nid": "0 DeathRumia"
+        ]
     }
 ]

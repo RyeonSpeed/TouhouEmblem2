@@ -20,7 +20,6 @@
             "give_item;{unit};Stone_Bowl",
             "give_bexp;50",
             "has_traded;{unit}"
-        ],
-        "nid": "0 Freebie"
+        ]
     }
 ]

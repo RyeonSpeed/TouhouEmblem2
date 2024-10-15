@@ -11,7 +11,6 @@
             "add_portrait;Mokou;Left",
             "speak;Mokou;Outta my way! I have fools to burn!",
             "remove_portrait;Mokou"
-        ],
-        "nid": "2 FightMokou"
+        ]
     }
 ]

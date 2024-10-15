@@ -9,7 +9,6 @@
         "priority": 20,
         "_source": [
             "give_skill;{unit};Mask_Hope2;;no_banner"
-        ],
-        "nid": "Global Mask_Hope"
+        ]
     }
 ]

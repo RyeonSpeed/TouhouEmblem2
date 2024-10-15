@@ -12,7 +12,6 @@
             "add_portrait;Ringo;Left",
             "speak;Ringo;Finally, an interesting opponent. This job was getting kinda boring.",
             "remove_portrait;Ringo"
-        ],
-        "nid": "3 FightRingo"
+        ]
     }
 ]

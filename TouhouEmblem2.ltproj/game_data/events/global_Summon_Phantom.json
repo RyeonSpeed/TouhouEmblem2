@@ -18,7 +18,6 @@
             "add_unit;phantom;{eval:target_pos};warp",
             "wait;200",
             ""
-        ],
-        "nid": "Global Summon Phantom"
+        ]
     }
 ]

@@ -15,7 +15,6 @@
             "    break_item;{unit};{e:unit.equipped_accessory.uid}",
             "else",
             "end"
-        ],
-        "nid": "Global Shield_Check"
+        ]
     }
 ]

@@ -12,7 +12,6 @@
             "show_layer;Chest5",
             "give_item;{unit};Longbow",
             "has_finished;{unit}"
-        ],
-        "nid": "4 Chest_5"
+        ]
     }
 ]

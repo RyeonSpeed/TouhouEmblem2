@@ -29,7 +29,6 @@
             "remove_base_convo;Mercenaries",
             "game_var;baseconvolist;[x for x in v('baseconvolist') if not x == 'Mercenaries']",
             "transition;open"
-        ],
-        "nid": "Global BaseMercenary"
+        ]
     }
 ]

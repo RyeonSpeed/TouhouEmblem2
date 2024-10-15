@@ -12,7 +12,6 @@
             "shop;{unit};Fire, Ofuda, Flux, Heal, Life_Gem, Maple_Shield, Poppet, Lantern, Torch;vendor",
             "transition;open",
             "has_finished;{unit}"
-        ],
-        "nid": "1 Vendor"
+        ]
     }
 ]

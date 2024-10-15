@@ -10,7 +10,6 @@
         "_source": [
             "show_layer;DoorA",
             "has_finished;{unit}"
-        ],
-        "nid": "5 DoorA"
+        ]
     }
 ]

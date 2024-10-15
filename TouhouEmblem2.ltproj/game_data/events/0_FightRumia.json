@@ -13,7 +13,6 @@
             "speak;Rumia_Boss;This is my day! Embrace the darkness!",
             "remove_portrait;Rumia_Boss",
             "change_music;player_phase;Grasp at Victory"
-        ],
-        "nid": "0 FightRumia"
+        ]
     }
 ]

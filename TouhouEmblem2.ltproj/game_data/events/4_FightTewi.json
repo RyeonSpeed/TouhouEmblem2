@@ -12,7 +12,6 @@
             "add_portrait;Tewi;Left",
             "speak;Tewi;Step right up and see how fortunate you are!",
             "remove_portrait;Tewi"
-        ],
-        "nid": "4 FightTewi"
+        ]
     }
 ]

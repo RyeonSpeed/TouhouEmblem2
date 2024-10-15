@@ -12,7 +12,6 @@
             "speak;Tewi;So there you are! I hope you're feeling lucky, cause I'm coming right for you!",
             "remove_portrait;Tewi",
             "change_ai;Tewi_Boss;Pursue"
-        ],
-        "nid": "4 Tewi"
+        ]
     }
 ]

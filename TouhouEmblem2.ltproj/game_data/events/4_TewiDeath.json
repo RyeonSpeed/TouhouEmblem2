@@ -11,7 +11,6 @@
             "add_portrait;Tewi;Left",
             "speak;Tewi;Ouch, ouch, ouch! Easy on the ears, buddy!",
             "remove_portrait;Tewi"
-        ],
-        "nid": "4 TewiDeath"
+        ]
     }
 ]

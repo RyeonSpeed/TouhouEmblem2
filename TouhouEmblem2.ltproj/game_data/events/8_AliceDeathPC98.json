@@ -1,0 +1,14 @@
+[
+    {
+        "name": "AliceDeathPC98",
+        "trigger": "unit_death",
+        "level_nid": "8",
+        "condition": "unit.nid == 'Alice_Boss'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            ""
+        ]
+    }
+]

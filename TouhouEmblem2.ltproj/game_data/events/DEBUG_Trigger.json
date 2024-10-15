@@ -11,7 +11,6 @@
             "add_portrait;Eirika;Left",
             "speak;Eirika;This is a test",
             "remove_portrait;Eirika"
-        ],
-        "nid": "DEBUG Trigger"
+        ]
     }
 ]

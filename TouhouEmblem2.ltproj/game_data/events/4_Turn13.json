@@ -12,7 +12,6 @@
             "move_cursor;0,7",
             "add_group;EastRein;EastRein;fade;closest",
             "move_cursor;30,14"
-        ],
-        "nid": "4 Turn13"
+        ]
     }
 ]

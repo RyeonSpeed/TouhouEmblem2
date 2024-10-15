@@ -11,7 +11,6 @@
             "if;unit2.get_hp() == 0 and game.get_random(1,100) <= unit.get_stat('LCK')",
             "    give_item;{unit};Ancient_Coin",
             "end"
-        ],
-        "nid": "Global Divine_Fortune"
+        ]
     }
 ]

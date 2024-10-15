@@ -130,7 +130,7 @@
             0
         ],
         "map_sprite_nid": "ArcherFemale2",
-        "combat_anim_nid": "ArcherFemale2",
+        "combat_anim_nid": "ArcherFemale",
         "fields": []
     }
 ]

@@ -12,7 +12,6 @@
             "show_layer;Chest3",
             "give_item;{unit};Reginleif",
             "has_finished;{unit}"
-        ],
-        "nid": "8 Chest3"
+        ]
     }
 ]

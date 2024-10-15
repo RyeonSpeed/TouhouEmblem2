@@ -10,7 +10,6 @@
         "_source": [
             "show_layer;DoorB",
             "has_finished;{unit}"
-        ],
-        "nid": "5 DoorB"
+        ]
     }
 ]

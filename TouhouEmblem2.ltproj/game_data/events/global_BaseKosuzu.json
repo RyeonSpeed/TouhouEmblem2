@@ -50,7 +50,6 @@
             "game_var;baseconvolist;[x for x in v('baseconvolist') if not x == 'Kosuzu']",
             "add_lore;Kosuzu",
             "transition;open"
-        ],
-        "nid": "Global BaseKosuzu"
+        ]
     }
 ]

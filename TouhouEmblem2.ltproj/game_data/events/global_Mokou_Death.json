@@ -14,7 +14,6 @@
             "add_unit;{unit};{v:UnitPosition}",
             "remove_skill;{unit};Immortal_Red_Soul_1",
             "end"
-        ],
-        "nid": "Global Mokou_Death"
+        ]
     }
 ]

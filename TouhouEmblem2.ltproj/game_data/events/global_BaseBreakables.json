@@ -30,7 +30,6 @@
             "game_var;baseconvolist;[x for x in v('baseconvolist') if not x == 'Breakables']",
             "add_lore;Breakable_Tiles",
             "transition;open"
-        ],
-        "nid": "Global BaseBreakables"
+        ]
     }
 ]

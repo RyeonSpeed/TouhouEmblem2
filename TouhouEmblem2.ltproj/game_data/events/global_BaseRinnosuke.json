@@ -33,7 +33,6 @@
             "game_var;baseconvolist;[x for x in v('baseconvolist') if not x == 'Rinnosuke']",
             "add_lore;Rinnosuke",
             "transition;open"
-        ],
-        "nid": "Global BaseRinnosuke"
+        ]
     }
 ]

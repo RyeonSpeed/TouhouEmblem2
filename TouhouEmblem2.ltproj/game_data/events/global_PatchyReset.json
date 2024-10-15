@@ -10,7 +10,6 @@
         "_source": [
             "reset;{unit}",
             "give_skill;{unit};Tired;;no_banner"
-        ],
-        "nid": "Global PatchyReset"
+        ]
     }
 ]
