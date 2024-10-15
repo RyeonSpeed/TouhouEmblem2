@@ -123,19 +123,6 @@
                 "generic": true
             },
             {
-                "nid": "Star",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    15,
-                    8
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
                 "nid": "Kaguya",
                 "team": "player",
                 "ai": "None",
@@ -186,6 +173,30 @@
                 ],
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "101",
+                "variant": null,
+                "level": 1,
+                "klass": "Herald_S",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    12,
+                    9
+                ],
+                "starting_traveler": null,
+                "generic": true
             }
         ],
         "regions": [
