@@ -8,9 +8,11 @@
         "only_once": true,
         "priority": 20,
         "_source": [
+            "music;Dullahan Under the Willows",
             "add_portrait;Reisen;Left",
             "speak;Reisen;I'll stop you here, so that Lady Eirin doesn't even have to deal with you!",
             "remove_portrait;Reisen"
-        ]
+        ],
+        "nid": "5 FightReisen"
     }
 ]

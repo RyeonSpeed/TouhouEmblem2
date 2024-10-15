@@ -12,6 +12,7 @@
             "show_layer;Chest3",
             "give_item;{unit};Physic",
             "has_finished;{unit}"
-        ]
+        ],
+        "nid": "6 Chest3"
     }
 ]

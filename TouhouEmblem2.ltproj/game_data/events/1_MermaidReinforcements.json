@@ -12,6 +12,7 @@
             "add_group;Mermaid;Mermaid;fade;closest",
             "add_portrait;Wakasagihime;CenterRight",
             "speak;Wakasagihime;The time has come! Time to sink these fools!"
-        ]
+        ],
+        "nid": "1 MermaidReinforcements"
     }
 ]

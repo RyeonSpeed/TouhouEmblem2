@@ -16,6 +16,7 @@
             "game_var;marisa_lck;0",
             "game_var;marisa_def;0",
             "game_var;marisa_res;0"
-        ]
+        ],
+        "nid": "Global Marisa_Level"
     }
 ]

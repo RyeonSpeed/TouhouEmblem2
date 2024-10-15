@@ -13,6 +13,7 @@
             "add_portrait;Rumia;Right",
             "speak;Rumia;That damn miko! Who does she think she is, beating me up like that?! I'll show her!",
             "remove_portrait;Rumia"
-        ]
+        ],
+        "nid": "1 BanditReinforcements"
     }
 ]

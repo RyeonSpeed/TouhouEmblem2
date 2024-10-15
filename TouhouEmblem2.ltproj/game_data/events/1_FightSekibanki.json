@@ -12,6 +12,7 @@
             "add_portrait;Sekibanki;Left",
             "speak;Sekibanki;Well, well. Don't get dizzy as my heads run circles!",
             "remove_portrait;Sekibanki"
-        ]
+        ],
+        "nid": "1 FightSekibanki"
     }
 ]

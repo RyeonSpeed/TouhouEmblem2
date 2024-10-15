@@ -1,12 +1,12 @@
 [
     {
-        "nid": "Scripture",
-        "name": "Scripture",
-        "desc": "Brave.",
-        "icon_nid": "the2icons",
+        "nid": "Heihaku",
+        "name": "Heihaku",
+        "desc": "",
+        "icon_nid": "LightMagic",
         "icon_index": [
-            9,
-            3
+            0,
+            1
         ],
         "components": [
             [
@@ -27,7 +27,7 @@
             ],
             [
                 "hit",
-                75
+                85
             ],
             [
                 "weapon_type",
@@ -35,7 +35,7 @@
             ],
             [
                 "weapon_rank",
-                "A"
+                "C"
             ],
             [
                 "magic",
@@ -43,7 +43,7 @@
             ],
             [
                 "uses",
-                30
+                25
             ],
             [
                 "uses_options",
@@ -54,15 +54,15 @@
             ],
             [
                 "weight",
-                14
+                8
             ],
             [
                 "crit",
-                20
+                30
             ],
             [
                 "value",
-                7500
+                1700
             ],
             [
                 "min_range",
@@ -79,10 +79,6 @@
                     255,
                     0
                 ]
-            ],
-            [
-                "brave",
-                null
             ],
             [
                 "fatigue",

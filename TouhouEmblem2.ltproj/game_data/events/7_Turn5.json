@@ -13,6 +13,7 @@
             "add_portrait;Sakuya;Right",
             "speak;Sakuya;Hm, I seem to have finally caught up to Lady Remilia's location. My search is almost done.",
             "remove_portrait;Sakuya"
-        ]
+        ],
+        "nid": "7 Turn5"
     }
 ]

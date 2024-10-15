@@ -12,6 +12,7 @@
             "set_fog_of_war;gba;7;7;7",
             "else",
             "end"
-        ]
+        ],
+        "nid": "5 Turn8"
     }
 ]

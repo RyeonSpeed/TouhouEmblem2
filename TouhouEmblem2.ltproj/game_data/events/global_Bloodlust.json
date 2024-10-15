@@ -16,6 +16,7 @@
             "reset;{unit}",
             "else",
             "end"
-        ]
+        ],
+        "nid": "Global Bloodlust"
     }
 ]

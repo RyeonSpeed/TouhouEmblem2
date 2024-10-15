@@ -10,6 +10,7 @@
         "_source": [
             "add_group;Turn5Thief;Turn5Thief;swoosh;closest",
             "move_cursor;30,2"
-        ]
+        ],
+        "nid": "4 Turn5"
     }
 ]

@@ -12,6 +12,7 @@
             "speak;Mystia;Alright, time to hightail it outta here!",
             "expression;Mystia;CloseEyes",
             "remove_portrait;Mystia"
-        ]
+        ],
+        "nid": "Global DeathMystiaEnemy"
     }
 ]

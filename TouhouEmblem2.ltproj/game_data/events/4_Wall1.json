@@ -10,6 +10,7 @@
         "_source": [
             "map_anim;Snag;{position}",
             "show_layer;Wall1"
-        ]
+        ],
+        "nid": "4 Wall1"
     }
 ]

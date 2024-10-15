@@ -93,6 +93,7 @@
             "add_talk;Mystia;Wriggle",
             "prep;1;Sealed Gods",
             "speak;;This map's clear bonus is 300 Bonus EXP, with a decrease of 15 BExp per turn you take over 15 turns!;;;hint"
-        ]
+        ],
+        "nid": "2 Intro"
     }
 ]

@@ -12,6 +12,7 @@
             "speak;Wriggle;You know, I think the power of insects won't solve this issue.",
             "expression;Wriggle;CloseEyes",
             "remove_portrait;Wriggle"
-        ]
+        ],
+        "nid": "Global DeathWriggle"
     }
 ]

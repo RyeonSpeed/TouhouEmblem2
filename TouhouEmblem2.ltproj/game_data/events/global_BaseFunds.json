@@ -24,6 +24,7 @@
             "remove_base_convo;Funds",
             "game_var;baseconvolist;[x for x in v('baseconvolist') if not x == 'Funds']",
             "transition;open"
-        ]
+        ],
+        "nid": "Global BaseFunds"
     }
 ]

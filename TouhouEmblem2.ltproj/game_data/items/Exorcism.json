@@ -2,11 +2,11 @@
     {
         "nid": "Exorcism",
         "name": "Exorcism",
-        "desc": "Dispelling.",
+        "desc": "Brave.",
         "icon_nid": "the2icons",
         "icon_index": [
             9,
-            4
+            3
         ],
         "components": [
             [
@@ -23,11 +23,11 @@
             ],
             [
                 "damage",
-                10
+                8
             ],
             [
                 "hit",
-                85
+                75
             ],
             [
                 "weapon_type",
@@ -35,7 +35,7 @@
             ],
             [
                 "weapon_rank",
-                "B"
+                "A"
             ],
             [
                 "magic",
@@ -43,7 +43,7 @@
             ],
             [
                 "uses",
-                22
+                30
             ],
             [
                 "uses_options",
@@ -54,15 +54,15 @@
             ],
             [
                 "weight",
-                10
+                14
             ],
             [
                 "crit",
-                25
+                20
             ],
             [
                 "value",
-                3000
+                7500
             ],
             [
                 "min_range",
@@ -81,16 +81,8 @@
                 ]
             ],
             [
-                "effective_damage",
-                {
-                    "effective_tags": [
-                        "Dark"
-                    ],
-                    "effective_multiplier": 2.0,
-                    "effective_bonus_damage": 10,
-                    "show_effectiveness_flash": true,
-                    "weapon_effectiveness_multiplied": true
-                }
+                "brave",
+                null
             ],
             [
                 "fatigue",

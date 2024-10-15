@@ -7,11 +7,11 @@
         "party": "Reimu",
         "music": {
             "player_phase": "Quiet Burn",
-            "enemy_phase": null,
+            "enemy_phase": "Quiet Burn",
             "other_phase": null,
             "enemy2_phase": null,
             "player_battle": "Quiet Burn",
-            "enemy_battle": null,
+            "enemy_battle": "Quiet Burn",
             "other_battle": null,
             "enemy2_battle": null,
             "boss_battle": "Dullahan Under the Willows"
@@ -86,50 +86,9 @@
                 "generic": true
             },
             {
-                "nid": "105",
-                "variant": null,
-                "level": 1,
-                "klass": "Warden",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Javelin",
-                        false
-                    ],
-                    [
-                        "Spear",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    11,
-                    11
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "Sekibanki_Boss",
-                "team": "enemy",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    15,
-                    8
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
                 "nid": "Keine_NPC",
                 "team": "enemy",
-                "ai": "None",
+                "ai": "Guard",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -142,12 +101,12 @@
             {
                 "nid": "103",
                 "variant": null,
-                "level": 15,
-                "klass": "Druid",
+                "level": 1,
+                "klass": "Acolyte",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Yomi",
+                        "Ofuda",
                         false
                     ]
                 ],
@@ -164,39 +123,26 @@
                 "generic": true
             },
             {
-                "nid": "Mokou",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    16,
-                    9
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Wriggle",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    15,
-                    12
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
                 "nid": "Star",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    14,
+                    15,
+                    8
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Kaguya",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    16,
                     11
                 ],
                 "starting_traveler": null,
@@ -209,109 +155,37 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    13,
-                    9
+                    16,
+                    13
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
-                "nid": "101",
-                "variant": null,
-                "level": 1,
-                "klass": "Druid",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Yomi",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    16,
-                    13
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "Rinnosuke",
+                "nid": "Aunn",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
                     12,
-                    23
+                    13
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
-                "nid": "106",
-                "variant": null,
-                "level": 1,
-                "klass": "Lord_S",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Iron_Sword",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
+                "nid": "Reisen_Boss",
                 "team": "enemy",
-                "ai": "Attack",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    16,
-                    23
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "Suika",
-                "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
                     14,
-                    23
+                    12
                 ],
                 "starting_traveler": null,
                 "generic": false
-            },
-            {
-                "nid": "107",
-                "variant": null,
-                "level": 1,
-                "klass": "Lord_L",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Iron_Lance",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Attack",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    14,
-                    21
-                ],
-                "starting_traveler": null,
-                "generic": true
             }
         ],
         "regions": [

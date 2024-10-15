@@ -13,6 +13,7 @@
             "remove_talk;Mystia;Daiyousei",
             "remove_talk;Rumia;Daiyousei",
             "add_lore;Daiyousei"
-        ]
+        ],
+        "nid": "4 RumiaDaiyousei"
     }
 ]

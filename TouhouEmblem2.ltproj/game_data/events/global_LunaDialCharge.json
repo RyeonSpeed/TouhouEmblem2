@@ -18,6 +18,7 @@
             "set_skill_data;{unit};Time_Token;{e:get_skill(unit, 'Time_Token').data.get('charge') + 1}",
             "else",
             "end"
-        ]
+        ],
+        "nid": "Global LunaDialCharge"
     }
 ]

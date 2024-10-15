@@ -83,6 +83,7 @@
             "change_affinity;Rin;Light",
             "if;{v:Dark} == 1",
             "change_affinity;Rin;Dark"
-        ]
+        ],
+        "nid": "Global BullshitRinEvent"
     }
 ]

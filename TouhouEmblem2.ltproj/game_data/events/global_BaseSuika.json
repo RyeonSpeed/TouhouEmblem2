@@ -33,6 +33,7 @@
             "game_var;baseconvolist;[x for x in v('baseconvolist') if not x == 'Suika']",
             "add_lore;Suika",
             "transition;open"
-        ]
+        ],
+        "nid": "Global BaseSuika"
     }
 ]

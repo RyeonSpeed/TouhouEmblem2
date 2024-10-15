@@ -11,6 +11,7 @@
             "add_portrait;Wriggle;Left",
             "speak;Wriggle;You know... this doesn't seem like a good idea now.",
             "remove_portrait;Wriggle"
-        ]
+        ],
+        "nid": "2 FightWriggle"
     }
 ]

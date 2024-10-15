@@ -11,6 +11,7 @@
             "for;baseconvo;v('baseconvolist')",
             "add_base_convo;{baseconvo}",
             "endf"
-        ]
+        ],
+        "nid": "Global Housekeeping2"
     }
 ]

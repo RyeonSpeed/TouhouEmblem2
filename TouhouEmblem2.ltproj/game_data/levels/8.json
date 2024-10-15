@@ -512,10 +512,6 @@
                     [
                         "Steel_Lance",
                         false
-                    ],
-                    [
-                        "Yukkuri_M",
-                        false
                     ]
                 ],
                 "starting_skills": [],
@@ -856,10 +852,6 @@
                     [
                         "Elfire",
                         false
-                    ],
-                    [
-                        "Yukkuri_R",
-                        false
                     ]
                 ],
                 "starting_skills": [],
@@ -882,7 +874,7 @@
                 "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Tarot",
+                        "Omikuji",
                         false
                     ]
                 ],

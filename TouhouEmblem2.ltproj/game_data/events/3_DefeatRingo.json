@@ -11,6 +11,7 @@
             "add_portrait;Ringo;Left",
             "speak;Ringo;Aaaah... that's a bit too much for me to handle...",
             "remove_portrait;Ringo"
-        ]
+        ],
+        "nid": "3 DefeatRingo"
     }
 ]

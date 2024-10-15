@@ -2,7 +2,7 @@
     {
         "nid": "Crucifix",
         "name": "Crucifix",
-        "desc": "",
+        "desc": "Anti-Monstrous.",
         "icon_nid": "the2icons",
         "icon_index": [
             9,
@@ -14,55 +14,12 @@
                 null
             ],
             [
+                "value",
+                2000
+            ],
+            [
                 "target_enemy",
                 null
-            ],
-            [
-                "level_exp",
-                null
-            ],
-            [
-                "damage",
-                8
-            ],
-            [
-                "hit",
-                85
-            ],
-            [
-                "weapon_type",
-                "Light"
-            ],
-            [
-                "weapon_rank",
-                "C"
-            ],
-            [
-                "magic",
-                null
-            ],
-            [
-                "uses",
-                25
-            ],
-            [
-                "uses_options",
-                {
-                    "lose_uses_on_miss": false,
-                    "one_loss_per_combat": false
-                }
-            ],
-            [
-                "weight",
-                8
-            ],
-            [
-                "crit",
-                30
-            ],
-            [
-                "value",
-                1700
             ],
             [
                 "min_range",
@@ -73,12 +30,67 @@
                 2
             ],
             [
+                "damage",
+                6
+            ],
+            [
+                "hit",
+                85
+            ],
+            [
+                "crit",
+                15
+            ],
+            [
+                "weight",
+                5
+            ],
+            [
+                "uses",
+                20
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Light"
+            ],
+            [
+                "weapon_rank",
+                "C"
+            ],
+            [
                 "map_hit_add_blend",
                 [
                     255,
                     255,
                     0
                 ]
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "effective_damage",
+                {
+                    "effective_tags": [
+                        "Monster"
+                    ],
+                    "effective_multiplier": 2.0,
+                    "effective_bonus_damage": 10,
+                    "show_effectiveness_flash": true,
+                    "weapon_effectiveness_multiplied": true
+                }
             ],
             [
                 "fatigue",

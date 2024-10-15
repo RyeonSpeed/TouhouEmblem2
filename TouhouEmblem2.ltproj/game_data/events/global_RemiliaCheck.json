@@ -13,6 +13,7 @@
             "else",
             "game_var;_turnwheel;0",
             "end"
-        ]
+        ],
+        "nid": "Global RemiliaCheck"
     }
 ]

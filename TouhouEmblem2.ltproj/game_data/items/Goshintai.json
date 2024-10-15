@@ -1,12 +1,12 @@
 [
     {
-        "nid": "Gohei",
-        "name": "Gohei",
-        "desc": "Anti-Monstrous.",
+        "nid": "Goshintai",
+        "name": "Goshintai",
+        "desc": "Dispelling.",
         "icon_nid": "LightMagic",
         "icon_index": [
             0,
-            1
+            2
         ],
         "components": [
             [
@@ -14,12 +14,55 @@
                 null
             ],
             [
-                "value",
-                2000
-            ],
-            [
                 "target_enemy",
                 null
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "damage",
+                10
+            ],
+            [
+                "hit",
+                85
+            ],
+            [
+                "weapon_type",
+                "Light"
+            ],
+            [
+                "weapon_rank",
+                "B"
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "uses",
+                22
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "weight",
+                10
+            ],
+            [
+                "crit",
+                25
+            ],
+            [
+                "value",
+                3000
             ],
             [
                 "min_range",
@@ -30,45 +73,6 @@
                 2
             ],
             [
-                "damage",
-                6
-            ],
-            [
-                "hit",
-                85
-            ],
-            [
-                "crit",
-                15
-            ],
-            [
-                "weight",
-                5
-            ],
-            [
-                "uses",
-                20
-            ],
-            [
-                "uses_options",
-                {
-                    "lose_uses_on_miss": false,
-                    "one_loss_per_combat": false
-                }
-            ],
-            [
-                "level_exp",
-                null
-            ],
-            [
-                "weapon_type",
-                "Light"
-            ],
-            [
-                "weapon_rank",
-                "C"
-            ],
-            [
                 "map_hit_add_blend",
                 [
                     255,
@@ -77,14 +81,10 @@
                 ]
             ],
             [
-                "magic",
-                null
-            ],
-            [
                 "effective_damage",
                 {
                     "effective_tags": [
-                        "Monster"
+                        "Dark"
                     ],
                     "effective_multiplier": 2.0,
                     "effective_bonus_damage": 10,
