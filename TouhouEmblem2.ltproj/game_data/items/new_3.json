@@ -1,0 +1,41 @@
+[
+    {
+        "nid": "new_3",
+        "name": "new_3",
+        "desc": "",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            6,
+            3
+        ],
+        "components": [
+            [
+                "usable",
+                null
+            ],
+            [
+                "usable_in_base",
+                null
+            ],
+            [
+                "uses",
+                3
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "fatigue",
+                -10
+            ],
+            [
+                "value",
+                500
+            ]
+        ]
+    }
+]

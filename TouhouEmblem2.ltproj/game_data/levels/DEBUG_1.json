@@ -175,10 +175,67 @@
                 "generic": false
             },
             {
+<<<<<<< Updated upstream
                 "nid": "101",
                 "variant": null,
                 "level": 1,
                 "klass": "Herald_S",
+=======
+                "nid": "Suika",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    14
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "101",
+                "variant": null,
+                "level": 5,
+                "klass": "Vagrant_A",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    12,
+                    14
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Mokou",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    10,
+                    8
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "102",
+                "variant": null,
+                "level": 20,
+                "klass": "Gendarme",
+>>>>>>> Stashed changes
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -187,13 +244,21 @@
                     ]
                 ],
                 "starting_skills": [],
+<<<<<<< Updated upstream
                 "team": "player",
+=======
+                "team": "enemy",
+>>>>>>> Stashed changes
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
                     12,
+<<<<<<< Updated upstream
                     9
+=======
+                    8
+>>>>>>> Stashed changes
                 ],
                 "starting_traveler": null,
                 "generic": true

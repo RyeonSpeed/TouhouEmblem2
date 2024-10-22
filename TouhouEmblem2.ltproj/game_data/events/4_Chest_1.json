@@ -10,7 +10,7 @@
         "_source": [
             "unlock;{unit}",
             "show_layer;Chest1",
-            "give_item;{unit};Tarot",
+            "give_item;{unit};Omikuji",
             "has_finished;{unit}"
         ],
         "nid": "4 Chest_1"

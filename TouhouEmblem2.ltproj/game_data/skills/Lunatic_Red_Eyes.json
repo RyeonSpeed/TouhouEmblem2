@@ -2,7 +2,7 @@
     {
         "nid": "Lunatic_Red_Eyes",
         "name": "Lunatic Red Eyes",
-        "desc": "Can target any unit regardless of allegiance. Berserks them for 3 turns and gives them -30 Hit/Dodge but also +50 Crit.",
+        "desc": "Can target any unit regardless of allegiance. Berserks them for 3 turns and gives them -30 Hit/Dodge but also +50 Crit. 1-5 Range.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             3,

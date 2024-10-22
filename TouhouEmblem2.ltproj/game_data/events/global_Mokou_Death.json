@@ -1,18 +1,19 @@
 [
     {
         "name": "Mokou_Death",
-        "trigger": "unit_death",
+        "trigger": "turn_change",
         "level_nid": null,
-        "condition": "has_skill(unit, 'Immortal_Red_Soul_1')",
+        "condition": "True",
         "commands": [],
-        "only_once": true,
+        "only_once": false,
         "priority": 20,
         "_source": [
+            "if;game.check_dead('Mokou') == 1",
             "add_portrait;Mokou_NPC;FarLeft",
             "speak;Mokou_NPC;RISE, IMMORTAL PHOENIX!",
-            "resurrect;{unit}",
-            "add_unit;{unit};{v:UnitPosition}",
-            "remove_skill;{unit};Immortal_Red_Soul_1",
+            "resurrect;Mokou",
+            "add_unit;Mokou;{v:UnitPosition}",
+            "add_fatigue;Mokou;20",
             "end"
         ],
         "nid": "Global Mokou_Death"

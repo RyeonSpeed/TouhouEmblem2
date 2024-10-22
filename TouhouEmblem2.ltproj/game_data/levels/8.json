@@ -14,8 +14,8 @@
             "enemy2_battle": "The Doll Maker of Bucuresti"
         },
         "objective": {
-            "simple": "",
-            "win": "",
+            "simple": "Escape",
+            "win": "Escape",
             "loss": "Reimu or Marisa dies"
         },
         "roam": false,

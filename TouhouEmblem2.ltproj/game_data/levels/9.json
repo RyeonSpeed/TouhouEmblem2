@@ -7,9 +7,9 @@
         "party": "Reimu",
         "music": {},
         "objective": {
-            "simple": "",
-            "win": "",
-            "loss": ""
+            "simple": "Left {eval:len(game.get_enemy_units())}",
+            "win": "Rout Enemy",
+            "loss": "Reimu or Marisa dies"
         },
         "roam": false,
         "roam_unit": null,

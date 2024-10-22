@@ -8,7 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            ""
+            "set_next_chapter;10"
         ],
         "nid": "9 Outro"
     }

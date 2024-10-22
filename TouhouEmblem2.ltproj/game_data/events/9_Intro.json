@@ -21,7 +21,7 @@
             "for;MARKET_ENTRY;['Slim_Sword', 'Slim_Lance', 'Slim_Axe', 'Slim_Bow', 'Flamberge', 'Flame_Lance', 'Flame_Axe', 'Gust']",
             "    add_market_item;{MARKET_ENTRY}",
             "    endf",
-            "for;MARKET_ENTRY;['Steel_Sword', 'Steel_Axe', 'Steel_Lance', 'Steel_Bow', 'Thunder', 'Tarot', 'Slime', 'Yomi', 'Mend', 'Restore', 'Life_Gem', 'Misfortune_Amulet', 'Forged_Shield', 'Eye_of_Senri', 'Gas_Mask']",
+            "for;MARKET_ENTRY;['Steel_Sword', 'Steel_Axe', 'Steel_Lance', 'Steel_Bow', 'Thunder', 'Omikuji', 'Slime', 'Yomi', 'Mend', 'Restore', 'Life_Gem', 'Misfortune_Amulet', 'Forged_Shield', 'Eye_of_Senri', 'Gas_Mask']",
             "    add_market_item;{MARKET_ENTRY}",
             "    endf",
             "base;Serenes Forest;{e:};Mercenary Camp;True;Global Mercenary_Camp;Music=Sealed Gods",

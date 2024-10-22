@@ -1114,15 +1114,15 @@
                     "2,6": [
                         "Flasuban Castle V2",
                         [
-                            14,
-                            29
+                            18,
+                            20
                         ]
                     ],
                     "2,7": [
                         "Flasuban Castle V2",
                         [
-                            14,
-                            29
+                            18,
+                            21
                         ]
                     ],
                     "2,8": [
@@ -1282,15 +1282,15 @@
                     "3,6": [
                         "Flasuban Castle V2",
                         [
-                            14,
-                            29
+                            19,
+                            20
                         ]
                     ],
                     "3,7": [
                         "Flasuban Castle V2",
                         [
-                            14,
-                            29
+                            19,
+                            21
                         ]
                     ],
                     "3,8": [
@@ -1336,10 +1336,10 @@
                         ]
                     ],
                     "3,14": [
-                        "Flasuban Castle V2",
+                        "Zoramine Castle",
                         [
-                            14,
-                            29
+                            18,
+                            16
                         ]
                     ],
                     "3,15": [
@@ -4311,17 +4311,17 @@
                         ]
                     ],
                     "2,3": [
-                        "Flasuban Castle V2",
+                        "Zoramine Castle",
                         [
-                            14,
-                            29
+                            16,
+                            21
                         ]
                     ],
                     "3,3": [
-                        "Flasuban Castle V2",
+                        "Zoramine Castle",
                         [
-                            14,
-                            29
+                            17,
+                            21
                         ]
                     ],
                     "4,3": [
@@ -4647,10 +4647,10 @@
                         ]
                     ],
                     "2,2": [
-                        "Flasuban Castle V2",
+                        "Zoramine Castle",
                         [
-                            14,
-                            29
+                            16,
+                            20
                         ]
                     ],
                     "3,0": [
@@ -4668,10 +4668,10 @@
                         ]
                     ],
                     "3,2": [
-                        "Flasuban Castle V2",
+                        "Zoramine Castle",
                         [
-                            14,
-                            29
+                            17,
+                            20
                         ]
                     ],
                     "4,0": [
@@ -6211,7 +6211,9 @@
             "Zoramine Castle",
             "Flasuban Castle V2",
             "Thracia Fort",
-            "Nighttime_Raw_Tiles"
+            "Nighttime_Raw_Tiles",
+            "Zoramine Snow Fields (Water)",
+            "Flasuban Castle V2"
         ]
     }
 ]

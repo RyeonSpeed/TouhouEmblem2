@@ -3844,10 +3844,10 @@
                         ]
                     ],
                     "12,18": [
-                        "Flasuban Castle V2",
+                        "Zoramine Castle ",
                         [
-                            14,
-                            29
+                            18,
+                            16
                         ]
                     ],
                     "12,19": [
@@ -4096,10 +4096,10 @@
                         ]
                     ],
                     "14,24": [
-                        "Flasuban Castle V2",
+                        "Zoramine Castle ",
                         [
-                            14,
-                            29
+                            18,
+                            16
                         ]
                     ],
                     "14,25": [
@@ -7234,7 +7234,8 @@
             "Thracia Fort",
             "Psychout Thracia Temple Dungeon",
             "Flasuban's Improved Village v2",
-            "Zoramine Castle"
+            "Zoramine Castle",
+            "Zoramine Castle "
         ]
     }
 ]
