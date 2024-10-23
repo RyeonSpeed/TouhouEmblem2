@@ -6,12 +6,13 @@
         "bg_tilemap": null,
         "party": "Reimu",
         "music": {
-            "player_phase": "Kagome Kagome",
-            "enemy_phase": "Invisible Full Moon",
+            "player_phase": "Lunatic Princess",
+            "enemy_phase": "Strawberry Crisis",
             "other_phase": "Pocket Watch",
-            "player_battle": "Kagome Kagome",
-            "enemy_battle": "Invisible Full Moon",
-            "other_battle": "Pocket Watch"
+            "player_battle": "Lunatic Princess",
+            "enemy_battle": "Strawberry Crisis",
+            "other_battle": "Pocket Watch",
+            "boss_battle": "Vanishing Dream"
         },
         "objective": {
             "simple": "Survive <blue>{e:game.turncount}</>/10 turns",

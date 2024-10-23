@@ -34,8 +34,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    18,
-                    11
+                    13,
+                    9
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -102,14 +102,9 @@
                 "nid": "103",
                 "variant": null,
                 "level": 1,
-                "klass": "Acolyte",
+                "klass": "Guard",
                 "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Ofuda",
-                        false
-                    ]
-                ],
+                "starting_items": [],
                 "starting_skills": [],
                 "team": "enemy",
                 "ai": "None",
@@ -123,53 +118,27 @@
                 "generic": true
             },
             {
-                "nid": "Kaguya",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    16,
-                    11
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Marisa",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    16,
-                    13
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Aunn",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    12,
-                    13
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Reisen_Boss",
+                "nid": "Sekibanki_Boss",
                 "team": "enemy",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    14,
+                    16,
                     12
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Eirin_NPC",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    9
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -178,11 +147,11 @@
                 "nid": "101",
                 "variant": null,
                 "level": 1,
-                "klass": "Herald_S",
+                "klass": "Exorcist",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Iron_Sword",
+                        "Inquisition",
                         false
                     ]
                 ],
@@ -192,11 +161,24 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    12,
-                    9
+                    16,
+                    10
                 ],
                 "starting_traveler": null,
                 "generic": true
+            },
+            {
+                "nid": "Reimu",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    17,
+                    10
+                ],
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [
