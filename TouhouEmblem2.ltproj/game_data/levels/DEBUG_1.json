@@ -175,12 +175,6 @@
                 "generic": false
             },
             {
-<<<<<<< Updated upstream
-                "nid": "101",
-                "variant": null,
-                "level": 1,
-                "klass": "Herald_S",
-=======
                 "nid": "Suika",
                 "team": "player",
                 "ai": "None",
@@ -235,7 +229,6 @@
                 "variant": null,
                 "level": 20,
                 "klass": "Gendarme",
->>>>>>> Stashed changes
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -244,21 +237,13 @@
                     ]
                 ],
                 "starting_skills": [],
-<<<<<<< Updated upstream
-                "team": "player",
-=======
                 "team": "enemy",
->>>>>>> Stashed changes
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
                     12,
-<<<<<<< Updated upstream
-                    9
-=======
                     8
->>>>>>> Stashed changes
                 ],
                 "starting_traveler": null,
                 "generic": true
