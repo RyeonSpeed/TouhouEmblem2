@@ -3,7 +3,7 @@
         "nid": "Alice_Boss_2",
         "name": "Alice",
         "desc": "A mysterious being from Makai who seems to somewhat resemble Alice.",
-        "variant": "",
+        "variant": null,
         "level": 8,
         "klass": "Stringless",
         "tags": [

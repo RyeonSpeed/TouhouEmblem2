@@ -26,7 +26,7 @@
             "    trigger_script;6 KosuzuScroll",
             "else",
             "end",
-            "base;Castle Throne Room;{e:};Mercenary Camp;True;Global Mercenary_Camp;Music=Spirit of Avarice",
+            "base;Backwoods (Night);{e:};Mercenary Camp;True;Global Mercenary_Camp;Music=Spirit of Avarice",
             "enable_fog_of_war;t",
             "set_fog_of_war;gba;6;6;6",
             "prep;1;Spirit of Avarice",

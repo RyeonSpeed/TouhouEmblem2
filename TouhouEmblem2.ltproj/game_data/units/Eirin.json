@@ -3,7 +3,7 @@
         "nid": "Eirin",
         "name": "Eirin",
         "desc": "A medical mastermind god from the Moon, Eirin is an expert pharmacist and runs Eientei with Kaguya. She has existed for millenia.",
-        "variant": "Eirin",
+        "variant": null,
         "level": 1,
         "klass": "Apothecary",
         "tags": [],
