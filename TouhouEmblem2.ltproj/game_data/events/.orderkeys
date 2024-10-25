@@ -270,7 +270,6 @@
     "Global_Summon_Soldiers",
     "Global_Support_Gain",
     "Global_TewiGamble",
-<<<<<<< Updated upstream
     "8_AliceDeathPC98",
     "8_FightAlice",
     "8_FightMai",
@@ -283,9 +282,7 @@
     "9_FightMamizou",
     "9_House",
     "9_Per4Rein",
-    "9_Turn5Rein"
-=======
+    "9_Turn5Rein",
     "7_Fatigue_Disappear",
     "9_Rout"
->>>>>>> Stashed changes
 ]
