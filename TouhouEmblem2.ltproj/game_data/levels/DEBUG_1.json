@@ -129,56 +129,6 @@
                 ],
                 "starting_traveler": null,
                 "generic": false
-            },
-            {
-                "nid": "Eirin_NPC",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    14,
-                    9
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "101",
-                "variant": null,
-                "level": 1,
-                "klass": "Exorcist",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Inquisition",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    16,
-                    10
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "Reimu",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    17,
-                    10
-                ],
-                "starting_traveler": null,
-                "generic": false
             }
         ],
         "regions": [
