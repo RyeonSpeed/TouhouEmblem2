@@ -188,5 +188,20 @@
         "Invisible Full Moon",
         false,
         false
+    ],
+    [
+        "Vanishing Dream",
+        false,
+        false
+    ],
+    [
+        "Lunatic Princess",
+        true,
+        false
+    ],
+    [
+        "Strawberry Crisis",
+        true,
+        false
     ]
 ]
