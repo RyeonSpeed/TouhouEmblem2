@@ -49,6 +49,14 @@
                 false
             ],
             [
+                "Fang",
+                false
+            ],
+            [
+                "Power_Strike",
+                false
+            ],
+            [
                 "Life_Gem",
                 false
             ]
@@ -70,6 +78,11 @@
         "unit_notes": [],
         "wexp_gain": {
             "Monster": [
+                false,
+                31,
+                null
+            ],
+            "Martial": [
                 false,
                 31,
                 null

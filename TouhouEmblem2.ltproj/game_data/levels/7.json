@@ -579,7 +579,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Razor_Claw",
+                        "Power_Strike",
                         false
                     ]
                 ],
@@ -651,7 +651,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Razor_Claw",
+                        "Power_Strike",
                         false
                     ]
                 ],
@@ -699,7 +699,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Razor_Claw",
+                        "Wild_Strike",
                         false
                     ]
                 ],
@@ -747,7 +747,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Razor_Claw",
+                        "Power_Strike",
                         false
                     ]
                 ],
@@ -771,7 +771,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Razor_Claw",
+                        "Whirlwind_Strike",
                         false
                     ]
                 ],
@@ -795,7 +795,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Razor_Claw",
+                        "Wild_Strike",
                         false
                     ]
                 ],

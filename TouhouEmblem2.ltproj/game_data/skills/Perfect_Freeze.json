@@ -2,7 +2,7 @@
     {
         "nid": "Perfect_Freeze",
         "name": "Perfect Freeze",
-        "desc": "Res% chance to apply -5 AS, -4 Mov on the enemy for 2 turns.",
+        "desc": "Applies -2 AS, -99 Mov on the enemy for 2 turns. +30 Hit.",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,
@@ -10,16 +10,12 @@
         ],
         "components": [
             [
-                "proc_rate",
-                "MAGIC_DEFENSE"
-            ],
-            [
-                "give_status_after_hit",
+                "give_status_after_strike",
                 "Frozen_1"
             ],
             [
-                "ability_indicator",
-                null
+                "hit",
+                30
             ]
         ]
     }

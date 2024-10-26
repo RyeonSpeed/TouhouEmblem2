@@ -5,7 +5,7 @@
         "desc": "A dollmaking magician who resides in the Forest of Magic. She is a reticient but helpful person who specializes in puppetry.",
         "variant": null,
         "level": 8,
-        "klass": "Stringless",
+        "klass": "Puppeteer",
         "tags": [],
         "bases": {
             "HP": 26,
@@ -54,6 +54,10 @@
             [
                 1,
                 "String_Commander"
+            ],
+            [
+                1,
+                "Puppet_Assault"
             ]
         ],
         "unit_notes": [],

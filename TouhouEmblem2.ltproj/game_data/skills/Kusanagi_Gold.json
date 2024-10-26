@@ -16,6 +16,10 @@
             [
                 "event_after_combat_when_hit",
                 "Global RinnosukeDamage"
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

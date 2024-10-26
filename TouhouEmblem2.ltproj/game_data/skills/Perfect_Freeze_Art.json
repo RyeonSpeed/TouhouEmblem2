@@ -1,0 +1,34 @@
+[
+    {
+        "nid": "Perfect_Freeze_Art",
+        "name": "Perfect Freeze",
+        "desc": "Applies -2 AS, -99 Mov on the enemy for 2 turns. +30 Hit.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            2,
+            8
+        ],
+        "components": [
+            [
+                "combat_art_indicator",
+                null
+            ],
+            [
+                "combat_art",
+                "Perfect_Freeze"
+            ],
+            [
+                "build_charge_start_charged",
+                4
+            ],
+            [
+                "allowed_weapons",
+                "item_system.weapon_type(unit, item) in ['Sword', 'Lance', 'Axe', 'Martial']"
+            ],
+            [
+                "combat_charge_increase",
+                1
+            ]
+        ]
+    }
+]

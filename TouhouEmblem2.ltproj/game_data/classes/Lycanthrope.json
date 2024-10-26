@@ -125,6 +125,11 @@
                 true,
                 31,
                 null
+            ],
+            "Martial": [
+                true,
+                31,
+                null
             ]
         },
         "icon_nid": null,

@@ -16,6 +16,10 @@
             [
                 "ability_indicator",
                 null
+            ],
+            [
+                "damage_multiplier",
+                1.5
             ]
         ]
     }

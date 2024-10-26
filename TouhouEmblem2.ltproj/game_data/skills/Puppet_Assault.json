@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Puppet_Assault",
+        "name": "Puppet Assault",
+        "desc": "At the start of the level, Alice will summon Shanghai and Hourai to assist her in battle. They will not respawn until next chapter if killed.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            3,
+            2
+        ],
+        "components": [
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

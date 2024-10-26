@@ -1,0 +1,39 @@
+[
+    {
+        "nid": "Doll_Coordination",
+        "name": "Doll Coordination",
+        "desc": "When within 3 spaces of Alice, Shanghai/Hourai gain +3 Def/Res, 20 Avoid, and +2 Defense Speed.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            3,
+            2
+        ],
+        "components": [
+            [
+                "avoid",
+                20
+            ],
+            [
+                "defense_speed",
+                2
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "DEF",
+                        3
+                    ],
+                    [
+                        "RES",
+                        3
+                    ]
+                ]
+            ],
+            [
+                "condition",
+                "u('Alice').position in get_allies_within_distance(unit, 3)"
+            ]
+        ]
+    }
+]

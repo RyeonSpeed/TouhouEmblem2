@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Parry_Effect",
+        "name": "Parry",
+        "desc": "Skill% chance to negate an attack.",
+        "icon_nid": "skillicons2_1",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "resist",
+                99
+            ],
+            [
+                "hidden",
+                null
+            ]
+        ]
+    }
+]

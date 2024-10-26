@@ -5,7 +5,7 @@
         "desc": "A sorcerer who can summon helpers to assist them in battle.\nTags: Magic",
         "tier": 1,
         "movement_group": "Mages",
-        "promotes_from": "Stringless",
+        "promotes_from": "Puppeteer",
         "turns_into": [],
         "tags": [
             "Magic"
@@ -119,6 +119,11 @@
                 251
             ],
             "Monster": [
+                false,
+                0,
+                null
+            ],
+            "Martial": [
                 false,
                 0,
                 null

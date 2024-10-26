@@ -23,11 +23,15 @@
             ],
             [
                 "allowed_weapons",
-                "item_system.weapon_type(unit, item) in ['Sword', 'Lance', 'Axe', 'Bow', 'Anima', 'Dark', 'Light', 'Monster']"
+                "item_system.weapon_type(unit, item) in ['Sword', 'Lance', 'Axe', 'Martial']"
             ],
             [
                 "combat_art_indicator",
                 null
+            ],
+            [
+                "limit_maximum_range",
+                1
             ]
         ]
     }
