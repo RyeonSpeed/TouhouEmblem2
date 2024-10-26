@@ -51,6 +51,10 @@
                 false
             ],
             [
+                "Whirlwind_Strike",
+                false
+            ],
+            [
                 "Maple_Shield",
                 false
             ]
@@ -68,6 +72,11 @@
         "unit_notes": [],
         "wexp_gain": {
             "Monster": [
+                false,
+                71,
+                null
+            ],
+            "Martial": [
                 false,
                 71,
                 null

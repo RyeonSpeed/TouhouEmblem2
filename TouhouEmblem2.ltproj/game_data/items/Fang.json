@@ -2,7 +2,7 @@
     {
         "nid": "Fang",
         "name": "Fang",
-        "desc": "",
+        "desc": "Skill% chance to inflict bleeding. Recurring.",
         "icon_nid": "the2icons",
         "icon_index": [
             5,
@@ -23,7 +23,7 @@
             ],
             [
                 "damage",
-                5
+                7
             ],
             [
                 "hit",
@@ -34,16 +34,12 @@
                 5
             ],
             [
-                "locked",
-                null
-            ],
-            [
                 "wexp",
                 0
             ],
             [
                 "crit",
-                0
+                10
             ],
             [
                 "min_range",
@@ -56,6 +52,29 @@
             [
                 "fatigue",
                 1
+            ],
+            [
+                "status_on_equip",
+                "Bleeding_Strike"
+            ],
+            [
+                "c_uses",
+                15
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "weapon_rank",
+                "D"
+            ],
+            [
+                "weapon_type",
+                "Martial"
             ]
         ]
     }

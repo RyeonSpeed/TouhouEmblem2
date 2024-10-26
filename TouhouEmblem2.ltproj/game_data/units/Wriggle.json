@@ -11,7 +11,7 @@
             "HP": 23,
             "STR": 7,
             "MAG": 2,
-            "SKL": 4,
+            "SKL": 7,
             "SPD": 10,
             "LCK": 8,
             "DEF": 5,
@@ -45,7 +45,7 @@
         },
         "starting_items": [
             [
-                "Flame_Lance",
+                "Iron_Lance",
                 false
             ],
             [
@@ -65,6 +65,10 @@
             [
                 1,
                 "Infest"
+            ],
+            [
+                1,
+                "Illuminate"
             ]
         ],
         "unit_notes": [],

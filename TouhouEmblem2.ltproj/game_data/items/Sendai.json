@@ -1,8 +1,8 @@
 [
     {
-        "nid": "Sharp_Claw",
-        "name": "Sharp Claw",
-        "desc": "",
+        "nid": "Sendai",
+        "name": "Sendai's Bandage",
+        "desc": "Grants the combat art \"Hakurei Boxing Higi\". Recurring.",
         "icon_nid": "the2icons",
         "icon_index": [
             5,
@@ -23,19 +23,15 @@
             ],
             [
                 "damage",
-                14
+                10
             ],
             [
                 "hit",
-                65
+                75
             ],
             [
                 "weight",
-                14
-            ],
-            [
-                "locked",
-                null
+                8
             ],
             [
                 "wexp",
@@ -43,7 +39,7 @@
             ],
             [
                 "crit",
-                0
+                15
             ],
             [
                 "min_range",
@@ -59,11 +55,26 @@
             ],
             [
                 "weapon_type",
-                "Monster"
+                "Martial"
             ],
             [
                 "weapon_rank",
-                "E"
+                "S"
+            ],
+            [
+                "c_uses",
+                30
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "status_on_equip",
+                "Hakurei_Boxing_Higi"
             ]
         ]
     }

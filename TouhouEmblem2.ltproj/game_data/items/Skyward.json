@@ -1,0 +1,102 @@
+[
+    {
+        "nid": "Skyward",
+        "name": "Skyward",
+        "desc": "+6 Attack Speed. -4 Def/Res. Recurring. Brave.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            5,
+            8
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "damage",
+                9
+            ],
+            [
+                "hit",
+                100
+            ],
+            [
+                "weight",
+                6
+            ],
+            [
+                "wexp",
+                0
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                1
+            ],
+            [
+                "fatigue",
+                1
+            ],
+            [
+                "weapon_type",
+                "Martial"
+            ],
+            [
+                "weapon_rank",
+                "A"
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "DEF",
+                        -4
+                    ],
+                    [
+                        "RES",
+                        -4
+                    ]
+                ]
+            ],
+            [
+                "value",
+                2200
+            ],
+            [
+                "brave",
+                null
+            ],
+            [
+                "c_uses",
+                12
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "status_on_equip",
+                "Whirlwind_Strike_1"
+            ]
+        ]
+    }
+]

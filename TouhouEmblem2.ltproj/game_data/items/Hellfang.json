@@ -2,7 +2,7 @@
     {
         "nid": "Hellfang",
         "name": "Hellfang",
-        "desc": "",
+        "desc": "Inflicts Burning on strike. Recurring",
         "icon_nid": "the2icons",
         "icon_index": [
             5,
@@ -34,10 +34,6 @@
                 8
             ],
             [
-                "locked",
-                null
-            ],
-            [
                 "wexp",
                 0
             ],
@@ -56,6 +52,29 @@
             [
                 "fatigue",
                 1
+            ],
+            [
+                "weapon_type",
+                "Martial"
+            ],
+            [
+                "weapon_rank",
+                "A"
+            ],
+            [
+                "status_on_hit",
+                "Burning"
+            ],
+            [
+                "c_uses",
+                10
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
             ]
         ]
     }

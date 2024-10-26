@@ -2,7 +2,7 @@
     {
         "nid": "Razor_Claw",
         "name": "Razor Claw",
-        "desc": "",
+        "desc": "Recurring.",
         "icon_nid": "the2icons",
         "icon_index": [
             5,
@@ -31,11 +31,7 @@
             ],
             [
                 "weight",
-                8
-            ],
-            [
-                "locked",
-                null
+                7
             ],
             [
                 "wexp",
@@ -59,11 +55,26 @@
             ],
             [
                 "weapon_type",
-                "Monster"
+                "Martial"
             ],
             [
                 "weapon_rank",
                 "E"
+            ],
+            [
+                "c_uses",
+                30
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "value",
+                300
             ]
         ]
     }

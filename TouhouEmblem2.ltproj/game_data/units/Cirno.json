@@ -25,7 +25,7 @@
             "MAG": 29,
             "SKL": 9,
             "SPD": 49,
-            "LCK": 9,
+            "LCK": 99,
             "DEF": 29,
             "RES": 49,
             "CON": 9,
@@ -45,11 +45,11 @@
         },
         "starting_items": [
             [
-                "Flamberge",
+                "Rapier",
                 false
             ],
             [
-                "Steel_Sword",
+                "Frostmourn",
                 false
             ],
             [
@@ -64,7 +64,7 @@
             ],
             [
                 1,
-                "Perfect_Freeze"
+                "Perfect_Freeze_Art"
             ]
         ],
         "unit_notes": [],

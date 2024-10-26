@@ -65,7 +65,7 @@
             "give_item;Rin;Flux;no_banner",
             "else",
             "end",
-            "if;'Monster' in unit_funcs.usable_wtypes(u('Rin'))",
+            "if;'Martial' in unit_funcs.usable_wtypes(u('Rin'))",
             "give_item;Rin;Razor_Claw;no_banner",
             "else",
             "end",

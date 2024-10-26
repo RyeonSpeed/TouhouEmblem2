@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Puppet Assault",
+        "trigger": "level_start",
+        "level_nid": null,
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "if;u('Alice') and u('Alice').position",
+            "game_var;AlicePosition;u('Alice').position",
+            "game_var;AliceLevel;u('Alice').level",
+            "load_unit;Shanghai;player",
+            "load_unit;Hourai;player",
+            "add_unit;Shanghai;{v:AlicePosition};warp;closest",
+            "add_unit;Hourai;{v:AlicePosition};warp;closest",
+            "autolevel_to;Shanghai;{v:AliceLevel}",
+            "autolevel_to;Hourai;{v:AliceLevel}",
+            "end"
+        ],
+        "nid": "Global Puppet Assault"
+    }
+]

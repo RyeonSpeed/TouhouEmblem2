@@ -260,21 +260,8 @@
         ]
     },
     {
-        "nid": "Default",
-        "name": "Consumable",
-        "force_melee_anim": false,
-        "rank_bonus": [],
-        "advantage": [],
-        "disadvantage": [],
-        "icon_nid": "skillicons_1",
-        "icon_index": [
-            9,
-            0
-        ]
-    },
-    {
-        "nid": "Monster",
-        "name": "Monster",
+        "nid": "Martial",
+        "name": "Martial",
         "force_melee_anim": false,
         "rank_bonus": [
             {
@@ -344,6 +331,19 @@
         "icon_index": [
             0,
             1
+        ]
+    },
+    {
+        "nid": "Default",
+        "name": "Consumable",
+        "force_melee_anim": false,
+        "rank_bonus": [],
+        "advantage": [],
+        "disadvantage": [],
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            9,
+            0
         ]
     }
 ]

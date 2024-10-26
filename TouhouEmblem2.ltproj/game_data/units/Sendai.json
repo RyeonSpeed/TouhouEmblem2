@@ -1,0 +1,44 @@
+[
+    {
+        "nid": "Sendai",
+        "name": "Sendai",
+        "desc": "",
+        "variant": null,
+        "level": 1,
+        "klass": "Werewolf",
+        "tags": [],
+        "bases": {
+            "HP": 55,
+            "STR": 22,
+            "MAG": 24,
+            "SKL": 17,
+            "SPD": 18,
+            "LCK": 11,
+            "DEF": 13,
+            "RES": 23,
+            "CON": 10,
+            "MOV": 6
+        },
+        "growths": {},
+        "stat_cap_modifiers": {},
+        "starting_items": [
+            [
+                "Sendai",
+                false
+            ]
+        ],
+        "learned_skills": [],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Martial": [
+                false,
+                251,
+                null
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "",
+        "affinity": "Fire",
+        "fields": []
+    }
+]

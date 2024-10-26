@@ -1,8 +1,8 @@
 [
     {
-        "nid": "Stringless",
-        "name": "Stringless",
-        "desc": "A dollmaker who is unable to control dolls at the moment.\nTags: Magic",
+        "nid": "Puppeteer",
+        "name": "Puppeteer",
+        "desc": "An adept at controlling dolls for combat.\nTags: Magic",
         "tier": 1,
         "movement_group": "Mages",
         "promotes_from": null,
@@ -114,6 +114,11 @@
                 true,
                 1,
                 121
+            ],
+            "Martial": [
+                false,
+                0,
+                null
             ],
             "Default": [
                 false,

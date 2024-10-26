@@ -60,8 +60,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    6,
-                    5
+                    7,
+                    8
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -96,7 +96,7 @@
                 "nid": "101",
                 "variant": null,
                 "level": 1,
-                "klass": "Vagrant_A",
+                "klass": "Fighter",
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -111,7 +111,7 @@
                 "ai_group": "",
                 "starting_position": [
                     6,
-                    11
+                    10
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -120,7 +120,7 @@
                 "nid": "102",
                 "variant": null,
                 "level": 1,
-                "klass": "Vagrant_A",
+                "klass": "Fighter",
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -135,7 +135,7 @@
                 "ai_group": "",
                 "starting_position": [
                     8,
-                    11
+                    10
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -158,8 +158,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    14,
-                    5
+                    11,
+                    16
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -206,8 +206,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    7,
-                    12
+                    8,
+                    20
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -278,8 +278,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    5,
-                    15
+                    7,
+                    11
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -358,8 +358,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    14,
-                    16
+                    10,
+                    17
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -383,7 +383,7 @@
                 "ai_group": "",
                 "starting_position": [
                     13,
-                    17
+                    5
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -406,7 +406,7 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    7,
+                    6,
                     20
                 ],
                 "starting_traveler": null,
