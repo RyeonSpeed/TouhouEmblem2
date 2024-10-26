@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "Great_Funeral_Concert",
+        "name": "Great Funeral Concert",
+        "desc": "Only able to be used when all 3 Prismriver Sisters are within 2 tiles of each other. Attacks in a 3 tile radius AoE that only targets enemies. ",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            2,
+            7
+        ],
+        "components": [
+            [
+                "combat_art_indicator",
+                null
+            ],
+            [
+                "combat_art",
+                "Great_Funeral_Concert_1"
+            ],
+            [
+                "drain_charge",
+                1
+            ],
+            [
+                "condition",
+                "len([x for x in get_units_within_distance(unit.position, dist=2) if x.nid in ['Lyrica', 'Merlin', 'Lunasa']]) == 3"
+            ]
+        ]
+    }
+]

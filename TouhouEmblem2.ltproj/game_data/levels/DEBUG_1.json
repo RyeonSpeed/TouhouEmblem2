@@ -117,7 +117,7 @@
                 "ai_group": "",
                 "starting_position": [
                     17,
-                    12
+                    18
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -205,8 +205,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    12,
-                    14
+                    18,
+                    20
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -373,11 +373,87 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
+                    19,
+                    18
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Koakuma",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
                     14,
+                    19
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "108",
+                "variant": null,
+                "level": 9,
+                "klass": "Acolyte",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    18,
                     17
                 ],
                 "starting_traveler": null,
                 "generic": true
+            },
+            {
+                "nid": "Merlin",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    18,
+                    19
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Lyrica",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    19,
+                    20
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Lunasa",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    17,
+                    20
+                ],
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [

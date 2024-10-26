@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Great_Funeral_Concert_1",
+        "name": "Great Funeral Concert",
+        "desc": "Only able to be used when all 3 Prismriver Sisters are within 2 tiles of each other. Attacks in a 3 tile radius AoE attack that only targets enemies. Usable only once per map.",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "item_override",
+                "Great_Funeral_Concert"
+            ]
+        ]
+    }
+]

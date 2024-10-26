@@ -1,7 +1,7 @@
 [
     {
-        "nid": "StarLaser",
-        "name": "Star Laser",
+        "nid": "Great_Funeral_Concert",
+        "name": "Great_Funeral_Concert",
         "desc": "",
         "icon_nid": null,
         "icon_index": [
@@ -10,12 +10,12 @@
         ],
         "components": [
             [
-                "line_aoe",
-                null
+                "enemy_blast_aoe",
+                3
             ],
             [
-                "max_range",
-                3
+                "target_enemy",
+                null
             ],
             [
                 "no_double",

@@ -3,10 +3,10 @@
         "nid": "Time_Token",
         "name": "Time Tokens",
         "desc": "Builds up a charge whenever User initates combat. When User hits 5 time tokens, they are all spent to activate Luna Dial.",
-        "icon_nid": "skillicons3",
+        "icon_nid": "skillicons102524(1)",
         "icon_index": [
-            0,
-            4
+            1,
+            0
         ],
         "components": [
             [

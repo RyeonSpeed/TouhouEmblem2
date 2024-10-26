@@ -138,5 +138,9 @@
     {
         "nid": "YATADERA",
         "expression": "MAG/2"
+    },
+    {
+        "nid": "ONE",
+        "expression": "1"
     }
 ]

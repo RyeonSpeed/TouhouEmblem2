@@ -2,7 +2,7 @@
     {
         "nid": "Illuminate",
         "name": "Illuminate",
-        "desc": "Units with dark magic equipped in a 2 tile radius of Wriggle have their damage halved.",
+        "desc": "Units with dark magic equipped in a 2 tile radius of the unit have their damage halved.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             3,

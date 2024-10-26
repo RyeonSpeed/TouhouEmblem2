@@ -11,6 +11,8 @@
             "if;u('Alice') and u('Alice').position",
             "game_var;AlicePosition;u('Alice').position",
             "game_var;AliceLevel;u('Alice').level",
+            "resurrect;Hourai",
+            "resurrect;Shanghai",
             "load_unit;Shanghai;player",
             "load_unit;Hourai;player",
             "add_unit;Shanghai;{v:AlicePosition};warp;closest",

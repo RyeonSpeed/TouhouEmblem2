@@ -16,6 +16,10 @@
             [
                 "event_after_combat",
                 "Global TewiGamble"
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

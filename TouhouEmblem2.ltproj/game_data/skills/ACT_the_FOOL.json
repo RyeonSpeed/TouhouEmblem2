@@ -1,17 +1,17 @@
 [
     {
-        "nid": "Salvation",
-        "name": "Salvation",
-        "desc": "If this unit's HP <= 50%, all units within a 2 tile range gain Optimism.",
-        "icon_nid": null,
+        "nid": "ACT_the_FOOL",
+        "name": "Act the FOOL HAHAHA",
+        "desc": "If this unit's HP >= 50%, all units within a 2 tile range gain Optimism.",
+        "icon_nid": "skillicons_1",
         "icon_index": [
-            0,
-            0
+            3,
+            2
         ],
         "components": [
             [
                 "condition",
-                "unit.get_hp() <= unit.get_stat('HP')/2"
+                "unit.get_hp() >= unit.get_stat('HP')/2"
             ],
             [
                 "aura_range",

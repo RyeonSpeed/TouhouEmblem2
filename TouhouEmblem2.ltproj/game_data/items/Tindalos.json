@@ -86,6 +86,10 @@
             [
                 "enemy_blast_aoe",
                 2
+            ],
+            [
+                "cannot_be_countered",
+                null
             ]
         ]
     }
