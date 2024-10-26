@@ -11,7 +11,7 @@
         ],
         "bases": {
             "DEF": 8,
-            "SPD": 7,
+            "SPD": 5,
             "MOV": 5,
             "STR": 3,
             "SKL": 9,
@@ -19,7 +19,7 @@
             "RES": 3,
             "HP": 30,
             "CON": 9,
-            "MAG": 11
+            "MAG": 10
         },
         "growths": {
             "DEF": 50,

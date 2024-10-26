@@ -101,7 +101,7 @@
             {
                 "nid": "103",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Acolyte",
                 "faction": "Youkai",
                 "starting_items": [
@@ -190,7 +190,7 @@
             {
                 "nid": "101",
                 "variant": null,
-                "level": 5,
+                "level": 2,
                 "klass": "Vagrant_A",
                 "faction": "Youkai",
                 "starting_items": [
@@ -206,7 +206,7 @@
                 "ai_group": "",
                 "starting_position": [
                     18,
-                    20
+                    19
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -363,7 +363,7 @@
             {
                 "nid": "107",
                 "variant": null,
-                "level": 8,
+                "level": 2,
                 "klass": "Doll_L",
                 "faction": "Youkai",
                 "starting_items": [],
@@ -395,7 +395,7 @@
             {
                 "nid": "108",
                 "variant": null,
-                "level": 9,
+                "level": 2,
                 "klass": "Acolyte",
                 "faction": "Youkai",
                 "starting_items": [
@@ -423,8 +423,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    18,
-                    19
+                    11,
+                    20
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -436,8 +436,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    19,
-                    20
+                    12,
+                    21
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -449,8 +449,34 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    17,
-                    20
+                    10,
+                    21
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Rumia",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    19,
+                    13
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Letty",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    18,
+                    18
                 ],
                 "starting_traveler": null,
                 "generic": false

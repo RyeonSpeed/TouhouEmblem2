@@ -14,19 +14,19 @@
             "SKL": 7,
             "SPD": 10,
             "LCK": 8,
-            "DEF": 5,
+            "DEF": 6,
             "RES": 6,
             "CON": 8,
             "MOV": 7
         },
         "growths": {
             "HP": 70,
-            "STR": 40,
+            "STR": 45,
             "MAG": 35,
             "SKL": 40,
-            "SPD": 50,
+            "SPD": 55,
             "LCK": 45,
-            "DEF": 20,
+            "DEF": 35,
             "RES": 35,
             "CON": 0,
             "MOV": 0

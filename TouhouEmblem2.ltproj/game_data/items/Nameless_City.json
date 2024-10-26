@@ -2,7 +2,7 @@
     {
         "nid": "Nameless_City",
         "name": "Nameless City",
-        "desc": "Prf Kosuzu. Prevents Kosuzu from taking damage until next turn after being used and also makes enemies more likely to target her.",
+        "desc": "Prf Kosuzu. Allows her to temporarily prevent herself from taking damage for a turn.",
         "icon_nid": "the2icons",
         "icon_index": [
             4,
@@ -33,7 +33,7 @@
             ],
             [
                 "damage",
-                2
+                5
             ],
             [
                 "hit",
@@ -76,12 +76,8 @@
                 1
             ],
             [
-                "cooldown",
-                3
-            ],
-            [
-                "self_status_on_hit",
-                "NamelessCityEffect"
+                "status_on_equip",
+                "Nameless_City"
             ]
         ]
     }

@@ -87,11 +87,11 @@
                 "nid": "101",
                 "variant": null,
                 "level": 1,
-                "klass": "Lancer",
+                "klass": "Fighter",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Iron_Lance",
+                        "Iron_Axe",
                         false
                     ]
                 ],
@@ -382,8 +382,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    11,
-                    15
+                    16,
+                    14
                 ],
                 "starting_traveler": null,
                 "generic": true

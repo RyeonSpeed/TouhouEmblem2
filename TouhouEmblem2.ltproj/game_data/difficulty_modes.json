@@ -258,7 +258,7 @@
         "nid": "Lunatic",
         "name": "Lunatic",
         "color": "red",
-        "permadeath_choice": "Classic",
+        "permadeath_choice": "Player Choice",
         "growths_choice": "Player Choice",
         "rng_choice": "True Hit",
         "player_bases": {

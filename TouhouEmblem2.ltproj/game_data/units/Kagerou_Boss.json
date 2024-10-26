@@ -11,9 +11,9 @@
         ],
         "bases": {
             "DEF": 5,
-            "SPD": 14,
+            "SPD": 10,
             "MOV": 6,
-            "STR": 8,
+            "STR": 7,
             "SKL": 8,
             "LCK": 10,
             "RES": 3,

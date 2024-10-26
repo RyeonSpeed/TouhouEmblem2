@@ -1,22 +1,14 @@
 [
     {
-        "nid": "NamelessCityEffect",
-        "name": "NamelessCityEffect",
-        "desc": "",
-        "icon_nid": null,
+        "nid": "Protected",
+        "name": "Protected",
+        "desc": "User is protected by youma arts from taking damage for one turn.",
+        "icon_nid": "skillicons102524(1)",
         "icon_index": [
-            0,
-            0
+            1,
+            2
         ],
         "components": [
-            [
-                "hidden",
-                null
-            ],
-            [
-                "resist_multiplier",
-                0.0
-            ],
             [
                 "time",
                 1
@@ -32,6 +24,10 @@
                     0,
                     127
                 ]
+            ],
+            [
+                "resist_multiplier",
+                "0"
             ]
         ]
     }

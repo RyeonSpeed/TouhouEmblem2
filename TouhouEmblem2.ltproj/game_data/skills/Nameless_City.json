@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "Nameless_City",
+        "name": "Nameless City",
+        "desc": "Prevents user from taking damage for one turn and makes them more likely to be targeted. Recharges in 3 turns.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            7,
+            0
+        ],
+        "components": [
+            [
+                "build_charge_start_charged",
+                3
+            ],
+            [
+                "upkeep_charge_increase",
+                1
+            ],
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "ability",
+                "NamelessCity"
+            ]
+        ]
+    }
+]

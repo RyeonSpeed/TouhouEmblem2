@@ -8,13 +8,13 @@
         "klass": "Lord_L",
         "tags": [],
         "bases": {
-            "HP": 21,
-            "STR": 7,
+            "HP": 22,
+            "STR": 8,
             "MAG": 3,
             "SKL": 6,
-            "SPD": 7,
+            "SPD": 8,
             "LCK": 5,
-            "DEF": 6,
+            "DEF": 8,
             "CON": 8,
             "MOV": 5,
             "RES": 5

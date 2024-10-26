@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Mask_Change",
+        "name": "Mask Change",
+        "desc": "At the start of each turn, Kokoro will switch between a sequence of masks, each giving a unique effect to her.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            2,
+            6
+        ],
+        "components": [
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]
