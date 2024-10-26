@@ -3,10 +3,10 @@
         "nid": "Jack_The_Ripper",
         "name": "Jack The Ripper",
         "desc": "User cannot be countered, but also cannot move and attack in the same action.",
-        "icon_nid": "skillicons3",
+        "icon_nid": "skillicons102524(1)",
         "icon_index": [
-            1,
-            1
+            0,
+            0
         ],
         "components": [
             [

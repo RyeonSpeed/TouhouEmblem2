@@ -748,5 +748,18 @@
     {
         "nid": "moreskillicons",
         "subicon_dict": {}
+    },
+    {
+        "nid": "skillicons102524(1)",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "skillicons102524",
+        "subicon_dict": {
+            "skillicons102524 0, 1": [
+                0,
+                1
+            ]
+        }
     }
 ]

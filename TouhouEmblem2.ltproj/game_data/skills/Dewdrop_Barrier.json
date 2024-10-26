@@ -3,9 +3,9 @@
         "nid": "Dewdrop_Barrier",
         "name": "Dewdrop Barrier",
         "desc": "When under 50% HP, user takes 50% less damage and restores 50% of damage dealt.",
-        "icon_nid": "skillicons_1",
+        "icon_nid": "skillicons102524(1)",
         "icon_index": [
-            3,
+            0,
             2
         ],
         "components": [

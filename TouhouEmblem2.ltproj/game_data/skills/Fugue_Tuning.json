@@ -1,0 +1,35 @@
+[
+    {
+        "nid": "Fugue_Tuning",
+        "name": "Fugue Tuning",
+        "desc": "When within 2 tiles of Lunasa and Merlin, +15 Crit and +3 Speed.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            2,
+            5
+        ],
+        "components": [
+            [
+                "condition",
+                "len([x for x in get_units_within_distance(unit.position, dist=2) if x.nid in ['Lunasa', 'Merlin']]) == 2"
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "SPD",
+                        3
+                    ]
+                ]
+            ],
+            [
+                "crit",
+                15
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

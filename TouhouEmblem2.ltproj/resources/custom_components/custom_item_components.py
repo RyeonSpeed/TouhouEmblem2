@@ -28,3 +28,26 @@ class KindaMagic(ItemComponent):
 
     def resist_formula(self, unit, item):
         return 'MAGIC_DEFENSE'
+
+class AllyBlastAOEExceptUnit(ItemComponent):
+    nid = 'ally_blast_aoe_except_unit'
+    desc = "Gives Blast AOE that only hits allies except self"
+    tag = ItemTags.AOE
+    
+    expose = ComponentType.Equation  # Radius
+    value = None
+    
+    def splash(self, unit, item, position) -> tuple:
+        ranges = set(range(self._get_power(unit)))
+        splash = game.target_system.find_manhattan_spheres(ranges, position[0], position[1])
+        splash = {pos for pos in splash if game.tilemap.check_bounds(pos)}
+        from app.engine import skill_system
+        splash = [game.board.get_unit(s) for s in splash]
+        splash = [s.position for s in splash if s and skill_system.check_ally(unit, s) and s is not unit]
+        return None, splash
+
+    def _get_power(self, unit) -> int:
+        from app.engine import equations
+        value = equations.parser.get(self.value, unit)
+        empowered_splash = skill_system.empower_splash(unit)
+        return value + 1 + empowered_splash

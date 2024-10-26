@@ -272,11 +272,7 @@
     "Global_Summon_Soldiers",
     "Global_Support_Gain",
     "Global_TewiGamble",
-<<<<<<< Updated upstream
-    "Global_Puppet_Assault"
-=======
-    "7_Fatigue_Disappear",
-    "9_Rout",
+    "Global_Puppet_Assault",
+    "Global_Puppet_Assault_1",
     "Global_Mokou_Death"
->>>>>>> Stashed changes
 ]

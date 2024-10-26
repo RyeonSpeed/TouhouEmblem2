@@ -4,41 +4,69 @@
         "name": "Lyrica",
         "desc": "",
         "variant": null,
-        "level": 1,
+        "level": 7,
         "klass": "Bow_Rider",
         "tags": [],
         "bases": {
-            "HP": 20,
-            "STR": 5,
+            "HP": 25,
+            "STR": 8,
             "MAG": 0,
-            "SKL": 4,
-            "SPD": 5,
-            "LCK": 0,
-            "DEF": 5,
-            "RES": 0,
+            "SKL": 8,
+            "SPD": 11,
+            "LCK": 7,
+            "DEF": 7,
+            "RES": 4,
             "CON": 9,
             "MOV": 7
         },
         "growths": {
             "HP": 75,
-            "STR": 35,
+            "STR": 40,
             "MAG": 20,
-            "SKL": 35,
-            "SPD": 35,
+            "SKL": 45,
+            "SPD": 40,
             "LCK": 30,
-            "DEF": 25,
+            "DEF": 35,
             "RES": 15,
             "CON": 0,
             "MOV": 0
         },
         "stat_cap_modifiers": {},
-        "starting_items": [],
-        "learned_skills": [],
+        "starting_items": [
+            [
+                "Killer_Bow",
+                false
+            ],
+            [
+                "Illusion_Bow",
+                false
+            ],
+            [
+                "Poppet",
+                false
+            ]
+        ],
+        "learned_skills": [
+            [
+                1,
+                "Great_Funeral_Concert"
+            ],
+            [
+                1,
+                "Fugue_Tuning"
+            ]
+        ],
         "unit_notes": [],
-        "wexp_gain": {},
+        "wexp_gain": {
+            "Bow": [
+                false,
+                71,
+                null
+            ]
+        },
         "alternate_classes": [],
         "portrait_nid": "Lyrica",
-        "affinity": null,
+        "affinity": "Anima",
         "fields": []
     }
 ]

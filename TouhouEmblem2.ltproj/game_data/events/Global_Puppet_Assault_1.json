@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Puppet Assault_1",
+        "trigger": "level_end",
+        "level_nid": null,
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "kill_unit;Shanghai",
+            "kill_unit;Hourai"
+        ],
+        "nid": "Global Puppet Assault_1"
+    }
+]
