@@ -259,7 +259,6 @@
     "Global_Mercenary_Camp",
     "Global_MokouRecover",
     "Global_Mokou_Aura",
-    "Global_Mokou_Death",
     "Global_Mokou_Recoil",
     "Global_PatchyReset",
     "Global_Record_Position",
@@ -273,5 +272,11 @@
     "Global_Summon_Soldiers",
     "Global_Support_Gain",
     "Global_TewiGamble",
+<<<<<<< Updated upstream
     "Global_Puppet_Assault"
+=======
+    "7_Fatigue_Disappear",
+    "9_Rout",
+    "Global_Mokou_Death"
+>>>>>>> Stashed changes
 ]

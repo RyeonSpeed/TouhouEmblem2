@@ -2,7 +2,7 @@
     {
         "nid": "Hand_Axe",
         "name": "Hand Axe",
-        "desc": "",
+        "desc": "Used primarily as a tool for woodcarving, but can also be used as a weapon in a pinch.",
         "icon_nid": "throwing",
         "icon_index": [
             0,

@@ -2,7 +2,7 @@
     {
         "nid": "Recover",
         "name": "Recover",
-        "desc": "Fully restore's an ally's HP",
+        "desc": "Has healing capabilities almost comparable to the Hourai Elixir. Fully restore's an ally's HP",
         "icon_nid": "the2icons",
         "icon_index": [
             6,

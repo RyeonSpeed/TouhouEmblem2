@@ -2,7 +2,7 @@
     {
         "nid": "Ciggie_Box",
         "name": "Ciggie Box",
-        "desc": "Allows user access to the entire fire magic library, but they take severe damage in recoil for using a spell. Only one accessory can be equipped at a time.",
+        "desc": "Sometimes being immortal is boring. Allows user access to the entire fire magic library, but they take severe damage in recoil for using a spell. Only one accessory can be equipped at a time.",
         "icon_nid": "accessories",
         "icon_index": [
             0,

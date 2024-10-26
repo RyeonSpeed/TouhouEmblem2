@@ -2,7 +2,7 @@
     {
         "nid": "Kappatech_Shield",
         "name": "Kappatech Shield",
-        "desc": "+8 Def when in inventory, but -4 Spd. Loses one durability per round of combat. Only one accessory can be equipped at a time.",
+        "desc": "A marvel of innovation created limitedly in Kappa Workshops. +8 Def when in inventory, but -4 Spd. Loses one durability per round of combat. Only one accessory can be equipped at a time.",
         "icon_nid": "accessories",
         "icon_index": [
             0,

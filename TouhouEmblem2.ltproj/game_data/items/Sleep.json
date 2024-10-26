@@ -2,7 +2,7 @@
     {
         "nid": "Sleep",
         "name": "Sleep",
-        "desc": "Enemy cannot move or attack.",
+        "desc": "An extremly controversial weapon of mass destruction. Enemy cannot move or attack.",
         "icon_nid": "Staff",
         "icon_index": [
             0,

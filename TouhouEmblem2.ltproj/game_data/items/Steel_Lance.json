@@ -2,7 +2,7 @@
     {
         "nid": "Steel_Lance",
         "name": "Steel Lance",
-        "desc": "",
+        "desc": "The reinforced tip actually makes it possible to pierce your opponent.",
         "icon_nid": "the2icons",
         "icon_index": [
             1,

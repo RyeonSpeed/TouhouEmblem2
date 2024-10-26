@@ -2,7 +2,7 @@
     {
         "nid": "Slim_Lance",
         "name": "Slim Lance",
-        "desc": "+2 Spd.",
+        "desc": "Its lightweight nature makes it somewhat faster. +2 Spd.",
         "icon_nid": "slim jims",
         "icon_index": [
             1,

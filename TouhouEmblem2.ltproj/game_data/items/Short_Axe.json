@@ -2,7 +2,7 @@
     {
         "nid": "Short_Axe",
         "name": "Short Axe",
-        "desc": "",
+        "desc": "May actually hit your target.",
         "icon_nid": "throwing",
         "icon_index": [
             0,
