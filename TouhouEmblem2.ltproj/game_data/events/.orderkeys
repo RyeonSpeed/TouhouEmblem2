@@ -212,7 +212,6 @@
     "Global_BaseSuika",
     "Global_BaseWarps",
     "Global_Bloodlust",
-    "Global_BullshitRinEvent",
     "Global_ConfirmMercHire",
     "Global_DeathAunn",
     "Global_DeathCirno",
@@ -272,11 +271,7 @@
     "Global_Summon_Soldiers",
     "Global_Support_Gain",
     "Global_TewiGamble",
-<<<<<<< Updated upstream
-    "Global_Puppet_Assault"
-=======
-    "7_Fatigue_Disappear",
-    "9_Rout",
-    "Global_Mokou_Death"
->>>>>>> Stashed changes
+    "Global_Puppet_Assault",
+    "Global_Mokou_Death",
+    "Global_BullshitRinEvent"
 ]
