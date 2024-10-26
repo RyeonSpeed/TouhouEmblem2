@@ -1,8 +1,8 @@
 [
     {
-        "nid": "Frozen",
-        "name": "Frozen",
-        "desc": "Applies -3 Spd on the enemy for 2 turns.",
+        "nid": "Frostbitten",
+        "name": "Frostbitten",
+        "desc": "Applies -2 Mov and -15 Avoid on the enemy.",
         "icon_nid": "skillicons4",
         "icon_index": [
             0,
@@ -10,15 +10,11 @@
         ],
         "components": [
             [
-                "drain_charge",
-                3
-            ],
-            [
                 "stat_change",
                 [
                     [
-                        "SPD",
-                        -3
+                        "MOV",
+                        -2
                     ]
                 ]
             ],
@@ -37,6 +33,10 @@
             [
                 "lost_on_end_chapter",
                 null
+            ],
+            [
+                "avoid",
+                -15
             ]
         ]
     }

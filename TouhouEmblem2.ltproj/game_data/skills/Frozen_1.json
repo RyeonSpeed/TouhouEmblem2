@@ -10,10 +10,6 @@
         ],
         "components": [
             [
-                "drain_charge",
-                3
-            ],
-            [
                 "stat_change",
                 [
                     [
@@ -41,6 +37,10 @@
             [
                 "lost_on_end_chapter",
                 null
+            ],
+            [
+                "time",
+                2
             ]
         ]
     }

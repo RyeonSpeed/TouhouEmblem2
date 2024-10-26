@@ -65,6 +65,7 @@
     "1_Armory",
     "1_Vendor",
     "1_ReimuRumiaTalk",
+    "1_MarisaRumiaTalk",
     "2_Fog",
     "3_Turn9",
     "3_Turn15",
@@ -274,7 +275,6 @@
     "Global_Puppet_Assault",
     "Global_BullshitRinEvent"
     "Global_Puppet_Assault_1",
-    "Global_Mokou_Death",
     "Global_Mokou_Death",
     "Global_BullshitRinEvent"
 ]

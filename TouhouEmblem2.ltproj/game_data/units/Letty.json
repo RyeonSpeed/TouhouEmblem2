@@ -9,10 +9,10 @@
         "tags": [],
         "bases": {
             "HP": 24,
-            "STR": 7,
+            "STR": 0,
             "MAG": 9,
             "SKL": 5,
-            "SPD": 5,
+            "SPD": 7,
             "LCK": 6,
             "DEF": 3,
             "RES": 9,
@@ -21,7 +21,7 @@
         },
         "growths": {
             "HP": 90,
-            "STR": 30,
+            "STR": 5,
             "MAG": 50,
             "SKL": 35,
             "SPD": 40,
@@ -65,6 +65,10 @@
             [
                 1,
                 "Flood_of_Frost"
+            ],
+            [
+                1,
+                "Everwinter_Snowstorm"
             ]
         ],
         "unit_notes": [],
