@@ -212,7 +212,6 @@
     "Global_BaseSuika",
     "Global_BaseWarps",
     "Global_Bloodlust",
-    "Global_BullshitRinEvent",
     "Global_ConfirmMercHire",
     "Global_DeathAunn",
     "Global_DeathCirno",
@@ -274,5 +273,7 @@
     "Global_TewiGamble",
     "Global_Puppet_Assault",
     "Global_Puppet_Assault_1",
-    "Global_Mokou_Death"
+    "Global_Mokou_Death",
+    "Global_Mokou_Death",
+    "Global_BullshitRinEvent"
 ]
