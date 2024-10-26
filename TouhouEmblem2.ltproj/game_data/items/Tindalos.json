@@ -2,7 +2,7 @@
     {
         "nid": "Tindalos",
         "name": "Tindalos",
-        "desc": "\u2606Kosuzu. Blasts targets in a 2 tile radius and has a 50% chance to inflict Bleeding on them. 3 turn cooldown.",
+        "desc": "Prf Kosuzu. Blasts targets in a 2 tile radius and has a 50% chance to inflict Bleeding on them. 3 turn cooldown.",
         "icon_nid": "the2icons",
         "icon_index": [
             4,

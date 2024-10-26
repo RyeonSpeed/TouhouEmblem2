@@ -2,7 +2,7 @@
     {
         "nid": "Dagon",
         "name": "Dagon",
-        "desc": "\u2606Kosuzu. After battle, inflicts enemy with -3 Spd/Def/Res for 2 turns. Cooldown for 2 turns.",
+        "desc": "Prf Kosuzu. After battle, inflicts enemy with -3 Spd/Def/Res for 2 turns. Cooldown for 2 turns.",
         "icon_nid": "the2icons",
         "icon_index": [
             4,
