@@ -2,7 +2,7 @@
     {
         "nid": "Misfortune_Amulet",
         "name": "Misfortune Amulet",
-        "desc": "+10 Res when in inventory, but -3 Def. Loses one durability per round of combat. Only one accessory can be equipped at a time.",
+        "desc": "Blessed (or cursed) by the misfortune goddess herself. +10 Res when in inventory, but -3 Def. Loses one durability per round of combat. Only one accessory can be equipped at a time.",
         "icon_nid": "accessories",
         "icon_index": [
             0,

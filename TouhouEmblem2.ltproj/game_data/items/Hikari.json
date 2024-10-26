@@ -2,7 +2,7 @@
     {
         "nid": "Hikari",
         "name": "Hikari",
-        "desc": "After kill, Lck% chance to obtain an Ancient Coin.",
+        "desc": "A coin said to give fortune to the user. After kill, Lck% chance to obtain an Ancient Coin.",
         "icon_nid": "LightMagic",
         "icon_index": [
             0,

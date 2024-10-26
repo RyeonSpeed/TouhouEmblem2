@@ -2,7 +2,7 @@
     {
         "nid": "Mend",
         "name": "Mend",
-        "desc": "Restores (User's MAG + 20) HP.",
+        "desc": "Potent enough to bring someone back from the brink. Restores (User's MAG + 20) HP.",
         "icon_nid": "the2icons",
         "icon_index": [
             6,

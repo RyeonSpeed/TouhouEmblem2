@@ -2,7 +2,7 @@
     {
         "nid": "Heal",
         "name": "Heal",
-        "desc": "Restores (User's MAG + 10) HP.",
+        "desc": "Very good at healing sores and bruises. Restores (User's MAG + 10) HP.",
         "icon_nid": "the2icons",
         "icon_index": [
             6,

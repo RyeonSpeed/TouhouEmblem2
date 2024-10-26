@@ -2,7 +2,7 @@
     {
         "nid": "Javelin",
         "name": "Javelin",
-        "desc": "",
+        "desc": "An everyday harpoon used by village anglers.",
         "icon_nid": "throwing",
         "icon_index": [
             0,
