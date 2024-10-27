@@ -1522,5 +1522,17 @@
             40
         ],
         "info_offset": 0
+    },
+    {
+        "nid": "SigmaRaven",
+        "blinking_offset": [
+            32,
+            24
+        ],
+        "smiling_offset": [
+            32,
+            40
+        ],
+        "info_offset": 0
     }
 ]

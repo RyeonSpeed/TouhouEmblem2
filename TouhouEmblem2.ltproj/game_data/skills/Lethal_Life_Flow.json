@@ -27,7 +27,7 @@
             ],
             [
                 "condition",
-                "False"
+                "\"Boss\" in unit2.tags"
             ],
             [
                 "allowed_weapons",

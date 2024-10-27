@@ -1,7 +1,7 @@
 [
     {
         "nid": "4",
-        "name": "Chapter 5: The Infinite Corridors",
+        "name": "Ch5: The Infinite Corridors",
         "tilemap": "Eientei Outskirts",
         "bg_tilemap": null,
         "party": "Reimu",
@@ -181,7 +181,7 @@
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Fire",
+                        "Gust",
                         false
                     ]
                 ],

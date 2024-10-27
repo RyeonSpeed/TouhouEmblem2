@@ -2,7 +2,7 @@
     {
         "nid": "Lunatic_Red_Eyes",
         "name": "Lunatic Red Eyes",
-        "desc": "Can target any unit regardless of allegiance. Berserks them for 3 turns and gives them -30 Hit/Dodge but also +50 Crit. 1-5 Range.",
+        "desc": "Can target any unit regardless of allegiance. Berserks them for 3 turns and gives them -30 Hit/Dodge but also +50 Crit. 1-5 Range. Adds fatigue equal to 40% of user's max fatigue after.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             3,
@@ -12,14 +12,6 @@
             [
                 "combat_art",
                 "Lunatic_Red_Eyes_1"
-            ],
-            [
-                "build_charge_start_charged",
-                12
-            ],
-            [
-                "combat_charge_increase",
-                1
             ],
             [
                 "combat_art_indicator",

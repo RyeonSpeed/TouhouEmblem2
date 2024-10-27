@@ -24,6 +24,10 @@
             [
                 "modify_maximum_range",
                 5
+            ],
+            [
+                "event_before_combat",
+                "Global ReisenPTSD"
             ]
         ]
     }

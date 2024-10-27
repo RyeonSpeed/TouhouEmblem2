@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "Lunatic_Haze_on_Bloody_Battlefield",
+        "name": "Lunatic Haze on Bloody Battlefield",
+        "desc": "+DMG/AS/DMG taken equal to (Fatigue/Max Fatigue * 100%)/15%. If unit goes over fatigue cap, unit will be berserked.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            1,
+            4
+        ],
+        "components": [
+            [
+                "eval_damage",
+                "(unit.get_fatigue()/unit.get_max_fatigue() * 100)/15"
+            ],
+            [
+                "dynamic_attack_speed",
+                "(unit.get_fatigue()/unit.get_max_fatigue() * 100)/15"
+            ],
+            [
+                "dynamic_resist",
+                "-(unit.get_fatigue()/unit.get_max_fatigue() * 100)/15"
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

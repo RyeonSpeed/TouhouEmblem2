@@ -2,7 +2,7 @@
     {
         "nid": "Instinct_Versus_Desire",
         "name": "Instinct Versus Desire",
-        "desc": "+5% Mag and -5% Str growth for every tome in Tokiko's inventory. +5% Str and -5% Mag for every sword/lance/axe in Tokiko's inventory.",
+        "desc": "+5% Mag and -5% Str growth for every tome in Tokiko's inventory. +5% Str and -5% Mag for every sword/lance/axe in unit's inventory.",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,
