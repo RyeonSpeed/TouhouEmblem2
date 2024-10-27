@@ -638,6 +638,10 @@
                     [
                         "Flame_Lance",
                         false
+                    ],
+                    [
+                        "Yukkuri_M",
+                        true
                     ]
                 ],
                 "starting_skills": [],
@@ -738,6 +742,10 @@
                     [
                         "Steel_Lance",
                         false
+                    ],
+                    [
+                        "Yukkuri_R",
+                        true
                     ]
                 ],
                 "starting_skills": [],
@@ -786,6 +794,10 @@
                     [
                         "Omikuji",
                         false
+                    ],
+                    [
+                        "Yukkuri_R",
+                        true
                     ]
                 ],
                 "starting_skills": [],
@@ -2673,6 +2685,11 @@
                 }
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

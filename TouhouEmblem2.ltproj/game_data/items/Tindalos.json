@@ -33,11 +33,11 @@
             ],
             [
                 "damage",
-                5
+                10
             ],
             [
                 "hit",
-                65
+                85
             ],
             [
                 "crit",
@@ -81,7 +81,7 @@
             ],
             [
                 "cooldown",
-                4
+                3
             ],
             [
                 "enemy_blast_aoe",
