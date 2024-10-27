@@ -324,10 +324,7 @@
     "Pirate_GenericBlue",
     "Pirate_GenericRed",
     "Pirate_Rin",
-    "New_Palette",
-    "New_Palette_(1)",
     "New_Palette_2",
-    "New_Palette_3",
     "InstantFGHit_Image_3",
     "InstantFGMiss_Image_3",
     "Reisen",
@@ -340,8 +337,4 @@
     "IvaldiParticles1_Image",
     "IvaldiParticles3_Image",
     "SealingNeedlesFG_Image"
-<<<<<<< HEAD
-    "New_Palette_1"
-=======
->>>>>>> parent of 89ae196 (Revert "Reapply "huh"")
 ]

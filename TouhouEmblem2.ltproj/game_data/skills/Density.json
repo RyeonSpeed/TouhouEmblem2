@@ -10,10 +10,6 @@
         ],
         "components": [
             [
-                "dynamic_resist_multiplier",
-                "(100-(unit.get_stat('CON') * 2))/100"
-            ],
-            [
                 "ability_indicator",
                 null
             ]
