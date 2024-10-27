@@ -253,6 +253,7 @@
     "Marisa",
     "VagrantAxe_GenericBlue",
     "VagrantAxe_GenericRed",
+    "VagrantAxe_GenericGreen",
     "VagrantAxe_Rin",
     "Seiran",
     "SwordCav_GenericBlue",
@@ -266,6 +267,7 @@
     "Knight_GenericBlue",
     "Kokoro",
     "Knight_GenericRed",
+    "Knight_GenericGreen",
     "Centaur_GenericRed",
     "Archdemon_Generic",
     "Skeleton_Generic",
@@ -276,7 +278,9 @@
     "FighterFemale_GenericBlue",
     "FighterFemale_GenericRed",
     "ArcherFemale_GenericBlue",
+    "ArcherFemale_GenericGreen",
     "ArcherFemale_GenericRed",
+    "ArcherFemale_Rin",
     "Daiyousei",
     "BrigandFemale_GenericBlue",
     "BrigandFemale_GenericRed",
@@ -327,5 +331,17 @@
     "InstantFGHit_Image_3",
     "InstantFGMiss_Image_3",
     "Reisen",
+    "Eirin",
+    "Apothecary_GenericBlue",
+    "HikariFGHit_Image",
+    "CrucifixFGHit_Image",
+    "IvaldiBeam_Image",
+    "IvaldiBlast_Image",
+    "IvaldiParticles1_Image",
+    "IvaldiParticles3_Image",
+    "SealingNeedlesFG_Image"
+<<<<<<< HEAD
     "New_Palette_1"
+=======
+>>>>>>> parent of 89ae196 (Revert "Reapply "huh"")
 ]
