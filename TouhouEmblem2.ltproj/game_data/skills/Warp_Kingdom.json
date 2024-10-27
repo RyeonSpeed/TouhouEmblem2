@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Warp_Kingdom",
+        "name": "Warp Kingdom",
+        "desc": "Up to 3 times per map, can teleport an adjacent ally up to 3 tiles away.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            5,
+            2
+        ],
+        "components": [
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "ability",
+                "Warp_Kingdom"
+            ],
+            [
+                "drain_charge",
+                3
+            ]
+        ]
+    }
+]

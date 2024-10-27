@@ -291,10 +291,7 @@
                 "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": [
-                    22,
-                    8
-                ],
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": true
             },
@@ -480,6 +477,43 @@
                 ],
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "Seiran",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    1,
+                    4
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "109",
+                "variant": null,
+                "level": 8,
+                "klass": "Kappa_Mech",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Longbow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    1,
+                    7
+                ],
+                "starting_traveler": null,
+                "generic": true
             }
         ],
         "regions": [
