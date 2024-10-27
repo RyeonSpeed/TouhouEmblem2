@@ -1,7 +1,7 @@
 [
     {
         "nid": "Classic_Normal",
-        "name": "Classic Normal",
+        "name": "Normal",
         "color": "blue",
         "permadeath_choice": "Player Choice",
         "growths_choice": "Player Choice",

@@ -12,6 +12,10 @@
             [
                 "ability_indicator",
                 null
+            ],
+            [
+                "dynamic_resist",
+                "(unit.get_stat('CON') * 2)/100"
             ]
         ]
     }
