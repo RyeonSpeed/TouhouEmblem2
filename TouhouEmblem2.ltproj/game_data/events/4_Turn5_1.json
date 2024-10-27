@@ -9,7 +9,8 @@
         "priority": 20,
         "_source": [
             "if;v('Darkness') == 0",
-            "set_fog_of_war;gba;7;7;7",
+            "enable_fog_of_war;t",
+            "set_fog_of_war;gba;4;4;4",
             "else",
             "end"
         ],

@@ -393,11 +393,11 @@
     },
     {
         "nid": "Baby Mode_desc",
-        "text": "Units come back when they die. Can save mid chapter. Coward."
+        "text": "Coward. No enemy autolevels."
     },
     {
         "nid": "Normal_desc",
-        "text": "For beginners. No enemy autolevels."
+        "text": "For the normal people. +3 autolevels."
     },
     {
         "nid": "Classic Normal_desc",
@@ -405,11 +405,11 @@
     },
     {
         "nid": "Lunatic_desc",
-        "text": "For the experienced. +5 autolevels. Permadeath."
+        "text": "For the experienced. +5 autolevels. "
     },
     {
         "nid": "Tezukan't_desc",
-        "text": "For annoying staff. +8 autolevels. Permadeath & Random Growths."
+        "text": "For annoying staff. +8 autolevels. Permadeath."
     },
     {
         "nid": "Random_desc",
