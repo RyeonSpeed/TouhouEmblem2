@@ -196,7 +196,6 @@
     "9_House",
     "9_Per4Rein",
     "9_Turn5Rein",
-    "7_Fatigue_Disappear",
     "9_Rout",
     "Global_Puppet_Assault",
     "Global_Puppet_Assault_1",
@@ -276,5 +275,6 @@
     "Global_Summon_Soldiers",
     "Global_Support_Gain",
     "Global_TewiGamble",
-    "Global_ReisenPTSD"
+    "Global_ReisenPTSD",
+    "6_Fatigue_Disappear"
 ]

@@ -28,6 +28,10 @@
             [
                 "ability_indicator",
                 null
+            ],
+            [
+                "steal_icon",
+                null
             ]
         ]
     }

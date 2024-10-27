@@ -52,6 +52,8 @@
     "Falcon_Punch": "Martial",
     "Fang": "Martial",
     "Farshot": "Bows",
+    "Fatigue_Balm_I": "Consumables",
+    "Fatigue_Balm_II": "Consumables",
     "Fenrir": "Dark Magic",
     "Fetid_Claw": "Martial",
     "Fimbulvetr": "Anima Magic",
@@ -237,7 +239,5 @@
     "Zanbato": "Swords",
     "new": "Bullshit",
     "new_1": "Bullshit",
-    "new_2": "Bullshit",
-    "new_3": "Consumables",
-    "new_4": "Consumables"
+    "new_2": "Bullshit"
 }

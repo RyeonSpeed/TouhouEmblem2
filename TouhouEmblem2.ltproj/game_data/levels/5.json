@@ -33,7 +33,10 @@
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": null,
+                "starting_position": [
+                    1,
+                    33
+                ],
                 "starting_traveler": null,
                 "generic": false
             },
@@ -43,7 +46,10 @@
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": null,
+                "starting_position": [
+                    23,
+                    33
+                ],
                 "starting_traveler": null,
                 "generic": false
             },

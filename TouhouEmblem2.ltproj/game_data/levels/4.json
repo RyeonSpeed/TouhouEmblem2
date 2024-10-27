@@ -1856,7 +1856,7 @@
                     10
                 ],
                 "size": [
-                    1,
+                    3,
                     1
                 ],
                 "sub_nid": "Door",
@@ -1869,11 +1869,11 @@
                 "nid": "Door_2",
                 "region_type": "event",
                 "position": [
-                    21,
+                    19,
                     2
                 ],
                 "size": [
-                    1,
+                    3,
                     1
                 ],
                 "sub_nid": "Door",
@@ -1890,7 +1890,7 @@
                     2
                 ],
                 "size": [
-                    1,
+                    3,
                     1
                 ],
                 "sub_nid": "Door",
@@ -1903,11 +1903,11 @@
                 "nid": "Door_4",
                 "region_type": "event",
                 "position": [
-                    6,
+                    4,
                     2
                 ],
                 "size": [
-                    1,
+                    3,
                     1
                 ],
                 "sub_nid": "Door",
@@ -1920,11 +1920,11 @@
                 "nid": "Door_5",
                 "region_type": "event",
                 "position": [
-                    6,
+                    4,
                     13
                 ],
                 "size": [
-                    1,
+                    3,
                     1
                 ],
                 "sub_nid": "Door",
@@ -1941,7 +1941,7 @@
                     8
                 ],
                 "size": [
-                    1,
+                    3,
                     1
                 ],
                 "sub_nid": "Door",
@@ -1959,7 +1959,7 @@
                 ],
                 "size": [
                     1,
-                    1
+                    3
                 ],
                 "sub_nid": "Door",
                 "condition": "unit.can_unlock(region)",
@@ -1976,7 +1976,7 @@
                 ],
                 "size": [
                     1,
-                    1
+                    3
                 ],
                 "sub_nid": "Door",
                 "condition": "unit.can_unlock(region)",
@@ -1992,7 +1992,7 @@
                     19
                 ],
                 "size": [
-                    1,
+                    3,
                     1
                 ],
                 "sub_nid": "Door",
@@ -2005,11 +2005,11 @@
                 "nid": "Door_10",
                 "region_type": "event",
                 "position": [
-                    14,
+                    12,
                     19
                 ],
                 "size": [
-                    1,
+                    3,
                     1
                 ],
                 "sub_nid": "Door",
@@ -2022,11 +2022,11 @@
                 "nid": "Door_11",
                 "region_type": "event",
                 "position": [
-                    19,
+                    17,
                     8
                 ],
                 "size": [
-                    1,
+                    3,
                     1
                 ],
                 "sub_nid": "Door",
@@ -2054,7 +2054,7 @@
             },
             {
                 "nid": "Tewi",
-                "region_type": "normal",
+                "region_type": "event",
                 "position": [
                     10,
                     0
