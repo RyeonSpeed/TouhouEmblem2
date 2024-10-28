@@ -3,10 +3,10 @@
         "nid": "Motivated",
         "name": "Motivated",
         "desc": "+2 Str/Mag/Skl/Spd/Def/Res.",
-        "icon_nid": "skillicons3",
+        "icon_nid": "skillicons102724(2)",
         "icon_index": [
-            2,
-            7
+            0,
+            0
         ],
         "components": [
             [

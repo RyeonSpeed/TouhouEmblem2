@@ -319,3 +319,49 @@ class CiggieRecoil(SkillComponent):
         except Exception as e:
             logging.error("Couldn't evaluate %s conditional (%s)", self.value, e)
             return 0
+
+class PostCombatSplashEvaluated(SkillComponent):
+    nid = 'post_combat_splash_evaluated'
+    desc = "Deals flat damage to enemies in a range defined by the PostCombatSplashAOE component"
+    tag = SkillTags.COMBAT2
+    paired_with = ('post_combat_splash_aoe', )
+
+    expose = ComponentType.String
+    author = 'Lord_Tweed'
+
+    def post_combat_damage(self, unit) -> int:
+        from app.engine import evaluate
+        try:
+            return int(evaluate.evaluate(self.value, unit))
+        except Exception as e:
+            logging.error("Couldn't evaluate %s conditional (%s)", self.value, e)
+        return 0
+        
+class PostCombatSplashAOEEvaluated(SkillComponent):
+    nid = 'post_combat_splash_aoe_evaluated'
+    desc = 'Defines the range for PostCombatSplash damage to hit.'
+    tag = SkillTags.COMBAT2
+    paired_with = ('post_combat_splash_evaluated', )
+
+    expose = ComponentType.Int
+    value = 0
+    author = 'Lord_Tweed'
+
+    def end_combat(self, playback, unit, item, target, item2, mode):
+        if target and skill_system.check_enemy(unit, target):
+            r = set(range(self.value+1))
+            locations = game.target_system.get_shell(
+                {target.position}, r, game.board.bounds)
+            damage = get_pc_damage(unit, self.skill)
+            if damage > 0:
+                for loc in locations:
+                    target2 = game.board.get_unit(loc)
+                    if target2 and target2 is not target and skill_system.check_enemy(unit, target2):
+                        end_health = target2.get_hp() - damage
+                        action.do(action.SetHP(target2, max(1, end_health)))
+                        
+def get_pc_damage(unit, skill) -> int:
+    for component in skill.components:
+        if component.defines('post_combat_damage'):
+            return component.post_combat_damage(unit)
+    return 0  # 0 is default

@@ -28,6 +28,10 @@
             [
                 "combat_charge_increase",
                 1
+            ],
+            [
+                "ignore_fatigue",
+                null
             ]
         ]
     }

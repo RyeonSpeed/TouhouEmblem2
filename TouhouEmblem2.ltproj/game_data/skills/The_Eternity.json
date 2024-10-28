@@ -3,10 +3,10 @@
         "nid": "The_Eternity",
         "name": "The Eternity",
         "desc": "User takes half damage from all sources of damage and is immune to all negative status effects.",
-        "icon_nid": "skillicons_1",
+        "icon_nid": "skillicons102724(2)",
         "icon_index": [
-            4,
-            4
+            1,
+            0
         ],
         "components": [
             [

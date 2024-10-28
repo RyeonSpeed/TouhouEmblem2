@@ -20,6 +20,10 @@
             [
                 "damage_multiplier",
                 1.5
+            ],
+            [
+                "Cleave",
+                null
             ]
         ]
     }

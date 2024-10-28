@@ -3,10 +3,10 @@
         "nid": "Optimism",
         "name": "Optimism",
         "desc": "User restores 20% of her health at the beginning of each turn and gets +5 HP from all sources of healing.",
-        "icon_nid": "skillicons_1",
+        "icon_nid": "skillicons102724(1)",
         "icon_index": [
-            3,
-            4
+            0,
+            1
         ],
         "components": [
             [

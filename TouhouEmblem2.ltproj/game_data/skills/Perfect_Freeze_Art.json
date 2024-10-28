@@ -28,6 +28,10 @@
             [
                 "combat_charge_increase",
                 1
+            ],
+            [
+                "alternate_battle_anim",
+                "Critical"
             ]
         ]
     }

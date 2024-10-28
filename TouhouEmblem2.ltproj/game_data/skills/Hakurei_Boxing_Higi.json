@@ -3,10 +3,10 @@
         "nid": "Hakurei_Boxing_Higi",
         "name": "Hakurei Boxing Higi",
         "desc": "Strikes 8 times. 20 HP Recoil.",
-        "icon_nid": "skillicons2_1",
+        "icon_nid": "skillicons102724(1)",
         "icon_index": [
-            0,
-            1
+            1,
+            2
         ],
         "components": [
             [

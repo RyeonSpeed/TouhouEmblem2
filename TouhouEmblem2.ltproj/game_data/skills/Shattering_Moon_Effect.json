@@ -12,6 +12,10 @@
             [
                 "dynamic_damage",
                 "item.weight.value if item.weight else 0"
+            ],
+            [
+                "alternate_battle_anim",
+                "Critical"
             ]
         ]
     }

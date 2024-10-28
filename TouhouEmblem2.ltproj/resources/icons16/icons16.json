@@ -761,5 +761,17 @@
                 1
             ]
         }
+    },
+    {
+        "nid": "skillicons102724(2)",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "skillicons102724(1)",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "skillicons102724",
+        "subicon_dict": {}
     }
 ]

@@ -16,6 +16,10 @@
             [
                 "canto_plus",
                 null
+            ],
+            [
+                "alternate_battle_anim",
+                "Critical"
             ]
         ]
     }

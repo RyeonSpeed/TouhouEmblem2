@@ -3,9 +3,9 @@
         "nid": "Master_Pharmacist",
         "name": "Master Pharmacist",
         "desc": "User does not expend durability when using staves.",
-        "icon_nid": "skillicons_1",
+        "icon_nid": "skillicons102724",
         "icon_index": [
-            2,
+            0,
             1
         ],
         "components": [

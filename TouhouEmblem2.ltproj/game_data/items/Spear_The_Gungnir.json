@@ -1,0 +1,38 @@
+[
+    {
+        "nid": "Spear_The_Gungnir",
+        "name": "Spear The Gungnir",
+        "desc": "",
+        "icon_nid": "skillicons102724",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                5
+            ],
+            [
+                "enemy_line_aoe",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "status_on_hit",
+                "Bleeding"
+            ],
+            [
+                "no_double",
+                null
+            ]
+        ]
+    }
+]

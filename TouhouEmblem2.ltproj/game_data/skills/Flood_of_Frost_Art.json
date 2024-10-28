@@ -12,6 +12,10 @@
             [
                 "item_override",
                 "Flood_of_Frost"
+            ],
+            [
+                "alternate_battle_anim",
+                "Critical"
             ]
         ]
     }

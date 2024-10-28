@@ -28,6 +28,10 @@
             [
                 "combat_art_indicator",
                 null
+            ],
+            [
+                "ignore_fatigue",
+                null
             ]
         ]
     }

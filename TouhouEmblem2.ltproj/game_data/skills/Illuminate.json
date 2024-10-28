@@ -3,10 +3,10 @@
         "nid": "Illuminate",
         "name": "Illuminate",
         "desc": "Halves the damage of units equipped with dark magic within 2 tiles.",
-        "icon_nid": "skillicons_1",
+        "icon_nid": "skillicons102724(1)",
         "icon_index": [
-            3,
-            2
+            1,
+            1
         ],
         "components": [
             [

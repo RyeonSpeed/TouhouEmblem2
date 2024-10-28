@@ -2,7 +2,7 @@
     {
         "nid": "Phoenix_Crash",
         "name": "Phoenix Crash",
-        "desc": "1.5x damage. After attack, sets user's HP to 50% of their Max HP. Then envelops user with Phoenix Aura. ",
+        "desc": "Attacks in a 1 tile radius around target. After attack, sets user's HP to 50% of their Max HP. Then envelops user with Phoenix Aura. ",
         "icon_nid": "skillicons_1",
         "icon_index": [
             0,

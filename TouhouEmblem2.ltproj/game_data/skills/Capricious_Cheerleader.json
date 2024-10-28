@@ -3,10 +3,10 @@
         "nid": "Capricious_Cheerleader",
         "name": "Capricious Cheerleader",
         "desc": "User can \"Rally\", giving adjacent units +2 Str/Mag/Skl/Spd/Def/Res for one turn. Unit cannot use this skill if under 50% HP.",
-        "icon_nid": "skillicons3",
+        "icon_nid": "skillicons102724(2)",
         "icon_index": [
-            2,
-            7
+            0,
+            1
         ],
         "components": [
             [

@@ -1,11 +1,11 @@
 [
     {
-        "nid": "Doll_Coordination",
+        "nid": "Doll_Coordination_1",
         "name": "Doll Coordination",
         "desc": "When within 3 spaces of Alice, unit gains +3 Def/Res, 20 Avoid. Also gains +2 AS when enemy initiates.",
         "icon_nid": "skillicons102724(2)",
         "icon_index": [
-            2,
+            1,
             0
         ],
         "components": [
