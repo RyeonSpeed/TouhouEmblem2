@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "HalfBody1",
+        "name": "Half-Body Disillusion",
+        "desc": "Youmu enters parry stance, reducing damage taken to 25% of the original at the cost of halving her own damage when defending. ",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            7,
+            5
+        ],
+        "components": [
+            [
+                "resist_multiplier",
+                0.25
+            ],
+            [
+                "damage_multiplier",
+                0.5
+            ],
+            [
+                "time",
+                1
+            ],
+            [
+                "combat_condition",
+                "mode != 'attack'"
+            ]
+        ]
+    }
+]

@@ -2,29 +2,29 @@
     {
         "nid": "Youmu",
         "name": "Youmu",
-        "desc": "",
+        "desc": "The gardener of Hakugyoukurou. She's a talented swordswoman and a loyal servant but has the tendency to be a bit airheaded at times.",
         "variant": null,
-        "level": 1,
+        "level": 9,
         "klass": "Fencer",
         "tags": [],
         "bases": {
-            "HP": 15,
-            "STR": 6,
-            "MAG": 2,
+            "HP": 22,
+            "STR": 9,
+            "MAG": 7,
             "SKL": 9,
-            "SPD": 8,
-            "LCK": 0,
-            "DEF": 3,
-            "RES": 3,
-            "CON": 5,
+            "SPD": 14,
+            "LCK": 3,
+            "DEF": 5,
+            "RES": 5,
+            "CON": 7,
             "MOV": 5
         },
         "growths": {
-            "HP": 70,
-            "STR": 45,
+            "HP": 65,
+            "STR": 35,
             "MAG": 25,
             "SKL": 50,
-            "SPD": 55,
+            "SPD": 60,
             "LCK": 30,
             "DEF": 20,
             "RES": 20,
@@ -32,10 +32,29 @@
             "MOV": 0
         },
         "stat_cap_modifiers": {},
-        "starting_items": [],
+        "starting_items": [
+            [
+                "Roukanken",
+                false
+            ],
+            [
+                "Silver_Sword",
+                false
+            ],
+            [
+                "Maple_Shield",
+                false
+            ]
+        ],
         "learned_skills": [],
         "unit_notes": [],
-        "wexp_gain": {},
+        "wexp_gain": {
+            "Sword": [
+                false,
+                121,
+                null
+            ]
+        },
         "alternate_classes": [],
         "portrait_nid": "Youmu",
         "affinity": "Wind",

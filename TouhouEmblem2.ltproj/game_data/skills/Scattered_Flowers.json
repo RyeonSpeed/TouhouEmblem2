@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Scattered_Flowers",
+        "name": "Flashing Scattered Flowers",
+        "desc": "Youmu enters scattered stance, removing her ability to counter at all but raising her avoid by 50%. \nCost: 3 Durability.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            3,
+            4
+        ],
+        "components": [
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "ability",
+                "Flowers"
+            ]
+        ]
+    }
+]

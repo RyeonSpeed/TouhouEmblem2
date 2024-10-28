@@ -1,0 +1,38 @@
+[
+    {
+        "nid": "Disillusion",
+        "name": "Disillusion",
+        "desc": "",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "self_status_on_hit",
+                "HalfBody1"
+            ],
+            [
+                "target_unit",
+                null
+            ],
+            [
+                "min_range",
+                0
+            ],
+            [
+                "max_range",
+                0
+            ],
+            [
+                "map_hit_sfx",
+                "Legendary Weapon"
+            ],
+            [
+                "event_on_hit",
+                "Global YoumuDurability"
+            ]
+        ]
+    }
+]

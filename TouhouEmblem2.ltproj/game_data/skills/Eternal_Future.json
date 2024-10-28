@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Eternal_Future",
+        "name": "Slash of the Eternal Future",
+        "desc": "Youmu unleashes one uncounterable slash that doubles her strength and double her crit rate at -30% hit. \nCost: 5 Durability",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            3,
+            3
+        ],
+        "components": [
+            [
+                "combat_art_indicator",
+                null
+            ],
+            [
+                "combat_art",
+                "Eternal_Future_1"
+            ]
+        ]
+    }
+]

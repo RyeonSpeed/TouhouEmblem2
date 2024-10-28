@@ -1,4 +1,5 @@
 {
+    "200Yojana": "Bullshit",
     "Aircalibur": "Anima Magic",
     "Ancient_Coin": "Valuables",
     "Angelic_Robe": "Consumables",
@@ -39,6 +40,7 @@
     "Devil_Axe": "Axes",
     "Devil_Lance": "Lances",
     "Dipping_Moon": "Anima Magic",
+    "Disillusion": "Bullshit",
     "Door_Key": "Consumables",
     "Dragonshield": "Consumables",
     "Eclipse": "Dark Magic",
@@ -65,6 +67,7 @@
     "Flame_Axe": "Axes",
     "Flame_Lance": "Lances",
     "Flood_of_Frost": "Bullshit",
+    "Flowers": "Bullshit",
     "Flux": "Dark Magic",
     "Forge": "Anima Magic",
     "Forged_Shield": "Accesories",
@@ -161,8 +164,10 @@
     "Restore": "Staves",
     "Rising_Sun": "Anima Magic",
     "Rotfang": "Martial",
+    "Roukanken": "Swords",
     "Runesword": "Swords",
     "Sakura_Fan": "Dark Magic",
+    "Satellite_Slash": "Bullshit",
     "Sealing_Needles": "Light Magic",
     "Secret_Book": "Consumables",
     "Sendai": "Martial",
@@ -239,5 +244,6 @@
     "Zanbato": "Swords",
     "new": "Bullshit",
     "new_1": "Bullshit",
-    "new_2": "Bullshit"
+    "new_2": "Bullshit",
+    "new_3": "Bullshit"
 }
