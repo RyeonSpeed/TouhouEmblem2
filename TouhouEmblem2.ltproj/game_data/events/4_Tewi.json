@@ -8,8 +8,8 @@
         "only_once": true,
         "priority": 20,
         "_source": [
-            "add_portrait;Tewi;CenterRight",
-            "speak;Tewi;So there you are! I hope you're feeling lucky, cause I'm coming right for you!",
+            "add_portrait;Tewi;Left",
+            "speak;Tewi;There they are! Time to play!",
             "remove_portrait;Tewi",
             "change_ai;Tewi_Boss;Pursue"
         ],

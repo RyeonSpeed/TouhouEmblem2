@@ -21,7 +21,7 @@
             "SPD": 9,
             "LCK": 0,
             "DEF": 3,
-            "CON": 5,
+            "CON": 7,
             "MOV": 5,
             "RES": 0
         },
@@ -115,17 +115,17 @@
                 0,
                 251
             ],
+            "Martial": [
+                false,
+                0,
+                null
+            ],
             "Default": [
                 false,
                 0,
                 251
             ],
             "Monster": [
-                false,
-                0,
-                null
-            ],
-            "Martial": [
                 false,
                 0,
                 null

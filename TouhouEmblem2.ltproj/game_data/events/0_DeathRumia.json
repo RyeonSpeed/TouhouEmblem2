@@ -9,7 +9,7 @@
         "priority": 20,
         "_source": [
             "add_portrait;Rumia_Boss;Left",
-            "speak;Rumia_Boss;Not... again...",
+            "speak;Rumia_Boss;I thought for sure this was my chance...!",
             "expression;Rumia_Boss;CloseEyes",
             "remove_portrait;Rumia_Boss",
             "give_bexp;100;no_banner"

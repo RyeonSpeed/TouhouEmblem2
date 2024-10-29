@@ -9,7 +9,7 @@
         "priority": 20,
         "_source": [
             "add_portrait;Mystia;FarLeft",
-            "speak;Mystia;Alright, time to hightail it outta here!",
+            "speak;Mystia;E-eek! Spare me...!",
             "expression;Mystia;CloseEyes",
             "remove_portrait;Mystia"
         ],

@@ -10,7 +10,7 @@
         "_source": [
             "music;Dullahan Under the Willows",
             "add_portrait;Reisen;Left",
-            "speak;Reisen;I'll stop you here, so that Lady Eirin doesn't even have to deal with you!",
+            "speak;Reisen;This is as far as you go! Now, gaze into my eyes...and fall to insanity!",
             "remove_portrait;Reisen"
         ],
         "nid": "5 FightReisen"

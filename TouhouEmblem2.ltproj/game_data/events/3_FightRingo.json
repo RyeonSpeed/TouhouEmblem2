@@ -10,7 +10,7 @@
         "_source": [
             "music;Dullahan Under the Willows",
             "add_portrait;Ringo;Left",
-            "speak;Ringo;Finally, an interesting opponent. This job was getting kinda boring.",
+            "speak;Ringo;Even here, it seems like we can't avoid conflict...|but what can I do? I'll just get this done with.",
             "remove_portrait;Ringo"
         ],
         "nid": "3 FightRingo"

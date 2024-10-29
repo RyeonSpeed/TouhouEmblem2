@@ -56,7 +56,7 @@
             {
                 "nid": "101",
                 "variant": null,
-                "level": 2,
+                "level": 4,
                 "klass": "Archer",
                 "faction": "Eientei",
                 "starting_items": [
@@ -80,7 +80,7 @@
             {
                 "nid": "102",
                 "variant": null,
-                "level": 2,
+                "level": 4,
                 "klass": "Archer",
                 "faction": "Eientei",
                 "starting_items": [
@@ -104,7 +104,7 @@
             {
                 "nid": "103",
                 "variant": null,
-                "level": 2,
+                "level": 4,
                 "klass": "Lancer",
                 "faction": "Eientei",
                 "starting_items": [
@@ -128,7 +128,7 @@
             {
                 "nid": "104",
                 "variant": null,
-                "level": 2,
+                "level": 4,
                 "klass": "Vagrant_S",
                 "faction": "Eientei",
                 "starting_items": [
@@ -139,7 +139,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -163,7 +163,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -187,7 +187,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -235,7 +235,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -320,7 +320,7 @@
             {
                 "nid": "110",
                 "variant": null,
-                "level": 2,
+                "level": 4,
                 "klass": "Fencer",
                 "faction": "Eientei",
                 "starting_items": [
@@ -608,7 +608,7 @@
             {
                 "nid": "117",
                 "variant": null,
-                "level": 2,
+                "level": 4,
                 "klass": "Archer",
                 "faction": "Eientei",
                 "starting_items": [
@@ -767,7 +767,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -780,7 +780,7 @@
             {
                 "nid": "124",
                 "variant": null,
-                "level": 2,
+                "level": 4,
                 "klass": "Brigand",
                 "faction": "Eientei",
                 "starting_items": [
@@ -791,7 +791,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -815,7 +815,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Pursue",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -839,7 +839,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Pursue",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -863,7 +863,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Pursue",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -924,7 +924,7 @@
             {
                 "nid": "128",
                 "variant": null,
-                "level": 2,
+                "level": 4,
                 "klass": "Archer",
                 "faction": "Eientei",
                 "starting_items": [
@@ -983,7 +983,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -996,7 +996,7 @@
             {
                 "nid": "131",
                 "variant": null,
-                "level": 2,
+                "level": 4,
                 "klass": "Occultist",
                 "faction": "Eientei",
                 "starting_items": [
@@ -1007,7 +1007,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -1183,6 +1183,54 @@
                 "starting_position": [
                     15,
                     8
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "165",
+                "variant": null,
+                "level": 4,
+                "klass": "Archer",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Longbow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    7
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "166",
+                "variant": null,
+                "level": 4,
+                "klass": "Archer",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Longbow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    16,
+                    7
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -2173,6 +2221,11 @@
                 }
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

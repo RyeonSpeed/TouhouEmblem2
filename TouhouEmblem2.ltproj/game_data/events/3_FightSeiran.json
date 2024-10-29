@@ -10,7 +10,7 @@
         "_source": [
             "music;Dullahan Under the Willows",
             "add_portrait;Seiran;Left",
-            "speak;Seiran;Guh... I'd rather be selling dango, but the pay is quite good!",
+            "speak;Seiran;Enemy located. Now...I'll proceed with your elimination!",
             "remove_portrait;Seiran"
         ],
         "nid": "3 FightSeiran"

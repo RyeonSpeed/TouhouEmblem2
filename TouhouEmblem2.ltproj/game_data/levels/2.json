@@ -93,7 +93,7 @@
             {
                 "nid": "102",
                 "variant": null,
-                "level": 2,
+                "level": 3,
                 "klass": "Brigand",
                 "faction": "Youkai",
                 "starting_items": [
@@ -189,7 +189,7 @@
             {
                 "nid": "106",
                 "variant": null,
-                "level": 2,
+                "level": 3,
                 "klass": "Lancer",
                 "faction": "Youkai",
                 "starting_items": [
@@ -206,6 +206,54 @@
                 "starting_position": [
                     11,
                     16
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "143",
+                "variant": null,
+                "level": 2,
+                "klass": "Lancer",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    16,
+                    27
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "144",
+                "variant": null,
+                "level": 2,
+                "klass": "Vagrant_S",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Slim_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    18,
+                    19
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -241,7 +289,7 @@
             {
                 "nid": "108",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Fighter",
                 "faction": "Youkai",
                 "starting_items": [
@@ -265,7 +313,7 @@
             {
                 "nid": "141",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Fighter",
                 "faction": "Youkai",
                 "starting_items": [
@@ -289,7 +337,7 @@
             {
                 "nid": "142",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Thief",
                 "faction": "Youkai",
                 "starting_items": [
@@ -313,7 +361,7 @@
             {
                 "nid": "109",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Vagrant_S",
                 "faction": "Youkai",
                 "starting_items": [
@@ -389,7 +437,7 @@
             {
                 "nid": "112",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Mage",
                 "faction": "Youkai",
                 "starting_items": [
@@ -413,7 +461,7 @@
             {
                 "nid": "140",
                 "variant": null,
-                "level": 1,
+                "level": 3,
                 "klass": "Mage",
                 "faction": "Youkai",
                 "starting_items": [
@@ -430,6 +478,54 @@
                 "starting_position": [
                     13,
                     10
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "145",
+                "variant": null,
+                "level": 3,
+                "klass": "Mage",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Fire",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    0,
+                    3
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "146",
+                "variant": null,
+                "level": 3,
+                "klass": "Mage",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Fire",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    1,
+                    4
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1337,6 +1433,11 @@
                 }
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

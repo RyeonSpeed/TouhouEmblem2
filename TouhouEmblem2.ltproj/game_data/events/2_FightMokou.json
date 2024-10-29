@@ -8,6 +8,7 @@
         "only_once": true,
         "priority": 20,
         "_source": [
+            "music;Dullahan Under the Willows",
             "add_portrait;Mokou;Left",
             "speak;Mokou;Outta my way! I have fools to burn!",
             "remove_portrait;Mokou"

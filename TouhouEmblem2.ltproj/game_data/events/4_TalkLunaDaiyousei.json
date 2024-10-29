@@ -1,0 +1,28 @@
+[
+    {
+        "name": "TalkLunaDaiyousei",
+        "trigger": "on_talk",
+        "level_nid": "4",
+        "condition": "unit.nid == 'Luna' and unit2.nid == 'Daiyousei'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "change_team;Daiyousei;player",
+            "remove_talk;Rumia;Daiyousei",
+            "remove_talk;Wriggle;Daiyousei",
+            "remove_talk;Mystia;Daiyousei",
+            "remove_talk;Star;Daiyousei",
+            "remove_talk;Sunny;Daiyousei",
+            "remove_talk;Luna;Daiyousei",
+            "remove_talk;Rumia;Daiyousei",
+            "remove_talk;Wriggle;Daiyousei",
+            "remove_talk;Mystia;Daiyousei",
+            "remove_talk;Star;Daiyousei",
+            "remove_talk;Sunny;Daiyousei",
+            "remove_talk;Luna;Daiyousei",
+            "add_lore;Daiyousei"
+        ],
+        "nid": "4 TalkLunaDaiyousei"
+    }
+]

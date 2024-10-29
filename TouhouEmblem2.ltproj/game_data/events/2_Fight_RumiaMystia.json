@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Fight Rumia/Mystia",
+        "trigger": "combat_start",
+        "level_nid": "2",
+        "condition": "(unit.nid == \"Rumia\" and unit2.nid == \"Mystia\") or (unit.nid == \"Mystia\" and unit2.nid == \"Rumia\")",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "music;Dullahan Under the Willows",
+            "add_portrait;Rumia;Right",
+            "speak;Rumia;Oh, hey Mystia!",
+            "add_portrait;Mystia;Left",
+            "speak;Mystia;Rumia?! What are you doing on their side? Shouldn't you be helping us instead?",
+            "speak;Rumia;Oh well, I attacked Reimu earlier and got stomped. She's forcing me to fight for her...",
+            "speak;Mystia;Guess that can't be helped...but I'm not going easy on you!",
+            "multi_remove_portrait;Rumia;Mystia"
+        ],
+        "nid": "2 Fight Rumia/Mystia"
+    }
+]

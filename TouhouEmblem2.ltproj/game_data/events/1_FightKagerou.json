@@ -10,7 +10,7 @@
         "_source": [
             "music;Dullahan Under the Willows",
             "add_portrait;Kagerou;Left",
-            "speak;Kagerou;It may not be the full moon, but I'm a proud wolf! Taste my claws!",
+            "speak;Kagerou;You've come to defeat me, haven't you? I won't lose!",
             "remove_portrait;Kagerou"
         ],
         "nid": "1 FightKagerou"

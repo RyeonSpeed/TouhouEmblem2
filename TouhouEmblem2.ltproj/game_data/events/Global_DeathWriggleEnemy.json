@@ -9,7 +9,7 @@
         "priority": 20,
         "_source": [
             "add_portrait;Wriggle;FarLeft",
-            "speak;Wriggle;Tch..! I'll get my revenge!",
+            "speak;Wriggle;Even with bugs on my side, I couldn't win...",
             "expression;Wriggle;CloseEyes",
             "remove_portrait;Wriggle"
         ],

@@ -27,8 +27,10 @@
             "change_ai;145;GreenEscape",
             "change_ai;146;GreenEscape",
             "change_ai;147;GreenEscape",
+            "speak;;While unecessary, it may be beneficial to help these mysterious robed people escape here!;;;hint",
             "add_group;BreakoutRein1;BreakoutRein1",
             "move_cursor;153",
+            "flicker_cursor;153",
             "has_finished;{unit}"
         ],
         "nid": "4 Door_5"

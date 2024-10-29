@@ -9,7 +9,7 @@
         "priority": 20,
         "_source": [
             "add_portrait;Sekibanki;Left",
-            "speak;Sekibanki;Urgh...you're all too insane...",
+            "speak;Sekibanki;Ugh...You're still awfully strong...",
             "expression;Sekibanki;CloseEyes",
             "remove_portrait;Sekibanki",
             "give_bexp;50;no_banner"

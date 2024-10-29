@@ -9,7 +9,7 @@
         "priority": 20,
         "_source": [
             "add_portrait;Kagerou;Left",
-            "speak;Kagerou;Ouch! Ew, you got dirt all over my fur!",
+            "speak;Kagerou;I knew I shouldn\u2019t have come out...",
             "expression;Kagerou;CloseEyes",
             "remove_portrait;Kagerou",
             "give_bexp;50;no_banner"

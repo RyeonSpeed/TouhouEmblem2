@@ -10,7 +10,7 @@
         "_source": [
             "music;Dullahan Under the Willows",
             "add_portrait;Tewi;Left",
-            "speak;Tewi;Step right up and see how fortunate you are!",
+            "speak;Tewi;So sorry, Eientei is not accepting visitors at this time...|And don't even try to proceed, if you're attached to your dignity...",
             "remove_portrait;Tewi"
         ],
         "nid": "4 FightTewi"

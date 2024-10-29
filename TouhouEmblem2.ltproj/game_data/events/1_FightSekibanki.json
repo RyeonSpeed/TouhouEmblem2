@@ -10,7 +10,7 @@
         "_source": [
             "music;Dullahan Under the Willows",
             "add_portrait;Sekibanki;Left",
-            "speak;Sekibanki;Well, well. Don't get dizzy as my heads run circles!",
+            "speak;Sekibanki;We're gonna make you learn the meaning of fear again...|Bow down before the might of us youkai!",
             "remove_portrait;Sekibanki"
         ],
         "nid": "1 FightSekibanki"

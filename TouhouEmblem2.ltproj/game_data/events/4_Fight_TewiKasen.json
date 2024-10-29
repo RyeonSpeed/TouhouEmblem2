@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Fight Tewi/Kasen",
+        "trigger": "combat_start",
+        "level_nid": "4",
+        "condition": "(unit.nid == \"Tewi_Boss\" and unit2.nid == 'Kasen') or (unit2.nid == \"Tewi_Boss\" and unit.nid == 'Kasen')",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "music;Dullahan Under the Willows",
+            "add_portrait;Tewi;Left",
+            "speak;Tewi;Oh hey, it's the mountain hermit. Whatcha up to?",
+            "add_portrait;Kasen;Right",
+            "speak;Kasen;You've got some nerve, trying to chat me up in the middle of a battle.",
+            "speak;Tewi;C'mon, no need to be so serious. Now...may I interest you in another little bunny for your|menagerie~?",
+            "speak;Kasen;...|Are you seriously trying to bribe me?",
+            "multi_remove_portrait;Kasen;Tewi"
+        ],
+        "nid": "4 Fight Tewi/Kasen"
+    }
+]
