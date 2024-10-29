@@ -17,7 +17,7 @@
             "boss_battle": "Dullahan Under the Willows"
         },
         "objective": {
-            "simple": "DEBUG",
+            "simple": "{v:_random_seed}",
             "win": "Don't Crash",
             "loss": "Crash"
         },

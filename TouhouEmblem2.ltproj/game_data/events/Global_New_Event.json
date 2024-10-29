@@ -1,0 +1,17 @@
+[
+    {
+        "name": "New Event",
+        "trigger": "level_start",
+        "level_nid": null,
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 21,
+        "_source": [
+            "game_var;_random_seed;random.randint(0,1023)",
+            "if;'{v:_random_seed}'",
+            "end"
+        ],
+        "nid": "Global New Event"
+    }
+]
