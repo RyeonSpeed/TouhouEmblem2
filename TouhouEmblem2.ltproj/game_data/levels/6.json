@@ -58,8 +58,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    1,
-                    25
+                    4,
+                    24
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -71,8 +71,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    1,
-                    27
+                    10,
+                    24
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -93,7 +93,7 @@
             {
                 "nid": "101",
                 "variant": null,
-                "level": 4,
+                "level": 6,
                 "klass": "Archer",
                 "faction": "Eientei",
                 "starting_items": [
@@ -106,8 +106,10 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
-                "team": "other",
+                "starting_skills": [
+                    "No_Cheating"
+                ],
+                "team": "player",
                 "ai": "Defend",
                 "roam_ai": null,
                 "ai_group": "",
@@ -121,7 +123,7 @@
             {
                 "nid": "139",
                 "variant": null,
-                "level": 4,
+                "level": 6,
                 "klass": "Archer",
                 "faction": "Eientei",
                 "starting_items": [
@@ -134,8 +136,10 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
-                "team": "other",
+                "starting_skills": [
+                    "No_Cheating"
+                ],
+                "team": "player",
                 "ai": "Defend",
                 "roam_ai": null,
                 "ai_group": "",
@@ -149,7 +153,7 @@
             {
                 "nid": "140",
                 "variant": null,
-                "level": 4,
+                "level": 6,
                 "klass": "Archer",
                 "faction": "Eientei",
                 "starting_items": [
@@ -162,8 +166,10 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
-                "team": "other",
+                "starting_skills": [
+                    "No_Cheating"
+                ],
+                "team": "player",
                 "ai": "Defend",
                 "roam_ai": null,
                 "ai_group": "",
@@ -177,7 +183,7 @@
             {
                 "nid": "102",
                 "variant": null,
-                "level": 4,
+                "level": 6,
                 "klass": "Archer",
                 "faction": "Eientei",
                 "starting_items": [
@@ -190,8 +196,10 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
-                "team": "other",
+                "starting_skills": [
+                    "No_Cheating"
+                ],
+                "team": "player",
                 "ai": "Defend",
                 "roam_ai": null,
                 "ai_group": "",
@@ -205,7 +213,7 @@
             {
                 "nid": "103",
                 "variant": null,
-                "level": 4,
+                "level": 6,
                 "klass": "Archer",
                 "faction": "Eientei",
                 "starting_items": [
@@ -218,8 +226,10 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
-                "team": "other",
+                "starting_skills": [
+                    "No_Cheating"
+                ],
+                "team": "player",
                 "ai": "Defend",
                 "roam_ai": null,
                 "ai_group": "",
@@ -233,7 +243,7 @@
             {
                 "nid": "104",
                 "variant": null,
-                "level": 4,
+                "level": 6,
                 "klass": "Archer",
                 "faction": "Eientei",
                 "starting_items": [
@@ -246,8 +256,10 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
-                "team": "other",
+                "starting_skills": [
+                    "No_Cheating"
+                ],
+                "team": "player",
                 "ai": "Defend",
                 "roam_ai": null,
                 "ai_group": "",
@@ -261,7 +273,7 @@
             {
                 "nid": "105",
                 "variant": null,
-                "level": 4,
+                "level": 6,
                 "klass": "Archer",
                 "faction": "Eientei",
                 "starting_items": [
@@ -274,8 +286,10 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
-                "team": "other",
+                "starting_skills": [
+                    "No_Cheating"
+                ],
+                "team": "player",
                 "ai": "Defend",
                 "roam_ai": null,
                 "ai_group": "",
@@ -289,7 +303,7 @@
             {
                 "nid": "108",
                 "variant": null,
-                "level": 4,
+                "level": 6,
                 "klass": "Vagrant_A",
                 "faction": "Eientei",
                 "starting_items": [
@@ -298,8 +312,10 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
-                "team": "other",
+                "starting_skills": [
+                    "No_Cheating"
+                ],
+                "team": "player",
                 "ai": "Defend",
                 "roam_ai": null,
                 "ai_group": "",
@@ -313,7 +329,7 @@
             {
                 "nid": "112",
                 "variant": null,
-                "level": 4,
+                "level": 6,
                 "klass": "Vagrant_A",
                 "faction": "Eientei",
                 "starting_items": [
@@ -322,8 +338,10 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
-                "team": "other",
+                "starting_skills": [
+                    "No_Cheating"
+                ],
+                "team": "player",
                 "ai": "Defend",
                 "roam_ai": null,
                 "ai_group": "",
@@ -337,7 +355,7 @@
             {
                 "nid": "113",
                 "variant": null,
-                "level": 4,
+                "level": 6,
                 "klass": "Vagrant_A",
                 "faction": "Eientei",
                 "starting_items": [
@@ -346,8 +364,10 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
-                "team": "other",
+                "starting_skills": [
+                    "No_Cheating"
+                ],
+                "team": "player",
                 "ai": "Defend",
                 "roam_ai": null,
                 "ai_group": "",
@@ -361,7 +381,7 @@
             {
                 "nid": "109",
                 "variant": null,
-                "level": 4,
+                "level": 6,
                 "klass": "Vagrant_A",
                 "faction": "Eientei",
                 "starting_items": [
@@ -370,8 +390,10 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
-                "team": "other",
+                "starting_skills": [
+                    "No_Cheating"
+                ],
+                "team": "player",
                 "ai": "Defend",
                 "roam_ai": null,
                 "ai_group": "",
@@ -385,7 +407,7 @@
             {
                 "nid": "110",
                 "variant": null,
-                "level": 4,
+                "level": 6,
                 "klass": "Guard",
                 "faction": "Eientei",
                 "starting_items": [
@@ -402,9 +424,11 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
-                "team": "other",
-                "ai": "Guard",
+                "starting_skills": [
+                    "No_Cheating"
+                ],
+                "team": "player",
+                "ai": "Defend",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -415,14 +439,66 @@
                 "generic": true
             },
             {
-                "nid": "111",
+                "nid": "181",
                 "variant": null,
-                "level": 4,
-                "klass": "Archer",
+                "level": 6,
+                "klass": "Guard",
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Iron_Bow",
+                        "Steel_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "No_Cheating"
+                ],
+                "team": "player",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    9,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "182",
+                "variant": null,
+                "level": 6,
+                "klass": "Guard",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Steel_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "No_Cheating"
+                ],
+                "team": "player",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    11,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "111",
+                "variant": null,
+                "level": 6,
+                "klass": "Herald",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Heal",
                         false
                     ],
                     [
@@ -430,13 +506,15 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
-                "team": "other",
+                "starting_skills": [
+                    "No_Cheating"
+                ],
+                "team": "player",
                 "ai": "Defend",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    6,
+                    5,
                     25
                 ],
                 "starting_traveler": null,
@@ -445,12 +523,12 @@
             {
                 "nid": "114",
                 "variant": null,
-                "level": 4,
-                "klass": "Archer",
+                "level": 6,
+                "klass": "Herald",
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Iron_Bow",
+                        "Heal",
                         false
                     ],
                     [
@@ -458,14 +536,16 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
-                "team": "other",
+                "starting_skills": [
+                    "No_Cheating"
+                ],
+                "team": "player",
                 "ai": "Defend",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    7,
-                    26
+                    3,
+                    25
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -477,8 +557,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    4,
-                    24
+                    9,
+                    25
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -490,8 +570,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    5,
-                    26
+                    11,
+                    25
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -499,7 +579,7 @@
             {
                 "nid": "106",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Fighter",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -527,7 +607,7 @@
             {
                 "nid": "121",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Thief",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -551,7 +631,7 @@
             {
                 "nid": "124",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Occultist",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -579,7 +659,7 @@
             {
                 "nid": "125",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Herald",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -607,7 +687,7 @@
             {
                 "nid": "126",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Acolyte",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -631,7 +711,7 @@
             {
                 "nid": "127",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Lancer",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -659,7 +739,7 @@
             {
                 "nid": "128",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Mage",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -683,7 +763,7 @@
             {
                 "nid": "135",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Sword_Rider",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -707,7 +787,7 @@
             {
                 "nid": "129",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Pirate",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -735,7 +815,7 @@
             {
                 "nid": "136",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Lance_Rider",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -763,7 +843,7 @@
             {
                 "nid": "137",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Axe_Rider",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -787,7 +867,7 @@
             {
                 "nid": "130",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Acolyte",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -815,7 +895,7 @@
             {
                 "nid": "131",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Lancer",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -839,7 +919,7 @@
             {
                 "nid": "132",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Lancer",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -863,7 +943,7 @@
             {
                 "nid": "133",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Fighter",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -887,7 +967,7 @@
             {
                 "nid": "134",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Archer",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -911,7 +991,7 @@
             {
                 "nid": "122",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Brigand",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -939,7 +1019,7 @@
             {
                 "nid": "123",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Thief",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -963,7 +1043,7 @@
             {
                 "nid": "116",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Vagrant_S",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -991,7 +1071,7 @@
             {
                 "nid": "117",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Lancer",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1015,7 +1095,7 @@
             {
                 "nid": "118",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Lancer",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1039,7 +1119,7 @@
             {
                 "nid": "107",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Vagrant_A",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1063,7 +1143,7 @@
             {
                 "nid": "119",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Mage",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1087,7 +1167,7 @@
             {
                 "nid": "120",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Archer",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1111,7 +1191,7 @@
             {
                 "nid": "138",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Kappa_Mech",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1139,7 +1219,7 @@
             {
                 "nid": "115",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Acolyte",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1163,7 +1243,7 @@
             {
                 "nid": "141",
                 "variant": null,
-                "level": 5,
+                "level": 7,
                 "klass": "Archer",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1184,7 +1264,7 @@
             {
                 "nid": "142",
                 "variant": null,
-                "level": 5,
+                "level": 7,
                 "klass": "Vagrant_A",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1205,7 +1285,7 @@
             {
                 "nid": "144",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Fencer",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1226,7 +1306,7 @@
             {
                 "nid": "145",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Mage",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1247,7 +1327,7 @@
             {
                 "nid": "146",
                 "variant": null,
-                "level": 5,
+                "level": 7,
                 "klass": "Vagrant_A",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1268,7 +1348,7 @@
             {
                 "nid": "147",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Occultist",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1289,7 +1369,7 @@
             {
                 "nid": "148",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Vagrant_S",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1310,7 +1390,7 @@
             {
                 "nid": "143",
                 "variant": null,
-                "level": 5,
+                "level": 7,
                 "klass": "Mage",
                 "faction": "Eientei",
                 "starting_items": [
@@ -1331,7 +1411,7 @@
             {
                 "nid": "149",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Vagrant_A",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1356,7 +1436,7 @@
             {
                 "nid": "150",
                 "variant": null,
-                "level": 5,
+                "level": 7,
                 "klass": "Brigand",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1381,7 +1461,7 @@
             {
                 "nid": "151",
                 "variant": null,
-                "level": 5,
+                "level": 6,
                 "klass": "Vagrant_A",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1406,7 +1486,7 @@
             {
                 "nid": "152",
                 "variant": null,
-                "level": 5,
+                "level": 7,
                 "klass": "Herald",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1427,7 +1507,7 @@
             {
                 "nid": "153",
                 "variant": null,
-                "level": 5,
+                "level": 7,
                 "klass": "Bow_Rider",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1448,7 +1528,7 @@
             {
                 "nid": "154",
                 "variant": null,
-                "level": 5,
+                "level": 7,
                 "klass": "Bow_Rider",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1469,7 +1549,7 @@
             {
                 "nid": "155",
                 "variant": null,
-                "level": 5,
+                "level": 7,
                 "klass": "Lance_Rider",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1494,7 +1574,7 @@
             {
                 "nid": "156",
                 "variant": null,
-                "level": 5,
+                "level": 7,
                 "klass": "Archer",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1515,7 +1595,7 @@
             {
                 "nid": "157",
                 "variant": null,
-                "level": 5,
+                "level": 7,
                 "klass": "Mage",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1536,7 +1616,7 @@
             {
                 "nid": "158",
                 "variant": null,
-                "level": 5,
+                "level": 7,
                 "klass": "Archer",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1557,7 +1637,7 @@
             {
                 "nid": "159",
                 "variant": null,
-                "level": 5,
+                "level": 7,
                 "klass": "Fencer",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1578,7 +1658,7 @@
             {
                 "nid": "160",
                 "variant": null,
-                "level": 5,
+                "level": 7,
                 "klass": "Vagrant_S",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1603,7 +1683,7 @@
             {
                 "nid": "161",
                 "variant": null,
-                "level": 5,
+                "level": 7,
                 "klass": "Vagrant_A",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1624,7 +1704,7 @@
             {
                 "nid": "162",
                 "variant": null,
-                "level": 5,
+                "level": 7,
                 "klass": "Lancer",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1645,7 +1725,7 @@
             {
                 "nid": "163",
                 "variant": null,
-                "level": 5,
+                "level": 7,
                 "klass": "Thief",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1666,7 +1746,7 @@
             {
                 "nid": "164",
                 "variant": null,
-                "level": 5,
+                "level": 7,
                 "klass": "Vagrant_S",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1687,7 +1767,7 @@
             {
                 "nid": "165",
                 "variant": null,
-                "level": 5,
+                "level": 7,
                 "klass": "Vagrant_A",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1716,7 +1796,7 @@
             {
                 "nid": "166",
                 "variant": null,
-                "level": 5,
+                "level": 7,
                 "klass": "Vagrant_S",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1737,7 +1817,7 @@
             {
                 "nid": "167",
                 "variant": null,
-                "level": 5,
+                "level": 7,
                 "klass": "Vagrant_S",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1758,7 +1838,7 @@
             {
                 "nid": "171",
                 "variant": null,
-                "level": 5,
+                "level": 7,
                 "klass": "Vagrant_A",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1779,7 +1859,7 @@
             {
                 "nid": "172",
                 "variant": null,
-                "level": 5,
+                "level": 7,
                 "klass": "Fencer",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1800,7 +1880,7 @@
             {
                 "nid": "168",
                 "variant": null,
-                "level": 5,
+                "level": 7,
                 "klass": "Bow_Rider",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1821,7 +1901,7 @@
             {
                 "nid": "169",
                 "variant": null,
-                "level": 5,
+                "level": 7,
                 "klass": "Bow_Rider",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1842,7 +1922,7 @@
             {
                 "nid": "170",
                 "variant": null,
-                "level": 5,
+                "level": 7,
                 "klass": "Bow_Rider",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1863,7 +1943,7 @@
             {
                 "nid": "173",
                 "variant": null,
-                "level": 5,
+                "level": 7,
                 "klass": "Axe_Rider",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1884,7 +1964,7 @@
             {
                 "nid": "174",
                 "variant": null,
-                "level": 5,
+                "level": 7,
                 "klass": "Sword_Rider",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -2685,6 +2765,11 @@
                 }
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "No_Cheating",
+        "name": "No Cheating!",
+        "desc": "lmao you thought you could get free gear",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            3,
+            1
+        ],
+        "components": [
+            [
+                "cannot_trade",
+                null
+            ]
+        ]
+    }
+]

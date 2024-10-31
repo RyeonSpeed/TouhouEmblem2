@@ -95,7 +95,7 @@
             {
                 "nid": "101",
                 "variant": null,
-                "level": 2,
+                "level": 3,
                 "klass": "Lancer",
                 "faction": "Eientei",
                 "starting_items": [
@@ -119,7 +119,7 @@
             {
                 "nid": "102",
                 "variant": null,
-                "level": 2,
+                "level": 3,
                 "klass": "Lancer",
                 "faction": "Eientei",
                 "starting_items": [
@@ -143,7 +143,7 @@
             {
                 "nid": "104",
                 "variant": null,
-                "level": 2,
+                "level": 3,
                 "klass": "Vagrant_A",
                 "faction": "Eientei",
                 "starting_items": [
@@ -171,7 +171,7 @@
             {
                 "nid": "105",
                 "variant": null,
-                "level": 2,
+                "level": 3,
                 "klass": "Outlaw",
                 "faction": "Eientei",
                 "starting_items": [
@@ -195,7 +195,7 @@
             {
                 "nid": "106",
                 "variant": null,
-                "level": 2,
+                "level": 3,
                 "klass": "Lance_Rider",
                 "faction": "Eientei",
                 "starting_items": [
@@ -221,7 +221,7 @@
             {
                 "nid": "107",
                 "variant": null,
-                "level": 2,
+                "level": 3,
                 "klass": "Sword_Rider",
                 "faction": "Eientei",
                 "starting_items": [
@@ -247,7 +247,7 @@
             {
                 "nid": "108",
                 "variant": null,
-                "level": 2,
+                "level": 3,
                 "klass": "Lancer",
                 "faction": "Eientei",
                 "starting_items": [
@@ -275,7 +275,7 @@
             {
                 "nid": "109",
                 "variant": null,
-                "level": 2,
+                "level": 3,
                 "klass": "Mage",
                 "faction": "Eientei",
                 "starting_items": [
@@ -299,7 +299,7 @@
             {
                 "nid": "115",
                 "variant": null,
-                "level": 2,
+                "level": 3,
                 "klass": "Acolyte",
                 "faction": "Eientei",
                 "starting_items": [
@@ -325,7 +325,7 @@
             {
                 "nid": "110",
                 "variant": null,
-                "level": 2,
+                "level": 3,
                 "klass": "Shaman",
                 "faction": "Eientei",
                 "starting_items": [
@@ -349,7 +349,7 @@
             {
                 "nid": "103",
                 "variant": null,
-                "level": 2,
+                "level": 3,
                 "klass": "Archer",
                 "faction": "Eientei",
                 "starting_items": [
@@ -373,7 +373,7 @@
             {
                 "nid": "111",
                 "variant": null,
-                "level": 2,
+                "level": 3,
                 "klass": "Archer",
                 "faction": "Eientei",
                 "starting_items": [
@@ -613,7 +613,7 @@
             {
                 "nid": "120",
                 "variant": null,
-                "level": 2,
+                "level": 3,
                 "klass": "Fencer",
                 "faction": "Eientei",
                 "starting_items": [
@@ -1164,6 +1164,11 @@
                 }
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

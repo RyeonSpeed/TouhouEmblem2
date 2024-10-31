@@ -86,7 +86,7 @@
             {
                 "nid": "101",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Fighter",
                 "faction": "Youkai",
                 "starting_items": [
@@ -234,7 +234,7 @@
             {
                 "nid": "107",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Lancer",
                 "faction": "Youkai",
                 "starting_items": [
@@ -258,7 +258,7 @@
             {
                 "nid": "108",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Fighter",
                 "faction": "Youkai",
                 "starting_items": [
@@ -282,7 +282,7 @@
             {
                 "nid": "109",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Vagrant_S",
                 "faction": "Youkai",
                 "starting_items": [
@@ -319,7 +319,7 @@
             {
                 "nid": "110",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Skeleton",
                 "faction": "Youkai",
                 "starting_items": [
@@ -343,7 +343,7 @@
             {
                 "nid": "111",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Skeleton",
                 "faction": "Youkai",
                 "starting_items": [
@@ -367,7 +367,7 @@
             {
                 "nid": "112",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Demon",
                 "faction": "Youkai",
                 "starting_items": [
@@ -391,7 +391,7 @@
             {
                 "nid": "113",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Acolyte",
                 "faction": "Youkai",
                 "starting_items": [
@@ -415,7 +415,7 @@
             {
                 "nid": "114",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Mage",
                 "faction": "Youkai",
                 "starting_items": [
@@ -439,7 +439,7 @@
             {
                 "nid": "119",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Skeleton",
                 "faction": "Youkai",
                 "starting_items": [
@@ -463,7 +463,7 @@
             {
                 "nid": "118",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Guard",
                 "faction": "Youkai",
                 "starting_items": [
@@ -491,7 +491,7 @@
             {
                 "nid": "117",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Guard",
                 "faction": "Youkai",
                 "starting_items": [
@@ -519,7 +519,7 @@
             {
                 "nid": "115",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Skeleton",
                 "faction": "Youkai",
                 "starting_items": [
@@ -543,7 +543,7 @@
             {
                 "nid": "120",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Skeleton",
                 "faction": "Youkai",
                 "starting_items": [
@@ -567,7 +567,7 @@
             {
                 "nid": "121",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Archer",
                 "faction": "Youkai",
                 "starting_items": [
@@ -591,7 +591,7 @@
             {
                 "nid": "122",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Lance_Rider",
                 "faction": "Youkai",
                 "starting_items": [
@@ -615,7 +615,7 @@
             {
                 "nid": "123",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Demon",
                 "faction": "Youkai",
                 "starting_items": [
@@ -652,7 +652,7 @@
             {
                 "nid": "116",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Archer",
                 "faction": "Youkai",
                 "starting_items": [
@@ -680,7 +680,7 @@
             {
                 "nid": "124",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Mage",
                 "faction": "Youkai",
                 "starting_items": [
@@ -704,7 +704,7 @@
             {
                 "nid": "125",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Archer",
                 "faction": "Youkai",
                 "starting_items": [
@@ -728,7 +728,7 @@
             {
                 "nid": "126",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Mage",
                 "faction": "Youkai",
                 "starting_items": [
@@ -765,7 +765,7 @@
             {
                 "nid": "127",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Brigand",
                 "faction": "Bandit",
                 "starting_items": [
@@ -788,7 +788,7 @@
             {
                 "nid": "131",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Brigand",
                 "faction": "Bandit",
                 "starting_items": [
@@ -811,7 +811,7 @@
             {
                 "nid": "128",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Brigand",
                 "faction": "Bandit",
                 "starting_items": [
@@ -834,7 +834,7 @@
             {
                 "nid": "132",
                 "variant": null,
-                "level": 1,
+                "level": 2,
                 "klass": "Brigand",
                 "faction": "Bandit",
                 "starting_items": [
@@ -1220,6 +1220,11 @@
                 }
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

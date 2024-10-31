@@ -341,7 +341,7 @@
     ],
     [
         "exp_formula",
-        "standard"
+        "gompertz"
     ],
     [
         "kill_multiplier",
