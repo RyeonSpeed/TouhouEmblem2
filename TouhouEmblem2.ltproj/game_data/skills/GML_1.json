@@ -2,7 +2,7 @@
     {
         "nid": "GML_1",
         "name": "Great, Unmoving Library",
-        "desc": "Cannot move and attack in the same turn.",
+        "desc": "Cannot move and attack in the same turn. If Patchy attacks, she may attack again, but only once per player phase.",
         "icon_nid": "moreskillicons",
         "icon_index": [
             0,

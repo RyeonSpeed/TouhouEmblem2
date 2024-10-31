@@ -1,8 +1,8 @@
 [
     {
-        "nid": "Forge",
-        "name": "Forge",
-        "desc": "Applies Metal.",
+        "nid": "Bloom",
+        "name": "Bloom",
+        "desc": "Applies Wood.",
         "icon_nid": "the2icons",
         "icon_index": [
             8,
@@ -28,11 +28,11 @@
             [
                 "multi_item",
                 [
-                    "ForgeForge",
-                    "ForgeHydrate",
-                    "ForgeIgnite",
-                    "ForgeErode",
-                    "ForgeBloom"
+                    "BloomBloom",
+                    "BloomErode",
+                    "BloomHydrate",
+                    "BloomForge",
+                    "BloomIgnite"
                 ]
             ],
             [

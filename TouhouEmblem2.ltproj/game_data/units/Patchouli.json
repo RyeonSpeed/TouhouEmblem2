@@ -34,16 +34,15 @@
         "stat_cap_modifiers": {},
         "starting_items": [
             [
-                "Grimoire",
+                "Grimoire_Display",
+                false
+            ],
+            [
+                "Luna",
                 false
             ]
         ],
-        "learned_skills": [
-            [
-                1,
-                "GML"
-            ]
-        ],
+        "learned_skills": [],
         "unit_notes": [],
         "wexp_gain": {
             "Dark": [

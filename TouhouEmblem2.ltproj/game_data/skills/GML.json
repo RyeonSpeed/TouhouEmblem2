@@ -2,7 +2,7 @@
     {
         "nid": "GML",
         "name": "Great, Unmoving Library",
-        "desc": "Cannot move and attack in the same turn.",
+        "desc": "Cannot move and attack in the same turn. If Patchy attacks with the grimoire, she may attack again.",
         "icon_nid": "moreskillicons",
         "icon_index": [
             0,
@@ -16,6 +16,10 @@
             [
                 "ability_indicator",
                 null
+            ],
+            [
+                "ability",
+                "Grimoire"
             ]
         ]
     }

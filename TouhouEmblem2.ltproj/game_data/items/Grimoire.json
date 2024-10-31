@@ -2,7 +2,7 @@
     {
         "nid": "Grimoire",
         "name": "Grimoire",
-        "desc": "Patchy can move twice when attacking with this item.",
+        "desc": "",
         "icon_nid": "the2icons",
         "icon_index": [
             7,
@@ -13,12 +13,10 @@
                 "multi_item",
                 [
                     "Ignite",
-                    "Splash",
-                    "Growth",
-                    "Unearth",
+                    "Hydrate",
                     "Forge",
-                    "Rising_Sun",
-                    "Dipping_Moon"
+                    "Erode",
+                    "Bloom"
                 ]
             ],
             [
@@ -38,6 +36,18 @@
                 [
                     "Patchouli"
                 ]
+            ],
+            [
+                "max_range",
+                2
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "cooldown",
+                2
             ]
         ]
     }

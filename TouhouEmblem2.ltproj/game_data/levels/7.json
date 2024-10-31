@@ -287,7 +287,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Slim_Lance",
+                        "Armorslayer",
                         false
                     ]
                 ],
@@ -1160,7 +1160,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Steel_Lance",
+                        "Horseslayer",
                         false
                     ],
                     [

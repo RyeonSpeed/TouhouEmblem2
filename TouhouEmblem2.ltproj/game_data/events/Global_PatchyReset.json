@@ -8,8 +8,9 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "reset;{unit}",
-            "give_skill;{unit};Tired;;no_banner"
+            "reset;Patchouli",
+            "sound;RefreshDance",
+            "give_skill;Patchouli;Tired;;no_banner"
         ],
         "nid": "Global PatchyReset"
     }

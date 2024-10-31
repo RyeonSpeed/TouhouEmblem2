@@ -550,6 +550,19 @@
                 ],
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "Patchouli",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    19,
+                    16
+                ],
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [
