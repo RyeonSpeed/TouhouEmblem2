@@ -227,15 +227,10 @@
             {
                 "nid": "102",
                 "variant": null,
-                "level": 20,
-                "klass": "Gendarme",
+                "level": 1,
+                "klass": "Super_Mech",
                 "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Iron_Sword",
-                        false
-                    ]
-                ],
+                "starting_items": [],
                 "starting_skills": [],
                 "team": "enemy",
                 "ai": "None",
@@ -563,6 +558,38 @@
                 ],
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "Rinnosuke",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    12,
+                    10
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "110",
+                "variant": null,
+                "level": 1,
+                "klass": "Dryad",
+                "faction": "Youkai",
+                "starting_items": [],
+                "starting_skills": [],
+                "team": "enemy2",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    12,
+                    17
+                ],
+                "starting_traveler": null,
+                "generic": true
             }
         ],
         "regions": [

@@ -17,6 +17,7 @@
             "add_lore;Elite_Mercenaries",
             "game_var;_fatigue;1",
             "add_lore;Fatigue",
+            "enable_repair_shop;t",
             "trigger_script;6 Fatigue Disappear",
             "add_base_convo;Elites",
             "add_base_convo;Fatigue",

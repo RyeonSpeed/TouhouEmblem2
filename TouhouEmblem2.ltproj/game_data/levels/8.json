@@ -129,7 +129,7 @@
             {
                 "nid": "111",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Skeleton_B",
                 "faction": "Youkai",
                 "starting_items": [
@@ -153,7 +153,7 @@
             {
                 "nid": "112",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Skeleton_B",
                 "faction": "Youkai",
                 "starting_items": [
@@ -177,7 +177,7 @@
             {
                 "nid": "133",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Skeleton_B",
                 "faction": "Youkai",
                 "starting_items": [
@@ -201,7 +201,7 @@
             {
                 "nid": "140",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Skeleton_B",
                 "faction": "Youkai",
                 "starting_items": [
@@ -225,7 +225,7 @@
             {
                 "nid": "151",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Skeleton_B",
                 "faction": "Youkai",
                 "starting_items": [
@@ -249,7 +249,7 @@
             {
                 "nid": "154",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Skeleton_B",
                 "faction": "Youkai",
                 "starting_items": [
@@ -273,7 +273,7 @@
             {
                 "nid": "159",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Skeleton_B",
                 "faction": "Youkai",
                 "starting_items": [
@@ -297,7 +297,7 @@
             {
                 "nid": "160",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Skeleton_B",
                 "faction": "Youkai",
                 "starting_items": [
@@ -321,7 +321,7 @@
             {
                 "nid": "141",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Skeleton_B",
                 "faction": "Youkai",
                 "starting_items": [
@@ -345,7 +345,7 @@
             {
                 "nid": "113",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Skeleton_B",
                 "faction": "Youkai",
                 "starting_items": [
@@ -373,7 +373,7 @@
             {
                 "nid": "170",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Skeleton_B",
                 "faction": "Youkai",
                 "starting_items": [
@@ -401,7 +401,7 @@
             {
                 "nid": "114",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Skeleton_B",
                 "faction": "Youkai",
                 "starting_items": [
@@ -429,7 +429,7 @@
             {
                 "nid": "116",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Skeleton",
                 "faction": "Youkai",
                 "starting_items": [
@@ -453,7 +453,7 @@
             {
                 "nid": "117",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Skeleton",
                 "faction": "Youkai",
                 "starting_items": [
@@ -477,7 +477,7 @@
             {
                 "nid": "157",
                 "variant": null,
-                "level": 7,
+                "level": 9,
                 "klass": "Skeleton",
                 "faction": "Youkai",
                 "starting_items": [
@@ -501,7 +501,7 @@
             {
                 "nid": "158",
                 "variant": null,
-                "level": 7,
+                "level": 9,
                 "klass": "Skeleton",
                 "faction": "Youkai",
                 "starting_items": [
@@ -525,7 +525,7 @@
             {
                 "nid": "161",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Skeleton",
                 "faction": "Youkai",
                 "starting_items": [
@@ -549,7 +549,7 @@
             {
                 "nid": "131",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Skeleton",
                 "faction": "Youkai",
                 "starting_items": [
@@ -573,7 +573,7 @@
             {
                 "nid": "132",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Skeleton",
                 "faction": "Youkai",
                 "starting_items": [
@@ -597,7 +597,7 @@
             {
                 "nid": "122",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Skeleton",
                 "faction": "Youkai",
                 "starting_items": [
@@ -621,7 +621,7 @@
             {
                 "nid": "142",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Skeleton",
                 "faction": "Youkai",
                 "starting_items": [
@@ -645,7 +645,7 @@
             {
                 "nid": "123",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Skeleton",
                 "faction": "Youkai",
                 "starting_items": [
@@ -669,12 +669,12 @@
             {
                 "nid": "124",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Skeleton",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Javelin",
+                        "Short_Spear",
                         false
                     ]
                 ],
@@ -693,12 +693,12 @@
             {
                 "nid": "153",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Skeleton",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Javelin",
+                        "Short_Spear",
                         false
                     ]
                 ],
@@ -717,7 +717,7 @@
             {
                 "nid": "115",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Occultist",
                 "faction": "Youkai",
                 "starting_items": [
@@ -741,7 +741,7 @@
             {
                 "nid": "139",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Occultist",
                 "faction": "Youkai",
                 "starting_items": [
@@ -765,7 +765,7 @@
             {
                 "nid": "155",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Occultist",
                 "faction": "Youkai",
                 "starting_items": [
@@ -793,7 +793,7 @@
             {
                 "nid": "156",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Occultist",
                 "faction": "Youkai",
                 "starting_items": [
@@ -817,7 +817,7 @@
             {
                 "nid": "118",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Mage",
                 "faction": "Youkai",
                 "starting_items": [
@@ -841,7 +841,7 @@
             {
                 "nid": "134",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Mage",
                 "faction": "Youkai",
                 "starting_items": [
@@ -865,7 +865,7 @@
             {
                 "nid": "127",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Acolyte",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -889,7 +889,7 @@
             {
                 "nid": "119",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Grave_Rider",
                 "faction": "Youkai",
                 "starting_items": [
@@ -913,7 +913,7 @@
             {
                 "nid": "166",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Centaur",
                 "faction": "Youkai",
                 "starting_items": [
@@ -941,7 +941,7 @@
             {
                 "nid": "167",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Centaur",
                 "faction": "Youkai",
                 "starting_items": [
@@ -969,7 +969,7 @@
             {
                 "nid": "120",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Grave_Rider",
                 "faction": "Youkai",
                 "starting_items": [
@@ -993,7 +993,7 @@
             {
                 "nid": "143",
                 "variant": null,
-                "level": 7,
+                "level": 9,
                 "klass": "Centaur",
                 "faction": "Youkai",
                 "starting_items": [
@@ -1021,7 +1021,7 @@
             {
                 "nid": "121",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Centaur",
                 "faction": "Youkai",
                 "starting_items": [
@@ -1049,12 +1049,12 @@
             {
                 "nid": "125",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Revenant",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Razor_Claw",
+                        "Wild_Strike",
                         false
                     ]
                 ],
@@ -1073,7 +1073,7 @@
             {
                 "nid": "150",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Revenant",
                 "faction": "Youkai",
                 "starting_items": [
@@ -1097,12 +1097,12 @@
             {
                 "nid": "162",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Revenant",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Razor_Claw",
+                        "Wild_Strike",
                         false
                     ]
                 ],
@@ -1121,7 +1121,7 @@
             {
                 "nid": "126",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Revenant",
                 "faction": "Youkai",
                 "starting_items": [
@@ -1145,7 +1145,7 @@
             {
                 "nid": "135",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Revenant",
                 "faction": "Youkai",
                 "starting_items": [
@@ -1169,12 +1169,12 @@
             {
                 "nid": "136",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Revenant",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Fang",
+                        "Rotfang",
                         false
                     ]
                 ],
@@ -1193,7 +1193,7 @@
             {
                 "nid": "138",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Revenant",
                 "faction": "Youkai",
                 "starting_items": [
@@ -1217,7 +1217,7 @@
             {
                 "nid": "128",
                 "variant": null,
-                "level": 7,
+                "level": 9,
                 "klass": "Demon",
                 "faction": "Youkai",
                 "starting_items": [
@@ -1241,7 +1241,7 @@
             {
                 "nid": "164",
                 "variant": null,
-                "level": 7,
+                "level": 9,
                 "klass": "Demon",
                 "faction": "Youkai",
                 "starting_items": [
@@ -1265,7 +1265,7 @@
             {
                 "nid": "165",
                 "variant": null,
-                "level": 7,
+                "level": 9,
                 "klass": "Demon",
                 "faction": "Youkai",
                 "starting_items": [
@@ -1289,7 +1289,7 @@
             {
                 "nid": "137",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Demon",
                 "faction": "Youkai",
                 "starting_items": [
@@ -1313,7 +1313,7 @@
             {
                 "nid": "129",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Demon",
                 "faction": "Youkai",
                 "starting_items": [
@@ -1337,12 +1337,12 @@
             {
                 "nid": "130",
                 "variant": null,
-                "level": 7,
+                "level": 10,
                 "klass": "Pirate",
                 "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Swordreaver",
+                        "Brave_Axe",
                         false
                     ]
                 ],
@@ -1361,7 +1361,7 @@
             {
                 "nid": "144",
                 "variant": null,
-                "level": 7,
+                "level": 9,
                 "klass": "Cursed_Armor",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1385,7 +1385,7 @@
             {
                 "nid": "145",
                 "variant": null,
-                "level": 7,
+                "level": 9,
                 "klass": "Cursed_Armor",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1409,7 +1409,7 @@
             {
                 "nid": "163",
                 "variant": null,
-                "level": 7,
+                "level": 9,
                 "klass": "Cursed_Armor",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1505,7 +1505,7 @@
             {
                 "nid": "146",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Cursed_Armor",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1529,7 +1529,7 @@
             {
                 "nid": "147",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Cursed_Armor",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1553,7 +1553,7 @@
             {
                 "nid": "148",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Cursed_Armor",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1577,7 +1577,7 @@
             {
                 "nid": "149",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Cursed_Armor",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1601,7 +1601,7 @@
             {
                 "nid": "152",
                 "variant": null,
-                "level": 7,
+                "level": 8,
                 "klass": "Cursed_Armor",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1625,7 +1625,7 @@
             {
                 "nid": "168",
                 "variant": null,
-                "level": 7,
+                "level": 9,
                 "klass": "Cursed_Armor",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1649,7 +1649,7 @@
             {
                 "nid": "169",
                 "variant": null,
-                "level": 7,
+                "level": 9,
                 "klass": "Cursed_Armor",
                 "faction": "Insurgents",
                 "starting_items": [

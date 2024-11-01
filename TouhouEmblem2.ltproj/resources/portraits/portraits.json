@@ -1534,5 +1534,41 @@
             40
         ],
         "info_offset": 0
+    },
+    {
+        "nid": "Vyland",
+        "blinking_offset": [
+            24,
+            24
+        ],
+        "smiling_offset": [
+            24,
+            40
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Baguette",
+        "blinking_offset": [
+            0,
+            48
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "tezuka",
+        "blinking_offset": [
+            24,
+            24
+        ],
+        "smiling_offset": [
+            24,
+            40
+        ],
+        "info_offset": 0
     }
 ]
