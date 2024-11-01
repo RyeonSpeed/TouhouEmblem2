@@ -1,0 +1,32 @@
+[
+    {
+        "name": "DefeatRumia",
+        "trigger": "combat_end",
+        "level_nid": "0",
+        "condition": "game.check_dead(\"Rumia_Boss\")",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "change_music;player_phase;Dullahan Under the Willows",
+            "change_music;enemy_phase;Dullahan Under the Willows",
+            "add_portrait;Rumia;Left",
+            "enable_fog_of_war;t",
+            "speak;;Darkness Sign \"Demarcation\";center;150;hint;;red;;;1;;;;;Warp",
+            "set_fog_of_war;thracia;3;3;3",
+            "add_group;RumiaStage2;RumiaStage2;warp",
+            "move_cursor;Rumia_Boss_1",
+            "speak;Rumia;Hahaha! Let's see you find me now!",
+            "remove_portrait;Rumia",
+            "move_cursor;Reimu",
+            "add_portrait;Reimu;Right",
+            "add_portrait;Kasen;Left",
+            "speak;Reimu;What the heck is this? A spell card?",
+            "speak;Kasen;Hmmm...not quite. It seems that whatever's causing this incident is also causing people to|go haywire with their powers, letting them unleash special attack patterns.",
+            "speak;Reimu;So they're...spell cards.",
+            "multi_remove_portrait;Reimu;Kasen",
+            "speak;;Certain boss characters will unleash \"special patterns\" after they are defeated the first time.|As a rule of thumb, all bosses with a portrait will usually have at least one \"special pattern\".;;;hint"
+        ],
+        "nid": "0 DefeatRumia"
+    }
+]

@@ -365,6 +365,48 @@
                 "generic": true
             },
             {
+                "nid": "115",
+                "variant": null,
+                "level": 1,
+                "klass": "Shaman",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Flux",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "116",
+                "variant": null,
+                "level": 1,
+                "klass": "Shaman",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Flux",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
                 "nid": "114",
                 "variant": null,
                 "level": 1,
@@ -424,6 +466,16 @@
                 ],
                 "starting_traveler": null,
                 "generic": true
+            },
+            {
+                "nid": "Rumia_Boss_1",
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [
@@ -510,8 +562,35 @@
                         4
                     ]
                 }
+            },
+            {
+                "nid": "RumiaStage2",
+                "units": [
+                    "Rumia_Boss_1",
+                    "115",
+                    "116"
+                ],
+                "positions": {
+                    "Rumia_Boss_1": [
+                        7,
+                        4
+                    ],
+                    "115": [
+                        6,
+                        3
+                    ],
+                    "116": [
+                        8,
+                        3
+                    ]
+                }
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

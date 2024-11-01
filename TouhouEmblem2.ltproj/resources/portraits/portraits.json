@@ -1570,5 +1570,17 @@
             40
         ],
         "info_offset": 0
+    },
+    {
+        "nid": "ApsisdevisioBuskHusker",
+        "blinking_offset": [
+            16,
+            24
+        ],
+        "smiling_offset": [
+            24,
+            40
+        ],
+        "info_offset": 0
     }
 ]
