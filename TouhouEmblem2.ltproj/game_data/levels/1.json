@@ -915,6 +915,257 @@
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": true
+            },
+            {
+                "nid": "Kagerou_Boss_1",
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "133",
+                "variant": null,
+                "level": 2,
+                "klass": "Lycanthrope",
+                "faction": "Afterimage",
+                "starting_items": [
+                    [
+                        "Wild_Strike",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "134",
+                "variant": null,
+                "level": 2,
+                "klass": "Lycanthrope",
+                "faction": "Afterimage",
+                "starting_items": [
+                    [
+                        "Wild_Strike",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "135",
+                "variant": null,
+                "level": 2,
+                "klass": "Lycanthrope",
+                "faction": "Afterimage",
+                "starting_items": [
+                    [
+                        "Wild_Strike",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "136",
+                "variant": null,
+                "level": 2,
+                "klass": "Lycanthrope",
+                "faction": "Afterimage",
+                "starting_items": [
+                    [
+                        "Wild_Strike",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Sekibanki_Boss_1",
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "137",
+                "variant": null,
+                "level": 2,
+                "klass": "Shaman",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Flux",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "138",
+                "variant": null,
+                "level": 2,
+                "klass": "Shaman",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Flux",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "139",
+                "variant": null,
+                "level": 2,
+                "klass": "Shaman",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Flux",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "140",
+                "variant": null,
+                "level": 2,
+                "klass": "Shaman",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Flux",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "141",
+                "variant": null,
+                "level": 2,
+                "klass": "Shaman",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Flux",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "142",
+                "variant": null,
+                "level": 2,
+                "klass": "Shaman",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Flux",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "143",
+                "variant": null,
+                "level": 2,
+                "klass": "Shaman",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Flux",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
             }
         ],
         "regions": [
@@ -1216,6 +1467,79 @@
                     "132": [
                         1,
                         8
+                    ]
+                }
+            },
+            {
+                "nid": "KagerouSpell",
+                "units": [
+                    "Kagerou_Boss_1",
+                    "134",
+                    "135"
+                ],
+                "positions": {
+                    "Kagerou_Boss_1": [
+                        3,
+                        22
+                    ],
+                    "133": [
+                        1,
+                        22
+                    ],
+                    "134": [
+                        2,
+                        23
+                    ],
+                    "135": [
+                        4,
+                        23
+                    ],
+                    "136": [
+                        5,
+                        22
+                    ]
+                }
+            },
+            {
+                "nid": "SekibankiSpell",
+                "units": [
+                    "Sekibanki_Boss_1",
+                    "140",
+                    "141",
+                    "142"
+                ],
+                "positions": {
+                    "Sekibanki_Boss_1": [
+                        22,
+                        11
+                    ],
+                    "137": [
+                        21,
+                        10
+                    ],
+                    "138": [
+                        23,
+                        10
+                    ],
+                    "139": [
+                        14,
+                        18
+                    ],
+                    "140": [
+                        14,
+                        20
+                    ],
+                    "141": [
+                        19,
+                        18
+                    ],
+                    "142": [
+                        22,
+                        19
+                    ],
+                    "143": [
+                        22,
+                        10
                     ]
                 }
             }

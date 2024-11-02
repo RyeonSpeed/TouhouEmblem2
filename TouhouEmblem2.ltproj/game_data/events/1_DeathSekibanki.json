@@ -9,10 +9,8 @@
         "priority": 20,
         "_source": [
             "add_portrait;Sekibanki;Left",
-            "speak;Sekibanki;Ugh...You're still awfully strong...",
-            "expression;Sekibanki;CloseEyes",
-            "remove_portrait;Sekibanki",
-            "give_bexp;50;no_banner"
+            "speak;Sekibanki;Heheh...I'm not done just yet...",
+            "remove_portrait;Sekibanki"
         ],
         "nid": "1 DeathSekibanki"
     }

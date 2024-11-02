@@ -2,7 +2,7 @@
     {
         "nid": "Night_Hunter",
         "name": "Night Hunter",
-        "desc": "+4 Str/Mag/Skl/Spd and +1 Mov but also doubles damage taken from follow up attacks.",
+        "desc": "+4 Str/Mag and +1 Mov but also doubles damage taken from follow up attacks.",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,
@@ -21,14 +21,6 @@
                         4
                     ],
                     [
-                        "SPD",
-                        4
-                    ],
-                    [
-                        "SKL",
-                        4
-                    ],
-                    [
                         "MOV",
                         1
                     ]
@@ -36,7 +28,7 @@
             ],
             [
                 "resist_follow_up",
-                1.5
+                2.0
             ],
             [
                 "lost_on_end_chapter",

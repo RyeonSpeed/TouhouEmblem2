@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "WolfSign",
+        "name": "Wolf Sign \"Star Ring Pounce\"",
+        "desc": "Kagerou teleports across the map and summons 4 afterimages. She also becomes much stronger.\nCapture Bonus: 200 Bonus EXP",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            8,
+            5
+        ],
+        "components": [
+            [
+                "combat_art_indicator",
+                null
+            ]
+        ]
+    }
+]

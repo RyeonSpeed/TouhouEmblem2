@@ -55,7 +55,12 @@
                 true
             ]
         ],
-        "learned_skills": [],
+        "learned_skills": [
+            [
+                1,
+                "DarknessSign"
+            ]
+        ],
         "unit_notes": [],
         "wexp_gain": {
             "Dark": [

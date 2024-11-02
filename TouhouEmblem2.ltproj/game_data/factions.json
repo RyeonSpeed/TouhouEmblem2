@@ -78,5 +78,15 @@
             0,
             0
         ]
+    },
+    {
+        "nid": "Afterimage",
+        "name": "Afterimage",
+        "desc": "Afterimages created by Kagerou's blistering speed.",
+        "icon_nid": "MonsterEmblem",
+        "icon_index": [
+            0,
+            0
+        ]
     }
 ]

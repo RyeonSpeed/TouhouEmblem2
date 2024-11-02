@@ -1,6 +1,6 @@
 [
     {
-        "nid": "Sekibanki_Boss",
+        "nid": "Sekibanki_Boss_1",
         "name": "Sekibanki ",
         "desc": "A rokurokubi who is a member of the Grassroots Youkai Network. Usually a solitary and reclusive youkai.",
         "variant": null,
@@ -67,10 +67,6 @@
             [
                 1,
                 "Indomitable_Spirit"
-            ],
-            [
-                1,
-                "FlyingHead"
             ]
         ],
         "unit_notes": [],

@@ -1,0 +1,19 @@
+[
+    {
+        "name": "DeathKagerou_1",
+        "trigger": "combat_death",
+        "level_nid": "1",
+        "condition": "unit.nid == \"Kagerou_Boss_1\"",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Kagerou;Left",
+            "speak;Kagerou;I knew I shouldn't have come out...",
+            "expression;Kagerou;CloseEyes",
+            "remove_portrait;Kagerou",
+            "give_bexp;200;Reimu"
+        ],
+        "nid": "1 DeathKagerou_1"
+    }
+]

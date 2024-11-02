@@ -4,7 +4,9 @@
     "0_DeathRumia_1",
     "5_DeathReisen",
     "1_DeathSekibanki",
+    "1_DeathSekibanki_1",
     "1_DeathKagerou",
+    "1_DeathKagerou_1",
     "1_DeathWakasagihime",
     "0_Outro",
     "0_DefeatRumia",
@@ -291,5 +293,8 @@
     "4_Fight_TewiKasen",
     "Global_SeedRerolling",
     "Global_New_Event",
-    "DEBUG_1_New_Event_3"
+    "DEBUG_1_New_Event_3",
+    "1_DefeatKagerou",
+    "1_DefeatSekibanki",
+    "DEBUG_1_New_Event_4"
 ]

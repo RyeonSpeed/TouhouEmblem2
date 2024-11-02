@@ -903,6 +903,58 @@
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": true
+            },
+            {
+                "nid": "Ringo_Boss_1",
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "137",
+                "variant": null,
+                "level": 4,
+                "klass": "Archer",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Steel_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "138",
+                "variant": null,
+                "level": 4,
+                "klass": "Mage",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Thunder",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
             }
         ],
         "regions": [
@@ -1162,8 +1214,35 @@
                         18
                     ]
                 }
+            },
+            {
+                "nid": "RingoSpell",
+                "units": [
+                    "Ringo_Boss_1",
+                    "137",
+                    "138"
+                ],
+                "positions": {
+                    "Ringo_Boss_1": [
+                        1,
+                        15
+                    ],
+                    "137": [
+                        0,
+                        14
+                    ],
+                    "138": [
+                        0,
+                        16
+                    ]
+                }
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

@@ -1,0 +1,19 @@
+[
+    {
+        "name": "DeathSekibanki_1",
+        "trigger": "combat_death",
+        "level_nid": "1",
+        "condition": "unit.nid == \"Sekibanki_Boss_1\"",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Sekibanki;Left",
+            "speak;Sekibanki;Ugh...You're still awfully strong...",
+            "expression;Sekibanki;CloseEyes",
+            "remove_portrait;Sekibanki",
+            "give_bexp;100;Reimu"
+        ],
+        "nid": "1 DeathSekibanki_1"
+    }
+]
