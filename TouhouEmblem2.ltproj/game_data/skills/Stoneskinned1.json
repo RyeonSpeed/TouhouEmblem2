@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "Stoneskinned1",
+        "name": "Stoneskinned1",
+        "desc": "Unit gains +4 defense but -2 speed.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            1,
+            6
+        ],
+        "components": [
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "combat_condition",
+                "app.engine.item_funcs.is_ranged is True"
+            ],
+            [
+                "resist_multiplier",
+                2.0
+            ],
+            [
+                "hidden",
+                null
+            ]
+        ]
+    }
+]

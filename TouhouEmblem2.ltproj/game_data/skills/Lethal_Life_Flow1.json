@@ -12,6 +12,10 @@
             [
                 "damage",
                 1000
+            ],
+            [
+                "combat_condition",
+                "\"Boss\" in unit2.tags"
             ]
         ]
     }

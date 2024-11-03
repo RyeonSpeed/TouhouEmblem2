@@ -1,0 +1,81 @@
+[
+    {
+        "nid": "Tewi_Boss_1",
+        "name": "Tewi",
+        "desc": "The White Rabbit of Inaba. Insanely lucky and known to spread luck blessings around.",
+        "variant": null,
+        "level": 7,
+        "klass": "Thief",
+        "tags": [
+            "Boss"
+        ],
+        "bases": {
+            "HP": 28,
+            "STR": 8,
+            "MAG": 6,
+            "SKL": 5,
+            "SPD": 14,
+            "LCK": 12,
+            "DEF": 5,
+            "RES": 7,
+            "CON": 6,
+            "MOV": 6
+        },
+        "growths": {
+            "HP": 65,
+            "STR": 35,
+            "MAG": 25,
+            "SKL": 45,
+            "SPD": 60,
+            "LCK": 200,
+            "DEF": 20,
+            "RES": 35,
+            "CON": 0,
+            "MOV": 5
+        },
+        "stat_cap_modifiers": {
+            "HP": 0,
+            "STR": 0,
+            "MAG": 0,
+            "SKL": 0,
+            "SPD": 0,
+            "LCK": 0,
+            "DEF": 0,
+            "RES": 0,
+            "CON": 0,
+            "MOV": 0
+        },
+        "starting_items": [
+            [
+                "Shine_Knife",
+                false
+            ],
+            [
+                "Killing_Edge",
+                false
+            ],
+            [
+                "Armorslayer",
+                false
+            ]
+        ],
+        "learned_skills": [
+            [
+                1,
+                "Super_Luck"
+            ]
+        ],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                71,
+                null
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "Tewi",
+        "affinity": "Light",
+        "fields": []
+    }
+]

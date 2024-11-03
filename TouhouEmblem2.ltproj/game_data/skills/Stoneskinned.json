@@ -2,7 +2,7 @@
     {
         "nid": "Stoneskinned",
         "name": "Stoneskinned",
-        "desc": "Unit gains +4 defense for 1 turn after ending their turn.",
+        "desc": "Unit gains +4 defense but -2 speed.",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,
@@ -12,6 +12,13 @@
             [
                 "ability_indicator",
                 null
+            ],
+            [
+                "multi_skill",
+                [
+                    "Stoneskinned1",
+                    "Stoneskinned2"
+                ]
             ]
         ]
     }

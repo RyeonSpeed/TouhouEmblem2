@@ -1,0 +1,18 @@
+[
+    {
+        "name": "DefeatRingo_1",
+        "trigger": "combat_death",
+        "level_nid": "3",
+        "condition": "unit.nid == \"Ringo_Boss_1\"",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Ringo;Left",
+            "speak;Ringo;I guess that's enough for today!",
+            "remove_portrait;Ringo",
+            "give_bexp;100;Reimu"
+        ],
+        "nid": "3 DefeatRingo_1"
+    }
+]

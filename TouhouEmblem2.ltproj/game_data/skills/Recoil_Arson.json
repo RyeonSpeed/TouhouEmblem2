@@ -8,6 +8,11 @@
             0,
             1
         ],
-        "components": []
+        "components": [
+            [
+                "mid_battle_recoil",
+                "-30"
+            ]
+        ]
     }
 ]

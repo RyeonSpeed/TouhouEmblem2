@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "FeelingLucky",
+        "name": "Feeling Lucky?",
+        "desc": "After initiating combat, the user will be inflicted with a random effect.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            4,
+            1
+        ],
+        "components": [
+            [
+                "event_after_initiated_combat",
+                "Global TewiLucky"
+            ],
+            [
+                "lost_on_end_chapter",
+                null
+            ]
+        ]
+    }
+]

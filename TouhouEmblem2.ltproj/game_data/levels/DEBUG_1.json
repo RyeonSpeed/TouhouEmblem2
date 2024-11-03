@@ -56,20 +56,16 @@
             {
                 "nid": "104",
                 "variant": null,
-                "level": 1,
+                "level": 7,
                 "klass": "Brigand",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Flame_Axe",
+                        "Iron_Axe",
                         false
                     ],
                     [
-                        "Ciggie_Box",
-                        false
-                    ],
-                    [
-                        "Torch_Tome",
+                        "Stone_Bowl",
                         false
                     ]
                 ],
@@ -80,6 +76,30 @@
                 "ai_group": "",
                 "starting_position": [
                     13,
+                    11
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "112",
+                "variant": null,
+                "level": 7,
+                "klass": "Brigand",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    15,
                     11
                 ],
                 "starting_traveler": null,
@@ -587,6 +607,32 @@
                 "starting_position": [
                     12,
                     17
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "111",
+                "variant": null,
+                "level": 9,
+                "klass": "Occultist",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Ciggie_Box",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "FeelingLucky"
+                ],
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    19,
+                    20
                 ],
                 "starting_traveler": null,
                 "generic": true

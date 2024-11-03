@@ -5,7 +5,7 @@
         "level_nid": "6",
         "condition": "unit.nid == \"Yumemi_Boss\" or unit2.nid == \"Yumemi_Boss\"",
         "commands": [],
-        "only_once": false,
+        "only_once": true,
         "priority": 20,
         "_source": [
             ""

@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "AncientDuper",
+        "name": "\"Ancient Duper\"",
+        "desc": "Tewi will spawn enemies around the map. Every attack that you or an opponent makes will incur a random effect.\nCapture Bonus: Mandatory",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            8,
+            5
+        ],
+        "components": [
+            [
+                "combat_art_indicator",
+                null
+            ]
+        ]
+    }
+]

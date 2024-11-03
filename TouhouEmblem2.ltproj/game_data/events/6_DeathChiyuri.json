@@ -1,6 +1,6 @@
 [
     {
-        "name": "ChiyuriDeath",
+        "name": "DeathChiyuri",
         "trigger": "unit_death",
         "level_nid": "6",
         "condition": "unit.nid == \"Chiyuri_Boss\"",
@@ -10,6 +10,6 @@
         "_source": [
             ""
         ],
-        "nid": "6 ChiyuriDeath"
+        "nid": "6 DeathChiyuri"
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "name": "YumemiDeath",
+        "name": "DeathYumemi",
         "trigger": "unit_death",
         "level_nid": "6",
         "condition": "unit.nid == \"Yumemi_Boss\"",
@@ -10,6 +10,6 @@
         "_source": [
             ""
         ],
-        "nid": "6 YumemiDeath"
+        "nid": "6 DeathYumemi"
     }
 ]

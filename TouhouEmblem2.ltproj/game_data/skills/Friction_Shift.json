@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "Friction_Shift",
+        "name": "Friction Shift",
+        "desc": "-1 Dmg/-1 AS for each tile moved.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            6,
+            0
+        ],
+        "components": [
+            [
+                "dynamic_damage",
+                "-(unit.get_stat('MOV') - unit._movement_left)"
+            ],
+            [
+                "dynamic_attack_speed",
+                "-(unit.get_stat('MOV') - unit._movement_left)"
+            ],
+            [
+                "unit_flickering_tint",
+                [
+                    76,
+                    255,
+                    112
+                ]
+            ]
+        ]
+    }
+]
