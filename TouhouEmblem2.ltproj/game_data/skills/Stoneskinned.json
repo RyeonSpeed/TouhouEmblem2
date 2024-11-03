@@ -2,7 +2,7 @@
     {
         "nid": "Stoneskinned",
         "name": "Stoneskinned",
-        "desc": "Unit gains +4 defense but -2 speed.",
+        "desc": "Halves damage when in combat at 1 range, doubles damage otherwise.",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,

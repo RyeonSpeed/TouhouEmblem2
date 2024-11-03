@@ -14,16 +14,16 @@
                 null
             ],
             [
-                "combat_condition",
-                "app.engine.item_funcs.is_ranged is True"
-            ],
-            [
                 "resist_multiplier",
                 2.0
             ],
             [
                 "hidden",
                 null
+            ],
+            [
+                "combat_condition",
+                "item_funcs.is_ranged(unit2, item2)"
             ]
         ]
     }

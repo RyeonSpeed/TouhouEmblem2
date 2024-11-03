@@ -67,6 +67,10 @@
                     [
                         "Stone_Bowl",
                         false
+                    ],
+                    [
+                        "Hand_Axe",
+                        false
                     ]
                 ],
                 "starting_skills": [],
@@ -89,7 +93,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Iron_Axe",
+                        "Hand_Axe",
                         false
                     ]
                 ],
@@ -605,8 +609,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    12,
-                    17
+                    5,
+                    13
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -675,6 +679,11 @@
             }
         ],
         "unit_groups": [],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]
