@@ -9,7 +9,7 @@
         "priority": 20,
         "_source": [
             "add_portrait;Ringo;Left",
-            "speak;Ringo;Ah well, I lost...Time to rest...",
+            "speak;Ringo;Tch, tough customer, eh?",
             "remove_portrait;Ringo"
         ],
         "nid": "3 DefeatRingo"

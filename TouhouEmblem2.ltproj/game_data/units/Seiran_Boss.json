@@ -49,10 +49,6 @@
             [
                 "Killer_Axe",
                 false
-            ],
-            [
-                "Energy_Ring",
-                false
             ]
         ],
         "learned_skills": [
@@ -63,6 +59,10 @@
             [
                 1,
                 "Indomitable_Spirit"
+            ],
+            [
+                1,
+                "BulletSign"
             ]
         ],
         "unit_notes": [],

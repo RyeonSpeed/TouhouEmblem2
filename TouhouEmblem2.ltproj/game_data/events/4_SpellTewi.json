@@ -1,0 +1,27 @@
+[
+    {
+        "name": "SpellTewi",
+        "trigger": "combat_end",
+        "level_nid": "4",
+        "condition": "game.check_dead(\"Tewi_Boss\")",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "change_music;player_phase;Dullahan Under the Willows",
+            "change_music;enemy_phase;Dullahan Under the Willows",
+            "enable_fog_of_war;f",
+            "add_portrait;Tewi;Left",
+            "speak;;\"Ancient Duper\";center;90;hint;;red;;;1;;;;;Warp",
+            "add_group;TewiSpell;TewiSpell;warp;closest",
+            "move_cursor;Tewi_Boss_1",
+            "speak;Tewi;Hey, hey, hey! Feeling...lucky?",
+            "remove_portrait;Tewi",
+            "for;VICTIMS;[x.nid for x in game.get_all_units()]",
+            "give_skill;{VICTIMS};FeelingLucky;;no_banner",
+            "endf",
+            "end"
+        ],
+        "nid": "4 SpellTewi"
+    }
+]

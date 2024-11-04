@@ -1,0 +1,35 @@
+[
+    {
+        "nid": "Decreasing_Work_Efficiency",
+        "name": "Decreasing Work Efficiency",
+        "desc": "-2 HP for each tile moved.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            6,
+            0
+        ],
+        "components": [
+            [
+                "unit_flickering_tint",
+                [
+                    255,
+                    170,
+                    0
+                ]
+            ],
+            [
+                "lost_on_end_chapter",
+                null
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "MOV",
+                        -2
+                    ]
+                ]
+            ]
+        ]
+    }
+]

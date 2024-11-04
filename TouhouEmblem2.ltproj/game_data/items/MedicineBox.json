@@ -1,0 +1,48 @@
+[
+    {
+        "nid": "MedicineBox",
+        "name": "Medicine Box",
+        "desc": "Can restore self or other units of any negative status effects.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            5,
+            4
+        ],
+        "components": [
+            [
+                "prf_unit",
+                [
+                    "Kasen"
+                ]
+            ],
+            [
+                "accessory",
+                null
+            ],
+            [
+                "target_ally",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                1
+            ],
+            [
+                "restore",
+                null
+            ],
+            [
+                "battle_cast_anim",
+                "Restore"
+            ],
+            [
+                "spell",
+                null
+            ]
+        ]
+    }
+]

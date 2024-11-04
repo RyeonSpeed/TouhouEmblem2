@@ -4,7 +4,7 @@
         "name": "Kasen",
         "desc": "A hermit from the mountain. She acts as a mentor to Reimu and often lectures her. Holds a secret below her wisdom.\n",
         "variant": null,
-        "level": 1,
+        "level": 10,
         "klass": "Veteran_K",
         "tags": [],
         "bases": {
@@ -14,14 +14,14 @@
             "SKL": 13,
             "SPD": 12,
             "LCK": 4,
-            "DEF": 11,
+            "DEF": 12,
             "CON": 11,
             "MOV": 6,
-            "RES": 6
+            "RES": 8
         },
         "growths": {
-            "HP": 90,
-            "STR": 30,
+            "HP": 100,
+            "STR": 40,
             "MAG": 25,
             "SKL": 45,
             "SPD": 30,
@@ -54,6 +54,10 @@
             ],
             [
                 "Life_Gem",
+                false
+            ],
+            [
+                "MedicineBox",
                 false
             ]
         ],

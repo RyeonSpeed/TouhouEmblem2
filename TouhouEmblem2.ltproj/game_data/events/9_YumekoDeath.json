@@ -1,0 +1,15 @@
+[
+    {
+        "name": "YumekoDeath",
+        "trigger": "unit_death",
+        "level_nid": "9",
+        "condition": "unit.nid == 'Yumeko_Boss'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            ""
+        ],
+        "nid": "9 YumekoDeath"
+    }
+]

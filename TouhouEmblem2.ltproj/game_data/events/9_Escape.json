@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Escape",
+        "trigger": "Escape",
+        "level_nid": "9",
+        "condition": "region.nid == 'Escape'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "remove_unit;{unit}",
+            "wait;400",
+            "if;not any(unit.team == 'player' for unit in game.units if unit.position)",
+            "    win_game",
+            "end"
+        ],
+        "nid": "9 Escape"
+    }
+]

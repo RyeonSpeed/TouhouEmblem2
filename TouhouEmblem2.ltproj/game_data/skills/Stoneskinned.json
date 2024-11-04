@@ -2,7 +2,7 @@
     {
         "nid": "Stoneskinned",
         "name": "Stoneskinned",
-        "desc": "Unit gains +4 defense for 1 turn after ending their turn.",
+        "desc": "Halves damage when fighting a unit with a weapon with only 1 range. Doubles damage if fighting a unit with a weapon with a range greater than 1.",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,
@@ -12,6 +12,13 @@
             [
                 "ability_indicator",
                 null
+            ],
+            [
+                "multi_skill",
+                [
+                    "Stoneskinned1",
+                    "Stoneskinned2"
+                ]
             ]
         ]
     }

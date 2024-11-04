@@ -11,7 +11,7 @@
             "Flying",
             "Monster"
         ],
-        "max_level": 20,
+        "max_level": 40,
         "bases": {
             "HP": 0,
             "STR": 0,
@@ -119,17 +119,17 @@
                 0,
                 null
             ],
+            "Martial": [
+                false,
+                0,
+                null
+            ],
             "Default": [
                 false,
                 0,
                 null
             ],
             "Monster": [
-                false,
-                0,
-                null
-            ],
-            "Martial": [
                 false,
                 0,
                 null

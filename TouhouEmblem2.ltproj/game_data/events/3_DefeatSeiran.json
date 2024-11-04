@@ -9,7 +9,7 @@
         "priority": 20,
         "_source": [
             "add_portrait;Seiran;Left",
-            "speak;Seiran;I'm handing in my resignation after this...",
+            "speak;Seiran;Let me show you a little of what I can do!",
             "remove_portrait;Seiran"
         ],
         "nid": "3 DefeatSeiran"

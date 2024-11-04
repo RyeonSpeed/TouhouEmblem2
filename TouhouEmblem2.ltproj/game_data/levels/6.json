@@ -2167,6 +2167,16 @@
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": true
+            },
+            {
+                "nid": "Yumemi_Boss_1",
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [
@@ -2726,7 +2736,6 @@
                 "nid": "Turn10",
                 "units": [
                     "Chiyuri_Boss",
-                    "Yumemi_Boss",
                     "175",
                     "176",
                     "178",
@@ -2761,6 +2770,30 @@
                     "179": [
                         25,
                         15
+                    ]
+                }
+            },
+            {
+                "nid": "ChiyuriSpell",
+                "units": [
+                    "Yumemi_Boss"
+                ],
+                "positions": {
+                    "Yumemi_Boss": [
+                        10,
+                        16
+                    ]
+                }
+            },
+            {
+                "nid": "YumemiSpell",
+                "units": [
+                    "Yumemi_Boss_1"
+                ],
+                "positions": {
+                    "Yumemi_Boss_1": [
+                        10,
+                        16
                     ]
                 }
             }

@@ -1,0 +1,27 @@
+[
+    {
+        "nid": "Magical_Flux",
+        "name": "Magical Flux",
+        "desc": "+5 Mag.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            6,
+            0
+        ],
+        "components": [
+            [
+                "stat_change",
+                [
+                    [
+                        "MAG",
+                        5
+                    ]
+                ]
+            ],
+            [
+                "lost_on_end_chapter",
+                null
+            ]
+        ]
+    }
+]

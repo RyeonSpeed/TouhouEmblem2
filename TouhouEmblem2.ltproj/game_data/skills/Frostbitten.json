@@ -37,6 +37,10 @@
             [
                 "avoid",
                 -15
+            ],
+            [
+                "condition",
+                "unit.team is not 'player'"
             ]
         ]
     }

@@ -1,0 +1,31 @@
+[
+    {
+        "name": "SpellChiyuri",
+        "trigger": "combat_end",
+        "level_nid": "6",
+        "condition": "game.check_dead(\"Chiyuri_Boss\")",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "change_music;player_phase;Dullahan Under the Willows",
+            "change_music;enemy_phase;Dullahan Under the Willows",
+            "add_portrait;Chiyuri;Left",
+            "speak;;Mechanics Sign: Newton's First Gift;center;190;hint;;red;;;1;;;;;Warp",
+            "speak;Chiyuri;Eughh...I may have been defeated...but my teacher will destroy you!",
+            "remove_portrait;Chiyuri",
+            "add_group;ChiyuriSpell;ChiyuriSpell;warp;closest",
+            "move_cursor;Yumemi_Boss",
+            "add_portrait;Yumemi;Left",
+            "speak;Yumemi;Heheh...it's my time to shine! You may have defeated my student...but I'm something else!",
+            "add_portrait;Reimu;Right",
+            "speak;Reimu;...who are you?",
+            "multi_remove_portrait;Yumemi;Reimu",
+            "for;VICTIMS;[x.nid for x in game.get_all_units()]",
+            "give_skill;{VICTIMS};Friction_Shift;;no_banner",
+            "endf",
+            "end"
+        ],
+        "nid": "6 SpellChiyuri"
+    }
+]

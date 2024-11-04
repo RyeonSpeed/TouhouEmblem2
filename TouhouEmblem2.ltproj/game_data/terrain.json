@@ -703,5 +703,20 @@
         "mtype": "Normal",
         "opaque": false,
         "status": null
+    },
+    {
+        "nid": "Snag",
+        "name": "Snag",
+        "color": [
+            170,
+            170,
+            127
+        ],
+        "minimap": "Thicket",
+        "platform": "Arena",
+        "background": "combat_forest",
+        "mtype": "Thicket",
+        "opaque": false,
+        "status": null
     }
 ]

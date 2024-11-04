@@ -12,7 +12,7 @@
             "Monster",
             "Magic"
         ],
-        "max_level": 20,
+        "max_level": 40,
         "bases": {
             "HP": 17,
             "STR": 0,
@@ -120,17 +120,17 @@
                 31,
                 251
             ],
+            "Martial": [
+                false,
+                0,
+                null
+            ],
             "Default": [
                 false,
                 0,
                 251
             ],
             "Monster": [
-                false,
-                0,
-                null
-            ],
-            "Martial": [
                 false,
                 0,
                 null

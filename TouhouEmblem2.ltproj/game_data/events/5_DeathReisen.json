@@ -9,7 +9,7 @@
         "priority": 20,
         "_source": [
             "add_portrait;Reisen;Left",
-            "speak;Reisen;Insane...",
+            "speak;Reisen;One more bullet...to fire!",
             "expression;Reisen;CloseEyes",
             "remove_portrait;Reisen"
         ],

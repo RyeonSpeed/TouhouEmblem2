@@ -16,7 +16,7 @@
             "Magic",
             "Beast"
         ],
-        "max_level": 20,
+        "max_level": 40,
         "bases": {
             "HP": 16,
             "STR": 4,
