@@ -16,6 +16,9 @@
             "remove_portrait;Yumemi",
             "add_group;YumemiSpell;YumemiSpell;warp;closest",
             "move_cursor;Yumemi_Boss_1",
+            "for;VICTIMS;[x.nid for x in game.get_all_units()]",
+            "give_skill;{VICTIMS};Decreasing_Work_Efficiency;;no_banner",
+            "endf",
             "end"
         ],
         "nid": "6 SpellYumemi"

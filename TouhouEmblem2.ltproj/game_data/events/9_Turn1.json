@@ -2,7 +2,7 @@
     {
         "name": "Turn1",
         "trigger": "turn_change",
-        "level_nid": "8",
+        "level_nid": "9",
         "condition": "game.turncount == 1 and game.check_alive(\"Remilia\")",
         "commands": [],
         "only_once": false,
@@ -15,6 +15,6 @@
             "move_unit;Koakuma;4,11",
             "autolevel_to;Remilia;8"
         ],
-        "nid": "8 Turn1"
+        "nid": "9 Turn1"
     }
 ]

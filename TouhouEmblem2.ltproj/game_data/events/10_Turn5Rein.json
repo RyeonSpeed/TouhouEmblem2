@@ -2,7 +2,7 @@
     {
         "name": "Turn5Rein",
         "trigger": "turn_change",
-        "level_nid": "9",
+        "level_nid": "10",
         "condition": "game.turncount == 5",
         "commands": [],
         "only_once": false,
@@ -11,6 +11,6 @@
             "add_group;Turn5Rein;Turn5Rein;warp;closest",
             "move_cursor;145"
         ],
-        "nid": "9 Turn5Rein"
+        "nid": "10 Turn5Rein"
     }
 ]

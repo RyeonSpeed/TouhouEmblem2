@@ -10,6 +10,7 @@
         "_source": [
             "flicker_cursor;2,2",
             "show_layer;Destroyed2",
+            "remove_region;Village2",
             "wait;500"
         ],
         "nid": "7 Destroy2"

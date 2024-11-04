@@ -10,7 +10,7 @@
         "tags": [
             "Monster"
         ],
-        "max_level": 20,
+        "max_level": 40,
         "bases": {
             "HP": 35,
             "STR": 3,
@@ -118,17 +118,17 @@
                 0,
                 251
             ],
+            "Martial": [
+                true,
+                71,
+                null
+            ],
             "Default": [
                 false,
                 0,
                 251
             ],
             "Monster": [
-                true,
-                71,
-                null
-            ],
-            "Martial": [
                 true,
                 71,
                 null

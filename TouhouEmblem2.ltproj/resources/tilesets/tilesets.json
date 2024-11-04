@@ -200,5 +200,10 @@
         "nid": "Jizou",
         "terrain_grid": {},
         "autotiles": {}
+    },
+    {
+        "nid": "Riverside_Ambush",
+        "terrain_grid": {},
+        "autotiles": {}
     }
 ]

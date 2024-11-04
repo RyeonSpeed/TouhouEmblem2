@@ -149,7 +149,7 @@
     ],
     [
         "promote_level_reset",
-        true
+        false
     ],
     [
         "class_change_level_reset",

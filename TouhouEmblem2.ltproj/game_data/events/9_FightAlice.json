@@ -1,15 +1,15 @@
 [
     {
-        "name": "FightMai",
+        "name": "FightAlice",
         "trigger": "combat_start",
-        "level_nid": "8",
-        "condition": "unit.nid == \"Mai_Boss\" or unit2.nid == \"Mai_Boss\"",
+        "level_nid": "9",
+        "condition": "unit.nid == \"Alice_Boss\" or unit2.nid == \"Alice_Boss\"",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
             ""
         ],
-        "nid": "8 FightMai"
+        "nid": "9 FightAlice"
     }
 ]

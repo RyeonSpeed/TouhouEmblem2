@@ -2,7 +2,7 @@
     {
         "name": "FightAlice2",
         "trigger": "combat_start",
-        "level_nid": "9",
+        "level_nid": "10",
         "condition": "unit.nid == \"Alice_Boss_2\" or unit2.nid == \"Alice_Boss_2\"",
         "commands": [],
         "only_once": false,
@@ -10,6 +10,6 @@
         "_source": [
             ""
         ],
-        "nid": "9 FightAlice2"
+        "nid": "10 FightAlice2"
     }
 ]

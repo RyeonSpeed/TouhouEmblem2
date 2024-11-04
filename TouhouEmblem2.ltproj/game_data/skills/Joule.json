@@ -2,7 +2,7 @@
     {
         "nid": "Joule",
         "name": "Mechanics Sign: Joule's Revelation",
-        "desc": "Yumemi will respawn in the same position she spawned in, and will now impose \"Decreasing Work Efficiency\", causing units to lose 2 HP when initiating combat for every space moved.\nCapture Bonus: Mandatory",
+        "desc": "Yumemi will respawn in the same position she spawned in, and will now impose \"Decreasing Work Efficiency\", decreasing their movement by 2.\nCapture Bonus: Mandatory",
         "icon_nid": "skillicons_1",
         "icon_index": [
             8,

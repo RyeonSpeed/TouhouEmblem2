@@ -1,15 +1,15 @@
 [
     {
-        "name": "AliceDeathPC98",
+        "name": "DeathAlice2",
         "trigger": "unit_death",
-        "level_nid": "8",
-        "condition": "unit.nid == 'Alice_Boss'",
+        "level_nid": "10",
+        "condition": "unit.nid == 'Alice_Boss_2'",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
             ""
         ],
-        "nid": "8 AliceDeathPC98"
+        "nid": "10 DeathAlice2"
     }
 ]

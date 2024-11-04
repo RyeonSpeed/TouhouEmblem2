@@ -10,6 +10,7 @@
         "_source": [
             "flicker_cursor;23,18",
             "show_layer;House3",
+            "remove_region;House3",
             "wait;500"
         ],
         "nid": "1 Destroy3"

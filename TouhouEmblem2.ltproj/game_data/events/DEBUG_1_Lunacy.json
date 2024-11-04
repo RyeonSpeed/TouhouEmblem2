@@ -1,7 +1,7 @@
 [
     {
         "name": "Lunacy",
-        "trigger": "level_start",
+        "trigger": null,
         "level_nid": "DEBUG_1",
         "condition": "True",
         "commands": [],

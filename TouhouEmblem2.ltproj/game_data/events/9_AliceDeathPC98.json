@@ -1,15 +1,15 @@
 [
     {
-        "name": "DeathMamizou",
+        "name": "AliceDeathPC98",
         "trigger": "unit_death",
         "level_nid": "9",
-        "condition": "unit.nid == 'Mamizou_Boss'",
+        "condition": "unit.nid == 'Alice_Boss'",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
             ""
         ],
-        "nid": "9 DeathMamizou"
+        "nid": "9 AliceDeathPC98"
     }
 ]

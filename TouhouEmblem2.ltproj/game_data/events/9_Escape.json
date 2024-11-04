@@ -2,7 +2,7 @@
     {
         "name": "Escape",
         "trigger": "Escape",
-        "level_nid": "8",
+        "level_nid": "9",
         "condition": "region.nid == 'Escape'",
         "commands": [],
         "only_once": false,
@@ -14,6 +14,6 @@
             "    win_game",
             "end"
         ],
-        "nid": "8 Escape"
+        "nid": "9 Escape"
     }
 ]

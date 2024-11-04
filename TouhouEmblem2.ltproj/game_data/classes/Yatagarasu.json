@@ -11,7 +11,7 @@
             "Dragon",
             "Monster"
         ],
-        "max_level": 20,
+        "max_level": 40,
         "bases": {
             "HP": 20,
             "STR": 0,

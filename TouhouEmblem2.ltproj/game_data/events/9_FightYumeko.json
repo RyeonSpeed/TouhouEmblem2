@@ -1,15 +1,15 @@
 [
     {
-        "name": "FightMamizou",
+        "name": "FightYumeko",
         "trigger": "combat_start",
         "level_nid": "9",
-        "condition": "unit.nid == \"Mamizou_Boss\" or unit2.nid == \"Mamizou_Boss\"",
+        "condition": "unit.nid == \"Yumeko_Boss\" or unit2.nid == \"Yumeko_Boss\"",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
             ""
         ],
-        "nid": "9 FightMamizou"
+        "nid": "9 FightYumeko"
     }
 ]

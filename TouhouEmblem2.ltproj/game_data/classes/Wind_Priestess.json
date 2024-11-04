@@ -13,7 +13,7 @@
             "Magic",
             "Beast"
         ],
-        "max_level": 20,
+        "max_level": 40,
         "bases": {
             "HP": 18,
             "STR": 3,
@@ -120,6 +120,11 @@
                 false,
                 0,
                 251
+            ],
+            "Martial": [
+                false,
+                0,
+                null
             ],
             "Default": [
                 false,

@@ -2,7 +2,7 @@
     {
         "name": "Per4Rein",
         "trigger": "turn_change",
-        "level_nid": "9",
+        "level_nid": "10",
         "condition": "game.turncount % 4 == 2 and game.turncount >= 10",
         "commands": [],
         "only_once": false,
@@ -11,6 +11,6 @@
             "add_group;Per4Rein;Per4Rein;warp;closest",
             "move_cursor;137"
         ],
-        "nid": "9 Per4Rein"
+        "nid": "10 Per4Rein"
     }
 ]

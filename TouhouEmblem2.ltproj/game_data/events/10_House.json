@@ -1,24 +1,24 @@
 [
     {
-        "name": "House1",
+        "name": "House",
         "trigger": "Visit",
-        "level_nid": "8",
-        "condition": "region.nid == 'House1'",
+        "level_nid": "10",
+        "condition": "region.nid == 'House'",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
             "transition;Close",
-            "change_background;House",
+            "change_background;Rural Town",
             "transition;Open",
             "transition;Close",
             "change_background",
             "transition;Open",
-            "give_item;{unit};Mire",
+            "give_money;5000;Reimu",
             "give_bexp;30;no_banner",
-            "show_layer;House1",
+            "show_layer;House",
             "has_traded;{unit}"
         ],
-        "nid": "8 House1"
+        "nid": "10 House"
     }
 ]

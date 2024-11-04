@@ -2,7 +2,7 @@
     {
         "name": "Intro",
         "trigger": "level_start",
-        "level_nid": "8",
+        "level_nid": "10",
         "condition": "True",
         "commands": [],
         "only_once": false,
@@ -11,11 +11,9 @@
             "chapter_title",
             "trigger_script;Housekeeping3",
             "trigger_script;Housekeeping1",
-            "game_var;_fatigue;1",
-            "add_talk;Remilia;Sakuya",
             "enable_repair_shop;true",
-            "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Haruka']",
-            "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Kana']",
+            "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Meiko']",
+            "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Hanae']",
             "trigger_script;Housekeeping2",
             "for;MARKET_ENTRY;['Iron_Sword', 'Iron_Axe', 'Iron_Lance', 'Iron_Bow', 'Fire', 'Ofuda', 'Flux', 'Heal', 'Life_Gem', 'Poppet', 'Maple_Shield', 'Lucky_Clover', 'Lantern']",
             "    add_market_item;{MARKET_ENTRY}",
@@ -27,10 +25,8 @@
             "    add_market_item;{MARKET_ENTRY}",
             "    endf",
             "base;Serenes Forest;{e:};Mercenary Camp;True;Global Mercenary_Camp;Music=Sealed Gods",
-            "prep;1;Sealed Gods",
-            "speak;;This map's clear bonus is 1000 Bonus EXP, but you won't get a single point if you go over 20 turns!;;;hint",
-            "speak;;Oh, and just to let you know, Alice isn't a patient person! She'll leave in 15 turns if you're just too slow!;;;hint"
+            "prep;1;Sealed Gods"
         ],
-        "nid": "8 Intro"
+        "nid": "10 Intro"
     }
 ]

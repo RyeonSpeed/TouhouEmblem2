@@ -12,7 +12,7 @@
             "Armor",
             "Beast"
         ],
-        "max_level": 20,
+        "max_level": 40,
         "bases": {
             "HP": 24,
             "STR": 8,
@@ -119,6 +119,11 @@
                 false,
                 0,
                 251
+            ],
+            "Martial": [
+                false,
+                0,
+                null
             ],
             "Default": [
                 false,
