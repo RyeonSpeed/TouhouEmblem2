@@ -311,7 +311,7 @@ class CiggieRecoil(SkillComponent):
             playback.append(pb.DamageHit(unit, item, unit, calc_value, calc_value))
             playback.append(pb.UnitTintAdd(unit, (255, 0, 0)))
             playback.append(pb.HitSound('FireHit'))
-            if calc_value > 0:
+            if unit.current_hp + calc_value > 0:
                 playback.append(pb.HitSound('Attack Hit ' + str(random.randint(1, 5))))
             else:
                 playback.append(pb.HitSound('Final Hit'))

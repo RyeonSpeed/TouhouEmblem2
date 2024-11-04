@@ -430,5 +430,9 @@
     {
         "nid": "Classic_desc",
         "text": "Units die when they are killed. The correct way to play."
+    },
+    {
+        "nid": "_attribution",
+        "text": " "
     }
 ]

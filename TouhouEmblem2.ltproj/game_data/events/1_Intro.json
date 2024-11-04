@@ -90,7 +90,7 @@
             "base;River;{e:};Mercenary Camp;True;Global Mercenary_Camp;Music=Sealed Gods",
             "change_background",
             "transition;open",
-            "prep;1",
+            "prep;1;Sealed Gods",
             "#Open Map",
             "move_cursor;Keine_NPC",
             "add_portrait;Keine;CenterRight",

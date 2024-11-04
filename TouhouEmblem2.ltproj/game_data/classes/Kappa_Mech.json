@@ -115,17 +115,17 @@
                 0,
                 251
             ],
+            "Martial": [
+                false,
+                0,
+                null
+            ],
             "Default": [
                 false,
                 0,
                 251
             ],
             "Monster": [
-                false,
-                0,
-                null
-            ],
-            "Martial": [
                 false,
                 0,
                 null
@@ -137,7 +137,7 @@
             0
         ],
         "map_sprite_nid": "Knight (U) Bow {Agro}-stand",
-        "combat_anim_nid": "Herald_1",
+        "combat_anim_nid": "Knight",
         "fields": []
     }
 ]

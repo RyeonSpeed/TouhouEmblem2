@@ -20,11 +20,6 @@
         false
     ],
     [
-        "Main Theme",
-        false,
-        false
-    ],
-    [
         "Grasp at Victory",
         false,
         false
@@ -202,6 +197,16 @@
     [
         "Strawberry Crisis",
         true,
+        false
+    ],
+    [
+        "History of the Moon",
+        false,
+        false
+    ],
+    [
+        "Main Theme",
+        false,
         false
     ]
 ]

@@ -8,10 +8,10 @@
         "music": {
             "player_phase": "Lunatic Princess",
             "enemy_phase": "Strawberry Crisis",
-            "other_phase": "Pocket Watch",
+            "other_phase": "History of the Moon",
             "player_battle": "Lunatic Princess",
             "enemy_battle": "Strawberry Crisis",
-            "other_battle": "Pocket Watch",
+            "other_battle": "History of the Moon",
             "boss_battle": "Vanishing Dream"
         },
         "objective": {
