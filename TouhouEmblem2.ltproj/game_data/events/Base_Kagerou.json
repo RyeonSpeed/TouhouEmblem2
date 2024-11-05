@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Kagerou",
+        "trigger": "on_talk",
+        "level_nid": "Base",
+        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Kagerou'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "music;Comrades",
+            "add_portrait;Kagerou;Left;ExpressionList=Smile",
+            "add_portrait;Reimu;CenterRight",
+            "if;game.get_money() < 2000",
+            "speak;Kagerou;Come back when you have more money broke bitch",
+            "finish",
+            "end",
+            "choice;Hire;Hire?;Yes,No;backable",
+            "if;'{v:Hire}' == 'Yes'",
+            "give_money;-2000;Reimu;no_banner",
+            "change_team;Kagerou;player",
+            "remove_talk;Reimu;Kagerou",
+            "multi_remove_portrait;Reimu;Kagerou",
+            "sound;Item",
+            "alert;Kagerou joined the party!",
+            "add_lore;Kagerou",
+            "else",
+            "end"
+        ],
+        "nid": "Base Kagerou"
+    }
+]

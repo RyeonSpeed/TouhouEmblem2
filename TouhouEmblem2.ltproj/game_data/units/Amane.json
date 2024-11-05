@@ -4,18 +4,18 @@
         "name": "Amane",
         "desc": "A youkai who got herself trapped under a pile of scrap metal that she now lugs around as armor.",
         "variant": null,
-        "level": 1,
+        "level": 2,
         "klass": "Guard",
         "tags": [],
         "bases": {
-            "HP": 20,
-            "STR": 7,
+            "HP": 23,
+            "STR": 8,
             "MAG": 0,
-            "SKL": 2,
+            "SKL": 3,
             "SPD": 1,
-            "LCK": 0,
-            "DEF": 9,
-            "RES": 3,
+            "LCK": 1,
+            "DEF": 10,
+            "RES": 4,
             "CON": 13,
             "MOV": 5
         },
@@ -64,12 +64,12 @@
             ],
             "Axe": [
                 false,
-                1,
+                31,
                 null
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "",
+        "portrait_nid": "Generic2",
         "affinity": "None",
         "fields": []
     }

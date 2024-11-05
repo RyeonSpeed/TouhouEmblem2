@@ -4,18 +4,18 @@
         "name": "Konami",
         "desc": "A lazy youkai who likes to take long walks down the canal with her friends.",
         "variant": null,
-        "level": 1,
+        "level": 2,
         "klass": "Vagrant_S",
         "tags": [],
         "bases": {
-            "HP": 18,
-            "STR": 5,
-            "MAG": 2,
-            "SKL": 6,
-            "SPD": 6,
-            "LCK": 0,
-            "DEF": 5,
-            "RES": 1,
+            "HP": 21,
+            "STR": 6,
+            "MAG": 3,
+            "SKL": 7,
+            "SPD": 7,
+            "LCK": 1,
+            "DEF": 6,
+            "RES": 2,
             "CON": 9,
             "MOV": 5
         },
@@ -54,7 +54,7 @@
         "wexp_gain": {
             "Sword": [
                 false,
-                1,
+                31,
                 null
             ],
             "Lance": [
@@ -64,7 +64,7 @@
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "",
+        "portrait_nid": "Generic2",
         "affinity": "None",
         "fields": []
     }

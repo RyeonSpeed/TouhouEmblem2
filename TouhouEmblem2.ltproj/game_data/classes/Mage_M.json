@@ -28,7 +28,7 @@
         "growths": {
             "HP": 55,
             "STR": 10,
-            "MAG": 40,
+            "MAG": 35,
             "SKL": 40,
             "SPD": 45,
             "LCK": 20,
@@ -115,17 +115,17 @@
                 0,
                 251
             ],
+            "Martial": [
+                false,
+                0,
+                null
+            ],
             "Default": [
                 false,
                 0,
                 251
             ],
             "Monster": [
-                false,
-                0,
-                null
-            ],
-            "Martial": [
                 false,
                 0,
                 null

@@ -1,0 +1,17 @@
+[
+    {
+        "name": "KagerouCheck",
+        "trigger": "level_start",
+        "level_nid": "Base",
+        "condition": "game.check_alive('Tokiko') and game.get_unit('Tokiko').team != 'player' and game.game_vars['chaptercount'] >= 2",
+        "commands": [],
+        "only_once": false,
+        "priority": 21,
+        "_source": [
+            "add_group;Kagerou;Kagerou;fade;closest",
+            "add_talk;Reimu;Kagerou",
+            "end"
+        ],
+        "nid": "Base KagerouCheck"
+    }
+]

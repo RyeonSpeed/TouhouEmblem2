@@ -4,15 +4,15 @@
         "name": "Tomomi",
         "desc": "A marauding youkai who pretends to be a raider along the Human Village canals. Mostly just a nuisance.",
         "variant": "",
-        "level": 1,
+        "level": 2,
         "klass": "Pirate",
         "tags": [],
         "bases": {
-            "HP": 22,
-            "STR": 7,
+            "HP": 26,
+            "STR": 10,
             "MAG": 0,
-            "SKL": 2,
-            "SPD": 4,
+            "SKL": 3,
+            "SPD": 5,
             "LCK": 0,
             "DEF": 3,
             "RES": 0,
@@ -54,12 +54,12 @@
         "wexp_gain": {
             "Axe": [
                 false,
-                1,
+                31,
                 null
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "",
+        "portrait_nid": "Generic7",
         "affinity": "None",
         "fields": []
     }

@@ -4,18 +4,18 @@
         "name": "Yuna",
         "desc": "A hunter from the Human Village who is relatively adept at a bow, but still angers youkai when she hits them with strays.",
         "variant": null,
-        "level": 2,
+        "level": 3,
         "klass": "Archer",
         "tags": [],
         "bases": {
-            "HP": 21,
-            "STR": 6,
+            "HP": 23,
+            "STR": 8,
             "MAG": 0,
-            "SKL": 6,
-            "SPD": 6,
-            "LCK": 0,
-            "DEF": 5,
-            "RES": 1,
+            "SKL": 9,
+            "SPD": 8,
+            "LCK": 2,
+            "DEF": 7,
+            "RES": 2,
             "CON": 7,
             "MOV": 5
         },
@@ -54,12 +54,17 @@
         "wexp_gain": {
             "Bow": [
                 false,
-                1,
+                31,
+                null
+            ],
+            "Staff": [
+                false,
+                0,
                 null
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "",
+        "portrait_nid": "Generic7",
         "affinity": "None",
         "fields": []
     }
