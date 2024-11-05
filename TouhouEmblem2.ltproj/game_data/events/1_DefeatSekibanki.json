@@ -5,17 +5,23 @@
         "level_nid": "1",
         "condition": "game.check_dead(\"Sekibanki_Boss\")",
         "commands": [],
-        "only_once": false,
+        "only_once": true,
         "priority": 20,
         "_source": [
             "change_music;player_phase;Dullahan Under the Willows",
             "change_music;enemy_phase;Dullahan Under the Willows",
             "add_portrait;Sekibanki;Left",
             "speak;;Flying Head \"Multiplicative Head\";center;170;hint;;red;;;1;;;;;Warp",
-            "add_group;KagerouSpell;KagerouSpell;warp;closest",
-            "move_cursor;Kagerou_Boss_1",
+            "add_group;SekibankiSpell;SekibankiSpell;warp;closest",
+            "move_cursor;Sekibanki_Boss_1",
             "speak;Sekibanki;There's no escaping my many heads!",
-            "remove_portrait;Kagerou"
+            "remove_portrait;Sekibanki",
+            "if;game.phase.get_current() == 'enemy'",
+            "for;Spell;game.level.unit_groups.get('SekibankiSpell').units",
+            "    has_finished;{Spell}",
+            "endf",
+            "else",
+            "end"
         ],
         "nid": "1 DefeatSekibanki"
     }

@@ -51,8 +51,8 @@
         },
         "promotion": {
             "HP": 4,
-            "STR": 2,
-            "MAG": 1,
+            "STR": 1,
+            "MAG": 2,
             "SKL": 3,
             "SPD": 2,
             "LCK": 0,
@@ -63,13 +63,13 @@
         },
         "max_stats": {
             "HP": 60,
-            "STR": 27,
-            "MAG": 20,
+            "STR": 22,
+            "MAG": 27,
             "SKL": 26,
-            "SPD": 27,
+            "SPD": 30,
             "LCK": 30,
             "DEF": 23,
-            "RES": 23,
+            "RES": 29,
             "CON": 25,
             "MOV": 15
         },

@@ -4,7 +4,7 @@
         "name": "Mima",
         "desc": "Marisa's mentor. She's a vengeful spirit who's usually found haunting Hakurei Shrine. Nowadays, she seems to be wandering Gensokyo...",
         "variant": "",
-        "level": 10,
+        "level": 15,
         "klass": "Druid",
         "tags": [],
         "bases": {
@@ -14,7 +14,7 @@
             "SKL": 9,
             "SPD": 11,
             "LCK": 0,
-            "DEF": 7,
+            "DEF": 9,
             "RES": 13,
             "CON": 9,
             "MOV": 5

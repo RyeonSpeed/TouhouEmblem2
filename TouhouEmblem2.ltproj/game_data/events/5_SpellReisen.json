@@ -5,7 +5,7 @@
         "level_nid": "5",
         "condition": "game.check_dead(\"Reisen_Boss\")",
         "commands": [],
-        "only_once": false,
+        "only_once": true,
         "priority": 20,
         "_source": [
             "change_music;player_phase;Dullahan Under the Willows",
@@ -25,6 +25,11 @@
             "move_cursor;{v:swap_unit2}",
             "flicker_cursor;{v:swap_unit2}",
             "give_skill;{v:swap_unit2};Lunatic_Red_Eyes_Effect",
+            "if;game.phase.get_current() == 'enemy'",
+            "for;Spell;game.level.unit_groups.get('ReisenSpell').units",
+            "    has_finished;{Spell}",
+            "endf",
+            "else",
             "end"
         ],
         "nid": "5 SpellReisen"

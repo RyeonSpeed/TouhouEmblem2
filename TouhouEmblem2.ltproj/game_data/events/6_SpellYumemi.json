@@ -5,7 +5,7 @@
         "level_nid": "6",
         "condition": "game.check_dead(\"Yumemi_Boss\")",
         "commands": [],
-        "only_once": false,
+        "only_once": true,
         "priority": 20,
         "_source": [
             "change_music;player_phase;Dullahan Under the Willows",
@@ -19,6 +19,12 @@
             "for;VICTIMS;[x.nid for x in game.get_all_units()]",
             "give_skill;{VICTIMS};Decreasing_Work_Efficiency;;no_banner",
             "endf",
+            "end",
+            "if;game.phase.get_current() == 'enemy'",
+            "for;Spell;game.level.unit_groups.get('YumemiSpell').units",
+            "    has_finished;{Spell}",
+            "endf",
+            "else",
             "end"
         ],
         "nid": "6 SpellYumemi"

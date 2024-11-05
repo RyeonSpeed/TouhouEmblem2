@@ -3,8 +3,8 @@
         "nid": "Mamizou_Boss",
         "name": "Mamizou",
         "desc": "A bake-danuki who acts as an agent for various factions within Gensokyo. Slippery and confident in her abilities.",
-        "variant": null,
-        "level": 1,
+        "variant": "",
+        "level": 18,
         "klass": "Sniper",
         "tags": [
             "Boss"

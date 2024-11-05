@@ -5,7 +5,7 @@
         "level_nid": "1",
         "condition": "game.check_dead(\"Kagerou_Boss\")",
         "commands": [],
-        "only_once": false,
+        "only_once": true,
         "priority": 20,
         "_source": [
             "change_music;player_phase;Dullahan Under the Willows",
@@ -15,7 +15,13 @@
             "add_group;KagerouSpell;KagerouSpell;warp;closest",
             "move_cursor;Kagerou_Boss_1",
             "speak;Kagerou;I'll tear you to shreds in a crimson flash!",
-            "remove_portrait;Kagerou"
+            "remove_portrait;Kagerou",
+            "if;game.phase.get_current() == 'enemy'",
+            "for;Spell;game.level.unit_groups.get('KagerouSpell').units",
+            "    has_finished;{Spell}",
+            "endf",
+            "else",
+            "end"
         ],
         "nid": "1 DefeatKagerou"
     }

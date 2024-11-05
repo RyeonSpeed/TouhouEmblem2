@@ -5,7 +5,7 @@
         "level_nid": "3",
         "condition": "game.check_dead(\"Ringo_Boss\")",
         "commands": [],
-        "only_once": false,
+        "only_once": true,
         "priority": 20,
         "_source": [
             "change_music;player_phase;Dullahan Under the Willows",
@@ -15,7 +15,13 @@
             "add_group;RingoSpell;RingoSpell;warp;closest",
             "move_cursor;Ringo_Boss_1",
             "speak;Ringo;Hey, I'm not done just yet! I still have my pride as a soldier!",
-            "remove_portrait;Ringo"
+            "remove_portrait;Ringo",
+            "if;game.phase.get_current() == 'enemy'",
+            "for;Spell;game.level.unit_groups.get('RingoSpell').units",
+            "    has_finished;{Spell}",
+            "endf",
+            "else",
+            "end"
         ],
         "nid": "3 SpellRingo"
     }
