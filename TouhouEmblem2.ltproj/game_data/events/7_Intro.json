@@ -13,6 +13,7 @@
             "trigger_script;Housekeeping1",
             "game_var;hireable_guys;v('hireable_guys') + ['Seiran', 'Ringo']",
             "game_var;baseconvolist;v('baseconvolist') + ['Kogasa']",
+            "enable_repair_shop;t",
             "load_unit;Mima",
             "add_lore;Mima",
             "add_lore;Miasma",

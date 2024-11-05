@@ -72,7 +72,7 @@
                 "effective_damage",
                 {
                     "effective_tags": [
-                        "Monster"
+                        "Mounted"
                     ],
                     "effective_multiplier": 2.0,
                     "effective_bonus_damage": 10,

@@ -1,0 +1,17 @@
+[
+    {
+        "name": "LettyCheck",
+        "trigger": "level_start",
+        "level_nid": "Base",
+        "condition": "game.check_alive('Letty') and game.get_unit('Letty').team != 'player'",
+        "commands": [],
+        "only_once": false,
+        "priority": 21,
+        "_source": [
+            "add_group;Letty;Letty;fade;closest",
+            "add_talk;Reimu;Letty",
+            "end"
+        ],
+        "nid": "Base LettyCheck"
+    }
+]

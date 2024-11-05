@@ -87,7 +87,7 @@
         "nid": "Stealing",
         "name": "Stealing",
         "title": "Stealing",
-        "category": "Lore",
+        "category": "Guide",
         "text": "Units with the \"Thief's Set\" skill will be able to steal items and unequipped weapons from the enemy. However, weapons being stolen must have a lower weight than the stealing unit's CON, and the enemy must be slower than the stealing unit."
     },
     {

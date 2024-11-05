@@ -17,7 +17,8 @@
             "elif;game.turncount > 25",
             "speak;;Lmao skill issue;;;hint",
             "end",
-            "set_next_chapter;6"
+            "game_var;chaptercount;5",
+            "set_next_chapter;Base"
         ],
         "nid": "5 Outro"
     }

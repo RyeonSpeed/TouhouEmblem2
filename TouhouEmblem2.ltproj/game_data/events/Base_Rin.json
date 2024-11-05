@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Rin",
+        "trigger": "on_talk",
+        "level_nid": "Base",
+        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Rin'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "music;Comrades",
+            "add_portrait;Rin;Left;ExpressionList=Smile",
+            "add_portrait;Reimu;CenterRight",
+            "if;game.get_money() < {e:game.get_random(100,3000)}",
+            "speak;Rin;Come back when you have more money broke bitch",
+            "finish",
+            "end",
+            "choice;Hire;Hire?;Yes,No;backable",
+            "if;'{v:Hire}' == 'Yes'",
+            "give_money;{e:-game.get_random(100,3000)};Reimu;no_banner",
+            "change_team;Rin;player",
+            "flicker_cursor;Rin",
+            "remove_unit;Rin;warp",
+            "trigger_script;Global BullshitRinEvent",
+            "add_unit;Rin;12,11;warp;closest",
+            "remove_talk;Reimu;Rin",
+            "multi_remove_portrait;Reimu;Rin",
+            "sound;Item",
+            "alert;Rin joined the party!",
+            "add_lore;Rin",
+            "else",
+            "end"
+        ],
+        "nid": "Base Rin"
+    }
+]

@@ -1,7 +1,7 @@
 [
     {
-        "nid": "Miyoi",
-        "name": "Miyoi",
+        "nid": "Miyoi_NPC",
+        "name": "Miyoi ",
         "desc": "",
         "variant": null,
         "level": 22,
@@ -10,12 +10,12 @@
         "bases": {
             "HP": 20,
             "STR": 0,
-            "MAG": 4,
-            "SKL": 3,
-            "SPD": 5,
+            "MAG": 0,
+            "SKL": 0,
+            "SPD": 0,
             "LCK": 0,
-            "DEF": 4,
-            "RES": 8,
+            "DEF": 0,
+            "RES": 0,
             "CON": 6,
             "MOV": 7
         },

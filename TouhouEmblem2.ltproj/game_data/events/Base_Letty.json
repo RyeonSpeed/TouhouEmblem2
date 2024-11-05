@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Letty",
+        "trigger": "on_talk",
+        "level_nid": "Base",
+        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Letty'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "music;Comrades",
+            "add_portrait;Letty;Left;ExpressionList=Smile",
+            "add_portrait;Reimu;CenterRight",
+            "if;game.get_money() < 2000",
+            "speak;Letty;Come back when you have more money broke bitch",
+            "finish",
+            "end",
+            "choice;Hire;Hire?;Yes,No;backable",
+            "if;'{v:Hire}' == 'Yes'",
+            "give_money;-2000;Reimu;no_banner",
+            "change_team;Letty;player",
+            "remove_talk;Reimu;Letty",
+            "multi_remove_portrait;Reimu;Letty",
+            "sound;Item",
+            "alert;Letty joined the party!",
+            "add_lore;Letty",
+            "else",
+            "end"
+        ],
+        "nid": "Base Letty"
+    }
+]

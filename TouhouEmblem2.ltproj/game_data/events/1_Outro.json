@@ -80,7 +80,8 @@
             "transition;close",
             "change_background",
             "transition;open",
-            "set_next_chapter;2"
+            "game_var;chaptercount;1",
+            "set_next_chapter;Base"
         ],
         "nid": "1 Outro"
     }
