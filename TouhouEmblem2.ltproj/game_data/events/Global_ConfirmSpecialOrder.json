@@ -10,10 +10,10 @@
         "_source": [
             "choice;Confirmation;You sure?;Yes,No",
             "if;'{v:Confirmation}' == 'Yes'",
-            "    alert;You hired {d:SpecialOrders.{v:SpecialOrdersChoice}.Name}.",
-            "    game_var;hireable_guys;[x for x in v('special_orders') if not x == '{d:SpecialOrders.{v:SpecialOrdersChoice}.Name}']",
+            "    game_var;special_orders;[x for x in v('special_orders') if not x == '{d:SpecialOrders.{v:SpecialOrdersChoice}.Name}']",
             "    set_next_chapter;{d:SpecialOrders.{v:SpecialOrdersChoice}.nid}",
             "    win_game",
+            "    end",
             "    if;v('special_orders')",
             "        unchoice",
             "    end",

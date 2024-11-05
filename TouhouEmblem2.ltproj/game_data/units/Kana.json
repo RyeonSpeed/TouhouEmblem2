@@ -4,18 +4,18 @@
         "name": "Kana",
         "desc": "A yamawaro mercenary who has been lost in the Bamboo Forest for a week.",
         "variant": null,
-        "level": 4,
+        "level": 5,
         "klass": "Kappa_Mech",
         "tags": [],
         "bases": {
-            "LCK": 1,
-            "HP": 20,
-            "STR": 8,
+            "LCK": 2,
+            "HP": 22,
+            "STR": 10,
             "MAG": 0,
-            "SKL": 5,
-            "SPD": 2,
-            "DEF": 9,
-            "RES": 6,
+            "SKL": 6,
+            "SPD": 3,
+            "DEF": 11,
+            "RES": 7,
             "CON": 13,
             "MOV": 4
         },
@@ -69,7 +69,7 @@
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "",
+        "portrait_nid": "Generic1",
         "affinity": "None",
         "fields": []
     }

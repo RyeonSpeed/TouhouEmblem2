@@ -28,11 +28,11 @@
         "growths": {
             "HP": 70,
             "STR": 35,
-            "MAG": 55,
+            "MAG": 45,
             "SKL": 30,
             "SPD": 25,
             "LCK": 20,
-            "DEF": 45,
+            "DEF": 35,
             "RES": 30,
             "CON": 0,
             "MOV": 0

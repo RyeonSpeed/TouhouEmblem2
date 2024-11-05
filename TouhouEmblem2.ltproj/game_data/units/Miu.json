@@ -4,18 +4,18 @@
         "name": "Miu",
         "desc": "A fledging swordswoman who wanders around, challenging fairies. It is said that she is an urban legend amongst the fairies at Misty Lake.",
         "variant": null,
-        "level": 3,
+        "level": 4,
         "klass": "Fencer",
         "tags": [],
         "bases": {
-            "HP": 15,
-            "STR": 7,
-            "MAG": 3,
-            "SKL": 10,
-            "SPD": 9,
-            "LCK": 1,
-            "DEF": 3,
-            "RES": 3,
+            "HP": 19,
+            "STR": 8,
+            "MAG": 4,
+            "SKL": 13,
+            "SPD": 12,
+            "LCK": 2,
+            "DEF": 5,
+            "RES": 5,
             "CON": 5,
             "MOV": 5
         },
@@ -54,12 +54,12 @@
         "wexp_gain": {
             "Sword": [
                 false,
-                1,
+                31,
                 null
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "",
+        "portrait_nid": "Generic6",
         "affinity": "None",
         "fields": []
     }

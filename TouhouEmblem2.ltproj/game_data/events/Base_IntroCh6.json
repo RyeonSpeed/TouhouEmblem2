@@ -1,0 +1,26 @@
+[
+    {
+        "name": "IntroCh6",
+        "trigger": "level_start",
+        "level_nid": "Base",
+        "condition": "game.game_vars['chaptercount'] == 4",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "chapter_title",
+            "add_talk;Reimu;Rinnosuke_NPC",
+            "add_talk;Reimu;Kosuzu_NPC",
+            "add_talk;Reimu;Miyoi_NPC",
+            "trigger_script;Housekeeping1",
+            "game_var;hireable_guys;v('hireable_guys') + ['Meiko','Hanae']",
+            "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Miki']",
+            "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Amane']",
+            "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Kabin']",
+            "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Yae']",
+            "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Konami']",
+            "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Tomomi']"
+        ],
+        "nid": "Base IntroCh6"
+    }
+]

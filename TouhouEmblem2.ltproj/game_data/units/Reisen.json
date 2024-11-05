@@ -9,12 +9,12 @@
         "tags": [],
         "bases": {
             "HP": 27,
-            "STR": 7,
+            "STR": 9,
             "MAG": 8,
             "SKL": 10,
             "SPD": 10,
             "LCK": 4,
-            "DEF": 6,
+            "DEF": 7,
             "RES": 9,
             "CON": 7,
             "MOV": 5

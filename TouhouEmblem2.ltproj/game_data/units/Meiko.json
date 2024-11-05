@@ -4,18 +4,18 @@
         "name": "Meiko",
         "desc": "A moon rabbit fugitive who seeks out a living by selling bodyguard services.",
         "variant": "",
-        "level": 5,
+        "level": 6,
         "klass": "Archer",
         "tags": [],
         "bases": {
-            "LCK": 1,
-            "HP": 24,
-            "STR": 8,
-            "MAG": 1,
-            "SKL": 8,
-            "SPD": 8,
-            "DEF": 6,
-            "RES": 2,
+            "LCK": 2,
+            "HP": 26,
+            "STR": 9,
+            "MAG": 2,
+            "SKL": 11,
+            "SPD": 9,
+            "DEF": 8,
+            "RES": 3,
             "CON": 7,
             "MOV": 5
         },
@@ -69,7 +69,7 @@
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "",
+        "portrait_nid": "GenericBunny",
         "affinity": "None",
         "fields": []
     }

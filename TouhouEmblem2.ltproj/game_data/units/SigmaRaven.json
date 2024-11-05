@@ -8,14 +8,14 @@
         "klass": "Archer_R",
         "tags": [],
         "bases": {
-            "HP": 25,
-            "STR": 7,
+            "HP": 27,
+            "STR": 9,
             "MAG": 8,
             "SKL": 10,
             "SPD": 10,
             "LCK": 4,
-            "DEF": 5,
-            "RES": 8,
+            "DEF": 7,
+            "RES": 9,
             "CON": 7,
             "MOV": 5
         },

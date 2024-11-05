@@ -4,7 +4,7 @@
         "name": "Miyoi",
         "desc": "",
         "variant": null,
-        "level": 1,
+        "level": 22,
         "klass": "Valkyrie",
         "tags": [],
         "bases": {
@@ -37,8 +37,8 @@
         "unit_notes": [],
         "wexp_gain": {},
         "alternate_classes": [],
-        "portrait_nid": "",
-        "affinity": null,
+        "portrait_nid": "Miyoi",
+        "affinity": "None",
         "fields": []
     }
 ]

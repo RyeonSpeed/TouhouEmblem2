@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Yan",
+        "trigger": "on_talk",
+        "level_nid": "Base",
+        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Yan'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "music;Comrades",
+            "add_portrait;Yan;Left;ExpressionList=Smile",
+            "add_portrait;Reimu;CenterRight",
+            "if;game.get_money() < 1000",
+            "speak;Yan;Come back when you have more money broke bitch",
+            "finish",
+            "end",
+            "choice;Hire;Hire?;Yes,No;backable",
+            "if;'{v:Hire}' == 'Yes'",
+            "give_money;-1000;Reimu;no_banner",
+            "change_team;Yan;player",
+            "remove_talk;Reimu;Yan",
+            "multi_remove_portrait;Reimu;Yan",
+            "sound;Item",
+            "alert;Yan joined the party!",
+            "add_lore;Yan",
+            "else",
+            "end"
+        ],
+        "nid": "Base Yan"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "IntroCh4",
+        "trigger": "level_start",
+        "level_nid": "Base",
+        "condition": "game.game_vars['chaptercount'] == 2",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "chapter_title",
+            "add_talk;Reimu;Rinnosuke_NPC",
+            "add_talk;Reimu;Kosuzu_NPC",
+            "add_talk;Reimu;Miyoi_NPC",
+            "trigger_script;Housekeeping1",
+            "game_var;hireable_guys;v('hireable_guys') + ['Miu','Akane']"
+        ],
+        "nid": "Base IntroCh4"
+    }
+]

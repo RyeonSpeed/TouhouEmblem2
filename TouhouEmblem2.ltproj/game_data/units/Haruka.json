@@ -1,32 +1,32 @@
 [
     {
         "nid": "Haruka",
-        "name": "Akane",
+        "name": "Haruka",
         "desc": "A youkai of darkness who seems to have a particular rivalry with Rumia.",
         "variant": null,
-        "level": 4,
+        "level": 5,
         "klass": "Shaman",
         "tags": [],
         "bases": {
-            "LCK": 1,
-            "HP": 20,
-            "STR": 4,
-            "MAG": 8,
-            "SKL": 3,
-            "SPD": 4,
-            "DEF": 6,
-            "RES": 4,
+            "LCK": 2,
+            "HP": 23,
+            "STR": 5,
+            "MAG": 9,
+            "SKL": 4,
+            "SPD": 5,
+            "DEF": 7,
+            "RES": 5,
             "CON": 8,
             "MOV": 5
         },
         "growths": {
             "HP": 70,
             "STR": 35,
-            "MAG": 55,
+            "MAG": 45,
             "SKL": 30,
             "SPD": 25,
             "LCK": 20,
-            "DEF": 45,
+            "DEF": 35,
             "RES": 30,
             "CON": 0,
             "MOV": 0
@@ -69,7 +69,7 @@
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "",
+        "portrait_nid": "Generic5",
         "affinity": "None",
         "fields": []
     }

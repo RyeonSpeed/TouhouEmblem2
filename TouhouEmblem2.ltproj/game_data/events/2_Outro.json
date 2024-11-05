@@ -133,7 +133,8 @@
             "else",
             "end",
             "transition;close",
-            "set_next_chapter;3"
+            "game_var;chaptercount;2",
+            "set_next_chapter;Base"
         ],
         "nid": "2 Outro"
     }

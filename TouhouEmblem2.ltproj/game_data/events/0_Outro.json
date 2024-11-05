@@ -35,7 +35,8 @@
             "speak;Marisa;And hey, helpin' those villagers might get us some allies too!",
             "speak;Reimu;Well, that settles it. To the human village!",
             "transition;Close",
-            "set_next_chapter;1"
+            "game_var;chaptercount;0",
+            "set_next_chapter;Base"
         ],
         "nid": "0 Outro"
     }

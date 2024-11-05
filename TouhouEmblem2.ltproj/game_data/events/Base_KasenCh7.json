@@ -1,16 +1,13 @@
 [
     {
-        "name": "Elites",
-        "trigger": "on_base_convo",
-        "level_nid": "6",
-        "condition": "unit == 'Elites'",
+        "name": "KasenCh7",
+        "trigger": "on_talk",
+        "level_nid": "Base",
+        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Kasen_NPC' and game.game_vars['chaptercount'] == 5 ",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
-            "transition;close",
-            "change_background;Camp Tent Interior",
-            "transition;open",
             "add_portrait;Reimu;CenterRight",
             "add_portrait;Kasen;CenterLeft",
             "speak;Reimu;There seems to be a lot of interesting characters around camp.",
@@ -20,13 +17,8 @@
             "speak;Reimu;That's more money spent, though...",
             "speak;Kasen;It's up to you if you want to take this opportunity. Just remember that they'll pack|up their bags if they're not hired before big battles.",
             "multi_remove_portrait;Kasen,Reimu",
-            "give_bexp;25;no_banner",
-            "transition;close",
-            "change_background",
-            "remove_base_convo;Elites",
-            "game_var;baseconvolist;[x for x in v('baseconvolist') if not x == 'Elites']",
-            "transition;open"
+            "give_bexp;25;no_banner"
         ],
-        "nid": "6 Elites"
+        "nid": "Base KasenCh7"
     }
 ]

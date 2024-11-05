@@ -4,18 +4,18 @@
         "name": "Akane",
         "desc": "A youkai nun hailing from Myouren Temple who follows her vows very loosely. Mostly there for the free food.",
         "variant": null,
-        "level": 3,
+        "level": 4,
         "klass": "Acolyte",
         "tags": [],
         "bases": {
-            "LCK": 1,
-            "HP": 16,
+            "LCK": 2,
+            "HP": 19,
             "STR": 0,
-            "MAG": 4,
-            "SKL": 6,
-            "SPD": 8,
+            "MAG": 6,
+            "SKL": 7,
+            "SPD": 11,
             "DEF": 2,
-            "RES": 8,
+            "RES": 9,
             "CON": 6,
             "MOV": 5
         },
@@ -54,12 +54,12 @@
         "wexp_gain": {
             "Light": [
                 false,
-                1,
+                31,
                 null
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "",
+        "portrait_nid": "Generic3",
         "affinity": "None",
         "fields": []
     }

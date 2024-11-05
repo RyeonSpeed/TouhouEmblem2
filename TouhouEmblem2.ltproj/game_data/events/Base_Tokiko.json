@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Tokiko",
+        "trigger": "on_talk",
+        "level_nid": "Base",
+        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Tokiko'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "music;Comrades",
+            "add_portrait;Tokiko;Left;ExpressionList=Smile",
+            "add_portrait;Reimu;CenterRight",
+            "if;game.get_money() < 2000",
+            "speak;Tokiko;Come back when you have more money broke bitch",
+            "finish",
+            "end",
+            "choice;Hire;Hire?;Yes,No;backable",
+            "if;'{v:Hire}' == 'Yes'",
+            "give_money;-2000;Reimu;no_banner",
+            "change_team;Tokiko;player",
+            "remove_talk;Reimu;Tokiko",
+            "multi_remove_portrait;Reimu;Tokiko",
+            "sound;Item",
+            "alert;Tokiko joined the party!",
+            "add_lore;Tokiko",
+            "else",
+            "end"
+        ],
+        "nid": "Base Tokiko"
+    }
+]

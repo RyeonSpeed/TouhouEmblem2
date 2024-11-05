@@ -1,0 +1,303 @@
+[
+    {
+        "nid": "Base",
+        "name": "Base",
+        "tilemap": "Base",
+        "bg_tilemap": null,
+        "party": "Reimu",
+        "music": {
+            "player_phase": "The Gensokyo the Gods Loved",
+            "other_phase": "The Gensokyo the Gods Loved"
+        },
+        "objective": {
+            "simple": "",
+            "win": "",
+            "loss": ""
+        },
+        "roam": true,
+        "roam_unit": "Reimu",
+        "go_to_overworld": false,
+        "should_record": true,
+        "tags": [],
+        "units": [
+            {
+                "nid": "Reimu",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    7,
+                    12
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Marisa",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    11,
+                    7
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Rinnosuke_NPC",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    4,
+                    3
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Kosuzu_NPC",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    7,
+                    3
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Miyoi_NPC",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    10,
+                    3
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Suika",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Kasen_NPC",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Tokiko",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Letty",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Kokoro",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Rin",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Kagerou",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Sena",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Yan",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            }
+        ],
+        "regions": [
+            {
+                "nid": "NextChapter",
+                "region_type": "event",
+                "position": [
+                    6,
+                    14
+                ],
+                "size": [
+                    3,
+                    1
+                ],
+                "sub_nid": "Onward!",
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            }
+        ],
+        "unit_groups": [
+            {
+                "nid": "Suika",
+                "units": [
+                    "Suika"
+                ],
+                "positions": {
+                    "Suika": [
+                        12,
+                        4
+                    ]
+                }
+            },
+            {
+                "nid": "Chapter7Kasen",
+                "units": [
+                    "Kasen_NPC"
+                ],
+                "positions": {
+                    "Kasen_NPC": [
+                        3,
+                        5
+                    ]
+                }
+            },
+            {
+                "nid": "Letty",
+                "units": [
+                    "Letty"
+                ],
+                "positions": {
+                    "Letty": [
+                        9,
+                        2
+                    ]
+                }
+            },
+            {
+                "nid": "Tokiko",
+                "units": [
+                    "Tokiko"
+                ],
+                "positions": {
+                    "Tokiko": [
+                        10,
+                        2
+                    ]
+                }
+            },
+            {
+                "nid": "Kokoro",
+                "units": [
+                    "Kokoro"
+                ],
+                "positions": {
+                    "Kokoro": [
+                        11,
+                        2
+                    ]
+                }
+            },
+            {
+                "nid": "Rin",
+                "units": [
+                    "Rin"
+                ],
+                "positions": {
+                    "Rin": [
+                        12,
+                        11
+                    ]
+                }
+            },
+            {
+                "nid": "Kagerou",
+                "units": [
+                    "Kagerou"
+                ],
+                "positions": {
+                    "Kagerou": [
+                        3,
+                        10
+                    ]
+                }
+            },
+            {
+                "nid": "Chapter7Elites",
+                "units": [
+                    "Sena",
+                    "Yan"
+                ],
+                "positions": {
+                    "Sena": [
+                        2,
+                        7
+                    ],
+                    "Yan": [
+                        2,
+                        8
+                    ]
+                }
+            }
+        ],
+        "ai_groups": []
+    }
+]

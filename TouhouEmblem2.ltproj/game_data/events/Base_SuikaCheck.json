@@ -1,0 +1,17 @@
+[
+    {
+        "name": "SuikaCheck",
+        "trigger": "level_start",
+        "level_nid": "Base",
+        "condition": "game.check_alive('Suika') and game.get_unit('Suika').team != 'player'",
+        "commands": [],
+        "only_once": false,
+        "priority": 21,
+        "_source": [
+            "add_group;Suika;Suika;fade;closest",
+            "add_talk;Reimu;Suika",
+            "end"
+        ],
+        "nid": "Base SuikaCheck"
+    }
+]

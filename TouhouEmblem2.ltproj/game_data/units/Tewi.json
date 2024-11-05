@@ -4,7 +4,7 @@
         "name": "Tewi",
         "desc": "The White Rabbit of Inaba. Insanely lucky and known to spread luck blessings around.",
         "variant": "",
-        "level": 5,
+        "level": 6,
         "klass": "Thief",
         "tags": [],
         "bases": {
@@ -12,7 +12,7 @@
             "STR": 7,
             "MAG": 6,
             "SKL": 5,
-            "SPD": 13,
+            "SPD": 14,
             "LCK": 20,
             "DEF": 5,
             "RES": 5,

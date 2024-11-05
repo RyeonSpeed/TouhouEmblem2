@@ -1,0 +1,22 @@
+[
+    {
+        "name": "IntroCh5",
+        "trigger": "level_start",
+        "level_nid": "Base",
+        "condition": "game.game_vars['chaptercount'] == 3",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "chapter_title",
+            "add_talk;Reimu;Rinnosuke_NPC",
+            "add_talk;Reimu;Kosuzu_NPC",
+            "add_talk;Reimu;Miyoi_NPC",
+            "trigger_script;Housekeeping1",
+            "inc_game_var;ARMORY_ENTRY;['Slim_Sword', 'Slim_Lance', 'Slim_Axe', 'Slim_Bow', 'Flamberge', 'Flame_Lance', 'Flame_Axe']",
+            "inc_game_var;SHOP_ENTRY;['Gust']",
+            "game_var;hireable_guys;v('hireable_guys') + ['Kana','Haruka']"
+        ],
+        "nid": "Base IntroCh5"
+    }
+]
