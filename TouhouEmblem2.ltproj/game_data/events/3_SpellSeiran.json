@@ -5,7 +5,7 @@
         "level_nid": "3",
         "condition": "game.check_dead(\"Seiran_Boss\")",
         "commands": [],
-        "only_once": false,
+        "only_once": true,
         "priority": 20,
         "_source": [
             "change_music;player_phase;Dullahan Under the Willows",
@@ -16,7 +16,13 @@
             "move_cursor;Ringo_Boss_1",
             "speak;Seiran;I might not be the strongest eagle ravi, but I'm still one nonetheless!",
             "trigger_script;Global SeiranScramble",
-            "remove_portrait;Seiran"
+            "remove_portrait;Seiran",
+            "if;game.phase.get_current() == 'enemy'",
+            "for;Spell;game.level.unit_groups.get('SeiranSpell').units",
+            "    has_finished;{Spell}",
+            "endf",
+            "else",
+            "end"
         ],
         "nid": "3 SpellSeiran"
     }

@@ -174,5 +174,23 @@
                 "Description": "124 150 151 163 40 157 156 145 40 144 157 145 163 156 47 164 40 142 145 154 157 156 147 40 150 145 162 145 56"
             }
         ]
+    },
+    {
+        "nid": "SpecialOrders",
+        "dtype": "list",
+        "svalue": "",
+        "kvvalue": [],
+        "oattrs": [
+            "nid",
+            "Description",
+            "Name"
+        ],
+        "lovalue": [
+            {
+                "nid": "Eirin",
+                "Description": "Face the genius of the moon.",
+                "Name": "V.S. Eirin"
+            }
+        ]
     }
 ]

@@ -87,7 +87,7 @@
             "add_lore;Fog_of_War",
             "add_lore;Base_Conversations",
             "game_var;_fatigue;0",
-            "base;River;{e:};Mercenary Camp;True;Global Mercenary_Camp;Music=Sealed Gods",
+            "base;River;{e:};Mercenary Camp,Special Orders;True,True;Global Mercenary_Camp,Global SpecialOrders;Music=Sealed Gods",
             "change_background",
             "transition;open",
             "prep;1",

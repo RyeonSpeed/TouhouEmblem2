@@ -15,6 +15,10 @@
             "if;not v('hireable_guys') ",
             "game_var;hireable_guys;['Tokiko','Letty','Kokoro','Miki','Tomomi','Konami','Kabin','Yae','Amane']",
             "else",
+            "end",
+            "if;not v('special_orders')",
+            "game_var;special_orders;['Eirin']",
+            "else",
             "end"
         ],
         "nid": "Global Housekeeping1"

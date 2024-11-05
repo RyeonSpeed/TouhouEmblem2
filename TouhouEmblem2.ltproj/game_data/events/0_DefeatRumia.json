@@ -25,7 +25,13 @@
             "speak;Kasen;Hmmm...not quite. It seems that whatever's causing this incident is also causing people to|go haywire with their powers, letting them unleash special attack patterns.",
             "speak;Reimu;So they're...spell cards.",
             "multi_remove_portrait;Reimu;Kasen",
-            "speak;;Certain boss characters will unleash \"special patterns\" after they are defeated the first time.|As a rule of thumb, all bosses with a portrait will usually have at least one \"special pattern\".;;;hint"
+            "speak;;Certain boss characters will unleash \"special patterns\" after they are defeated the first time.|As a rule of thumb, all bosses with a portrait will usually have at least one \"special pattern\".;;;hint",
+            "if;game.phase.get_current() == 'enemy'",
+            "for;Spell;game.level.unit_groups.get('RumiaSpell').units",
+            "    has_finished;{Spell}",
+            "endf",
+            "else",
+            "end"
         ],
         "nid": "0 DefeatRumia"
     }

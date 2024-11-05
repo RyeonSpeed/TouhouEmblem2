@@ -10,28 +10,28 @@
         "tags": [
             "Monster"
         ],
-        "max_level": 20,
+        "max_level": 40,
         "bases": {
-            "HP": 0,
-            "STR": 0,
+            "HP": 30,
+            "STR": 9,
             "MAG": 0,
-            "SKL": 0,
-            "SPD": 0,
+            "SKL": 3,
+            "SPD": 5,
             "LCK": 0,
-            "DEF": 0,
-            "RES": 0,
-            "CON": 0,
-            "MOV": 0
+            "DEF": 8,
+            "RES": 2,
+            "CON": 15,
+            "MOV": 6
         },
         "growths": {
-            "HP": 0,
-            "STR": 0,
-            "MAG": 0,
-            "SKL": 0,
-            "SPD": 0,
-            "LCK": 0,
-            "DEF": 0,
-            "RES": 0,
+            "HP": 200,
+            "STR": 60,
+            "MAG": 5,
+            "SKL": 35,
+            "SPD": 40,
+            "LCK": 25,
+            "DEF": 40,
+            "RES": 25,
             "CON": 0,
             "MOV": 0
         },
@@ -60,14 +60,14 @@
             "MOV": 5
         },
         "max_stats": {
-            "HP": 60,
+            "HP": 120,
             "STR": 30,
-            "MAG": 30,
+            "MAG": 20,
             "SKL": 30,
-            "SPD": 30,
+            "SPD": 24,
             "LCK": 30,
-            "DEF": 30,
-            "RES": 30,
+            "DEF": 26,
+            "RES": 22,
             "CON": 25,
             "MOV": 15
         },
@@ -113,17 +113,17 @@
                 0,
                 null
             ],
+            "Martial": [
+                false,
+                0,
+                null
+            ],
             "Default": [
                 false,
                 0,
                 null
             ],
             "Monster": [
-                false,
-                0,
-                null
-            ],
-            "Martial": [
                 false,
                 0,
                 null

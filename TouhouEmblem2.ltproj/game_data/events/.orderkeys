@@ -229,6 +229,7 @@
     "Global_Bloodlust",
     "Global_BullshitRinEvent",
     "Global_ConfirmMercHire",
+    "Global_ConfirmSpecialOrder",
     "Global_DeathAunn",
     "Global_DeathCirno",
     "Global_DeathDaiyousei",
@@ -309,5 +310,6 @@
     "4_SpellTewi",
     "Global_TewiLucky",
     "5_SpellReisen",
-    "DEBUG_1_Lunacy"
+    "DEBUG_1_Lunacy",
+    "Global_SpecialOrders"
 ]

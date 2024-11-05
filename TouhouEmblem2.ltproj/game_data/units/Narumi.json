@@ -4,11 +4,11 @@
         "name": "Narumi",
         "desc": "A jizo who was brought out by the Four Seasons Incident. Quite the introvert.",
         "variant": null,
-        "level": 8,
+        "level": 9,
         "klass": "Acolyte_N",
         "tags": [],
         "bases": {
-            "HP": 29,
+            "HP": 32,
             "STR": 0,
             "MAG": 8,
             "SKL": 7,

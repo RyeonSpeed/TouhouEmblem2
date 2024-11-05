@@ -46,7 +46,7 @@
             {
                 "nid": "101",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Fencer",
                 "faction": "Youkai",
                 "starting_items": [
@@ -70,7 +70,7 @@
             {
                 "nid": "102",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Fighter",
                 "faction": "Youkai",
                 "starting_items": [
@@ -94,7 +94,7 @@
             {
                 "nid": "103",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Skeleton_B",
                 "faction": "Youkai",
                 "starting_items": [
@@ -118,7 +118,7 @@
             {
                 "nid": "104",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Pirate",
                 "faction": "Youkai",
                 "starting_items": [
@@ -142,7 +142,7 @@
             {
                 "nid": "105",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Vagrant_S",
                 "faction": "Youkai",
                 "starting_items": [
@@ -166,7 +166,7 @@
             {
                 "nid": "106",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Archer",
                 "faction": "Youkai",
                 "starting_items": [
@@ -190,7 +190,7 @@
             {
                 "nid": "139",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Mage",
                 "faction": "Youkai",
                 "starting_items": [
@@ -214,7 +214,7 @@
             {
                 "nid": "107",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Bigle",
                 "faction": "Youkai",
                 "starting_items": [
@@ -238,7 +238,7 @@
             {
                 "nid": "108",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Lancer",
                 "faction": "Youkai",
                 "starting_items": [
@@ -262,7 +262,7 @@
             {
                 "nid": "109",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Revenant",
                 "faction": "Youkai",
                 "starting_items": [
@@ -286,7 +286,7 @@
             {
                 "nid": "110",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Skeleton",
                 "faction": "Youkai",
                 "starting_items": [
@@ -310,7 +310,7 @@
             {
                 "nid": "111",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Fencer",
                 "faction": "Youkai",
                 "starting_items": [
@@ -334,7 +334,7 @@
             {
                 "nid": "112",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Vagrant_S",
                 "faction": "Youkai",
                 "starting_items": [
@@ -358,7 +358,7 @@
             {
                 "nid": "113",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Fighter",
                 "faction": "Youkai",
                 "starting_items": [
@@ -382,7 +382,7 @@
             {
                 "nid": "114",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Cursed_Armor",
                 "faction": "Youkai",
                 "starting_items": [
@@ -406,7 +406,7 @@
             {
                 "nid": "116",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Cursed_Armor",
                 "faction": "Youkai",
                 "starting_items": [
@@ -430,7 +430,7 @@
             {
                 "nid": "115",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Skeleton",
                 "faction": "Youkai",
                 "starting_items": [
@@ -454,7 +454,7 @@
             {
                 "nid": "117",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Skeleton",
                 "faction": "Youkai",
                 "starting_items": [
@@ -502,7 +502,7 @@
             {
                 "nid": "119",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Bigle",
                 "faction": "Youkai",
                 "starting_items": [
@@ -526,12 +526,12 @@
             {
                 "nid": "120",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Cursed_Armor",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Short_Axe",
+                        "Steel_Sword",
                         false
                     ]
                 ],
@@ -550,7 +550,7 @@
             {
                 "nid": "121",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Dracorider",
                 "faction": "Youkai",
                 "starting_items": [
@@ -574,7 +574,7 @@
             {
                 "nid": "143",
                 "variant": null,
-                "level": 10,
+                "level": 11,
                 "klass": "Dracorider",
                 "faction": "Youkai",
                 "starting_items": [
@@ -595,7 +595,7 @@
             {
                 "nid": "145",
                 "variant": null,
-                "level": 10,
+                "level": 11,
                 "klass": "Dracorider",
                 "faction": "Youkai",
                 "starting_items": [
@@ -616,7 +616,7 @@
             {
                 "nid": "144",
                 "variant": null,
-                "level": 10,
+                "level": 11,
                 "klass": "Dracorider",
                 "faction": "Youkai",
                 "starting_items": [
@@ -637,7 +637,7 @@
             {
                 "nid": "122",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Dracorider",
                 "faction": "Youkai",
                 "starting_items": [
@@ -661,7 +661,7 @@
             {
                 "nid": "123",
                 "variant": null,
-                "level": 1,
+                "level": 10,
                 "klass": "Valkyrie",
                 "faction": "Youkai",
                 "starting_items": [
@@ -671,6 +671,10 @@
                     ],
                     [
                         "Sleep",
+                        false
+                    ],
+                    [
+                        "Thunder",
                         false
                     ]
                 ],
@@ -689,7 +693,7 @@
             {
                 "nid": "124",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Demon",
                 "faction": "Youkai",
                 "starting_items": [
@@ -713,7 +717,7 @@
             {
                 "nid": "125",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Skeleton_B",
                 "faction": "Youkai",
                 "starting_items": [
@@ -737,7 +741,7 @@
             {
                 "nid": "140",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Skeleton_B",
                 "faction": "Youkai",
                 "starting_items": [
@@ -765,7 +769,7 @@
             {
                 "nid": "126",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Skeleton",
                 "faction": "Youkai",
                 "starting_items": [
@@ -789,7 +793,7 @@
             {
                 "nid": "127",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Skeleton",
                 "faction": "Youkai",
                 "starting_items": [
@@ -817,7 +821,7 @@
             {
                 "nid": "128",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Acolyte",
                 "faction": "Youkai",
                 "starting_items": [
@@ -841,7 +845,7 @@
             {
                 "nid": "129",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Mage",
                 "faction": "Youkai",
                 "starting_items": [
@@ -865,7 +869,7 @@
             {
                 "nid": "130",
                 "variant": null,
-                "level": 10,
+                "level": 11,
                 "klass": "Grave_Rider",
                 "faction": "Youkai",
                 "starting_items": [
@@ -889,7 +893,7 @@
             {
                 "nid": "131",
                 "variant": null,
-                "level": 10,
+                "level": 11,
                 "klass": "Grave_Rider",
                 "faction": "Youkai",
                 "starting_items": [
@@ -913,7 +917,7 @@
             {
                 "nid": "132",
                 "variant": null,
-                "level": 10,
+                "level": 11,
                 "klass": "Doll_L",
                 "faction": "Youkai",
                 "starting_items": [
@@ -937,7 +941,7 @@
             {
                 "nid": "133",
                 "variant": null,
-                "level": 10,
+                "level": 11,
                 "klass": "Doll_L",
                 "faction": "Youkai",
                 "starting_items": [
@@ -961,7 +965,7 @@
             {
                 "nid": "134",
                 "variant": null,
-                "level": 10,
+                "level": 11,
                 "klass": "Doll_L",
                 "faction": "Youkai",
                 "starting_items": [
@@ -985,7 +989,7 @@
             {
                 "nid": "146",
                 "variant": null,
-                "level": 10,
+                "level": 11,
                 "klass": "Doll_L",
                 "faction": "Youkai",
                 "starting_items": [
@@ -1009,7 +1013,7 @@
             {
                 "nid": "147",
                 "variant": null,
-                "level": 10,
+                "level": 11,
                 "klass": "Doll_L",
                 "faction": "Youkai",
                 "starting_items": [
@@ -1033,7 +1037,7 @@
             {
                 "nid": "137",
                 "variant": null,
-                "level": 10,
+                "level": 11,
                 "klass": "Doll_L",
                 "faction": "Youkai",
                 "starting_items": [
@@ -1060,7 +1064,7 @@
             {
                 "nid": "141",
                 "variant": null,
-                "level": 10,
+                "level": 11,
                 "klass": "Doll_L",
                 "faction": "Youkai",
                 "starting_items": [
@@ -1087,7 +1091,7 @@
             {
                 "nid": "142",
                 "variant": null,
-                "level": 10,
+                "level": 11,
                 "klass": "Doll_L",
                 "faction": "Youkai",
                 "starting_items": [
@@ -1114,7 +1118,7 @@
             {
                 "nid": "135",
                 "variant": null,
-                "level": 9,
+                "level": 10,
                 "klass": "Doll_L",
                 "faction": "Youkai",
                 "starting_items": [
