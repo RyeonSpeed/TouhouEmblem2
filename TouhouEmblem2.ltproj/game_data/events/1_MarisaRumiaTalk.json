@@ -25,6 +25,7 @@
             "speak;Rumia;Huh",
             "change_team;Rumia;player",
             "remove_talk;Marisa;Rumia",
+            "remove_talk;Reimu;Rumia",
             "remove_skill;Rumia;Looter;no_banner",
             "music_fade_back"
         ],

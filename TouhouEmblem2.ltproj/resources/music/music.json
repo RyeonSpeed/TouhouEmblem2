@@ -203,5 +203,15 @@
         "Strawberry Crisis",
         true,
         false
+    ],
+    [
+        "Glitch",
+        false,
+        false
+    ],
+    [
+        "Game Boy Advance Crash Sound",
+        false,
+        false
     ]
 ]

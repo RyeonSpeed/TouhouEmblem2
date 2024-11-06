@@ -64,8 +64,8 @@
     "1_Destroy2",
     "1_Destroy3",
     "3_DefeatBoss",
-    "1_Armory",
-    "1_Vendor",
+    "1_ShopArmory",
+    "1_ShopVendor",
     "1_ReimuRumiaTalk",
     "1_MarisaRumiaTalk",
     "2_Fog",
@@ -339,5 +339,6 @@
     "Base_Onward",
     "Base_Kasen",
     "Base_KasenCh7",
-    "Base_Convoy"
+    "Base_Convoy",
+    "Base_Marisa"
 ]

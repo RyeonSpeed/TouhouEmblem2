@@ -9,6 +9,7 @@
         "priority": 20,
         "_source": [
             "music;Comrades",
+            "table;GoldDisplay;str(game.get_money())+'G';Funds;Alignment=top_right;RowWidth=60;expression",
             "add_portrait;Kagerou;Left;ExpressionList=Smile",
             "add_portrait;Reimu;CenterRight",
             "if;game.get_money() < 2000",

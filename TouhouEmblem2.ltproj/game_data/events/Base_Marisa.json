@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Marisa",
+        "trigger": "on_talk",
+        "level_nid": "Base",
+        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Marisa'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Marisa;Left",
+            "add_portrait;Reimu;Right",
+            "speak;Marisa;Hmmm? What is it, Reimu?",
+            "choice;MarisaServices;What do you need?;Manage Items,Gossip;backable",
+            "if;'{v:MarisaServices}' == 'Manage Items'",
+            "open_unit_management",
+            "elif;'{v:MarisaServices}' == 'Gossip'",
+            "end"
+        ],
+        "nid": "Base Marisa"
+    }
+]

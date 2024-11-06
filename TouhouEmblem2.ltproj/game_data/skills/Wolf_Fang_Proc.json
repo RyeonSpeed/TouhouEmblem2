@@ -14,12 +14,12 @@
                 3
             ],
             [
-                "attack_pre_proc",
-                "Wolf_Fang_1"
-            ],
-            [
                 "combat_art_indicator",
                 null
+            ],
+            [
+                "attack_proc",
+                "Wolf_Fang_1"
             ]
         ]
     }

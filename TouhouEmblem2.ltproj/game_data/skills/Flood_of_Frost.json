@@ -2,7 +2,7 @@
     {
         "nid": "Flood_of_Frost",
         "name": "Flood of Frost",
-        "desc": "Attacks all enemies one tile adjacent/diagonally from Letty and applies Frozen to them for 2 turns. Gives Letty +10 Res for 2 turns. Cannot Double.",
+        "desc": "Attacks all enemies one tile adjacent/diagonally from user and applies Frozen to them for 2 turns. Gives user +10 Res for 2 turns. Cannot Double.",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,
