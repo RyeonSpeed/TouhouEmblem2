@@ -1,6 +1,6 @@
 [
     {
-        "name": "Vendor",
+        "name": "ShopVendor",
         "trigger": "Vendor",
         "level_nid": "1",
         "condition": "True",
@@ -9,10 +9,9 @@
         "priority": 20,
         "_source": [
             "transition;close",
-            "shop;{unit};Fire, Ofuda, Flux, Heal, Life_Gem, Maple_Shield, Poppet, Lantern, Torch;vendor",
-            "transition;open",
-            "has_finished;{unit}"
+            "shop;{unit};Fire, Gust, Torch_Tome, Flux, Heal, Life_Gem, Maple_Shield, Poppet, Lantern, Torch;vendor",
+            "transition;open"
         ],
-        "nid": "1 Vendor"
+        "nid": "1 ShopVendor"
     }
 ]

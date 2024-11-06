@@ -2,7 +2,7 @@
     {
         "nid": "Bleeding",
         "name": "Bleeding",
-        "desc": "Unit takes 5 damage per turn and takes 1.2x damage. Stacks up to 3 times. Lasts 3 turns.",
+        "desc": "Unit takes 3 damage per turn and takes 1.2x damage. Stacks up to 3 times. Lasts 3 turns.",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,

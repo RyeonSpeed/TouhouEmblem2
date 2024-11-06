@@ -26,7 +26,53 @@
         "go_to_overworld": false,
         "should_record": true,
         "tags": [],
-        "units": [],
+        "units": [
+            {
+                "nid": "Kagerou",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    8,
+                    14
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "101",
+                "variant": null,
+                "level": 20,
+                "klass": "Sage",
+                "faction": "Youkai",
+                "starting_items": [],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    13,
+                    14
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Kasen_NPC",
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    10,
+                    15
+                ],
+                "starting_traveler": null,
+                "generic": false
+            }
+        ],
         "regions": [
             {
                 "nid": "Armory",

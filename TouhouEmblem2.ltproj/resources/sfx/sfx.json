@@ -1018,5 +1018,17 @@
     [
         "Rumble",
         null
+    ],
+    [
+        "Glitch",
+        null
+    ],
+    [
+        "GBAGlitch",
+        null
+    ],
+    [
+        "Game Boy Advance Crash Sound",
+        null
     ]
 ]

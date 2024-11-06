@@ -2,7 +2,7 @@
     {
         "nid": "Everwinter_Snowstorm",
         "name": "Everwinter Snowstorm",
-        "desc": "Enemies within 2 tiles of Letty receive -2 Mov and -15 Avoid.",
+        "desc": "Enemies within 2 tiles of user receive -2 Mov and -15 Avoid.",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,

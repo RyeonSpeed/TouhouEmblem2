@@ -8,16 +8,16 @@
         "klass": "Veteran_K",
         "tags": [],
         "bases": {
-            "HP": 20,
-            "STR": 0,
-            "MAG": 0,
-            "SKL": 0,
-            "SPD": 0,
-            "LCK": 0,
-            "DEF": 0,
+            "HP": 30,
+            "STR": 13,
+            "MAG": 5,
+            "SKL": 13,
+            "SPD": 12,
+            "LCK": 4,
+            "DEF": 12,
             "CON": 11,
             "MOV": 6,
-            "RES": 0
+            "RES": 8
         },
         "growths": {
             "HP": 100,

@@ -9,6 +9,7 @@
         "priority": 20,
         "_source": [
             "chapter_title",
+            "add_talk;Reimu;Marisa",
             "add_talk;Reimu;Rinnosuke_NPC",
             "add_talk;Reimu;Kosuzu_NPC",
             "add_talk;Reimu;Miyoi_NPC",
