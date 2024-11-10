@@ -3,7 +3,7 @@
         "name": "IntroCh8",
         "trigger": "level_start",
         "level_nid": "Base",
-        "condition": "game.game_vars['chaptercount'] == 6",
+        "condition": "game.game_vars['chaptercount'] == 7",
         "commands": [],
         "only_once": true,
         "priority": 20,
@@ -14,8 +14,8 @@
             "add_talk;Reimu;Kosuzu_NPC",
             "add_talk;Reimu;Miyoi_NPC",
             "trigger_script;Housekeeping1",
-            "game_var;ARMORY_ENTRY;['Iron_Sword', 'Iron_Axe', 'Iron_Lance', 'Iron_Bow', 'Ofuda', 'Heal']",
-            "game_var;SHOP_ENTRY;['Fire',  'Flux', 'Life_Gem', 'Poppet', 'Maple_Shield', 'Lucky_Clover', 'Lantern']"
+            "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Miu']",
+            "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Akane']"
         ],
         "nid": "Base IntroCh8"
     }

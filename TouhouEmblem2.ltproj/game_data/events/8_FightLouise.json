@@ -1,0 +1,15 @@
+[
+    {
+        "name": "FightLouise",
+        "trigger": "combat_start",
+        "level_nid": "8",
+        "condition": "unit.nid == \"Louise_Boss\" or unit2.nid == \"Louise_Boss\"",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            ""
+        ],
+        "nid": "8 FightLouise"
+    }
+]

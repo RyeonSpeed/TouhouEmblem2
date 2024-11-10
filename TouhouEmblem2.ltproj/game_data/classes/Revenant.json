@@ -62,7 +62,7 @@
             "MOV": 4
         },
         "max_stats": {
-            "HP": 60,
+            "HP": 80,
             "STR": 20,
             "MAG": 20,
             "SKL": 20,
@@ -120,17 +120,17 @@
                 0,
                 251
             ],
+            "Martial": [
+                true,
+                1,
+                null
+            ],
             "Default": [
                 false,
                 0,
                 251
             ],
             "Monster": [
-                true,
-                1,
-                null
-            ],
-            "Martial": [
                 true,
                 1,
                 null

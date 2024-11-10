@@ -11,7 +11,7 @@
         "components": [
             [
                 "build_charge_start_charged",
-                5
+                3
             ],
             [
                 "combat_charge_increase",

@@ -4,35 +4,35 @@
         "name": "Rinnosuke",
         "desc": "The owner of Kourindou, a curio shop. Tries to be a purveyor of interesting curios, but often falls short in analysis.",
         "variant": null,
-        "level": 4,
+        "level": 1,
         "klass": "Fencer_R",
         "tags": [
             "Convoy",
             "AdjConvoy"
         ],
         "bases": {
-            "DEF": 4,
-            "SPD": 8,
-            "MOV": 5,
-            "STR": 6,
-            "SKL": 6,
+            "DEF": 0,
+            "SPD": -1,
+            "MOV": 0,
+            "STR": -1,
+            "SKL": -4,
             "LCK": 5,
-            "RES": 3,
-            "HP": 18,
-            "CON": 8,
-            "MAG": 2
+            "RES": -1,
+            "HP": 1,
+            "CON": 3,
+            "MAG": -1
         },
         "growths": {
-            "DEF": 35,
-            "SPD": 40,
+            "DEF": 20,
+            "SPD": -5,
             "MOV": 0,
-            "STR": 35,
-            "SKL": 35,
-            "LCK": 35,
-            "RES": 35,
-            "HP": 70,
+            "STR": 0,
+            "SKL": -15,
+            "LCK": 5,
+            "RES": 15,
+            "HP": 0,
             "CON": 0,
-            "MAG": 35
+            "MAG": 10
         },
         "stat_cap_modifiers": {
             "DEF": 0,

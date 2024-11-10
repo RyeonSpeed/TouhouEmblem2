@@ -156,7 +156,9 @@
             "speak;Rumia;Shut it! I'll win today!",
             "expression;Marisa;Smile",
             "speak;Marisa;In broad daylight?",
-            "speak;Rumia;Sh-shut it!"
+            "speak;Rumia;Sh-shut it!",
+            "autolevel_to;Rumia_Boss;5;fixed",
+            "autolevel_to;Kasen;10;fixed"
         ],
         "nid": "0 Intro"
     }

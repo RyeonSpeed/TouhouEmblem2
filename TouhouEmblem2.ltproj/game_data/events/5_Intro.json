@@ -15,6 +15,7 @@
             "trigger_script;Housekeeping2",
             "game_var;_fatigue;0",
             "level_var;Darkness;0",
+            "autolevel_to;Reisen_Boss;10;fixed",
             "prep;1;Sealed Gods",
             "speak;;This map's clear bonus is 375 Bonus EXP, with a decrease of 75 BExp per turn you take over 20 turns!;;;hint\u2028"
         ],

@@ -9,169 +9,145 @@
             "Class",
             "Name",
             "Cost",
-            "Description"
+            "Description",
+            "Level"
         ],
         "lovalue": [
-            {
-                "nid": "Tokiko",
-                "Class": "Peg_Rider",
-                "Name": "Tokiko",
-                "Cost": "2000",
-                "Description": "Mixed attacker with an emphasis on speed."
-            },
-            {
-                "nid": "Letty",
-                "Class": "Fighter",
-                "Name": "Letty",
-                "Cost": "2000",
-                "Description": "Fighter that specializes in being anti-mage."
-            },
-            {
-                "nid": "Kokoro",
-                "Class": "Guard",
-                "Name": "Kokoro",
-                "Cost": "4000",
-                "Description": "Receives different stat changes each turn."
-            },
             {
                 "nid": "Miki",
                 "Class": "Lance_Rider",
                 "Name": "Miki",
                 "Cost": "500",
-                "Description": "Various nameless Gensokyo mercenaries."
+                "Description": "Various nameless Gensokyo mercenaries.",
+                "Level": "2"
             },
             {
                 "nid": "Tomomi",
                 "Class": "Pirate",
                 "Name": "Tomomi",
                 "Cost": "500",
-                "Description": "Various nameless Gensokyo mercenaries."
+                "Description": "Various nameless Gensokyo mercenaries.",
+                "Level": "2"
             },
             {
                 "nid": "Konami",
                 "Class": "Vagrant_S",
                 "Name": "Konami",
                 "Cost": "500",
-                "Description": "Various nameless Gensokyo mercenaries."
+                "Description": "Various nameless Gensokyo mercenaries.",
+                "Level": "2"
             },
             {
                 "nid": "Kabin",
                 "Class": "Lancer",
                 "Name": "Kabin",
                 "Cost": "500",
-                "Description": "Various nameless Gensokyo mercenaries."
+                "Description": "Various nameless Gensokyo mercenaries.",
+                "Level": "2"
             },
             {
                 "nid": "Yae",
                 "Class": "Mage",
                 "Name": "Yae",
                 "Cost": "500",
-                "Description": "Various nameless Gensokyo mercenaries."
+                "Description": "Various nameless Gensokyo mercenaries.",
+                "Level": "2"
             },
             {
                 "nid": "Amane",
                 "Class": "Guard",
                 "Name": "Amane",
                 "Cost": "500",
-                "Description": "Various nameless Gensokyo mercenaries."
+                "Description": "Various nameless Gensokyo mercenaries.",
+                "Level": "2"
             },
             {
                 "nid": "Yuna",
                 "Class": "Archer",
                 "Name": "Yuna",
                 "Cost": "500",
-                "Description": "Various nameless Gensokyo mercenaries."
+                "Description": "Various nameless Gensokyo mercenaries.",
+                "Level": "3"
             },
             {
                 "nid": "Yuika",
                 "Class": "Thief",
                 "Name": "Yuika",
                 "Cost": "500",
-                "Description": "Various nameless Gensokyo mercenaries."
+                "Description": "Various nameless Gensokyo mercenaries.",
+                "Level": "3"
             },
             {
                 "nid": "Miu",
                 "Class": "Fencer",
                 "Name": "Miu",
                 "Cost": "500",
-                "Description": "Various nameless Gensokyo mercenaries."
+                "Description": "Various nameless Gensokyo mercenaries.",
+                "Level": "4"
             },
             {
                 "nid": "Akane",
                 "Class": "Acolyte",
                 "Name": "Akane",
                 "Cost": "500",
-                "Description": "Various nameless Gensokyo mercenaries."
+                "Description": "Various nameless Gensokyo mercenaries.",
+                "Level": "4"
             },
             {
                 "nid": "Haruka",
                 "Class": "Shaman",
                 "Name": "Haruka",
                 "Cost": "500",
-                "Description": "Various nameless Gensokyo mercenaries."
+                "Description": "Various nameless Gensokyo mercenaries.",
+                "Level": "5"
             },
             {
                 "nid": "Kana",
                 "Class": "Kappa_Mech",
                 "Name": "Kana",
                 "Cost": "500",
-                "Description": "Various nameless Gensokyo mercenaries."
+                "Description": "Various nameless Gensokyo mercenaries.",
+                "Level": "5"
             },
             {
                 "nid": "Meiko",
-                "Class": "Archer",
+                "Class": "Archer_R",
                 "Name": "Meiko",
                 "Cost": "500",
-                "Description": "Various nameless Gensokyo mercenaries."
+                "Description": "Various nameless Gensokyo mercenaries.",
+                "Level": "6"
             },
             {
                 "nid": "Hanae",
                 "Class": "Fencer_Y",
                 "Name": "Hanae",
                 "Cost": "500",
-                "Description": "Various nameless Gensokyo mercenaries."
+                "Description": "Various nameless Gensokyo mercenaries.",
+                "Level": "6"
             },
             {
                 "nid": "Yan",
                 "Class": "Axe_Rider",
                 "Name": "Yan",
                 "Cost": "1000",
-                "Description": "Elite mercs drawn in by a bigger battle."
+                "Description": "Elite mercs drawn in by a bigger battle.",
+                "Level": "7"
             },
             {
                 "nid": "Sena",
                 "Class": "Vagrant_S",
                 "Name": "Sena",
                 "Cost": "1000",
-                "Description": "Elite mercs drawn in by a bigger battle."
-            },
-            {
-                "nid": "Seiran",
-                "Class": "Vagrant_A",
-                "Name": "Seiran",
-                "Cost": "3000",
-                "Description": "Swift fighter that can counter at any range."
-            },
-            {
-                "nid": "Ringo",
-                "Class": "Lancer_R",
-                "Name": "Ringo",
-                "Cost": "3000",
-                "Description": "Gets a free action after using an item."
-            },
-            {
-                "nid": "Kagerou",
-                "Class": "Lycanthrope",
-                "Name": "Kagerou",
-                "Cost": "2000",
-                "Description": "High movement & avoid offensive unit."
+                "Description": "Elite mercs drawn in by a bigger battle.",
+                "Level": "7"
             },
             {
                 "nid": "Rin",
                 "Class": "Civilian",
                 "Name": "Rin",
                 "Cost": "game.get_random(100,3000)",
-                "Description": "124 150 151 163 40 157 156 145 40 144 157 145 163 156 47 164 40 142 145 154 157 156 147 40 150 145 162 145 56"
+                "Description": "124 150 151 163 40 157 156 145 40 144 157 145 163 156 47 164 40 142 145 154 157 156 147 40 150 145 162 145 56",
+                "Level": "1"
             }
         ]
     },

@@ -174,6 +174,36 @@
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "Seiran",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Ringo",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Kogasa",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [
@@ -294,6 +324,42 @@
                     "Yan": [
                         2,
                         8
+                    ]
+                }
+            },
+            {
+                "nid": "Ringo",
+                "units": [
+                    "Ringo"
+                ],
+                "positions": {
+                    "Ringo": [
+                        12,
+                        9
+                    ]
+                }
+            },
+            {
+                "nid": "Seiran",
+                "units": [
+                    "Seiran"
+                ],
+                "positions": {
+                    "Seiran": [
+                        12,
+                        10
+                    ]
+                }
+            },
+            {
+                "nid": "Kogasa",
+                "units": [
+                    "Kogasa"
+                ],
+                "positions": {
+                    "Kogasa": [
+                        5,
+                        11
                     ]
                 }
             }

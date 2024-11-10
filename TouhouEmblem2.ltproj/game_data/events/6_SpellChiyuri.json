@@ -15,6 +15,7 @@
             "speak;Chiyuri;Eughh...I may have been defeated...but my teacher will destroy you!",
             "remove_portrait;Chiyuri",
             "add_group;ChiyuriSpell;ChiyuriSpell;warp;closest",
+            "autolevel_to;Yumemi_Boss;15;fixed",
             "move_cursor;Yumemi_Boss",
             "add_portrait;Yumemi;Left",
             "speak;Yumemi;Heheh...it's my time to shine! You may have defeated my student...but I'm something else!",

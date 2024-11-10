@@ -14,6 +14,7 @@
             "add_portrait;Tewi;Left",
             "speak;;\"Ancient Duper\";center;90;hint;;red;;;1;;;;;Warp",
             "add_group;TewiSpell;TewiSpell;warp;closest",
+            "autolevel_to;Tewi_Boss_1;8;fixed",
             "move_cursor;Tewi_Boss_1",
             "speak;Tewi;Hey, hey, hey! Feeling...lucky?",
             "remove_portrait;Tewi",

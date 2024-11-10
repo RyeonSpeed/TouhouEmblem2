@@ -4,32 +4,32 @@
         "name": "Reisen",
         "desc": "A rabbit from the moon whose eyes can send enemies into a frenzy. She sells medicine in the Human Village under the orders of Eirin.",
         "variant": "",
-        "level": 10,
+        "level": 1,
         "klass": "Archer_R",
         "tags": [
             "Boss"
         ],
         "bases": {
-            "HP": 32,
-            "STR": 9,
-            "MAG": 11,
-            "SKL": 10,
-            "SPD": 12,
-            "LCK": 4,
-            "DEF": 6,
-            "RES": 9,
-            "CON": 7,
-            "MOV": 5
+            "HP": 7,
+            "STR": 1,
+            "MAG": 2,
+            "SKL": 1,
+            "SPD": 2,
+            "LCK": 2,
+            "DEF": 0,
+            "RES": 2,
+            "CON": 0,
+            "MOV": 0
         },
         "growths": {
-            "HP": 70,
-            "STR": 30,
-            "MAG": 45,
-            "SKL": 50,
-            "SPD": 55,
-            "LCK": 35,
-            "DEF": 25,
-            "RES": 45,
+            "HP": 0,
+            "STR": 0,
+            "MAG": 15,
+            "SKL": 0,
+            "SPD": 15,
+            "LCK": 0,
+            "DEF": 5,
+            "RES": 10,
             "CON": 0,
             "MOV": 0
         },
@@ -66,10 +66,6 @@
         "learned_skills": [
             [
                 1,
-                "Lunatic_Red_Eyes"
-            ],
-            [
-                1,
                 "Quick_Counter"
             ]
         ],
@@ -88,7 +84,7 @@
         },
         "alternate_classes": [],
         "portrait_nid": "Reisen",
-        "affinity": "None",
+        "affinity": "Fire",
         "fields": []
     }
 ]

@@ -16,7 +16,7 @@
             "speak;Kagerou;Come back when you have more money broke bitch",
             "finish",
             "end",
-            "choice;Hire;Hire?;Yes,No;backable",
+            "choice;Hire;Hire for 3000 gold?;Yes,No;backable",
             "if;'{v:Hire}' == 'Yes'",
             "give_money;-2000;Reimu;no_banner",
             "change_team;Kagerou;player",

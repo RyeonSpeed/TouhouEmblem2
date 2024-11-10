@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Destroy2",
+        "trigger": "Destructible",
+        "level_nid": "8",
+        "condition": "region.nid == 'Destructible2'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "flicker_cursor;2,2",
+            "show_layer;Destroyed2",
+            "remove_region;Village2",
+            "wait;500"
+        ],
+        "nid": "8 Destroy2"
+    }
+]

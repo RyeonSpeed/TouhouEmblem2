@@ -13,6 +13,7 @@
             "transition;open",
             "music;Comrades",
             "load_unit;Rinnosuke",
+            "autolevel_to;Rinnosuke;4;fixed",
             "add_portrait;Rinnosuke;Left",
             "add_portrait;Marisa;Right",
             "speak;Marisa;Heyyyy, Kourin!",

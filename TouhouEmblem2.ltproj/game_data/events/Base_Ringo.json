@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Ringo",
+        "trigger": "on_talk",
+        "level_nid": "Base",
+        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Ringo'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "music;Comrades",
+            "table;GoldDisplay;str(game.get_money())+'G';Funds;Alignment=top_right;RowWidth=60;expression",
+            "add_portrait;Ringo;Left;ExpressionList=Smile",
+            "add_portrait;Reimu;CenterRight",
+            "if;game.get_money() < 5000",
+            "speak;Ringo;Come back when you have more money broke bitch",
+            "finish",
+            "end",
+            "choice;Hire;Hire for 5000 gold??;Yes,No;backable",
+            "if;'{v:Hire}' == 'Yes'",
+            "give_money;-5000;Reimu;no_banner",
+            "change_team;Ringo;player",
+            "remove_talk;Reimu;Ringo",
+            "multi_remove_portrait;Reimu;Ringo",
+            "sound;Item",
+            "alert;Ringo joined the party!",
+            "add_lore;Ringo",
+            "else",
+            "end"
+        ],
+        "nid": "Base Ringo"
+    }
+]

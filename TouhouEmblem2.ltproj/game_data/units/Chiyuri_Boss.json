@@ -4,34 +4,34 @@
         "name": "Chiyuri ",
         "desc": "",
         "variant": null,
-        "level": 12,
+        "level": 1,
         "klass": "Outlaw",
         "tags": [
             "Boss"
         ],
         "bases": {
-            "HP": 34,
-            "STR": 9,
-            "SPD": 14,
-            "SKL": 12,
-            "MAG": 5,
-            "LCK": 5,
-            "DEF": 6,
-            "RES": 9,
-            "CON": 7,
-            "MOV": 6
+            "HP": 9,
+            "STR": 2,
+            "SPD": 0,
+            "SKL": 3,
+            "MAG": 0,
+            "LCK": 1,
+            "DEF": 1,
+            "RES": 3,
+            "CON": 1,
+            "MOV": 0
         },
         "growths": {
-            "LCK": 55,
+            "LCK": 15,
             "CON": 0,
             "MOV": 0,
-            "STR": 35,
-            "SKL": 55,
-            "RES": 40,
-            "HP": 65,
-            "MAG": 10,
-            "SPD": 60,
-            "DEF": 30
+            "STR": 10,
+            "SKL": -10,
+            "RES": 5,
+            "HP": 5,
+            "MAG": 0,
+            "SPD": 10,
+            "DEF": 5
         },
         "stat_cap_modifiers": {
             "LCK": 0,
@@ -59,6 +59,10 @@
             [
                 1,
                 "Indomitable_Spirit"
+            ],
+            [
+                1,
+                "Newton"
             ]
         ],
         "unit_notes": [],

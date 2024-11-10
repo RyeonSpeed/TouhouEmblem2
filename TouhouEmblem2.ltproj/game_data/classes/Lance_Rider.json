@@ -33,10 +33,10 @@
             "SKL": 35,
             "SPD": 35,
             "LCK": 30,
-            "DEF": 25,
+            "DEF": 30,
             "CON": 0,
             "MOV": 0,
-            "RES": 15
+            "RES": 10
         },
         "growth_bonus": {
             "HP": 0,

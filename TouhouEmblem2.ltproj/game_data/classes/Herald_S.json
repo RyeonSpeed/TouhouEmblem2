@@ -4,7 +4,7 @@
         "name": "Herald",
         "desc": "Mounted healers who swiftly rush across the battlefield to provide support.\nTags: Mounted, Magic, Beast",
         "tier": 1,
-        "movement_group": "Heavy Cav",
+        "movement_group": "Light Cav",
         "promotes_from": null,
         "turns_into": [
             "Medic"
@@ -17,8 +17,8 @@
         "max_level": 20,
         "bases": {
             "HP": 16,
-            "STR": 3,
-            "MAG": 4,
+            "STR": 4,
+            "MAG": 6,
             "SKL": 5,
             "SPD": 6,
             "LCK": 0,
@@ -29,8 +29,8 @@
         },
         "growths": {
             "HP": 60,
-            "STR": 35,
-            "MAG": 40,
+            "STR": 30,
+            "MAG": 30,
             "SKL": 20,
             "SPD": 40,
             "LCK": 45,
@@ -53,8 +53,8 @@
         },
         "promotion": {
             "HP": 16,
-            "STR": 3,
-            "MAG": 4,
+            "STR": 4,
+            "MAG": 6,
             "SKL": 5,
             "SPD": 6,
             "LCK": 0,

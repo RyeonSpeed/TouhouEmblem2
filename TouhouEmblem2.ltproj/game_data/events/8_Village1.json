@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Village1",
+        "trigger": "Visit",
+        "level_nid": "8",
+        "condition": "region.nid == 'Village1'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "transition;Close",
+            "change_background;Rural Town",
+            "transition;Open",
+            "transition;Close",
+            "change_background",
+            "transition;Open",
+            "give_item;{unit};Yukkuri_M",
+            "give_bexp;30;no_banner",
+            "show_layer;Village1",
+            "has_traded;{unit}"
+        ],
+        "nid": "8 Village1"
+    }
+]

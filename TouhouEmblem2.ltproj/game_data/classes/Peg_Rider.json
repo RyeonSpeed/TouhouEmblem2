@@ -15,14 +15,14 @@
         ],
         "max_level": 20,
         "bases": {
-            "HP": 14,
+            "HP": 17,
             "STR": 4,
-            "MAG": 2,
+            "MAG": 4,
             "SKL": 5,
             "SPD": 8,
             "LCK": 0,
             "DEF": 3,
-            "RES": 2,
+            "RES": 6,
             "CON": 5,
             "MOV": 7
         },
@@ -31,7 +31,7 @@
             "STR": 35,
             "MAG": 20,
             "SKL": 40,
-            "SPD": 50,
+            "SPD": 45,
             "LCK": 35,
             "DEF": 20,
             "RES": 55,
@@ -51,14 +51,14 @@
             "MOV": 0
         },
         "promotion": {
-            "HP": 14,
+            "HP": 17,
             "STR": 4,
-            "MAG": 2,
+            "MAG": 4,
             "SKL": 5,
             "SPD": 8,
             "LCK": 0,
             "DEF": 3,
-            "RES": 2,
+            "RES": 6,
             "CON": 5,
             "MOV": 7
         },
@@ -88,7 +88,7 @@
             "Sword": [
                 true,
                 1,
-                121
+                181
             ],
             "Lance": [
                 true,

@@ -4,34 +4,34 @@
         "name": "Sekibanki ",
         "desc": "A rokurokubi who is a member of the Grassroots Youkai Network. Usually a solitary and reclusive youkai.",
         "variant": null,
-        "level": 8,
+        "level": 1,
         "klass": "Shaman_S",
         "tags": [
             "Boss"
         ],
         "bases": {
-            "DEF": 8,
-            "SPD": 5,
-            "MOV": 5,
-            "STR": 3,
+            "DEF": 1,
+            "SPD": 1,
+            "MOV": 0,
+            "STR": -2,
             "SKL": 9,
             "LCK": 7,
-            "RES": 3,
-            "HP": 30,
-            "CON": 9,
-            "MAG": 10
+            "RES": 1,
+            "HP": 8,
+            "CON": 1,
+            "MAG": 1
         },
         "growths": {
-            "DEF": 50,
-            "SPD": 30,
+            "DEF": 15,
+            "SPD": 10,
             "MOV": 0,
-            "STR": 40,
-            "SKL": 35,
-            "LCK": 35,
-            "RES": 35,
-            "HP": 85,
+            "STR": 5,
+            "SKL": 5,
+            "LCK": 15,
+            "RES": 20,
+            "HP": 15,
             "CON": 0,
-            "MAG": 50
+            "MAG": 5
         },
         "stat_cap_modifiers": {
             "DEF": 0,

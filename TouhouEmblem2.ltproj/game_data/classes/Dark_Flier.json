@@ -13,26 +13,26 @@
         ],
         "max_level": 40,
         "bases": {
-            "HP": 20,
-            "STR": 6,
-            "MAG": 3,
-            "SKL": 7,
-            "SPD": 7,
+            "HP": 22,
+            "STR": 5,
+            "MAG": 7,
+            "SKL": 5,
+            "SPD": 10,
             "LCK": 0,
-            "DEF": 5,
-            "RES": 4,
+            "DEF": 4,
+            "RES": 8,
             "CON": 6,
             "MOV": 8
         },
         "growths": {
-            "HP": 60,
-            "STR": 30,
-            "MAG": 15,
-            "SKL": 30,
-            "SPD": 30,
-            "LCK": 30,
-            "DEF": 12,
-            "RES": 30,
+            "HP": 65,
+            "STR": 20,
+            "MAG": 35,
+            "SKL": 40,
+            "SPD": 35,
+            "LCK": 35,
+            "DEF": 20,
+            "RES": 35,
             "CON": 0,
             "MOV": 0
         },
@@ -50,25 +50,25 @@
         },
         "promotion": {
             "HP": 5,
-            "STR": 2,
-            "MAG": 1,
+            "STR": 1,
+            "MAG": 3,
             "SKL": 0,
             "SPD": 2,
             "LCK": 0,
-            "DEF": 2,
+            "DEF": 1,
             "RES": 2,
             "CON": 1,
             "MOV": -99
         },
         "max_stats": {
             "HP": 60,
-            "STR": 25,
-            "MAG": 25,
-            "SKL": 25,
-            "SPD": 28,
+            "STR": 28,
+            "MAG": 28,
+            "SKL": 29,
+            "SPD": 30,
             "LCK": 30,
-            "DEF": 23,
-            "RES": 26,
+            "DEF": 22,
+            "RES": 28,
             "CON": 25,
             "MOV": 15
         },
@@ -86,7 +86,7 @@
             "Sword": [
                 true,
                 1,
-                121
+                251
             ],
             "Lance": [
                 true,
@@ -104,7 +104,7 @@
                 251
             ],
             "Staff": [
-                true,
+                false,
                 0,
                 121
             ],
@@ -114,8 +114,8 @@
                 251
             ],
             "Anima": [
-                false,
-                0,
+                true,
+                1,
                 251
             ],
             "Dark": [

@@ -11,7 +11,8 @@
             "move_cursor;10,13",
             "add_group;Mermaid;Mermaid;fade;closest",
             "add_portrait;Wakasagihime;CenterRight",
-            "speak;Wakasagihime;The time has come! Time to sink these fools!"
+            "speak;Wakasagihime;The time has come! Time to sink these fools!",
+            "autolevel_to;Wakasagihime_Boss;3;fixed"
         ],
         "nid": "1 MermaidReinforcements"
     }

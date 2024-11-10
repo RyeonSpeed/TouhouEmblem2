@@ -3,9 +3,9 @@
         "nid": "Cursed_Armor",
         "name": "Cursed Armor",
         "desc": "Possessed suits of armor reanimated through spirit magic.\nTags: Armor, Monster",
-        "tier": 1,
+        "tier": 2,
         "movement_group": "Armors",
-        "promotes_from": null,
+        "promotes_from": "Guard",
         "turns_into": [
             "Warden"
         ],
@@ -16,15 +16,15 @@
         "max_level": 40,
         "bases": {
             "HP": 20,
-            "STR": 7,
+            "STR": 9,
             "MAG": 0,
             "SKL": 2,
-            "SPD": 1,
+            "SPD": 3,
             "LCK": 0,
             "DEF": 9,
             "CON": 13,
             "MOV": 5,
-            "RES": 3
+            "RES": 5
         },
         "growths": {
             "HP": 80,
@@ -52,27 +52,27 @@
         },
         "promotion": {
             "HP": 20,
-            "STR": 7,
+            "STR": 9,
             "MAG": 0,
             "SKL": 2,
-            "SPD": 1,
+            "SPD": 3,
             "LCK": 0,
             "DEF": 9,
             "CON": 13,
-            "MOV": 5,
-            "RES": 3
+            "MOV": -99,
+            "RES": 5
         },
         "max_stats": {
-            "HP": 60,
-            "STR": 20,
+            "HP": 80,
+            "STR": 33,
             "MAG": 20,
-            "SKL": 20,
-            "SPD": 20,
+            "SKL": 25,
+            "SPD": 23,
             "LCK": 30,
-            "DEF": 20,
+            "DEF": 33,
             "CON": 20,
             "MOV": 15,
-            "RES": 20
+            "RES": 22
         },
         "learned_skills": [
             [
@@ -94,7 +94,7 @@
             "Axe": [
                 true,
                 1,
-                181
+                251
             ],
             "Bow": [
                 false,

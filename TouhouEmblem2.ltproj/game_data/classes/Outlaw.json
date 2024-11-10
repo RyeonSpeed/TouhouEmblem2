@@ -14,21 +14,21 @@
         "bases": {
             "HP": 16,
             "STR": 4,
-            "MAG": 2,
-            "SKL": 5,
+            "MAG": 4,
+            "SKL": 4,
             "SPD": 9,
             "LCK": 0,
-            "DEF": 1,
+            "DEF": 3,
             "RES": 2,
             "CON": 6,
             "MOV": 6
         },
         "growths": {
-            "HP": 50,
-            "STR": 30,
+            "HP": 60,
+            "STR": 25,
             "MAG": 25,
             "SKL": 45,
-            "SPD": 60,
+            "SPD": 50,
             "LCK": 40,
             "DEF": 20,
             "RES": 20,
@@ -50,11 +50,11 @@
         "promotion": {
             "HP": 16,
             "STR": 4,
-            "MAG": 2,
-            "SKL": 5,
+            "MAG": 4,
+            "SKL": 4,
             "SPD": 9,
             "LCK": 0,
-            "DEF": 1,
+            "DEF": 3,
             "RES": 2,
             "CON": 6,
             "MOV": 6
@@ -118,17 +118,17 @@
                 0,
                 251
             ],
+            "Martial": [
+                false,
+                0,
+                null
+            ],
             "Default": [
                 false,
                 0,
                 251
             ],
             "Monster": [
-                false,
-                0,
-                null
-            ],
-            "Martial": [
                 false,
                 0,
                 null

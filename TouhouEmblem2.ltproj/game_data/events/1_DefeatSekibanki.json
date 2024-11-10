@@ -13,6 +13,7 @@
             "add_portrait;Sekibanki;Left",
             "speak;;Flying Head \"Multiplicative Head\";center;170;hint;;red;;;1;;;;;Warp",
             "add_group;SekibankiSpell;SekibankiSpell;warp;closest",
+            "autolevel_to;Sekibanki_Boss_1;6;fixed",
             "move_cursor;Sekibanki_Boss_1",
             "speak;Sekibanki;There's no escaping my many heads!",
             "remove_portrait;Sekibanki",

@@ -36,6 +36,10 @@
             [
                 "alternate_battle_anim",
                 "Critical"
+            ],
+            [
+                "combat_charge_increase",
+                1
             ]
         ]
     }

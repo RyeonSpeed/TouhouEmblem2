@@ -13,6 +13,7 @@
             "add_portrait;Kagerou;Left",
             "speak;;Wolf Sign \"Star Ring Pounce\";center;160;hint;;red;;;1;;;;;Warp",
             "add_group;KagerouSpell;KagerouSpell;warp;closest",
+            "autolevel_to;Kagerou_Boss_1;6;fixed",
             "move_cursor;Kagerou_Boss_1",
             "speak;Kagerou;I'll tear you to shreds in a crimson flash!",
             "remove_portrait;Kagerou",

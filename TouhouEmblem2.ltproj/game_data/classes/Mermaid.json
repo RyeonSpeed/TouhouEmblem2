@@ -13,13 +13,13 @@
         ],
         "max_level": 40,
         "bases": {
-            "HP": 20,
+            "HP": 24,
             "STR": 0,
-            "MAG": 7,
+            "MAG": 9,
             "SKL": 4,
-            "SPD": 3,
+            "SPD": 4,
             "LCK": 0,
-            "DEF": 3,
+            "DEF": 4,
             "RES": 6,
             "CON": 9,
             "MOV": 5
@@ -32,7 +32,7 @@
             "SPD": 25,
             "LCK": 30,
             "DEF": 20,
-            "RES": 45,
+            "RES": 55,
             "CON": 0,
             "MOV": 0
         },
@@ -49,16 +49,16 @@
             "MOV": 0
         },
         "promotion": {
-            "HP": 20,
+            "HP": 24,
             "STR": 0,
-            "MAG": 7,
+            "MAG": 9,
             "SKL": 4,
-            "SPD": 3,
+            "SPD": 4,
             "LCK": 0,
-            "DEF": 3,
+            "DEF": 4,
             "RES": 6,
             "CON": 9,
-            "MOV": 5
+            "MOV": -99
         },
         "max_stats": {
             "HP": 60,

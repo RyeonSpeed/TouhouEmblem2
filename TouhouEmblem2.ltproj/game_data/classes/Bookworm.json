@@ -26,11 +26,11 @@
             "MOV": 5
         },
         "growths": {
-            "HP": 55,
+            "HP": 45,
             "STR": 10,
-            "MAG": 40,
+            "MAG": 70,
             "SKL": 40,
-            "SPD": 35,
+            "SPD": 20,
             "LCK": 20,
             "DEF": 25,
             "RES": 40,
@@ -50,15 +50,15 @@
             "MOV": 0
         },
         "promotion": {
-            "HP": 1,
-            "STR": 0,
-            "MAG": 2,
-            "SKL": 0,
-            "SPD": 1,
+            "HP": 16,
+            "STR": 1,
+            "MAG": 5,
+            "SKL": 4,
+            "SPD": 4,
             "LCK": 0,
-            "DEF": 1,
-            "RES": 2,
-            "CON": 2,
+            "DEF": 3,
+            "RES": 4,
+            "CON": 5,
             "MOV": -99
         },
         "max_stats": {

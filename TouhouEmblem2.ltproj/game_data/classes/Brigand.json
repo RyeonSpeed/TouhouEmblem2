@@ -16,7 +16,7 @@
             "STR": 7,
             "MAG": 0,
             "SKL": 2,
-            "SPD": 4,
+            "SPD": 7,
             "LCK": 0,
             "DEF": 3,
             "RES": 0,
@@ -24,11 +24,11 @@
             "MOV": 5
         },
         "growths": {
-            "HP": 100,
+            "HP": 70,
             "STR": 55,
             "MAG": 10,
-            "SKL": 20,
-            "SPD": 30,
+            "SKL": 15,
+            "SPD": 40,
             "LCK": 15,
             "DEF": 15,
             "RES": 15,
@@ -52,7 +52,7 @@
             "STR": 7,
             "MAG": 0,
             "SKL": 2,
-            "SPD": 4,
+            "SPD": 7,
             "LCK": 0,
             "DEF": 3,
             "RES": 0,
@@ -113,17 +113,17 @@
                 0,
                 251
             ],
+            "Martial": [
+                false,
+                0,
+                null
+            ],
             "Default": [
                 false,
                 0,
                 251
             ],
             "Monster": [
-                false,
-                0,
-                null
-            ],
-            "Martial": [
                 false,
                 0,
                 null

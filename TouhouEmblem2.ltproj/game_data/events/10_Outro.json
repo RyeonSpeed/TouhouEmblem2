@@ -8,7 +8,13 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "set_next_chapter;10"
+            "if;game.turncount <= 20",
+            "give_bexp;1000",
+            "speak;;You completed the map in 15 or less turns! You got the full reward!;;;hint",
+            "elif;game.turncount > 20",
+            "speak;;Lmao skill issue;;;hint",
+            "end",
+            "set_next_chapter;9"
         ],
         "nid": "10 Outro"
     }

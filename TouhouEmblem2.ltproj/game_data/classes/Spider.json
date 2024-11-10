@@ -116,17 +116,17 @@
                 0,
                 null
             ],
+            "Martial": [
+                true,
+                71,
+                null
+            ],
             "Default": [
                 false,
                 0,
                 null
             ],
             "Monster": [
-                true,
-                71,
-                null
-            ],
-            "Martial": [
                 true,
                 71,
                 null

@@ -26,7 +26,7 @@
             "change_party;Mokou;Reimu",
             "end",
             "game_var;chaptercount;6",
-            "set_next_chapter;Base"
+            "set_next_chapter;7"
         ],
         "nid": "6 Outro"
     }

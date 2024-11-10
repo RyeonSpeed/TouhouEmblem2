@@ -84,6 +84,8 @@
             "multi_remove_portrait;Marisa;Reimu;Kasen",
             "enable_fog_of_war;t",
             "set_fog_of_war;gba;5;5;5",
+            "autolevel_to;Wriggle;3;fixed",
+            "autolevel_to;Mystia;3;fixed",
             "prep;1;Sealed Gods",
             "transition;open",
             "speak;;This map's clear bonus is 300 Bonus EXP, with a decrease of 60 BExp per turn you take over 15 turns!;;;hint"

@@ -5,31 +5,31 @@
         "desc": "A komainu statue who came to life. She is pure-hearted and dutifully guards temples and shrines. ",
         "variant": "",
         "level": 1,
-        "klass": "Sword_Rider",
+        "klass": "Lance_Rider",
         "tags": [],
         "bases": {
-            "HP": 22,
-            "STR": 9,
+            "HP": 2,
+            "STR": 4,
             "MAG": 1,
-            "SKL": 6,
-            "SPD": 6,
-            "LCK": 4,
-            "DEF": 8,
-            "CON": 9,
-            "MOV": 7,
+            "SKL": 2,
+            "SPD": -1,
+            "LCK": 7,
+            "DEF": 3,
+            "CON": 0,
+            "MOV": 0,
             "RES": 0
         },
         "growths": {
-            "HP": 80,
-            "STR": 55,
-            "MAG": 25,
-            "SKL": 40,
-            "SPD": 30,
-            "LCK": 40,
-            "DEF": 55,
+            "HP": 5,
+            "STR": 20,
+            "MAG": 5,
+            "SKL": 5,
+            "SPD": -5,
+            "LCK": 20,
+            "DEF": 20,
             "CON": 0,
             "MOV": 0,
-            "RES": 25
+            "RES": 10
         },
         "stat_cap_modifiers": {
             "CON": 0,
@@ -45,7 +45,7 @@
         },
         "starting_items": [
             [
-                "Iron_Sword",
+                "Iron_Lance",
                 false
             ],
             [
@@ -67,12 +67,12 @@
         "wexp_gain": {
             "Sword": [
                 true,
-                31,
+                0,
                 251
             ],
             "Lance": [
                 true,
-                0,
+                31,
                 251
             ],
             "Axe": [

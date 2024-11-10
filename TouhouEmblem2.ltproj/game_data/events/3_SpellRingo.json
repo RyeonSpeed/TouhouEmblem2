@@ -13,6 +13,7 @@
             "add_portrait;Ringo;Left",
             "speak;;Moon-Viewing Sake \"Lunatic September\";center;201;hint;;red;;;1;;;;;Warp",
             "add_group;RingoSpell;RingoSpell;warp;closest",
+            "autolevel_to;Ringo_Boss_1;7;fixed",
             "move_cursor;Ringo_Boss_1",
             "speak;Ringo;Hey, I'm not done just yet! I still have my pride as a soldier!",
             "remove_portrait;Ringo",
