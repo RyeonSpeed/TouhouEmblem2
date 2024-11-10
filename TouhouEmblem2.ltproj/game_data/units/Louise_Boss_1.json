@@ -1,0 +1,74 @@
+[
+    {
+        "nid": "Louise_Boss_1",
+        "name": "Louise ",
+        "desc": "A demon from Makai who serves as the vanguard for something else...",
+        "variant": null,
+        "level": 1,
+        "klass": "Archdemon",
+        "tags": [
+            "Boss"
+        ],
+        "bases": {
+            "HP": 6,
+            "STR": 0,
+            "MAG": 3,
+            "SKL": 0,
+            "SPD": 1,
+            "LCK": 6,
+            "DEF": 0,
+            "RES": 1,
+            "CON": 0,
+            "MOV": 0
+        },
+        "growths": {
+            "HP": 0,
+            "STR": 5,
+            "MAG": 15,
+            "SKL": 0,
+            "SPD": 5,
+            "LCK": 0,
+            "DEF": 0,
+            "RES": 5,
+            "CON": 0,
+            "MOV": 0
+        },
+        "stat_cap_modifiers": {},
+        "starting_items": [
+            [
+                "Spear",
+                false
+            ],
+            [
+                "Bolt_Naginata",
+                false
+            ],
+            [
+                "Eirins_Drugs",
+                false
+            ],
+            [
+                "Tengu_Feathers",
+                false
+            ]
+        ],
+        "learned_skills": [
+            [
+                1,
+                "Indomitable_Spirit"
+            ]
+        ],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Lance": [
+                false,
+                121,
+                null
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "Louise",
+        "affinity": "Dark",
+        "fields": []
+    }
+]

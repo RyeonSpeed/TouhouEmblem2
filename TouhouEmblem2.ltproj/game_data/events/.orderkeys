@@ -155,7 +155,7 @@
     "8_Turn3",
     "2_MokouNPCDeath",
     "1_Turn10",
-    "8_DefeatLouise",
+    "8_SpellLouise",
     "8_FightLouise",
     "8_DefeatBoss",
     "6_DeathYumemi",
@@ -354,5 +354,7 @@
     "9_DefeatAlicePC98",
     "9_DefeatAlicePC98_1",
     "9_SpellAlicePC98",
-    "9_DefeatBoss"
+    "9_DefeatBoss",
+    "8_DeathLouise",
+    "8_DeathLouise_1"
 ]
