@@ -1,8 +1,8 @@
 [
     {
-        "name": "BaseBreakables",
+        "name": "Breakables",
         "trigger": "on_base_convo",
-        "level_nid": null,
+        "level_nid": "4",
         "condition": "unit == 'Breakables'",
         "commands": [],
         "only_once": true,
@@ -27,10 +27,8 @@
             "transition;close",
             "change_background",
             "remove_base_convo;Breakables",
-            "game_var;baseconvolist;[x for x in v('baseconvolist') if not x == 'Breakables']",
-            "add_lore;Breakable_Tiles",
             "transition;open"
         ],
-        "nid": "Global BaseBreakables"
+        "nid": "4 Breakables"
     }
 ]

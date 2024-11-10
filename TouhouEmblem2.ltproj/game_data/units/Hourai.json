@@ -8,14 +8,14 @@
         "klass": "Occultist",
         "tags": [],
         "bases": {
-            "HP": 0,
+            "HP": 3,
             "STR": 0,
-            "MAG": 0,
-            "SKL": 0,
-            "SPD": 0,
-            "LCK": 0,
-            "DEF": 0,
-            "RES": 0,
+            "MAG": 2,
+            "SKL": 3,
+            "SPD": 1,
+            "LCK": 6,
+            "DEF": 1,
+            "RES": 3,
             "CON": 0,
             "MOV": 0
         },
@@ -46,6 +46,10 @@
             [
                 1,
                 "Doll_Coordination"
+            ],
+            [
+                1,
+                "DollComponent"
             ]
         ],
         "unit_notes": [],

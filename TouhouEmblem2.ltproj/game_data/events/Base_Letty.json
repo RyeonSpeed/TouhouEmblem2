@@ -25,7 +25,7 @@
             "speak;Letty;You do...not have enough money...so warm...",
             "speak;Reimu;Such melodrama.",
             "finish",
-            "else",
+            "elif;'{v:Hire}' == 'Yes' and game.get_money() >= 2000",
             "speak;Letty;Really?! You'd give this to me?",
             "speak;Reimu;You're joning my army, though!",
             "speak;Letty;Alright! ",
@@ -42,6 +42,8 @@
             "sound;Item",
             "alert;Letty joined the party!",
             "add_lore;Letty",
+            "elif;'{v:Hire}' == 'No'",
+            "speak;Letty;Tch, stingy.",
             "end"
         ],
         "nid": "Base Letty"

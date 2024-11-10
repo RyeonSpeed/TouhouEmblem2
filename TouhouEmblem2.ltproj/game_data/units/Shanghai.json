@@ -8,14 +8,14 @@
         "klass": "Doll_L",
         "tags": [],
         "bases": {
-            "HP": 0,
-            "STR": 0,
+            "HP": 4,
+            "STR": 1,
             "MAG": 0,
-            "SKL": 0,
-            "SPD": 0,
-            "LCK": 0,
-            "DEF": 0,
-            "RES": 0,
+            "SKL": 2,
+            "SPD": 2,
+            "LCK": 6,
+            "DEF": 1,
+            "RES": 1,
             "CON": 0,
             "MOV": 0
         },
@@ -46,6 +46,10 @@
             [
                 1,
                 "Doll_Coordination"
+            ],
+            [
+                1,
+                "DollComponent"
             ]
         ],
         "unit_notes": [],

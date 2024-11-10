@@ -1138,7 +1138,41 @@
                 "interrupt_move": false
             },
             {
-                "nid": "Deploy1",
+                "nid": "F_1",
+                "region_type": "formation",
+                "position": [
+                    3,
+                    14
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "",
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "F_2",
+                "region_type": "formation",
+                "position": [
+                    2,
+                    14
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "",
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "F_3",
                 "region_type": "formation",
                 "position": [
                     2,
@@ -1155,7 +1189,58 @@
                 "interrupt_move": false
             },
             {
-                "nid": "Deploy2",
+                "nid": "F_4",
+                "region_type": "formation",
+                "position": [
+                    2,
+                    16
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "",
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "F_5",
+                "region_type": "formation",
+                "position": [
+                    3,
+                    16
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "",
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "F_6",
+                "region_type": "formation",
+                "position": [
+                    4,
+                    2
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "",
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "F_7",
                 "region_type": "formation",
                 "position": [
                     3,
@@ -1172,92 +1257,7 @@
                 "interrupt_move": false
             },
             {
-                "nid": "Deploy3",
-                "region_type": "formation",
-                "position": [
-                    4,
-                    2
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": null,
-                "condition": "True",
-                "time_left": null,
-                "only_once": false,
-                "interrupt_move": false
-            },
-            {
-                "nid": "Deploy4",
-                "region_type": "formation",
-                "position": [
-                    3,
-                    14
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": null,
-                "condition": "True",
-                "time_left": null,
-                "only_once": false,
-                "interrupt_move": false
-            },
-            {
-                "nid": "Deploy4_1",
-                "region_type": "formation",
-                "position": [
-                    2,
-                    14
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": "",
-                "condition": "True",
-                "time_left": null,
-                "only_once": false,
-                "interrupt_move": false
-            },
-            {
-                "nid": "Deploy4_2",
-                "region_type": "formation",
-                "position": [
-                    2,
-                    16
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": "",
-                "condition": "True",
-                "time_left": null,
-                "only_once": false,
-                "interrupt_move": false
-            },
-            {
-                "nid": "Deploy5",
-                "region_type": "formation",
-                "position": [
-                    3,
-                    16
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": null,
-                "condition": "True",
-                "time_left": null,
-                "only_once": false,
-                "interrupt_move": false
-            },
-            {
-                "nid": "Deploy5_1",
+                "nid": "F_8",
                 "region_type": "formation",
                 "position": [
                     7,
@@ -1267,7 +1267,7 @@
                     1,
                     1
                 ],
-                "sub_nid": null,
+                "sub_nid": "",
                 "condition": "True",
                 "time_left": null,
                 "only_once": false,

@@ -13,8 +13,8 @@
             "add_talk;Reimu;Rinnosuke_NPC",
             "add_talk;Reimu;Kosuzu_NPC",
             "add_talk;Reimu;Miyoi_NPC",
-            "trigger_script;Housekeeping1",
-            "inc_game_var;SHOP_ENTRY;['Torch']",
+            "trigger_script;Global Housekeeping1",
+            "game_var;SHOP_ENTRY;['Fire',  'Flux', 'Life_Gem', 'Poppet', 'Maple_Shield', 'Lucky_Clover', 'Lantern', 'Torch']",
             "game_var;hireable_guys;v('hireable_guys') + ['Yuna','Yuika']"
         ],
         "nid": "Base IntroCh3"

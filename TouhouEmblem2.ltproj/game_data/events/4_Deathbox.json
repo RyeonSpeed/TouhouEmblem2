@@ -1,8 +1,8 @@
 [
     {
-        "name": "BaseDeathbox",
+        "name": "Deathbox",
         "trigger": "on_base_convo",
-        "level_nid": null,
+        "level_nid": "4",
         "condition": "unit == 'Deathbox'",
         "commands": [],
         "only_once": true,
@@ -26,9 +26,8 @@
             "transition;close",
             "change_background",
             "remove_base_convo;Deathbox",
-            "game_var;baseconvolist;[x for x in v('baseconvolist') if not x == 'Deathbox']",
             "transition;open"
         ],
-        "nid": "Global BaseDeathbox"
+        "nid": "4 Deathbox"
     }
 ]

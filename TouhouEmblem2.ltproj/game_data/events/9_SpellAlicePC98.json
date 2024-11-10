@@ -1,0 +1,15 @@
+[
+    {
+        "name": "SpellAlicePC98",
+        "trigger": "combat_end",
+        "level_nid": "9",
+        "condition": "game.check_dead(\"Alice_Boss\")",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            ""
+        ],
+        "nid": "9 SpellAlicePC98"
+    }
+]

@@ -2,7 +2,7 @@
     {
         "name": "Intro",
         "trigger": "level_start",
-        "level_nid": "5",
+        "level_nid": "9",
         "condition": "True",
         "commands": [],
         "only_once": false,
@@ -11,13 +11,10 @@
             "chapter_title",
             "trigger_script;Global Housekeeping3",
             "trigger_script;Global Housekeeping2",
-            "add_base_convo;Warps",
-            "add_lore;Warp_Tiles",
-            "level_var;Darkness;0",
-            "autolevel_to;Reisen_Boss;10;fixed",
+            "autolevel_to;Alice;8;fixed",
             "prep;1;Sealed Gods",
-            "speak;;This map's clear bonus is 375 Bonus EXP, with a decrease of 75 BExp per turn you take over 20 turns!;;;hint\u2028"
+            "speak;;This map's clear bonus is 500 Bonus EXP, with a decrease of 100 BExp per turn you take over 15 turns!;;;hint"
         ],
-        "nid": "5 Intro"
+        "nid": "9 Intro"
     }
 ]

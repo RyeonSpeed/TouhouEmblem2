@@ -21,7 +21,7 @@
             "DEF": 8,
             "RES": 2,
             "CON": 15,
-            "MOV": 6
+            "MOV": 5
         },
         "growths": {
             "HP": 200,
@@ -48,15 +48,15 @@
             "MOV": 0
         },
         "promotion": {
-            "HP": 0,
-            "STR": 0,
+            "HP": 30,
+            "STR": 10,
             "MAG": 0,
-            "SKL": 0,
-            "SPD": 0,
+            "SKL": 3,
+            "SPD": 5,
             "LCK": 0,
-            "DEF": 0,
-            "RES": 0,
-            "CON": 0,
+            "DEF": 8,
+            "RES": 2,
+            "CON": 15,
             "MOV": 5
         },
         "max_stats": {

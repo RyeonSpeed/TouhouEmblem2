@@ -4,7 +4,7 @@
         "name": "Intro",
         "title": "Intro",
         "category": "Guide",
-        "text": "The purpose of this guide is to teach players who may be new to Fire Emblem-style gameplay how to play the game. Afterwards, you're all on your own :){br}No, I cannot stop this stupid ass slow scroll text. My apologies."
+        "text": "The purpose of this guide is to teach players who may be new to Fire Emblem-style gameplay how to play the game. Afterwards, you're all on your own :)\nNo, I cannot stop this stupid ass slow scroll text. My apologies."
     },
     {
         "nid": "Character_Stats",
@@ -186,28 +186,28 @@
         "name": "Reimu",
         "title": "Reimu",
         "category": "Character",
-        "text": "Reimu acts as a standard magic user, being physically frail with middling Spd, but generally fairly good Mag. Her personal skill, Natural Talent, doesn't really help her much early on, but can be impactful later. Use her as a backline damage dealer. \nReimu also has access to the Combat Art \"Homing Shot\", which allows her to tackle some more pesky enemies that have high Avoid."
+        "text": "Name: Reimu Hakurei{br}Species: Human{br}The shrine maiden of Hakurei Shrine, and one of the protagonists of this adventure. She has a shifting personality based on her \nwhims, but she can generally be characterized as straightforward and somewhat selfish.\nReimu acts as a standard magic user, being physically frail with middling Spd, but generally fairly good Mag. Her personal skill, Natural Talent, doesn't really help her much early on, but can be impactful later. \nReimu also has access to the Combat Art \"Homing Shot\", which allows her to tackle some more pesky enemies that have high Avoid."
     },
     {
         "nid": "Marisa",
         "name": "Marisa",
         "title": "Marisa",
         "category": "Character",
-        "text": "Marisa is a frailer but faster magic user than Reimu, enabling her to be your glass cannon. \nMarisa has access to a few neat tools, foremost of which being her skill, Hard Worker, which allows her to increase her growth rates per kill (resets on level up). This can be used and abused to an extent to get some pretty crazy growths if done right. \nBeyond that, Marisa's Star Laser has pretty good function as an AoE attack to soften up or pick off a few weakened enemies."
+        "text": "Name: Marisa Kirisame{br}Hobby: Stealing, Magic{br}An ordinary human magician. The deuteragonist of this adventure. She's a gregarious, informal and deceptive individual, but is ultimately \nvery hardworking and relies on effort over talent. However, being hardworking doesn't stop her from committing various acts of theft.\nMarisa has access to a few neat tools, foremost of which being her skill, Hard Worker, which allows her to increase her growth rates per kill (resets on level up). This can be used and abused to an extent to get some pretty crazy growths if done right. \nBeyond that, Marisa's Star Laser has pretty good function as an AoE attack to soften up or pick off a few weakened enemies."
     },
     {
         "nid": "Kasen",
         "name": "Kasen",
         "title": "Kasen",
         "category": "Character",
-        "text": "Kasen comes as a prepromoted character with pretty high base stats but pretty bad growths. However, that isn't to say you should just bench her automatically for more \"higher\" potential units; Kasen has a lot to contribute. \nHer \"Mercy\" Combat Art allows her to weaken her attacks and let other units swipe up kills. Beyond that, she also serves as a backup option in case you find yourself in danger and need an out. \nDon't skip over Kasen and fall into the classic Casual's Pitfall."
+        "text": "Name: Kasen Ibaraki{br}Favorite Food:\"Something sweet.\"{br}A helpful and kind individual trying to follow the life of a hermit. She usually ends up assisting, or well, nagging Reimu.\nThat being said, she also hides a dark secret as one of her arms has all her malice sealed inside it.\nKasen comes as a prepromoted character with pretty high base stats but pretty bad growths. However, that isn't to say you should just bench her automatically for more \"higher\" potential units; Kasen has a lot to contribute. \nHer \"Mercy\" Combat Art allows her to weaken her attacks and let other units swipe up kills. Beyond that, she also serves as a backup option in case you find yourself in danger and need an out. \nDon't skip over Kasen and fall into the classic Casual's Pitfall."
     },
     {
         "nid": "Aunn",
         "name": "Aunn",
         "title": "Aunn",
         "category": "Character",
-        "text": "Aunn is a mounted unit, and thus has fairly good movement. Use this to your advantage. Her sturdy build and high movement allows her to hit the frontlines pretty fast. \nHowever, do watch out for anti-mounted weapons and fast mages, which will end up being Aunn's undoing if you're not careful."
+        "text": "Name: Aunn Komano{br}Mood: Helpful!{br}A simple-minded Komainu whose only intent in life is to protect and assist religious sites. You could argue she's more like a dog than a lion.\nAunn is a mounted unit, and thus has fairly good movement. Use this to your advantage. Her sturdy build and high movement allows her to hit the frontlines pretty fast. \nHowever, do watch out for anti-mounted weapons and fast mages, which will end up being Aunn's undoing if you're not careful."
     },
     {
         "nid": "Rin",
@@ -221,21 +221,21 @@
         "name": "Remilia",
         "title": "Remilia",
         "category": "Character",
-        "text": "Remilia is a pretty standard infantry unit, possessing a neat tech in the \"Bloodsucker\" Combat Art, which allows her to drain HP from a unit during combat. \nHer strength, however, lies in the fact that you can use her \"Controller of Fate\" ability to turn back the clock on your actions up to 3 times a map. "
+        "text": "Name: Remilia Scarlet{br}Number of bloodsucking victims: 13{br}The mistress of the Scarlet Devil Mansion. She acts frequently on pangs of boredom, much like a petulant, bored child. \nWell, the difference is that this child is a powerful vampire.\nRemilia is a pretty standard infantry unit, possessing a neat tech in the \"Bloodsucker\" Combat Art, which allows her to drain HP from a unit during combat. \nHer strength, however, lies in the fact that you can use her \"Controller of Fate\" ability to turn back the clock on your actions up to 3 times a map. "
     },
     {
         "nid": "Suika",
         "name": "Suika",
         "title": "Suika",
         "category": "Character",
-        "text": "Suika is an unorthodox bulky frontliner who has a huge HP pool and strength. She makes for a great bruiser and can smash apart frailer enemies with aplomb. \nHowever, Suika also is quite slow, and will be prone to getting doubled later on. Her Combat Art, \"Shattering Moon\", adds her weapon weight to her damage, making for a devastating blow perfect for bosskilling."
+        "text": "Name: Suika Ibuki{br}BAC: ??? (The breathalyzer broke...){br}A powerful oni who spends much of her time drunk. \nHer careless, jolly exterior belies her true perceptiveness and even sometimes, her ability to be deceptive.\nSuika is an unorthodox bulky frontliner who has a huge HP pool and strength. She makes for a great bruiser and can smash apart frailer enemies with aplomb. \nHowever, Suika also is quite slow, and will be prone to getting doubled later on. Her Combat Art, \"Shattering Moon\", adds her weapon weight to her damage, making for a devastating blow perfect for bosskilling."
     },
     {
         "nid": "Rinnosuke",
         "name": "Rinnosuke",
         "title": "Rinnosuke",
         "category": "Character",
-        "text": "Rinnosuke is a relatively weak infantry unit with middling growths. What are you to do with him?\n;)"
+        "text": "Name: Rinnosuke Morichika{br}Profit Margins: In the red.{br}The half-human, half-youkai shopkeeper of Kourindou. Marisa calls him Kourin. \nWhile he is able to appraise the use of items, his own personality seems to get in the way of accurate judgments. He has many items in his shop, but few seem to get sold.\nRinnosuke is a relatively weak infantry unit with middling growths. What are you to do with him?\n;)"
     },
     {
         "nid": "Kosuzu",

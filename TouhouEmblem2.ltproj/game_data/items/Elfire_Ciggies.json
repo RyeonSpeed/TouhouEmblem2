@@ -2,7 +2,7 @@
     {
         "nid": "Elfire_Ciggies",
         "name": "Elfire",
-        "desc": "Anti-Mounted. 15 HP Recoil.",
+        "desc": "Anti-Mounted. Beastkiller. 15 HP Recoil.",
         "icon_nid": "the2icons",
         "icon_index": [
             8,
@@ -80,7 +80,8 @@
                 "effective_damage",
                 {
                     "effective_tags": [
-                        "Mounted"
+                        "Mounted",
+                        "Beast"
                     ],
                     "effective_multiplier": 1.5,
                     "effective_bonus_damage": 5,

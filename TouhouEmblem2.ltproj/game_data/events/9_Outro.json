@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Outro",
+        "trigger": "level_end",
+        "level_nid": "9",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "game_var;chaptercount;9",
+            "set_next_chapter;Base"
+        ],
+        "nid": "9 Outro"
+    }
+]

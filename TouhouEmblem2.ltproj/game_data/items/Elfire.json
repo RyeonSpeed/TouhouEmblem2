@@ -2,7 +2,7 @@
     {
         "nid": "Elfire",
         "name": "Elfire",
-        "desc": "Anti-Mounted.",
+        "desc": "Anti-Mounted. Beastkiller.",
         "icon_nid": "the2icons",
         "icon_index": [
             8,
@@ -88,7 +88,8 @@
                 "effective_damage",
                 {
                     "effective_tags": [
-                        "Mounted"
+                        "Mounted",
+                        "Beast"
                     ],
                     "effective_multiplier": 1.5,
                     "effective_bonus_damage": 5,

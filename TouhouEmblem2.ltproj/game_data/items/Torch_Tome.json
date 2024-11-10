@@ -2,7 +2,7 @@
     {
         "nid": "Torch_Tome",
         "name": "Torch",
-        "desc": "Offers +3 sight in the dark. +10 Hit.",
+        "desc": "Offers +3 sight in the dark. +10 Hit. Anti Mounted. Beastkiller.",
         "icon_nid": "AnimaMagic",
         "icon_index": [
             0,
@@ -96,7 +96,8 @@
                 "effective_damage",
                 {
                     "effective_tags": [
-                        "Mounted"
+                        "Mounted",
+                        "Beast"
                     ],
                     "effective_multiplier": 1.5,
                     "effective_bonus_damage": 5,

@@ -2,7 +2,7 @@
     {
         "nid": "Arson_Ciggies",
         "name": "Arson",
-        "desc": "Anti-Mounted. 25 HP Recoil.",
+        "desc": "Anti-Mounted. Beastkiller. 25 HP Recoil.",
         "icon_nid": "AnimaMagic",
         "icon_index": [
             0,
@@ -76,7 +76,8 @@
                 "effective_damage",
                 {
                     "effective_tags": [
-                        "Mounted"
+                        "Mounted",
+                        "Beast"
                     ],
                     "effective_multiplier": 1.5,
                     "effective_bonus_damage": 5,

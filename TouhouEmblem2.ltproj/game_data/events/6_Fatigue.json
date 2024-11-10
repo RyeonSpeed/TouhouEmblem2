@@ -1,11 +1,11 @@
 [
     {
-        "name": "BaseFatigue",
+        "name": "Fatigue",
         "trigger": "on_base_convo",
-        "level_nid": null,
-        "condition": "unit == 'Fatigue'",
+        "level_nid": "6",
+        "condition": "unit.nid == 'Fatigue'",
         "commands": [],
-        "only_once": true,
+        "only_once": false,
         "priority": 20,
         "_source": [
             "transition;close",
@@ -23,9 +23,8 @@
             "transition;close",
             "change_background",
             "remove_base_convo;Fatigue",
-            "game_var;baseconvolist;[x for x in v('baseconvolist') if not x == 'Fatigue']",
             "transition;open"
         ],
-        "nid": "Global BaseFatigue"
+        "nid": "6 Fatigue"
     }
 ]

@@ -1,8 +1,8 @@
 [
     {
-        "name": "BaseWarps",
+        "name": "Warps",
         "trigger": "on_base_convo",
-        "level_nid": null,
+        "level_nid": "5",
         "condition": "unit == 'Warps'",
         "commands": [],
         "only_once": true,
@@ -25,10 +25,8 @@
             "transition;close",
             "change_background",
             "remove_base_convo;Warps",
-            "game_var;baseconvolist;[x for x in v('baseconvolist') if not x == 'Warps']",
-            "add_lore;Warp_Tiles",
             "transition;open"
         ],
-        "nid": "Global BaseWarps"
+        "nid": "5 Warps"
     }
 ]

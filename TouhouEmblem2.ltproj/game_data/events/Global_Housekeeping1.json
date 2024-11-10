@@ -8,9 +8,6 @@
         "only_once": false,
         "priority": 1,
         "_source": [
-            "game_var;_base_market;1",
-            "enable_convoy;1",
-            "enable_supports;1",
             "game_var;_current_turnwheel_uses;3",
             "add_lore;Intro",
             "add_lore;Character_Stats",

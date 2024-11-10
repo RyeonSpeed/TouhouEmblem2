@@ -13,7 +13,7 @@
             "add_talk;Reimu;Rinnosuke_NPC",
             "add_talk;Reimu;Kosuzu_NPC",
             "add_talk;Reimu;Miyoi_NPC",
-            "trigger_script;Housekeeping1",
+            "trigger_script;Global Housekeeping1",
             "game_var;hireable_guys;v('hireable_guys') + ['Miu','Akane']"
         ],
         "nid": "Base IntroCh4"

@@ -1,9 +1,9 @@
 [
     {
-        "name": "IntroCh8",
+        "name": "IntroCh9",
         "trigger": "level_start",
         "level_nid": "Base",
-        "condition": "game.game_vars['chaptercount'] == 7",
+        "condition": "game.game_vars['chaptercount'] == 8",
         "commands": [],
         "only_once": true,
         "priority": 20,
@@ -14,9 +14,9 @@
             "add_talk;Reimu;Kosuzu_NPC",
             "add_talk;Reimu;Miyoi_NPC",
             "trigger_script;Global Housekeeping1",
-            "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Miu']",
-            "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Akane']"
+            "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Haruka']",
+            "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Kana']"
         ],
-        "nid": "Base IntroCh8"
+        "nid": "Base IntroCh9"
     }
 ]

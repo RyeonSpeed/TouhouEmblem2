@@ -1,0 +1,15 @@
+[
+    {
+        "name": "DefeatBoss",
+        "trigger": "combat_end",
+        "level_nid": "9",
+        "condition": "game.check_dead(\"Alice_Boss_2\")",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "win_game"
+        ],
+        "nid": "9 DefeatBoss"
+    }
+]
