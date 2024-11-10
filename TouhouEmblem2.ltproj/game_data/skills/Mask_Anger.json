@@ -22,14 +22,6 @@
                 4
             ],
             [
-                "lost_on_upkeep",
-                null
-            ],
-            [
-                "event_on_remove",
-                "Global Mask_Anger"
-            ],
-            [
                 "ability_indicator",
                 null
             ]

@@ -14,6 +14,11 @@
             "elif;game.turncount > 20",
             "speak;;Lmao skill issue;;;hint",
             "end",
+            "if;game.check_alive('Narumi') and game.get_unit('Narumi').team == 'player'",
+            "add_portrait;Marisa;Left",
+            "speak;Marisa;bruh",
+            "else",
+            "end",
             "set_next_chapter;9"
         ],
         "nid": "10 Outro"

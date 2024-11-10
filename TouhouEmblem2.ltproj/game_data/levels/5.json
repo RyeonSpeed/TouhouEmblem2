@@ -1547,11 +1547,11 @@
                 "nid": "130",
                 "variant": null,
                 "level": 5,
-                "klass": "Vagrant_A",
+                "klass": "Lodestar_S",
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Iron_Axe",
+                        "Iron_Sword",
                         false
                     ]
                 ],
@@ -1571,11 +1571,11 @@
                 "nid": "131",
                 "variant": null,
                 "level": 5,
-                "klass": "Vagrant_A",
+                "klass": "Lodestar_L",
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Iron_Axe",
+                        "Toxin_Lance",
                         false
                     ]
                 ],

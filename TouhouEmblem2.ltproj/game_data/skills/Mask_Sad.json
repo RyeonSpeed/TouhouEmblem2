@@ -35,14 +35,6 @@
                 ]
             ],
             [
-                "lost_on_upkeep",
-                null
-            ],
-            [
-                "event_on_remove",
-                "Global Mask_Sad"
-            ],
-            [
                 "ability_indicator",
                 null
             ]

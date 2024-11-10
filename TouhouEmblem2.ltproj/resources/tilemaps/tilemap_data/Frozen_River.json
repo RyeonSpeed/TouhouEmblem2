@@ -891,10 +891,10 @@
                         ]
                     ],
                     "37,8": [
-                        "tfw water",
+                        "Jizou",
                         [
-                            37,
-                            8
+                            0,
+                            0
                         ]
                     ],
                     "3,15": [
@@ -3922,10 +3922,10 @@
                         ]
                     ],
                     "37,9": [
-                        "tfw water",
+                        "Jizou",
                         [
-                            37,
-                            9
+                            0,
+                            1
                         ]
                     ],
                     "3,16": [
@@ -5859,7 +5859,8 @@
             "Zoramine Castle ",
             "Zoramine Snow Fields (Water)",
             "Zoramine Castle ",
-            "Zoramine Snow Fields (Water)"
+            "Zoramine Snow Fields (Water)",
+            "Jizou"
         ]
     }
 ]

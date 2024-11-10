@@ -30,14 +30,6 @@
                 3
             ],
             [
-                "lost_on_upkeep",
-                null
-            ],
-            [
-                "event_on_remove",
-                "Global Mask_Hope2"
-            ],
-            [
                 "resist_follow_up",
                 0.5
             ],

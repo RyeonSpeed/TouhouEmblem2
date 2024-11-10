@@ -120,11 +120,11 @@
                 "nid": "102",
                 "variant": null,
                 "level": 1,
-                "klass": "Fighter",
+                "klass": "Vagrant_S",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Iron_Axe",
+                        "Iron_Sword",
                         false
                     ]
                 ],

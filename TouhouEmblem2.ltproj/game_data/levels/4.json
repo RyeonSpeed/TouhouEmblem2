@@ -57,7 +57,7 @@
                 "nid": "101",
                 "variant": null,
                 "level": 4,
-                "klass": "Archer",
+                "klass": "Lodestar_B",
                 "faction": "Eientei",
                 "starting_items": [
                     [
@@ -273,11 +273,11 @@
                 "nid": "109",
                 "variant": null,
                 "level": 4,
-                "klass": "Fighter",
+                "klass": "Fencer",
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Iron_Axe",
+                        "Iron_Sword",
                         false
                     ]
                 ],
@@ -297,11 +297,11 @@
                 "nid": "138",
                 "variant": null,
                 "level": 4,
-                "klass": "Fighter",
+                "klass": "Lodestar_S",
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Iron_Axe",
+                        "Slim_Sword",
                         false
                     ]
                 ],
@@ -805,7 +805,7 @@
                 "nid": "125",
                 "variant": null,
                 "level": 4,
-                "klass": "Lancer",
+                "klass": "Lodestar_L",
                 "faction": "Eientei",
                 "starting_items": [
                     [

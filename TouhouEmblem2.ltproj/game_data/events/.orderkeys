@@ -343,7 +343,6 @@
     "Base_Onward",
     "Base_Kasen",
     "Base_KasenCh7",
-    "Base_Convoy",
     "Base_Marisa",
     "DEBUG_1_APromotionEvent",
     "Base_Ringo",
@@ -353,5 +352,6 @@
     "7_Intro",
     "7_Outro",
     "7_TalkEirin",
-    "Global_ScrollMoonbow"
+    "Global_ScrollMoonbow",
+    "10_NarumiSecret"
 ]

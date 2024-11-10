@@ -3538,7 +3538,8 @@
             }
         ],
         "tilesets": [
-            "Riverside_Ambush"
+            "Riverside_Ambush",
+            "Jizou"
         ]
     }
 ]

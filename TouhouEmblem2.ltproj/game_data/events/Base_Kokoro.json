@@ -10,14 +10,14 @@
         "_source": [
             "music;Comrades",
             "table;GoldDisplay;str(game.get_money())+'G';Funds;Alignment=top_right;RowWidth=60;expression",
-            "add_portrait;Kokoro;Left;ExpressionList=Smile",
+            "add_portrait;Kokoro;Left",
             "add_portrait;Reimu;CenterRight",
-            "if;game.get_money() < 3000",
+            "speak;Kokoro;",
+            "choice;Hire;Hire for 3000 gold?;Yes,No;backable",
+            "if;'{v:Hire}' == 'Yes' and game.get_money() < 3000",
             "speak;Kokoro;Come back when you have more money broke bitch",
             "finish",
-            "end",
-            "choice;Hire;Hire for 3000 gold?;Yes,No;backable",
-            "if;'{v:Hire}' == 'Yes'",
+            "else",
             "give_money;-3000;Reimu;no_banner",
             "change_team;Kokoro;player",
             "remove_talk;Reimu;Kokoro",
@@ -25,7 +25,6 @@
             "sound;Item",
             "alert;Kokoro joined the party!",
             "add_lore;Kokoro",
-            "else",
             "end"
         ],
         "nid": "Base Kokoro"

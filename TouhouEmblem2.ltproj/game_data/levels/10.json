@@ -1718,6 +1718,16 @@
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "Narumi",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [
@@ -2009,9 +2019,39 @@
                 "time_left": null,
                 "only_once": false,
                 "interrupt_move": false
+            },
+            {
+                "nid": "Secret_",
+                "region_type": "event",
+                "position": [
+                    36,
+                    7
+                ],
+                "size": [
+                    2,
+                    4
+                ],
+                "sub_nid": "Secret!",
+                "condition": "True",
+                "time_left": null,
+                "only_once": true,
+                "interrupt_move": false
             }
         ],
-        "unit_groups": [],
+        "unit_groups": [
+            {
+                "nid": "Narumi",
+                "units": [
+                    "Narumi"
+                ],
+                "positions": {
+                    "Narumi": [
+                        36,
+                        8
+                    ]
+                }
+            }
+        ],
         "ai_groups": []
     }
 ]

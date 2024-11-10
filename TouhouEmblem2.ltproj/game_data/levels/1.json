@@ -163,11 +163,11 @@
                 "nid": "104",
                 "variant": null,
                 "level": 2,
-                "klass": "Fighter",
+                "klass": "Lancer",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Iron_Axe",
+                        "Iron_Lance",
                         false
                     ]
                 ],
@@ -187,11 +187,11 @@
                 "nid": "105",
                 "variant": null,
                 "level": 2,
-                "klass": "Fighter",
+                "klass": "Lodestar_L",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Iron_Axe",
+                        "Slim_Lance",
                         false
                     ]
                 ],
@@ -259,11 +259,11 @@
                 "nid": "108",
                 "variant": null,
                 "level": 2,
-                "klass": "Fighter",
+                "klass": "Lodestar_S",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Iron_Axe",
+                        "Iron_Sword",
                         false
                     ]
                 ],
