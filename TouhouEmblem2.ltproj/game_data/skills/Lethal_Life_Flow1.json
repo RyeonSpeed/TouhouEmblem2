@@ -16,6 +16,10 @@
             [
                 "combat_condition",
                 "\"Boss\" in unit2.tags"
+            ],
+            [
+                "hit",
+                100
             ]
         ]
     }

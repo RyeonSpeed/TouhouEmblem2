@@ -15,7 +15,7 @@
             ],
             [
                 "build_charge_start_charged",
-                4
+                6
             ],
             [
                 "combat_charge_increase",
@@ -24,6 +24,10 @@
             [
                 "ability_indicator",
                 null
+            ],
+            [
+                "upkeep_charge_increase",
+                1
             ]
         ]
     }

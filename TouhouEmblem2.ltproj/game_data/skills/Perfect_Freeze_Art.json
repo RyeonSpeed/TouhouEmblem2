@@ -19,7 +19,7 @@
             ],
             [
                 "build_charge_start_charged",
-                4
+                7
             ],
             [
                 "allowed_weapons",
@@ -32,6 +32,10 @@
             [
                 "alternate_battle_anim",
                 "Critical"
+            ],
+            [
+                "upkeep_charge_increase",
+                1
             ]
         ]
     }

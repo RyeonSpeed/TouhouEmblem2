@@ -11,7 +11,7 @@
         "components": [
             [
                 "build_charge_start_charged",
-                5
+                7
             ],
             [
                 "combat_charge_increase",
@@ -31,6 +31,10 @@
             ],
             [
                 "limit_maximum_range",
+                1
+            ],
+            [
+                "upkeep_charge_increase",
                 1
             ]
         ]

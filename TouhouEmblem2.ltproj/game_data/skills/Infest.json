@@ -15,7 +15,7 @@
             ],
             [
                 "build_charge_start_charged",
-                5
+                8
             ],
             [
                 "combat_charge_increase",
@@ -28,6 +28,10 @@
             [
                 "allowed_weapons",
                 "item_system.weapon_type(unit, item) in ['Sword', 'Lance', 'Axe', 'Bow', 'Anima', 'Dark', 'Light', 'Monster']"
+            ],
+            [
+                "upkeep_charge_increase",
+                1
             ]
         ]
     }

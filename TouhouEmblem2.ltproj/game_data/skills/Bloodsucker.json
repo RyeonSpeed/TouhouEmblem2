@@ -19,7 +19,7 @@
             ],
             [
                 "build_charge_start_charged",
-                5
+                7
             ],
             [
                 "combat_charge_increase",
@@ -28,6 +28,10 @@
             [
                 "combat_art_indicator",
                 null
+            ],
+            [
+                "upkeep_charge_increase",
+                1
             ]
         ]
     }

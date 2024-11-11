@@ -2,7 +2,7 @@
     {
         "nid": "Canine_Dash",
         "name": "Canine Dash",
-        "desc": "Selects an enemy 2-3 tiles away and dashes to them, then pivots once space over them, dealing damage to all enemies in the line.\n",
+        "desc": "Selects an enemy 2-3 tiles away and dashes to them, then pivots once space over them, dealing damage to all enemies in the line. Takes 5 HP in recoil.",
         "icon_nid": "skillicons3",
         "icon_index": [
             0,
@@ -23,11 +23,15 @@
             ],
             [
                 "build_charge_start_charged",
-                3
+                4
             ],
             [
                 "condition",
                 "item_system.weapon_type(unit, item) in ['Sword', 'Lance', 'Axe', 'Martial']"
+            ],
+            [
+                "upkeep_charge_increase",
+                1
             ]
         ]
     }
