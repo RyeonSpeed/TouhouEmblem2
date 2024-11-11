@@ -2334,7 +2334,7 @@
                 "sub_nid": "",
                 "condition": "unit.team == 'player'",
                 "time_left": null,
-                "only_once": false,
+                "only_once": true,
                 "interrupt_move": false
             }
         ],
