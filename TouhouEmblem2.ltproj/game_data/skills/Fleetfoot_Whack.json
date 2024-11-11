@@ -11,7 +11,7 @@
         "components": [
             [
                 "build_charge_start_charged",
-                3
+                4
             ],
             [
                 "combat_charge_increase",
@@ -28,6 +28,10 @@
             [
                 "combat_art",
                 "Fleetfoot_Whack_1"
+            ],
+            [
+                "upkeep_damage",
+                1
             ]
         ]
     }

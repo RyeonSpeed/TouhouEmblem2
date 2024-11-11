@@ -11,7 +11,7 @@
         "components": [
             [
                 "build_charge_start_charged",
-                3
+                4
             ],
             [
                 "combat_charge_increase",
@@ -28,6 +28,10 @@
             [
                 "combat_art",
                 "Extreme_Edge_1"
+            ],
+            [
+                "upkeep_charge_increase",
+                1
             ]
         ]
     }

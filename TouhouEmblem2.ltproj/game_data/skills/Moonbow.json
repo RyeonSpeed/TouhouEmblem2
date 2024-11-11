@@ -2,7 +2,7 @@
     {
         "nid": "Moonbow",
         "name": "Moonbow",
-        "desc": "Allows the user to ignore 50% of the enemy's Def/Res. Bows only.",
+        "desc": "Allows the user to ignore 25% of the enemy's Def/Res. Bows only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             4,
@@ -11,7 +11,7 @@
         "components": [
             [
                 "build_charge_start_charged",
-                4
+                5
             ],
             [
                 "combat_art_indicator",
@@ -27,6 +27,10 @@
             ],
             [
                 "combat_charge_increase",
+                1
+            ],
+            [
+                "upkeep_charge_increase",
                 1
             ]
         ]
