@@ -142,5 +142,9 @@
     {
         "nid": "ONE",
         "expression": "1"
+    },
+    {
+        "nid": "DEVIL",
+        "expression": "31 - LCK"
     }
 ]

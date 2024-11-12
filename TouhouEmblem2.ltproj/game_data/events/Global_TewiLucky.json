@@ -12,7 +12,7 @@
             "if;{v:gambling} == 1",
             "    give_item;{unit1};Life_Gem",
             "elif;{v:gambling} == 2",
-            "    give_money;5000;Reimu",
+            "    give_money;50;Reimu",
             "elif;{v:gambling} == 3",
             "    enable_fog_of_war;t",
             "    set_fog_of_war;gba;5;5;5",

@@ -205,5 +205,15 @@
         "nid": "Riverside_Ambush",
         "terrain_grid": {},
         "autotiles": {}
+    },
+    {
+        "nid": "Prismriver_Gate",
+        "terrain_grid": {},
+        "autotiles": {}
+    },
+    {
+        "nid": "pcbstage4",
+        "terrain_grid": {},
+        "autotiles": {}
     }
 ]

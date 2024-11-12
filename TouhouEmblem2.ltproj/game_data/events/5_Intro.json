@@ -9,12 +9,14 @@
         "priority": 20,
         "_source": [
             "chapter_title",
+            "transition;close",
             "trigger_script;Global Housekeeping3",
             "trigger_script;Global Housekeeping2",
             "add_base_convo;Warps",
             "add_lore;Warp_Tiles",
             "level_var;Darkness;0",
             "autolevel_to;Reisen_Boss;10;fixed",
+            "change_background;",
             "prep;1;Sealed Gods",
             "speak;;This map's clear bonus is 375 Bonus EXP, with a decrease of 75 BExp per turn you take over 20 turns!;;;hint\u2028"
         ],

@@ -1,0 +1,24 @@
+[
+    {
+        "nid": "12",
+        "name": "Ch 12: Hacking To The Gate",
+        "tilemap": "New Tilemap_2",
+        "bg_tilemap": "New Tilemap_3",
+        "party": "Reimu",
+        "music": {},
+        "objective": {
+            "simple": "",
+            "win": "",
+            "loss": ""
+        },
+        "roam": false,
+        "roam_unit": null,
+        "go_to_overworld": false,
+        "should_record": true,
+        "tags": [],
+        "units": [],
+        "regions": [],
+        "unit_groups": [],
+        "ai_groups": []
+    }
+]

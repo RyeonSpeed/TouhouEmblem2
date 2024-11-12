@@ -142,12 +142,52 @@
                 "Level": "7"
             },
             {
-                "nid": "Rin",
-                "Class": "Civilian",
-                "Name": "Rin",
-                "Cost": "game.get_random(100,3000)",
-                "Description": "124 150 151 163 40 157 156 145 40 144 157 145 163 156 47 164 40 142 145 154 157 156 147 40 150 145 162 145 56",
-                "Level": "1"
+                "nid": "Yomi",
+                "Class": "Fighter",
+                "Name": "Yomi",
+                "Cost": "750",
+                "Description": "Various nameless Gensokyo mercenaries.",
+                "Level": "8"
+            },
+            {
+                "nid": "Kasuka",
+                "Class": "Bow_Rider",
+                "Name": "Kasuka",
+                "Cost": "750",
+                "Description": "Various nameless Gensokyo mercenaries.",
+                "Level": "8"
+            },
+            {
+                "nid": "Reiko",
+                "Class": "Outlaw",
+                "Name": "Reiko",
+                "Cost": "750",
+                "Description": "Various nameless Gensokyo mercenaries.",
+                "Level": "9"
+            },
+            {
+                "nid": "Sen",
+                "Class": "Guard",
+                "Name": "Sen",
+                "Cost": "750",
+                "Description": "Various nameless Gensokyo mercenaries.",
+                "Level": "9"
+            },
+            {
+                "nid": "Karin",
+                "Class": "Mage",
+                "Name": "Karin",
+                "Cost": "750",
+                "Description": "Various nameless Gensokyo mercenaries.",
+                "Level": "10"
+            },
+            {
+                "nid": "Haneul",
+                "Class": "Brigand",
+                "Name": "Haneul",
+                "Cost": "750",
+                "Description": "Various nameless Gensokyo mercenaries.",
+                "Level": "10"
             }
         ]
     },

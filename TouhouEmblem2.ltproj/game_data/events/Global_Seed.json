@@ -1,6 +1,6 @@
 [
     {
-        "name": "New Event",
+        "name": "Seed",
         "trigger": "level_start",
         "level_nid": null,
         "condition": "True",
@@ -12,6 +12,6 @@
             "if;'{v:_random_seed}'",
             "end"
         ],
-        "nid": "Global New Event"
+        "nid": "Global Seed"
     }
 ]
