@@ -8,6 +8,15 @@
         "only_once": true,
         "priority": 20,
         "_source": [
+            "add_portrait;Star;Right",
+            "add_portrait;Cirno;Left",
+            "speak;Cirno;AH! You!",
+            "speak;Star;AH! You!",
+            "speak;Cirno;Which one were you again?",
+            "speak;Star;Star Sapphire.",
+            "speak;Cirno;Too long. Don't remember.",
+            "speak;Star;Why you...!",
+            "multi_remove_portrait;Star;Cirno",
             "change_team;Cirno;player",
             "remove_talk;Wriggle;Cirno",
             "remove_talk;Rumia;Cirno",
@@ -15,12 +24,6 @@
             "remove_talk;Star;Cirno",
             "remove_talk;Sunny;Cirno",
             "remove_talk;Luna;Cirno",
-            "remove_talk;Rumia;Daiyousei",
-            "remove_talk;Wriggle;Daiyousei",
-            "remove_talk;Mystia;Daiyousei",
-            "remove_talk;Star;Daiyousei",
-            "remove_talk;Sunny;Daiyousei",
-            "remove_talk;Luna;Daiyousei",
             "add_lore;Cirno"
         ],
         "nid": "4 TalkStarCirno"

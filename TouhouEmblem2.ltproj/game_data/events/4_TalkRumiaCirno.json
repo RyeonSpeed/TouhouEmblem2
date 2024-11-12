@@ -8,6 +8,14 @@
         "only_once": true,
         "priority": 20,
         "_source": [
+            "add_portrait;Rumia;Right",
+            "add_portrait;Cirno;Left",
+            "speak;Rumia;Cirno, there you are!",
+            "speak;Cirno;Ah, Rumia! You came to save us!",
+            "speak;Rumia;I guess I did, didn't I...?",
+            "speak;Cirno;Huh?",
+            "speak;Rumia;Don't worry about it!",
+            "multi_remove_portrait;Rumia;Cirno",
             "change_team;Cirno;player",
             "remove_talk;Wriggle;Cirno",
             "remove_talk;Mystia;Cirno",
@@ -15,12 +23,6 @@
             "remove_talk;Star;Cirno",
             "remove_talk;Sunny;Cirno",
             "remove_talk;Luna;Cirno",
-            "remove_talk;Rumia;Daiyousei",
-            "remove_talk;Wriggle;Daiyousei",
-            "remove_talk;Mystia;Daiyousei",
-            "remove_talk;Star;Daiyousei",
-            "remove_talk;Sunny;Daiyousei",
-            "remove_talk;Luna;Daiyousei",
             "add_lore;Cirno"
         ],
         "nid": "4 TalkRumiaCirno"

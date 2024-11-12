@@ -8,6 +8,13 @@
         "only_once": true,
         "priority": 20,
         "_source": [
+            "add_portrait;Luna;Right",
+            "add_portrait;Cirno;Left",
+            "speak;Cirno;It's you!",
+            "speak;Luna;Quiet. I'm trying to find my lost meat bun...",
+            "speak;Cirno;It's probably dirty already! Let it go!",
+            "speak;Luna;My meat bun...",
+            "multi_remove_portrait;Luna;Cirno",
             "change_team;Cirno;player",
             "remove_talk;Wriggle;Cirno",
             "remove_talk;Rumia;Cirno",
@@ -15,12 +22,6 @@
             "remove_talk;Star;Cirno",
             "remove_talk;Sunny;Cirno",
             "remove_talk;Luna;Cirno",
-            "remove_talk;Rumia;Daiyousei",
-            "remove_talk;Wriggle;Daiyousei",
-            "remove_talk;Mystia;Daiyousei",
-            "remove_talk;Star;Daiyousei",
-            "remove_talk;Sunny;Daiyousei",
-            "remove_talk;Luna;Daiyousei",
             "add_lore;Cirno"
         ],
         "nid": "4 TalkLunaCirno"
