@@ -9,7 +9,7 @@
         "priority": 21,
         "_source": [
             "add_group;Seiran;Seiran;fade;closest",
-            "autolevel_to;Seiran;6;fixed",
+            "autolevel_to;Seiran;7;fixed",
             "add_talk;Reimu;Seiran",
             "end"
         ],
