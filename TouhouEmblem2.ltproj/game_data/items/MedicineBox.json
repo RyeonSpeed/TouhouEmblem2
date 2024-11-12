@@ -2,7 +2,7 @@
     {
         "nid": "MedicineBox",
         "name": "Medicine Box",
-        "desc": "Can restore self or other units of any negative status effects.",
+        "desc": "Can restore self or other units of any negative status effects. Only one accesory can be equipped at a time.",
         "icon_nid": "the2icons",
         "icon_index": [
             5,

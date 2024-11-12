@@ -2,7 +2,7 @@
     {
         "nid": "Poppet",
         "name": "Poppet",
-        "desc": "+5 Res when in inventory. Loses one durability per round of combat. Only one accessory can be equipped at a time.",
+        "desc": "+4 Res when in inventory. Loses one durability per round of combat. Only one accessory can be equipped at a time. Recurring.",
         "icon_nid": "the2icons",
         "icon_index": [
             4,
@@ -18,17 +18,6 @@
                 500
             ],
             [
-                "uses",
-                3
-            ],
-            [
-                "uses_options",
-                {
-                    "lose_uses_on_miss": false,
-                    "one_loss_per_combat": false
-                }
-            ],
-            [
                 "multi_status_on_equip",
                 [
                     "magic_shield_check",
@@ -42,6 +31,17 @@
             [
                 "eval_target_restrict_2",
                 "False"
+            ],
+            [
+                "c_uses",
+                4
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
             ]
         ]
     }

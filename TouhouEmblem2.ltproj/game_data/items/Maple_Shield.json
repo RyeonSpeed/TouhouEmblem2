@@ -2,24 +2,13 @@
     {
         "nid": "Maple_Shield",
         "name": "Maple Shield",
-        "desc": "Standard issue for Tengu scouts. +3 Def when in inventory. Loses one durability per round of combat. Only one accessory can be equipped at a time.",
+        "desc": "Standard issue for Tengu scouts. +4 Def when in inventory. Loses one durability per round of combat. Only one accessory can be equipped at a time. Recurring.",
         "icon_nid": "accessories",
         "icon_index": [
             0,
             1
         ],
         "components": [
-            [
-                "uses",
-                5
-            ],
-            [
-                "uses_options",
-                {
-                    "lose_uses_on_miss": false,
-                    "one_loss_per_combat": false
-                }
-            ],
             [
                 "multi_status_on_hold",
                 [
@@ -33,11 +22,22 @@
             ],
             [
                 "value",
-                500
+                750
             ],
             [
                 "eval_target_restrict_2",
                 "False"
+            ],
+            [
+                "c_uses",
+                4
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
             ]
         ]
     }

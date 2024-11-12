@@ -2,7 +2,7 @@
     {
         "nid": "Lantern",
         "name": "Lantern",
-        "desc": "Offers +3 sight in the dark. +10 Hit. Only one accessory can be equipped at a time.",
+        "desc": "Offers +3 sight in the dark. +10 Hit. Only one accessory can be equipped at a time. Only one accesory can be equipped at a time.",
         "icon_nid": "lantern",
         "icon_index": [
             0,
