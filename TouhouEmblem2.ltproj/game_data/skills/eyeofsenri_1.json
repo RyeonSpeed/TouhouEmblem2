@@ -1,6 +1,6 @@
 [
     {
-        "nid": "eyeofsenri",
+        "nid": "eyeofsenri_1",
         "name": "eyeofsenri",
         "desc": "",
         "icon_nid": null,
@@ -16,6 +16,14 @@
             [
                 "modify_ai_priority",
                 2.0
+            ],
+            [
+                "unit_flickering_tint",
+                [
+                    0,
+                    0,
+                    127
+                ]
             ]
         ]
     }

@@ -659,7 +659,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Scroll_Moonbow",
+                        "Eye_of_Senri",
                         false
                     ]
                 ],
@@ -670,6 +670,34 @@
                 "ai_group": "",
                 "starting_position": [
                     9,
+                    17
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "102",
+                "variant": null,
+                "level": 1,
+                "klass": "Citizen",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Sword",
+                        false
+                    ],
+                    [
+                        "Stone_Bowl",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    4,
                     17
                 ],
                 "starting_traveler": null,

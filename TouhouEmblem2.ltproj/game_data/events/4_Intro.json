@@ -13,7 +13,6 @@
             "transition;close",
             "trigger_script;Global Housekeeping3",
             "trigger_script;Global Housekeeping2",
-            "game_var;baseconvolist;v('baseconvolist') + ['Breakables','Deathbox']",
             "add_base_convo;Breakables",
             "add_base_convo;Deathbox",
             "add_lore;Breakable_Tiles",
