@@ -2,7 +2,7 @@
     {
         "nid": "Torch_Tome",
         "name": "Torch",
-        "desc": "Offers +3 sight in the dark. +10 Hit. Anti Mounted. Beastkiller.",
+        "desc": "An unusual light is shining off of this tome. \nOffers +3 sight in the dark. +10 Hit. Anti Mounted. Beastkiller.",
         "icon_nid": "AnimaMagic",
         "icon_index": [
             0,

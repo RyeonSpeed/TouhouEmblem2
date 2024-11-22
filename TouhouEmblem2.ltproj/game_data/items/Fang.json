@@ -2,7 +2,7 @@
     {
         "nid": "Fang",
         "name": "Fang",
-        "desc": "Skill% chance to inflict bleeding. Recurring.",
+        "desc": "A swift and brutal biting attack.\nSkill% chance to inflict bleeding. Recurring.",
         "icon_nid": "the2icons",
         "icon_index": [
             5,

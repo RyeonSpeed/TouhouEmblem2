@@ -2,7 +2,7 @@
     {
         "nid": "Short_Bow",
         "name": "Short Bow",
-        "desc": "Anti-Fliers.",
+        "desc": "A small bow favored by scouts.\nAnti-Fliers.",
         "icon_nid": "bows",
         "icon_index": [
             0,

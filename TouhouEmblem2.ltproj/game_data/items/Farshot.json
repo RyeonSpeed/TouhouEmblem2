@@ -2,7 +2,7 @@
     {
         "nid": "Farshot",
         "name": "Farshot",
-        "desc": "Used by professional hunters. Anti-Fliers.",
+        "desc": "Used by professional hunters.\nAnti-Fliers.",
         "icon_nid": "bows",
         "icon_index": [
             0,
