@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "Light_Refract",
+        "name": "Light Refract",
+        "desc": "Unit may use \"Vanish\", allowing them to enter the \"Vanished\" state. While \"Vanished\", unit cannot be targeted by enemies, but will also be unable to attack or trade. Lasts for 3 turns.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            3,
+            2
+        ],
+        "components": [
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "ability",
+                "Vanish"
+            ],
+            [
+                "build_charge_start_charged",
+                4
+            ],
+            [
+                "upkeep_charge_increase",
+                1
+            ]
+        ]
+    }
+]

@@ -42,14 +42,6 @@
             [
                 "Dark_Spikes",
                 false
-            ],
-            [
-                "Swiftsole",
-                true
-            ],
-            [
-                "Forged_Shield",
-                false
             ]
         ],
         "learned_skills": [],

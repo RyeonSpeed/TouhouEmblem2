@@ -123,8 +123,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    12,
-                    12
+                    20,
+                    7
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -265,16 +265,20 @@
                     [
                         "War_Yari",
                         false
+                    ],
+                    [
+                        "Angelic_Robe",
+                        false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "None",
+                "ai": "Defend",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    7,
-                    14
+                    24,
+                    7
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -528,8 +532,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    9,
-                    15
+                    21,
+                    7
                 ],
                 "starting_traveler": null,
                 "generic": false
