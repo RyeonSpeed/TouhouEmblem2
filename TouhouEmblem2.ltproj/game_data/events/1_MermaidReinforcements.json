@@ -3,7 +3,7 @@
         "name": "MermaidReinforcements",
         "trigger": "turn_change",
         "level_nid": "1",
-        "condition": "game.turncount == 15",
+        "condition": "(game.current_mode.nid in ['Baby', 'Classic_Normal'] and game.turncount == 15) or (game.current_mode.nid in ['Lunatic', 'Tezukant'] and game.turncount == 20)",
         "commands": [],
         "only_once": false,
         "priority": 20,
