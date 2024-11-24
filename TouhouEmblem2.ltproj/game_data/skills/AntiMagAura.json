@@ -1,0 +1,38 @@
+[
+    {
+        "nid": "AntiMagAura",
+        "name": "Magical Decay",
+        "desc": "Enemies within a 3 tile radius of this unit will be unable to use magical weapons.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            2,
+            1
+        ],
+        "components": [
+            [
+                "aura",
+                "Silence"
+            ],
+            [
+                "aura_range",
+                3
+            ],
+            [
+                "aura_target",
+                "unit"
+            ],
+            [
+                "show_aura",
+                [
+                    85,
+                    0,
+                    127
+                ]
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

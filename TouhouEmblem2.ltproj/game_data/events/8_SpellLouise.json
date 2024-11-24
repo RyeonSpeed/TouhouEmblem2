@@ -15,7 +15,7 @@
             "speak;Louise;And I was promised a leisurely vacation. I guess it'll have to be a red one!",
             "remove_portrait;Louise",
             "add_group;LouiseSpell;LouiseSpell;warp;closest",
-            "autolevel_to;Louise_Bos_1s;15;fixed",
+            "autolevel_to;Louise_Boss_1;15;fixed",
             "move_cursor;Louise_Boss_1",
             "end"
         ],

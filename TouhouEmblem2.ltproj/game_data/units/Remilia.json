@@ -8,7 +8,7 @@
         "klass": "Lodestar_L",
         "tags": [],
         "bases": {
-            "HP": 6,
+            "HP": 9,
             "STR": 3,
             "MAG": 0,
             "SKL": 1,

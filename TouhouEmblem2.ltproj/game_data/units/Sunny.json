@@ -8,7 +8,7 @@
         "klass": "Outlaw",
         "tags": [],
         "bases": {
-            "HP": 0,
+            "HP": 4,
             "CON": 0,
             "STR": 1,
             "MAG": 2,

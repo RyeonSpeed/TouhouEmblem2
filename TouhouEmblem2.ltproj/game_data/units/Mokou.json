@@ -8,7 +8,7 @@
         "klass": "Mage_M",
         "tags": [],
         "bases": {
-            "HP": 0,
+            "HP": 4,
             "DEF": 0,
             "RES": 0,
             "CON": 5,

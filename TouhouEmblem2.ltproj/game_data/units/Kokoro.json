@@ -8,7 +8,7 @@
         "klass": "Guard",
         "tags": [],
         "bases": {
-            "HP": 4,
+            "HP": 6,
             "STR": 2,
             "MAG": 0,
             "SKL": 4,

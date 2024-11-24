@@ -7,9 +7,9 @@
         "party": "Reimu",
         "music": {},
         "objective": {
-            "simple": "",
-            "win": "",
-            "loss": ""
+            "simple": "Defeat Alice",
+            "win": "Defeat Alice",
+            "loss": "Reimu, Marisa, or Alice dies"
         },
         "roam": false,
         "roam_unit": null,
@@ -275,8 +275,8 @@
                         false
                     ],
                     [
-                        "Steel_Sword",
-                        false
+                        "Persecutor",
+                        true
                     ]
                 ],
                 "starting_skills": [],
@@ -641,6 +641,10 @@
                     [
                         "Steel_Bow",
                         false
+                    ],
+                    [
+                        "Silencer",
+                        true
                     ]
                 ],
                 "starting_skills": [],
@@ -1026,6 +1030,130 @@
                 ],
                 "starting_traveler": null,
                 "generic": true
+            },
+            {
+                "nid": "Alice_Boss_2",
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "141",
+                "variant": null,
+                "level": 1,
+                "klass": "Tsukumogami_M",
+                "faction": "Youkai",
+                "starting_items": [],
+                "starting_skills": [
+                    "AntiPhysAura",
+                    "NoSelect"
+                ],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "142",
+                "variant": null,
+                "level": 1,
+                "klass": "Tsukumogami_M",
+                "faction": "Youkai",
+                "starting_items": [],
+                "starting_skills": [
+                    "AntiPhysAura",
+                    "NoSelect"
+                ],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "143",
+                "variant": null,
+                "level": 1,
+                "klass": "Tsukumogami_M",
+                "faction": "Youkai",
+                "starting_items": [],
+                "starting_skills": [
+                    "AntiPhysAura",
+                    "NoSelect"
+                ],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "144",
+                "variant": null,
+                "level": 1,
+                "klass": "Tsukumogami_M",
+                "faction": "Youkai",
+                "starting_items": [],
+                "starting_skills": [
+                    "AntiMagAura",
+                    "NoSelect"
+                ],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "145",
+                "variant": null,
+                "level": 1,
+                "klass": "Tsukumogami_M",
+                "faction": "Youkai",
+                "starting_items": [],
+                "starting_skills": [
+                    "AntiMagAura",
+                    "NoSelect"
+                ],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "146",
+                "variant": null,
+                "level": 1,
+                "klass": "Tsukumogami_M",
+                "faction": "Youkai",
+                "starting_items": [],
+                "starting_skills": [
+                    "AntiMagAura",
+                    "NoSelect"
+                ],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
             }
         ],
         "regions": [
@@ -1217,7 +1345,50 @@
                 "interrupt_move": false
             }
         ],
-        "unit_groups": [],
+        "unit_groups": [
+            {
+                "nid": "AlicePC98Spell",
+                "units": [
+                    "Alice_Boss_2",
+                    "141",
+                    "142",
+                    "143",
+                    "144",
+                    "145",
+                    "146"
+                ],
+                "positions": {
+                    "Alice_Boss_2": [
+                        19,
+                        17
+                    ],
+                    "141": [
+                        17,
+                        12
+                    ],
+                    "142": [
+                        11,
+                        7
+                    ],
+                    "143": [
+                        4,
+                        10
+                    ],
+                    "144": [
+                        12,
+                        16
+                    ],
+                    "145": [
+                        1,
+                        5
+                    ],
+                    "146": [
+                        6,
+                        15
+                    ]
+                }
+            }
+        ],
         "ai_groups": []
     }
 ]

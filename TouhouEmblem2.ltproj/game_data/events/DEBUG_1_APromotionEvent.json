@@ -129,7 +129,13 @@
             "#",
             "autolevel_to;Kasen;40;fixed",
             "set_wexp;Kasen;Axe;251;no_banner",
-            "set_wexp;Kasen;Sword;251;no_banner"
+            "set_wexp;Kasen;Sword;251;no_banner",
+            "#",
+            "autolevel_to;Narumi;20;fixed",
+            "promote;Narumi;Sage_N;silent",
+            "autolevel_to;Narumi;40;fixed",
+            "set_wexp;Narumi;Light;251;no_banner",
+            "set_wexp;Narumi;Staff;251;no_banner"
         ],
         "nid": "DEBUG_1 APromotionEvent"
     }

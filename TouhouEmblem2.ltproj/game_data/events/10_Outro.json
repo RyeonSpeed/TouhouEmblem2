@@ -9,9 +9,12 @@
         "priority": 20,
         "_source": [
             "if;game.turncount <= 20",
-            "give_bexp;1000",
+            "give_bexp;500",
             "speak;;You completed the map in 15 or less turns! You got the full reward!;;;hint",
-            "elif;game.turncount > 20",
+            "elif;game.turncount > 20 and game.turncount <= 25",
+            "give_bexp;{e:500 - ((game.turncount - 20) * 100)}",
+            "speak;;Unfortunately, you completed the map in more than 15 turns, so your reward will be reduced accordingly.;;;hint",
+            "elif;game.turncount > 25",
             "speak;;Lmao skill issue;;;hint",
             "end",
             "if;game.check_alive('Narumi') and game.get_unit('Narumi').team == 'player'",
@@ -19,7 +22,8 @@
             "speak;Marisa;bruh",
             "else",
             "end",
-            "set_next_chapter;9"
+            "game_var;chaptercount;10",
+            "set_next_chapter;Base"
         ],
         "nid": "10 Outro"
     }

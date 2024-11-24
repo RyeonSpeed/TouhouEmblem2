@@ -8,7 +8,7 @@
         "klass": "Peg_Rider",
         "tags": [],
         "bases": {
-            "HP": 1,
+            "HP": 4,
             "STR": 1,
             "MAG": 3,
             "SKL": 2,

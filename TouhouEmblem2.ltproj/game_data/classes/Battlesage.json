@@ -1,7 +1,7 @@
 [
     {
-        "nid": "Spellsword",
-        "name": "Spellsword",
+        "nid": "Battlesage",
+        "name": "Battlesage",
         "desc": "Swordfighters who can use blade and sorcery side by side in battle.\nTags: Sword, Magic",
         "tier": 2,
         "movement_group": "Mages",
@@ -135,7 +135,7 @@
             0,
             0
         ],
-        "map_sprite_nid": "Dread Fighter (F) {Nuramon}-stand",
+        "map_sprite_nid": "Sage (F) Battle Sage Sword {Leif, L95}-stand",
         "combat_anim_nid": "Sage",
         "fields": []
     }

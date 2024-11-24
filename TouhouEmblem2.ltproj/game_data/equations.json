@@ -137,7 +137,7 @@
     },
     {
         "nid": "YATADERA",
-        "expression": "MAG/2"
+        "expression": "MAG*0.75"
     },
     {
         "nid": "ONE",

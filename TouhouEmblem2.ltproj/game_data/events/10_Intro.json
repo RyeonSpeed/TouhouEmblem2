@@ -14,6 +14,9 @@
             "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Haruka']",
             "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Kana']",
             "trigger_script;Housekeeping2",
+            "autolevel_to;Mai_Boss;17",
+            "autolevel_to;Yumeko_Boss;17",
+            "autolevel_to;Alice_Boss;17",
             "prep;1;Sealed Gods",
             "speak;;This map's clear bonus is 1000 Bonus EXP, but you won't get a single point if you go over 20 turns!;;;hint",
             "speak;;Oh, and just to let you know, Alice isn't a patient person! She'll leave in 15 turns if you're just too slow!;;;hint"

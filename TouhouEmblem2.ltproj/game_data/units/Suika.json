@@ -8,7 +8,7 @@
         "klass": "Brigand",
         "tags": [],
         "bases": {
-            "HP": 6,
+            "HP": 8,
             "STR": 2,
             "MAG": 0,
             "SKL": 2,

@@ -12,6 +12,7 @@
             "trigger_script;Global Housekeeping3",
             "trigger_script;Global Housekeeping2",
             "autolevel_to;Alice;8;fixed",
+            "autolevel_to;Alice_Boss_1;17;fixed",
             "prep;1;Sealed Gods",
             "speak;;This map's clear bonus is 500 Bonus EXP, with a decrease of 100 BExp per turn you take over 15 turns!;;;hint"
         ],
