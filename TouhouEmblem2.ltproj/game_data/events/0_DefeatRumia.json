@@ -10,6 +10,8 @@
         "_source": [
             "change_music;player_phase;Dullahan Under the Willows",
             "change_music;enemy_phase;Dullahan Under the Willows",
+            "change_music;enemy_battle;Dullahan Under the Willows",
+            "change_music;boss_battle;Dullahan Under the Willows",
             "add_portrait;Rumia;Left",
             "enable_fog_of_war;t",
             "speak;;Darkness Sign \"Demarcation\";center;150;hint;;red;;;1;;;;;Warp",

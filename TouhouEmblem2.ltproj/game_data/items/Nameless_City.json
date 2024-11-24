@@ -10,74 +10,15 @@
         ],
         "components": [
             [
-                "weapon",
-                null
-            ],
-            [
-                "magic",
-                null
-            ],
-            [
-                "prf_unit",
+                "multi_item",
                 [
-                    "Kosuzu"
+                    "Nameless_City1",
+                    "Nameless_City2"
                 ]
             ],
             [
-                "min_range",
-                1
-            ],
-            [
-                "max_range",
-                1
-            ],
-            [
-                "damage",
-                5
-            ],
-            [
-                "hit",
-                70
-            ],
-            [
-                "crit",
-                0
-            ],
-            [
-                "weight",
-                3
-            ],
-            [
-                "map_hit_add_blend",
-                [
-                    85,
-                    0,
-                    127
-                ]
-            ],
-            [
-                "target_enemy",
+                "multi_item_hides_unavailable",
                 null
-            ],
-            [
-                "level_exp",
-                null
-            ],
-            [
-                "wexp",
-                0
-            ],
-            [
-                "battle_cast_anim",
-                "Nyx"
-            ],
-            [
-                "fatigue",
-                1
-            ],
-            [
-                "status_on_equip",
-                "Nameless_City"
             ]
         ]
     }

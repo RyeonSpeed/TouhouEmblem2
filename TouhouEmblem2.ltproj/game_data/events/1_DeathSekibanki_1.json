@@ -12,6 +12,7 @@
             "speak;Sekibanki;Ugh...You're still awfully strong...",
             "expression;Sekibanki;CloseEyes",
             "remove_portrait;Sekibanki",
+            "level_var;SekibankiSpellMusic;0",
             "give_bexp;100;Reimu"
         ],
         "nid": "1 DeathSekibanki_1"

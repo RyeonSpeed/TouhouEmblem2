@@ -10,7 +10,8 @@
         "_source": [
             "add_portrait;Seiran;Left",
             "speak;Seiran;Let me show you a little of what I can do!",
-            "remove_portrait;Seiran"
+            "remove_portrait;Seiran",
+            "level_var;SeiranSpellMusic;1"
         ],
         "nid": "3 DefeatSeiran"
     }

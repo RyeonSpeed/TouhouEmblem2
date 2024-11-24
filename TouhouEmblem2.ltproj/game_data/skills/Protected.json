@@ -15,7 +15,7 @@
             ],
             [
                 "modify_ai_priority",
-                1.5
+                10.0
             ],
             [
                 "unit_flickering_tint",

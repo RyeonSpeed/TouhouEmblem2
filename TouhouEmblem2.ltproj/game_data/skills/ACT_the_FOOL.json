@@ -3,10 +3,10 @@
         "nid": "ACT_the_FOOL",
         "name": "Act the FOOL HAHAHA",
         "desc": "If this unit's HP >= 50%, all units within a 2 tile range gain Optimism.",
-        "icon_nid": "skillicons_1",
+        "icon_nid": "ACTTHEFOOLHAHAHAHA",
         "icon_index": [
-            3,
-            2
+            0,
+            0
         ],
         "components": [
             [
@@ -24,6 +24,10 @@
             [
                 "aura_target",
                 "unit"
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

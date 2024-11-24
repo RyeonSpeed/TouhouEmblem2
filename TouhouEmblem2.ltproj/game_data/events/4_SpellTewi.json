@@ -10,6 +10,8 @@
         "_source": [
             "change_music;player_phase;Dullahan Under the Willows",
             "change_music;enemy_phase;Dullahan Under the Willows",
+            "change_music;enemy_battle;Dullahan Under the Willows",
+            "change_music;boss_battle;Dullahan Under the Willows",
             "enable_fog_of_war;f",
             "add_portrait;Tewi;Left",
             "speak;;\"Ancient Duper\";center;90;hint;;red;;;1;;;;;Warp",

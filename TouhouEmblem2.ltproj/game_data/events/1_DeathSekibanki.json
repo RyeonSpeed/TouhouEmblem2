@@ -10,7 +10,8 @@
         "_source": [
             "add_portrait;Sekibanki;Left",
             "speak;Sekibanki;Heheh...I'm not done just yet...",
-            "remove_portrait;Sekibanki"
+            "remove_portrait;Sekibanki",
+            "level_var;SekibankiSpellMusic;1"
         ],
         "nid": "1 DeathSekibanki"
     }

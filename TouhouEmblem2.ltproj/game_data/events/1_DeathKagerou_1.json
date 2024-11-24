@@ -12,6 +12,7 @@
             "speak;Kagerou;I knew I shouldn't have come out...",
             "expression;Kagerou;CloseEyes",
             "remove_portrait;Kagerou",
+            "level_var;KagerouSpellMusic;0",
             "give_bexp;200;Reimu"
         ],
         "nid": "1 DeathKagerou_1"

@@ -10,6 +10,8 @@
         "_source": [
             "change_music;player_phase;Dullahan Under the Willows",
             "change_music;enemy_phase;Dullahan Under the Willows",
+            "change_music;enemy_battle;Dullahan Under the Willows",
+            "change_music;boss_battle;Dullahan Under the Willows",
             "add_portrait;PC-98 Alice;Left",
             "speak;;Grimoire of Alice: Makai Synchrogazer;center;200;hint;;red;;;1;;;;;Warp",
             "speak;PC-98 Alice;The magic granted to me by Makai...face it!",

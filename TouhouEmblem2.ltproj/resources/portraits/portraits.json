@@ -324,18 +324,6 @@
         "info_offset": 0
     },
     {
-        "nid": "Sekibanki",
-        "blinking_offset": [
-            24,
-            40
-        ],
-        "smiling_offset": [
-            24,
-            56
-        ],
-        "info_offset": 0
-    },
-    {
         "nid": "Wakasagihime",
         "blinking_offset": [
             24,
@@ -1688,6 +1676,30 @@
         "smiling_offset": [
             0,
             0
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Sekibanki",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Kyouko",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
         ],
         "info_offset": 0
     }

@@ -11,7 +11,8 @@
             "add_portrait;Ringo;Left",
             "speak;Ringo;I guess that's enough for today!",
             "remove_portrait;Ringo",
-            "give_bexp;100;Reimu"
+            "give_bexp;100;Reimu",
+            "level_var;RingoSpellMusic;0"
         ],
         "nid": "3 DefeatRingo_1"
     }

@@ -10,13 +10,6 @@
         ],
         "components": [
             [
-                "multi_status_on_hold",
-                [
-                    "shield_check",
-                    "kappatech_shield"
-                ]
-            ],
-            [
                 "equippable_accessory",
                 null
             ],
@@ -38,6 +31,13 @@
                     "lose_uses_on_miss": false,
                     "one_loss_per_combat": false
                 }
+            ],
+            [
+                "multi_status_on_equip",
+                [
+                    "shield_check",
+                    "kappatech_shield"
+                ]
             ]
         ]
     }
