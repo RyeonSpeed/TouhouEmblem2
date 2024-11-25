@@ -16,6 +16,10 @@
             [
                 "ability",
                 "Flowers"
+            ],
+            [
+                "condition",
+                "item.nid in ['Roukanken']"
             ]
         ]
     }

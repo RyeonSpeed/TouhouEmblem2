@@ -16,6 +16,10 @@
             [
                 "ability",
                 "Disillusion"
+            ],
+            [
+                "condition",
+                "item.nid in ['Roukanken']"
             ]
         ]
     }

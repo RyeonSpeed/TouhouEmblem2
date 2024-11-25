@@ -16,6 +16,10 @@
             [
                 "combat_art",
                 "Spear_The_Gungnir_1"
+            ],
+            [
+                "condition",
+                "item.nid in ['Gungnir']"
             ]
         ]
     }

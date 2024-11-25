@@ -12,6 +12,14 @@
             [
                 "mid_battle_recoil",
                 "-30"
+            ],
+            [
+                "combat_condition",
+                "item.nid in ['Arson_Ciggies']"
+            ],
+            [
+                "hidden",
+                null
             ]
         ]
     }

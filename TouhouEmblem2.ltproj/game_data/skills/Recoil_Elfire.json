@@ -12,6 +12,14 @@
             [
                 "mid_battle_recoil",
                 "-15"
+            ],
+            [
+                "combat_condition",
+                "item.nid in ['Elfire_Ciggies']"
+            ],
+            [
+                "hidden",
+                null
             ]
         ]
     }

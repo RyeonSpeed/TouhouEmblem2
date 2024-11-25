@@ -24,14 +24,6 @@
                 0
             ],
             [
-                "map_hit_add_blend",
-                [
-                    85,
-                    0,
-                    127
-                ]
-            ],
-            [
                 "fatigue",
                 1
             ],
@@ -44,16 +36,16 @@
                 3
             ],
             [
-                "weapon",
-                null
-            ],
-            [
                 "magic",
                 null
             ],
             [
                 "status_on_hit",
                 "Protected"
+            ],
+            [
+                "spell",
+                null
             ]
         ]
     }
