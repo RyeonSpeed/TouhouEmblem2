@@ -37,7 +37,7 @@
             "elif;{v:gambling} == 13",
             "    give_skill;{unit2};Bleeding",
             "elif;{v:gambling} == 14",
-            "    set_current_hp;{unit1};{e:unit.get_stat('HP')/2}",
+            "    set_current_hp;{unit1};{e:unit.get_stat('HP')//2}",
             "elif;{v:gambling} == 15",
             "    give_money;-50;Reimu",
             "elif;{v:gambling} == 16",

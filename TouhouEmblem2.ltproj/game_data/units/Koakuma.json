@@ -8,7 +8,7 @@
         "klass": "Demon",
         "tags": [],
         "bases": {
-            "HP": 1,
+            "HP": 7,
             "STR": 1,
             "MAG": 5,
             "SKL": -3,

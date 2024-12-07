@@ -8,7 +8,7 @@
         "klass": "Doll_L",
         "tags": [],
         "bases": {
-            "HP": 4,
+            "HP": 7,
             "STR": 1,
             "MAG": 0,
             "SKL": 2,

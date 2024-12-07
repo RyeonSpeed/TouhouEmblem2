@@ -2322,7 +2322,7 @@
             },
             {
                 "nid": "Tewi",
-                "region_type": "event",
+                "region_type": "normal",
                 "position": [
                     10,
                     0

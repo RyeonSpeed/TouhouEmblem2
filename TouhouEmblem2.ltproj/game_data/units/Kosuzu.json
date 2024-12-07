@@ -8,7 +8,7 @@
         "klass": "Bookworm",
         "tags": [],
         "bases": {
-            "HP": 0,
+            "HP": 3,
             "STR": 0,
             "MAG": -1,
             "SKL": 0,

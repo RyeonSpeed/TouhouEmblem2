@@ -8,7 +8,7 @@
         "klass": "Lancer_R",
         "tags": [],
         "bases": {
-            "HP": 3,
+            "HP": 5,
             "STR": 2,
             "MAG": 3,
             "SKL": 2,

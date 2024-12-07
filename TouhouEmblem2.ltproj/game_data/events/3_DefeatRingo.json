@@ -10,7 +10,8 @@
         "_source": [
             "add_portrait;Ringo;Left",
             "speak;Ringo;Tch, tough customer, eh?",
-            "remove_portrait;Ringo"
+            "remove_portrait;Ringo",
+            "level_var;RingoSpellMusic;1"
         ],
         "nid": "3 DefeatRingo"
     }

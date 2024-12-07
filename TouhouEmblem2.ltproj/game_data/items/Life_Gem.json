@@ -2,7 +2,7 @@
     {
         "nid": "Life_Gem",
         "name": "Life Gem",
-        "desc": "Restores 10 HP.",
+        "desc": "Sold as a snake oil remedy. Restores 10 HP.",
         "icon_nid": "the2icons",
         "icon_index": [
             4,

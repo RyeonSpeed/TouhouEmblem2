@@ -4,8 +4,8 @@
         "name": "Alice",
         "desc": "A mysterious being from Makai who seems to somewhat resemble Alice.",
         "variant": null,
-        "level": 17,
-        "klass": "Puppeteer",
+        "level": 1,
+        "klass": "Occultist",
         "tags": [
             "Boss"
         ],
@@ -41,14 +41,6 @@
             ],
             [
                 "Dark_Spikes",
-                false
-            ],
-            [
-                "Swiftsole",
-                true
-            ],
-            [
-                "Forged_Shield",
                 false
             ]
         ],

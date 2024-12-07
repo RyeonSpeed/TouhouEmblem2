@@ -185,6 +185,10 @@
                     [
                         "Short_Bow",
                         false
+                    ],
+                    [
+                        "Misfortune_Amulet",
+                        true
                     ]
                 ],
                 "starting_skills": [],
@@ -1295,8 +1299,12 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Steel_Lance",
+                        "Horseslayer",
                         false
+                    ],
+                    [
+                        "Halberd",
+                        true
                     ]
                 ],
                 "starting_skills": [],
@@ -1691,8 +1699,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    30,
-                    11
+                    27,
+                    16
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -1704,8 +1712,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    36,
-                    16
+                    25,
+                    5
                 ],
                 "starting_traveler": null,
                 "generic": false

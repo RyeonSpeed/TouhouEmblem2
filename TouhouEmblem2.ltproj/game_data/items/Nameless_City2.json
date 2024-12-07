@@ -1,0 +1,52 @@
+[
+    {
+        "nid": "Nameless_City2",
+        "name": "Protection",
+        "desc": "Prf Kosuzu. Allows her to temporarily prevent herself from taking damage for a turn. 3 turn cooldown on damage prevention skill.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            4,
+            7
+        ],
+        "components": [
+            [
+                "prf_unit",
+                [
+                    "Kosuzu"
+                ]
+            ],
+            [
+                "min_range",
+                0
+            ],
+            [
+                "max_range",
+                0
+            ],
+            [
+                "fatigue",
+                1
+            ],
+            [
+                "target_unit",
+                null
+            ],
+            [
+                "cooldown",
+                3
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "status_on_hit",
+                "Protected"
+            ],
+            [
+                "spell",
+                null
+            ]
+        ]
+    }
+]

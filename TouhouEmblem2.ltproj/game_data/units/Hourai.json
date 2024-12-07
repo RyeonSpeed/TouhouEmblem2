@@ -8,7 +8,7 @@
         "klass": "Occultist",
         "tags": [],
         "bases": {
-            "HP": 3,
+            "HP": 5,
             "STR": 0,
             "MAG": 2,
             "SKL": 3,

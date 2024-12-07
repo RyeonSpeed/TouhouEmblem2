@@ -10,7 +10,8 @@
         "_source": [
             "add_portrait;Seiran;Left",
             "speak;Seiran;I'm handing in my resignation after this...",
-            "remove_portrait;Seiran"
+            "remove_portrait;Seiran",
+            "level_var;SeiranSpellMusic;0"
         ],
         "nid": "3 DefeatSeiran_1"
     }

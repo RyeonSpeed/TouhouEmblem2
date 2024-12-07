@@ -365,3 +365,11 @@ def get_pc_damage(unit, skill) -> int:
         if component.defines('post_combat_damage'):
             return component.post_combat_damage(unit)
     return 0  # 0 is default
+    
+class CannotUsePhysicalItems(SkillComponent):
+    nid = 'cannot_use_physical_items'
+    desc = "Unit cannot use or equip physical items"
+    tag = SkillTags.BASE
+
+    def available(self, unit, item) -> bool:
+        return item_funcs.is_magic(unit, item)

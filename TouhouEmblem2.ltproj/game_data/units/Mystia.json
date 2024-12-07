@@ -8,7 +8,7 @@
         "klass": "Songstress",
         "tags": [],
         "bases": {
-            "HP": 0,
+            "HP": 5,
             "STR": 0,
             "MAG": 0,
             "SKL": 0,

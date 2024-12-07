@@ -12,7 +12,7 @@
             "AdjConvoy"
         ],
         "bases": {
-            "HP": 2,
+            "HP": 5,
             "STR": 0,
             "MAG": 3,
             "SKL": 0,

@@ -3,12 +3,23 @@
         "name": "SpellAlicePC98",
         "trigger": "combat_end",
         "level_nid": "9",
-        "condition": "game.check_dead(\"Alice_Boss\")",
+        "condition": "game.check_dead(\"Alice_Boss_1\")",
         "commands": [],
         "only_once": true,
         "priority": 20,
         "_source": [
-            ""
+            "change_music;player_phase;Dullahan Under the Willows",
+            "change_music;enemy_phase;Dullahan Under the Willows",
+            "change_music;enemy_battle;Dullahan Under the Willows",
+            "change_music;boss_battle;Dullahan Under the Willows",
+            "add_portrait;PC-98 Alice;Left",
+            "speak;;Grimoire of Alice: Makai Synchrogazer;center;200;hint;;red;;;1;;;;;Warp",
+            "speak;PC-98 Alice;The magic granted to me by Makai...face it!",
+            "remove_portrait;PC-98 Alice",
+            "add_group;AlicePC98Spell;AlicePC98Spell;warp;closest",
+            "autolevel_to;Alice_Boss_2;17;fixed",
+            "move_cursor;Alice_Boss_2",
+            "end"
         ],
         "nid": "9 SpellAlicePC98"
     }

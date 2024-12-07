@@ -8,7 +8,7 @@
         "klass": "Thief",
         "tags": [],
         "bases": {
-            "HP": 1,
+            "HP": 4,
             "STR": 2,
             "MAG": 1,
             "SKL": 5,

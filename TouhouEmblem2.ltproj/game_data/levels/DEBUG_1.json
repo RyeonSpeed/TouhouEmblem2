@@ -123,8 +123,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    12,
-                    12
+                    20,
+                    7
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -265,16 +265,20 @@
                     [
                         "War_Yari",
                         false
+                    ],
+                    [
+                        "Angelic_Robe",
+                        false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "None",
+                "ai": "Defend",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    7,
-                    14
+                    24,
+                    7
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -417,8 +421,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    6,
-                    10
+                    22,
+                    9
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -528,8 +532,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    9,
-                    15
+                    21,
+                    7
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -699,6 +703,77 @@
                 "starting_position": [
                     4,
                     17
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "103",
+                "variant": null,
+                "level": 1,
+                "klass": "Battlesage",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Sword",
+                        false
+                    ],
+                    [
+                        "Fire",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Weakened"
+                ],
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    20,
+                    12
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Narumi",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    23,
+                    9
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "104",
+                "variant": null,
+                "level": 1,
+                "klass": "Exorcist",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Sleep",
+                        false
+                    ],
+                    [
+                        "Ciggie_Box",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    9,
+                    14
                 ],
                 "starting_traveler": null,
                 "generic": true

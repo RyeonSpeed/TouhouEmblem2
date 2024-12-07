@@ -2,7 +2,7 @@
     {
         "nid": "Yataderas_Gift",
         "name": "Yatadera's Gift",
-        "desc": "Damage scales off of 50% of missing HP + 50% of MAG. ",
+        "desc": "Damage scales off of 50% of missing HP + 75% of MAG. ",
         "icon_nid": "skillicons102524",
         "icon_index": [
             0,

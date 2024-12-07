@@ -97,7 +97,7 @@
     ],
     [
         "alt_growth_format",
-        false
+        true
     ],
     [
         "glancing_hit",
@@ -109,7 +109,7 @@
     ],
     [
         "traveler_time_decrement",
-        false
+        true
     ],
     [
         "line_of_sight",

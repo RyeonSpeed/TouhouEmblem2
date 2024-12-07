@@ -8,7 +8,7 @@
         "klass": "Veteran_K",
         "tags": [],
         "bases": {
-            "HP": 3,
+            "HP": 5,
             "STR": 2,
             "MAG": 0,
             "SKL": 0,

@@ -1,15 +1,15 @@
 [
     {
-        "name": "DefeatAlicePC98_1",
+        "name": "DefeatAlicePC98_2",
         "trigger": "unit_death",
         "level_nid": "9",
-        "condition": "unit.nid == \"Alice_Boss_1\"",
+        "condition": "unit.nid == \"Alice_Boss_2\"",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
             ""
         ],
-        "nid": "9 DefeatAlicePC98_1"
+        "nid": "9 DefeatAlicePC98_2"
     }
 ]

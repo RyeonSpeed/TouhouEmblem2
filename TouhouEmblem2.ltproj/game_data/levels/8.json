@@ -462,6 +462,10 @@
                     [
                         "Steel_Bow",
                         false
+                    ],
+                    [
+                        "Killer_Bow",
+                        true
                     ]
                 ],
                 "starting_skills": [],

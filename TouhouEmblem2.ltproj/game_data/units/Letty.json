@@ -8,7 +8,7 @@
         "klass": "Fighter",
         "tags": [],
         "bases": {
-            "HP": 1,
+            "HP": 5,
             "STR": -8,
             "MAG": 9,
             "SKL": 3,

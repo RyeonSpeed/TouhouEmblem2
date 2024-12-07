@@ -2,7 +2,7 @@
     {
         "nid": "Tonfas",
         "name": "Tonfas",
-        "desc": "+3 Def. Recurring. Skill% chance to negate damage. Cannot Double.",
+        "desc": "A highly defensive technique.\n+3 Def. Recurring. Skill% chance to negate damage. Cannot Double.",
         "icon_nid": "the2icons",
         "icon_index": [
             5,

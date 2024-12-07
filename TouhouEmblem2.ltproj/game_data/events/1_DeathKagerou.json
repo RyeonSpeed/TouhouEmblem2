@@ -10,7 +10,8 @@
         "_source": [
             "add_portrait;Kagerou;Left",
             "speak;Kagerou;Tch...time to pull out my ace!",
-            "remove_portrait;Kagerou"
+            "remove_portrait;Kagerou",
+            "level_var;KagerouSpellMusic;1"
         ],
         "nid": "1 DeathKagerou"
     }

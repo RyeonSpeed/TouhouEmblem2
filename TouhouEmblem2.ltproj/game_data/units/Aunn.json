@@ -8,11 +8,11 @@
         "klass": "Lance_Rider",
         "tags": [],
         "bases": {
-            "HP": 2,
+            "HP": 5,
             "STR": 4,
             "MAG": 1,
             "SKL": 2,
-            "SPD": -1,
+            "SPD": 0,
             "LCK": 7,
             "DEF": 3,
             "CON": 0,
