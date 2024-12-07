@@ -5,7 +5,15 @@
         "tilemap": "New Tilemap_1",
         "bg_tilemap": null,
         "party": "Reimu",
-        "music": {},
+        "music": {
+            "player_phase": "Fragrant Plants",
+            "enemy_phase": "The Doll Maker of Bucuresti",
+            "enemy2_phase": "The Doll Maker of Bucuresti",
+            "player_battle": "Fragrant Plants",
+            "enemy_battle": "The Doll Maker of Bucuresti",
+            "enemy2_battle": "The Doll Maker of Bucuresti",
+            "boss_battle": "Strawberry Crisis"
+        },
         "objective": {
             "simple": "",
             "win": "",

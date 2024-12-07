@@ -7,12 +7,12 @@
         "party": "Reimu",
         "music": {
             "player_phase": "Lunatic Princess",
-            "enemy_phase": "Strawberry Crisis",
+            "enemy_phase": "Sailor of Time",
             "other_phase": "History of the Moon",
             "player_battle": "Lunatic Princess",
-            "enemy_battle": "Strawberry Crisis",
+            "enemy_battle": "Sailor of Time",
             "other_battle": "History of the Moon",
-            "boss_battle": "Vanishing Dream"
+            "boss_battle": "Strawberry Crisis"
         },
         "objective": {
             "simple": "Survive <blue>{e:game.turncount}</>/10 turns",
@@ -2798,11 +2798,6 @@
                 }
             }
         ],
-        "ai_groups": [
-            {
-                "nid": "",
-                "trigger_threshold": 1
-            }
-        ]
+        "ai_groups": []
     }
 ]

@@ -6,12 +6,12 @@
         "bg_tilemap": null,
         "party": "Reimu",
         "music": {
-            "player_phase": "Shadow of the Enemy",
-            "enemy_phase": null,
+            "player_phase": "Quiet Burn",
+            "enemy_phase": "Quiet Burn",
             "other_phase": null,
             "enemy2_phase": null,
-            "player_battle": "Attack",
-            "enemy_battle": null,
+            "player_battle": "Quiet Burn",
+            "enemy_battle": "Quiet Burn",
             "other_battle": null,
             "enemy2_battle": null
         },
@@ -25,7 +25,134 @@
         "go_to_overworld": false,
         "should_record": true,
         "tags": [],
-        "units": [],
+        "units": [
+            {
+                "nid": "Seiran",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    16,
+                    13
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "101",
+                "variant": null,
+                "level": 20,
+                "klass": "Archer",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Farshot",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    10,
+                    13
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "104",
+                "variant": null,
+                "level": 1,
+                "klass": "Archer",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Farshot",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    16,
+                    19
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "102",
+                "variant": null,
+                "level": 1,
+                "klass": "Archer",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Slim_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    18,
+                    13
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "103",
+                "variant": null,
+                "level": 1,
+                "klass": "Citizen",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Bolt_Axe",
+                        false
+                    ],
+                    [
+                        "Hand_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    16,
+                    12
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Remilia",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    16,
+                    10
+                ],
+                "starting_traveler": null,
+                "generic": false
+            }
+        ],
         "regions": [
             {
                 "nid": "Armory",

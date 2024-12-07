@@ -11,7 +11,8 @@
             "enemy2_phase": "The Doll Maker of Bucuresti",
             "player_battle": "Fragrant Plants",
             "enemy_battle": "The Doll Maker of Bucuresti",
-            "enemy2_battle": "The Doll Maker of Bucuresti"
+            "enemy2_battle": "The Doll Maker of Bucuresti",
+            "boss_battle": "Strawberry Crisis"
         },
         "objective": {
             "simple": "Escape",
