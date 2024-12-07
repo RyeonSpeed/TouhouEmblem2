@@ -215,5 +215,10 @@
         "nid": "pcbstage4",
         "terrain_grid": {},
         "autotiles": {}
+    },
+    {
+        "nid": "SnowVillage",
+        "terrain_grid": {},
+        "autotiles": {}
     }
 ]
