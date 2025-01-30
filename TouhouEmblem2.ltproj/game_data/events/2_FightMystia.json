@@ -8,7 +8,6 @@
         "only_once": true,
         "priority": 20,
         "_source": [
-            "music;Dullahan Under the Willows",
             "add_portrait;Mystia;Left",
             "speak;Mystia;Bet you didn't see me coming, huh? Now, fall prey to my darkness!",
             "remove_portrait;Mystia"

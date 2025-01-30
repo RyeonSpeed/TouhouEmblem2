@@ -3,7 +3,7 @@
         "nid": "Narumi",
         "name": "Narumi",
         "desc": "A jizo who was brought out by the Four Seasons Incident. Quite the introvert.",
-        "variant": null,
+        "variant": "",
         "level": 1,
         "klass": "Acolyte_N",
         "tags": [],
@@ -45,11 +45,11 @@
         },
         "starting_items": [
             [
-                "Hikari",
+                "Omikuji",
                 false
             ],
             [
-                "Omikuji",
+                "Hikari",
                 false
             ],
             [

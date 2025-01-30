@@ -2,7 +2,7 @@
     {
         "nid": "Miko",
         "name": "Miko",
-        "desc": "The shrine maiden of Hakurei Shrine. A fairly comptent incident resolver.\nTags: Lord, Magic",
+        "desc": "The shrine maiden of Hakurei Shrine. A fairly competent incident resolver.\nTags: Lord, Magic",
         "tier": 1,
         "movement_group": "Light Foot",
         "promotes_from": null,

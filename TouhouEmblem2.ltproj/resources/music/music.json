@@ -223,5 +223,10 @@
         "Sailor of Time",
         false,
         false
+    ],
+    [
+        "Skygazer",
+        true,
+        false
     ]
 ]

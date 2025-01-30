@@ -8,7 +8,6 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "music;Dullahan Under the Willows",
             "add_portrait;Rumia;Right",
             "speak;Rumia;Oh, hey Mystia!",
             "add_portrait;Mystia;Left",

@@ -156,18 +156,6 @@
         "info_offset": 0
     },
     {
-        "nid": "rinnosuke",
-        "blinking_offset": [
-            24,
-            16
-        ],
-        "smiling_offset": [
-            24,
-            32
-        ],
-        "info_offset": 0
-    },
-    {
         "nid": "letty",
         "blinking_offset": [
             24,
@@ -312,18 +300,6 @@
         "info_offset": 0
     },
     {
-        "nid": "Kagerou",
-        "blinking_offset": [
-            32,
-            40
-        ],
-        "smiling_offset": [
-            32,
-            56
-        ],
-        "info_offset": 0
-    },
-    {
         "nid": "Sekibanki",
         "blinking_offset": [
             24,
@@ -332,18 +308,6 @@
         "smiling_offset": [
             24,
             48
-        ],
-        "info_offset": 0
-    },
-    {
-        "nid": "Wakasagihime",
-        "blinking_offset": [
-            24,
-            40
-        ],
-        "smiling_offset": [
-            24,
-            56
         ],
         "info_offset": 0
     },
@@ -1921,6 +1885,54 @@
     },
     {
         "nid": "sekibanki",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Kagerou",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Rinnosuke",
+        "blinking_offset": [
+            24,
+            24
+        ],
+        "smiling_offset": [
+            24,
+            40
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Wakasagihime",
+        "blinking_offset": [
+            24,
+            40
+        ],
+        "smiling_offset": [
+            24,
+            56
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "kagerou-afterimage",
         "blinking_offset": [
             24,
             32

@@ -8,6 +8,12 @@
         "only_once": true,
         "priority": 20,
         "_source": [
+            "change_music;player_phase;Dullahan Under the Willows",
+            "change_music;player_battle;Dullahan Under the Willows",
+            "change_music;enemy_phase;Dullahan Under the Willows",
+            "change_music;enemy_battle;Dullahan Under the Willows",
+            "change_music;other_phase;Dullahan Under the Willows",
+            "change_music;other_battle;Dullahan Under the Willows",
             "add_portrait;Kagerou;Left",
             "speak;;Wolf Sign \"Star Ring Pounce\";center;160;hint;;red;;;1;;;;;Warp",
             "add_group;KagerouSpell;KagerouSpell;warp;closest",

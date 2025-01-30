@@ -15,7 +15,7 @@
             "load_unit;Rinnosuke",
             "autolevel_to;Rinnosuke;4;fixed",
             "add_portrait;Rinnosuke;Left",
-            "add_portrait;Marisa;Right",
+            "add_portrait;Marisa;Right;ExpressionList=Smile",
             "speak;Marisa;Heyyyy, Kourin!",
             "speak;Rinnosuke;Hm? Marisa? What is it?",
             "speak;Marisa;Y'know, we're running short on people to be on the battlefield...so...",

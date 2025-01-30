@@ -19,7 +19,7 @@
             "end",
             "end_skip",
             "transition;close",
-            "music;Victory",
+            "music;Skygazer",
             "change_background;Backwoods (Night)",
             "transition;open",
             "add_portrait;Reimu;CenterLeft",

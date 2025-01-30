@@ -137,7 +137,7 @@
             0
         ],
         "map_sprite_nid": "Monk (F) Veil {TATUTA_CHANG}-stand",
-        "combat_anim_nid": "Acolyte",
+        "combat_anim_nid": "AcolyteNarumi",
         "fields": []
     }
 ]

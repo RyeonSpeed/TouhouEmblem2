@@ -10,6 +10,7 @@
         "_source": [
             "change_music;player_phase;Dullahan Under the Willows",
             "change_music;enemy_phase;Dullahan Under the Willows",
+            "change_music;player_battle;Dullahan Under the Willows",
             "change_music;enemy_battle;Dullahan Under the Willows",
             "change_music;boss_battle;Dullahan Under the Willows",
             "add_portrait;Rumia;Left",

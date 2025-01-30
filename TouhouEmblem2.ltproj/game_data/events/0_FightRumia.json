@@ -11,8 +11,7 @@
             "music;Dullahan Under the Willows",
             "add_portrait;Rumia_Boss;Left",
             "speak;Rumia_Boss;You won't beat me again! I'm much stronger now! Embrace the darkness!",
-            "remove_portrait;Rumia_Boss",
-            "change_music;player_phase;Grasp at Victory"
+            "remove_portrait;Rumia_Boss"
         ],
         "nid": "0 FightRumia"
     }

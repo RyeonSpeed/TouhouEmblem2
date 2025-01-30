@@ -8,11 +8,11 @@
         "only_once": false,
         "priority": 21,
         "_source": [
-            "if;v('RingoSpellMusic') == 1 or v('SeiranSpellMusic') == 1",
-            "change_music;player_phase;Dullahan Under the Willows",
-            "change_music;enemy_phase;Dullahan Under the Willows",
-            "change_music;enemy_battle;Dullahan Under the Willows",
-            "change_music;boss_battle;Dullahan Under the Willows",
+            "if;v('RingoSpellMusic') == 0 and v('SeiranSpellMusic') == 0",
+            "change_music;player_phase;Nostalgic Blood",
+            "change_music;player_battle;Nostalgic Blood",
+            "change_music;enemy_phase;Deaf to All but the Song",
+            "change_music;enemy_battle;Deaf to All but the Song",
             "else",
             "end"
         ],

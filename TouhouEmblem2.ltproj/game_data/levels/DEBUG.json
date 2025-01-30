@@ -27,14 +27,14 @@
         "tags": [],
         "units": [
             {
-                "nid": "Seiran",
+                "nid": "Narumi",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    16,
-                    13
+                    17,
+                    12
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -91,11 +91,11 @@
                 "nid": "102",
                 "variant": null,
                 "level": 1,
-                "klass": "Archer",
+                "klass": "Shaman",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Slim_Bow",
+                        "Flux",
                         false
                     ]
                 ],
