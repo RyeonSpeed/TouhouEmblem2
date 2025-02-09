@@ -26,19 +26,6 @@
         "tags": [],
         "units": [
             {
-                "nid": "Reimu",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    9,
-                    2
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
                 "nid": "Marisa",
                 "team": "player",
                 "ai": "None",
@@ -52,14 +39,24 @@
                 "generic": false
             },
             {
+                "nid": "Reimu",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
                 "nid": "Kaguya",
                 "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    4,
-                    24
+                    10,
+                    26
                 ],
                 "starting_traveler": null,
                 "generic": false
