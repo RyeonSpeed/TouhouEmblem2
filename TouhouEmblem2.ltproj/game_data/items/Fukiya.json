@@ -1,11 +1,11 @@
 [
     {
-        "nid": "Persecutor",
-        "name": "Persecutor",
-        "desc": "Magicbuster.",
-        "icon_nid": "persecutor_8",
+        "nid": "Fukiya",
+        "name": "Fukiya",
+        "desc": "Brave, but cannot double. Anti-Fliers.",
+        "icon_nid": "the2icons",
         "icon_index": [
-            0,
+            3,
             0
         ],
         "components": [
@@ -14,32 +14,40 @@
                 null
             ],
             [
+                "value",
+                1200
+            ],
+            [
                 "target_enemy",
                 null
             ],
             [
-                "level_exp",
-                null
+                "min_range",
+                2
+            ],
+            [
+                "max_range",
+                2
             ],
             [
                 "damage",
-                8
+                7
             ],
             [
                 "hit",
-                85
+                75
             ],
             [
-                "weapon_type",
-                "Sword"
+                "crit",
+                0
             ],
             [
-                "weapon_rank",
-                "D"
+                "weight",
+                6
             ],
             [
                 "uses",
-                18
+                20
             ],
             [
                 "uses_options",
@@ -49,33 +57,25 @@
                 }
             ],
             [
-                "weight",
-                11
+                "level_exp",
+                null
             ],
             [
-                "crit",
-                0
+                "weapon_type",
+                "Bow"
             ],
             [
-                "value",
-                1260
-            ],
-            [
-                "min_range",
-                1
-            ],
-            [
-                "max_range",
-                1
+                "weapon_rank",
+                "C"
             ],
             [
                 "effective_damage",
                 {
                     "effective_tags": [
-                        "Magic"
+                        "Flying"
                     ],
-                    "effective_multiplier": 2.0,
-                    "effective_bonus_damage": 10,
+                    "effective_multiplier": 1.0,
+                    "effective_bonus_damage": 12,
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
@@ -83,6 +83,14 @@
             [
                 "fatigue",
                 1
+            ],
+            [
+                "brave",
+                null
+            ],
+            [
+                "no_double",
+                null
             ]
         ]
     }

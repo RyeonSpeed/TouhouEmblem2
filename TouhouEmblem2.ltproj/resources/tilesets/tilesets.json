@@ -220,5 +220,20 @@
         "nid": "SnowVillage",
         "terrain_grid": {},
         "autotiles": {}
+    },
+    {
+        "nid": "prismriver_sky",
+        "terrain_grid": {},
+        "autotiles": {}
+    },
+    {
+        "nid": "prismriver",
+        "terrain_grid": {},
+        "autotiles": {}
+    },
+    {
+        "nid": "LYY6MBv",
+        "terrain_grid": {},
+        "autotiles": {}
     }
 ]

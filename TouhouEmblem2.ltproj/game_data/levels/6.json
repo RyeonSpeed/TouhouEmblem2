@@ -1287,7 +1287,7 @@
                 "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Iron_Sword",
+                        "Slim_Sword",
                         false
                     ]
                 ],
@@ -2108,7 +2108,7 @@
                 "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Steel_Sword",
+                        "Persecutor",
                         false
                     ]
                 ],

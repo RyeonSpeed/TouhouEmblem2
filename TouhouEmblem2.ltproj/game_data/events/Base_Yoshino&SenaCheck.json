@@ -1,6 +1,6 @@
 [
     {
-        "name": "Yan&SenaCheck",
+        "name": "Yoshino&SenaCheck",
         "trigger": "level_start",
         "level_nid": "Base",
         "condition": "game.game_vars['chaptercount'] == 5",
@@ -9,12 +9,12 @@
         "priority": 21,
         "_source": [
             "add_group;Chapter7Elites;Chapter7Elites;fade;closest",
-            "autolevel_to;Yan;7;fixed",
+            "autolevel_to;Yoshino;7;fixed",
             "autolevel_to;Sena;7;fixed",
-            "add_talk;Reimu;Yan",
+            "add_talk;Reimu;Yoshino",
             "add_talk;Reimu;Sena",
             "end"
         ],
-        "nid": "Base Yan&SenaCheck"
+        "nid": "Base Yoshino&SenaCheck"
     }
 ]

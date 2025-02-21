@@ -166,7 +166,7 @@
                 "generic": false
             },
             {
-                "nid": "Yan",
+                "nid": "Yoshino",
                 "team": "other",
                 "ai": "None",
                 "roam_ai": null,
@@ -314,14 +314,14 @@
                 "nid": "Chapter7Elites",
                 "units": [
                     "Sena",
-                    "Yan"
+                    "Yoshino"
                 ],
                 "positions": {
                     "Sena": [
                         2,
                         7
                     ],
-                    "Yan": [
+                    "Yoshino": [
                         2,
                         8
                     ]

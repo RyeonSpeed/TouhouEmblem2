@@ -6317,7 +6317,8 @@
             }
         ],
         "tilesets": [
-            "pcbstage4"
+            "pcbstage4",
+            "prismriver"
         ]
     }
 ]

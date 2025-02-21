@@ -777,5 +777,41 @@
     {
         "nid": "ACTTHEFOOLHAHAHAHA",
         "subicon_dict": {}
+    },
+    {
+        "nid": "persecutor",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "persecutor_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "persecutor_2",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "persecutor_3",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "persecutor_4",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "persecutor_5",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "persecutor_6",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "persecutor_7",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "persecutor_8",
+        "subicon_dict": {}
     }
 ]
