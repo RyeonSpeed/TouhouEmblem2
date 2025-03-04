@@ -329,6 +329,54 @@
                 "generic": true
             },
             {
+                "nid": "207",
+                "variant": null,
+                "level": 7,
+                "klass": "Skeleton",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    19
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "208",
+                "variant": null,
+                "level": 7,
+                "klass": "Skeleton",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    6,
+                    14
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
                 "nid": "198",
                 "variant": null,
                 "level": 7,
@@ -524,6 +572,30 @@
                 "starting_position": [
                     2,
                     4
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "220",
+                "variant": null,
+                "level": 7,
+                "klass": "Skeleton_B",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    18,
+                    23
                 ],
                 "starting_traveler": null,
                 "generic": true

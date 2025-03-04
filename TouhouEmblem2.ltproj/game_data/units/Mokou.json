@@ -53,11 +53,11 @@
                 false
             ],
             [
-                "Eirins_Drugs",
+                "Tonfas",
                 false
             ],
             [
-                "Lantern",
+                "Eirins_Drugs",
                 false
             ]
         ],
@@ -78,6 +78,11 @@
         "unit_notes": [],
         "wexp_gain": {
             "Anima": [
+                false,
+                71,
+                null
+            ],
+            "Martial": [
                 false,
                 71,
                 null

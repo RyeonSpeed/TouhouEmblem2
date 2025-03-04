@@ -188,6 +188,22 @@
                 "Cost": "750",
                 "Description": "Various nameless Gensokyo mercenaries.",
                 "Level": "10"
+            },
+            {
+                "nid": "Taiga",
+                "Class": "Lycanthrope",
+                "Name": "Taiga",
+                "Cost": "750",
+                "Description": "Various nameless Gensokyo mercenaries.",
+                "Level": ""
+            },
+            {
+                "nid": "Marple",
+                "Class": "Occultist",
+                "Name": "Marple",
+                "Cost": "750",
+                "Description": "Various nameless Gensokyo mercenaries.",
+                "Level": ""
             }
         ]
     },

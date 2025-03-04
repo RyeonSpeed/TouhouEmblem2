@@ -774,11 +774,11 @@
                 "nid": "122",
                 "variant": null,
                 "level": 3,
-                "klass": "Vagrant_A",
+                "klass": "Fencer",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Slim_Axe",
+                        "Flamberge",
                         false
                     ],
                     [

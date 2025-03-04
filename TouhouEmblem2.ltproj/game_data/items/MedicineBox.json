@@ -16,10 +16,6 @@
                 ]
             ],
             [
-                "accessory",
-                null
-            ],
-            [
                 "target_ally",
                 null
             ],
@@ -41,6 +37,10 @@
             ],
             [
                 "spell",
+                null
+            ],
+            [
+                "accessory",
                 null
             ]
         ]

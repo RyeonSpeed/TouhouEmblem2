@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Red_Escape",
+        "trigger": "Escape",
+        "level_nid": "11",
+        "condition": "region.nid == 'Red_Escape'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "remove_unit;{unit}",
+            ""
+        ],
+        "nid": "11 Red_Escape"
+    }
+]

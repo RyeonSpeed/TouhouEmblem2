@@ -3,7 +3,7 @@
         "nid": "12",
         "name": "Ch 12: Hacking To The Gate",
         "tilemap": "New Tilemap_4",
-        "bg_tilemap": "New Tilemap_3",
+        "bg_tilemap": "New Tilemap_6",
         "party": "Reimu",
         "music": {},
         "objective": {
@@ -42,6 +42,246 @@
                 ],
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "178",
+                "variant": null,
+                "level": 11,
+                "klass": "Skeleton",
+                "faction": "Hakugyoukurou",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    8,
+                    25
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "179",
+                "variant": null,
+                "level": 11,
+                "klass": "Skeleton",
+                "faction": "Hakugyoukurou",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    10,
+                    27
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "180",
+                "variant": null,
+                "level": 11,
+                "klass": "Skeleton_B",
+                "faction": "Hakugyoukurou",
+                "starting_items": [
+                    [
+                        "Poison_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    12,
+                    26
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "181",
+                "variant": null,
+                "level": 11,
+                "klass": "Grave_Rider",
+                "faction": "Hakugyoukurou",
+                "starting_items": [
+                    [
+                        "Punji",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    13,
+                    19
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "183",
+                "variant": null,
+                "level": 11,
+                "klass": "Grave_Rider",
+                "faction": "Hakugyoukurou",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    20
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "182",
+                "variant": null,
+                "level": 5,
+                "klass": "Occultist",
+                "faction": "Hakugyoukurou",
+                "starting_items": [
+                    [
+                        "Slime",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    8,
+                    24
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "184",
+                "variant": null,
+                "level": 11,
+                "klass": "Fighter",
+                "faction": "Hakugyoukurou",
+                "starting_items": [
+                    [
+                        "Steel_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    11,
+                    22
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "185",
+                "variant": null,
+                "level": 11,
+                "klass": "Fighter",
+                "faction": "Hakugyoukurou",
+                "starting_items": [
+                    [
+                        "Steel_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    12,
+                    21
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "186",
+                "variant": null,
+                "level": 11,
+                "klass": "Fighter",
+                "faction": "Hakugyoukurou",
+                "starting_items": [
+                    [
+                        "Halberd",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    10,
+                    21
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "187",
+                "variant": null,
+                "level": 11,
+                "klass": "Mage",
+                "faction": "Hakugyoukurou",
+                "starting_items": [
+                    [
+                        "Thunder",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    24
+                ],
+                "starting_traveler": null,
+                "generic": true
             }
         ],
         "regions": [

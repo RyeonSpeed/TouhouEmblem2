@@ -139,11 +139,11 @@
                 "nid": "103",
                 "variant": null,
                 "level": 2,
-                "klass": "Vagrant_A",
+                "klass": "Vagrant_S",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Slim_Axe",
+                        "Zanbato",
                         false
                     ]
                 ],
@@ -201,8 +201,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    9,
-                    5
+                    5,
+                    4
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -382,8 +382,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    16,
-                    14
+                    14,
+                    15
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -416,11 +416,11 @@
                 "nid": "114",
                 "variant": null,
                 "level": 2,
-                "klass": "Mage",
+                "klass": "Occultist",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Fire",
+                        "Flux",
                         false
                     ]
                 ],
@@ -613,6 +613,102 @@
                 "generic": true
             },
             {
+                "nid": "144",
+                "variant": null,
+                "level": 2,
+                "klass": "Sword_Rider",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    17,
+                    15
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "145",
+                "variant": null,
+                "level": 2,
+                "klass": "Sword_Rider",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Armorslayer",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    18,
+                    15
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "146",
+                "variant": null,
+                "level": 2,
+                "klass": "Axe_Rider",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    1,
+                    4
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "147",
+                "variant": null,
+                "level": 2,
+                "klass": "Bow_Rider",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Poison_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    2,
+                    4
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
                 "nid": "123",
                 "variant": null,
                 "level": 2,
@@ -733,18 +829,18 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Fire",
+                        "Elfire",
                         false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Guard",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    5,
-                    4
+                    9,
+                    5
                 ],
                 "starting_traveler": null,
                 "generic": true

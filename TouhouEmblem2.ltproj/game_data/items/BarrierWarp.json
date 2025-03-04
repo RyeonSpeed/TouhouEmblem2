@@ -1,0 +1,34 @@
+[
+    {
+        "nid": "BarrierWarp",
+        "name": "Barrier Warp",
+        "desc": "",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "swap",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                3
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "eval_target_restrict_2",
+                "target.get_ai() != 'Guard' "
+            ]
+        ]
+    }
+]

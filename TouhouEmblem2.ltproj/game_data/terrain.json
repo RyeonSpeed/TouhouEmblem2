@@ -30,6 +30,21 @@
         "status": null
     },
     {
+        "nid": "Air",
+        "name": "Air",
+        "color": [
+            85,
+            255,
+            255
+        ],
+        "minimap": "Snow",
+        "platform": "Snow",
+        "background": "Open Field (Snow)",
+        "mtype": "Cliff",
+        "opaque": false,
+        "status": null
+    },
+    {
         "nid": "2",
         "name": "Forest",
         "color": [

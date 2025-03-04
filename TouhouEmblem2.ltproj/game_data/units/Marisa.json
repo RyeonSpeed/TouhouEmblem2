@@ -59,6 +59,10 @@
             [
                 "Life_Gem",
                 false
+            ],
+            [
+                "Tabula_Rasa",
+                false
             ]
         ],
         "learned_skills": [
@@ -126,11 +130,6 @@
         "alternate_classes": [],
         "portrait_nid": "marisa",
         "affinity": "Thunder",
-        "fields": [
-            [
-                "MANA",
-                "25"
-            ]
-        ]
+        "fields": []
     }
 ]

@@ -1,0 +1,34 @@
+[
+    {
+        "nid": "Finishing_Blow",
+        "name": "Finishing Blow",
+        "desc": "Against enemies < 50% HP, user deals +20% Dmg/+20% Crit, and restores 50% of damage dealt.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            1,
+            1
+        ],
+        "components": [
+            [
+                "combat_condition",
+                "unit2.get_hp() < unit2.get_stat('HP')/2"
+            ],
+            [
+                "damage_multiplier",
+                1.2
+            ],
+            [
+                "crit",
+                20
+            ],
+            [
+                "lifelink",
+                0.5
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]
