@@ -8,8 +8,8 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "add_portrait;Marisa;CenterLeft",
-            "add_portrait;Keine;CenterRight",
+            "add_portrait;Marisa;Left",
+            "add_portrait;Keine;Right",
             "speak;Marisa;Hey Keine! We're here to help!",
             "speak;Keine;Marisa?! Finally, reinforcements. Listen up, everyone! Drive these youkai out of here!",
             "win_game"

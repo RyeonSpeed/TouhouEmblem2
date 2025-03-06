@@ -9,8 +9,8 @@
         "priority": 20,
         "_source": [
             "music;Comrades",
-            "add_portrait;Marisa;CenterLeft",
-            "add_portrait;Rumia;CenterRight",
+            "add_portrait;Marisa;Left",
+            "add_portrait;Rumia;Right",
             "speak;Marisa;Well, lookie here...",
             "speak;Rumia;I-I'm not afraid of you! I'll take you down today!",
             "speak;Marisa;Sure, an' the Hakurei God is gonna get their power back next week. ",

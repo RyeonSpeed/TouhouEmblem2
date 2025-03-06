@@ -675,6 +675,21 @@
         "status": null
     },
     {
+        "nid": "0_1",
+        "name": "--",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "minimap": "Wall",
+        "platform": "Forest",
+        "background": "combat_ruins",
+        "mtype": "Fence",
+        "opaque": false,
+        "status": null
+    },
+    {
         "nid": "49",
         "name": "Fort",
         "color": [

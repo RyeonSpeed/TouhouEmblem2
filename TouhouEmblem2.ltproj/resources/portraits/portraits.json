@@ -276,18 +276,6 @@
         "info_offset": 0
     },
     {
-        "nid": "Kasen",
-        "blinking_offset": [
-            24,
-            32
-        ],
-        "smiling_offset": [
-            24,
-            48
-        ],
-        "info_offset": 0
-    },
-    {
         "nid": "Keine",
         "blinking_offset": [
             24,
@@ -1933,6 +1921,18 @@
     },
     {
         "nid": "kagerou-afterimage",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Kasen",
         "blinking_offset": [
             24,
             32

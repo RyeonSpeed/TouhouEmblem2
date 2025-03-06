@@ -137,7 +137,7 @@
             0
         ],
         "map_sprite_nid": "Dismounted (F) Lance {ArcherBias}-stand",
-        "combat_anim_nid": "Remilia",
+        "combat_anim_nid": "LodestarLance",
         "fields": []
     }
 ]

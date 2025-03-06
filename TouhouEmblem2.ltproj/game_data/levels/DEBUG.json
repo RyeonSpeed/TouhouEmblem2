@@ -27,7 +27,7 @@
         "tags": [],
         "units": [
             {
-                "nid": "Narumi",
+                "nid": "Youmu",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -89,10 +89,10 @@
             },
             {
                 "nid": "102",
-                "variant": null,
+                "variant": "Heads",
                 "level": 1,
                 "klass": "Shaman",
-                "faction": "Youkai",
+                "faction": "Afterimage",
                 "starting_items": [
                     [
                         "Flux",
@@ -119,7 +119,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Bolt_Axe",
+                        "Killing_Edge",
                         false
                     ],
                     [

@@ -9053,6 +9053,12 @@
                         ]
                     ],
                     [
+                        "sound",
+                        [
+                            "FireCharge"
+                        ]
+                    ],
+                    [
                         "effect",
                         [
                             "FirePillars"
@@ -9062,6 +9068,12 @@
                         "wait",
                         [
                             24
+                        ]
+                    ],
+                    [
+                        "sound",
+                        [
+                            "FireBall"
                         ]
                     ],
                     [

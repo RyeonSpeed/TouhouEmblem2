@@ -364,5 +364,7 @@
     "Global_MaskReset",
     "Global_Refresh",
     "1_SpellMusic",
-    "3_SpellMusic"
+    "3_SpellMusic",
+    "2_WriggleMusic",
+    "2_WriggleMusic2"
 ]

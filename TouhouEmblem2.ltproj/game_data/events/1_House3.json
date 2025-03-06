@@ -13,7 +13,7 @@
             "transition;Open",
             "add_portrait;Man2;Left;no_block",
             "add_portrait;{unit};Right",
-            "speak;Man2;H-hey, what's going on? Why are all these youkai going crazy? I dunno what's going|on, but take this. That pharmacist who comes around here occassionally gave it to me.|Stay safe.",
+            "speak;Man2;H-hey, what's going on? Why are all these youkai going crazy?|I dunno what's going on, but take this. That pharmacist who comes around here sometimes gave it to me. Stay safe.",
             "change_background",
             "transition;Open",
             "give_item;{unit};Eirins_Drugs",

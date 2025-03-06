@@ -13,7 +13,7 @@
             "transition;Open",
             "add_portrait;Man2;Left;no_block",
             "add_portrait;{unit};Right",
-            "speak;Man2;Sometimes, you need a bit of speed in your life to get things done. I like to use light|tools myself, since they let you move around with more haste and do things faster, like|this axe here!",
+            "speak;Man2;Sometimes, you need a bit of speed in your\u2028life to get things done.|I like to use light tools myself since they\u2028let you move around and do things faster,|like this axe here!",
             "transition;Close",
             "change_background",
             "transition;Open",

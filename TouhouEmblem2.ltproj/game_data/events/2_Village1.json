@@ -12,7 +12,7 @@
             "add_portrait;Mokou;Left",
             "add_portrait;{unit1};Right",
             "speak;Mokou;Hey, what's with all the noise outside? Some people are trying to get some sleep here! ",
-            "speak;{unit};...",
+            "speak;{unit};...;no_talk",
             "speak;Mokou;What's with the weird look? Even immortals need to sleep once in a while. ",
             "speak;Mokou;Ugh, it can't be helped. ",
             "speak;Mokou;Take this. Go away.",

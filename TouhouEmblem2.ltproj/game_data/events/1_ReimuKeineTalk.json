@@ -8,8 +8,8 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "add_portrait;Reimu;CenterLeft",
-            "add_portrait;Keine;CenterRight",
+            "add_portrait;Reimu;Left",
+            "add_portrait;Keine;Right",
             "speak;Reimu;We're here.",
             "speak;Keine;Reimu?! Finally, reinforcements. Listen up, everyone! Drive these youkai out of here!",
             "win_game"

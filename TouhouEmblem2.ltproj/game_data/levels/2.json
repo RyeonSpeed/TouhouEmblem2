@@ -8,11 +8,11 @@
         "music": {
             "player_phase": "Nostalgic Blood",
             "enemy_phase": "Deaf to All but the Song",
-            "other_phase": null,
+            "other_phase": "Deaf to All but the Song",
             "enemy2_phase": null,
             "player_battle": "Nostalgic Blood",
             "enemy_battle": "Deaf to All but the Song",
-            "other_battle": null,
+            "other_battle": "Deaf to All but the Song",
             "enemy2_battle": null,
             "boss_battle": "Dullahan Under the Willows"
         },
@@ -21,8 +21,8 @@
             "win": "Defeat all enemies",
             "loss": "Reimu or Marisa dies"
         },
-        "roam": false,
-        "roam_unit": null,
+        "roam": true,
+        "roam_unit": "Reimu",
         "go_to_overworld": false,
         "should_record": true,
         "tags": [],
