@@ -576,6 +576,30 @@
                 "generic": true
             },
             {
+                "nid": "183",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Killing_Edge",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    13,
+                    15
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
                 "nid": "179",
                 "variant": null,
                 "level": 9,
@@ -1101,7 +1125,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -1129,7 +1153,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Pursue",
+                "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -1673,8 +1697,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    35,
-                    14
+                    36,
+                    17
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1698,7 +1722,7 @@
                 "ai_group": "",
                 "starting_position": [
                     37,
-                    14
+                    16
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1722,7 +1746,7 @@
                 "ai_group": "",
                 "starting_position": [
                     36,
-                    13
+                    16
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1759,7 +1783,7 @@
                 "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Steel_Axe",
+                        "Tomahawk",
                         false
                     ]
                 ],
@@ -1902,8 +1926,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    36,
-                    15
+                    37,
+                    17
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -1953,6 +1977,111 @@
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "101",
+                "variant": null,
+                "level": 40,
+                "klass": "Spellsword",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Wind_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "102",
+                "variant": null,
+                "level": 40,
+                "klass": "Spellsword",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Wind_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "103",
+                "variant": null,
+                "level": 40,
+                "klass": "Spellsword",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Wind_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "104",
+                "variant": null,
+                "level": 40,
+                "klass": "Spellsword",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Wind_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "105",
+                "variant": null,
+                "level": 40,
+                "klass": "Spellsword",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Wind_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
             }
         ],
         "regions": [
@@ -2273,6 +2402,38 @@
                     "Narumi": [
                         36,
                         8
+                    ]
+                }
+            },
+            {
+                "nid": "GTFO",
+                "units": [
+                    "101",
+                    "102",
+                    "103",
+                    "104",
+                    "105"
+                ],
+                "positions": {
+                    "101": [
+                        0,
+                        8
+                    ],
+                    "102": [
+                        1,
+                        9
+                    ],
+                    "103": [
+                        0,
+                        10
+                    ],
+                    "104": [
+                        1,
+                        11
+                    ],
+                    "105": [
+                        0,
+                        12
                     ]
                 }
             }

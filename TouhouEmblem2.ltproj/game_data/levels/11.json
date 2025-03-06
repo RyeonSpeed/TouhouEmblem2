@@ -62,7 +62,7 @@
                 "ai_group": "",
                 "starting_position": [
                     4,
-                    23
+                    22
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -206,7 +206,7 @@
                 "ai_group": "",
                 "starting_position": [
                     5,
-                    24
+                    23
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -301,7 +301,7 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    5,
+                    7,
                     22
                 ],
                 "starting_traveler": null,
@@ -542,7 +542,7 @@
                 "ai_group": "",
                 "starting_position": [
                     7,
-                    20
+                    19
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -565,7 +565,7 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    10,
+                    8,
                     21
                 ],
                 "starting_traveler": null,
@@ -590,7 +590,7 @@
                 "ai_group": "",
                 "starting_position": [
                     5,
-                    20
+                    19
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1072,8 +1072,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    6,
-                    18
+                    7,
+                    17
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1188,6 +1188,10 @@
                     [
                         "Aircalibur",
                         false
+                    ],
+                    [
+                        "Life_Gem",
+                        false
                     ]
                 ],
                 "starting_skills": [],
@@ -1210,7 +1214,11 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Aircalibur",
+                        "Arson",
+                        false
+                    ],
+                    [
+                        "Life_Gem",
                         false
                     ]
                 ],
@@ -1235,6 +1243,10 @@
                 "starting_items": [
                     [
                         "Aircalibur",
+                        false
+                    ],
+                    [
+                        "Life_Gem",
                         false
                     ]
                 ],
@@ -1412,8 +1424,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    27,
-                    22
+                    25,
+                    18
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1436,8 +1448,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    28,
-                    21
+                    26,
+                    18
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1508,8 +1520,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    29,
-                    20
+                    27,
+                    18
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1556,8 +1568,36 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
+                    15,
+                    27
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "177",
+                "variant": null,
+                "level": 18,
+                "klass": "Sniper",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Fukiya",
+                        true
+                    ],
+                    [
+                        "Short_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
                     17,
-                    7
+                    27
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1723,18 +1763,18 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Steel_Lance",
+                        "Longnion",
                         false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Guard",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    11,
-                    1
+                    22,
+                    5
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1869,6 +1909,106 @@
                 ],
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "176",
+                "variant": null,
+                "level": 25,
+                "klass": "Spearmaster",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Spear",
+                        false
+                    ],
+                    [
+                        "Dragonshield",
+                        true
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    28,
+                    22
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "178",
+                "variant": null,
+                "level": 5,
+                "klass": "Thief",
+                "faction": "Bandit",
+                "starting_items": [
+                    [
+                        "Elfire",
+                        true
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "RedEscape",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    5,
+                    15
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "179",
+                "variant": null,
+                "level": 5,
+                "klass": "Thief",
+                "faction": "Bandit",
+                "starting_items": [
+                    [
+                        "Forged_Shield",
+                        true
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "RedEscape",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    4,
+                    14
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "180",
+                "variant": null,
+                "level": 5,
+                "klass": "Thief",
+                "faction": "Bandit",
+                "starting_items": [
+                    [
+                        "Yukkuri_M",
+                        true
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "RedEscape",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    4,
+                    15
+                ],
+                "starting_traveler": null,
+                "generic": true
             }
         ],
         "regions": [
@@ -1876,8 +2016,8 @@
                 "nid": "F_1",
                 "region_type": "formation",
                 "position": [
-                    9,
-                    14
+                    3,
+                    28
                 ],
                 "size": [
                     1,
@@ -1893,8 +2033,8 @@
                 "nid": "F_2",
                 "region_type": "formation",
                 "position": [
-                    10,
-                    13
+                    5,
+                    27
                 ],
                 "size": [
                     1,
@@ -1910,8 +2050,8 @@
                 "nid": "F_3",
                 "region_type": "formation",
                 "position": [
-                    8,
-                    12
+                    5,
+                    28
                 ],
                 "size": [
                     1,
@@ -1927,8 +2067,8 @@
                 "nid": "F_4",
                 "region_type": "formation",
                 "position": [
-                    7,
-                    13
+                    6,
+                    28
                 ],
                 "size": [
                     1,
@@ -1944,8 +2084,8 @@
                 "nid": "F_5",
                 "region_type": "formation",
                 "position": [
-                    9,
-                    11
+                    7,
+                    27
                 ],
                 "size": [
                     1,
@@ -1961,8 +2101,8 @@
                 "nid": "F_6",
                 "region_type": "formation",
                 "position": [
-                    10,
-                    10
+                    8,
+                    28
                 ],
                 "size": [
                     1,
@@ -1978,8 +2118,8 @@
                 "nid": "F_7",
                 "region_type": "formation",
                 "position": [
-                    7,
-                    11
+                    4,
+                    27
                 ],
                 "size": [
                     1,
@@ -1995,8 +2135,8 @@
                 "nid": "F_8",
                 "region_type": "formation",
                 "position": [
-                    8,
-                    10
+                    4,
+                    29
                 ],
                 "size": [
                     1,
@@ -2012,8 +2152,8 @@
                 "nid": "F_9",
                 "region_type": "formation",
                 "position": [
-                    11,
-                    11
+                    7,
+                    29
                 ],
                 "size": [
                     1,
@@ -2026,28 +2166,11 @@
                 "interrupt_move": false
             },
             {
-                "nid": "Secret",
-                "region_type": "event",
-                "position": [
-                    1,
-                    15
-                ],
-                "size": [
-                    1,
-                    2
-                ],
-                "sub_nid": "Secret!",
-                "condition": "True",
-                "time_left": null,
-                "only_once": true,
-                "interrupt_move": false
-            },
-            {
                 "nid": "House",
                 "region_type": "event",
                 "position": [
-                    2,
-                    14
+                    15,
+                    26
                 ],
                 "size": [
                     1,
@@ -2057,6 +2180,23 @@
                 "condition": "True",
                 "time_left": null,
                 "only_once": true,
+                "interrupt_move": false
+            },
+            {
+                "nid": "Red_Escape",
+                "region_type": "event",
+                "position": [
+                    28,
+                    0
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "Escape",
+                "condition": "unit.team == 'enemy'",
+                "time_left": null,
+                "only_once": false,
                 "interrupt_move": false
             }
         ],

@@ -34,8 +34,8 @@
                 "roam_ai": null,
                 "ai_group": null,
                 "starting_position": [
-                    7,
-                    7
+                    6,
+                    6
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -47,8 +47,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    6,
-                    7
+                    8,
+                    5
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -60,8 +60,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    7,
-                    8
+                    8,
+                    6
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -73,8 +73,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    8,
-                    7
+                    9,
+                    5
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -87,7 +87,7 @@
                 "ai_group": null,
                 "starting_position": [
                     7,
-                    6
+                    4
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -110,14 +110,38 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    6,
-                    10
+                    5,
+                    11
                 ],
                 "starting_traveler": null,
                 "generic": true
             },
             {
                 "nid": "102",
+                "variant": null,
+                "level": 1,
+                "klass": "Mage",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Fire",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    12,
+                    6
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "104",
                 "variant": null,
                 "level": 1,
                 "klass": "Vagrant_S",
@@ -130,36 +154,12 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    8,
-                    10
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "104",
-                "variant": null,
-                "level": 1,
-                "klass": "Lancer",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Iron_Lance",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
                 "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
                     11,
-                    16
+                    7
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -206,8 +206,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    8,
-                    20
+                    4,
+                    11
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -230,8 +230,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    13,
-                    10
+                    11,
+                    11
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -254,7 +254,7 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    12,
+                    6,
                     11
                 ],
                 "starting_traveler": null,
@@ -278,8 +278,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    7,
-                    11
+                    12,
+                    12
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -306,8 +306,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    2,
-                    21
+                    0,
+                    12
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -334,8 +334,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    10,
-                    17
+                    0,
+                    10
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -358,8 +358,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    3,
-                    17
+                    10,
+                    3
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -424,8 +424,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    6,
-                    20
+                    13,
+                    11
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -437,8 +437,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    7,
-                    21
+                    1,
+                    11
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -447,7 +447,7 @@
                 "nid": "103",
                 "variant": null,
                 "level": 1,
-                "klass": "Vagrant_S",
+                "klass": "Sword_Rider",
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -526,8 +526,8 @@
                         13
                     ],
                     "Rumia_Boss": [
-                        7,
-                        12
+                        1,
+                        11
                     ]
                 }
             },
@@ -571,17 +571,17 @@
                     "116"
                 ],
                 "positions": {
-                    "Rumia_Boss_1": [
-                        7,
-                        4
-                    ],
                     "115": [
-                        6,
-                        3
+                        12,
+                        7
                     ],
                     "116": [
-                        8,
-                        3
+                        14,
+                        7
+                    ],
+                    "Rumia_Boss_1": [
+                        13,
+                        8
                     ]
                 }
             }

@@ -36,6 +36,7 @@
     "Devil_Lance",
     "Gungnir",
     "Punji",
+    "Longnion",
     "Killer_Lance",
     "Platepiercer",
     "Horseslayer",
@@ -224,6 +225,8 @@
     "Fire_Rat_Robe",
     "Tengu_Feathers",
     "MedicineBox",
+    "Tabula_Rasa",
+    "Magithief",
     "Life_Gem",
     "Eirins_Drugs",
     "Antitoxin",
@@ -283,6 +286,7 @@
     "new_3",
     "Spear_The_Gungnir",
     "Vanish",
+    "BarrierWarp",
     "Dragonstone",
     "Sear"
 ]

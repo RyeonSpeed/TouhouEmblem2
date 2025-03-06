@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Barrier_Warp",
+        "name": "Barrier Warp",
+        "desc": "Reimu swaps places with an enemy up to 3 tiles away. Does not work on enemies that do not move.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            3,
+            4
+        ],
+        "components": [
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "ability",
+                "BarrierWarp"
+            ]
+        ]
+    }
+]
