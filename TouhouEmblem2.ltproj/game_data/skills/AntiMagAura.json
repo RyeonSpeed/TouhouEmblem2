@@ -10,6 +10,10 @@
         ],
         "components": [
             [
+                "ability_indicator",
+                null
+            ],
+            [
                 "aura",
                 "Silence"
             ],
@@ -30,8 +34,8 @@
                 ]
             ],
             [
-                "ability_indicator",
-                null
+                "aura_opacity",
+                0.7
             ]
         ]
     }
