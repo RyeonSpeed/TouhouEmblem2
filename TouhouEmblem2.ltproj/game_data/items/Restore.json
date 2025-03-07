@@ -71,6 +71,10 @@
             [
                 "battle_cast_anim",
                 "Restore"
+            ],
+            [
+                "map_hit_sfx",
+                "DebuffRecover"
             ]
         ]
     }

@@ -11,7 +11,7 @@
         "components": [
             [
                 "mid_battle_recoil",
-                "-30"
+                "30"
             ],
             [
                 "combat_condition",

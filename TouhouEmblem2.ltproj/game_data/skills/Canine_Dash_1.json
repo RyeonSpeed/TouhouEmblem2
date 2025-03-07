@@ -14,12 +14,12 @@
                 "CanineDash"
             ],
             [
-                "deathrecoil",
-                5
-            ],
-            [
                 "cannot_double",
                 null
+            ],
+            [
+                "deathrecoil2",
+                "5"
             ]
         ]
     }

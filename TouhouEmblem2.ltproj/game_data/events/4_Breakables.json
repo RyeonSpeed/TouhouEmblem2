@@ -19,7 +19,7 @@
             "speak;Marisa;Been thinkin', haven't we been taking awhile on the battlefield?",
             "speak;Reimu;What do you mean?",
             "speak;Marisa;I mean, there's gotta be an easier way to get through the battlefield! A shortcut!",
-            "speak;Kasen;Well, there might be some weak spots in some places we could break down to get access faster.",
+            "speak;Kasen;Well, there might be some weak spots\u2028in some places we could break down|to get access faster.",
             "speak;Marisa;So...we just need to hit it until it breaks?",
             "speak;Reimu;I like the idea of that.",
             "multi_remove_portrait;Reimu;Kasen;Marisa",

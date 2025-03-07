@@ -54,10 +54,6 @@
                 1
             ],
             [
-                "status_on_equip",
-                "Bleeding_Strike"
-            ],
-            [
                 "c_uses",
                 15
             ],
@@ -75,6 +71,10 @@
             [
                 "weapon_type",
                 "Martial"
+            ],
+            [
+                "status_on_equip",
+                "Bleeding_Strike"
             ]
         ]
     }

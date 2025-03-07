@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Seed",
+        "trigger": "level_start",
+        "level_nid": "DEBUG",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "game_var;_random_seed;random.randint(0,1023)",
+            "if;static_random.set_seed({v:_random_seed})",
+            "end"
+        ],
+        "nid": "DEBUG Seed"
+    }
+]

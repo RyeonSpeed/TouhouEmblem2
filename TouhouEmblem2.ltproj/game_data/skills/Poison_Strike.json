@@ -14,12 +14,12 @@
                 null
             ],
             [
-                "proc_rate",
-                "CRIT_AVOID"
+                "attack_proc",
+                "Poison_Strike_1"
             ],
             [
-                "give_status_after_strike",
-                "Poisoned"
+                "proc_rate",
+                "FORGEMASTER"
             ]
         ]
     }

@@ -294,9 +294,9 @@ class DeathRecoil(SkillComponent):
                 game.events.trigger(triggers.UnitDeath(unit, None, unit.position))
                 skill_system.on_death(unit)
 
-class CiggieRecoil(SkillComponent):
-    nid = 'mid_battle_recoil'
-    desc = "Use negative value for mid-battle recoil (can be lethal)"
+class DeathRecoil2(SkillComponent):
+    nid = 'deathrecoil2'
+    desc = "Mid-battle death recoil"
     tag = SkillTags.COMBAT2
 
     expose = ComponentType.String
@@ -307,14 +307,36 @@ class CiggieRecoil(SkillComponent):
         try:
             local_args = {'item': item, 'item2': item2, 'mode': mode, 'skill': self.skill, 'attack_info': attack_info}
             calc_value = int(evaluate.evaluate(self.value, unit, target, unit.position, local_args))
-            actions.append(action.ChangeHP(unit, calc_value))
-            playback.append(pb.DamageHit(unit, item, unit, calc_value, calc_value))
+            actions.append(action.ChangeHP(unit, -calc_value))
+            if strike == Strike.CRIT:
+                playback.append(pb.DamageCrit(unit, item, unit, calc_value, calc_value))
+            else:
+                playback.append(pb.DamageHit(unit, item, unit, calc_value, calc_value))
+            actions.append(action.TriggerCharge(unit, self.skill))
+        except Exception as e:
+            logging.error("Couldn't evaluate %s conditional (%s)", self.value, e)
+            return 0
+
+class CiggieRecoil(SkillComponent):
+    nid = 'mid_battle_recoil'
+    desc = "Mid-battle death recoil with ciggie effects"
+    tag = SkillTags.COMBAT2
+
+    expose = ComponentType.String
+    value = 1
+
+    def after_strike(self, actions, playback, unit, item, target, item2, mode, attack_info, strike):
+        from app.engine import evaluate
+        try:
+            local_args = {'item': item, 'item2': item2, 'mode': mode, 'skill': self.skill, 'attack_info': attack_info}
+            calc_value = int(evaluate.evaluate(self.value, unit, target, unit.position, local_args))
+            actions.append(action.ChangeHP(unit, -calc_value))
+            if strike == Strike.CRIT:
+                playback.append(pb.DamageCrit(unit, item, unit, calc_value, calc_value))
+            else:
+                playback.append(pb.DamageHit(unit, item, unit, calc_value, calc_value))
             playback.append(pb.UnitTintAdd(unit, (255, 0, 0)))
             playback.append(pb.HitSound('FireHit'))
-            if unit.current_hp + calc_value > 0:
-                playback.append(pb.HitSound('Attack Hit ' + str(random.randint(1, 5))))
-            else:
-                playback.append(pb.HitSound('Final Hit'))
             actions.append(action.TriggerCharge(unit, self.skill))
         except Exception as e:
             logging.error("Couldn't evaluate %s conditional (%s)", self.value, e)

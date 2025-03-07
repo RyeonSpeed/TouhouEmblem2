@@ -116,7 +116,7 @@
                 "generic": false
             },
             {
-                "nid": "Letty",
+                "nid": "Kokoro",
                 "team": "other",
                 "ai": "None",
                 "roam_ai": null,
@@ -126,7 +126,7 @@
                 "generic": false
             },
             {
-                "nid": "Kokoro",
+                "nid": "Letty",
                 "team": "other",
                 "ai": "None",
                 "roam_ai": null,
