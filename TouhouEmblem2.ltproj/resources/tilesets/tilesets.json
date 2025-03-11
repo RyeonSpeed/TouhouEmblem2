@@ -240,5 +240,10 @@
         "nid": "prismrivers (2)",
         "terrain_grid": {},
         "autotiles": {}
+    },
+    {
+        "nid": "Village v2 - Float",
+        "terrain_grid": {},
+        "autotiles": {}
     }
 ]
