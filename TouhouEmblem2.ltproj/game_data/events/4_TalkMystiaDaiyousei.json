@@ -11,7 +11,7 @@
             "add_portrait;Mystia;Right",
             "add_portrait;Daiyousei;Left",
             "speak;Mystia;Ah, there you are!",
-            "speak;Daiyousei;Ah, a familiar face!",
+            "speak;Daiyousei;Oh, a familiar face!",
             "speak;Mystia;Let's wrap this up quickly and scram!",
             "speak;Daiyousei;Right!",
             "multi_remove_portrait;Mystia;Daiyousei",

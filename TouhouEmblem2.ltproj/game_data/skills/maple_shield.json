@@ -21,6 +21,10 @@
                         4
                     ]
                 ]
+            ],
+            [
+                "condition",
+                "unit.equipped_accessory.data['c_uses'] > 0"
             ]
         ]
     }

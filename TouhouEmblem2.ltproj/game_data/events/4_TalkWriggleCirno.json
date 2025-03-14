@@ -8,8 +8,8 @@
         "only_once": true,
         "priority": 20,
         "_source": [
-            "add_portrait;Wriggle;Right",
-            "add_portrait;Cirno;Left",
+            "add_portrait;Wriggle;Right;ExpressionList=Smile",
+            "add_portrait;Cirno;Left;ExpressionList=Smile",
             "speak;Wriggle;Well, well, well.",
             "speak;Cirno;Ah, Wriggle! There you are! Let's bust out of here together!",
             "speak;Wriggle;Heh heh...right behind you!",

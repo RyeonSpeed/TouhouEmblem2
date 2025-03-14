@@ -10,12 +10,16 @@
         ],
         "components": [
             [
-                "give_status_after_strike",
+                "hit",
+                30
+            ],
+            [
+                "give_status_after_hit",
                 "Frozen_1"
             ],
             [
-                "hit",
-                30
+                "first_hit_battle_anim",
+                "Freeze"
             ]
         ]
     }

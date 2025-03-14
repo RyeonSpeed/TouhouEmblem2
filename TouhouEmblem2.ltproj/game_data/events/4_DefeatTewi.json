@@ -8,10 +8,9 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "add_portrait;Tewi;Left",
+            "add_portrait;Tewi;Left;ExpressionList=CloseEyes",
             "speak;Tewi;Oh...the tragedy...defeated...",
-            "add_portrait;{unit1};Right",
-            "speak;{unit1};...",
+            "expression;Tewi;Smile",
             "speak;Tewi;Hehehe...SIKE!",
             "remove_portrait;Tewi"
         ],

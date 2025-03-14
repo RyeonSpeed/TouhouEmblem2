@@ -27,51 +27,27 @@
         "tags": [],
         "units": [
             {
-                "nid": "Kagerou",
+                "nid": "Wriggle",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
                     16,
-                    18
+                    16
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
-                "nid": "101",
-                "variant": null,
-                "level": 10,
-                "klass": "Archer",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Farshot",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Guard",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    15,
-                    19
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
                 "nid": "104",
                 "variant": null,
-                "level": 10,
+                "level": 3,
                 "klass": "Archer",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Farshot",
+                        "Iron_Bow",
                         false
                     ]
                 ],
@@ -82,7 +58,7 @@
                 "ai_group": "",
                 "starting_position": [
                     16,
-                    19
+                    18
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -105,8 +81,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    18,
-                    13
+                    16,
+                    19
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -119,11 +95,11 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Sendai",
+                        "Debug_Crit",
                         false
                     ],
                     [
-                        "Hand_Axe",
+                        "Killer_Axe",
                         false
                     ]
                 ],
@@ -134,7 +110,7 @@
                 "ai_group": "",
                 "starting_position": [
                     16,
-                    12
+                    15
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -146,8 +122,73 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    16,
-                    10
+                    17,
+                    15
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Sunny",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    20,
+                    18
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Reisen_Boss",
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    17
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Merlin",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    16
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Lunasa",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    13,
+                    17
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Mokou",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    15,
+                    17
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -190,6 +231,11 @@
             }
         ],
         "unit_groups": [],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Crit_plus",
+        "name": "Crit Plus",
+        "desc": "Gives +50% crit.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            10,
+            3
+        ],
+        "components": [
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "crit",
+                50
+            ]
+        ]
+    }
+]

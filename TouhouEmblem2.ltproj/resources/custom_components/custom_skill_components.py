@@ -395,3 +395,20 @@ class CannotUsePhysicalItems(SkillComponent):
 
     def available(self, unit, item) -> bool:
         return item_funcs.is_magic(unit, item)
+
+class FirstHitBattleAnim(SkillComponent):
+    nid = 'first_hit_battle_anim'
+    desc = "Use a specific pose when you first pull up on a fucker (except on miss)"
+    tag = SkillTags.AESTHETIC
+
+    expose = ComponentType.String
+    value = 'Critical'
+    _did_anim = False
+
+    def after_strike(self, actions, playback, unit, item, target, item2, mode, attack_info, strike):
+        if strike != Strike.MISS and not self._did_anim:
+            playback.append(pb.AlternateBattlePose(self.value))
+            self._did_anim = True
+            
+    def end_combat_unconditional(self, playback, unit: UnitObject, item, target: UnitObject, item2, mode):
+        self._did_anim = False

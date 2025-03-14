@@ -24,6 +24,10 @@
             [
                 "event_after_combat_on_hit",
                 "Global Refresh"
+            ],
+            [
+                "map_hit_sfx",
+                "Aura2"
             ]
         ]
     }

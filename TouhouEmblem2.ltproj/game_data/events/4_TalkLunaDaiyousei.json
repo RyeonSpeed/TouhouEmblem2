@@ -12,7 +12,7 @@
             "add_portrait;Daiyousei;Left",
             "speak;Luna;Oh. Hi.",
             "speak;Daiyousei;Luna! Let's hurry up and get out of here!",
-            "speak;Luna;Yes, let's...I seem to have dropped my freshly steamed bun around here...",
+            "speak;Luna;Yes, let's...{c:wait;300}but I seem to have dropped my freshly steamed bun around here...",
             "speak;Daiyousei;You idiot! No time for that!",
             "multi_remove_portrait;Luna;Daiyousei",
             "change_team;Daiyousei;player",

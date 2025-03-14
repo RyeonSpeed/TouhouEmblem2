@@ -120,6 +120,21 @@
         "status": null
     },
     {
+        "nid": "5_2",
+        "name": "Stairs",
+        "color": [
+            105,
+            31,
+            108
+        ],
+        "minimap": "Floor",
+        "platform": "Floor",
+        "background": "combat_castle2",
+        "mtype": "Normal",
+        "opaque": false,
+        "status": null
+    },
+    {
         "nid": "6",
         "name": "Floor",
         "color": [
@@ -168,9 +183,9 @@
         "nid": "6_3",
         "name": "Warp",
         "color": [
-            84,
-            84,
-            84
+            116,
+            110,
+            104
         ],
         "minimap": "Floor",
         "platform": "Floor2",
@@ -475,6 +490,21 @@
         "minimap": "Chest",
         "platform": "Chest",
         "background": "combat_castle3",
+        "mtype": "Normal",
+        "opaque": false,
+        "status": null
+    },
+    {
+        "nid": "36_1",
+        "name": "Chest",
+        "color": [
+            221,
+            255,
+            1
+        ],
+        "minimap": "Chest",
+        "platform": "Chest",
+        "background": "combat_castle2",
         "mtype": "Normal",
         "opaque": false,
         "status": null

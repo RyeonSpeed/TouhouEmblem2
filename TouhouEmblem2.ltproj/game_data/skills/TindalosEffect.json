@@ -18,8 +18,8 @@
                 "TINDALOS"
             ],
             [
-                "give_status_after_strike",
-                "Bleeding"
+                "attack_proc",
+                "Bleeding_Strike_1"
             ]
         ]
     }

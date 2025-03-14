@@ -15,7 +15,7 @@
             "speak;Star;It's ok. I can't remember your name either.",
             "remove_portrait;Star",
             "speak;Daiyousei;Uh...yeah! What IS my name...?",
-            "remove_portrait;Wriggle",
+            "remove_portrait;Daiyousei",
             "change_team;Daiyousei;player",
             "remove_talk;Rumia;Daiyousei",
             "remove_talk;Wriggle;Daiyousei",

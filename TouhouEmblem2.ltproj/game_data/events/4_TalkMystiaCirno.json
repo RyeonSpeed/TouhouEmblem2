@@ -12,7 +12,7 @@
             "add_portrait;Cirno;Left",
             "speak;Mystia;Hey, Cirno! We're here to get you!",
             "speak;Cirno;Finally! Took you long enough, were you possessed or something?",
-            "speak;Mystia;I guess you could say that.",
+            "speak;Mystia;I guess you could say that...",
             "multi_remove_portrait;Mystia;Cirno",
             "change_team;Cirno;player",
             "remove_talk;Wriggle;Cirno",
