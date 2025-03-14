@@ -1932,7 +1932,11 @@
         "info_offset": 0
     },
     {
+<<<<<<< Updated upstream
         "nid": "Kasen",
+=======
+        "nid": "akyuu",
+>>>>>>> Stashed changes
         "blinking_offset": [
             24,
             32

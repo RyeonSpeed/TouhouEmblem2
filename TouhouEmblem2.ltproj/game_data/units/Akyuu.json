@@ -2,7 +2,7 @@
     {
         "nid": "Akyuu",
         "name": "Akyuu",
-        "desc": "",
+        "desc": "The Child of Miare, she has the ability to never forget a single thing. Currently being kept alive by pure bullshit energy.",
         "variant": null,
         "level": 1,
         "klass": "Lodestar_B",
@@ -48,8 +48,8 @@
         "unit_notes": [],
         "wexp_gain": {},
         "alternate_classes": [],
-        "portrait_nid": "",
-        "affinity": null,
+        "portrait_nid": "akyuu",
+        "affinity": "None",
         "fields": []
     }
 ]
