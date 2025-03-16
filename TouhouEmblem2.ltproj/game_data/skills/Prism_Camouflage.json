@@ -2,7 +2,7 @@
     {
         "nid": "Prism_Camouflage",
         "name": "Prism Camouflage",
-        "desc": "Takes half damage, +10 Avoid when facing light magic. Much less likely to be targeted.",
+        "desc": "Shade. If enemy is using Light: halve damage taken, +10 AVOID. ",
         "icon_nid": "skillicons_1",
         "icon_index": [
             3,

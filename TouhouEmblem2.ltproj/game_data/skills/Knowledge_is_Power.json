@@ -2,7 +2,7 @@
     {
         "nid": "Knowledge_is_Power",
         "name": "Knowledge is Power!",
-        "desc": "Doubles WExp gained by adjacent allies.",
+        "desc": "Allies within 1 tile: Double WExp gained.",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,

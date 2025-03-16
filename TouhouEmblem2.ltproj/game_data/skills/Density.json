@@ -2,7 +2,7 @@
     {
         "nid": "Density",
         "name": "Density",
-        "desc": "Reduces damage by (Con * 2)%.",
+        "desc": "Reduces damage by (CON * 2)%.",
         "icon_nid": "skillicons102724(1)",
         "icon_index": [
             0,

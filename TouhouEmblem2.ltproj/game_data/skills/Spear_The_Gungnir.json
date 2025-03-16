@@ -2,7 +2,7 @@
     {
         "nid": "Spear_The_Gungnir",
         "name": "Spear The Gungnir",
-        "desc": "Remilia throws Gungnir up to 5 spaces away, dealing 1.5x damage. Applies bleeding before the enemy is hit. Uses up all of Gungnir's remaining durability. Deals post combat splash damage to adjacent tiles equal to 0.5 of Remilia's STR. Cannot miss.",
+        "desc": "Cannot miss. 1.5x DMG. Strikethrough 5. Applies \"Bleeding\" before the target is hit. Uses up all of Gungnir's remaining durability. Enemies adjacent to target: Afterstrike = 50% user's STR. ",
         "icon_nid": "skillicons102724",
         "icon_index": [
             0,

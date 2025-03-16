@@ -2,7 +2,7 @@
     {
         "nid": "Thick_Fur",
         "name": "Thick Fur",
-        "desc": "Takes half damage from anima magic, but takes twice as much damage from light magic.",
+        "desc": "If enemy is using Anima: halve damage taken. If enemy is using Light: double damage taken.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             0,

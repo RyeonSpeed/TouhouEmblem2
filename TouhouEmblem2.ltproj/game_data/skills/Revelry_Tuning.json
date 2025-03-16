@@ -2,7 +2,7 @@
     {
         "nid": "Revelry_Tuning",
         "name": "Revelry Tuning",
-        "desc": "When within 2 tiles of Lyrica and Lunasa, +30 Crit.",
+        "desc": "When within 2 tiles of Lyrica and Lunasa: +30 CRIT.",
         "icon_nid": "skillicons4",
         "icon_index": [
             0,

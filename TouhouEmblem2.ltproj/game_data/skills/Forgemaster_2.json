@@ -2,7 +2,7 @@
     {
         "nid": "Forgemaster_2",
         "name": "Forgemaster",
-        "desc": "User and allies in a 2 tile radius have a Skl% chance to conserve a weapon use upon attacking.",
+        "desc": "User and allies within 2 tiles: SKL% chance to conserve a weapon use upon attacking.",
         "icon_nid": "moreskillicons",
         "icon_index": [
             0,

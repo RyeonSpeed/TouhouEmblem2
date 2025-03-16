@@ -2,7 +2,7 @@
     {
         "nid": "Apparitions_That_Stalk_The_Night",
         "name": "Apparitions That Stalk The Night",
-        "desc": "Covers the battlefield in a very thick fog. Then grants user the \"Night Hunter\" skill, enhancing their combat aspects. Usable once per map.",
+        "desc": "Covers the battlefield in a very thick fog. Applies \"Night Hunter\" skill to user. Usable once per map.",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,

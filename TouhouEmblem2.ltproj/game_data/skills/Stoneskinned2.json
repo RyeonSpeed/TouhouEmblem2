@@ -2,7 +2,7 @@
     {
         "nid": "Stoneskinned2",
         "name": "Stoneskinned2",
-        "desc": "Unit gains +4 defense but -2 speed.",
+        "desc": "When enemy weapon can only strike from 1 Range: halve damage. Otherwise, take double damage. ",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,

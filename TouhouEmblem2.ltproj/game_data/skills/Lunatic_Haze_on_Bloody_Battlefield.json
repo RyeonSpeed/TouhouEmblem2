@@ -2,7 +2,7 @@
     {
         "nid": "Lunatic_Haze_on_Bloody_Battlefield",
         "name": "Lunatic Haze on Bloody Battlefield",
-        "desc": "+DMG/AS/DMG taken equal to (Fatigue/Max Fatigue * 100%)/15%. If unit goes over fatigue cap, unit will be berserked.",
+        "desc": "+DMG/AS/DMG taken equal to (Fatigue/Max Fatigue * 100%)/15%. If unit goes over fatigue cap, apply \"Berserk\" to user.",
         "icon_nid": "skillicons102724",
         "icon_index": [
             0,

@@ -2,7 +2,7 @@
     {
         "nid": "Illuminate_Effect",
         "name": "Illuminate",
-        "desc": "Units with dark magic equipped in a 2 tile radius of Wriggle have their damage halved.",
+        "desc": "Units within 2 tiles: If equipped with Dark: halve damage dealt.",
         "icon_nid": null,
         "icon_index": [
             0,

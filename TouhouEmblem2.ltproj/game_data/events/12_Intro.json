@@ -12,6 +12,7 @@
             "trigger_script;Housekeeping3",
             "trigger_script;Housekeeping1",
             "trigger_script;Housekeeping2",
+            "autolevel_to;Youmu_Boss;14;fixed;no_warn",
             "prep;1;Sealed Gods",
             ""
         ],

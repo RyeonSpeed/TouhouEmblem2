@@ -2,7 +2,7 @@
     {
         "nid": "Pivot",
         "name": "Pivot",
-        "desc": "Moves to the other side of an ally.",
+        "desc": "Pivots 1 tile over ally.",
         "icon_nid": "skillicons3",
         "icon_index": [
             0,

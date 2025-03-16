@@ -2,7 +2,7 @@
     {
         "nid": "Canine_Dash",
         "name": "Canine Dash",
-        "desc": "Selects an enemy 2-3 tiles away and dashes to them, then pivots once space over them, dealing damage to all enemies in the line. Takes 5 HP in recoil.",
+        "desc": "Range 2-3. Pivots 1 tile over selected enemy. Damages all enemies in line. 5 HP Recoil.",
         "icon_nid": "skillicons3",
         "icon_index": [
             0,

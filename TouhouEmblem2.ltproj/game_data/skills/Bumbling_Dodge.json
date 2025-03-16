@@ -2,7 +2,7 @@
     {
         "nid": "Bumbling_Dodge",
         "name": "Bumbling Dodge",
-        "desc": "Unit gets +20 Avoid at full HP.",
+        "desc": "When unit = 100% HP: +20 AVOID.",
         "icon_nid": "skillicons102724",
         "icon_index": [
             2,

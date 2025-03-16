@@ -2,7 +2,7 @@
     {
         "nid": "Interfering_Waves",
         "name": "Interfering Waves",
-        "desc": "Allies and enemies alike wielding magic within 3 spaces receive -3 Mag/+3 Res.",
+        "desc": "Units within 3 tiles: -3 MAG/+3 RES.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             2,

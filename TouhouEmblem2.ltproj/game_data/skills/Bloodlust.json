@@ -2,7 +2,7 @@
     {
         "nid": "Bloodlust",
         "name": "Bloodlust",
-        "desc": "If this unit kills an enemy with Bleeding, they get another turn. ",
+        "desc": "If this unit kills an enemy with Bleeding, can act again. ",
         "icon_nid": "skillicons102724(1)",
         "icon_index": [
             1,

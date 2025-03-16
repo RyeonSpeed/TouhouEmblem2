@@ -2,7 +2,7 @@
     {
         "nid": "Searchlight",
         "name": "Searchlight",
-        "desc": "+4 Fog Vision, -10 Avoid/Crit Avoid to enemies within 2 tiles.",
+        "desc": "Enemies within 2 tiles: +4 Fog Vision, -10 AVOID/CRIT AVOID.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             3,

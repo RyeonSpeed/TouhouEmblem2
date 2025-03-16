@@ -2,7 +2,7 @@
     {
         "nid": "Mercy_Art",
         "name": "Mercy",
-        "desc": "Prevents unit from critting or doubling.",
+        "desc": "Prevents unit from landing critical hits or doubling.",
         "icon_nid": "skillicons4",
         "icon_index": [
             0,

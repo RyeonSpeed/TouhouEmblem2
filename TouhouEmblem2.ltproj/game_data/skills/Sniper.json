@@ -2,7 +2,7 @@
     {
         "nid": "Sniper",
         "name": "Sniper",
-        "desc": "Critical hits are now double damage + 10 extra damage. ",
+        "desc": "Critical hits are now double damage + 10 extra DMG. ",
         "icon_nid": "skillicons102524(1)",
         "icon_index": [
             0,

@@ -1,7 +1,7 @@
 [
     {
         "nid": "Frozen_1",
-        "name": "Frozen",
+        "name": "Frozen 1",
         "desc": "Applies -5 Spd/-4 Mov on the enemy for 2 turns.",
         "icon_nid": "skillicons4",
         "icon_index": [
@@ -31,16 +31,16 @@
                 ]
             ],
             [
-                "negative",
-                null
-            ],
-            [
                 "lost_on_end_chapter",
                 null
             ],
             [
                 "time",
                 2
+            ],
+            [
+                "negative",
+                null
             ]
         ]
     }

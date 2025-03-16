@@ -2,7 +2,7 @@
     {
         "nid": "ACT_the_FOOL",
         "name": "Act the FOOL HAHAHA",
-        "desc": "If this unit's HP >= 50%, all units within a 2 tile range gain Optimism.",
+        "desc": "If user >= 50% HP, Units within 2 tiles: Apply \"Optimism\".",
         "icon_nid": "ACTTHEFOOLHAHAHAHA",
         "icon_index": [
             0,

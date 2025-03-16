@@ -1759,8 +1759,8 @@
                 "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Steel_Sword",
-                        false
+                        "Axebane",
+                        true
                     ]
                 ],
                 "starting_skills": [],

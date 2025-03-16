@@ -2,7 +2,7 @@
     {
         "nid": "Great_Fortune",
         "name": "Great Fortune!",
-        "desc": "Lck% chance after a kill to pick up a random treasure.",
+        "desc": "LCK% chance after a kill to pick up a random treasure.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             4,

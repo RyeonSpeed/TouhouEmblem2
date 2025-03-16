@@ -27,10 +27,6 @@
                 ]
             ],
             [
-                "negative",
-                null
-            ],
-            [
                 "lost_on_end_chapter",
                 null
             ],
@@ -41,6 +37,10 @@
             [
                 "condition",
                 "unit.team is not 'player'"
+            ],
+            [
+                "negative",
+                null
             ]
         ]
     }

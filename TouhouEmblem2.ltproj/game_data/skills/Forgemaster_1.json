@@ -2,7 +2,7 @@
     {
         "nid": "Forgemaster_1",
         "name": "Forge Apprentice",
-        "desc": "User has a Skl% chance to conserve a weapon use upon attacking.",
+        "desc": "SKL% chance to conserve a weapon use upon attacking.",
         "icon_nid": "moreskillicons",
         "icon_index": [
             0,

@@ -2,7 +2,7 @@
     {
         "nid": "Dewdrop_Barrier",
         "name": "Dewdrop Barrier",
-        "desc": "When under 50% HP, user takes 50% less damage and heals 50% of damage dealt.",
+        "desc": "When under 50% HP: halve damage taken; Drain 50% damage.",
         "icon_nid": "skillicons102524(1)",
         "icon_index": [
             0,

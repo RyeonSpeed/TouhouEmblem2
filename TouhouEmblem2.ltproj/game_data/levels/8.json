@@ -1214,8 +1214,8 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Steel_Axe",
-                        false
+                        "Lancesmasher",
+                        true
                     ]
                 ],
                 "starting_skills": [

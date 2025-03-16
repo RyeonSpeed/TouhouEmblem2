@@ -2,7 +2,7 @@
     {
         "nid": "Phoenix_Aura",
         "name": "Phoenix Aura",
-        "desc": "",
+        "desc": "Enemies within 2 tiles: Applies \"Burning\".",
         "icon_nid": "skillicons_1",
         "icon_index": [
             0,

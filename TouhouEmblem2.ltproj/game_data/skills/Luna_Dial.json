@@ -1,17 +1,17 @@
 [
     {
         "nid": "Luna_Dial",
-        "name": "Luna Dial",
-        "desc": "Initiating battle builds up \"Time Tokens\". After five tokens are gained, User may take another action that turn, and gains \"Jack The Ripper\" for that turn.",
-        "icon_nid": "skillicons102524",
+        "name": "Luna Dial ",
+        "desc": "Units within 3 tiles: -4 SPD/-5 MOV.",
+        "icon_nid": "skillicons102524(1)",
         "icon_index": [
-            0,
+            1,
             0
         ],
         "components": [
             [
-                "event_after_initiated_combat",
-                "Global LunaDial"
+                "build_charge",
+                5
             ],
             [
                 "ability_indicator",

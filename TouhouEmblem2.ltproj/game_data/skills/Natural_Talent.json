@@ -2,7 +2,7 @@
     {
         "nid": "Natural_Talent",
         "name": "Natural Talent",
-        "desc": "Gives +1% Hit/Avoid per level. ",
+        "desc": "Per Level: +1 HIT/AVOID.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             3,

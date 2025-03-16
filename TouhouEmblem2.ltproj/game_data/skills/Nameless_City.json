@@ -2,7 +2,7 @@
     {
         "nid": "Nameless_City",
         "name": "Nameless City",
-        "desc": "Prevents user from taking damage for one turn and makes them more likely to be targeted. Recharges in 3 turns.",
+        "desc": "For 1 turn: Taunt, Immunity. Recharge 3 turns.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             7,

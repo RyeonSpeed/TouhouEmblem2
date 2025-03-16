@@ -2,7 +2,7 @@
     {
         "nid": "Nature_Power",
         "name": "Nature Power",
-        "desc": "Increases crit by Res.",
+        "desc": "Per 1 RES, +1 CRIT.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             8,

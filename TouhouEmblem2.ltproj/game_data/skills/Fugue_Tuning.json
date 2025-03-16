@@ -2,7 +2,7 @@
     {
         "nid": "Fugue_Tuning",
         "name": "Fugue Tuning",
-        "desc": "When within 2 tiles of Lunasa and Merlin, +15 Crit and +3 Speed.",
+        "desc": "When within 2 tiles of Lunasa and Merlin: +15 CRIT and +3 SPD.",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,

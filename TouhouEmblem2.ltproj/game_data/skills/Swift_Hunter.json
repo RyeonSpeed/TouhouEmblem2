@@ -2,7 +2,7 @@
     {
         "nid": "Swift_Hunter",
         "name": "Swift Hunter",
-        "desc": "When below 50% HP, user gains +50% Avoid.",
+        "desc": "When unit < 50% HP: +50 AVOID.",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,

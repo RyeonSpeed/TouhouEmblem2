@@ -2,7 +2,7 @@
     {
         "nid": "Sharpshooter",
         "name": "Sharpshooter",
-        "desc": "Critical hits are now double damage + 20 extra damage.",
+        "desc": "Critical hits are now double damage + 20 extra DMG.",
         "icon_nid": "skillicons102524(1)",
         "icon_index": [
             0,

@@ -2,7 +2,7 @@
     {
         "nid": "Illuminate",
         "name": "Illuminate",
-        "desc": "Halves the damage of units equipped with dark magic within 2 tiles.",
+        "desc": "Units within 2 tiles: If equipped with Dark: halve damage dealt.",
         "icon_nid": "skillicons102724(1)",
         "icon_index": [
             1,
@@ -32,10 +32,6 @@
             [
                 "ability_indicator",
                 null
-            ],
-            [
-                "aura_opacity",
-                0.7
             ]
         ]
     }

@@ -2,7 +2,7 @@
     {
         "nid": "Bangasa_Bombing_Run",
         "name": "Bangasa Bombing Run",
-        "desc": "Attacks in a 2 radius blast, then pivots 2 tiles over the target. ",
+        "desc": "Blast 2, then Pivot 2. ",
         "icon_nid": "moreskillicons",
         "icon_index": [
             0,

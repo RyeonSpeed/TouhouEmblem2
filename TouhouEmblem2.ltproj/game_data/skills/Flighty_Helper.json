@@ -2,7 +2,7 @@
     {
         "nid": "Flighty_Helper",
         "name": "Flighty Helper",
-        "desc": "Unit will ignore rescue penalties and can move after attacking, but only when above 50% HP.",
+        "desc": "When unit >50% HP: Unit will ignore rescue penalties and can move after attacking.",
         "icon_nid": "skillicons102724(2)",
         "icon_index": [
             0,

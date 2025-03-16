@@ -2,7 +2,7 @@
     {
         "nid": "Stoneskinned",
         "name": "Stoneskinned",
-        "desc": "Halves damage when fighting a unit with a weapon with only 1 range. Doubles damage if fighting a unit with a weapon with a range greater than 1.",
+        "desc": "When enemy weapon can only strike from 1 Range: halve damage taken. Otherwise, take double damage taken. ",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,

@@ -2,7 +2,7 @@
     {
         "nid": "Infest",
         "name": "Infest",
-        "desc": "After attack, infests a unit and gives them -3 Mov for 2 turns. Unit can also move after attacking.",
+        "desc": "After combat: Applies \"Infested\" to enemy for 2 turns. Can move after attacking.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             1,

@@ -2,7 +2,7 @@
     {
         "nid": "Lethal_Life_Flow",
         "name": "Lethal Life Flow",
-        "desc": "Whenever user is hit, gain one charge. Allows user to kill a single non-boss enemy.",
+        "desc": "Whenever user is hit: gain one charge. Allows user to kill a single non-boss enemy.",
         "icon_nid": "skillicons102524(1)",
         "icon_index": [
             1,

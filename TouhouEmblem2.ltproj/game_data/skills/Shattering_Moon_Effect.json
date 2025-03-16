@@ -2,7 +2,7 @@
     {
         "nid": "Shattering_Moon_Effect",
         "name": "Shattering Moon",
-        "desc": "Adds weapon weight to damage.",
+        "desc": "Adds WT to damage.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             3,

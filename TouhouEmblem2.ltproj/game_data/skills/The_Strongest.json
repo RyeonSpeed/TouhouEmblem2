@@ -2,7 +2,7 @@
     {
         "nid": "The_Strongest",
         "name": "The Strongest!",
-        "desc": "For every point of Str, +2 Hit.",
+        "desc": "Per 1 STR, +2 HIT.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             0,

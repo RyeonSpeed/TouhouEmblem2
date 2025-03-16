@@ -2,7 +2,7 @@
     {
         "nid": "Star_Laser",
         "name": "Star Laser",
-        "desc": "Attacks up to 3 enemies in a row. Can't Double.",
+        "desc": "Strikethrough 3. No Double.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             2,

@@ -2,7 +2,7 @@
     {
         "nid": "Master_Pharmacist",
         "name": "Master Pharmacist",
-        "desc": "User does not expend durability when using staves.",
+        "desc": "If equipped with Staff: User does not expend durability.",
         "icon_nid": "skillicons102724",
         "icon_index": [
             0,

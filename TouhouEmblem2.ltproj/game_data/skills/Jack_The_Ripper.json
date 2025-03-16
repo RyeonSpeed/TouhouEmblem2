@@ -2,7 +2,7 @@
     {
         "nid": "Jack_The_Ripper",
         "name": "Jack The Ripper",
-        "desc": "User cannot be countered, but also cannot move and attack in the same action.",
+        "desc": "If user kills target while equipped with buff \"Luna Dial\", inflicts \"Bleed\" on all enemies within a 2 tile radius of target. User may also act again after. May only activate the 2nd effect of \"Jack The Ripper\" once per turn.",
         "icon_nid": "skillicons102524(1)",
         "icon_index": [
             0,

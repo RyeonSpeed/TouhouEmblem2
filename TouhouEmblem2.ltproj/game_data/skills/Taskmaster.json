@@ -2,7 +2,7 @@
     {
         "nid": "Taskmaster",
         "name": "Taskmaster",
-        "desc": "Increases the Hit of all units within 2 tiles by +10.",
+        "desc": "Allies within 2 tiles: +10 HIT.",
         "icon_nid": "skillicons3",
         "icon_index": [
             0,

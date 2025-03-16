@@ -2,7 +2,7 @@
     {
         "nid": "Homing_Shot",
         "name": "Homing Shot",
-        "desc": "Launches an attack that does 1.5x damage, +100 hit.",
+        "desc": "1.5x DMG, +100 HIT.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             1,

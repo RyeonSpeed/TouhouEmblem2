@@ -2,7 +2,7 @@
     {
         "nid": "Immortal_Red_Soul_1",
         "name": "Immortal Red Soul",
-        "desc": "Locked to 1 Rng. 5 HP battle recoil. +1 Dmg/4 HP lost. Heal HP = Mag each turn. May revive once.",
+        "desc": "Range 1. 1/8 Max HP Recoil. +1 Dmg/4 HP lost. Heal HP = Mag each turn. When defeated, Mokou will revive the next turn, +20 Fatigue.",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,

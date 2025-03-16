@@ -2,7 +2,7 @@
     {
         "nid": "Flood_of_Frost_Art",
         "name": "Flood of Frost",
-        "desc": "Applies Frozen on the enemy for 2 turns. ",
+        "desc": "Splash 1. Applies Frozen to all enemies hit for 2 turns. Applies +10 RES to user for 2 turns. Cannot Double.",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,

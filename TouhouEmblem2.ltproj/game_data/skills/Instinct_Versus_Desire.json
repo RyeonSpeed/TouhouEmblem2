@@ -2,7 +2,7 @@
     {
         "nid": "Instinct_Versus_Desire",
         "name": "Instinct Versus Desire",
-        "desc": "+5% Mag and -5% Str growth for every tome in user's inventory. +5% Str and -5% Mag for every sword/lance/axe in unit's inventory.",
+        "desc": "+5% MAG and -5% STR growth for every Anima/Light/Dark in user's inventory. +5% STR and -5% MAG for every Sword/Axe/Lance in user's inventory.",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,

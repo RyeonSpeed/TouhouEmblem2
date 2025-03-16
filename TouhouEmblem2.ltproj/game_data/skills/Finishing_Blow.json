@@ -2,7 +2,7 @@
     {
         "nid": "Finishing_Blow",
         "name": "Finishing Blow",
-        "desc": "Against enemies < 50% HP, user deals +20% Dmg/+20% Crit, and restores 50% of damage dealt.",
+        "desc": "If enemy < 50% HP, +20% DMG/+20 Crit/Drain 50% damage.",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,
