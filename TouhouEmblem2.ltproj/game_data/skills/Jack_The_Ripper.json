@@ -10,12 +10,12 @@
         ],
         "components": [
             [
-                "item_override",
-                "new"
+                "event_after_combat",
+                "Global JackTheRipper"
             ],
             [
-                "time",
-                1
+                "ability_indicator",
+                null
             ]
         ]
     }

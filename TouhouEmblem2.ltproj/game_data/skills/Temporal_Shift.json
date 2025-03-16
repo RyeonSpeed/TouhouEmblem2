@@ -2,7 +2,7 @@
     {
         "nid": "Temporal_Shift",
         "name": "Temporal Shift",
-        "desc": "Applies \"Luna Dial\" onto user for 1 turn. All units within a 3 tile radius of user receive -4 SPD/-5 MOV.",
+        "desc": "Applies \"Luna Dial\" onto user until end of turn. All units within a 3 tile radius of user receive -4 SPD/-5 MOV. Refreshes unit on use.",
         "icon_nid": "skillicons102524",
         "icon_index": [
             0,
@@ -10,11 +10,23 @@
         ],
         "components": [
             [
-                "event_after_initiated_combat",
-                "Global LunaDial"
+                "ability",
+                "Temporal_Shift"
             ],
             [
-                "ability_indicator",
+                "build_charge_start_charged",
+                7
+            ],
+            [
+                "combat_charge_increase",
+                1
+            ],
+            [
+                "upkeep_charge_increase",
+                1
+            ],
+            [
+                "combat_art_indicator",
                 null
             ]
         ]

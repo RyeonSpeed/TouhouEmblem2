@@ -10,12 +10,32 @@
         ],
         "components": [
             [
-                "build_charge",
-                5
+                "aura",
+                "Luna_Dial_1"
+            ],
+            [
+                "aura_range",
+                3
+            ],
+            [
+                "aura_target",
+                "unit"
+            ],
+            [
+                "show_aura",
+                [
+                    200,
+                    188,
+                    194
+                ]
             ],
             [
                 "ability_indicator",
                 null
+            ],
+            [
+                "end_time",
+                1
             ]
         ]
     }
