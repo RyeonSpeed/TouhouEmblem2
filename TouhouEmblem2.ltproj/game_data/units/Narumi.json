@@ -22,7 +22,7 @@
         "growths": {
             "HP": 65,
             "STR": 0,
-            "MAG": 0,
+            "MAG": 10,
             "SKL": -10,
             "SPD": 15,
             "LCK": 25,

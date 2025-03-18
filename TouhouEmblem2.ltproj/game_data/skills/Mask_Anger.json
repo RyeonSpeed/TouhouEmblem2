@@ -2,7 +2,7 @@
     {
         "nid": "Mask_Anger",
         "name": "1000 Masks: Anger",
-        "desc": "Grants +4 damage, +4 AS on initiation, -5 HP recoil. Mask will shift at the start of next turn.",
+        "desc": "+3 DMG, -3 DMG taken, -15 AVOID, Cannot Double. Takes half damage on follow up attacks. Mask will shift at the start of next turn.",
         "icon_nid": "skillicons4",
         "icon_index": [
             0,
@@ -10,19 +10,27 @@
         ],
         "components": [
             [
-                "recoil",
-                5
+                "ability_indicator",
+                null
             ],
             [
                 "damage",
-                4
+                3
             ],
             [
-                "attack_speed",
-                4
+                "resist",
+                3
             ],
             [
-                "ability_indicator",
+                "resist_follow_up",
+                0.5
+            ],
+            [
+                "avoid",
+                -15
+            ],
+            [
+                "cannot_double",
                 null
             ]
         ]

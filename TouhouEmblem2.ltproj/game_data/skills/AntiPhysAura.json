@@ -30,12 +30,12 @@
                 ]
             ],
             [
-                "aura_opacity",
-                0.7
-            ],
-            [
                 "ability_indicator",
                 null
+            ],
+            [
+                "aura_opacity",
+                0.7
             ]
         ]
     }

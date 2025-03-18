@@ -2,7 +2,7 @@
     {
         "nid": "Pivot",
         "name": "Pivot",
-        "desc": "Pivots 1 tile over ally.",
+        "desc": "Pivots 1 tile over ally. User may attack but not move after use.",
         "icon_nid": "skillicons3",
         "icon_index": [
             0,

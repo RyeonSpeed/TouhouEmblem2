@@ -2,7 +2,7 @@
     {
         "nid": "Mask_Sad",
         "name": "1000 Masks: Sadness",
-        "desc": "Unit gains +4 Def/+4 Res but -4 Str/-2 Mag/-2 Spd. Mask will shift at the start of next turn.",
+        "desc": "Unit gains +8 DEF/+8 RES but -4 STR/-2 MAG/-2 SPD. Mask will shift at the start of next turn.",
         "icon_nid": "skillicons4",
         "icon_index": [
             0,
@@ -22,11 +22,11 @@
                     ],
                     [
                         "DEF",
-                        4
+                        8
                     ],
                     [
                         "HP",
-                        4
+                        8
                     ],
                     [
                         "MAG",

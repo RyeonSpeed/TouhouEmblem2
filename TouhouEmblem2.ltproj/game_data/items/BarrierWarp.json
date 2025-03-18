@@ -19,7 +19,7 @@
             ],
             [
                 "max_range",
-                3
+                5
             ],
             [
                 "target_enemy",
@@ -28,6 +28,10 @@
             [
                 "eval_target_restrict_2",
                 "target.get_ai() != 'Guard' "
+            ],
+            [
+                "attack_after_combat",
+                null
             ]
         ]
     }

@@ -13,6 +13,8 @@
             "trigger_script;Housekeeping1",
             "trigger_script;Housekeeping2",
             "autolevel_to;Youmu_Boss;14;fixed;no_warn",
+            "autolevel_to;Merlin;10;fixed;no_warn",
+            "autolevel_to;Reimu;13;fixed;no_warn",
             "prep;1;Sealed Gods",
             ""
         ],

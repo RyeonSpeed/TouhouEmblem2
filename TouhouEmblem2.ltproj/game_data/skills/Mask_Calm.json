@@ -2,7 +2,7 @@
     {
         "nid": "Mask_Calm",
         "name": "1000 Masks: Calm",
-        "desc": "Restores 20% of Health each turn. Mask will shift at the start of next turn.",
+        "desc": "+2 MOV/+4 STR/+4 SPD. Mask will shift at the start of next turn.",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,
@@ -10,12 +10,25 @@
         ],
         "components": [
             [
-                "regeneration",
-                0.2
-            ],
-            [
                 "ability_indicator",
                 null
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "MOV",
+                        2
+                    ],
+                    [
+                        "STR",
+                        4
+                    ],
+                    [
+                        "SPD",
+                        4
+                    ]
+                ]
             ]
         ]
     }
