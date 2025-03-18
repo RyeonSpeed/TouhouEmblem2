@@ -2,7 +2,7 @@
     {
         "nid": "Kusanagi3",
         "name": "Kusanagi",
-        "desc": "Prf Rinnosuke. The legendary sword of Japan.\n+6 Spd, +4 Def, +4 Res.",
+        "desc": "Prf Rinnosuke. The legendary sword of Japan. The blade calls for 50 souls...\n+6 Spd, +4 Def, +4 Res. +20% STR/+15% SKL/+20 SPD/10% DEF/10% RES growth.",
         "icon_nid": "the2icons",
         "icon_index": [
             3,
@@ -82,6 +82,13 @@
                         "RES",
                         4
                     ]
+                ]
+            ],
+            [
+                "multi_status_on_equip",
+                [
+                    "Kusanagi_Gold",
+                    "KusanagiGrowths_2"
                 ]
             ]
         ]

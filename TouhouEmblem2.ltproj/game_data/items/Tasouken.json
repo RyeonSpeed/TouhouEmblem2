@@ -2,7 +2,7 @@
     {
         "nid": "Tasouken",
         "name": "Tasouken",
-        "desc": "Prf Rinnosuke. The legendary sword of Japan, blessed by the heavens to cleave clouds.\n+8 Spd, +6 Def, +6 Res. Cannot miss. Anti-Fliers, Anti-Monstrous.",
+        "desc": "Prf Rinnosuke. The legendary sword of Japan, blessed by the heavens to cleave clouds.\n+8 Spd, +6 Def, +6 Res. Cannot miss. Anti-Fliers, Anti-Monstrous. +30% to all growths.",
         "icon_nid": "the2icons",
         "icon_index": [
             3,
@@ -92,6 +92,13 @@
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "multi_status_on_hold",
+                [
+                    "Kusanagi_Gold",
+                    "KusanagiGrowths_3"
+                ]
             ]
         ]
     }
