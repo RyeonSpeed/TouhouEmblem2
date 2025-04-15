@@ -51,3 +51,65 @@ class AllyBlastAOEExceptUnit(ItemComponent):
         value = equations.parser.get(self.value, unit)
         empowered_splash = skill_system.empower_splash(unit)
         return value + 1 + empowered_splash
+        
+class PropertyChangeExpression(ItemComponent):
+    nid = 'property_change_expression'
+    desc = "Adds amount to an item's component's value. Do not use unless you know what you're doing."
+    tag = ItemTags.WEAPON
+    
+    expose = ComponentType.NewMultipleOptions
+
+    options = {
+        'weapon_property': ComponentType.String,
+        'modify_expression': ComponentType.String,
+    }
+    
+    def __init__(self, value=None):
+        self.value = {
+            'weapon_property': "damage",
+            'modify_expression': "0",
+        }
+        if value:
+            self.value.update(value)
+            
+    def init(self, item):
+        item.data['target_item'] = None
+
+    def _target_restrict(self, defender):
+        # Unit has item that can be buffed
+        for item in defender.items:
+            if self.item_restrict(None, None, defender, item):
+                return True
+        return False
+
+    def target_restrict(self, unit, item, def_pos, splash) -> bool:
+        # Unit has item that can be buffed
+        defender = game.board.get_unit(def_pos)
+        if not defender:
+            return False
+        return self._target_restrict(defender)
+
+    def simple_target_restrict(self, unit, item):
+        return self._target_restrict(unit)
+
+    def targets_items(self, unit, item) -> bool:
+        return True
+
+    def item_restrict(self, unit, item, defender, def_item) -> bool:
+        from app.engine import evaluate
+        if def_item.weapon:
+            return True
+        return False
+
+    def on_hit(self, actions, playback, unit, item, target, item2, target_pos, mode, attack_info):
+        target_item = item.data.get('target_item')
+        if target_item:
+            from app.engine import evaluate
+            try:
+                action.do(action.ModifyItemComponent(target_item, self.value['weapon_property'], int(evaluate.evaluate(self.value['modify_expression'], target)), None, True))
+            except Exception as e:
+                print("Fuck you.")
+            
+
+    def end_combat(self, playback, unit, item, target, item2, mode):
+        item.data['target_item'] = None

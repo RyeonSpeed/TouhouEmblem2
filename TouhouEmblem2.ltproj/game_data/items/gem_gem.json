@@ -1,0 +1,29 @@
+[
+    {
+        "nid": "gem_gem",
+        "name": "fuck u",
+        "desc": "bitchass mechanic",
+        "icon_nid": "Neutral",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "usable",
+                null
+            ],
+            [
+                "target_ally",
+                null
+            ],
+            [
+                "property_change_expression",
+                {
+                    "weapon_property": "damage",
+                    "modify_expression": "5"
+                }
+            ]
+        ]
+    }
+]
