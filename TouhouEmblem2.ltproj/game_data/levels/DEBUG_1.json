@@ -813,6 +813,90 @@
                 "generic": true
             },
             {
+                "nid": "110",
+                "variant": null,
+                "level": 1,
+                "klass": "Citizen",
+                "faction": "Youkai",
+                "starting_items": [],
+                "starting_skills": [
+                    "Bleeding"
+                ],
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    15,
+                    13
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "111",
+                "variant": null,
+                "level": 1,
+                "klass": "Citizen",
+                "faction": "Youkai",
+                "starting_items": [],
+                "starting_skills": [
+                    "Bleeding"
+                ],
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    16,
+                    12
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "119",
+                "variant": null,
+                "level": 1,
+                "klass": "Citizen",
+                "faction": "Youkai",
+                "starting_items": [],
+                "starting_skills": [
+                    "Bleeding"
+                ],
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    17,
+                    13
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "120",
+                "variant": null,
+                "level": 1,
+                "klass": "Citizen",
+                "faction": "Youkai",
+                "starting_items": [],
+                "starting_skills": [
+                    "Bleeding"
+                ],
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    18,
+                    14
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
                 "nid": "107",
                 "variant": null,
                 "level": 1,
@@ -842,6 +926,32 @@
                 "starting_position": [
                     6,
                     13
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Youmu",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    11,
+                    16
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Kogasa",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    13,
+                    14
                 ],
                 "starting_traveler": null,
                 "generic": false
