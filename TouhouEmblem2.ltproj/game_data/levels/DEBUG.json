@@ -27,62 +27,52 @@
         "tags": [],
         "units": [
             {
-                "nid": "Wriggle",
+                "nid": "Rinnosuke",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    16,
-                    16
+                    8,
+                    14
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
-                "nid": "104",
+                "nid": "101",
                 "variant": null,
-                "level": 3,
-                "klass": "Archer",
+                "level": 1,
+                "klass": "Citizen",
                 "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Iron_Bow",
-                        false
-                    ]
-                ],
+                "starting_items": [],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Guard",
+                "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    16,
-                    18
+                    10,
+                    14
                 ],
                 "starting_traveler": null,
                 "generic": true
             },
             {
                 "nid": "102",
-                "variant": "Heads",
+                "variant": null,
                 "level": 1,
-                "klass": "Shaman",
-                "faction": "Afterimage",
-                "starting_items": [
-                    [
-                        "Flux",
-                        false
-                    ]
-                ],
+                "klass": "Citizen",
+                "faction": "Youkai",
+                "starting_items": [],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Guard",
+                "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    16,
-                    19
+                    11,
+                    14
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -93,126 +83,72 @@
                 "level": 1,
                 "klass": "Citizen",
                 "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Debug_Crit",
-                        false
-                    ],
-                    [
-                        "Killer_Axe",
-                        false
-                    ]
-                ],
+                "starting_items": [],
                 "starting_skills": [],
-                "team": "player",
+                "team": "enemy",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    16,
-                    15
+                    12,
+                    14
                 ],
                 "starting_traveler": null,
                 "generic": true
             },
             {
-                "nid": "Remilia",
-                "team": "player",
+                "nid": "104",
+                "variant": null,
+                "level": 1,
+                "klass": "Citizen",
+                "faction": "Youkai",
+                "starting_items": [],
+                "starting_skills": [],
+                "team": "enemy",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    17,
-                    15
+                    13,
+                    14
                 ],
                 "starting_traveler": null,
-                "generic": false
+                "generic": true
             },
             {
-                "nid": "Sunny",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    20,
-                    18
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Reisen_Boss",
+                "nid": "105",
+                "variant": null,
+                "level": 1,
+                "klass": "Citizen",
+                "faction": "Youkai",
+                "starting_items": [],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
                     14,
-                    17
+                    14
                 ],
                 "starting_traveler": null,
-                "generic": false
+                "generic": true
             },
             {
-                "nid": "Merlin",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    14,
-                    16
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Lunasa",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    13,
-                    17
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Mokou",
-                "team": "player",
+                "nid": "106",
+                "variant": null,
+                "level": 1,
+                "klass": "Citizen",
+                "faction": "Youkai",
+                "starting_items": [],
+                "starting_skills": [],
+                "team": "enemy",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
                     15,
-                    17
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "101",
-                "variant": null,
-                "level": 1,
-                "klass": "Mage",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Torch_Tome",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    18,
-                    16
+                    14
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -255,6 +191,11 @@
             }
         ],
         "unit_groups": [],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

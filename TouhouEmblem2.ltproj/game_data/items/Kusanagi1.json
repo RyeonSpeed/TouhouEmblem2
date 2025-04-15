@@ -2,7 +2,7 @@
     {
         "nid": "Kusanagi1",
         "name": "Kusanagi?",
-        "desc": "\u2606Rinnosuke. Purportedly the legendary sword of Japan. Getting a bit stronger. The blade calls for 15 souls...\n+2 SPD. +10% STR/+10 SPD growth.",
+        "desc": "\u2606Rinnosuke. Purportedly the legendary sword of Japan. Getting stronger. The blade calls for 15 souls...\n+2 SPD. +10% STR/+10% SPD growth.\nKills: {v:KusanagiKills}",
         "icon_nid": "the2icons",
         "icon_index": [
             3,
@@ -27,7 +27,7 @@
             ],
             [
                 "damage",
-                6
+                7
             ],
             [
                 "hit",
@@ -86,6 +86,10 @@
                     "Kusanagi_Gold",
                     "KusanagiGrowths"
                 ]
+            ],
+            [
+                "event_after_combat_even_miss",
+                "Global KusanagiKills"
             ]
         ]
     }

@@ -99,6 +99,10 @@
                     "Kusanagi_Gold",
                     "KusanagiGrowths_3"
                 ]
+            ],
+            [
+                "event_after_combat_even_miss",
+                "Global KusanagiKills"
             ]
         ]
     }
