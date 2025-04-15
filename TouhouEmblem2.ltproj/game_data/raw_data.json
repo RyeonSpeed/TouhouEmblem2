@@ -195,7 +195,7 @@
                 "Name": "Taiga",
                 "Cost": "750",
                 "Description": "Various nameless Gensokyo mercenaries.",
-                "Level": ""
+                "Level": "11"
             },
             {
                 "nid": "Marple",
@@ -203,7 +203,23 @@
                 "Name": "Marple",
                 "Cost": "750",
                 "Description": "Various nameless Gensokyo mercenaries.",
-                "Level": ""
+                "Level": "11"
+            },
+            {
+                "nid": "Sayuri",
+                "Class": "Vagrant_S",
+                "Name": "Sayuri",
+                "Cost": "750",
+                "Description": "Various nameless Gensokyo mercenaries.",
+                "Level": "12"
+            },
+            {
+                "nid": "Pomona",
+                "Class": "Peg_Rider",
+                "Name": "Pomona",
+                "Cost": "750",
+                "Description": "Various nameless Gensokyo mercenaries.",
+                "Level": "12"
             }
         ]
     },

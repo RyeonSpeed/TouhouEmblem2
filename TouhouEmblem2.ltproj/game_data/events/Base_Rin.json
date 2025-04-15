@@ -54,7 +54,7 @@
             "flicker_cursor;Rin",
             "remove_unit;Rin;warp",
             "trigger_script;Global BullshitRinEvent",
-            "add_unit;Rin;12,11;warp;closest",
+            "add_unit;Rin;9,22;warp;closest",
             "remove_talk;Reimu;Rin",
             "multi_remove_portrait;Reimu;Rin",
             "sound;Item",

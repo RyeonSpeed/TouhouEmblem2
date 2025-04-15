@@ -2,7 +2,7 @@
     {
         "nid": "Stone_Bowl",
         "name": "Stone Bowl",
-        "desc": "One of the Five Impossible Requests. Grants Stoneskinned. Only one accessory can be equipped at a time.",
+        "desc": "One of the Five Impossible Requests. Grants Stoneskinned. \nOnly one accessory can be equipped at a time.",
         "icon_nid": "Stone_Bowl",
         "icon_index": [
             0,

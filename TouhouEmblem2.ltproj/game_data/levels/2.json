@@ -21,7 +21,7 @@
             "win": "Defeat all enemies",
             "loss": "Reimu or Marisa dies"
         },
-        "roam": true,
+        "roam": false,
         "roam_unit": "Reimu",
         "go_to_overworld": false,
         "should_record": true,

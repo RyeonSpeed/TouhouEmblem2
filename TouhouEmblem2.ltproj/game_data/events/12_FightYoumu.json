@@ -1,0 +1,15 @@
+[
+    {
+        "name": "FightYoumu",
+        "trigger": "combat_start",
+        "level_nid": "12",
+        "condition": "unit.nid == 'Youmu_Boss'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            ""
+        ],
+        "nid": "12 FightYoumu"
+    }
+]

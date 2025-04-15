@@ -2,7 +2,7 @@
     {
         "nid": "Capricious_Cheerleader",
         "name": "Capricious Cheerleader",
-        "desc": "If user < 50% HP: Cannot use this skill. User can \"Rally\", giving adjacent units +2 STR/MAG/SKLl/SPD/DEF/RES for one turn. ",
+        "desc": "If user < 50% HP: Cannot use this skill. User can \"Rally\", giving adjacent units \n+2 STR/MAG/SKL/SPD/DEF/RES for one turn. ",
         "icon_nid": "skillicons102724(2)",
         "icon_index": [
             0,

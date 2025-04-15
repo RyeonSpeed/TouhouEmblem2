@@ -955,6 +955,19 @@
                 ],
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "Rumia_Boss",
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    9,
+                    16
+                ],
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [

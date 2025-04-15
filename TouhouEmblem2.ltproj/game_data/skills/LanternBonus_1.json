@@ -1,6 +1,6 @@
 [
     {
-        "nid": "LanternBonus",
+        "nid": "LanternBonus_1",
         "name": "LanternBonus",
         "desc": "",
         "icon_nid": null,
@@ -10,8 +10,12 @@
         ],
         "components": [
             [
-                "ability",
-                "TorchBonus"
+                "sight_range_bonus",
+                3
+            ],
+            [
+                "hit",
+                10
             ],
             [
                 "hidden",
