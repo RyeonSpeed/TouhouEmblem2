@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Swift_Jab_Effect",
+        "name": "Swift Jab",
+        "desc": "+5 AS, -15% Hit. Lances only.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            2,
+            0
+        ],
+        "components": [
+            [
+                "hit",
+                -15
+            ],
+            [
+                "attack_speed",
+                5
+            ]
+        ]
+    }
+]

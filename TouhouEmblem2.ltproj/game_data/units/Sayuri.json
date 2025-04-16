@@ -49,7 +49,12 @@
                 false
             ]
         ],
-        "learned_skills": [],
+        "learned_skills": [
+            [
+                1,
+                "Crush_Blade"
+            ]
+        ],
         "unit_notes": [],
         "wexp_gain": {
             "Light": [

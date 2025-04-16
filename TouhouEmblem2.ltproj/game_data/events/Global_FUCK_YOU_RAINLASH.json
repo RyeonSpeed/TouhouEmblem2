@@ -1,0 +1,39 @@
+[
+    {
+        "name": "FUCK YOU RAINLASH",
+        "trigger": null,
+        "level_nid": null,
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "game_var;item_exception_list;['Tabula_Rasa']",
+            "for;PARTY_UNIT;[u.nid for u in game.get_all_units_in_party()]",
+            "    for;SKILL_ID;[s.nid for s in u('{PARTY_UNIT}').skills if not s.components.get('global')]",
+            "        remove_skill;{PARTY_UNIT};{SKILL_ID};no_banner",
+            "        if;not has_skill('{PARTY_UNIT}', '{SKILL_ID}')",
+            "            give_skill;{PARTY_UNIT};{SKILL_ID};no_banner",
+            "        end",
+            "    endf",
+            "    for;ITEM_ID;[i.uid for i in u('{PARTY_UNIT}').items if i.nid not in v('item_exception_list')]",
+            "        level_var;temp_item;game.get_item({ITEM_ID}).nid",
+            "        #check uses",
+            "        level_var;temp_uses;game.get_item({ITEM_ID}).data.get('c_uses')",
+            "        if;v('temp_uses') is None",
+            "            level_var;temp_uses;game.get_item({ITEM_ID}).data.get('uses')",
+            "        end",
+            "        remove_item;{PARTY_UNIT};{ITEM_ID};;no_banner",
+            "        give_item;{PARTY_UNIT};{v:temp_item};;no_banner",
+            "        level_var;temp_latest;[i.uid for i in u('{PARTY_UNIT}').items if i.uid == max([j.uid for j in u('{PARTY_UNIT}').items])][0]",
+            "        #set uses",
+            "        if;v('temp_uses') is not None",
+            "            set_item_uses;{PARTY_UNIT};{v:temp_latest};{v:temp_uses}",
+            "        end",
+            "    endf",
+            "    give_skill;{PARTY_UNIT};Weight_Addendum;;no_banner",
+            "endf"
+        ],
+        "nid": "Global FUCK YOU RAINLASH"
+    }
+]

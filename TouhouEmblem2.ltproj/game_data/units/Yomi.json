@@ -49,7 +49,12 @@
                 false
             ]
         ],
-        "learned_skills": [],
+        "learned_skills": [
+            [
+                1,
+                "Fleetfoot_Whack"
+            ]
+        ],
         "unit_notes": [],
         "wexp_gain": {
             "Light": [

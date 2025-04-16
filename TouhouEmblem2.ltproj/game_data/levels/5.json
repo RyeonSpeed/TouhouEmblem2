@@ -2086,6 +2086,40 @@
                 "interrupt_move": false
             },
             {
+                "nid": "7_6",
+                "region_type": "formation",
+                "position": [
+                    2,
+                    32
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "",
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "7_7",
+                "region_type": "formation",
+                "position": [
+                    22,
+                    31
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "",
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
                 "nid": "WarpA",
                 "region_type": "event",
                 "position": [

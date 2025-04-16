@@ -1,0 +1,23 @@
+[
+    {
+        "nid": "Lightspeed_Flash_Effect",
+        "name": "Lightspeed Flash",
+        "desc": "+5 Speed. Swords only.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            1,
+            0
+        ],
+        "components": [
+            [
+                "stat_change",
+                [
+                    [
+                        "SPD",
+                        5
+                    ]
+                ]
+            ]
+        ]
+    }
+]

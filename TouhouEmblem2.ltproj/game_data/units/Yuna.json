@@ -49,7 +49,12 @@
                 false
             ]
         ],
-        "learned_skills": [],
+        "learned_skills": [
+            [
+                1,
+                "Power_Shot"
+            ]
+        ],
         "unit_notes": [],
         "wexp_gain": {
             "Bow": [

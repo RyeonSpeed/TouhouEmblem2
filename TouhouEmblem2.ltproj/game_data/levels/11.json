@@ -2166,6 +2166,40 @@
                 "interrupt_move": false
             },
             {
+                "nid": "F_10",
+                "region_type": "formation",
+                "position": [
+                    9,
+                    27
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": null,
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "F_11",
+                "region_type": "formation",
+                "position": [
+                    3,
+                    27
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": null,
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
                 "nid": "House",
                 "region_type": "event",
                 "position": [

@@ -2,7 +2,7 @@
     {
         "nid": "Fleetfoot_Whack",
         "name": "Fleetfoot Whack",
-        "desc": "When initiating combat, +3 Spd. Axes only.",
+        "desc": "+3 Spd. Axes only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             3,
@@ -27,7 +27,7 @@
             ],
             [
                 "combat_art",
-                "Fleetfoot_Whack_1"
+                "Fleetfoot_Whack_Effect"
             ],
             [
                 "upkeep_damage",

@@ -2,7 +2,7 @@
     {
         "nid": "Fortify",
         "name": "Fortify",
-        "desc": "Restores (User's Magic + 10) HP to all allies within range.",
+        "desc": "Restores (User's Magic + 20) HP to all allies within range.",
         "icon_nid": "Staff",
         "icon_index": [
             0,
@@ -58,7 +58,7 @@
             ],
             [
                 "equation_heal",
-                "HEAL"
+                "MEND"
             ],
             [
                 "fatigue",

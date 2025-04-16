@@ -1,0 +1,38 @@
+[
+    {
+        "nid": "Chopping_Smash",
+        "name": "Chopping Smash",
+        "desc": "+5 Dmg, -15% Hit. Axes only.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            3,
+            0
+        ],
+        "components": [
+            [
+                "build_charge_start_charged",
+                4
+            ],
+            [
+                "combat_charge_increase",
+                1
+            ],
+            [
+                "allowed_weapons",
+                "item_system.weapon_type(unit, item) in ['Axe']"
+            ],
+            [
+                "combat_art_indicator",
+                null
+            ],
+            [
+                "combat_art",
+                "Chopping_Smash_Effect"
+            ],
+            [
+                "upkeep_damage",
+                1
+            ]
+        ]
+    }
+]

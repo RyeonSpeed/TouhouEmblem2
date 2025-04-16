@@ -13,7 +13,7 @@
             "add_item_to_multiitem;{unit1};Tabula_Rasa;{v:stolen_shit};no_duplicate",
             "game_var;stolen_shit;get_subitem(unit, 'Tabula_Rasa', v('stolen_shit')).uid",
             "modify_item_component;{unit1};{v:stolen_shit};weapon_type;'Anima';recursive",
-            "modify_item_component;{unit1};{v:stolen_shit};weapon_rank;'E';recursive",
+            "modify_item_component;{unit1};{v:stolen_shit};weapon_rank;'1';recursive",
             "remove_item_component;{unit1};{v:stolen_shit};c_uses;recursive",
             "remove_item_component;{unit1};{v:stolen_shit};prf_unit;recursive",
             "remove_item_component;{unit1};{v:stolen_shit};prf_class;recursive",

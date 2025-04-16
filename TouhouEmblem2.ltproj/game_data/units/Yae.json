@@ -49,7 +49,12 @@
                 false
             ]
         ],
-        "learned_skills": [],
+        "learned_skills": [
+            [
+                1,
+                "Fulmination_Infusion"
+            ]
+        ],
         "unit_notes": [],
         "wexp_gain": {
             "Sword": [

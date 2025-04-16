@@ -22,6 +22,7 @@
             "add_lore;Combat_Arts",
             "add_lore;Stealing",
             "add_lore;Reimu",
+            "trigger_script;FUCK YOU RAINLASH",
             "if;not v('hireable_guys') ",
             "game_var;hireable_guys;['Miki','Tomomi','Konami','Kabin','Yae','Amane']",
             "else",

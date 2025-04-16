@@ -1,0 +1,46 @@
+[
+    {
+        "nid": "Wind_Shear",
+        "name": "Wind Shear",
+        "desc": "Unit takes 3 damage per turn and has -10 Hit. Stacks up to 3 times. Lasts 3 turns.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            1,
+            1
+        ],
+        "components": [
+            [
+                "upkeep_damage",
+                3
+            ],
+            [
+                "negative",
+                null
+            ],
+            [
+                "time",
+                3
+            ],
+            [
+                "unit_flickering_tint",
+                [
+                    85,
+                    255,
+                    127
+                ]
+            ],
+            [
+                "stack",
+                3
+            ],
+            [
+                "lost_on_end_chapter",
+                null
+            ],
+            [
+                "hit",
+                -10
+            ]
+        ]
+    }
+]

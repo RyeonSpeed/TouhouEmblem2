@@ -256,77 +256,77 @@
         "name": "Letty",
         "title": "Letty",
         "category": "Character",
-        "text": "Name: Letty Whiterock{br}Working Hours: December - February{br}\n\n\n\nLetty is a very strange character, scaling off of a weird mix of Mag and Res. Her \"Flood of Frost\" combat art allows her to slow down enemies and boost her own damage at the same time (indirectly through the Res boost). \nLetty does absolutely wonderfully against magic users, but she might flounder a bit if she's caught on the defense against physical units."
+        "text": "Name: Letty Whiterock{br}Working Hours: December - February{br}\nLetty is a very strange character, scaling off of a weird mix of Mag and Res. Her \"Flood of Frost\" combat art allows her to slow down enemies and boost her own damage at the same time (indirectly through the Res boost). \nLetty does absolutely wonderfully against magic users, but she might flounder a bit if she's caught on the defense against physical units."
     },
     {
         "nid": "Kokoro",
         "name": "Kokoro",
         "title": "Kokoro",
         "category": "Character",
-        "text": "Name: Hata no Kokoro{br}Current expression: Happy (I believe?){br}\n\nA local menreiki dancer who likes performing in the village. She is still learning how to emote on her own, so she depends on her masks in order to supplement the emoting process. Attempting to either break or steal one of these masks is not recommended, as it will cause Kokoro to enter into a berserk state. This behavior was exhibited during a certain incident involving a mask of hope [Refer to Issue 128 of the Gensokyo Chronicle].\n\nHopefully, no one would be foolish enough to attempt this again.\n\nKokoro is a very difficult character to play, as her main gimmick is shifting between different masks each turn, each giving wildly different effects. However, if you play to her instability correctly, you will be rewarded with a very effective unit."
+        "text": "Name: Hata no Kokoro{br}Current expression: Happy (I believe?){br}\nA local menreiki dancer who likes performing in the village. She is still learning how to emote on her own, so she depends on her masks in order to supplement the emoting process. Attempting to either break or steal one of these masks is not recommended, as it will cause Kokoro to enter into a berserk state. This behavior was exhibited during a certain incident involving a mask of hope [Refer to Issue 128 of the Gensokyo Chronicle].\nHopefully, no one would be foolish enough to attempt this again.\n\nKokoro is a very difficult character to play, as her main gimmick is shifting between different masks each turn, each giving wildly different effects. However, if you play to her instability correctly, you will be rewarded with a very effective unit."
     },
     {
         "nid": "Rumia",
         "name": "Rumia",
         "title": "Rumia",
         "category": "Character",
-        "text": "Name: Rumia{br}Daily meal intake: 0{br}A simple-minded youkai of darkness. She is supposed to eat humans, but she is too lazy and weak-willed to actually hunt anyone. Her powers of darkness are supposedly pretty strong, but they\u2019re mostly wasted on their user.\n\n\n\nRumia is a very high risk high reward character that can play into your cards well if you use her correctly. Her combat art, \"Apparitions That Stalk The Night\", invokes heavy fog over the battlefield, so thick that most units can only see 1 tile ahead. \nHowever, with that comes a huge stat bonus, including a coveted 1 movement buff. If you can work around the fog of war, Rumia can be a big boon for your army."
+        "text": "Name: Rumia{br}Daily meal intake: 0{br}A simple-minded youkai of darkness. She is supposed to eat humans, but she is too lazy and weak-willed to actually hunt anyone. Her powers of darkness are supposedly pretty strong, but they\u2019re mostly wasted on their user.\nRumia is a very high risk high reward character that can play into your cards well if you use her correctly. Her combat art, \"Apparitions That Stalk The Night\", invokes heavy fog over the battlefield, so thick that most units can only see 1 tile ahead. \nHowever, with that comes a huge stat bonus, including a coveted 1 movement buff. If you can work around the fog of war, Rumia can be a big boon for your army."
     },
     {
         "nid": "Mystia",
         "name": "Mystia",
         "title": "Mystia",
         "category": "Character",
-        "text": "Name: Mystia Lorelei{br}Tonight's profit: 5249 Yen{br}A night sparrow youkai who is the owner of an izakaya. She makes profit by blinding people and claiming lamprey to be the cure. Quite funny that such a birdbrain could come up with a trick such as this. She also likes to sing in the dark.\n\n\n\nMystia is a dancer character, and for those of you not in the know, dancers are EXTREMELY efficient. Giving another unit a free turn is like having two of that unit.\nHer high mobility also allows her to reach pretty much any spot you need. Definitely a recommended pick no matter what team you're running."
+        "text": "Name: Mystia Lorelei{br}Tonight's profit: 5249 Yen{br}A night sparrow youkai who is the owner of an izakaya. She makes profit by blinding people and claiming lamprey to be the cure. Quite funny that such a birdbrain could come up with a trick such as this. She also likes to sing in the dark.\nMystia is a dancer character, and for those of you not in the know, dancers are EXTREMELY efficient. Giving another unit a free turn is like having two of that unit.\nHer high mobility also allows her to reach pretty much any spot you need. Definitely a recommended pick no matter what team you're running."
     },
     {
         "nid": "Wriggle",
         "name": "Wriggle",
         "title": "Wriggle",
         "category": "Character",
-        "text": "Name: Wriggle Nightbug{br}Friend count: In the millions{br}The leader of the bugs in Gensokyo, but she\u2019s just a weak firefly youkai. She gets mad when bugs are disrespected though, so it\u2019s better not to anger her. Roach infestation isn\u2019t fun, kids.\n\n\n\nIn contrast to Aunn, Wriggle is a faster but frailer Lance Cav who takes more of an offensive approach, being a better player phase duelist at the expense of a lot of defense. \nHowever, Wriggle excels at hit and run tactics, with her Combat Art, infest, slowing down a unit's movement and allowing her to attack a unit and then ride off elsewhere. "
+        "text": "Name: Wriggle Nightbug{br}Friend count: In the millions{br}The leader of the bugs in Gensokyo, but she\u2019s just a weak firefly youkai. She gets mad when bugs are disrespected though, so it\u2019s better not to anger her. Roach infestation isn\u2019t fun, kids.\nIn contrast to Aunn, Wriggle is a faster but frailer Lance Cav who takes more of an offensive approach, being a better player phase duelist at the expense of a lot of defense. \nHowever, Wriggle excels at hit and run tactics, with her Combat Art, infest, slowing down a unit's movement and allowing her to attack a unit and then ride off elsewhere. "
     },
     {
         "nid": "Sunny",
         "name": "Sunny",
         "title": "Sunny",
         "category": "Character",
-        "text": "Name: Sunny Milk{br}Woke up at: 12:00 pm{br} A member of the trio of the Fairies of Light, she acts as the leader of the group. She is a typical fairy, mischievous, reckless and prank-loving. Her power is to bend light to hide herself or see objects outside of her vision.\n\nSunny is a character mostly focused on countering mages and stealing. As a more support oriented character, she will be perfect for allowing you to steal items off of the enemy, paired with her high movement and speed."
+        "text": "Name: Sunny Milk{br}Woke up at: 12:00 pm{br} A member of the trio of the Fairies of Light, she acts as the leader of the group. She is a typical fairy, mischievous, reckless and prank-loving. Her power is to bend light to hide herself or see objects outside of her vision.\nSunny is a character mostly focused on countering mages and stealing. As a more support oriented character, she will be perfect for allowing you to steal items off of the enemy, paired with her high movement and speed."
     },
     {
         "nid": "Star",
         "name": "Star",
         "title": "Star",
         "category": "Character",
-        "text": "Name: Star Sapphire{br}Number of plans flaked out on: ~400{br}The second member of the Fairies of Light. A lot cooler and more collected than Sunny and Luna. She loves to let them take the fall for any pranks gone wrong. Her power allows her to detect the presence of anyone in her vicinity.\n\nStar is just your average healer for the most part. However, her skill, Searchlight, is a very effective support ability that will help your hit rates become more reliable."
+        "text": "Name: Star Sapphire{br}Number of plans flaked out on: ~400{br}The second member of the Fairies of Light. A lot cooler and more collected than Sunny and Luna. She loves to let them take the fall for any pranks gone wrong. Her power allows her to detect the presence of anyone in her vicinity.\nStar is just your average healer for the most part. However, her skill, Searchlight, is a very effective support ability that will help your hit rates become more reliable."
     },
     {
         "nid": "Luna",
         "name": "Luna",
         "title": "Luna",
         "category": "Character",
-        "text": "Name: Luna Child{br}Favorite beverage: Coffee{br}The second member of the Fairies of Light. Her favorite drink is coffee. She tends to be calmer and more gloomy than other fairies, but she is also clumsy. As a result, she spends time drinking coffee and reading newspapers. She can mute sounds around her.\n\nLuna is a risky character to play, with a low Con stat mixed with high weight weapons. However, due to her skill, Haphazard Smash, this actually plays into her favor as she can be used as a glass cannon to smash through high HP but frail units."
+        "text": "Name: Luna Child{br}Favorite beverage: Coffee{br}The second member of the Fairies of Light. Her favorite drink is coffee. She tends to be calmer and more gloomy than other fairies, but she is also clumsy. As a result, she spends time drinking coffee and reading newspapers. She can mute sounds around her.\nLuna is a risky character to play, with a low Con stat mixed with high weight weapons. However, due to her skill, Haphazard Smash, this actually plays into her favor as she can be used as a glass cannon to smash through high HP but frail units."
     },
     {
         "nid": "Cirno",
         "name": "Cirno",
         "title": "Cirno",
         "category": "Character",
-        "text": "Name: Cirno{br}Literacy level: That of a 4th-Grader{br}A very arrogant ice fairy living near the misty lake; she proclaims herself the \"strongest fairy in Gensokyo\".\nSuprisingly, this claim is closer to truth as one might expect, with her constantly citing the \"Fairy Wars\" incident in every subsequent interview.\n\nCirno has great bases and alright growths. She works best when facing down bosses due to her skill, The Strongest, which gives her a boost against stronger enemies."
+        "text": "Name: Cirno{br}Literacy level: That of a 4th-Grader{br}A very arrogant ice fairy living near the misty lake; she proclaims herself the \"strongest fairy in Gensokyo\".\nSuprisingly, this claim is closer to truth as one might expect, with her constantly citing the \"Fairy Wars\" incident in every subsequent interview.\nCirno has great bases and alright growths. She works best when facing down bosses due to her skill, The Strongest, which gives her a boost against stronger enemies."
     },
     {
         "nid": "Daiyousei",
         "name": "Daiyousei",
         "title": "Daiyousei",
         "category": "Character",
-        "text": "Name: Unknown{br}Nickname: Daiyousei{br}\n\nAn unexpectedly strong fairy that lives along Misty Lake's shores. A few villagers have mentioned seeing her playing with the others a few times. Her power is anomalously above average for a fairy. Appears to be a sub-leader amongst the fairies. [Reference Needed.] She seems to share a bond with the ice fairy, although the two have been seen by Marisa Kirisame to have come to blows a few times. Fairies are quite fickle. For categorization purposes, I will title her \"Daiyousei\", as her power is \"bigger\" than the average fairy\n\nDaiyousei builds up Crit very fast using her ability, Nature Power. She should be used with high critical weapons to get the most out of her ability to spam critical hits."
+        "text": "Name: Unknown{br}Nickname: Daiyousei{br}\nAn unexpectedly strong fairy that lives along Misty Lake's shores. A few villagers have mentioned seeing her playing with the others a few times. Her power is anomalously above average for a fairy. Appears to be a sub-leader amongst the fairies. [Reference Needed.] She seems to share a bond with the ice fairy, although the two have been seen by Marisa Kirisame to have come to blows a few times. Fairies are quite fickle. For categorization purposes, I will title her \"Daiyousei\", as her power is \"bigger\" than the average fairy.\nDaiyousei builds up Crit very fast using her ability, Nature Power. She should be used with high critical weapons to get the most out of her ability to spam critical hits."
     },
     {
         "nid": "Tewi",
         "name": "Tewi",
         "title": "Tewi",
         "category": "Character",
-        "text": "Name: Tewi Inaba{br}\n\nTewi, beyond being a good thief, is also a decent combatant, with her skill, Super Luck, giving her more crit the more luck she has, allowing her to become a critting menace on the battlefield."
+        "text": "Name: Tewi Inaba{br}\nTewi, beyond being a good thief, is also a decent combatant, with her skill, Super Luck, giving her more crit the more luck she has, allowing her to become a critting menace on the battlefield."
     },
     {
         "nid": "Reisen",
@@ -340,14 +340,14 @@
         "name": "Mokou",
         "title": "Mokou",
         "category": "Character",
-        "text": "Name: Fujiwara no Mokou{br}\n\nMokou is very unorthodox as a mage character, operating like a JRPG berserker character instead. While Mokou is fit for the frontlines, make sure she doesn't get too overwhelmed, or she'll end up taking a lot of damage."
+        "text": "Name: Fujiwara no Mokou{br}\nMokou is very unorthodox as a mage character, operating like a JRPG berserker character instead. While Mokou is fit for the frontlines, make sure she doesn't get too overwhelmed, or she'll end up taking a lot of damage."
     },
     {
         "nid": "Kaguya",
         "name": "Kaguya",
         "title": "Kaguya",
         "category": "Character",
-        "text": "Name: Kaguya Houraisan{br}Number of Successful Suitors: 0{br}\n\nThe princess of Eientei; her appearance is regal, but her behavior is less than so. Her immortality has seemed to have made her lax and carefree, as she is seen often sneaking around the Human Village, usually accompanied by a certain Fujiwara no Mokou. This same duo are also often seen fighting to the death in the Bamboo Forest of The Lost, cited as their preferred pasttime. These duels usually take place around midnight, so travel near the forest during this time would be unideal. It is a popular theory that the forest is so lush due to these duels fertilizing the soil for hundreds of years.\n\nAs a counterpart to Mokou, Kaguya is a character more dedicated to stall, having incredible resistance to damage. This comes at the drawback of having horrible movement, only 3. \nShe can, however, mitigate this using \"In An Instant\", allowing her to warp to the side of an ally. This has a long cooldown, mind you, so position Kaguya well, as she'll be there for awhile."
+        "text": "Name: Kaguya Houraisan{br}Number of Successful Suitors: 0{br}\nThe princess of Eientei; her appearance is regal, but her behavior is less than so. Her immortality has seemed to have made her lax and carefree, as she is seen often sneaking around the Human Village, usually accompanied by a certain Fujiwara no Mokou. This same duo are also often seen fighting to the death in the Bamboo Forest of The Lost, cited as their preferred pasttime. These duels usually take place around midnight, so travel near the forest during this time would be unideal. It is a popular theory that the forest is so lush due to these duels fertilizing the soil for hundreds of years.\n\nAs a counterpart to Mokou, Kaguya is a character more dedicated to stall, having incredible resistance to damage. This comes at the drawback of having horrible movement, only 3. \nShe can, however, mitigate this using \"In An Instant\", allowing her to warp to the side of an ally. This has a long cooldown, mind you, so position Kaguya well, as she'll be there for awhile."
     },
     {
         "nid": "Seiran",

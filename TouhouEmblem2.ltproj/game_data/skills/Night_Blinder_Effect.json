@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Night_Blinder_Effect",
+        "name": "Night Blinder",
+        "desc": "+100% Avoid. Dark only.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            7,
+            0
+        ],
+        "components": [
+            [
+                "avoid",
+                100
+            ]
+        ]
+    }
+]

@@ -2290,6 +2290,40 @@
                 "interrupt_move": false
             },
             {
+                "nid": "Formation_13",
+                "region_type": "formation",
+                "position": [
+                    2,
+                    9
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": null,
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "Formation_14",
+                "region_type": "formation",
+                "position": [
+                    3,
+                    15
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": null,
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
                 "nid": "Chest_1",
                 "region_type": "event",
                 "position": [

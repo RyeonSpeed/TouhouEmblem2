@@ -49,7 +49,12 @@
                 false
             ]
         ],
-        "learned_skills": [],
+        "learned_skills": [
+            [
+                1,
+                "Gallant_Thrust"
+            ]
+        ],
         "unit_notes": [],
         "wexp_gain": {
             "Sword": [

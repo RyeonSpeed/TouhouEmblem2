@@ -14,8 +14,6 @@
             "add_talk;Reimu;Kosuzu_NPC",
             "add_talk;Reimu;Miyoi_NPC",
             "trigger_script;Global Housekeeping1",
-            "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Haruka']",
-            "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Kana']",
             "game_var;hireable_guys;v('hireable_guys') + ['Reiko','Sen']"
         ],
         "nid": "Base IntroCh9"

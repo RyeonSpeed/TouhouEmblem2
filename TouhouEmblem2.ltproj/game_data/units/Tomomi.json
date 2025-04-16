@@ -49,7 +49,12 @@
                 false
             ]
         ],
-        "learned_skills": [],
+        "learned_skills": [
+            [
+                1,
+                "Certain_Blow"
+            ]
+        ],
         "unit_notes": [],
         "wexp_gain": {
             "Axe": [

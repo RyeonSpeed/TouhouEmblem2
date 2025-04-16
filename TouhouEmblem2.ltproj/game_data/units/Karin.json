@@ -49,7 +49,12 @@
                 false
             ]
         ],
-        "learned_skills": [],
+        "learned_skills": [
+            [
+                1,
+                "Mana_Overcharge"
+            ]
+        ],
         "unit_notes": [],
         "wexp_gain": {
             "Light": [

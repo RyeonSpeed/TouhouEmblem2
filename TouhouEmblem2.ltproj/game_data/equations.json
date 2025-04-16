@@ -88,6 +88,18 @@
         "expression": "MAG + 10"
     },
     {
+        "nid": "MEND",
+        "expression": "MAG + 20"
+    },
+    {
+        "nid": "RECOVER",
+        "expression": "999"
+    },
+    {
+        "nid": "PHYSIC",
+        "expression": "MAG + 5"
+    },
+    {
         "nid": "CONSTITUTION",
         "expression": "CON"
     },

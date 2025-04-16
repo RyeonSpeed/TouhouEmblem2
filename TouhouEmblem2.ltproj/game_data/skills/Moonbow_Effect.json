@@ -1,6 +1,6 @@
 [
     {
-        "nid": "Moonbow_1",
+        "nid": "Moonbow_Effect",
         "name": "Moonbow",
         "desc": "Allows the user to ignore 25% of the enemy's Def/Res.",
         "icon_nid": "skillicons_1",

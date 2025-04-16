@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Mana_Overcharge_Effect",
+        "name": "Mana Overcharge",
+        "desc": "+5 Dmg, +40% Crit, 20 HP Recoil. Can be fatal. Anima only.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            6,
+            0
+        ],
+        "components": [
+            [
+                "deathrecoil",
+                20
+            ],
+            [
+                "damage",
+                5
+            ],
+            [
+                "crit",
+                40
+            ]
+        ]
+    }
+]

@@ -15,12 +15,7 @@
             "add_talk;Reimu;Miyoi_NPC",
             "trigger_script;Global Housekeeping1",
             "game_var;hireable_guys;v('hireable_guys') + ['Meiko','Hanae']",
-            "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Miki']",
-            "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Amane']",
-            "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Kabin']",
-            "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Yae']",
-            "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Konami']",
-            "game_var;hireable_guys;[x for x in v('hireable_guys') if not x == 'Tomomi']"
+            ""
         ],
         "nid": "Base IntroCh6"
     }

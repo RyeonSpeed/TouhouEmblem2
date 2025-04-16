@@ -8,6 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "trigger_script_with_args;Global FUCK YOU RAINLASH",
             "music;Nostalgic Blood",
             "change_background;SDM_Library",
             "add_portrait;Patchouli;Left",
