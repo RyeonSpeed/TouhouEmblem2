@@ -188,30 +188,6 @@
                 "generic": true
             },
             {
-                "nid": "197",
-                "variant": null,
-                "level": 11,
-                "klass": "Lancer",
-                "faction": "Hakugyoukurou",
-                "starting_items": [
-                    [
-                        "Devil_Lance",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    6,
-                    10
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
                 "nid": "198",
                 "variant": null,
                 "level": 11,
@@ -380,30 +356,6 @@
                 "generic": true
             },
             {
-                "nid": "180",
-                "variant": null,
-                "level": 11,
-                "klass": "Skeleton_B",
-                "faction": "Hakugyoukurou",
-                "starting_items": [
-                    [
-                        "Poison_Bow",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Pursue",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    12,
-                    26
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
                 "nid": "188",
                 "variant": null,
                 "level": 11,
@@ -524,30 +476,6 @@
                 "generic": true
             },
             {
-                "nid": "184",
-                "variant": null,
-                "level": 11,
-                "klass": "Fighter",
-                "faction": "Hakugyoukurou",
-                "starting_items": [
-                    [
-                        "Steel_Axe",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    11,
-                    22
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
                 "nid": "199",
                 "variant": null,
                 "level": 11,
@@ -615,30 +543,6 @@
                 "starting_position": [
                     24,
                     23
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "190",
-                "variant": null,
-                "level": 11,
-                "klass": "Guard",
-                "faction": "Hakugyoukurou",
-                "starting_items": [
-                    [
-                        "Horseslayer",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    10,
-                    18
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -740,54 +644,6 @@
                 "generic": true
             },
             {
-                "nid": "191",
-                "variant": null,
-                "level": 11,
-                "klass": "Mage",
-                "faction": "Hakugyoukurou",
-                "starting_items": [
-                    [
-                        "Instant",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Guard",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    8,
-                    12
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "195",
-                "variant": null,
-                "level": 11,
-                "klass": "Acolyte",
-                "faction": "Hakugyoukurou",
-                "starting_items": [
-                    [
-                        "Omikuji",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Guard",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    13,
-                    11
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
                 "nid": "196",
                 "variant": null,
                 "level": 11,
@@ -805,8 +661,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    22,
-                    17
+                    19,
+                    13
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -932,30 +788,6 @@
                 "generic": true
             },
             {
-                "nid": "137",
-                "variant": null,
-                "level": 11,
-                "klass": "Cursed_Armor",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Lancereaver",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    15,
-                    8
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
                 "nid": "104",
                 "variant": null,
                 "level": 14,
@@ -1047,30 +879,6 @@
                 "starting_position": [
                     21,
                     18
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "126",
-                "variant": null,
-                "level": 11,
-                "klass": "Shaman",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Luna",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    14,
-                    5
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1357,8 +1165,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    23,
-                    29
+                    19,
+                    17
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1382,7 +1190,7 @@
                 "ai_group": "",
                 "starting_position": [
                     10,
-                    5
+                    4
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1405,8 +1213,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    8,
-                    8
+                    7,
+                    7
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1429,8 +1237,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    16,
-                    28
+                    17,
+                    25
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1453,8 +1261,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    14,
-                    29
+                    13,
+                    30
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1479,30 +1287,6 @@
                 "starting_position": [
                     29,
                     17
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "131",
-                "variant": null,
-                "level": 11,
-                "klass": "Grave_Rider",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Steel_Sword",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    23,
-                    4
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1676,30 +1460,6 @@
                 "generic": true
             },
             {
-                "nid": "134",
-                "variant": null,
-                "level": 11,
-                "klass": "Archer",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Steel_Bow",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    21,
-                    6
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
                 "nid": "113",
                 "variant": null,
                 "level": 11,
@@ -1765,7 +1525,7 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    9,
+                    8,
                     12
                 ],
                 "starting_traveler": null,

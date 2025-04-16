@@ -30,10 +30,6 @@
                 null
             ],
             [
-                "limit_maximum_range",
-                1
-            ],
-            [
                 "upkeep_charge_increase",
                 1
             ]
