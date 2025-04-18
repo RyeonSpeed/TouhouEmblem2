@@ -6,7 +6,7 @@
         "condition": "game.game_vars['chaptercount'] == 11",
         "commands": [],
         "only_once": false,
-        "priority": 20,
+        "priority": 22,
         "_source": [
             "chapter_title",
             "add_talk;Reimu;Marisa",
