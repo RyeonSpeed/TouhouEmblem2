@@ -13,7 +13,12 @@
             "speak;Marisa;Yer the worst tactician ever!",
             "expression;Marisa;CloseEyes",
             "remove_portrait;Marisa",
-            "lose_game"
+            "lose_game",
+            "if;{v:_current_turnwheel_uses} > 0",
+            "activate_turnwheel;t",
+            "else",
+            "lose_game",
+            "end"
         ],
         "nid": "Global DeathMarisa"
     }

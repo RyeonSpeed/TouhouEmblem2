@@ -11,10 +11,14 @@
             "add_portrait;Marisa;Left",
             "add_portrait;Reimu;Right",
             "speak;Marisa;Hmmm? What is it, Reimu?",
-            "choice;MarisaServices;What do you need?;Manage Items,Gossip;backable",
+            "choice;MarisaServices;What do you need?;Manage Items,Gossip,Save;backable",
             "if;'{v:MarisaServices}' == 'Manage Items'",
             "open_unit_management",
             "elif;'{v:MarisaServices}' == 'Gossip'",
+            "trigger_script;MarisaGossip",
+            "elif;'{v:MarisaServices}' == 'Save'",
+            "win_game",
+            "set_next_chapter;Base",
             "end"
         ],
         "nid": "Base Marisa"

@@ -1034,7 +1034,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -1055,7 +1057,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -1086,7 +1090,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -1107,7 +1113,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -1128,7 +1136,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -1229,7 +1239,7 @@
                 "region_type": "formation",
                 "position": [
                     4,
-                    21
+                    22
                 ],
                 "size": [
                     1,
@@ -1246,7 +1256,7 @@
                 "region_type": "formation",
                 "position": [
                     2,
-                    21
+                    22
                 ],
                 "size": [
                     1,
@@ -1296,7 +1306,7 @@
                 "nid": "New Region_7",
                 "region_type": "formation",
                 "position": [
-                    1,
+                    0,
                     21
                 ],
                 "size": [
@@ -1313,8 +1323,8 @@
                 "nid": "New Region_8",
                 "region_type": "formation",
                 "position": [
-                    5,
-                    21
+                    4,
+                    19
                 ],
                 "size": [
                     1,
@@ -1510,20 +1520,25 @@
                         11
                     ],
                     "140": [
-                        14,
-                        20
+                        19,
+                        11
                     ],
                     "141": [
-                        19,
-                        18
+                        22,
+                        13
                     ],
                     "142": [
-                        22,
-                        19
+                        24,
+                        11
                     ]
                 }
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

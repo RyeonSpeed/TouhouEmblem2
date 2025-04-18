@@ -205,8 +205,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    5,
-                    23
+                    4,
+                    25
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -301,8 +301,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    7,
-                    22
+                    10,
+                    26
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -411,8 +411,8 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Killing_Edge",
-                        false
+                        "Rapier",
+                        true
                     ]
                 ],
                 "starting_skills": [],
@@ -422,7 +422,7 @@
                 "ai_group": "",
                 "starting_position": [
                     7,
-                    23
+                    25
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -868,8 +868,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    15,
-                    8
+                    14,
+                    9
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -2188,6 +2188,40 @@
                 "position": [
                     3,
                     27
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": null,
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "F_12",
+                "region_type": "formation",
+                "position": [
+                    6,
+                    27
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": null,
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false
+            },
+            {
+                "nid": "F_13",
+                "region_type": "formation",
+                "position": [
+                    9,
+                    29
                 ],
                 "size": [
                     1,

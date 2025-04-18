@@ -3,7 +3,7 @@
         "nid": "Takane",
         "name": "Takane",
         "desc": "",
-        "variant": null,
+        "variant": "",
         "level": 1,
         "klass": "Kappa_Mech",
         "tags": [],
@@ -49,7 +49,7 @@
         "wexp_gain": {},
         "alternate_classes": [],
         "portrait_nid": "",
-        "affinity": null,
+        "affinity": "None",
         "fields": []
     }
 ]
