@@ -22,12 +22,12 @@
                 1
             ],
             [
-                "ability_indicator",
-                null
-            ],
-            [
                 "upkeep_charge_increase",
                 1
+            ],
+            [
+                "combat_art_indicator",
+                null
             ]
         ]
     }

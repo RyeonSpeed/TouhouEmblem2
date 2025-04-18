@@ -17,8 +17,7 @@
             "elif;'{v:MarisaServices}' == 'Gossip'",
             "trigger_script;MarisaGossip",
             "elif;'{v:MarisaServices}' == 'Save'",
-            "win_game",
-            "set_next_chapter;Base",
+            "battle_save",
             "end"
         ],
         "nid": "Base Marisa"
