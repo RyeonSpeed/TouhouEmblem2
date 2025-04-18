@@ -27,7 +27,7 @@
         "tags": [],
         "units": [
             {
-                "nid": "Rinnosuke",
+                "nid": "Marisa",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -105,17 +105,22 @@
                 "nid": "104",
                 "variant": null,
                 "level": 1,
-                "klass": "Citizen",
+                "klass": "Shaman",
                 "faction": "Youkai",
-                "starting_items": [],
+                "starting_items": [
+                    [
+                        "Flux",
+                        false
+                    ]
+                ],
                 "starting_skills": [],
                 "team": "enemy",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    13,
-                    14
+                    7,
+                    13
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -124,16 +129,21 @@
                 "nid": "105",
                 "variant": null,
                 "level": 1,
-                "klass": "Citizen",
+                "klass": "Mage_M",
                 "faction": "Youkai",
-                "starting_items": [],
+                "starting_items": [
+                    [
+                        "Thunder",
+                        false
+                    ]
+                ],
                 "starting_skills": [],
                 "team": "enemy",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    14,
+                    9,
                     14
                 ],
                 "starting_traveler": null,
@@ -222,6 +232,11 @@
             }
         ],
         "unit_groups": [],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]
