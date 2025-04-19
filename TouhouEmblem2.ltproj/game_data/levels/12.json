@@ -48,7 +48,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Skeleton",
-                "faction": "Hakugyoukurou",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Lance",
@@ -72,7 +72,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Skeleton",
-                "faction": "Hakugyoukurou",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Swordcatcher",
@@ -96,7 +96,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Skeleton",
-                "faction": "Hakugyoukurou",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Lance",
@@ -120,7 +120,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Skeleton",
-                "faction": "Hakugyoukurou",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Lance",
@@ -144,7 +144,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Skeleton",
-                "faction": "Hakugyoukurou",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Lance",
@@ -168,7 +168,7 @@
                 "variant": null,
                 "level": 13,
                 "klass": "Boneguard",
-                "faction": "Hakugyoukurou",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Horseslayer",
@@ -192,7 +192,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Fencer",
-                "faction": "Hakugyoukurou",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Killing_Edge",
@@ -216,7 +216,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Vagrant_S",
-                "faction": "Hakugyoukurou",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Sword",
@@ -240,7 +240,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Vagrant_S",
-                "faction": "Hakugyoukurou",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Sword",
@@ -264,7 +264,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Vagrant_S",
-                "faction": "Hakugyoukurou",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Sword",
@@ -288,7 +288,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Vagrant_S",
-                "faction": "Hakugyoukurou",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Sword",
@@ -312,7 +312,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Vagrant_S",
-                "faction": "Hakugyoukurou",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Sword",
@@ -336,7 +336,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Skeleton",
-                "faction": "Hakugyoukurou",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Lancereaver",
@@ -360,7 +360,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Skeleton_B",
-                "faction": "Hakugyoukurou",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Iron_Bow",
@@ -384,7 +384,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Skeleton_B",
-                "faction": "Hakugyoukurou",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Bow",
@@ -408,7 +408,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Grave_Rider",
-                "faction": "Hakugyoukurou",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Punji",
@@ -432,7 +432,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Grave_Rider",
-                "faction": "Hakugyoukurou",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Sword",
@@ -456,7 +456,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Occultist",
-                "faction": "Hakugyoukurou",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Slime",
@@ -480,7 +480,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Fighter",
-                "faction": "Hakugyoukurou",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Axe",
@@ -504,7 +504,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Fighter",
-                "faction": "Hakugyoukurou",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Axe",
@@ -528,7 +528,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Fighter",
-                "faction": "Hakugyoukurou",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Killer_Axe",
@@ -552,7 +552,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Fighter",
-                "faction": "Hakugyoukurou",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Halberd",
@@ -576,7 +576,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Mage",
-                "faction": "Hakugyoukurou",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Thunder",
@@ -600,7 +600,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Mage",
-                "faction": "Hakugyoukurou",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Thunder",
@@ -624,7 +624,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Mage",
-                "faction": "Hakugyoukurou",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Thunder",
@@ -648,7 +648,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Acolyte",
-                "faction": "Hakugyoukurou",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Omikuji",
@@ -672,7 +672,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Acolyte",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Heihaku",
@@ -696,7 +696,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Acolyte",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Heihaku",
@@ -720,7 +720,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Cursed_Armor",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Tanto",
@@ -744,7 +744,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Cursed_Armor",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Tanto",
@@ -768,7 +768,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Cursed_Armor",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Killing_Edge",
@@ -792,7 +792,7 @@
                 "variant": null,
                 "level": 14,
                 "klass": "Skeleton",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Longnion",
@@ -816,7 +816,7 @@
                 "variant": null,
                 "level": 14,
                 "klass": "Skeleton",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Naginata",
@@ -840,7 +840,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Shaman",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Yomi",
@@ -864,7 +864,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Shaman",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Luna",
@@ -888,7 +888,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Shaman",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Luna",
@@ -912,7 +912,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Shaman",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Luna",
@@ -936,7 +936,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Shaman",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Luna",
@@ -960,7 +960,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Grave_Rider",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Platepiercer",
@@ -984,7 +984,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Peg_Rider",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Killer_Lance",
@@ -1008,7 +1008,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Peg_Rider",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Rapier",
@@ -1032,7 +1032,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Peg_Rider",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Lance",
@@ -1056,7 +1056,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Peg_Rider",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Brave_Lance",
@@ -1080,7 +1080,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Peg_Rider",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Brave_Lance",
@@ -1104,7 +1104,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Peg_Rider",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Lance",
@@ -1128,7 +1128,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Peg_Rider",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Lance",
@@ -1152,7 +1152,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Peg_Rider",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Lance",
@@ -1176,7 +1176,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Peg_Rider",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Lance",
@@ -1200,7 +1200,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Peg_Rider",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Lance",
@@ -1224,7 +1224,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Peg_Rider",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Lance",
@@ -1248,7 +1248,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Peg_Rider",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Lance",
@@ -1272,7 +1272,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Grave_Rider",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Sword",
@@ -1296,7 +1296,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Grave_Rider",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Sword",
@@ -1320,7 +1320,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Grave_Rider",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Axereaver",
@@ -1344,7 +1344,7 @@
                 "variant": null,
                 "level": 14,
                 "klass": "Boneguard_B",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Silencer",
@@ -1368,7 +1368,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Archer",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Killer_Bow",
@@ -1392,7 +1392,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Archer",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Bow",
@@ -1416,7 +1416,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Archer",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Bow",
@@ -1440,7 +1440,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Archer",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Steel_Bow",
@@ -1464,7 +1464,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Fighter",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Kama",
@@ -1488,7 +1488,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Fighter",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Swordreaver",
@@ -1512,7 +1512,7 @@
                 "variant": null,
                 "level": 11,
                 "klass": "Exorcist",
-                "faction": "Youkai",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Physic",

@@ -1,0 +1,28 @@
+[
+    {
+        "name": "SpellYumeko",
+        "trigger": "combat_end",
+        "level_nid": "10",
+        "condition": "game.check_dead(\"Yumeko_Boss\")",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "change_music;player_phase;Strawberry Crisis",
+            "change_music;player_battle;Strawberry Crisis",
+            "change_music;enemy_phase;Strawberry Crisis",
+            "change_music;enemy_battle;Strawberry Crisis",
+            "change_music;enemy2_phase;Strawberry Crisis",
+            "change_music;enemy2_battle;Strawberry Crisis",
+            "add_portrait;Yumeko_Boss;Left",
+            "speak;;Construct Sign: Dream Slicer;center;155;hint;;red;;;1;;;;;Warp",
+            "speak;Yumeko_Boss;Tch, I'm not done just yet~!",
+            "remove_portrait;Yumeko_Boss",
+            "add_group;YumekoSpell;YumekoSpellSpell;warp;closest",
+            "autolevel_to;Yumeko_Boss_1;17;fixed",
+            "move_cursor;Yumeko_Boss_1",
+            "end"
+        ],
+        "nid": "10 SpellYumeko"
+    }
+]

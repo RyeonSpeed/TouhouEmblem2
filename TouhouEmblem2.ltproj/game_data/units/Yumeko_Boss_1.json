@@ -1,23 +1,23 @@
 [
     {
-        "nid": "Mai_Boss",
-        "name": "Mai ",
-        "desc": "A witch from Makai who's partners with a fire bending witch. She specializes in ice magic.",
-        "variant": "",
+        "nid": "Yumeko_Boss_1",
+        "name": "Yumeko ",
+        "desc": "A maid from Makai who is very loyal to her mistress. She is the strongest creation of the ruler of Makai.",
+        "variant": null,
         "level": 1,
-        "klass": "Medic",
+        "klass": "Maid",
         "tags": [
             "Boss"
         ],
         "bases": {
-            "HP": 7,
-            "STR": 0,
-            "MAG": 3,
-            "SKL": 2,
-            "SPD": 1,
+            "HP": 5,
+            "STR": 2,
+            "MAG": 2,
+            "SKL": 1,
+            "SPD": 0,
             "LCK": 3,
             "DEF": 4,
-            "RES": 3,
+            "RES": 4,
             "CON": 0,
             "MOV": 0
         },
@@ -47,35 +47,31 @@
         },
         "starting_items": [
             [
-                "Aircalibur",
+                "Rapier",
                 false
             ],
             [
-                "Wundergust",
-                false
-            ],
-            [
-                "Maple_Shield",
+                "Levin_Sword",
                 false
             ]
         ],
         "learned_skills": [
             [
                 1,
-                "Blizzard"
+                "Summoning_Sickness"
             ]
         ],
         "unit_notes": [],
         "wexp_gain": {
-            "Anima": [
+            "Sword": [
                 false,
-                181,
+                121,
                 null
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "Mai",
-        "affinity": "Ice",
+        "portrait_nid": "Yumeko",
+        "affinity": "Dark",
         "fields": []
     }
 ]

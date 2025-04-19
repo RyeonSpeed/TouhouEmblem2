@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Blizzard",
+        "name": "Blizzard Sign: Brave Storm",
+        "desc": "Mai will envelop herself with an aura that gives all units on the map -15 Avoid/Crit Avoid. ",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            8,
+            5
+        ],
+        "components": [
+            [
+                "combat_art_indicator",
+                null
+            ]
+        ]
+    }
+]

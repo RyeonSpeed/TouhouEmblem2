@@ -1,0 +1,35 @@
+[
+    {
+        "nid": "Kana_Boss",
+        "name": "Kana Boss",
+        "desc": "A mentally unstable poltergeist who wanders aimlessly, looking for nothing in particular.",
+        "variant": null,
+        "level": 1,
+        "klass": "Druid",
+        "tags": [
+            "Boss"
+        ],
+        "bases": {},
+        "growths": {},
+        "stat_cap_modifiers": {},
+        "starting_items": [],
+        "learned_skills": [],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Dark": [
+                false,
+                181,
+                null
+            ],
+            "Staff": [
+                false,
+                121,
+                null
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "Kana_1",
+        "affinity": "Dark",
+        "fields": []
+    }
+]

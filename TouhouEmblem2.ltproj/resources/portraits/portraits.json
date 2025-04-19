@@ -1954,5 +1954,17 @@
             48
         ],
         "info_offset": 0
+    },
+    {
+        "nid": "Kana_1",
+        "blinking_offset": [
+            32,
+            40
+        ],
+        "smiling_offset": [
+            32,
+            56
+        ],
+        "info_offset": 0
     }
 ]

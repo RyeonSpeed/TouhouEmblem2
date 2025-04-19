@@ -2,7 +2,7 @@
     {
         "nid": "Tabula_Rasa",
         "name": "Tabula Rasa",
-        "desc": "Allows Marisa to create a 1-use copy of an equipped tome from an enemy. Only one copy of an item can be held at a time. ",
+        "desc": "Clones the opponent's equipped magic weapon (e.g. Fire) and stores 1 use in the item. Once a magical weapon has been stolen 5 times, an infinite use copy of the weapon will be created in the Tabula Rasa.",
         "icon_nid": null,
         "icon_index": [
             0,

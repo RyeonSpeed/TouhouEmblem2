@@ -1,0 +1,28 @@
+[
+    {
+        "nid": "Usagi_Scroll",
+        "name": "Usagi_Scroll",
+        "desc": "+20% Lck Growth, -2 Lck.\n+10% Res Growth, -1 Res.\nOnly one accessory can be equipped at a time.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            4,
+            5
+        ],
+        "components": [
+            [
+                "multi_status_on_hold",
+                [
+                    "Stoneskinned"
+                ]
+            ],
+            [
+                "equippable_accessory",
+                null
+            ],
+            [
+                "eval_target_restrict_2",
+                "False"
+            ]
+        ]
+    }
+]

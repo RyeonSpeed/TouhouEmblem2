@@ -2,7 +2,7 @@
     {
         "nid": "Knowledge_is_Power",
         "name": "Knowledge is Power!",
-        "desc": "Allies within 1 tile: Double WExp gained.",
+        "desc": "Allies within 3 tiles: Double WExp gained.",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,
@@ -15,7 +15,7 @@
             ],
             [
                 "aura_range",
-                1
+                3
             ],
             [
                 "aura_target",

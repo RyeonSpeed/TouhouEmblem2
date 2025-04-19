@@ -45,7 +45,7 @@
         },
         "starting_items": [
             [
-                "Slim_Sword",
+                "Fire",
                 false
             ],
             [
@@ -75,7 +75,7 @@
         "wexp_gain": {
             "Sword": [
                 false,
-                1,
+                0,
                 251
             ],
             "Lance": [
@@ -105,7 +105,7 @@
             ],
             "Anima": [
                 false,
-                0,
+                1,
                 251
             ],
             "Dark": [

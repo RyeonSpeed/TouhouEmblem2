@@ -1939,8 +1939,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    27,
-                    16
+                    33,
+                    9
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -1948,12 +1948,12 @@
             {
                 "nid": "Mai_Boss",
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Guard",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    25,
-                    5
+                    19,
+                    11
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -1970,7 +1970,7 @@
             },
             {
                 "nid": "Narumi",
-                "team": "player",
+                "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
@@ -2082,6 +2082,16 @@
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": true
+            },
+            {
+                "nid": "Yumeko_Boss_1",
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [
@@ -2470,8 +2480,25 @@
                         12
                     ]
                 }
+            },
+            {
+                "nid": "YumekoSpell",
+                "units": [
+                    "Yumeko_Boss_1"
+                ],
+                "positions": {
+                    "Yumeko_Boss_1": [
+                        36,
+                        4
+                    ]
+                }
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]
