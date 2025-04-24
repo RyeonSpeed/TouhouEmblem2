@@ -2,13 +2,13 @@
     {
         "nid": "Yuyuko",
         "name": "Yuyuko",
-        "desc": "",
+        "desc": "The mistress of Hakugyoukuro. She capable of making almost anybody die. However, she usually spends her days chowing down on food and relaxing.",
         "variant": null,
-        "level": 1,
+        "level": 15,
         "klass": "Druid",
         "tags": [],
         "bases": {
-            "HP": 16,
+            "HP": 34,
             "STR": 0,
             "MAG": 3,
             "SKL": 1,
@@ -43,10 +43,29 @@
             "RES": 0,
             "DEF": 0
         },
-        "starting_items": [],
+        "starting_items": [
+            [
+                "Sakura_Fan",
+                false
+            ],
+            [
+                "Slime",
+                false
+            ],
+            [
+                "Forged_Shield",
+                false
+            ]
+        ],
         "learned_skills": [],
         "unit_notes": [],
-        "wexp_gain": {},
+        "wexp_gain": {
+            "Dark": [
+                false,
+                181,
+                null
+            ]
+        },
         "alternate_classes": [],
         "portrait_nid": "Yuyuko",
         "affinity": "Ice",

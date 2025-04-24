@@ -204,6 +204,16 @@
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "Kogasa_NPC",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [
@@ -358,6 +368,18 @@
                 ],
                 "positions": {
                     "Kogasa": [
+                        11,
+                        24
+                    ]
+                }
+            },
+            {
+                "nid": "KogasaNPC",
+                "units": [
+                    "Kogasa_NPC"
+                ],
+                "positions": {
+                    "Kogasa_NPC": [
                         11,
                         24
                     ]

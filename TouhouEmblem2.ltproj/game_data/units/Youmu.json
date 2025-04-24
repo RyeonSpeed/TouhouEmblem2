@@ -8,7 +8,7 @@
         "klass": "Fencer",
         "tags": [],
         "bases": {
-            "HP": 22,
+            "HP": 27,
             "STR": 9,
             "MAG": 7,
             "SKL": 9,

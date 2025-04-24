@@ -31,7 +31,10 @@
             "add_lore;Kogasa",
             "change_team;Kogasa;player",
             "enable_repair_shop;true",
-            "remove_talk;Reimu;Kogasa"
+            "remove_talk;Reimu;Kogasa",
+            "remove_unit;Kogasa;warp;fade",
+            "add_group;KogasaNPC;KogasaNPC;warp;closest",
+            "game_var;KogasaTalked;1"
         ],
         "nid": "Base Kogasa"
     }

@@ -1,0 +1,18 @@
+[
+    {
+        "name": "KogasaNPCCheck",
+        "trigger": "level_start",
+        "level_nid": "Base",
+        "condition": "game.game_vars['chaptercount'] >= 8 and game.game_vars['KogasaTalked'] == 1",
+        "commands": [],
+        "only_once": false,
+        "priority": 21,
+        "_source": [
+            "add_group;Kogasa_NPC;Kogasa_NPC;fade;closest",
+            "autolevel_to;Kogasa_NPC;8;fixed",
+            "add_talk;Reimu;Kogasa_NPC",
+            "end"
+        ],
+        "nid": "Base KogasaNPCCheck"
+    }
+]

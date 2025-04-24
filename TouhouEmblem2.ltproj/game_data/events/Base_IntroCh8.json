@@ -13,6 +13,7 @@
             "add_talk;Reimu;Rinnosuke_NPC",
             "add_talk;Reimu;Kosuzu_NPC",
             "add_talk;Reimu;Miyoi_NPC",
+            "add_talk;Reimu;Kogasa_NPC",
             "trigger_script;Global Housekeeping1",
             "game_var;hireable_guys;v('hireable_guys') + ['Yomi','Kasuka']"
         ],
