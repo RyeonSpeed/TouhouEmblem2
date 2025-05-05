@@ -31,7 +31,7 @@
             "multi_remove_portrait;Reimu;Kasen",
             "speak;;Certain boss characters will unleash \"special patterns\" after they are defeated the first time.|As a rule of thumb, all bosses with a portrait will usually have at least one \"special pattern\".;;;hint",
             "if;game.phase.get_current() == 'enemy'",
-            "for;Spell;game.level.unit_groups.get('RumiaSpell').units",
+            "for;Spell;game.level.unit_groups.get('RumiaStage2').units",
             "    has_finished;{Spell}",
             "endf",
             "else",

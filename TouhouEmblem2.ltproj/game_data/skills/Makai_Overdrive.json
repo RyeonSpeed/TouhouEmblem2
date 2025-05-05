@@ -1,8 +1,8 @@
 [
     {
-        "nid": "Decreasing_Work_Efficiency",
-        "name": "Decreasing Work Efficiency",
-        "desc": "-2 Mov.",
+        "nid": "Makai_Overdrive",
+        "name": "Makai Overdrive",
+        "desc": "+2 Mov, always attacks first.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             6,
@@ -12,8 +12,8 @@
             [
                 "unit_flickering_tint",
                 [
-                    255,
                     170,
+                    0,
                     0
                 ]
             ],
@@ -26,9 +26,13 @@
                 [
                     [
                         "MOV",
-                        -2
+                        2
                     ]
                 ]
+            ],
+            [
+                "vantage",
+                null
             ]
         ]
     }

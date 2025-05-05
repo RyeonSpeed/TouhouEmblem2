@@ -134,7 +134,7 @@
                 "ai_group": "",
                 "starting_position": [
                     17,
-                    4
+                    3
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -158,7 +158,7 @@
                 "ai_group": "",
                 "starting_position": [
                     19,
-                    4
+                    3
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1532,53 +1532,14 @@
                 "generic": true
             },
             {
-                "nid": "Youmu_Boss",
+                "nid": "Sara_Boss",
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Guard",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    9,
-                    16
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Merlin",
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    24,
-                    22
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Lyrica",
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    13,
-                    9
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Lunasa",
-                "team": "enemy",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    11,
-                    21
+                    18,
+                    3
                 ],
                 "starting_traveler": null,
                 "generic": false
