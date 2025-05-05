@@ -16,6 +16,7 @@
             "speak;Rinnosuke;The Kusanagi...I can feel its power...!",
             "remove_portrait;Rinnosuke",
             "give_item;{unit};Kusanagi1",
+            "inc_game_var;KusanagiKills;1",
             "elif;unit2.get_hp() == 0 and {v:KusanagiKills} > 4 and {v:KusanagiKills} < 14",
             "inc_game_var;KusanagiKills;1",
             "elif;unit2.get_hp() == 0 and {v:KusanagiKills} == 14 ",
