@@ -20,10 +20,6 @@
                 null
             ],
             [
-                "min_range",
-                1
-            ],
-            [
                 "max_range",
                 1
             ],
@@ -32,16 +28,20 @@
                 null
             ],
             [
-                "battle_cast_anim",
-                "Restore"
-            ],
-            [
                 "spell",
                 null
             ],
             [
                 "accessory",
                 null
+            ],
+            [
+                "map_cast_anim",
+                "MapSmallHealTrans"
+            ],
+            [
+                "map_hit_sfx",
+                "DebuffRecover"
             ]
         ]
     }

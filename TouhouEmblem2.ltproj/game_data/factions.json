@@ -90,6 +90,16 @@
         ]
     },
     {
+        "nid": "Head",
+        "name": "Head",
+        "desc": "One of Sekibanki's many heads.",
+        "icon_nid": "MonsterEmblem",
+        "icon_index": [
+            0,
+            0
+        ]
+    },
+    {
         "nid": "Hakugyoukurou",
         "name": "Hakugyoukurou",
         "desc": "Servants of the Lady of the Underworld, Yuyuko Saigyouji.",

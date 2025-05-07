@@ -626,7 +626,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Pursue",
+                "ai": "Pursue_1",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -650,7 +650,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Pursue",
+                "ai": "Pursue_1",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -674,7 +674,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Pursue",
+                "ai": "Pursue_1",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -698,7 +698,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Pursue",
+                "ai": "Pursue_1",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -1083,7 +1083,7 @@
                 "variant": "Heads",
                 "level": 2,
                 "klass": "Shaman",
-                "faction": "Youkai",
+                "faction": "Head",
                 "starting_items": [
                     [
                         "Flux",
@@ -1106,7 +1106,7 @@
                 "variant": "Heads",
                 "level": 2,
                 "klass": "Shaman",
-                "faction": "Youkai",
+                "faction": "Head",
                 "starting_items": [
                     [
                         "Flux",
@@ -1129,7 +1129,7 @@
                 "variant": "Heads",
                 "level": 2,
                 "klass": "Shaman",
-                "faction": "Youkai",
+                "faction": "Head",
                 "starting_items": [
                     [
                         "Flux",

@@ -73,6 +73,10 @@
             [
                 1,
                 "Master_Pharmacist"
+            ],
+            [
+                1,
+                "Guardian"
             ]
         ],
         "unit_notes": [],

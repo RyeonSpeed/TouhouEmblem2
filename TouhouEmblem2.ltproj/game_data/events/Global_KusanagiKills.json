@@ -25,6 +25,7 @@
             "speak;Rinnosuke;The Kusanagi's power grows more...",
             "remove_portrait;Rinnosuke",
             "give_item;{unit};Kusanagi2",
+            "inc_game_var;KusanagiKills;1",
             "elif;unit2.get_hp() == 0 and {v:KusanagiKills} > 14 and {v:KusanagiKills} < 24",
             "inc_game_var;KusanagiKills;1",
             "elif;unit2.get_hp() == 0 and {v:KusanagiKills} == 24",
@@ -33,6 +34,7 @@
             "speak;Rinnosuke;What's this?! A new breakthrough?!",
             "remove_portrait;Rinnosuke",
             "give_item;{unit};Kusanagi3",
+            "inc_game_var;KusanagiKills;1",
             "elif;unit2.get_hp() == 0 and {v:KusanagiKills} > 24 and {v:KusanagiKills} < 49",
             "inc_game_var;KusanagiKills;1",
             "elif;unit2.get_hp() == 0 and {v:KusanagiKills} == 49",
@@ -41,6 +43,7 @@
             "speak;Rinnosuke;The Kusanagi...it's whole again!",
             "remove_portrait;Rinnosuke",
             "give_item;{unit};Tasouken",
+            "inc_game_var;KusanagiKills;1",
             "elif;unit2.get_hp() == 0 and {v:KusanagiKills} > 49",
             "inc_game_var;KusanagiKills;1",
             "end"

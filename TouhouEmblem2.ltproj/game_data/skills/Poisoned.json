@@ -53,6 +53,14 @@
             [
                 "time",
                 3
+            ],
+            [
+                "upkeep_sound",
+                "Poison"
+            ],
+            [
+                "upkeep_animation",
+                "MapPoison"
             ]
         ]
     }

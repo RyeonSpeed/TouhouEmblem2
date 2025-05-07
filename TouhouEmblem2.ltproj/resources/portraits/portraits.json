@@ -912,7 +912,7 @@
         "info_offset": 0
     },
     {
-        "nid": "RinMiko",
+        "nid": "RinMiko_R",
         "blinking_offset": [
             24,
             32
@@ -936,31 +936,7 @@
         "info_offset": 0
     },
     {
-        "nid": "RinLord_L",
-        "blinking_offset": [
-            24,
-            32
-        ],
-        "smiling_offset": [
-            24,
-            48
-        ],
-        "info_offset": 0
-    },
-    {
-        "nid": "RinLord_S",
-        "blinking_offset": [
-            24,
-            32
-        ],
-        "smiling_offset": [
-            24,
-            48
-        ],
-        "info_offset": 0
-    },
-    {
-        "nid": "RinLord_B",
+        "nid": "RinLodestar_B",
         "blinking_offset": [
             24,
             32
@@ -1987,6 +1963,18 @@
         ],
         "smiling_offset": [
             32,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "sekibanki-head",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
             48
         ],
         "info_offset": 0
