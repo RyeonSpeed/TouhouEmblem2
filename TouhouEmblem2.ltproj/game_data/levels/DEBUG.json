@@ -141,7 +141,7 @@
                 "generic": true
             },
             {
-                "nid": "Letty",
+                "nid": "SigmaRaven",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -154,7 +154,7 @@
                 "generic": false
             },
             {
-                "nid": "Cirno",
+                "nid": "Remilia",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -167,10 +167,23 @@
                 "generic": false
             },
             {
+                "nid": "Rumia",
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    10,
+                    16
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
                 "nid": "101",
                 "variant": null,
                 "level": 1,
-                "klass": "Dryad",
+                "klass": "Guard",
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -179,13 +192,37 @@
                     ]
                 ],
                 "starting_skills": [],
-                "team": "enemy2",
+                "team": "enemy",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    7,
-                    16
+                    10,
+                    17
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "102",
+                "variant": null,
+                "level": 1,
+                "klass": "Mage",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Arson",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    6,
+                    13
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -228,6 +265,11 @@
             }
         ],
         "unit_groups": [],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

@@ -77,11 +77,15 @@
             ],
             [
                 "battle_cast_anim",
-                "Hex"
+                "Dagon"
             ],
             [
                 "fatigue",
                 1
+            ],
+            [
+                "status_on_equip",
+                "Dagon_Melee_Skill"
             ]
         ]
     }
