@@ -2,7 +2,7 @@
     {
         "nid": "Phoenix_Crash",
         "name": "Phoenix Crash",
-        "desc": "Splash 1. After attack: sets user's HP to 50% of their Max HP, then applies \"Phoenix Aura\" to user. ",
+        "desc": "Splash 1. After attack: sets user's HP to 50% of their Max HP, then applies \"Phoenix Aura\" to user. Multiplies DMG by 1.5x.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             0,
