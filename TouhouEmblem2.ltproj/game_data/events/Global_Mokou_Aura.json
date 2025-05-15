@@ -9,7 +9,7 @@
         "priority": 20,
         "_source": [
             "give_skill;{unit};Phoenix_Aura_1;no_banner",
-            "set_current_hp;{unit};{e:max(1, int(unit.get_max_hp() / 2))}",
+            "set_current_hp;{unit};{e:max(1, int(unit.get_max_hp() * 0.625))}",
             "sound;FireBall",
             "end"
         ],

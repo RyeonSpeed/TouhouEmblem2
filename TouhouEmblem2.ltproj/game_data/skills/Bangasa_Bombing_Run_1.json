@@ -16,10 +16,6 @@
             [
                 "alternate_battle_anim",
                 "Critical"
-            ],
-            [
-                "limit_maximum_range",
-                1
             ]
         ]
     }

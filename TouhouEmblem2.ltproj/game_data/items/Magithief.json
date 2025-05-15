@@ -32,6 +32,10 @@
             [
                 "target_enemy",
                 null
+            ],
+            [
+                "map_hit_sfx",
+                "Thief"
             ]
         ]
     }

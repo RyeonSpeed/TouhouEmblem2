@@ -10,8 +10,12 @@
         ],
         "components": [
             [
-                "ability",
-                "TorchBonus"
+                "sight_range_bonus",
+                3
+            ],
+            [
+                "hit",
+                10
             ],
             [
                 "hidden",

@@ -127,7 +127,7 @@
     "Mage5_Althea",
     "Mage5_GenericBlue",
     "Mage5_GenericRed",
-    "Sage5_Althea",
+    "Sage5_Yumemi",
     "Sage5_GenericBlue",
     "Cleric7_Prim",
     "Cleric7_Tamiko",
@@ -316,6 +316,7 @@
     "Outlaw_GenericBlue",
     "Outlaw_GenericRed",
     "SunnyOutlaw",
+    "ChiyuriOutlaw",
     "Herald_GenericBlue",
     "Herald_GenericRed",
     "StarHerald",
@@ -358,7 +359,13 @@
     "FimbulvetrVortex_Image",
     "FimbulvetrIce_Image_1",
     "New_Palette",
+    "Dagon_Image",
+    "Bolganone_Image",
+    "SigmaRaven",
+    "ThunderDarkMagic_Image",
+    "ThunderDust_Image_1",
+    "RavagerDemonKing_Image",
+    "Tindalos_Image",
     "New_Palette_1",
-    "New_Palette_3",
-    "SigmaRaven"
+    "New_Palette_3"
 ]

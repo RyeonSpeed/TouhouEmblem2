@@ -195,11 +195,6 @@
         false
     ],
     [
-        "Lunatic Princess",
-        true,
-        false
-    ],
-    [
         "Strawberry Crisis",
         true,
         false
@@ -226,6 +221,11 @@
     ],
     [
         "Skygazer",
+        true,
+        false
+    ],
+    [
+        "Lunatic Princess",
         true,
         false
     ]

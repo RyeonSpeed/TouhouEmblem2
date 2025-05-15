@@ -37,7 +37,9 @@
             "add_lore;Kaguya",
             "add_lore;Kogasa",
             "add_lore;Mima",
-            "game_var;KusanagiKills;0"
+            "game_var;KusanagiKills;0",
+            "enable_fog_of_war;t",
+            "set_fog_of_war;gba;5;5;5"
         ],
         "nid": "DEBUG New Event"
     }

@@ -2,7 +2,7 @@
     {
         "nid": "Torch_Tome",
         "name": "Torch",
-        "desc": "An unusual light is shining off of this tome. \n\"Use\" to gain +3 sight in dark. +10 Hit. Anti Mounted. Beastkiller.",
+        "desc": "An unusual light is shining off of this tome. \nGives +3 sight in dark and +10 Hit when equipped. Anti Mounted. Beastkiller.",
         "icon_nid": "AnimaMagic",
         "icon_index": [
             0,
@@ -85,10 +85,6 @@
                 "Torch_Tome"
             ],
             [
-                "status_on_equip",
-                "LanternBonus"
-            ],
-            [
                 "fatigue",
                 1
             ],
@@ -104,6 +100,14 @@
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
+            ],
+            [
+                "usable",
+                null
+            ],
+            [
+                "status_on_equip",
+                "LanternBonus"
             ]
         ]
     }
