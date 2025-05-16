@@ -1878,6 +1878,16 @@
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "Eirin_NPC",
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [
@@ -2298,9 +2308,16 @@
                 }
             },
             {
-                "nid": "ThreeEnemies",
-                "units": [],
-                "positions": {}
+                "nid": "OhShitEirin",
+                "units": [
+                    "Eirin_NPC"
+                ],
+                "positions": {
+                    "Eirin_NPC": [
+                        24,
+                        11
+                    ]
+                }
             },
             {
                 "nid": "EnemyTeam",

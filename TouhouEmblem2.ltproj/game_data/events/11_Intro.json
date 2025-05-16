@@ -15,7 +15,7 @@
             "autolevel_to;Mamizou_Boss;18",
             "autolevel_to;Alice_Boss_2;18",
             "prep;1;Sealed Gods",
-            "speak;;This map's clear bonus is 1000 Bonus EXP, but you won't get a single point if you go over 20 turns!;;;hint"
+            "speak;;This map's clear bonus is 1000 Bonus EXP, but you won't get a single point if you go over 15 turns!;;;hint"
         ],
         "nid": "11 Intro"
     }

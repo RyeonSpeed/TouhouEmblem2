@@ -10,8 +10,14 @@
         "_source": [
             "change_ai;Seiran_Boss;Pursue",
             "add_portrait;Seiran;Left",
-            "speak;Seiran;Alright, stop stalling! I'll take the fight to you!",
-            "remove_portrait;Seiran"
+            "speak;Seiran;Alright, stop stalling! I'll take the fight to you! Hey, call the elites!",
+            "remove_portrait;Seiran",
+            "add_group;HurryUp;HurryUp;warp;closest",
+            "move_cursor;146",
+            "flicker_cursor;146",
+            "move_cursor;144",
+            "flicker_cursor;144",
+            ""
         ],
         "nid": "3 Turn15"
     }

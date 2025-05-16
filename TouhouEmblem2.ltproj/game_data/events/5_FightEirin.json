@@ -1,0 +1,18 @@
+[
+    {
+        "name": "FightEirin",
+        "trigger": "combat_start",
+        "level_nid": "5",
+        "condition": "unit.nid == \"Eirin_NPC\" or unit2.nid == \"Eirin_NPC\"",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "music;Dullahan Under the Willows",
+            "add_portrait;Eirin;Left",
+            "speak;Eirin;You stand in the presence of the Brain of the Moon!",
+            "remove_portrait;Eirin"
+        ],
+        "nid": "5 FightEirin"
+    }
+]

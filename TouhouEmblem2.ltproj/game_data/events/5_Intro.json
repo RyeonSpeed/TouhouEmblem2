@@ -69,7 +69,7 @@
             "change_background;",
             "prep;1;Sealed Gods",
             "transition;open",
-            "speak;;This map's clear bonus is 375 Bonus EXP, with a decrease of 75 BExp per turn you take over 20 turns!;;;hint",
+            "speak;;This map's clear bonus is 375 Bonus EXP, with a decrease of 75 BExp per turn you take over 15 turns!;;;hint",
             "music_clear;",
             "music;Kagome Kagome;300\u2028"
         ],

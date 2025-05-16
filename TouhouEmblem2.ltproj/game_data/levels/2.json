@@ -54,19 +54,6 @@
                 "generic": false
             },
             {
-                "nid": "Wriggle",
-                "team": "enemy",
-                "ai": "Guard",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    9,
-                    3
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
                 "nid": "101",
                 "variant": null,
                 "level": 2,
@@ -1212,15 +1199,59 @@
                 "generic": true
             },
             {
-                "nid": "Mystia",
+                "nid": "147",
+                "variant": null,
+                "level": 40,
+                "klass": "Ronin",
+                "faction": "Monster",
+                "starting_items": [
+                    [
+                        "War_Club",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy2",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Mystia_Boss",
                 "team": "enemy",
-                "ai": "Guard",
+                "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
                     9,
                     10
                 ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Wriggle_Boss",
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    9,
+                    3
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Wriggle_Boss_1",
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
             }
@@ -1465,8 +1496,37 @@
                         20
                     ]
                 }
+            },
+            {
+                "nid": "OhFuck",
+                "units": [
+                    "147"
+                ],
+                "positions": {
+                    "147": [
+                        9,
+                        20
+                    ]
+                }
+            },
+            {
+                "nid": "WriggleSpell",
+                "units": [
+                    "Wriggle_Boss_1"
+                ],
+                "positions": {
+                    "Wriggle_Boss_1": [
+                        9,
+                        3
+                    ]
+                }
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

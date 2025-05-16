@@ -8,7 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "change_ai;Wriggle;Pursue",
+            "change_ai;Wriggle_Boss;Pursue",
             "add_portrait;Wriggle;Left",
             "speak;Wriggle;What's taking them so long?! I'm gonna go myself!",
             "remove_portrait;Wriggle"

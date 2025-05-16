@@ -18,7 +18,7 @@
             "speak;;Mechanics Sign: Joule's Revelation;center;180;hint;;red;;;1;;;;;Warp",
             "speak;Yumemi;It's not over yet! I'll teach you that fundamental laws can't be overwritten!",
             "remove_portrait;Yumemi",
-            "add_group;YumemiSpell;YumemiSpell;warp;closest",
+            "add_group;YumemiSpell;YumemiSpell;warp;push",
             "autolevel_to;Yumemi_Boss_1;15;fixed",
             "move_cursor;Yumemi_Boss_1",
             "for;VICTIMS;[x.nid for x in game.get_all_units()]",

@@ -3,7 +3,7 @@
         "name": "FightMystia",
         "trigger": "combat_start",
         "level_nid": "2",
-        "condition": "(unit.nid == \"Mystia\" and unit2.team == 'player' and unit.team == \"enemy\") or (unit2.nid == \"Mystia\" and unit.team == 'player' and unit2.team == \"enemy\")",
+        "condition": "(unit.nid == \"Mystia_Boss\" and unit2.team == 'player' and unit.team == \"enemy\") or (unit2.nid == \"Mystia_Boss\" and unit.team == 'player' and unit2.team == \"enemy\")",
         "commands": [],
         "only_once": true,
         "priority": 20,

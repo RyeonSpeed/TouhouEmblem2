@@ -3,7 +3,7 @@
         "name": "Fight Rumia/Mystia",
         "trigger": "combat_start",
         "level_nid": "2",
-        "condition": "(unit.nid == \"Rumia\" and unit2.nid == \"Mystia\") or (unit.nid == \"Mystia\" and unit2.nid == \"Rumia\")",
+        "condition": "(unit.nid == \"Rumia\" and unit2.nid == \"Mystia_Boss\") or (unit.nid == \"Mystia_Boss\" and unit2.nid == \"Rumia\")",
         "commands": [],
         "only_once": false,
         "priority": 20,

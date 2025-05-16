@@ -18,7 +18,7 @@
             "speak;;Mechanics Sign: Newton's First Gift;center;190;hint;;red;;;1;;;;;Warp",
             "speak;Chiyuri;Eughh...I may have been defeated...but my teacher will destroy you!",
             "remove_portrait;Chiyuri",
-            "add_group;ChiyuriSpell;ChiyuriSpell;warp;closest",
+            "add_group;ChiyuriSpell;ChiyuriSpell;warp;push",
             "autolevel_to;Yumemi_Boss;15;fixed",
             "move_cursor;Yumemi_Boss",
             "add_portrait;Yumemi;Left",

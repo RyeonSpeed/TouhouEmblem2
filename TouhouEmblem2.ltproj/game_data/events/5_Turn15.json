@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Turn15",
+        "trigger": "turn_change",
+        "level_nid": "5",
+        "condition": "game.turncount == 15",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Eirin;Left",
+            "add_portrait;Tewi;Right",
+            "speak;Eirin;What is taking Reisen so long to deal with these intruders?",
+            "speak;Tewi;Heh, she's probably having trouble. ",
+            "speak;Eirin;It seems I will have to deal with this myself.",
+            "remove_portrait;Eirin",
+            "remove_portrait;Tewi",
+            "add_group;OhShitEirin;OhShitEirin;fade;closest",
+            "move_cursor;Eirin_NPC",
+            "flicker_cursor;Eirin_NPC"
+        ],
+        "nid": "5 Turn15"
+    }
+]

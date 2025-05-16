@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Turn15_1",
+        "trigger": "turn_change",
+        "level_nid": "2",
+        "condition": "game.turncount == 15 ",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Reimu;Left",
+            "speak;Reimu;*shivers* There's something terrifying in these woods...",
+            "speak;???;GRAAAHAHHHHHHHH!!!!",
+            "speak;Reimu;Hurry it up!",
+            "remove_portrait;Reimu",
+            "add_group;OhFuck;OhFuck;fade;closest",
+            "move_cursor;147",
+            "flicker_cursor;147"
+        ],
+        "nid": "2 Turn15_1"
+    }
+]

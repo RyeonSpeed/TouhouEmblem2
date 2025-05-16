@@ -1,0 +1,19 @@
+[
+    {
+        "name": "WriggleSpell",
+        "trigger": "combat_end",
+        "level_nid": "2",
+        "condition": "game.check_dead(\"Wriggle_Boss\")",
+        "commands": [],
+        "only_once": true,
+        "priority": 21,
+        "_source": [
+            "add_portrait;Wriggle;Left",
+            "speak;;Carapace Sign \"Hercules Beetle\";center;170;hint;;red;;;1;;;;;Warp",
+            "speak;Wriggle;I feel...much stronger now! Come to me, insects of the woods!",
+            "remove_portrait;Wriggle",
+            "add_group;WriggleSpell;WriggleSpell;warp;push"
+        ],
+        "nid": "2 WriggleSpell"
+    }
+]

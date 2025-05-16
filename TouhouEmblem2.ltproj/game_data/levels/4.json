@@ -1870,6 +1870,98 @@
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": true
+            },
+            {
+                "nid": "174",
+                "variant": null,
+                "level": 40,
+                "klass": "Rogue",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Persecutor",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "175",
+                "variant": null,
+                "level": 40,
+                "klass": "Rogue",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Persecutor",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "176",
+                "variant": null,
+                "level": 40,
+                "klass": "Rogue",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Persecutor",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "177",
+                "variant": null,
+                "level": 40,
+                "klass": "Rogue",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Persecutor",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
             }
         ],
         "regions": [
@@ -2545,6 +2637,33 @@
                     "173": [
                         17,
                         15
+                    ]
+                }
+            },
+            {
+                "nid": "GetFucked",
+                "units": [
+                    "174",
+                    "175",
+                    "176",
+                    "177"
+                ],
+                "positions": {
+                    "174": [
+                        9,
+                        8
+                    ],
+                    "175": [
+                        21,
+                        8
+                    ],
+                    "176": [
+                        28,
+                        14
+                    ],
+                    "177": [
+                        28,
+                        2
                     ]
                 }
             }

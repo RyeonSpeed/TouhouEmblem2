@@ -1061,6 +1061,90 @@
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": true
+            },
+            {
+                "nid": "144",
+                "variant": null,
+                "level": 40,
+                "klass": "Spellsword",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Levin_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "145",
+                "variant": null,
+                "level": 40,
+                "klass": "Spellsword",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Levin_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "146",
+                "variant": null,
+                "level": 40,
+                "klass": "Spellsword",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Levin_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "147",
+                "variant": null,
+                "level": 40,
+                "klass": "Spellsword",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Levin_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
             }
         ],
         "regions": [
@@ -1406,6 +1490,33 @@
                     "143": [
                         19,
                         4
+                    ]
+                }
+            },
+            {
+                "nid": "HurryUp",
+                "units": [
+                    "144",
+                    "145",
+                    "146",
+                    "147"
+                ],
+                "positions": {
+                    "144": [
+                        0,
+                        3
+                    ],
+                    "145": [
+                        0,
+                        5
+                    ],
+                    "146": [
+                        0,
+                        14
+                    ],
+                    "147": [
+                        1,
+                        15
                     ]
                 }
             }

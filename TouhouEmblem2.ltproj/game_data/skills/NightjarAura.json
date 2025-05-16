@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "NightjarAura",
+        "name": "Nightjar Aura",
+        "desc": "All enemies -2 Def.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            2,
+            0
+        ],
+        "components": [
+            [
+                "aura",
+                "NightjarAura_1"
+            ],
+            [
+                "aura_range",
+                99
+            ],
+            [
+                "aura_target",
+                "enemy"
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

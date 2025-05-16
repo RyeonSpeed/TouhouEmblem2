@@ -2174,6 +2174,205 @@
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "183",
+                "variant": null,
+                "level": 9,
+                "klass": "Vagrant_A",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Short_Axe",
+                        false
+                    ],
+                    [
+                        "Poppet",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "184",
+                "variant": null,
+                "level": 9,
+                "klass": "Lancer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Short_Spear",
+                        false
+                    ],
+                    [
+                        "Poppet",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "185",
+                "variant": null,
+                "level": 9,
+                "klass": "Lancer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Short_Spear",
+                        false
+                    ],
+                    [
+                        "Poppet",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "190",
+                "variant": null,
+                "level": 9,
+                "klass": "Vagrant_A",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Short_Axe",
+                        false
+                    ],
+                    [
+                        "Poppet",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "187",
+                "variant": null,
+                "level": 9,
+                "klass": "Mage",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Thunder",
+                        false
+                    ],
+                    [
+                        "Maple_Shield",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "188",
+                "variant": null,
+                "level": 9,
+                "klass": "Shaman",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Yomi",
+                        false
+                    ],
+                    [
+                        "Maple_Shield",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "189",
+                "variant": null,
+                "level": 9,
+                "klass": "Acolyte",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Omikuji",
+                        false
+                    ],
+                    [
+                        "Maple_Shield",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Chiyuri_Boss_1",
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [
@@ -2807,11 +3006,31 @@
             {
                 "nid": "ChiyuriSpell",
                 "units": [
-                    "Yumemi_Boss"
+                    "Yumemi_Boss",
+                    "183",
+                    "184",
+                    "185",
+                    "190"
                 ],
                 "positions": {
                     "Yumemi_Boss": [
                         10,
+                        16
+                    ],
+                    "183": [
+                        9,
+                        16
+                    ],
+                    "184": [
+                        10,
+                        17
+                    ],
+                    "185": [
+                        10,
+                        15
+                    ],
+                    "190": [
+                        11,
                         16
                     ]
                 }
@@ -2819,11 +3038,31 @@
             {
                 "nid": "YumemiSpell",
                 "units": [
-                    "Yumemi_Boss_1"
+                    "Yumemi_Boss_1",
+                    "187",
+                    "188",
+                    "189",
+                    "Chiyuri_Boss_1"
                 ],
                 "positions": {
                     "Yumemi_Boss_1": [
                         10,
+                        16
+                    ],
+                    "187": [
+                        10,
+                        15
+                    ],
+                    "188": [
+                        9,
+                        16
+                    ],
+                    "189": [
+                        10,
+                        17
+                    ],
+                    "Chiyuri_Boss_1": [
+                        11,
                         16
                     ]
                 }
