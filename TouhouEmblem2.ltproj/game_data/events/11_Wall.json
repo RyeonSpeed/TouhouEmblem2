@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Wall",
+        "trigger": "unit_death",
+        "level_nid": "11",
+        "condition": "unit.nid == 'Wall'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "show_layer;Wall"
+        ],
+        "nid": "11 Wall"
+    }
+]

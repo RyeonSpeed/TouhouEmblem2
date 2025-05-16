@@ -245,5 +245,10 @@
         "nid": "Village v2 - Float",
         "terrain_grid": {},
         "autotiles": {}
+    },
+    {
+        "nid": "Chpater11",
+        "terrain_grid": {},
+        "autotiles": {}
     }
 ]
