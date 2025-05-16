@@ -2,7 +2,7 @@
     {
         "nid": "HerculesBeetle",
         "name": "Carapace Sign \"Hercules Beetle\"",
-        "desc": "Wriggle gathers insects from around the forest to form a protective carapace for herself. She takes half damage from attacks and inflicts all units she strikes with \"Infest\".\nCapture Bonus: Mandatory",
+        "desc": "Wriggle gathers insects from around the forest to form a protective carapace for herself. Halves damage from attacks and inflicts all units she strikes with \"Infest\".\nCapture Bonus: Mandatory",
         "icon_nid": "skillicons_1",
         "icon_index": [
             8,

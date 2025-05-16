@@ -12,6 +12,10 @@
             [
                 "give_status_after_combat",
                 "Infest_Effect_1"
+            ],
+            [
+                "ability_indicator",
+                null
             ]
         ]
     }

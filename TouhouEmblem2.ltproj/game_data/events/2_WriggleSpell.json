@@ -12,7 +12,8 @@
             "speak;;Carapace Sign \"Hercules Beetle\";center;170;hint;;red;;;1;;;;;Warp",
             "speak;Wriggle;I feel...much stronger now! Come to me, insects of the woods!",
             "remove_portrait;Wriggle",
-            "add_group;WriggleSpell;WriggleSpell;warp;push"
+            "add_group;WriggleSpell;WriggleSpell;warp;push",
+            "autolevel_to;Wriggle_Boss_1;3;fixed"
         ],
         "nid": "2 WriggleSpell"
     }
