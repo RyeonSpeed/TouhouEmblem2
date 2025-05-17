@@ -188,25 +188,25 @@
                 "generic": true
             },
             {
-                "nid": "198",
+                "nid": "Commander1",
                 "variant": null,
-                "level": 11,
-                "klass": "Fencer",
-                "faction": "Insurgents",
+                "level": 15,
+                "klass": "Battlesage",
+                "faction": "Commander",
                 "starting_items": [
                     [
-                        "Killing_Edge",
+                        "Elfire",
                         false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Guard",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
                     5,
-                    11
+                    10
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -543,6 +543,30 @@
                 "starting_position": [
                     24,
                     23
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Commander2",
+                "variant": null,
+                "level": 15,
+                "klass": "Warrior",
+                "faction": "Commander",
+                "starting_items": [
+                    [
+                        "Tomahawk",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    24,
+                    22
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1543,6 +1567,45 @@
                 ],
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "Merlin",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    6,
+                    29
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Lyrica",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    6,
+                    31
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Lunasa",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    7,
+                    30
+                ],
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [
@@ -1666,96 +1729,11 @@
                 "interrupt_move": false
             },
             {
-                "nid": "F_8",
-                "region_type": "formation",
-                "position": [
-                    2,
-                    29
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": null,
-                "condition": "True",
-                "time_left": null,
-                "only_once": false,
-                "interrupt_move": false
-            },
-            {
                 "nid": "F_9",
                 "region_type": "formation",
                 "position": [
                     3,
                     27
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": null,
-                "condition": "True",
-                "time_left": null,
-                "only_once": false,
-                "interrupt_move": false
-            },
-            {
-                "nid": "F_10",
-                "region_type": "formation",
-                "position": [
-                    6,
-                    31
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": null,
-                "condition": "True",
-                "time_left": null,
-                "only_once": false,
-                "interrupt_move": false
-            },
-            {
-                "nid": "F_11",
-                "region_type": "formation",
-                "position": [
-                    5,
-                    29
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": null,
-                "condition": "True",
-                "time_left": null,
-                "only_once": false,
-                "interrupt_move": false
-            },
-            {
-                "nid": "F_12",
-                "region_type": "formation",
-                "position": [
-                    8,
-                    30
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": null,
-                "condition": "True",
-                "time_left": null,
-                "only_once": false,
-                "interrupt_move": false
-            },
-            {
-                "nid": "F_13",
-                "region_type": "formation",
-                "position": [
-                    7,
-                    29
                 ],
                 "size": [
                     1,

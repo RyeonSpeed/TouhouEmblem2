@@ -6163,7 +6163,7 @@
             },
             {
                 "nid": "Chest3",
-                "visible": true,
+                "visible": false,
                 "foreground": false,
                 "terrain_grid": {},
                 "sprite_grid": {
@@ -6178,7 +6178,7 @@
             },
             {
                 "nid": "Chest1",
-                "visible": true,
+                "visible": false,
                 "foreground": false,
                 "terrain_grid": {},
                 "sprite_grid": {
@@ -6193,7 +6193,7 @@
             },
             {
                 "nid": "Chest2",
-                "visible": true,
+                "visible": false,
                 "foreground": false,
                 "terrain_grid": {},
                 "sprite_grid": {

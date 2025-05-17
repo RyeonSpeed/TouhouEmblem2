@@ -250,5 +250,15 @@
         "nid": "Chpater11",
         "terrain_grid": {},
         "autotiles": {}
+    },
+    {
+        "nid": "Hakugyokurou_2",
+        "terrain_grid": {},
+        "autotiles": {}
+    },
+    {
+        "nid": "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama",
+        "terrain_grid": {},
+        "autotiles": {}
     }
 ]

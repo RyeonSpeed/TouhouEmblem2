@@ -2,7 +2,7 @@
     {
         "nid": "Great_Funeral_Concert",
         "name": "Great Funeral Concert",
-        "desc": "Usable once per map. Only able to be used when all 3 Prismriver Sisters are within 2 tiles of each other: Blast 3. Only targets enemies.",
+        "desc": "Usable once per map. Only able to be used when all 3 Prismriver Sisters are within 2 tiles of each other: Blast 3. Doubles damage. Only targets enemies.",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,
@@ -24,6 +24,10 @@
             [
                 "condition",
                 "len([x for x in get_units_within_distance(unit.position, dist=2) if x.nid in ['Lyrica', 'Merlin', 'Lunasa']]) == 3"
+            ],
+            [
+                "damage_multiplier",
+                2.0
             ]
         ]
     }

@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Forgemaster_3",
+        "name": "Forge Apprentice",
+        "desc": "SKL% chance to conserve a weapon use upon attacking.",
+        "icon_nid": "moreskillicons",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "attack_proc",
+                "Mercy"
+            ]
+        ]
+    }
+]

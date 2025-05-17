@@ -24,6 +24,10 @@
             [
                 "cannot_be_countered",
                 null
+            ],
+            [
+                "never_use_battle_animation",
+                null
             ]
         ]
     }

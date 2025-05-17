@@ -13,6 +13,9 @@
             "trigger_script;Housekeeping1",
             "trigger_script;Housekeeping2",
             "autolevel_to;Sara_Boss;14;fixed;no_warn",
+            "autolevel_to;Lyrica;7;fixed;no_warn",
+            "autolevel_to;Lunasa;7;fixed;no_warn",
+            "autolevel_to;Merlin;7;fixed;no_warn",
             "prep;1;Sealed Gods",
             ""
         ],

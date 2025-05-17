@@ -2,7 +2,7 @@
     {
         "nid": "Fugue_Tuning",
         "name": "Fugue Tuning",
-        "desc": "When within 2 tiles of Lunasa and Merlin: +15 CRIT and +3 SPD.",
+        "desc": "When within 2 tiles of Lunasa and Merlin: +6 DMG and +6 SPD.",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,
@@ -18,17 +18,17 @@
                 [
                     [
                         "SPD",
-                        3
+                        6
                     ]
                 ]
             ],
             [
-                "crit",
-                15
-            ],
-            [
                 "ability_indicator",
                 null
+            ],
+            [
+                "damage",
+                6
             ]
         ]
     }

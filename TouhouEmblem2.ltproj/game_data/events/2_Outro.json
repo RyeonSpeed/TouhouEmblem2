@@ -82,6 +82,7 @@
             "    load_unit;Wriggle;player",
             "    change_team;Wriggle;player",
             "    change_party;Wriggle;Reimu",
+            "    autolevel_to;Wriggle;3",
             "    end_skip",
             "end",
             "#mystia",

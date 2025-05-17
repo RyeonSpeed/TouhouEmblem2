@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Dream_Slicer",
+        "name": "Dream Slicer",
+        "desc": "Splash 1. Inflicts \"Bleeding\" on all targets after battle.",
+        "icon_nid": "skillicons102524(1)",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "item_override",
+                "DreamSlicer"
+            ]
+        ]
+    }
+]

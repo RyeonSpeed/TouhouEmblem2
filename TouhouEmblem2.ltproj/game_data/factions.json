@@ -108,5 +108,15 @@
             0,
             0
         ]
+    },
+    {
+        "nid": "Commander",
+        "name": "Commander",
+        "desc": "Mysterious insurgents who seem to come from nowhere.",
+        "icon_nid": "ResistanceEmblem",
+        "icon_index": [
+            0,
+            0
+        ]
     }
 ]

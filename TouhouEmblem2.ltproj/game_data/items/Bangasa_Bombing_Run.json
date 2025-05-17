@@ -10,12 +10,16 @@
         ],
         "components": [
             [
-                "blast_aoe",
+                "pivot",
                 2
             ],
             [
-                "pivot",
+                "enemy_blast_aoe",
                 2
+            ],
+            [
+                "never_use_battle_animation",
+                null
             ]
         ]
     }

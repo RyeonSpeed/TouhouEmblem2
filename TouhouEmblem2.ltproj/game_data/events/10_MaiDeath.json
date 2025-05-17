@@ -8,7 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            ""
+            "give_bexp;200;Reimu;no_banner"
         ],
         "nid": "10 MaiDeath"
     }

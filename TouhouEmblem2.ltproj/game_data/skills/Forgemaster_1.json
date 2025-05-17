@@ -14,12 +14,12 @@
                 "FORGEMASTER"
             ],
             [
-                "armsthrift",
-                1
-            ],
-            [
                 "ability_indicator",
                 null
+            ],
+            [
+                "attack_proc",
+                "Forgemaster_3"
             ]
         ]
     }

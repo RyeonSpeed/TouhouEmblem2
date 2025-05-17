@@ -17,8 +17,8 @@
             "boss_battle": "Dullahan Under the Willows"
         },
         "objective": {
-            "simple": "Defeat enemy,Left {eval:len(game.get_enemy_units())}",
-            "win": "Defeat all enemies",
+            "simple": "Defeat Wriggle",
+            "win": "Defeat Wriggle",
             "loss": "Reimu or Marisa dies"
         },
         "roam": false,
@@ -1208,6 +1208,10 @@
                     [
                         "War_Club",
                         false
+                    ],
+                    [
+                        "Farshot",
+                        false
                     ]
                 ],
                 "starting_skills": [],
@@ -1222,7 +1226,7 @@
             {
                 "nid": "Mystia_Boss",
                 "team": "enemy",
-                "ai": "None",
+                "ai": "Guard",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [

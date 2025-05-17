@@ -32,6 +32,10 @@
             [
                 "min_range",
                 2
+            ],
+            [
+                "never_use_battle_animation",
+                null
             ]
         ]
     }

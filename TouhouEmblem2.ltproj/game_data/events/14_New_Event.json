@@ -1,0 +1,16 @@
+[
+    {
+        "name": "New Event",
+        "trigger": "level_start",
+        "level_nid": "14",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "show_layer;CherryTrees",
+            "show_layer;New Layer"
+        ],
+        "nid": "14 New Event"
+    }
+]

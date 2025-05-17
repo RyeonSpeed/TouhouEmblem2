@@ -1,0 +1,53 @@
+[
+    {
+        "nid": "Youmu_Boss_1",
+        "name": "Youmu Boss",
+        "desc": "The gardener of Hakugyoukurou. She's a talented swordswoman and a loyal servant but has the tendency to be a bit airheaded at times.",
+        "variant": null,
+        "level": 1,
+        "klass": "Fencer",
+        "tags": [
+            "Boss"
+        ],
+        "bases": {
+            "SPD": 2,
+            "SKL": 2,
+            "STR": 1,
+            "MAG": 8,
+            "HP": 14,
+            "LCK": 0,
+            "DEF": 2,
+            "RES": 2,
+            "CON": 2,
+            "MOV": 0
+        },
+        "growths": {
+            "MOV": 0,
+            "DEF": 0
+        },
+        "stat_cap_modifiers": {},
+        "starting_items": [
+            [
+                "Silver_Sword",
+                false
+            ],
+            [
+                "Maple_Shield",
+                false
+            ]
+        ],
+        "learned_skills": [],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                121,
+                null
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "Youmu",
+        "affinity": "Wind",
+        "fields": []
+    }
+]

@@ -9,7 +9,6 @@
         "priority": 20,
         "_source": [
             "add_portrait;Reimu;Left",
-            "speak;Reimu;*shivers* There's something terrifying in these woods...",
             "speak;???;GRAAAHAHHHHHHHH!!!!",
             "speak;Reimu;Hurry it up!",
             "remove_portrait;Reimu",

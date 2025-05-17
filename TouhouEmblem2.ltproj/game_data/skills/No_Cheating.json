@@ -12,6 +12,10 @@
             [
                 "cannot_trade",
                 null
+            ],
+            [
+                "item_override",
+                "aslur"
             ]
         ]
     }

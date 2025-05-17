@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Intro",
+        "trigger": "level_start",
+        "level_nid": "13",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "autolevel_to;Youmu_Boss;15;fixed;no_warn"
+        ],
+        "nid": "13 Intro"
+    }
+]

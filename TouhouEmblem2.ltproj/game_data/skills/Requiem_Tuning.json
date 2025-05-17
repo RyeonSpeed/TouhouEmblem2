@@ -2,7 +2,7 @@
     {
         "nid": "Requiem_Tuning",
         "name": "Requiem Tuning",
-        "desc": "When within 2 tiles of Lyrica and Merlin: +15 HIT, +5 DEF/RES.",
+        "desc": "When within 2 tiles of Lyrica and Merlin: +30 HIT, +10 DEF/RES.",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,
@@ -18,11 +18,11 @@
                 [
                     [
                         "DEF",
-                        5
+                        10
                     ],
                     [
                         "RES",
-                        5
+                        10
                     ]
                 ]
             ],
@@ -32,7 +32,7 @@
             ],
             [
                 "hit",
-                15
+                30
             ]
         ]
     }

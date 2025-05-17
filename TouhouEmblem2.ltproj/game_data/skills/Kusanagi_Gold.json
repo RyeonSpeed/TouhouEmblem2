@@ -2,7 +2,7 @@
     {
         "nid": "Kusanagi_Gold",
         "name": "Blessing of Nihon",
-        "desc": "Gains 200 Gold after combat. Loses 50 Gold when hit.",
+        "desc": "Gains 100 Gold after combat. Loses 50 Gold when hit.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             4,
