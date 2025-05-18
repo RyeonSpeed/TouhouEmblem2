@@ -10,7 +10,7 @@
             "Boss"
         ],
         "bases": {
-            "HP": 3,
+            "HP": 6,
             "STR": 2,
             "MAG": 3,
             "SKL": 2,
@@ -49,6 +49,10 @@
             [
                 "Reginleif",
                 false
+            ],
+            [
+                "Verutum",
+                false
             ]
         ],
         "learned_skills": [
@@ -59,10 +63,6 @@
             [
                 1,
                 "Indomitable_Spirit"
-            ],
-            [
-                1,
-                "Summoning_Sickness"
             ]
         ],
         "unit_notes": [],

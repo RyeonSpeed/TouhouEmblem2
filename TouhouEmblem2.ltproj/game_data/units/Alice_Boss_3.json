@@ -1,6 +1,6 @@
 [
     {
-        "nid": "Alice_Boss_2",
+        "nid": "Alice_Boss_3",
         "name": "Alice",
         "desc": "",
         "variant": "",
@@ -10,7 +10,7 @@
             "Boss"
         ],
         "bases": {
-            "HP": 15,
+            "HP": 10,
             "STR": 3,
             "MAG": 3,
             "SKL": 0,
@@ -63,6 +63,10 @@
             [
                 1,
                 "Indomitable_Spirit"
+            ],
+            [
+                1,
+                "TriadofMagic"
             ]
         ],
         "unit_notes": [],

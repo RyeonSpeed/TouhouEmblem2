@@ -376,9 +376,7 @@
                         false
                     ]
                 ],
-                "starting_skills": [
-                    "Summoning_Sickness"
-                ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -399,9 +397,7 @@
                         false
                     ]
                 ],
-                "starting_skills": [
-                    "Summoning_Sickness"
-                ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,

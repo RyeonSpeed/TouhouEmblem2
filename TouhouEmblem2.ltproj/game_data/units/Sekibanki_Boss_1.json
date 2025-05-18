@@ -17,7 +17,7 @@
             "SKL": 9,
             "LCK": 7,
             "RES": 1,
-            "HP": 8,
+            "HP": 10,
             "CON": 1,
             "MAG": 1
         },
@@ -67,10 +67,6 @@
             [
                 1,
                 "Indomitable_Spirit"
-            ],
-            [
-                1,
-                "Summoning_Sickness"
             ]
         ],
         "unit_notes": [],

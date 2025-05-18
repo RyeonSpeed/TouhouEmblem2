@@ -21,6 +21,8 @@
             "add_group;AlicePC98Spell;AlicePC98Spell;warp;closest",
             "autolevel_to;Alice_Boss_2;17;fixed",
             "move_cursor;Alice_Boss_2",
+            "for;Spell;game.level.unit_groups.get('AlicePC98Spell').units",
+            "    has_finished;{Spell}",
             "end"
         ],
         "nid": "9 SpellAlicePC98"

@@ -1,9 +1,9 @@
 [
     {
-        "nid": "Steel_Sword",
-        "name": "Steel Sword",
-        "desc": "Folded one hundred times to give it an actual chance.",
-        "icon_nid": "the2icons",
+        "nid": "Pilum",
+        "name": "Pilum",
+        "desc": "",
+        "icon_nid": "throwing",
         "icon_index": [
             0,
             1
@@ -14,40 +14,32 @@
                 null
             ],
             [
-                "value",
-                800
-            ],
-            [
                 "target_enemy",
                 null
             ],
             [
-                "min_range",
-                1
-            ],
-            [
-                "max_range",
-                1
+                "level_exp",
+                null
             ],
             [
                 "damage",
-                8
+                10
             ],
             [
                 "hit",
-                75
+                60
             ],
             [
-                "crit",
-                0
+                "weapon_type",
+                "Lance"
             ],
             [
-                "weight",
-                8
+                "weapon_rank",
+                "C"
             ],
             [
                 "uses",
-                30
+                15
             ],
             [
                 "uses_options",
@@ -57,20 +49,32 @@
                 }
             ],
             [
-                "level_exp",
-                null
+                "weight",
+                11
             ],
             [
-                "weapon_type",
-                "Sword"
+                "crit",
+                0
             ],
             [
-                "weapon_rank",
-                "D"
+                "value",
+                1500
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                3
             ],
             [
                 "fatigue",
                 1
+            ],
+            [
+                "battle_cast_anim",
+                "Javelin"
             ]
         ]
     }

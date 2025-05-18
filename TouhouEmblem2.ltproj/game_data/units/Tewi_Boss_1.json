@@ -10,7 +10,7 @@
             "Boss"
         ],
         "bases": {
-            "HP": 1,
+            "HP": 5,
             "STR": 2,
             "MAG": 1,
             "SKL": 5,
@@ -63,10 +63,6 @@
             [
                 1,
                 "Super_Luck"
-            ],
-            [
-                1,
-                "Summoning_Sickness"
             ]
         ],
         "unit_notes": [],

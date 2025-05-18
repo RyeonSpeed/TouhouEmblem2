@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "TriadofMagic",
+        "name": "Triad of Magic",
+        "desc": "Alice summons 3 Tsukumogami armed with Bolting in a triangle formation.\nCapture Bonus: Mandatory",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            8,
+            5
+        ],
+        "components": [
+            [
+                "combat_art_indicator",
+                null
+            ]
+        ]
+    }
+]

@@ -374,7 +374,7 @@
     "12_Outro",
     "Global_KillCounter",
     "12_FightYoumu",
-    "12_SpellYoumu",
+    "12_SpellSara",
     "Global_KusanagiKills",
     "Global_FUCK_YOU_RAINLASH",
     "Base_MarisaGossip",
@@ -399,5 +399,6 @@
     "5_Shift1",
     "5_Shift2",
     "12_Switch1",
-    "12_Switch2"
+    "12_Switch2",
+    "11_SpellAlice"
 ]

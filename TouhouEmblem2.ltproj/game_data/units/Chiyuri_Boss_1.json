@@ -10,7 +10,7 @@
             "Boss"
         ],
         "bases": {
-            "HP": 9,
+            "HP": 11,
             "STR": 2,
             "SPD": 0,
             "SKL": 3,
@@ -63,10 +63,6 @@
             [
                 1,
                 "Newton"
-            ],
-            [
-                1,
-                "Summoning_Sickness"
             ],
             [
                 1,

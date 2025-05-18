@@ -349,7 +349,7 @@
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Hand_Axe",
+                        "Kasuyu",
                         false
                     ]
                 ],
@@ -373,7 +373,7 @@
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Hand_Axe",
+                        "Kasuyu",
                         false
                     ]
                 ],
@@ -709,7 +709,7 @@
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Short_Spear",
+                        "Pilum",
                         false
                     ]
                 ],
@@ -733,11 +733,11 @@
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Hand_Axe",
+                        "Kasuyu",
                         false
                     ],
                     [
-                        "Javelin",
+                        "Verutum",
                         false
                     ]
                 ],
@@ -1745,9 +1745,7 @@
                         false
                     ]
                 ],
-                "starting_skills": [
-                    "Summoning_Sickness"
-                ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -1768,9 +1766,7 @@
                         false
                     ]
                 ],
-                "starting_skills": [
-                    "Summoning_Sickness"
-                ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -1791,9 +1787,7 @@
                         false
                     ]
                 ],
-                "starting_skills": [
-                    "Summoning_Sickness"
-                ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -1814,9 +1808,7 @@
                         false
                     ]
                 ],
-                "starting_skills": [
-                    "Summoning_Sickness"
-                ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -1837,9 +1829,7 @@
                         false
                     ]
                 ],
-                "starting_skills": [
-                    "Summoning_Sickness"
-                ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -1860,9 +1850,7 @@
                         false
                     ]
                 ],
-                "starting_skills": [
-                    "Summoning_Sickness"
-                ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,

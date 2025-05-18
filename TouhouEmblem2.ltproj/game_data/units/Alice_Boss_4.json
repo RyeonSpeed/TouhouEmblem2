@@ -1,6 +1,6 @@
 [
     {
-        "nid": "Alice_Boss_2",
+        "nid": "Alice_Boss_4",
         "name": "Alice",
         "desc": "",
         "variant": "",
@@ -47,7 +47,7 @@
         },
         "starting_items": [
             [
-                "Silver_Sword",
+                "Wind_Sword",
                 false
             ],
             [

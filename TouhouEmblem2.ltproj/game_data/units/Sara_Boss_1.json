@@ -1,6 +1,6 @@
 [
     {
-        "nid": "Sara_Boss",
+        "nid": "Sara_Boss_1",
         "name": "Sara",
         "desc": "",
         "variant": null,
@@ -14,7 +14,7 @@
             "DEF": 3,
             "RES": 3,
             "MAG": 0,
-            "HP": 8,
+            "HP": 16,
             "SKL": 2,
             "CON": 2,
             "STR": 3,
@@ -50,7 +50,7 @@
             ],
             [
                 1,
-                "LockdownZone"
+                "LockdownZoneAura"
             ]
         ],
         "unit_notes": [],

@@ -10,7 +10,7 @@
             "Boss"
         ],
         "bases": {
-            "HP": 6,
+            "HP": 9,
             "STR": 0,
             "MAG": 3,
             "SKL": 0,
@@ -47,7 +47,7 @@
         },
         "starting_items": [
             [
-                "Spear",
+                "Assegai",
                 false
             ],
             [
@@ -67,10 +67,6 @@
             [
                 1,
                 "Indomitable_Spirit"
-            ],
-            [
-                1,
-                "Summoning_Sickness"
             ]
         ],
         "unit_notes": [],

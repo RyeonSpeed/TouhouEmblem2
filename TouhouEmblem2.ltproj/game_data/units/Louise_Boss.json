@@ -47,7 +47,7 @@
         },
         "starting_items": [
             [
-                "Spear",
+                "Pilum",
                 false
             ],
             [
@@ -67,6 +67,10 @@
             [
                 1,
                 "Indomitable_Spirit"
+            ],
+            [
+                1,
+                "TourGuide"
             ]
         ],
         "unit_notes": [],
