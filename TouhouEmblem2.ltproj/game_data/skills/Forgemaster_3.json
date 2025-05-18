@@ -10,8 +10,8 @@
         ],
         "components": [
             [
-                "attack_proc",
-                "Mercy"
+                "armsthrift",
+                1
             ]
         ]
     }
