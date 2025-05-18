@@ -27,7 +27,7 @@
             ],
             [
                 "eval_target_restrict_2",
-                "target.get_ai() != 'Guard' "
+                "target.get_ai() not in ['Guard', 'None']"
             ],
             [
                 "attack_after_combat",

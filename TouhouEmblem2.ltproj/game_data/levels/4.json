@@ -1347,7 +1347,7 @@
                 "starting_items": [],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "None",
+                "ai": "Guard",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [

@@ -3,7 +3,7 @@
         "nid": "Rinnosuke_NPC",
         "name": "Rinnosuke",
         "desc": "The owner of Kourindou, a curio shop. Tries to be a purveyor of interesting curios, but often falls short in analysis.",
-        "variant": null,
+        "variant": "",
         "level": 4,
         "klass": "Fencer_R",
         "tags": [
