@@ -3,7 +3,7 @@
         "name": "Turn2",
         "trigger": "combat_end",
         "level_nid": "DEBUG",
-        "condition": "game.check_dead(\"Reisen_Boss\")",
+        "condition": "False",
         "commands": [],
         "only_once": true,
         "priority": 20,

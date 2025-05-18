@@ -2,7 +2,7 @@
     {
         "nid": "Lunatic_Red_Eyes_Effect",
         "name": "Lunacy",
-        "desc": "Unit will attack any unit on the field. -30 Hit/Dodge but also +50 Crit",
+        "desc": "Unit will attack any unit on the field. -30 Hit/Dodge but also +50 Crit.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             3,

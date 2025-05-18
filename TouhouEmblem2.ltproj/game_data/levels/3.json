@@ -1065,7 +1065,7 @@
             {
                 "nid": "144",
                 "variant": null,
-                "level": 40,
+                "level": 20,
                 "klass": "Spellsword",
                 "faction": "Eientei",
                 "starting_items": [
@@ -1074,7 +1074,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -1086,7 +1088,7 @@
             {
                 "nid": "145",
                 "variant": null,
-                "level": 40,
+                "level": 20,
                 "klass": "Spellsword",
                 "faction": "Eientei",
                 "starting_items": [
@@ -1095,7 +1097,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -1107,7 +1111,7 @@
             {
                 "nid": "146",
                 "variant": null,
-                "level": 40,
+                "level": 20,
                 "klass": "Spellsword",
                 "faction": "Eientei",
                 "starting_items": [
@@ -1116,7 +1120,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -1128,7 +1134,7 @@
             {
                 "nid": "147",
                 "variant": null,
-                "level": 40,
+                "level": 20,
                 "klass": "Spellsword",
                 "faction": "Eientei",
                 "starting_items": [
@@ -1137,7 +1143,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,

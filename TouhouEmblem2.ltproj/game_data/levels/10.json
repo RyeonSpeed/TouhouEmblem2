@@ -1981,7 +1981,7 @@
             {
                 "nid": "101",
                 "variant": null,
-                "level": 40,
+                "level": 23,
                 "klass": "Spellsword",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -1990,7 +1990,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -2002,7 +2004,7 @@
             {
                 "nid": "102",
                 "variant": null,
-                "level": 40,
+                "level": 23,
                 "klass": "Spellsword",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -2011,7 +2013,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -2023,7 +2027,7 @@
             {
                 "nid": "103",
                 "variant": null,
-                "level": 40,
+                "level": 23,
                 "klass": "Spellsword",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -2032,7 +2036,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -2044,7 +2050,7 @@
             {
                 "nid": "104",
                 "variant": null,
-                "level": 40,
+                "level": 23,
                 "klass": "Spellsword",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -2053,7 +2059,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -2065,7 +2073,7 @@
             {
                 "nid": "105",
                 "variant": null,
-                "level": 40,
+                "level": 23,
                 "klass": "Spellsword",
                 "faction": "Insurgents",
                 "starting_items": [
@@ -2074,7 +2082,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -2243,40 +2253,6 @@
                     1
                 ],
                 "sub_nid": "",
-                "condition": "True",
-                "time_left": null,
-                "only_once": false,
-                "interrupt_move": false
-            },
-            {
-                "nid": "Formation_10",
-                "region_type": "formation",
-                "position": [
-                    2,
-                    14
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": null,
-                "condition": "True",
-                "time_left": null,
-                "only_once": false,
-                "interrupt_move": false
-            },
-            {
-                "nid": "Formation_11",
-                "region_type": "formation",
-                "position": [
-                    2,
-                    7
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": null,
                 "condition": "True",
                 "time_left": null,
                 "only_once": false,

@@ -3,7 +3,7 @@
         "nid": "Prisoner",
         "name": "Prisoner",
         "desc": "",
-        "variant": null,
+        "variant": "",
         "level": 4,
         "klass": "Shaman",
         "tags": [],

@@ -2,7 +2,7 @@
     {
         "nid": "Mai_Boss",
         "name": "Mai ",
-        "desc": "A witch from Makai who's partners with a fire bending witch. She specializes in ice magic.",
+        "desc": "",
         "variant": "",
         "level": 1,
         "klass": "Medic",
@@ -63,6 +63,10 @@
             [
                 1,
                 "Blizzard"
+            ],
+            [
+                1,
+                "Indomitable_Spirit"
             ]
         ],
         "unit_notes": [],

@@ -7227,6 +7227,320 @@
                         ]
                     ]
                 }
+            },
+            {
+                "nid": "Shift1",
+                "visible": false,
+                "foreground": false,
+                "terrain_grid": {
+                    "6,22": "9",
+                    "7,22": "9",
+                    "8,22": "9",
+                    "9,22": "9",
+                    "10,22": "9",
+                    "10,23": "9",
+                    "9,24": "9",
+                    "8,24": "9",
+                    "7,24": "9",
+                    "6,24": "9",
+                    "6,23": "9",
+                    "7,23": "9",
+                    "8,23": "9",
+                    "9,23": "9",
+                    "12,25": "5_1",
+                    "12,14": "6_2",
+                    "23,5": "9"
+                },
+                "sprite_grid": {
+                    "6,22": [
+                        "Flasuban Castle V2",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "6,23": [
+                        "Flasuban Castle V2",
+                        [
+                            1,
+                            16
+                        ]
+                    ],
+                    "6,24": [
+                        "Flasuban Castle V2",
+                        [
+                            1,
+                            18
+                        ]
+                    ],
+                    "7,22": [
+                        "Flasuban Castle V2",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "7,23": [
+                        "Flasuban Castle V2",
+                        [
+                            1,
+                            16
+                        ]
+                    ],
+                    "7,24": [
+                        "Flasuban Castle V2",
+                        [
+                            1,
+                            18
+                        ]
+                    ],
+                    "8,22": [
+                        "Flasuban Castle V2",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "8,23": [
+                        "Flasuban Castle V2",
+                        [
+                            1,
+                            16
+                        ]
+                    ],
+                    "8,24": [
+                        "Flasuban Castle V2",
+                        [
+                            1,
+                            18
+                        ]
+                    ],
+                    "9,22": [
+                        "Flasuban Castle V2",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "9,23": [
+                        "Flasuban Castle V2",
+                        [
+                            1,
+                            16
+                        ]
+                    ],
+                    "9,24": [
+                        "Flasuban Castle V2",
+                        [
+                            1,
+                            18
+                        ]
+                    ],
+                    "10,22": [
+                        "Flasuban Castle V2",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "10,23": [
+                        "Flasuban Castle V2",
+                        [
+                            1,
+                            16
+                        ]
+                    ],
+                    "10,24": [
+                        "Flasuban Castle V2",
+                        [
+                            1,
+                            18
+                        ]
+                    ],
+                    "4,25": [
+                        "Zoramine Castle",
+                        [
+                            21,
+                            0
+                        ]
+                    ],
+                    "5,25": [
+                        "Zoramine Castle",
+                        [
+                            21,
+                            0
+                        ]
+                    ],
+                    "6,25": [
+                        "Zoramine Castle",
+                        [
+                            21,
+                            0
+                        ]
+                    ],
+                    "7,25": [
+                        "Zoramine Castle",
+                        [
+                            21,
+                            0
+                        ]
+                    ],
+                    "8,25": [
+                        "Zoramine Castle",
+                        [
+                            21,
+                            0
+                        ]
+                    ],
+                    "9,25": [
+                        "Zoramine Castle",
+                        [
+                            21,
+                            0
+                        ]
+                    ],
+                    "12,24": [
+                        "Flasuban Castle V2",
+                        [
+                            10,
+                            12
+                        ]
+                    ],
+                    "12,26": [
+                        "Flasuban Castle V2",
+                        [
+                            10,
+                            10
+                        ]
+                    ],
+                    "12,25": [
+                        "Flasuban Castle V2",
+                        [
+                            7,
+                            13
+                        ]
+                    ],
+                    "12,13": [
+                        "Flasuban Castle V2",
+                        [
+                            10,
+                            12
+                        ]
+                    ],
+                    "12,15": [
+                        "Flasuban Castle V2",
+                        [
+                            10,
+                            10
+                        ]
+                    ],
+                    "13,14": [
+                        "Zoramine Castle",
+                        [
+                            21,
+                            1
+                        ]
+                    ],
+                    "12,14": [
+                        "Zoramine Castle",
+                        [
+                            21,
+                            1
+                        ]
+                    ],
+                    "23,5": [
+                        "Thracia Fort",
+                        [
+                            6,
+                            18
+                        ]
+                    ],
+                    "23,6": [
+                        "Zoramine Castle",
+                        [
+                            21,
+                            0
+                        ]
+                    ]
+                }
+            },
+            {
+                "nid": "Shift2",
+                "visible": false,
+                "foreground": false,
+                "terrain_grid": {
+                    "12,6": "9",
+                    "4,8": "9",
+                    "5,8": "9",
+                    "2,8": "9",
+                    "1,8": "9",
+                    "17,20": "5_1"
+                },
+                "sprite_grid": {
+                    "4,8": [
+                        "Thracia Fort",
+                        [
+                            6,
+                            18
+                        ]
+                    ],
+                    "5,8": [
+                        "Thracia Fort",
+                        [
+                            6,
+                            18
+                        ]
+                    ],
+                    "1,8": [
+                        "Thracia Fort",
+                        [
+                            6,
+                            18
+                        ]
+                    ],
+                    "2,8": [
+                        "Thracia Fort",
+                        [
+                            6,
+                            18
+                        ]
+                    ],
+                    "12,6": [
+                        "Flasuban Castle V2",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "12,7": [
+                        "Flasuban Castle V2",
+                        [
+                            14,
+                            30
+                        ]
+                    ],
+                    "17,20": [
+                        "Flasuban Castle V2",
+                        [
+                            8,
+                            13
+                        ]
+                    ],
+                    "17,19": [
+                        "Flasuban Castle V2",
+                        [
+                            10,
+                            12
+                        ]
+                    ],
+                    "17,21": [
+                        "Flasuban Castle V2",
+                        [
+                            10,
+                            10
+                        ]
+                    ]
+                }
             }
         ],
         "tilesets": [

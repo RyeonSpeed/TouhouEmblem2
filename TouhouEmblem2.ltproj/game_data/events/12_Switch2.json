@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Switch2",
+        "trigger": "Switch!",
+        "level_nid": "12",
+        "condition": "region.nid == 'Switch2'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "inc_level_var;Switches;1",
+            "if;{v:Switches} == 2",
+            "show_layer;Hidden3",
+            "add_group;Hidden3;Hidden3;warp",
+            "autolevel_to;Kana_Boss;20;fixed",
+            "else",
+            "end"
+        ],
+        "nid": "12 Switch2"
+    }
+]

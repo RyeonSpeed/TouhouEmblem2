@@ -3,7 +3,7 @@
         "name": "FightEirin",
         "trigger": "combat_start",
         "level_nid": "5",
-        "condition": "unit.nid == \"Eirin_NPC\" or unit2.nid == \"Eirin_NPC\"",
+        "condition": "unit.nid == \"Eirin_Boss\" or unit2.nid == \"Eirin_Boss\"",
         "commands": [],
         "only_once": true,
         "priority": 20,

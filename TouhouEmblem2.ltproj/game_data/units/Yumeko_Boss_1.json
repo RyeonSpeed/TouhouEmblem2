@@ -2,7 +2,7 @@
     {
         "nid": "Yumeko_Boss_1",
         "name": "Yumeko ",
-        "desc": "A maid from Makai who is very loyal to her mistress. She is the strongest creation of the ruler of Makai.",
+        "desc": "",
         "variant": null,
         "level": 1,
         "klass": "Maid",
@@ -67,6 +67,10 @@
             [
                 1,
                 "Dream_Slicer"
+            ],
+            [
+                1,
+                "Indomitable_Spirit"
             ]
         ],
         "unit_notes": [],

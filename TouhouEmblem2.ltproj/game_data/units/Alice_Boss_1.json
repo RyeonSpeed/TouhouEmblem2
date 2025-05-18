@@ -2,7 +2,7 @@
     {
         "nid": "Alice_Boss_1",
         "name": "Alice",
-        "desc": "A mysterious being from Makai who seems to somewhat resemble Alice.",
+        "desc": "",
         "variant": null,
         "level": 1,
         "klass": "Occultist",
@@ -59,6 +59,10 @@
             [
                 1,
                 "Summoning_Sickness"
+            ],
+            [
+                1,
+                "Indomitable_Spirit"
             ]
         ],
         "unit_notes": [],

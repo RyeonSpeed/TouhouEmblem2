@@ -69,6 +69,9 @@
             "change_background;",
             "prep;1;Sealed Gods",
             "transition;open",
+            "add_portrait;Reimu;Right",
+            "speak;Reimu;I don't see that pharmacist around here...that's weird. ",
+            "remove_portrait;Reimu",
             "speak;;This map's clear bonus is 375 Bonus EXP, with a decrease of 75 BExp per turn you take over 15 turns!;;;hint",
             "music_clear;",
             "music;Kagome Kagome;300\u2028"

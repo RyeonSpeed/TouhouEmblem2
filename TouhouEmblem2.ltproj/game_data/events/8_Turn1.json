@@ -1,9 +1,9 @@
 [
     {
-        "name": "Turn3",
+        "name": "Turn1",
         "trigger": "turn_change",
         "level_nid": "8",
-        "condition": "game.turncount == 3",
+        "condition": "game.turncount == 1",
         "commands": [],
         "only_once": false,
         "priority": 20,
@@ -11,6 +11,6 @@
             "add_group;Brigand0;Brigand0;fade;closest",
             "move_cursor;12,17"
         ],
-        "nid": "8 Turn3"
+        "nid": "8 Turn1"
     }
 ]

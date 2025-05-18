@@ -1392,23 +1392,6 @@
                 "interrupt_move": false
             },
             {
-                "nid": "F_3",
-                "region_type": "formation",
-                "position": [
-                    15,
-                    9
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": null,
-                "condition": "True",
-                "time_left": null,
-                "only_once": false,
-                "interrupt_move": false
-            },
-            {
                 "nid": "F_4",
                 "region_type": "formation",
                 "position": [
@@ -1482,23 +1465,6 @@
                 "position": [
                     20,
                     16
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": null,
-                "condition": "True",
-                "time_left": null,
-                "only_once": false,
-                "interrupt_move": false
-            },
-            {
-                "nid": "F_10",
-                "region_type": "formation",
-                "position": [
-                    20,
-                    14
                 ],
                 "size": [
                     1,

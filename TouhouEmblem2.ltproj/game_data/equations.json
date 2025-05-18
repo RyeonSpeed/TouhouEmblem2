@@ -158,5 +158,9 @@
     {
         "nid": "DEVIL",
         "expression": "31 - LCK"
+    },
+    {
+        "nid": "AltCritMult2",
+        "expression": "3/2"
     }
 ]

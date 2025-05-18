@@ -1880,7 +1880,7 @@
                 "generic": false
             },
             {
-                "nid": "Eirin_NPC",
+                "nid": "Eirin_Boss",
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -2310,12 +2310,12 @@
             {
                 "nid": "OhShitEirin",
                 "units": [
-                    "Eirin_NPC"
+                    "Eirin_Boss"
                 ],
                 "positions": {
-                    "Eirin_NPC": [
-                        24,
-                        11
+                    "Eirin_Boss": [
+                        0,
+                        32
                     ]
                 }
             },

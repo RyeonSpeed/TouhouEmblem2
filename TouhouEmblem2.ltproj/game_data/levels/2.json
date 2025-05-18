@@ -1201,7 +1201,7 @@
             {
                 "nid": "147",
                 "variant": null,
-                "level": 40,
+                "level": 25,
                 "klass": "Ronin",
                 "faction": "Monster",
                 "starting_items": [
@@ -1214,7 +1214,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
                 "team": "enemy2",
                 "ai": "Pursue",
                 "roam_ai": null,

@@ -19,9 +19,7 @@
             "move_cursor;176",
             "flicker_cursor;176",
             "move_cursor;177",
-            "flicker_cursor;177",
-            "trigger_script;Global SeiranScramble",
-            "    "
+            "flicker_cursor;177"
         ],
         "nid": "4 Turn15"
     }

@@ -1814,11 +1814,11 @@
                 "nid": "174",
                 "variant": null,
                 "level": 11,
-                "klass": "Vagrant_A",
+                "klass": "Lance_Rider",
                 "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Halberd",
+                        "Steel_Lance",
                         false
                     ]
                 ],
@@ -1835,11 +1835,11 @@
                 "nid": "175",
                 "variant": null,
                 "level": 11,
-                "klass": "Vagrant_A",
+                "klass": "Lance_Rider",
                 "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Halberd",
+                        "Steel_Lance",
                         false
                     ]
                 ],
@@ -1856,11 +1856,11 @@
                 "nid": "176",
                 "variant": null,
                 "level": 11,
-                "klass": "Vagrant_A",
+                "klass": "Lance_Rider",
                 "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Halberd",
+                        "Steel_Lance",
                         false
                     ]
                 ],
@@ -1877,11 +1877,11 @@
                 "nid": "177",
                 "variant": null,
                 "level": 11,
-                "klass": "Vagrant_A",
+                "klass": "Archer",
                 "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Halberd",
+                        "Steel_Bow",
                         false
                     ]
                 ],
@@ -1902,7 +1902,7 @@
                 "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Halberd",
+                        "Killer_Axe",
                         false
                     ]
                 ],
@@ -1919,11 +1919,11 @@
                 "nid": "179",
                 "variant": null,
                 "level": 11,
-                "klass": "Vagrant_A",
+                "klass": "Archer",
                 "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Halberd",
+                        "Steel_Bow",
                         false
                     ]
                 ],
@@ -1940,11 +1940,11 @@
                 "nid": "180",
                 "variant": null,
                 "level": 11,
-                "klass": "Vagrant_A",
+                "klass": "Dracorider",
                 "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Halberd",
+                        "Steel_Lance",
                         false
                     ]
                 ],
@@ -1982,11 +1982,11 @@
                 "nid": "182",
                 "variant": null,
                 "level": 11,
-                "klass": "Vagrant_A",
+                "klass": "Sword_Rider",
                 "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Halberd",
+                        "Axebane",
                         false
                     ]
                 ],
@@ -2003,11 +2003,11 @@
                 "nid": "183",
                 "variant": null,
                 "level": 11,
-                "klass": "Vagrant_A",
+                "klass": "Sword_Rider",
                 "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Halberd",
+                        "Steel_Sword",
                         false
                     ]
                 ],
@@ -2024,11 +2024,11 @@
                 "nid": "184",
                 "variant": null,
                 "level": 11,
-                "klass": "Vagrant_A",
+                "klass": "Peg_Rider",
                 "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Halberd",
+                        "Levin_Sword",
                         false
                     ]
                 ],
@@ -2045,11 +2045,11 @@
                 "nid": "185",
                 "variant": null,
                 "level": 11,
-                "klass": "Vagrant_A",
+                "klass": "Shaman",
                 "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Halberd",
+                        "Luna",
                         false
                     ]
                 ],
@@ -2066,11 +2066,11 @@
                 "nid": "186",
                 "variant": null,
                 "level": 11,
-                "klass": "Vagrant_A",
+                "klass": "Acolyte",
                 "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Halberd",
+                        "Heihaku",
                         false
                     ]
                 ],
@@ -2086,24 +2086,18 @@
             {
                 "nid": "187",
                 "variant": null,
-                "level": 40,
-                "klass": "Seraphknight",
+                "level": 20,
+                "klass": "Lancer",
                 "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Swordcatcher",
-                        false
-                    ],
-                    [
-                        "Brave_Lance",
-                        false
-                    ],
-                    [
-                        "Tengu_Feathers",
+                        "Silver_Lance",
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -2115,24 +2109,271 @@
             {
                 "nid": "188",
                 "variant": null,
-                "level": 40,
-                "klass": "Dracolord",
+                "level": 20,
+                "klass": "Mage",
                 "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Swordslayer",
-                        false
-                    ],
-                    [
-                        "Tomahawk",
-                        false
-                    ],
-                    [
-                        "Tengu_Feathers",
+                        "Elfire",
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "189",
+                "variant": null,
+                "level": 20,
+                "klass": "Archer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Silver_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "190",
+                "variant": null,
+                "level": 20,
+                "klass": "Archer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Silver_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "191",
+                "variant": null,
+                "level": 20,
+                "klass": "Lancer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Silver_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "192",
+                "variant": null,
+                "level": 20,
+                "klass": "Axe_Rider",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Silver_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "193",
+                "variant": null,
+                "level": 20,
+                "klass": "Axe_Rider",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Silver_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "194",
+                "variant": null,
+                "level": 20,
+                "klass": "Bow_Rider",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Killer_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "195",
+                "variant": null,
+                "level": 20,
+                "klass": "Bow_Rider",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Killer_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "196",
+                "variant": null,
+                "level": 20,
+                "klass": "Lancer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Silver_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "197",
+                "variant": null,
+                "level": 20,
+                "klass": "Lancer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Silver_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "198",
+                "variant": null,
+                "level": 20,
+                "klass": "Lancer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Silver_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "199",
+                "variant": null,
+                "level": 25,
+                "klass": "Spearmaster",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Spear",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -2243,14 +2484,14 @@
                 "nid": "F_4",
                 "region_type": "formation",
                 "position": [
-                    6,
-                    15
+                    4,
+                    17
                 ],
                 "size": [
                     1,
                     1
                 ],
-                "sub_nid": null,
+                "sub_nid": "",
                 "condition": "True",
                 "time_left": null,
                 "only_once": false,
@@ -2279,23 +2520,6 @@
                 "position": [
                     0,
                     14
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": null,
-                "condition": "True",
-                "time_left": null,
-                "only_once": false,
-                "interrupt_move": false
-            },
-            {
-                "nid": "F_10",
-                "region_type": "formation",
-                "position": [
-                    5,
-                    16
                 ],
                 "size": [
                     1,
@@ -2555,16 +2779,71 @@
                 "nid": "Turn15Rein",
                 "units": [
                     "187",
-                    "188"
+                    "188",
+                    "189",
+                    "190",
+                    "191",
+                    "192",
+                    "193",
+                    "194",
+                    "195",
+                    "196",
+                    "197",
+                    "198",
+                    "199"
                 ],
                 "positions": {
                     "187": [
-                        2,
-                        19
+                        1,
+                        11
                     ],
                     "188": [
+                        0,
+                        13
+                    ],
+                    "189": [
+                        0,
+                        12
+                    ],
+                    "190": [
+                        0,
+                        11
+                    ],
+                    "191": [
+                        1,
+                        12
+                    ],
+                    "192": [
+                        2,
+                        17
+                    ],
+                    "193": [
                         3,
-                        19
+                        17
+                    ],
+                    "194": [
+                        2,
+                        18
+                    ],
+                    "195": [
+                        3,
+                        18
+                    ],
+                    "196": [
+                        4,
+                        1
+                    ],
+                    "197": [
+                        5,
+                        1
+                    ],
+                    "198": [
+                        6,
+                        1
+                    ],
+                    "199": [
+                        5,
+                        0
                     ]
                 }
             }

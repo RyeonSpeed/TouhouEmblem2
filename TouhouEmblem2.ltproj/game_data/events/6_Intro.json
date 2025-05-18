@@ -100,6 +100,7 @@
             "end",
             "if;game.mode.nid == 'Tezukant'",
             "remove_unit;Reisen;fade",
+            "change_party;Reisen;Dumpster",
             "load_unit;SigmaRaven;other",
             "add_unit;SigmaRaven;5,26;fade;closest",
             "else",

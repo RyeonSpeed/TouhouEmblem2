@@ -1,19 +1,50 @@
 [
     {
         "nid": "Kana_Boss",
-        "name": "Kana Boss",
-        "desc": "A mentally unstable poltergeist who wanders aimlessly, looking for nothing in particular.",
+        "name": "Kana ",
+        "desc": "",
         "variant": null,
         "level": 1,
         "klass": "Druid",
         "tags": [
             "Boss"
         ],
-        "bases": {},
-        "growths": {},
+        "bases": {
+            "HP": 4,
+            "DEF": 3,
+            "RES": 3,
+            "SKL": 3,
+            "STR": 0,
+            "MAG": 3,
+            "SPD": 1,
+            "LCK": 5,
+            "MOV": 0,
+            "CON": 1
+        },
+        "growths": {
+            "MAG": 10,
+            "SPD": 5,
+            "DEF": 5,
+            "RES": 5,
+            "HP": 10
+        },
         "stat_cap_modifiers": {},
-        "starting_items": [],
-        "learned_skills": [],
+        "starting_items": [
+            [
+                "Fenrir",
+                false
+            ],
+            [
+                "Forged_Shield",
+                false
+            ]
+        ],
+        "learned_skills": [
+            [
+                1,
+                "Indomitable_Spirit"
+            ]
+        ],
         "unit_notes": [],
         "wexp_gain": {
             "Dark": [

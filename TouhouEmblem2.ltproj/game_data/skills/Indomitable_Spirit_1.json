@@ -1,6 +1,6 @@
 [
     {
-        "nid": "Indomitable_Spirit",
+        "nid": "Indomitable_Spirit_1",
         "name": "Indomitable Spirit",
         "desc": "Immune to negative statuses. Changes crit damage taken formula to 1.5x",
         "icon_nid": "skillicons3",
@@ -10,13 +10,11 @@
         ],
         "components": [
             [
-                "multi_skill",
-                [
-                    "Indomitable_Spirit_1"
-                ]
+                "immune_status",
+                null
             ],
             [
-                "ability_indicator",
+                "hidden",
                 null
             ]
         ]

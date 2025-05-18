@@ -2,45 +2,73 @@
     {
         "nid": "Sara_Boss",
         "name": "Sara",
-        "desc": "The gatekeeper who usually blocks the way to Makai. She's now gatekeeping the Netherworld.",
+        "desc": "",
         "variant": null,
         "level": 1,
-        "klass": "Occultist",
+        "klass": "Warrior",
         "tags": [
             "Boss"
         ],
         "bases": {
             "SPD": 3,
-            "DEF": 4,
+            "DEF": 3,
             "RES": 3,
-            "MAG": 3,
-            "HP": 6,
+            "MAG": 0,
+            "HP": 8,
             "SKL": 2,
-            "CON": 2
+            "CON": 2,
+            "STR": 3,
+            "LCK": 5
         },
-        "growths": {},
+        "growths": {
+            "STR": 5,
+            "HP": 10,
+            "DEF": 5,
+            "RES": 20,
+            "SKL": 5,
+            "LCK": 0
+        },
         "stat_cap_modifiers": {},
         "starting_items": [
             [
-                "Eclipse",
+                "Silver_Axe",
                 false
             ],
             [
-                "Dark_Spikes",
+                "Tomahawk",
+                false
+            ],
+            [
+                "Poppet",
                 false
             ]
         ],
-        "learned_skills": [],
+        "learned_skills": [
+            [
+                1,
+                "Indomitable_Spirit"
+            ]
+        ],
         "unit_notes": [],
         "wexp_gain": {
             "Dark": [
                 false,
-                181,
+                0,
                 null
             ],
             "Staff": [
                 false,
                 0,
+                null
+            ],
+            "Axe": [
+                false,
+                181,
+                null
+            ],
+            "Bow": [
+                false,
+                71,
                 null
             ]
         },

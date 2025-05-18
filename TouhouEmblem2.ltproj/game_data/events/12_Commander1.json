@@ -8,7 +8,8 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "show_layer;Hidden1"
+            "show_layer;Hidden1",
+            "add_group;Hidden1;Hidden1;fade;closest"
         ],
         "nid": "12 Commander1"
     }

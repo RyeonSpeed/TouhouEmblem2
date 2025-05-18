@@ -2,7 +2,7 @@
     {
         "nid": "Alice_Boss",
         "name": "Alice",
-        "desc": "A mysterious being from Makai who seems to somewhat resemble Alice.",
+        "desc": "",
         "variant": null,
         "level": 1,
         "klass": "Battlesage",
@@ -63,7 +63,12 @@
                 false
             ]
         ],
-        "learned_skills": [],
+        "learned_skills": [
+            [
+                1,
+                "Indomitable_Spirit"
+            ]
+        ],
         "unit_notes": [],
         "wexp_gain": {
             "Dark": [

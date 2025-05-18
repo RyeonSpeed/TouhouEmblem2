@@ -16,9 +16,9 @@
             "remove_portrait;Eirin",
             "remove_portrait;Tewi",
             "add_group;OhShitEirin;OhShitEirin;fade;closest",
-            "move_cursor;Eirin_NPC",
-            "flicker_cursor;Eirin_NPC",
-            "autolevel_to;Eirin_NPC;40"
+            "move_cursor;Eirin_Boss",
+            "flicker_cursor;Eirin_Boss",
+            "autolevel_to;Eirin_Boss;40"
         ],
         "nid": "5 Turn15"
     }

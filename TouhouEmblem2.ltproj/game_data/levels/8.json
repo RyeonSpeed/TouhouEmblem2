@@ -1184,6 +1184,29 @@
                 "generic": true
             },
             {
+                "nid": "141",
+                "variant": null,
+                "level": 8,
+                "klass": "Brigand",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Looter"
+                ],
+                "team": "enemy",
+                "ai": "PursueVillage",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
                 "nid": "108",
                 "variant": null,
                 "level": 8,
@@ -1461,6 +1484,69 @@
             },
             {
                 "nid": "121",
+                "variant": null,
+                "level": 8,
+                "klass": "Grave_Rider",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "136",
+                "variant": null,
+                "level": 8,
+                "klass": "Grave_Rider",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "137",
+                "variant": null,
+                "level": 8,
+                "klass": "Grave_Rider",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Punji",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "138",
                 "variant": null,
                 "level": 8,
                 "klass": "Grave_Rider",
@@ -1818,6 +1904,52 @@
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": true
+            },
+            {
+                "nid": "139",
+                "variant": null,
+                "level": 28,
+                "klass": "Berserker",
+                "faction": "Bandit",
+                "starting_items": [
+                    [
+                        "Silver_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
+                "team": "enemy",
+                "ai": "PursueVillage",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "140",
+                "variant": null,
+                "level": 28,
+                "klass": "Berserker",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Silver_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
+                "team": "enemy",
+                "ai": "PursueVillage",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
             }
         ],
         "regions": [
@@ -1878,23 +2010,6 @@
                 "position": [
                     2,
                     21
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": null,
-                "condition": "True",
-                "time_left": null,
-                "only_once": false,
-                "interrupt_move": false
-            },
-            {
-                "nid": "F_5",
-                "region_type": "formation",
-                "position": [
-                    2,
-                    23
                 ],
                 "size": [
                     1,
@@ -2090,20 +2205,25 @@
                         13
                     ],
                     "116": [
-                        15,
-                        23
+                        12,
+                        17
                     ]
                 }
             },
             {
                 "nid": "Brigand0",
                 "units": [
-                    "105"
+                    "105",
+                    "141"
                 ],
                 "positions": {
                     "105": [
                         12,
                         17
+                    ],
+                    "141": [
+                        15,
+                        23
                     ]
                 }
             },
@@ -2124,20 +2244,35 @@
                 "units": [
                     "120",
                     "119",
-                    "121"
+                    "121",
+                    "136",
+                    "137",
+                    "138"
                 ],
                 "positions": {
                     "120": [
-                        23,
-                        26
+                        0,
+                        3
                     ],
                     "119": [
                         22,
-                        26
+                        0
                     ],
                     "121": [
+                        23,
+                        1
+                    ],
+                    "136": [
                         24,
-                        26
+                        1
+                    ],
+                    "137": [
+                        0,
+                        4
+                    ],
+                    "138": [
+                        4,
+                        0
                     ]
                 }
             },
@@ -2150,16 +2285,16 @@
                 ],
                 "positions": {
                     "123": [
-                        1,
-                        26
+                        22,
+                        0
                     ],
                     "124": [
-                        0,
-                        26
+                        23,
+                        1
                     ],
                     "122": [
-                        2,
-                        26
+                        24,
+                        1
                     ]
                 }
             },
@@ -2180,7 +2315,7 @@
                 "positions": {
                     "Louise_Boss_1": [
                         12,
-                        17
+                        15
                     ],
                     "127": [
                         20,
@@ -2217,6 +2352,23 @@
                     "135": [
                         21,
                         9
+                    ]
+                }
+            },
+            {
+                "nid": "HurryUp",
+                "units": [
+                    "139",
+                    "140"
+                ],
+                "positions": {
+                    "139": [
+                        11,
+                        13
+                    ],
+                    "140": [
+                        12,
+                        17
                     ]
                 }
             }
