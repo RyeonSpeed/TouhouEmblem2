@@ -16,6 +16,14 @@
             [
                 "ability_indicator",
                 null
+            ],
+            [
+                "build_charge_start_charged",
+                1
+            ],
+            [
+                "upkeep_charge_increase",
+                1
             ]
         ]
     }

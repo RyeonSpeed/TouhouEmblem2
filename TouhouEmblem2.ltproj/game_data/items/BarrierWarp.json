@@ -32,10 +32,6 @@
             [
                 "attack_after_combat",
                 null
-            ],
-            [
-                "event_after_combat_even_miss",
-                "Global END"
             ]
         ]
     }
