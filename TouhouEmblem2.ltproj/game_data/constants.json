@@ -237,7 +237,7 @@
     ],
     [
         "double_splash",
-        false
+        true
     ],
     [
         "num_save_slots",
