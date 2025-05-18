@@ -9,7 +9,7 @@
         "priority": 21,
         "_source": [
             "add_group;Kogasa_NPC;Kogasa_NPC;fade;closest",
-            "autolevel_to;Kogasa_NPC;8;fixed",
+            "autolevel_to;Kogasa_NPC;{e:{v:chaptercount}};fixed",
             "add_talk;Reimu;Kogasa_NPC",
             "end"
         ],

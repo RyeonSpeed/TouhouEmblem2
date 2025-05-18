@@ -9,7 +9,7 @@
         "priority": 21,
         "_source": [
             "add_group;Ringo;Ringo;fade;closest",
-            "autolevel_to;Ringo;7;fixed",
+            "autolevel_to;Ringo;{e:{v:chaptercount}};fixed",
             "add_talk;Reimu;Ringo",
             "end"
         ],

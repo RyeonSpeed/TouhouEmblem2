@@ -327,6 +327,7 @@
     "Base_TokikoCheck",
     "Base_Yoshino&SenaCheck",
     "Base_KagerouCheck",
+    "Base_KyoukoCheck",
     "Base_KogasaNPCCheck",
     "Base_RingoCheck",
     "Base_SeiranCheck",
@@ -400,5 +401,10 @@
     "5_Shift2",
     "12_Switch1",
     "12_Switch2",
-    "11_SpellAlice"
+    "11_SpellAlice",
+    "13_YoumuSpell1",
+    "13_YoumuSpell2",
+    "13_YoumuSpell3",
+    "13_DefeatYoumu",
+    "Base_Kyouko"
 ]

@@ -214,6 +214,16 @@
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "Kyouko",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [
@@ -384,8 +394,25 @@
                         24
                     ]
                 }
+            },
+            {
+                "nid": "Kyouko",
+                "units": [
+                    "Kyouko"
+                ],
+                "positions": {
+                    "Kyouko": [
+                        16,
+                        24
+                    ]
+                }
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

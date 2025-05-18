@@ -9,7 +9,7 @@
         "priority": 21,
         "_source": [
             "add_group;Letty;Letty;fade;closest",
-            "autolevel_to;Letty;2;fixed",
+            "autolevel_to;Letty;{e:{v:chaptercount}};fixed",
             "add_talk;Reimu;Letty",
             "end"
         ],

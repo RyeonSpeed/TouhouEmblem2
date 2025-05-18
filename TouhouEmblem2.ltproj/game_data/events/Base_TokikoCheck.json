@@ -9,7 +9,7 @@
         "priority": 21,
         "_source": [
             "add_group;Tokiko;Tokiko;fade;closest",
-            "autolevel_to;Tokiko;2;fixed",
+            "autolevel_to;Tokiko;{e:{v:chaptercount}};fixed",
             "add_talk;Reimu;Tokiko",
             "end"
         ],

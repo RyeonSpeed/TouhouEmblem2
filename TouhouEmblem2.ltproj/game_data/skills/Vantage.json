@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Vantage",
+        "name": "Vantage",
+        "desc": "Always attacks first.",
+        "icon_nid": "moreskillicons",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "vantage",
+                null
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

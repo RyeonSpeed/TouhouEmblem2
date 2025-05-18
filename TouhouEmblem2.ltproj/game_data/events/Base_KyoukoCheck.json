@@ -1,0 +1,18 @@
+[
+    {
+        "name": "KyoukoCheck",
+        "trigger": "level_start",
+        "level_nid": "Base",
+        "condition": "game.check_alive('Kyouko') and game.get_unit('Kyouko').team != 'player' and game.game_vars['chaptercount'] >= 10",
+        "commands": [],
+        "only_once": false,
+        "priority": 21,
+        "_source": [
+            "add_group;Kyouko;Kyouko;fade;closest",
+            "autolevel_to;Kyouko;{e:{v:chaptercount}};fixed",
+            "add_talk;Reimu;Kyouko",
+            "end"
+        ],
+        "nid": "Base KyoukoCheck"
+    }
+]

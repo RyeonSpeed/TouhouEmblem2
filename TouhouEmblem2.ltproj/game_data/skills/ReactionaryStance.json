@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "ReactionaryStance",
+        "name": "Reactionary Stance",
+        "desc": "Halves damage when defending. Counterattacks 1.5x DMG.",
+        "icon_nid": "skillicons102724(2)",
+        "icon_index": [
+            2,
+            1
+        ],
+        "components": [
+            [
+                "combat_condition",
+                "mode != 'attack'"
+            ],
+            [
+                "resist_multiplier",
+                0.5
+            ],
+            [
+                "damage_multiplier",
+                1.5
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]
