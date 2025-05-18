@@ -813,5 +813,25 @@
     {
         "nid": "persecutor_8",
         "subicon_dict": {}
+    },
+    {
+        "nid": "NewIcon5",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "NewIcon4",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "NewIcon3",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "NewIcon2",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "NewIcon1",
+        "subicon_dict": {}
     }
 ]

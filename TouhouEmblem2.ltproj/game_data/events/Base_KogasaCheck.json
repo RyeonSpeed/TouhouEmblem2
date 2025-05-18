@@ -9,7 +9,7 @@
         "priority": 20,
         "_source": [
             "add_group;Kogasa;Kogasa;fade;closest",
-            "autolevel_to;Kogasa;{e:{v:chaptercount}};fixed",
+            "autolevel_to;Kogasa;{e:{v:chaptercount} + 1};fixed",
             "add_talk;Reimu;Kogasa",
             "end"
         ],

@@ -9,7 +9,7 @@
         "priority": 21,
         "_source": [
             "add_group;Suika;Suika;fade;closest",
-            "autolevel_to;Suika;{e:{v:chaptercount}};fixed",
+            "autolevel_to;Suika;{e:{v:chaptercount} + 1};fixed",
             "add_talk;Reimu;Suika",
             "end"
         ],

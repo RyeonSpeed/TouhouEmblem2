@@ -9,8 +9,8 @@
         "priority": 21,
         "_source": [
             "add_group;Chapter7Elites;Chapter7Elites;fade;closest",
-            "autolevel_to;Yoshino;{e:{v:chaptercount}};fixed",
-            "autolevel_to;Sena;{e:{v:chaptercount}};fixed",
+            "autolevel_to;Yoshino;{e:{v:chaptercount} + 1};fixed",
+            "autolevel_to;Sena;{e:{v:chaptercount} + 1};fixed",
             "add_talk;Reimu;Yoshino",
             "add_talk;Reimu;Sena",
             "end"

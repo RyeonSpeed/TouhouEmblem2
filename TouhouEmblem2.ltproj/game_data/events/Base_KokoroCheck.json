@@ -9,7 +9,7 @@
         "priority": 21,
         "_source": [
             "add_group;Kokoro;Kokoro;fade;closest",
-            "autolevel_to;Kokoro;{e:{v:chaptercount}};fixed",
+            "autolevel_to;Kokoro;{e:{v:chaptercount} + 1};fixed",
             "add_talk;Reimu;Kokoro",
             "end"
         ],

@@ -9,7 +9,7 @@
         "priority": 21,
         "_source": [
             "add_group;Kagerou;Kagerou;fade;closest",
-            "autolevel_to;Kagerou;{e:{v:chaptercount}};fixed",
+            "autolevel_to;Kagerou;{e:{v:chaptercount} + 1};fixed",
             "add_talk;Reimu;Kagerou",
             "end"
         ],

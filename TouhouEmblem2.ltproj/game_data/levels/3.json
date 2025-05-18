@@ -982,7 +982,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -1003,7 +1005,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -1024,7 +1028,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -1045,7 +1051,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -1521,6 +1529,11 @@
                 }
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

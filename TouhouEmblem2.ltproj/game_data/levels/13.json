@@ -486,7 +486,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -507,7 +509,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -528,7 +532,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -549,7 +555,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -570,7 +578,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -591,7 +601,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -612,7 +624,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -633,7 +647,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -654,7 +670,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -675,7 +693,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Guard",
                 "roam_ai": null,
@@ -696,7 +716,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Guard",
                 "roam_ai": null,
@@ -717,7 +739,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -738,7 +762,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -759,7 +785,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -790,7 +818,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Guard",
                 "roam_ai": null,
@@ -811,7 +841,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -832,7 +864,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -853,7 +887,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Guard",
                 "roam_ai": null,
@@ -874,7 +910,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Guard",
                 "roam_ai": null,
@@ -895,7 +933,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -916,7 +956,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -937,7 +979,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -958,7 +1002,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -979,7 +1025,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -1000,7 +1048,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -1031,7 +1081,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -1052,7 +1104,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -1073,7 +1127,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -1094,7 +1150,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -1115,7 +1173,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -1136,7 +1196,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -1157,7 +1219,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -1178,7 +1242,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Guard",
                 "roam_ai": null,
@@ -1199,7 +1265,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -1220,7 +1288,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,

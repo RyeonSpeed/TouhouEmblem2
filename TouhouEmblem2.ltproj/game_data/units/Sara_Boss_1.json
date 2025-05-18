@@ -51,6 +51,10 @@
             [
                 1,
                 "LockdownZoneAura"
+            ],
+            [
+                1,
+                "Summoning_Sickness"
             ]
         ],
         "unit_notes": [],

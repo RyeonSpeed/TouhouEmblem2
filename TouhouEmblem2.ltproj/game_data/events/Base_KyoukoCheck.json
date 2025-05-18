@@ -9,7 +9,7 @@
         "priority": 21,
         "_source": [
             "add_group;Kyouko;Kyouko;fade;closest",
-            "autolevel_to;Kyouko;{e:{v:chaptercount}};fixed",
+            "autolevel_to;Kyouko;{e:{v:chaptercount} + 1};fixed",
             "add_talk;Reimu;Kyouko",
             "end"
         ],
