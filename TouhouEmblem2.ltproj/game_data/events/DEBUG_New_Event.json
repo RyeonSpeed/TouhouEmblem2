@@ -10,8 +10,8 @@
         "_source": [
             "game_var;_fatigue;1",
             "game_var;_turnwheel;True",
-            "game_var;_max_turnwheel_uses;4",
-            "game_var;_current_turnwheel_uses;4",
+            "game_var;_max_turnwheel_uses;99",
+            "game_var;_current_turnwheel_uses;99",
             "game_var;KusanagiKills;0",
             "autolevel_to;Reimu;11;fixed",
             "autolevel_to;Marisa;11;fixed",

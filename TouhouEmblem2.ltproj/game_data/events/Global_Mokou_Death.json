@@ -11,9 +11,17 @@
             "if;game.check_dead('Mokou') == 1",
             "add_portrait;Mokou_NPC;FarLeft",
             "speak;Mokou_NPC;RISE, IMMORTAL PHOENIX!",
+            "center_cursor;{v:UnitPosition};immediate",
             "resurrect;Mokou",
-            "add_unit;Mokou;{v:UnitPosition}",
+            "add_unit;Mokou;{v:UnitPosition};Placement=closest;",
+            "sound;FireHit",
+            "map_anim;AOE_Fireball;{v:UnitPosition}",
+            "wait;100",
+            "sound;FireHit",
+            "wait;100",
+            "sound;FireHit",
             "add_fatigue;Mokou;20",
+            "wait;700",
             "end"
         ],
         "nid": "Global Mokou_Death"

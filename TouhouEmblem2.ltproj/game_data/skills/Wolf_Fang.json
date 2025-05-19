@@ -18,8 +18,8 @@
                 "Wolf_Fang_1"
             ],
             [
-                "condition",
-                "item_system.weapon_type(unit, item) in ['Sword', 'Lance', 'Axe', 'Martial']"
+                "allowed_weapons",
+                "item_system.weapon_type(unit, item) in ['Martial']"
             ]
         ]
     }
