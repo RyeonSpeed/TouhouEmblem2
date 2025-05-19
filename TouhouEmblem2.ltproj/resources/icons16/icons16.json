@@ -837,5 +837,13 @@
     {
         "nid": "NewIcon6",
         "subicon_dict": {}
+    },
+    {
+        "nid": "Newitem2",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "NewItem1",
+        "subicon_dict": {}
     }
 ]
