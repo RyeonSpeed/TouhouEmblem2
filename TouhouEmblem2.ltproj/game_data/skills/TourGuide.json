@@ -3,10 +3,10 @@
         "nid": "TourGuide",
         "name": "Devil Sign: Tour Guide From the Underworld!",
         "desc": "Louise teleports to the top of the peak in the middle of the map and summons an array of demons around the map.\nCapture Bonus: Mandatory",
-        "icon_nid": "skillicons_1",
+        "icon_nid": "NewIcon2",
         "icon_index": [
-            8,
-            5
+            0,
+            4
         ],
         "components": [
             [

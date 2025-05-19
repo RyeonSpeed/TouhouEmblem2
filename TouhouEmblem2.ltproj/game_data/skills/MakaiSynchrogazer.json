@@ -3,10 +3,10 @@
         "nid": "MakaiSynchrogazer",
         "name": "Grimoire of Alice: Makai Synchrogazer",
         "desc": "Alice powers up and summons an array of totems around the map that neutralize either physical or magic units.\nCapture Bonus: Mandatory",
-        "icon_nid": "skillicons_1",
+        "icon_nid": "NewIcon2",
         "icon_index": [
-            8,
-            5
+            0,
+            4
         ],
         "components": [
             [

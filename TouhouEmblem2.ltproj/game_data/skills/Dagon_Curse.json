@@ -3,10 +3,10 @@
         "nid": "Dagon_Curse",
         "name": "Dagon Curse",
         "desc": "-3 Spd/Def/Res.",
-        "icon_nid": "Skills",
+        "icon_nid": "NewIcon5",
         "icon_index": [
-            7,
-            0
+            0,
+            3
         ],
         "components": [
             [

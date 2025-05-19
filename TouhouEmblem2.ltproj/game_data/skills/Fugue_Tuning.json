@@ -3,10 +3,10 @@
         "nid": "Fugue_Tuning",
         "name": "Fugue Tuning",
         "desc": "When within 2 tiles of Lunasa and Merlin: +3 DMG and +3 SPD.",
-        "icon_nid": "skillicons3",
+        "icon_nid": "NewIcon2",
         "icon_index": [
-            2,
-            5
+            0,
+            1
         ],
         "components": [
             [

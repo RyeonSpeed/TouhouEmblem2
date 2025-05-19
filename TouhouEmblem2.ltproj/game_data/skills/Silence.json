@@ -3,10 +3,10 @@
         "nid": "Silence",
         "name": "Silence",
         "desc": "Unit cannot use magic.",
-        "icon_nid": "Skills",
+        "icon_nid": "NewIcon6",
         "icon_index": [
-            9,
-            3
+            0,
+            1
         ],
         "components": [
             [

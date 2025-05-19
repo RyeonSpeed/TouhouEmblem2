@@ -3,10 +3,10 @@
         "nid": "LunaticSeptember",
         "name": "Moon-Viewing Sake \"Lunatic September\"",
         "desc": "Ringo teleports behind your army with a moon rabbit extermination crew.\nCapture Bonus: 100 Bonus EXP",
-        "icon_nid": "skillicons_1",
+        "icon_nid": "NewIcon2",
         "icon_index": [
-            8,
-            5
+            0,
+            4
         ],
         "components": [
             [

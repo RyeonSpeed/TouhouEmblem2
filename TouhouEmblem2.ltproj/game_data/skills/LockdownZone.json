@@ -3,10 +3,10 @@
         "nid": "LockdownZone",
         "name": "Lockdown Zone!",
         "desc": "Sara reduces the Mov of all enemies in a 3 tile radius by 99. Enemies in the Lockdown Zone receive -3 AS.\nCapture Bonus: Mandatory",
-        "icon_nid": "skillicons_1",
+        "icon_nid": "NewIcon2",
         "icon_index": [
-            8,
-            5
+            0,
+            4
         ],
         "components": [
             [

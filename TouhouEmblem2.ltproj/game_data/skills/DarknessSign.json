@@ -3,10 +3,10 @@
         "nid": "DarknessSign",
         "name": "Darkness Sign \"Demarcation\"",
         "desc": "Rumia teleports across the map and summons two minions to help her. Sets Fog of War.\nCapture Bonus: Mandatory",
-        "icon_nid": "skillicons_1",
+        "icon_nid": "NewIcon2",
         "icon_index": [
-            8,
-            5
+            0,
+            4
         ],
         "components": [
             [

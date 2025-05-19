@@ -833,5 +833,9 @@
     {
         "nid": "NewIcon1",
         "subicon_dict": {}
+    },
+    {
+        "nid": "NewIcon6",
+        "subicon_dict": {}
     }
 ]

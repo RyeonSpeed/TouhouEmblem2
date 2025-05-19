@@ -3,9 +3,9 @@
         "nid": "Reflect_Slash1",
         "name": "Matsuyoi-Reflecting Satellite Slash",
         "desc": "Youmu becomes unable to dodge, but her counterattacks go first, do 1.5x as much damage and her crit rate raises by 30%.",
-        "icon_nid": "skillicons_1",
+        "icon_nid": "NewIcon1",
         "icon_index": [
-            1,
+            0,
             5
         ],
         "components": [

@@ -3,10 +3,10 @@
         "nid": "LockdownZoneAura_1",
         "name": "Lockdown Zone!",
         "desc": "-99 Mov, -3 AS.",
-        "icon_nid": "skillicons102524(1)",
+        "icon_nid": "NewIcon4",
         "icon_index": [
-            1,
-            1
+            0,
+            4
         ],
         "components": [
             [

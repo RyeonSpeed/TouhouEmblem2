@@ -3,10 +3,10 @@
         "nid": "Newton",
         "name": "Mechanics Sign: Newton's First Gift",
         "desc": "Chiyuri spawns in a special boss and imposes \"Friction Shift\" on all units, decreasing their damage dealt and speed for each tile moved.\nCapture Bonus: Mandatory",
-        "icon_nid": "skillicons_1",
+        "icon_nid": "NewIcon2",
         "icon_index": [
-            8,
-            5
+            0,
+            4
         ],
         "components": [
             [
