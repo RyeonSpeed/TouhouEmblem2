@@ -3,10 +3,10 @@
         "nid": "Tanto",
         "name": "Tanto",
         "desc": "Favored by Outside World Assassins|Brave, but cannot double.",
-        "icon_nid": "the2icons",
+        "icon_nid": "NewItem1",
         "icon_index": [
             0,
-            0
+            1
         ],
         "components": [
             [

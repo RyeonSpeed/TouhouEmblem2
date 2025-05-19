@@ -3,10 +3,10 @@
         "nid": "Kasuyu",
         "name": "Kasuyu",
         "desc": "Used primarily as a tool for woodcarving, but can also be used as a weapon in a pinch.",
-        "icon_nid": "throwing",
+        "icon_nid": "Newitem2",
         "icon_index": [
             0,
-            3
+            0
         ],
         "components": [
             [

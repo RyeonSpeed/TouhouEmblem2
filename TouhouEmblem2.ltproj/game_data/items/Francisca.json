@@ -3,10 +3,10 @@
         "nid": "Francisca",
         "name": "Francisca",
         "desc": "A very potent throwing axe designed by a civilization of the far west.",
-        "icon_nid": "throwing",
+        "icon_nid": "Newitem2",
         "icon_index": [
             0,
-            5
+            2
         ],
         "components": [
             [

@@ -2,7 +2,7 @@
     {
         "name": "Outro",
         "trigger": "level_end",
-        "level_nid": "12",
+        "level_nid": "13",
         "condition": "True",
         "commands": [],
         "only_once": false,
@@ -17,9 +17,9 @@
             "elif;game.turncount > 23",
             "speak;;Lmao skill issue;;;hint",
             "end",
-            "game_var;chaptercount;12",
+            "game_var;chaptercount;13",
             "set_next_chapter;Base"
         ],
-        "nid": "12 Outro"
+        "nid": "13 Outro"
     }
 ]

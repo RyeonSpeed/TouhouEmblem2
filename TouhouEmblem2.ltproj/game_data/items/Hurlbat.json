@@ -3,10 +3,10 @@
         "nid": "Hurlbat",
         "name": "Hurlbat",
         "desc": "May actually hit your target.",
-        "icon_nid": "throwing",
+        "icon_nid": "Newitem2",
         "icon_index": [
             0,
-            4
+            1
         ],
         "components": [
             [

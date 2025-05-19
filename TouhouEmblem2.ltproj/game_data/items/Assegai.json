@@ -3,10 +3,10 @@
         "nid": "Assegai",
         "name": "Assegai",
         "desc": "An ornate throwing spear originating in a more western continent.",
-        "icon_nid": "throwing",
+        "icon_nid": "NewItem1",
         "icon_index": [
             0,
-            2
+            8
         ],
         "components": [
             [

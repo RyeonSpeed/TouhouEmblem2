@@ -3,10 +3,10 @@
         "nid": "Longnion",
         "name": "Longnion",
         "desc": "Yo wtf man",
-        "icon_nid": "the2icons",
+        "icon_nid": "NewItem1",
         "icon_index": [
-            1,
-            3
+            0,
+            5
         ],
         "components": [
             [

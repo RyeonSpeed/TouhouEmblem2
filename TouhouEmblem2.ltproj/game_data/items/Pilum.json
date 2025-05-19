@@ -3,10 +3,10 @@
         "nid": "Pilum",
         "name": "Pilum",
         "desc": "",
-        "icon_nid": "throwing",
+        "icon_nid": "NewItem1",
         "icon_index": [
             0,
-            1
+            7
         ],
         "components": [
             [

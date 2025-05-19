@@ -3,10 +3,10 @@
         "nid": "Verutum",
         "name": "Verutum",
         "desc": "An everyday harpoon used by village fishermen.",
-        "icon_nid": "throwing",
+        "icon_nid": "NewItem1",
         "icon_index": [
             0,
-            0
+            6
         ],
         "components": [
             [

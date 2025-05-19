@@ -374,7 +374,6 @@
     "12_Intro",
     "12_Outro",
     "Global_KillCounter",
-    "12_FightYoumu",
     "12_SpellSara",
     "Global_KusanagiKills",
     "Global_FUCK_YOU_RAINLASH",
@@ -406,5 +405,6 @@
     "13_YoumuSpell2",
     "13_YoumuSpell3",
     "13_DefeatYoumu",
-    "Base_Kyouko"
+    "Base_Kyouko",
+    "13_Outro"
 ]
