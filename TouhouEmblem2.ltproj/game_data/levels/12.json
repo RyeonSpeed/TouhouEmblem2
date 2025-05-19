@@ -747,13 +747,13 @@
                 "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Tanto",
+                        "Hurlbat",
                         false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Guard",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -795,13 +795,13 @@
                 "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Killing_Edge",
-                        true
+                        "Hurlbat",
+                        false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Guard",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [

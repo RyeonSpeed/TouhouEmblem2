@@ -5,7 +5,7 @@
         "level_nid": "10",
         "condition": "game.check_dead(\"Yumeko_Boss\")",
         "commands": [],
-        "only_once": false,
+        "only_once": true,
         "priority": 20,
         "_source": [
             "change_music;player_phase;Strawberry Crisis",
@@ -18,9 +18,11 @@
             "speak;;Construct Sign: Dream Slicer;center;155;hint;;red;;;1;;;;;Warp",
             "speak;Yumeko_Boss;Tch, I'm not done just yet~!",
             "remove_portrait;Yumeko_Boss",
-            "add_group;YumekoSpell;YumekoSpellSpell;warp;closest",
+            "add_group;YumekoSpell;YumekoSpell;warp;closest",
             "autolevel_to;Yumeko_Boss_1;17;fixed",
             "move_cursor;Yumeko_Boss_1",
+            "for;Spell;game.level.unit_groups.get('YumekoSpell').units",
+            "    has_finished;{Spell}",
             "end"
         ],
         "nid": "10 SpellYumeko"

@@ -10,7 +10,7 @@
             "Boss"
         ],
         "bases": {
-            "HP": 6,
+            "HP": 8,
             "STR": 2,
             "MAG": 1,
             "SKL": 1,

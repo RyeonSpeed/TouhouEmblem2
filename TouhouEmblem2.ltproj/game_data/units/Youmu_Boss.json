@@ -28,7 +28,7 @@
         "stat_cap_modifiers": {},
         "starting_items": [
             [
-                "Silver_Sword",
+                "Tanto",
                 false
             ],
             [
@@ -36,7 +36,12 @@
                 false
             ]
         ],
-        "learned_skills": [],
+        "learned_skills": [
+            [
+                1,
+                "Vantage"
+            ]
+        ],
         "unit_notes": [],
         "wexp_gain": {
             "Sword": [

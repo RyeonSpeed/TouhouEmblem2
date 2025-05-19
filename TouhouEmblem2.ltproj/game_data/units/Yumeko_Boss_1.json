@@ -10,7 +10,7 @@
             "Boss"
         ],
         "bases": {
-            "HP": 5,
+            "HP": 10,
             "STR": 2,
             "MAG": 2,
             "SKL": 1,
@@ -58,10 +58,6 @@
         "learned_skills": [
             [
                 1,
-                "Summoning_Sickness"
-            ],
-            [
-                1,
                 "Makai_Overdrive"
             ],
             [
@@ -71,6 +67,10 @@
             [
                 1,
                 "Indomitable_Spirit"
+            ],
+            [
+                1,
+                "Summoning_Sickness"
             ]
         ],
         "unit_notes": [],

@@ -3,10 +3,10 @@
         "nid": "Berserk",
         "name": "Berserk",
         "desc": "Unit is confused and can no longer tell friend from foe.",
-        "icon_nid": "Skills",
+        "icon_nid": "NewIcon6",
         "icon_index": [
-            10,
-            8
+            0,
+            3
         ],
         "components": [
             [

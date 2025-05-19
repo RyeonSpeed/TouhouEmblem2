@@ -2,11 +2,11 @@
     {
         "nid": "Kama",
         "name": "Kama",
-        "desc": "Brave, but cannot double.",
-        "icon_nid": "the2icons",
+        "desc": "Turns out a farming sickle is also a good weapon.|Brave, but cannot double.",
+        "icon_nid": "NewItem1",
         "icon_index": [
-            2,
-            0
+            0,
+            3
         ],
         "components": [
             [

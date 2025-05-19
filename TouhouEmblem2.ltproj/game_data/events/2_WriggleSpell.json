@@ -13,7 +13,9 @@
             "speak;Wriggle;I feel...much stronger now! Come to me, insects of the woods!",
             "remove_portrait;Wriggle",
             "add_group;WriggleSpell;WriggleSpell;warp;push",
-            "autolevel_to;Wriggle_Boss_1;3;fixed"
+            "autolevel_to;Wriggle_Boss_1;3;fixed",
+            "for;Spell;game.level.unit_groups.get('WriggleSpell').units",
+            "    has_finished;{Spell}"
         ],
         "nid": "2 WriggleSpell"
     }

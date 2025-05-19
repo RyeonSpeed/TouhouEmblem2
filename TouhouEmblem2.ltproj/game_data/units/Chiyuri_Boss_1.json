@@ -10,7 +10,7 @@
             "Boss"
         ],
         "bases": {
-            "HP": 9,
+            "HP": 11,
             "STR": 2,
             "SPD": 0,
             "SKL": 3,
@@ -66,11 +66,11 @@
             ],
             [
                 1,
-                "Summoning_Sickness"
+                "Quick_Counter"
             ],
             [
                 1,
-                "Quick_Counter"
+                "Summoning_Sickness"
             ]
         ],
         "unit_notes": [],

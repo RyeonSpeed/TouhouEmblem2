@@ -116,6 +116,78 @@
                 "generic": true
             },
             {
+                "nid": "203",
+                "variant": null,
+                "level": 10,
+                "klass": "Archer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Longbow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    15,
+                    12
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "205",
+                "variant": null,
+                "level": 10,
+                "klass": "Archer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Longbow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    27,
+                    8
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "204",
+                "variant": null,
+                "level": 10,
+                "klass": "Archer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Farshot",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    10,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
                 "nid": "104",
                 "variant": null,
                 "level": 10,
@@ -2396,19 +2468,6 @@
                 "generic": false
             },
             {
-                "nid": "Alice_Boss_2",
-                "team": "enemy",
-                "ai": "Guard",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    26,
-                    1
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
                 "nid": "Wall",
                 "variant": null,
                 "level": 1,
@@ -2424,6 +2483,98 @@
                     13,
                     10
                 ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Alice_Boss_3",
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    26,
+                    1
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Alice_Boss_4",
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "200",
+                "variant": null,
+                "level": 15,
+                "klass": "Tsukumogami_M",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Bolting",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "201",
+                "variant": null,
+                "level": 15,
+                "klass": "Tsukumogami_M",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Bolting",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "202",
+                "variant": null,
+                "level": 15,
+                "klass": "Tsukumogami_M",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Bolting",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": true
             }
@@ -2843,6 +2994,37 @@
                     ],
                     "199": [
                         5,
+                        0
+                    ]
+                }
+            },
+            {
+                "nid": "Alice2Spell",
+                "units": [
+                    "Alice_Boss_4",
+                    "200",
+                    "201",
+                    "202"
+                ],
+                "positions": {
+                    "Alice_Boss_3": [
+                        26,
+                        1
+                    ],
+                    "Alice_Boss_4": [
+                        26,
+                        1
+                    ],
+                    "200": [
+                        20,
+                        2
+                    ],
+                    "201": [
+                        28,
+                        6
+                    ],
+                    "202": [
+                        29,
                         0
                     ]
                 }

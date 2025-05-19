@@ -1,0 +1,27 @@
+[
+    {
+        "nid": "LockdownZoneAura_1",
+        "name": "Lockdown Zone!",
+        "desc": "-99 Mov, -3 AS.",
+        "icon_nid": "NewIcon4",
+        "icon_index": [
+            0,
+            4
+        ],
+        "components": [
+            [
+                "attack_speed",
+                -3
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "MOV",
+                        -99
+                    ]
+                ]
+            ]
+        ]
+    }
+]

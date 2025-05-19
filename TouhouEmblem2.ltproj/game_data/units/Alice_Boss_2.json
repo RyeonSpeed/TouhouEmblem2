@@ -10,7 +10,7 @@
             "Boss"
         ],
         "bases": {
-            "HP": 10,
+            "HP": 15,
             "STR": 3,
             "MAG": 3,
             "SKL": 0,
@@ -62,11 +62,11 @@
         "learned_skills": [
             [
                 1,
-                "Summoning_Sickness"
+                "Indomitable_Spirit"
             ],
             [
                 1,
-                "Indomitable_Spirit"
+                "Summoning_Sickness"
             ]
         ],
         "unit_notes": [],

@@ -3,10 +3,10 @@
         "nid": "200_Yojana_1",
         "name": "Two Hundred Yojana in One Slash",
         "desc": "Youmu slashes through up to 5 tiles to reach her opponent in battle, damaging any enemies in the way. Cannot double. \nCost: 4 Durability\n",
-        "icon_nid": "skillicons_1",
+        "icon_nid": "NewIcon1",
         "icon_index": [
-            5,
-            4
+            0,
+            0
         ],
         "components": [
             [

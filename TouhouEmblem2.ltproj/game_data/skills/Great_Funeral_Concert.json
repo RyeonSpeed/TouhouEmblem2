@@ -3,10 +3,10 @@
         "nid": "Great_Funeral_Concert",
         "name": "Great Funeral Concert",
         "desc": "Usable once per map. Only able to be used when all 3 Prismriver Sisters are within 2 tiles of each other: Blast 3. Doubles damage. Only targets enemies.",
-        "icon_nid": "skillicons3",
+        "icon_nid": "NewIcon2",
         "icon_index": [
-            2,
-            7
+            0,
+            3
         ],
         "components": [
             [

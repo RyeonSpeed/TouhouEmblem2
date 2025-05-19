@@ -2,7 +2,7 @@
     {
         "nid": "Short_Spear",
         "name": "Short Spear",
-        "desc": "",
+        "desc": "Used to hunt more dangerous game.",
         "icon_nid": "throwing",
         "icon_index": [
             0,
@@ -23,7 +23,7 @@
             ],
             [
                 "damage",
-                9
+                10
             ],
             [
                 "hit",

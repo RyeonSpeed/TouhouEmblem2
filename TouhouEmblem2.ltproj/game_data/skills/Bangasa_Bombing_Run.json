@@ -2,7 +2,7 @@
     {
         "nid": "Bangasa_Bombing_Run",
         "name": "Bangasa Bombing Run",
-        "desc": "Blast 2, then Pivot 2. ",
+        "desc": "Kogasa flies about, attacking every enemy in a 2 tile radius.",
         "icon_nid": "moreskillicons",
         "icon_index": [
             0,

@@ -5,7 +5,7 @@
         "desc": "The gardener of Hakugyoukurou. She's a talented swordswoman and a loyal servant but has the tendency to be a bit airheaded at times.",
         "variant": null,
         "level": 1,
-        "klass": "Fencer",
+        "klass": "Swordmaster",
         "tags": [
             "Boss"
         ],
@@ -14,7 +14,7 @@
             "SKL": 2,
             "STR": 1,
             "MAG": 8,
-            "HP": 14,
+            "HP": 21,
             "LCK": 0,
             "DEF": 2,
             "RES": 2,
@@ -28,7 +28,7 @@
         "stat_cap_modifiers": {},
         "starting_items": [
             [
-                "Silver_Sword",
+                "Wind_Sword",
                 false
             ],
             [
@@ -36,7 +36,28 @@
                 false
             ]
         ],
-        "learned_skills": [],
+        "learned_skills": [
+            [
+                1,
+                "ReactionaryStance"
+            ],
+            [
+                1,
+                "Vantage"
+            ],
+            [
+                1,
+                "Blade_Dance"
+            ],
+            [
+                1,
+                "Saigyou_Wind_2"
+            ],
+            [
+                1,
+                "Summoning_Sickness"
+            ]
+        ],
         "unit_notes": [],
         "wexp_gain": {
             "Sword": [

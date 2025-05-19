@@ -5019,7 +5019,7 @@
             {
                 "nid": "House1",
                 "visible": false,
-                "foreground": true,
+                "foreground": false,
                 "terrain_grid": {
                     "5,1": "Village Ruins",
                     "6,1": "Village Ruins",

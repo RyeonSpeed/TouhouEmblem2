@@ -3,10 +3,10 @@
         "nid": "Sleep",
         "name": "Sleep",
         "desc": "Unit is asleep.",
-        "icon_nid": "Skills",
+        "icon_nid": "NewIcon6",
         "icon_index": [
-            4,
-            8
+            0,
+            0
         ],
         "components": [
             [

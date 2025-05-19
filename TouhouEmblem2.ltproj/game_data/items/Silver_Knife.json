@@ -3,10 +3,10 @@
         "nid": "Silver_Knife",
         "name": "Silver Knife",
         "desc": "Prf Sakuya. A beautiful knife fit for a perfect and elegant maid.\nPhysical. Anti-Monstrous. Brave. Recurring.",
-        "icon_nid": "the2icons",
+        "icon_nid": "NewItem1",
         "icon_index": [
-            8,
-            6
+            0,
+            0
         ],
         "components": [
             [

@@ -214,6 +214,16 @@
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "Kyouko",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [
@@ -381,6 +391,18 @@
                 "positions": {
                     "Kogasa_NPC": [
                         11,
+                        24
+                    ]
+                }
+            },
+            {
+                "nid": "Kyouko",
+                "units": [
+                    "Kyouko"
+                ],
+                "positions": {
+                    "Kyouko": [
+                        16,
                         24
                     ]
                 }

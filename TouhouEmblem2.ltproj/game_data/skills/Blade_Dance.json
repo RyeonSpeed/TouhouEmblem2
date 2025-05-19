@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Blade_Dance",
+        "name": "Blade Dance",
+        "desc": "When attacking, +30 AVOID.",
+        "icon_nid": "NewIcon5",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "combat_condition",
+                "mode == 'attack'"
+            ],
+            [
+                "avoid",
+                30
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

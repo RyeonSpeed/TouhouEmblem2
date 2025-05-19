@@ -10,7 +10,7 @@
             "Boss"
         ],
         "bases": {
-            "HP": 3,
+            "HP": 6,
             "STR": 2,
             "MAG": 3,
             "SKL": 2,
@@ -48,6 +48,10 @@
         "starting_items": [
             [
                 "Reginleif",
+                false
+            ],
+            [
+                "Verutum",
                 false
             ]
         ],

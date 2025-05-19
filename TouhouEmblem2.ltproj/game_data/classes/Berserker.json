@@ -4,7 +4,7 @@
         "name": "Berserker",
         "desc": "Crazed warriors who are a terror to face on the battlefield.\nTags: None",
         "tier": 2,
-        "movement_group": "Pirates",
+        "movement_group": "ZerkyJockey",
         "promotes_from": "Brigand",
         "turns_into": [],
         "tags": [],

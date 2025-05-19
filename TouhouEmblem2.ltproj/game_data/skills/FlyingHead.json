@@ -3,10 +3,10 @@
         "nid": "FlyingHead",
         "name": "Flying Head \"Multiplicative Head\"",
         "desc": "Sekibanki respawns and surrounds your units with her head minions.\nCapture Bonus: 100 Bonus EXP",
-        "icon_nid": "skillicons_1",
+        "icon_nid": "NewIcon2",
         "icon_index": [
-            8,
-            5
+            0,
+            4
         ],
         "components": [
             [

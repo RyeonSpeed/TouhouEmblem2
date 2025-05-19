@@ -5,7 +5,7 @@
         "level_nid": "8",
         "condition": "game.check_dead(\"Louise_Boss\")",
         "commands": [],
-        "only_once": false,
+        "only_once": true,
         "priority": 20,
         "_source": [
             "change_music;player_phase;Strawberry Crisis",
@@ -21,6 +21,8 @@
             "add_group;LouiseSpell;LouiseSpell;warp;closest",
             "autolevel_to;Louise_Boss_1;15;fixed",
             "move_cursor;Louise_Boss_1",
+            "for;Spell;game.level.unit_groups.get('LouiseSpell').units",
+            "    has_finished;{Spell}",
             "end"
         ],
         "nid": "8 SpellLouise"

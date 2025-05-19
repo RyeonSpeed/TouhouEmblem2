@@ -54,6 +54,7 @@
             "flicker_cursor;Rin",
             "remove_unit;Rin;warp",
             "trigger_script;Global BullshitRinEvent",
+            "autolevel_to;Rin;{e:{v:chaptercount} + 1};fixed",
             "add_unit;Rin;9,22;warp;closest",
             "remove_talk;Reimu;Rin",
             "multi_remove_portrait;Reimu;Rin",

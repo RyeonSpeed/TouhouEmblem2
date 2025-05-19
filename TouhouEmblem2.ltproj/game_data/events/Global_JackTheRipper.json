@@ -8,7 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "if;not has_skill(unit1, 'Cooldown') and unit2.get_hp() == 0",
+            "if;not has_skill(unit1, 'Cooldown') and unit2.get_hp() == 0 and has_skill(unit1, 'Luna_Dial')",
             "add_portrait;{unit};Right",
             "speak;{unit};ZA...WARUDO!",
             "remove_portrait;{unit}",

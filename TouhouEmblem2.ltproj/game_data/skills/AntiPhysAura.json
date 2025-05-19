@@ -3,9 +3,9 @@
         "nid": "AntiPhysAura",
         "name": "Strength Sap",
         "desc": "Enemies within a 3 tile radius of this unit will be unable to use physical weapons.",
-        "icon_nid": "skillicons3",
+        "icon_nid": "NewIcon4",
         "icon_index": [
-            2,
+            0,
             1
         ],
         "components": [

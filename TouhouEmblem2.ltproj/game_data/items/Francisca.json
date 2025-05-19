@@ -1,0 +1,81 @@
+[
+    {
+        "nid": "Francisca",
+        "name": "Francisca",
+        "desc": "A very potent throwing axe designed by a civilization of the far west.",
+        "icon_nid": "Newitem2",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                3
+            ],
+            [
+                "damage",
+                14
+            ],
+            [
+                "hit",
+                65
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "weight",
+                14
+            ],
+            [
+                "uses",
+                15
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Axe"
+            ],
+            [
+                "weapon_rank",
+                "A"
+            ],
+            [
+                "value",
+                3000
+            ],
+            [
+                "fatigue",
+                1
+            ],
+            [
+                "battle_cast_anim",
+                "ThrowingAxe"
+            ]
+        ]
+    }
+]

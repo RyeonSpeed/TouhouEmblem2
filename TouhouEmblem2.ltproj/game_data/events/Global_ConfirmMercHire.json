@@ -23,7 +23,7 @@
             "    alert;You hired {d:MercenaryHiringList.{v:MercenaryHireChoice}.Name}.",
             "    give_money;{eval: -1 * int({d:MercenaryHiringList.{v:MercenaryHireChoice}.Cost})};no_banner",
             "    load_unit;{v:MercenaryHireChoice};player",
-            "    autolevel_to;{v:MercenaryHireChoice};{e:u('Reimu').level};Fixed",
+            "    autolevel_to;{v:MercenaryHireChoice};{e:{v:chaptercount} + 1};Fixed",
             "    add_lore;{v:MercenaryHireChoice}",
             "    game_var;hireable_guys;[x for x in v('hireable_guys') if not x == '{d:MercenaryHiringList.{v:MercenaryHireChoice}.Name}']",
             "    if;v('MercenaryHireChoice') == 'Rin'",

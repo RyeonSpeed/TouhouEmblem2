@@ -17,7 +17,7 @@
             "autolevel_to;Lunasa;11;fixed;no_warn",
             "autolevel_to;Merlin;11;fixed;no_warn",
             "prep;1;Sealed Gods",
-            ""
+            "speak;;This map's clear bonus is 1000 Bonus EXP, with a decrease of 200 BExp per turn you take over 18 turns!;;;hint"
         ],
         "nid": "12 Intro"
     }

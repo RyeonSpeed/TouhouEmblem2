@@ -412,7 +412,7 @@
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Hand_Axe",
+                        "Kasuyu",
                         false
                     ],
                     [
@@ -900,7 +900,7 @@
                 "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Iron_Lance",
+                        "Verutum",
                         false
                     ]
                 ],
