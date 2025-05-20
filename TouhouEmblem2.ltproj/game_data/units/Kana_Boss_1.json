@@ -1,0 +1,70 @@
+[
+    {
+        "nid": "Kana_Boss_1",
+        "name": "Kana ",
+        "desc": "",
+        "variant": null,
+        "level": 1,
+        "klass": "Druid",
+        "tags": [
+            "Boss"
+        ],
+        "bases": {
+            "HP": 4,
+            "DEF": 3,
+            "RES": 3,
+            "SKL": 3,
+            "STR": 0,
+            "MAG": 3,
+            "SPD": 1,
+            "LCK": 5,
+            "MOV": 0,
+            "CON": 1
+        },
+        "growths": {
+            "MAG": 10,
+            "SPD": 5,
+            "DEF": 5,
+            "RES": 5,
+            "HP": 10
+        },
+        "stat_cap_modifiers": {},
+        "starting_items": [
+            [
+                "Fenrir",
+                false
+            ],
+            [
+                "Forged_Shield",
+                false
+            ]
+        ],
+        "learned_skills": [
+            [
+                1,
+                "Indomitable_Spirit"
+            ],
+            [
+                1,
+                "RedHarvest"
+            ]
+        ],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Dark": [
+                false,
+                181,
+                null
+            ],
+            "Staff": [
+                false,
+                121,
+                null
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "Kana_2",
+        "affinity": "Dark",
+        "fields": []
+    }
+]

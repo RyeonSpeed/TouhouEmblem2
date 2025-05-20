@@ -2036,6 +2036,311 @@
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": true
+            },
+            {
+                "nid": "157",
+                "variant": null,
+                "level": 18,
+                "klass": "Gendarme",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Axebane",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "158",
+                "variant": null,
+                "level": 18,
+                "klass": "Gendarme",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Killing_Edge",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "159",
+                "variant": null,
+                "level": 18,
+                "klass": "Gendarme",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "160",
+                "variant": null,
+                "level": 18,
+                "klass": "Gendarme",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Rapier",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "161",
+                "variant": null,
+                "level": 18,
+                "klass": "Gendarme",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Tanto",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "162",
+                "variant": null,
+                "level": 23,
+                "klass": "Charger",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Assegai",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Sara_Boss_1",
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "163",
+                "variant": null,
+                "level": 15,
+                "klass": "Guard",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Pilum",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "164",
+                "variant": null,
+                "level": 15,
+                "klass": "Guard",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Pilum",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Kana_Boss_1",
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "165",
+                "variant": null,
+                "level": 14,
+                "klass": "Tsukumogami_S",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Tanto",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "166",
+                "variant": null,
+                "level": 14,
+                "klass": "Tsukumogami_S",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Killing_Edge",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "167",
+                "variant": null,
+                "level": 14,
+                "klass": "Tsukumogami_S",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "168",
+                "variant": null,
+                "level": 14,
+                "klass": "Tsukumogami_S",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Armorslayer",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "169",
+                "variant": null,
+                "level": 14,
+                "klass": "Tsukumogami_S",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Persecutor",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
             }
         ],
         "regions": [
@@ -2386,9 +2691,100 @@
                 }
             },
             {
-                "nid": "Turn15",
-                "units": [],
-                "positions": {}
+                "nid": "Turn18",
+                "units": [
+                    "157",
+                    "158",
+                    "159",
+                    "160",
+                    "161",
+                    "162"
+                ],
+                "positions": {
+                    "157": [
+                        4,
+                        30
+                    ],
+                    "158": [
+                        5,
+                        31
+                    ],
+                    "159": [
+                        6,
+                        30
+                    ],
+                    "160": [
+                        7,
+                        31
+                    ],
+                    "161": [
+                        8,
+                        30
+                    ],
+                    "162": [
+                        6,
+                        31
+                    ]
+                }
+            },
+            {
+                "nid": "SaraSpell",
+                "units": [
+                    "Sara_Boss_1",
+                    "163",
+                    "164"
+                ],
+                "positions": {
+                    "Sara_Boss_1": [
+                        18,
+                        3
+                    ],
+                    "163": [
+                        17,
+                        3
+                    ],
+                    "164": [
+                        19,
+                        3
+                    ]
+                }
+            },
+            {
+                "nid": "KanaSpell",
+                "units": [
+                    "Kana_Boss_1",
+                    "165",
+                    "166",
+                    "167",
+                    "168",
+                    "169"
+                ],
+                "positions": {
+                    "Kana_Boss_1": [
+                        18,
+                        0
+                    ],
+                    "165": [
+                        17,
+                        1
+                    ],
+                    "166": [
+                        18,
+                        1
+                    ],
+                    "167": [
+                        19,
+                        1
+                    ],
+                    "168": [
+                        23,
+                        0
+                    ],
+                    "169": [
+                        13,
+                        0
+                    ]
+                }
             }
         ],
         "ai_groups": []

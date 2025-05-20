@@ -2,7 +2,7 @@
     {
         "nid": "Sharpshooter",
         "name": "Sharpshooter",
-        "desc": "Critical hits are now double damage + 20 extra DMG.",
+        "desc": "Critical hits now double damage before factoring in damage reduction, plus 10 extra DMG.",
         "icon_nid": "skillicons102524(1)",
         "icon_index": [
             0,
@@ -11,11 +11,7 @@
         "components": [
             [
                 "alternate_critical_addition_formula",
-                "AltCritAdd_1"
-            ],
-            [
-                "alternate_critical_multiplier_formula",
-                "AltCritMult"
+                "AltCritAdd"
             ],
             [
                 "allowed_weapons",
@@ -32,6 +28,10 @@
             [
                 "ability_indicator",
                 null
+            ],
+            [
+                "alternate_thracia_critical_addition_formula",
+                "THRACIA_CRIT"
             ]
         ]
     }

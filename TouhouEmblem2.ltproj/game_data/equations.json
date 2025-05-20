@@ -162,5 +162,9 @@
     {
         "nid": "AltCritMult2",
         "expression": "3/2"
+    },
+    {
+        "nid": "THRACIA_CRIT",
+        "expression": "1"
     }
 ]

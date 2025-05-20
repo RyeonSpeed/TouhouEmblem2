@@ -2,7 +2,7 @@
     {
         "nid": "Sniper",
         "name": "Sniper",
-        "desc": "Critical hits are now double damage + 10 extra DMG. ",
+        "desc": "Critical hits now double damage before factoring in damage reduction.",
         "icon_nid": "skillicons102524(1)",
         "icon_index": [
             0,
@@ -10,12 +10,8 @@
         ],
         "components": [
             [
-                "alternate_critical_addition_formula",
-                "AltCritAdd"
-            ],
-            [
                 "alternate_critical_multiplier_formula",
-                "AltCritMult"
+                "THRACIA_CRIT"
             ],
             [
                 "allowed_weapons",

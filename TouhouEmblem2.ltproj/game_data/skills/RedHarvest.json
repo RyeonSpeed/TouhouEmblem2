@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "RedHarvest",
+        "name": "Red Harvest",
+        "desc": "All units in 3 tiles: +50 Crit. Unit always attacks first.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            8,
+            3
+        ],
+        "components": [
+            [
+                "aura",
+                "RedHarvest_1"
+            ],
+            [
+                "aura_range",
+                3
+            ],
+            [
+                "aura_target",
+                "unit"
+            ],
+            [
+                "vantage",
+                null
+            ]
+        ]
+    }
+]
