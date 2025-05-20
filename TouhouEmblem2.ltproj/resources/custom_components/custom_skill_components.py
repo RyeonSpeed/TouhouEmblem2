@@ -424,3 +424,23 @@ class FirstHitBattleAnim(SkillComponent):
             
     def end_combat_unconditional(self, playback, unit: UnitObject, item, target: UnitObject, item2, mode):
         self._did_anim = False
+        
+class GiveStatusBeforeCrit(SkillComponent):
+        nid = 'give_status_before_crit'
+        desc = "Bruuuuuuuh"
+        tag = SkillTags.CUSTOM
+
+        expose = ComponentType.Skill
+
+        _did_action = False
+
+        def before_crit(self, actions, playback, attacker, item, defender, item2, mode, attack_info):
+            act = action.AddSkill(defender, self.value)
+            action.do(act)
+            playback.append(pb.DefenseProc(defender, act.skill_obj))
+            self._did_action = True
+
+        def end_sub_combat(self, actions, playback, unit, item, target, mode, attack_info):
+            if self._did_action:
+                action.do(action.RemoveSkill(target, self.value))
+                self._did_action = False
