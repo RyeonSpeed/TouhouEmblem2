@@ -18,6 +18,10 @@
                 "Global MokouRecover"
             ],
             [
+                "event_after_strike",
+                "Global Mokou_Recoil_Check"
+            ],
+            [
                 "event_after_combat",
                 "Global Mokou_Recoil"
             ],

@@ -130,6 +130,18 @@ class EventWhenHit(SkillComponent):
         if strike == Strike.HIT or strike == Strike.CRIT:
             game.events.trigger_specific_event(self.value, unit, target, unit.position, {'item': item, 'mode': mode, 'item2': item2})
             
+class EventAfterStrike(SkillComponent):
+    nid = 'event_after_strike'
+    desc = 'Calls event when unit makes a strike'
+    tag = SkillTags.ADVANCED
+
+    expose = ComponentType.Event
+    value = ''
+    
+    def after_strike(self, actions, playback, unit, item, target, item2, mode, attack_info, strike):
+        if strike == Strike.HIT or strike == Strike.CRIT:
+            game.events.trigger_specific_event(self.value, unit, target, unit.position, {'item': item, 'mode': mode, 'item2': item2})
+            
 class EventOnUpkeep(SkillComponent):
     nid = 'event_on_upkeep'
     desc = "Triggers the designated event at upkeep"
