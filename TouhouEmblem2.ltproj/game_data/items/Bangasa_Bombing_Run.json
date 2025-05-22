@@ -16,10 +16,6 @@
             [
                 "never_use_battle_animation",
                 null
-            ],
-            [
-                "pivot_on_miss",
-                2
             ]
         ]
     }
