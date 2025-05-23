@@ -28,6 +28,10 @@
             [
                 "ability_indicator",
                 null
+            ],
+            [
+                "alternate_thracia_critical_addition_formula",
+                "AltCritMult"
             ]
         ]
     }
