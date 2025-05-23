@@ -27,53 +27,14 @@
         "tags": [],
         "units": [
             {
-                "nid": "Reimu",
+                "nid": "Daiyousei",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    10,
-                    7
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Sara_Boss",
-                "team": "enemy",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    12,
-                    7
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Tewi_Boss",
-                "team": "enemy",
-                "ai": "Pursue",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    10,
+                    7,
                     9
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Sakuya",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    14,
-                    10
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -84,6 +45,30 @@
                 "level": 1,
                 "klass": "Citizen",
                 "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Killer_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    7,
+                    10
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "102",
+                "variant": null,
+                "level": 40,
+                "klass": "Warden",
+                "faction": "Youkai",
                 "starting_items": [],
                 "starting_skills": [],
                 "team": "enemy",
@@ -91,8 +76,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    16,
-                    10
+                    12,
+                    9
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -114,7 +99,8 @@
                 "condition": "True",
                 "time_left": null,
                 "only_once": false,
-                "interrupt_move": false
+                "interrupt_move": false,
+                "hide_time": false
             },
             {
                 "nid": "Door1",
@@ -131,10 +117,16 @@
                 "condition": "unit.can_unlock(region)",
                 "time_left": null,
                 "only_once": true,
-                "interrupt_move": false
+                "interrupt_move": false,
+                "hide_time": false
             }
         ],
         "unit_groups": [],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

@@ -11,7 +11,7 @@
         "components": [
             [
                 "alternate_critical_multiplier_formula",
-                "THRACIA_CRIT"
+                "ZERO"
             ],
             [
                 "allowed_weapons",

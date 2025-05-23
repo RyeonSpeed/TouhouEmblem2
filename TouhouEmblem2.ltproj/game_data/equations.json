@@ -165,6 +165,10 @@
     },
     {
         "nid": "THRACIA_CRIT",
-        "expression": "1"
+        "expression": "0"
+    },
+    {
+        "nid": "Two",
+        "expression": "2"
     }
 ]
