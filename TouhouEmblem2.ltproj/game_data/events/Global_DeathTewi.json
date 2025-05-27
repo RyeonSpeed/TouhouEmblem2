@@ -1,0 +1,18 @@
+[
+    {
+        "name": "DeathTewi",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "unit.nid == 'Tewi'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Tewi;FarRight",
+            "speak;Tewi;Rats, didn't think my luck would run out today!",
+            "expression;Tewi;CloseEyes",
+            "remove_portrait;Tewi"
+        ],
+        "nid": "Global DeathTewi"
+    }
+]

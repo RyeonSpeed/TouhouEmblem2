@@ -1,0 +1,19 @@
+[
+    {
+        "name": "DeathKaguya",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "unit.nid == 'Kaguya'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Kaguya;FarRight",
+            "expression;Kaguya;Smile",
+            "speak;Kaguya;Ohohoho, you got me. Good one.",
+            "expression;Kaguya;CloseEyes,Smile",
+            "remove_portrait;Kaguya"
+        ],
+        "nid": "Global DeathKaguya"
+    }
+]

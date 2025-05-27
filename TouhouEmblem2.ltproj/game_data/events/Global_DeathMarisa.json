@@ -10,7 +10,7 @@
         "_source": [
             "add_portrait;Marisa;FarRight",
             "music;In Sorrows Shroud",
-            "speak;Marisa;Yer the worst tactician ever!",
+            "speak;Marisa;Come on Marisa, you got through worse. Get up!",
             "expression;Marisa;CloseEyes",
             "remove_portrait;Marisa",
             "lose_game",
