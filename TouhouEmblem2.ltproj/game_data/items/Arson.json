@@ -2,7 +2,7 @@
     {
         "nid": "Arson",
         "name": "Arson",
-        "desc": "Unleashes an inferno that hurts both user and target alike.|Anti-Mounted. Beastkiller. 30 HP Recoil.",
+        "desc": "Unleashes an inferno that burns the target to a crisp.|Anti-Mounted. Beastkiller.",
         "icon_nid": "AnimaMagic",
         "icon_index": [
             0,

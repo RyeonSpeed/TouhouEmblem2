@@ -10,10 +10,6 @@
         ],
         "components": [
             [
-                "proc_rate",
-                "HITPOINTS"
-            ],
-            [
                 "event_after_combat",
                 "Global TewiGamble"
             ],
