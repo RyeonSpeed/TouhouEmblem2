@@ -260,5 +260,10 @@
         "nid": "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama",
         "terrain_grid": {},
         "autotiles": {}
+    },
+    {
+        "nid": "Eientei_Living_Quarters",
+        "terrain_grid": {},
+        "autotiles": {}
     }
 ]

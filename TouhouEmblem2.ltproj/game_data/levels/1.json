@@ -77,8 +77,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    13,
-                    2
+                    8,
+                    7
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -129,8 +129,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    13,
-                    3
+                    19,
+                    11
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -149,12 +149,12 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    3,
-                    7
+                    0,
+                    6
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -173,12 +173,12 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    1,
-                    6
+                    4,
+                    7
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -201,8 +201,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    5,
-                    4
+                    2,
+                    10
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -217,16 +217,20 @@
                     [
                         "Javelin",
                         false
+                    ],
+                    [
+                        "Yukkuri_R",
+                        false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Guard",
+                "ai": "Defend",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    6,
-                    3
+                    7,
+                    8
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -406,8 +410,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    1,
-                    1
+                    20,
+                    21
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -602,12 +606,12 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Pursue_1",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    12,
-                    1
+                    13,
+                    2
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -678,8 +682,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    1,
-                    4
+                    15,
+                    2
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -702,8 +706,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    2,
-                    4
+                    14,
+                    3
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -726,7 +730,7 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    13,
+                    15,
                     7
                 ],
                 "starting_traveler": null,
@@ -763,12 +767,12 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    7,
-                    8
+                    4,
+                    6
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -829,18 +833,22 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Elfire",
+                        "Gust",
+                        false
+                    ],
+                    [
+                        "Maple_Shield",
                         false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Guard",
+                "ai": "Defend",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
                     9,
-                    5
+                    6
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1150,24 +1158,6 @@
         ],
         "regions": [
             {
-                "nid": "House1",
-                "region_type": "event",
-                "position": [
-                    6,
-                    2
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": "Visit",
-                "condition": "True",
-                "time_left": null,
-                "only_once": true,
-                "interrupt_move": false,
-                "hide_time": false
-            },
-            {
                 "nid": "House2",
                 "region_type": "event",
                 "position": [
@@ -1348,24 +1338,6 @@
                 "hide_time": false
             },
             {
-                "nid": "Destroy1",
-                "region_type": "event",
-                "position": [
-                    6,
-                    2
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": "Destructible",
-                "condition": "unit.team == 'enemy'",
-                "time_left": null,
-                "only_once": true,
-                "interrupt_move": false,
-                "hide_time": false
-            },
-            {
                 "nid": "Destroy2",
                 "region_type": "event",
                 "position": [
@@ -1398,42 +1370,6 @@
                 "condition": "unit.team == 'enemy'",
                 "time_left": null,
                 "only_once": true,
-                "interrupt_move": false,
-                "hide_time": false
-            },
-            {
-                "nid": "Armory",
-                "region_type": "event",
-                "position": [
-                    9,
-                    2
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": "Armory",
-                "condition": "True",
-                "time_left": null,
-                "only_once": false,
-                "interrupt_move": false,
-                "hide_time": false
-            },
-            {
-                "nid": "Vendor",
-                "region_type": "event",
-                "position": [
-                    3,
-                    2
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": "Vendor",
-                "condition": "True",
-                "time_left": null,
-                "only_once": false,
                 "interrupt_move": false,
                 "hide_time": false
             }
