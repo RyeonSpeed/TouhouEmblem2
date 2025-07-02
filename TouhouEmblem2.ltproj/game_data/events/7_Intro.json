@@ -10,7 +10,9 @@
         "_source": [
             "game_var;chaptercount;7",
             "autolevel_to;Eirin_NPC;39;fixed",
-            "add_talk;Reimu;Eirin_NPC"
+            "add_talk;Reimu;Eirin_NPC",
+            "add_talk;Reimu;Marisa",
+            ""
         ],
         "nid": "7 Intro"
     }

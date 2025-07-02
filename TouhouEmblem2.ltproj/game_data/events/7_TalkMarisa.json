@@ -1,0 +1,23 @@
+[
+    {
+        "name": "TalkMarisa",
+        "trigger": "on_talk",
+        "level_nid": "7",
+        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Marisa'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "multi_add_portrait;Reimu;CenterRight;Marisa;CenterLeft",
+            "speak;Marisa;Hmm...",
+            "speak;Reimu;Huh, what's up with you?",
+            "speak;Marisa;Still bogglin' my head over who those guys from before were.",
+            "multi_remove_portrait;Reimu;Marisa",
+            "remove_talk;Reimu;Marisa",
+            "",
+            "",
+            "# Just a Test. Making sure I can work these events properly"
+        ],
+        "nid": "7 TalkMarisa"
+    }
+]
