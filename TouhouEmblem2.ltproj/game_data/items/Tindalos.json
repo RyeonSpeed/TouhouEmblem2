@@ -86,6 +86,10 @@
             [
                 "cannot_be_countered",
                 null
+            ],
+            [
+                "battle_cast_anim",
+                "Hex"
             ]
         ]
     }

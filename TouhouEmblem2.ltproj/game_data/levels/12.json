@@ -5,7 +5,13 @@
         "tilemap": "New Tilemap_4",
         "bg_tilemap": "New Tilemap_6",
         "party": "Reimu",
-        "music": {},
+        "music": {
+            "boss_battle": "Plastic Mind",
+            "player_phase": "Lunate Elf",
+            "player_battle": "Lunate Elf",
+            "enemy_phase": "Magic Square",
+            "enemy_battle": "Magic Square"
+        },
         "objective": {
             "simple": "Defeat Kana",
             "win": "Defeat Kana",

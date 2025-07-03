@@ -5,7 +5,13 @@
         "tilemap": "New Tilemap_7",
         "bg_tilemap": null,
         "party": "Reimu",
-        "music": {},
+        "music": {
+            "boss_battle": "Plastic Mind",
+            "player_phase": "Lunate Elf",
+            "player_battle": "Lunate Elf",
+            "enemy_phase": "The Grimoire of Alice",
+            "enemy_battle": "The Grimoire of Alice"
+        },
         "objective": {
             "simple": "Left {eval:len(game.get_enemy_units())}",
             "win": "Rout Enemy or Defeat Alice",

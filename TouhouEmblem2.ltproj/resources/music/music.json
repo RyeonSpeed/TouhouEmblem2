@@ -238,5 +238,45 @@
         "Sacred Fireflies",
         false,
         false
+    ],
+    [
+        "Reincarnation",
+        false,
+        false
+    ],
+    [
+        "Drunk as I Like",
+        false,
+        false
+    ],
+    [
+        "Plastic Mind",
+        false,
+        false
+    ],
+    [
+        "Maple Wise",
+        true,
+        false
+    ],
+    [
+        "Lunate Elf",
+        true,
+        false
+    ],
+    [
+        "Deep Mountain",
+        true,
+        false
+    ],
+    [
+        "The Grimoire of Alice",
+        true,
+        false
+    ],
+    [
+        "Magic Square",
+        true,
+        false
     ]
 ]

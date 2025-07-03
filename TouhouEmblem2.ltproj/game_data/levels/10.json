@@ -6,13 +6,13 @@
         "bg_tilemap": null,
         "party": "Reimu",
         "music": {
-            "player_phase": "Fragrant Plants",
-            "enemy_phase": "The Doll Maker of Bucuresti",
-            "enemy2_phase": "The Doll Maker of Bucuresti",
-            "player_battle": "Fragrant Plants",
-            "enemy_battle": "The Doll Maker of Bucuresti",
-            "enemy2_battle": "The Doll Maker of Bucuresti",
-            "boss_battle": "Strawberry Crisis"
+            "player_phase": "Deep Mountain",
+            "enemy_phase": "Maple Wise",
+            "enemy2_phase": "Maple Wise",
+            "player_battle": "Deep Mountain",
+            "enemy_battle": "Maple Wise",
+            "enemy2_battle": "Maple Wise",
+            "boss_battle": "Plastic Mind"
         },
         "objective": {
             "simple": "Escape",
