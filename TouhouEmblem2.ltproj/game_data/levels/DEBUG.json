@@ -6,12 +6,12 @@
         "bg_tilemap": null,
         "party": "Reimu",
         "music": {
-            "player_phase": "Quiet Burn",
-            "enemy_phase": "Quiet Burn",
+            "player_phase": null,
+            "enemy_phase": null,
             "other_phase": null,
             "enemy2_phase": null,
-            "player_battle": "Quiet Burn",
-            "enemy_battle": "Quiet Burn",
+            "player_battle": null,
+            "enemy_battle": null,
             "other_battle": null,
             "enemy2_battle": null
         },
@@ -94,6 +94,30 @@
                 ],
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "103",
+                "variant": null,
+                "level": 1,
+                "klass": "Battlesage",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "COMP",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    10,
+                    12
+                ],
+                "starting_traveler": null,
+                "generic": true
             }
         ],
         "regions": [

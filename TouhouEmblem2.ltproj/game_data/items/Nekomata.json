@@ -1,0 +1,25 @@
+[
+    {
+        "nid": "Nekomata",
+        "name": "Nekomata",
+        "desc": "",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "multi_item",
+                [
+                    "Fire",
+                    "Heal"
+                ]
+            ],
+            [
+                "status_on_equip",
+                "Crit_Plus30"
+            ]
+        ]
+    }
+]

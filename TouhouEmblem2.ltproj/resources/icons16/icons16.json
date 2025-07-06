@@ -845,5 +845,9 @@
     {
         "nid": "NewItem1",
         "subicon_dict": {}
+    },
+    {
+        "nid": "tabularasa",
+        "subicon_dict": {}
     }
 ]
