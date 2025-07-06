@@ -138,7 +138,7 @@
     "6_Chest3",
     "8_Outro",
     "8_Intro",
-    "8_Village1",
+    "9_Village1",
     "8_Village2",
     "8_Destroy1",
     "8_Destroy2",
@@ -417,5 +417,7 @@
     "Global_DeathReisen",
     "Global_DeathKaguya",
     "14_Door1_1",
-    "7_TalkMarisa"
+    "7_TalkMarisa",
+    "8_Village1",
+    "7_TalkMokou"
 ]

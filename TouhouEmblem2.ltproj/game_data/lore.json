@@ -375,6 +375,13 @@
         "name": "Kogasa",
         "title": "Kogasa",
         "category": "Character",
-        "text": "Kogasa has access to a special combat art, \"Bangasa Bombing Run\", that allows her to deal damage in a 2 tile radius from the target. \nThis can be useful, but keep in mind that she also pivots 2 tiles off a target, so she can end up in inopportune situations if you're uncareful."
+        "text": "Name:Kogasa Tatara{br}Latest Scaring Victim:Youmu\n\nKogasa has access to a special combat art, \"Bangasa Bombing Run\", that allows her to deal damage in a 2 tile radius from the target. \nThis can be useful, but keep in mind that she also pivots 2 tiles off a target, so she can end up in inopportune situations if you're uncareful."
+    },
+    {
+        "nid": "Alice",
+        "name": "Alice",
+        "title": "Alice",
+        "category": "Character",
+        "text": "Name: Alice Margatroid{br}Profession:Ventriloquist{br}"
     }
 ]
