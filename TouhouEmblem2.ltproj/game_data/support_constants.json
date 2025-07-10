@@ -1,11 +1,11 @@
 [
     [
         "combat_convos",
-        true
+        0
     ],
     [
         "base_convos",
-        2
+        0
     ],
     [
         "battle_buddy_system",
@@ -33,7 +33,7 @@
     ],
     [
         "end_turn_points",
-        1
+        0
     ],
     [
         "combat_points",
@@ -53,7 +53,7 @@
     ],
     [
         "rank_limit",
-        5
+        0
     ],
     [
         "highest_rank_limit",

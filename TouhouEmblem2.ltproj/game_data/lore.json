@@ -67,7 +67,7 @@
         "name": "Supports",
         "title": "Supports",
         "category": "Guide",
-        "text": "Support conversations are bonus conversations that two units can have after being within a 3 tile distance of each other for enough turns over the course of the game (usually a pretty big amount of turns). After holding a support conversation, you can boost the affinity between two units (Ranks C, B, and A). When two units have a support rank, they will give each other bonuses corresponding to the rank of their support as long as they are within a 3 tile distance of each other. A unit can have up to 5 support conversations, meaning they can at best have a singular A support and up to a B support with another unit."
+        "text": "Supports work a little differently in this game. Instead of building up points to increase your ranks, support ranks are instead granted by having characters talk during interlude chapters.{br}\nAdditionally, fielding certain characters in certain chapters and having them talk may also increase support ranks. Be sure to experiment and see who can talk to who per chapter."
     },
     {
         "nid": "Rescue",

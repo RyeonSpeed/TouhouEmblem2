@@ -43,7 +43,7 @@
             "speak;Reimu;W{c:wait:300}-wha? What is it?",
             "speak;Eirin;I've come to inform you that your booking hours are up.|I kindly request you to vacate the premises.",
             "speak;Reimu;Ugh, we were just about to head out anyway.",
-            "speak;Marisa;(Wow, sober already).",
+            "speak;Marisa;(Wow, sober already).;;;thought_bubble",
             "speak;Eirin;Now, now. I did have the liberty of leaving a farewell gift.|You may take Udongein and the greater Inaba with you as well.",
             "speak;Marisa;You sure you won't consider turning Eientei into an inn?|All ya' need is some onsen tamago.",
             "expression;Eirin;CloseEyes",

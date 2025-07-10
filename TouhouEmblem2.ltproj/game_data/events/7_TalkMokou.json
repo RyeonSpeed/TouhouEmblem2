@@ -19,7 +19,7 @@
             "speak;Kaguya;Usually after, we shop for local curios at the village...|such fascinating gizmos that one secondhand shop sells.",
             "speak;Mokou;Say, shrine maiden, are you interested in testing your luck tonight?",
             "speak;Reimu;What are you getting at?",
-            "speak;Mokou;",
+            "",
             "",
             "remove_talk;Reimu;Mokou"
         ],

@@ -16,7 +16,7 @@
         "desc": "Those who approach this world with spirit and passion.",
         "bonus": [
             {
-                "support_rank": "C",
+                "support_rank": "5%",
                 "damage": 0.5,
                 "resist": 0,
                 "accuracy": 2.5,
@@ -61,7 +61,7 @@
         "desc": "Those who approach this world with brute force.",
         "bonus": [
             {
-                "support_rank": "C",
+                "support_rank": "5%",
                 "damage": 0.0,
                 "resist": 0.5,
                 "accuracy": 0.0,
@@ -106,7 +106,7 @@
         "desc": "Those who approach this world with flexibility.",
         "bonus": [
             {
-                "support_rank": "C",
+                "support_rank": "5%",
                 "damage": 0.5,
                 "resist": 0,
                 "accuracy": 2.5,
@@ -151,7 +151,7 @@
         "desc": "Those who approach this world with unflinching drive.",
         "bonus": [
             {
-                "support_rank": "C",
+                "support_rank": "5%",
                 "damage": 0.0,
                 "resist": 0.5,
                 "accuracy": 2.5,
@@ -196,7 +196,7 @@
         "desc": "Those who approach this world with foolhardy courage.",
         "bonus": [
             {
-                "support_rank": "C",
+                "support_rank": "5%",
                 "damage": 0.0,
                 "resist": 0.0,
                 "accuracy": 2.5,
@@ -241,7 +241,7 @@
         "desc": "Those who approach this world with serene grace.",
         "bonus": [
             {
-                "support_rank": "C",
+                "support_rank": "5%",
                 "damage": 0.5,
                 "resist": 0.5,
                 "accuracy": 2.5,
@@ -286,7 +286,7 @@
         "desc": "Those who approach this world with interest.",
         "bonus": [
             {
-                "support_rank": "C",
+                "support_rank": "5%",
                 "damage": 0.5,
                 "resist": 0.5,
                 "accuracy": 0.0,
