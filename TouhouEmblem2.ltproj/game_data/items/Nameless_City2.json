@@ -46,6 +46,10 @@
             [
                 "spell",
                 null
+            ],
+            [
+                "map_hit_sfx",
+                "Protect"
             ]
         ]
     }

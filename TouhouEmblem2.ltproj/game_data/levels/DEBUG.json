@@ -6,12 +6,12 @@
         "bg_tilemap": null,
         "party": "Reimu",
         "music": {
-            "player_phase": null,
-            "enemy_phase": null,
+            "player_phase": "Lunate Elf",
+            "enemy_phase": "Lunate Elf",
             "other_phase": null,
             "enemy2_phase": null,
-            "player_battle": null,
-            "enemy_battle": null,
+            "player_battle": "Lunate Elf",
+            "enemy_battle": "Lunate Elf",
             "other_battle": null,
             "enemy2_battle": null
         },
@@ -27,7 +27,7 @@
         "tags": [],
         "units": [
             {
-                "nid": "Daiyousei",
+                "nid": "Kosuzu",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -66,10 +66,15 @@
             {
                 "nid": "102",
                 "variant": null,
-                "level": 40,
-                "klass": "Warden",
+                "level": 1,
+                "klass": "Archer",
                 "faction": "Youkai",
-                "starting_items": [],
+                "starting_items": [
+                    [
+                        "Maple_Shield",
+                        false
+                    ]
+                ],
                 "starting_skills": [],
                 "team": "enemy",
                 "ai": "None",
@@ -83,7 +88,7 @@
                 "generic": true
             },
             {
-                "nid": "SigmaRaven",
+                "nid": "Sunny",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,

@@ -100,6 +100,18 @@
             [
                 "battle_cast_anim",
                 "Aircalibur"
+            ],
+            [
+                "effective_damage",
+                {
+                    "effective_tags": [
+                        "Flying"
+                    ],
+                    "effective_multiplier": 1.5,
+                    "effective_bonus_damage": 3,
+                    "show_effectiveness_flash": true,
+                    "weapon_effectiveness_multiplied": true
+                }
             ]
         ]
     }
