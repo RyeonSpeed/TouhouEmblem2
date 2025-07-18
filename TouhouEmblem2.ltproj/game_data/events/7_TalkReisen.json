@@ -1,0 +1,15 @@
+[
+    {
+        "name": "TalkReisen",
+        "trigger": "on_talk",
+        "level_nid": "7",
+        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Reisen'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            ""
+        ],
+        "nid": "7 TalkReisen"
+    }
+]

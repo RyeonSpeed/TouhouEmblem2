@@ -64,10 +64,7 @@
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": [
-                    3,
-                    3
-                ],
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
             },
@@ -77,10 +74,7 @@
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": [
-                    5,
-                    16
-                ],
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
             },
@@ -90,10 +84,7 @@
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": [
-                    6,
-                    15
-                ],
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
             },
@@ -103,10 +94,7 @@
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": [
-                    7,
-                    3
-                ],
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
             },
@@ -116,10 +104,7 @@
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": [
-                    9,
-                    3
-                ],
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
             },
@@ -129,36 +114,7 @@
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": [
-                    8,
-                    3
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Cirno",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    22,
-                    12
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Daiyousei",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    23,
-                    13
-                ],
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
             },
@@ -168,10 +124,7 @@
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": [
-                    7,
-                    10
-                ],
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
             },
@@ -181,10 +134,7 @@
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": [
-                    4,
-                    6
-                ],
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
             },
@@ -194,10 +144,7 @@
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": [
-                    1,
-                    7
-                ],
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
             },
@@ -207,10 +154,7 @@
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": [
-                    1,
-                    6
-                ],
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
             },
@@ -220,10 +164,7 @@
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": [
-                    16,
-                    8
-                ],
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
             },
@@ -233,10 +174,7 @@
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": [
-                    17,
-                    8
-                ],
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
             },
@@ -272,10 +210,7 @@
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": [
-                    12,
-                    14
-                ],
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
             },
@@ -285,36 +220,7 @@
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": [
-                    3,
-                    7
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Rumia",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    21,
-                    13
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Rin",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    25,
-                    21
-                ],
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
             },
@@ -324,23 +230,7 @@
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": [
-                    4,
-                    10
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Suika",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    6,
-                    5
-                ],
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
             },
@@ -758,10 +648,57 @@
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": [
-                    22,
-                    14
-                ],
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Daiyousei",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Cirno",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Rumia",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Rin",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Suika",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
             }
@@ -771,12 +708,12 @@
                 "nid": "Onward_",
                 "region_type": "event",
                 "position": [
-                    6,
-                    13
+                    18,
+                    3
                 ],
                 "size": [
-                    3,
-                    2
+                    1,
+                    1
                 ],
                 "sub_nid": "Onward!",
                 "condition": "True",
@@ -786,7 +723,285 @@
                 "hide_time": false
             }
         ],
-        "unit_groups": [],
-        "ai_groups": []
+        "unit_groups": [
+            {
+                "nid": "Letty",
+                "units": [
+                    "Letty"
+                ],
+                "positions": {
+                    "Letty": [
+                        22,
+                        14
+                    ],
+                    "Cirno": [
+                        22,
+                        12
+                    ],
+                    "Rumia": [
+                        21,
+                        13
+                    ],
+                    "Daiyousei": [
+                        23,
+                        13
+                    ]
+                }
+            },
+            {
+                "nid": "Rin",
+                "units": [
+                    "Rin"
+                ],
+                "positions": {
+                    "Rin": [
+                        25,
+                        21
+                    ]
+                }
+            },
+            {
+                "nid": "Kagerou",
+                "units": [
+                    "Kagerou"
+                ],
+                "positions": {
+                    "Kagerou": [
+                        12,
+                        14
+                    ]
+                }
+            },
+            {
+                "nid": "WriggleMystia",
+                "units": [
+                    "Wriggle"
+                ],
+                "positions": {
+                    "Wriggle": [
+                        5,
+                        16
+                    ],
+                    "Mystia": [
+                        6,
+                        15
+                    ]
+                }
+            },
+            {
+                "nid": "ReisenTewi",
+                "units": [
+                    "Reisen"
+                ],
+                "positions": {
+                    "Reisen": [
+                        16,
+                        8
+                    ],
+                    "Tewi": [
+                        17,
+                        8
+                    ]
+                }
+            },
+            {
+                "nid": "Kokoro",
+                "units": [
+                    "Kokoro"
+                ],
+                "positions": {
+                    "Kokoro": [
+                        4,
+                        10
+                    ]
+                }
+            },
+            {
+                "nid": "Aunn",
+                "units": [
+                    "Aunn"
+                ],
+                "positions": {
+                    "Aunn": [
+                        7,
+                        10
+                    ]
+                }
+            },
+            {
+                "nid": "Cirno",
+                "units": [
+                    "Cirno"
+                ],
+                "positions": {
+                    "Cirno": [
+                        22,
+                        12
+                    ]
+                }
+            },
+            {
+                "nid": "Dai",
+                "units": [
+                    "Daiyousei"
+                ],
+                "positions": {
+                    "Daiyousei": [
+                        23,
+                        13
+                    ]
+                }
+            },
+            {
+                "nid": "Rumia",
+                "units": [
+                    "Rumia"
+                ],
+                "positions": {
+                    "Rumia": [
+                        21,
+                        13
+                    ]
+                }
+            },
+            {
+                "nid": "Mystia",
+                "units": [
+                    "Mystia"
+                ],
+                "positions": {
+                    "Mystia": [
+                        6,
+                        15
+                    ]
+                }
+            },
+            {
+                "nid": "Tewi",
+                "units": [
+                    "Tewi"
+                ],
+                "positions": {
+                    "Tewi": [
+                        17,
+                        8
+                    ]
+                }
+            },
+            {
+                "nid": "Kosuzu",
+                "units": [
+                    "Kosuzu"
+                ],
+                "positions": {
+                    "Kosuzu": [
+                        1,
+                        6
+                    ]
+                }
+            },
+            {
+                "nid": "Rinnosuke",
+                "units": [
+                    "Rinnosuke"
+                ],
+                "positions": {
+                    "Rinnosuke": [
+                        1,
+                        7
+                    ]
+                }
+            },
+            {
+                "nid": "Remilia",
+                "units": [
+                    "Remilia"
+                ],
+                "positions": {
+                    "Remilia": [
+                        4,
+                        6
+                    ]
+                }
+            },
+            {
+                "nid": "Tokiko",
+                "units": [
+                    "Tokiko"
+                ],
+                "positions": {
+                    "Tokiko": [
+                        3,
+                        7
+                    ]
+                }
+            },
+            {
+                "nid": "Suika",
+                "units": [
+                    "Suika"
+                ],
+                "positions": {
+                    "Suika": [
+                        6,
+                        4
+                    ]
+                }
+            },
+            {
+                "nid": "Luna",
+                "units": [
+                    "Luna"
+                ],
+                "positions": {
+                    "Luna": [
+                        9,
+                        3
+                    ]
+                }
+            },
+            {
+                "nid": "Sunny",
+                "units": [
+                    "Sunny"
+                ],
+                "positions": {
+                    "Sunny": [
+                        7,
+                        3
+                    ]
+                }
+            },
+            {
+                "nid": "Star",
+                "units": [
+                    "Star"
+                ],
+                "positions": {
+                    "Star": [
+                        8,
+                        3
+                    ]
+                }
+            },
+            {
+                "nid": "Kasen",
+                "units": [
+                    "Kasen"
+                ],
+                "positions": {
+                    "Kasen": [
+                        3,
+                        3
+                    ]
+                }
+            }
+        ],
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]
