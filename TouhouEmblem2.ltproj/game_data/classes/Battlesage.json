@@ -124,6 +124,11 @@
                 0,
                 251
             ],
+            "Knife": [
+                false,
+                0,
+                null
+            ],
             "Monster": [
                 false,
                 0,
@@ -136,7 +141,7 @@
             0
         ],
         "map_sprite_nid": "Sage (F) Battle Sage Sword {Leif, L95}-stand",
-        "combat_anim_nid": "Sage",
+        "combat_anim_nid": "Battlesage",
         "fields": []
     }
 ]

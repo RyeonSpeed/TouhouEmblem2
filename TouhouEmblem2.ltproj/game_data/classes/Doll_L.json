@@ -123,6 +123,11 @@
                 0,
                 null
             ],
+            "Knife": [
+                false,
+                0,
+                null
+            ],
             "Monster": [
                 false,
                 0,
@@ -135,7 +140,7 @@
             0
         ],
         "map_sprite_nid": "Soldier (F) Shield {Rexacuse, Peerless, Alusq, WarPath}-stand",
-        "combat_anim_nid": "Herald_1",
+        "combat_anim_nid": "SoldierFemale",
         "fields": []
     }
 ]

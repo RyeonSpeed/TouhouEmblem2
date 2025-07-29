@@ -81,16 +81,19 @@
                 }
             ],
             [
-                "status_on_equip",
-                "Devil_Luck"
-            ],
-            [
                 "fatigue",
                 1
             ],
             [
                 "battle_cast_anim",
-                "Hex"
+                "Slime"
+            ],
+            [
+                "multi_status_on_equip",
+                [
+                    "Devil_Luck",
+                    "Slime_Melee_Skill"
+                ]
             ]
         ]
     }

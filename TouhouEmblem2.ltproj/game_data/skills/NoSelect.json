@@ -24,6 +24,12 @@
             [
                 "immune_status",
                 null
+            ],
+            [
+                "has_tags",
+                [
+                    "Unrescuable"
+                ]
             ]
         ]
     }

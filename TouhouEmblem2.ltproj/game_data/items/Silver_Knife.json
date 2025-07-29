@@ -72,10 +72,6 @@
                 ]
             ],
             [
-                "battle_cast_anim",
-                "Arrow"
-            ],
-            [
                 "fatigue",
                 1
             ],
@@ -93,6 +89,10 @@
             [
                 "brave",
                 null
+            ],
+            [
+                "weapon_type",
+                "Knife"
             ]
         ]
     }

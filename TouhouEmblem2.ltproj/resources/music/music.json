@@ -238,5 +238,10 @@
         "Magic Square",
         true,
         false
+    ],
+    [
+        "Ultimate Truth",
+        false,
+        false
     ]
 ]

@@ -8,6 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "music;Comrades",
             "add_portrait;Remilia;Right",
             "add_portrait;Sakuya;Left",
             "speak;Remilia;Ah! Sakuya?! How did you get here?",
@@ -19,7 +20,8 @@
             "speak;Remilia;Nuh uh. Come along. That's an order.",
             "speak;Sakuya;Oh well...",
             "multi_remove_portrait;Sakuya;Remilia",
-            "change_team;Sakuya;player"
+            "change_team;Sakuya;player",
+            "music_fade_back"
         ],
         "nid": "8 RemiliaSakuya"
     }

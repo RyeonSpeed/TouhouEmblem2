@@ -18,10 +18,6 @@
                 null
             ],
             [
-                "unselectable",
-                null
-            ],
-            [
                 "cannot_trade",
                 null
             ],
@@ -39,6 +35,12 @@
                     170,
                     0,
                     0
+                ]
+            ],
+            [
+                "has_tags",
+                [
+                    "Unrescuable"
                 ]
             ]
         ]

@@ -14,6 +14,7 @@
             "change_music;enemy_battle;Plastic Mind",
             "change_music;enemy2_phase;Plastic Mind",
             "change_music;enemy2_battle;Plastic Mind",
+            "change_music;other_phase;Plastic Mind",
             "add_portrait;PC-98 Alice;Left",
             "speak;;Grimoire of Alice: Makai Synchrogazer;center;200;hint;;red;;;1;;;;;Warp",
             "speak;PC-98 Alice;The magic granted to me by Makai...face it!",

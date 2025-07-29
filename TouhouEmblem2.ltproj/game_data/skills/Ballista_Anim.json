@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Ballista_Anim",
+        "name": "Dagon Melee Skill",
+        "desc": "",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "hidden",
+                null
+            ],
+            [
+                "change_animation",
+                "Ballista"
+            ]
+        ]
+    }
+]

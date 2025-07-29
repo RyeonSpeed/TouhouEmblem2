@@ -130,7 +130,7 @@
             0
         ],
         "map_sprite_nid": "SageFemale",
-        "combat_anim_nid": "Sage",
+        "combat_anim_nid": "SageFemale",
         "fields": []
     }
 ]

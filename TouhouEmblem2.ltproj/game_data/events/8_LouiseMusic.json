@@ -1,0 +1,16 @@
+[
+    {
+        "name": "LouiseMusic",
+        "trigger": "combat_start",
+        "level_nid": "8",
+        "condition": "unit.nid == \"Louise_Boss\" or unit2.nid == \"Louise_Boss\"",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "music;Strawberry Crisis;1",
+            "wait;402"
+        ],
+        "nid": "8 LouiseMusic"
+    }
+]

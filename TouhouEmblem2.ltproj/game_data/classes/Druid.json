@@ -135,7 +135,7 @@
             0
         ],
         "map_sprite_nid": "Druid (F) {IS}-stand",
-        "combat_anim_nid": "Shaman",
+        "combat_anim_nid": "WarlockFemale",
         "fields": []
     }
 ]

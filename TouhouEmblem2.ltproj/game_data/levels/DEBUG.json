@@ -27,14 +27,14 @@
         "tags": [],
         "units": [
             {
-                "nid": "Kosuzu",
+                "nid": "Remilia",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    7,
-                    9
+                    9,
+                    6
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -43,21 +43,25 @@
                 "nid": "101",
                 "variant": null,
                 "level": 1,
-                "klass": "Citizen",
+                "klass": "Bigle",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Killer_Bow",
+                        "Debug_Crit",
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "NoSelect",
+                    "DollComponent",
+                    "AntiPhysAura"
+                ],
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    7,
+                    8,
                     10
                 ],
                 "starting_traveler": null,
@@ -67,35 +71,38 @@
                 "nid": "102",
                 "variant": null,
                 "level": 1,
-                "klass": "Archer",
+                "klass": "Cursed_Armor",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Maple_Shield",
+                        "Short_Axe",
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "NoSelect",
+                    "Indomitable_Spirit"
+                ],
                 "team": "enemy",
-                "ai": "None",
+                "ai": "Guard",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    12,
-                    9
+                    13,
+                    11
                 ],
                 "starting_traveler": null,
                 "generic": true
             },
             {
-                "nid": "Sunny",
+                "nid": "Sakuya",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    9,
-                    10
+                    10,
+                    6
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -104,11 +111,11 @@
                 "nid": "103",
                 "variant": null,
                 "level": 1,
-                "klass": "Battlesage",
+                "klass": "Archer",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "COMP",
+                        "Killer_Ballista",
                         false
                     ]
                 ],
@@ -118,11 +125,37 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    10,
-                    12
+                    14,
+                    15
                 ],
                 "starting_traveler": null,
                 "generic": true
+            },
+            {
+                "nid": "Hourai",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    11,
+                    12
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Alice_Boss_2",
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    10,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [
@@ -164,6 +197,11 @@
             }
         ],
         "unit_groups": [],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

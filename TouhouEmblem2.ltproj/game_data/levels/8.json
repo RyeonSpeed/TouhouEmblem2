@@ -12,7 +12,9 @@
             "enemy2_phase": "The Doll Maker of Bucuresti",
             "enemy_battle": "The Doll Maker of Bucuresti",
             "enemy2_battle": "The Doll Maker of Bucuresti",
-            "boss_battle": "Strawberry Crisis"
+            "boss_battle": "Strawberry Crisis",
+            "other_phase": "The Doll Maker of Bucuresti",
+            "other_battle": "The Doll Maker of Bucuresti"
         },
         "objective": {
             "simple": "Defeat Louise",

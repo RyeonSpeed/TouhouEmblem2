@@ -1058,5 +1058,9 @@
     [
         "Protect",
         null
+    ],
+    [
+        "BallistaShot",
+        null
     ]
 ]

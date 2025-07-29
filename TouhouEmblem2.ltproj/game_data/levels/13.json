@@ -5,7 +5,10 @@
         "tilemap": "New Tilemap_5",
         "bg_tilemap": null,
         "party": "Reimu",
-        "music": {},
+        "music": {
+            "player_phase": "Ultimate Truth",
+            "player_battle": "Ultimate Truth"
+        },
         "objective": {
             "simple": "Defeat Youmu",
             "win": "Defeat Youmu",

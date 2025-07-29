@@ -10,7 +10,8 @@
             "Warden"
         ],
         "tags": [
-            "Armor"
+            "Armor",
+            "Monster"
         ],
         "max_level": 40,
         "bases": {
@@ -130,6 +131,11 @@
                 0,
                 251
             ],
+            "Knife": [
+                false,
+                0,
+                null
+            ],
             "Monster": [
                 false,
                 0,
@@ -142,7 +148,7 @@
             0
         ],
         "map_sprite_nid": "Living Armor Red Flame {Sphealnuke, topazlight}-stand",
-        "combat_anim_nid": "Knight",
+        "combat_anim_nid": "CursedArmor",
         "fields": []
     }
 ]

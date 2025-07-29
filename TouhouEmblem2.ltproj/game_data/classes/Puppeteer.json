@@ -125,6 +125,11 @@
                 0,
                 251
             ],
+            "Knife": [
+                false,
+                0,
+                null
+            ],
             "Monster": [
                 false,
                 0,
@@ -137,7 +142,7 @@
             0
         ],
         "map_sprite_nid": "Mage (F) Apprentice {BBHood217}-stand",
-        "combat_anim_nid": "Shaman",
+        "combat_anim_nid": "Puppeteer",
         "fields": []
     }
 ]

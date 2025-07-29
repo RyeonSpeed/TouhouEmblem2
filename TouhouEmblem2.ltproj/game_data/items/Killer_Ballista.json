@@ -1,7 +1,7 @@
 [
     {
         "nid": "Killer_Ballista",
-        "name": "Killer Ballis",
+        "name": "Killer Ballista",
         "desc": "Anti-Fliers.",
         "icon_nid": "the2icons",
         "icon_index": [
@@ -90,6 +90,10 @@
             [
                 "fatigue",
                 1
+            ],
+            [
+                "status_on_equip",
+                "Ballista_Anim"
             ]
         ]
     }

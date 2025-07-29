@@ -14,16 +14,23 @@
                 null
             ],
             [
-                "time",
-                5
-            ],
-            [
                 "lost_on_end_chapter",
                 null
             ],
             [
-                "cannot_use_physical_items",
-                null
+                "multi_skill",
+                [
+                    "NoSword",
+                    "NoLance",
+                    "NoAxe",
+                    "NoBow",
+                    "NoMartial",
+                    "NoKnife"
+                ]
+            ],
+            [
+                "time",
+                5
             ]
         ]
     }

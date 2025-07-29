@@ -90,6 +90,10 @@
             [
                 "fatigue",
                 1
+            ],
+            [
+                "status_on_equip",
+                "Ballista_Anim"
             ]
         ]
     }

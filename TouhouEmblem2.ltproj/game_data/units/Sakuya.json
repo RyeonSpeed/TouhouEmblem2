@@ -78,6 +78,11 @@
                 false,
                 1,
                 null
+            ],
+            "Knife": [
+                false,
+                121,
+                null
             ]
         },
         "alternate_classes": [],

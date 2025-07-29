@@ -125,6 +125,11 @@
                 false,
                 0,
                 251
+            ],
+            "Knife": [
+                false,
+                0,
+                null
             ]
         },
         "icon_nid": "Berserker",
@@ -133,7 +138,7 @@
             0
         ],
         "map_sprite_nid": "Berserker (F) Hawkzerker Axe {Pikmin, Der}-stand",
-        "combat_anim_nid": "Berserker",
+        "combat_anim_nid": "BerserkerFemale",
         "fields": []
     }
 ]

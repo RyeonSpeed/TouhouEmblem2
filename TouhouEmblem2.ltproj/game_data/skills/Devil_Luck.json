@@ -10,20 +10,20 @@
         ],
         "components": [
             [
-                "lifelink",
-                -1.0
-            ],
-            [
-                "condition",
-                "not 'Monster' in unit.tags"
-            ],
-            [
                 "hidden",
                 null
             ],
             [
                 "proc_rate",
                 "DEVIL"
+            ],
+            [
+                "attack_proc",
+                "Devil_Luck_1"
+            ],
+            [
+                "hide_skill_icon_in_combat",
+                null
             ]
         ]
     }

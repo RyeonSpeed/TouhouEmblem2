@@ -8,7 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "8,18chapter_title",
+            "chapter_title",
             "trigger_script;Global Housekeeping3",
             "trigger_script;Global Housekeeping2",
             "load_unit;Mima",

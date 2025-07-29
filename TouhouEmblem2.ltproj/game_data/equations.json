@@ -73,7 +73,7 @@
     },
     {
         "nid": "RESCUE_WEIGHT",
-        "expression": "99999 if (any([x for x in unit.skills if x.unselectable]) or 'Unrescuable' in unit.tags) else CON"
+        "expression": "99999 if ('Unrescuable' in unit.tags) else CON"
     },
     {
         "nid": "STEAL_ATK",

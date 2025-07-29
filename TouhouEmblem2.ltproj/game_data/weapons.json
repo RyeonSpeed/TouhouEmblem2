@@ -355,5 +355,19 @@
             9,
             0
         ]
+    },
+    {
+        "nid": "Knife",
+        "name": "Knife",
+        "force_melee_anim": true,
+        "hide_from_display": true,
+        "rank_bonus": [],
+        "advantage": [],
+        "disadvantage": [],
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ]
     }
 ]

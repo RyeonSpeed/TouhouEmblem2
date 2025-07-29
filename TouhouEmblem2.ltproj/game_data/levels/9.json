@@ -12,7 +12,7 @@
             "player_battle": "Fragrant Plants",
             "enemy_battle": "The Doll Maker of Bucuresti",
             "enemy2_battle": "The Doll Maker of Bucuresti",
-            "boss_battle": "Strawberry Crisis"
+            "boss_battle": "Plastic Mind"
         },
         "objective": {
             "simple": "Defeat Alice",
@@ -459,7 +459,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Thunder_Tome_Anim"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -483,7 +485,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Light_Tome_Anim"
+                ],
                 "team": "enemy",
                 "ai": "Attack",
                 "roam_ai": null,
@@ -507,7 +511,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Dark_Tome_Anim"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -1234,7 +1240,7 @@
             {
                 "nid": "Alice_Boss_2",
                 "team": "enemy",
-                "ai": "Pursue",
+                "ai": "Pursue_2",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
@@ -1250,7 +1256,8 @@
                 "starting_items": [],
                 "starting_skills": [
                     "AntiPhysAura",
-                    "NoSelect"
+                    "NoSelect",
+                    "DollComponent"
                 ],
                 "team": "other",
                 "ai": "None",
@@ -1269,7 +1276,8 @@
                 "starting_items": [],
                 "starting_skills": [
                     "AntiPhysAura",
-                    "NoSelect"
+                    "NoSelect",
+                    "DollComponent"
                 ],
                 "team": "other",
                 "ai": "None",
@@ -1288,7 +1296,8 @@
                 "starting_items": [],
                 "starting_skills": [
                     "AntiPhysAura",
-                    "NoSelect"
+                    "NoSelect",
+                    "DollComponent"
                 ],
                 "team": "other",
                 "ai": "None",
@@ -1307,7 +1316,8 @@
                 "starting_items": [],
                 "starting_skills": [
                     "AntiMagAura",
-                    "NoSelect"
+                    "NoSelect",
+                    "DollComponent"
                 ],
                 "team": "other",
                 "ai": "None",
@@ -1326,7 +1336,8 @@
                 "starting_items": [],
                 "starting_skills": [
                     "AntiMagAura",
-                    "NoSelect"
+                    "NoSelect",
+                    "DollComponent"
                 ],
                 "team": "other",
                 "ai": "None",
@@ -1345,7 +1356,8 @@
                 "starting_items": [],
                 "starting_skills": [
                     "AntiMagAura",
-                    "NoSelect"
+                    "NoSelect",
+                    "DollComponent"
                 ],
                 "team": "other",
                 "ai": "None",
@@ -1582,6 +1594,11 @@
                 }
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

@@ -3,15 +3,14 @@
         "name": "FightChiyuri",
         "trigger": "combat_start",
         "level_nid": "6",
-        "condition": "unit.nid == \"Chiyuri_Boss\" or unit2.nid == \"Chiyuri_Boss\"",
+        "condition": "unit1.nid == \"Chiyuri_Boss\" or unit2.nid == \"Chiyuri_Boss\"",
         "commands": [],
         "only_once": true,
         "priority": 20,
         "_source": [
             "music;Strawberry Crisis",
             "add_portrait;Chiyuri;Left",
-            "speak;Chiyuri;Hmph. I may be rusty, but if it's a fight you want,|it's a fight you'll get!",
-            ""
+            "speak;Chiyuri;Hmph. I may be rusty, but if it's a fight you want,|it's a fight you'll get!"
         ],
         "nid": "6 FightChiyuri"
     }
