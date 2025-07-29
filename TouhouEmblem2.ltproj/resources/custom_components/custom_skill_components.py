@@ -440,7 +440,7 @@ class GiveStatusBeforeCrit(SkillComponent):
             playback.append(pb.DefenseProc(defender, act.skill_obj))
             self._did_action = True
 
-        def end_sub_combat(self, actions, playback, unit, item, target, mode, attack_info):
+        def end_sub_combat(self, actions, playback, unit, item, target, item2, mode, attack_info):
             if self._did_action:
                 action.do(action.RemoveSkill(target, self.value))
                 self._did_action = False
