@@ -18,7 +18,9 @@
         "roam_unit": "Reimu",
         "go_to_overworld": false,
         "should_record": true,
-        "tags": [],
+        "tags": [
+            "Intermission"
+        ],
         "units": [
             {
                 "nid": "Reimu",
