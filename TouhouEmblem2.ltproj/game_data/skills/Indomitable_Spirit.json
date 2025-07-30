@@ -10,14 +10,20 @@
         ],
         "components": [
             [
-                "multi_skill",
-                [
-                    "Indomitable_Spirit_1"
-                ]
-            ],
-            [
                 "ability_indicator",
                 null
+            ],
+            [
+                "immune_status",
+                null
+            ],
+            [
+                "skill_before_combat",
+                {
+                    "skill": "Indomitable_Spirit_1",
+                    "recipient": "target",
+                    "allegiance": "both"
+                }
             ]
         ]
     }

@@ -10,12 +10,12 @@
         ],
         "components": [
             [
-                "immune_status",
+                "hidden",
                 null
             ],
             [
-                "hidden",
-                null
+                "give_status_before_crit",
+                "Indomitable_Spirit_2"
             ]
         ]
     }

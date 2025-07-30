@@ -26,12 +26,12 @@
                 null
             ],
             [
-                "status_on_hit",
-                "Bleeding"
-            ],
-            [
                 "no_double",
                 null
+            ],
+            [
+                "event_on_hit",
+                "Global BleedApply"
             ]
         ]
     }

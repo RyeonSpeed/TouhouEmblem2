@@ -9,7 +9,8 @@
         "priority": 20,
         "_source": [
             "give_item;Reimu;Scroll_Moonbow",
-            "remove_talk;Reimu;Eirin_NPC"
+            "remove_talk;Reimu;Eirin_NPC",
+            ""
         ],
         "nid": "7 TalkEirin"
     }

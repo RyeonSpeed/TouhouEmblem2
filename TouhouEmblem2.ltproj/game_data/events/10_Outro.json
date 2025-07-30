@@ -22,6 +22,7 @@
             "speak;Marisa;bruh",
             "else",
             "end",
+            "trigger_script;ENDING",
             "game_var;chaptercount;10",
             "set_next_chapter;Base"
         ],

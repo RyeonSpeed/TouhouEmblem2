@@ -12,6 +12,10 @@
             [
                 "hidden",
                 null
+            ],
+            [
+                "resist_multiplier",
+                0.5
             ]
         ]
     }

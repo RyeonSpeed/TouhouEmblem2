@@ -20,6 +20,7 @@
             "remove_portrait;Yumemi",
             "add_group;YumemiSpell;YumemiSpell;warp;push",
             "autolevel_to;Yumemi_Boss_1;15;fixed",
+            "autolevel_to;Chiyuri_Boss_1;12;fixed",
             "move_cursor;Yumemi_Boss_1",
             "for;VICTIMS;[x.nid for x in game.get_all_units()]",
             "give_skill;{VICTIMS};Decreasing_Work_Efficiency;;no_banner",

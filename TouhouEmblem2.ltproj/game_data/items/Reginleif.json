@@ -84,6 +84,10 @@
             [
                 "fatigue",
                 1
+            ],
+            [
+                "weapon_rank",
+                "D"
             ]
         ]
     }

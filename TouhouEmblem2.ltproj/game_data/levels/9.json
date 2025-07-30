@@ -169,10 +169,6 @@
                     [
                         "Steel_Lance",
                         false
-                    ],
-                    [
-                        "Steel_Sword",
-                        false
                     ]
                 ],
                 "starting_skills": [],
@@ -196,10 +192,6 @@
                 "starting_items": [
                     [
                         "Steel_Lance",
-                        false
-                    ],
-                    [
-                        "Steel_Sword",
                         false
                     ]
                 ],
@@ -225,10 +217,6 @@
                     [
                         "Steel_Lance",
                         false
-                    ],
-                    [
-                        "Steel_Sword",
-                        false
                     ]
                 ],
                 "starting_skills": [],
@@ -252,10 +240,6 @@
                 "starting_items": [
                     [
                         "Steel_Lance",
-                        false
-                    ],
-                    [
-                        "Steel_Sword",
                         false
                     ]
                 ],
@@ -308,10 +292,6 @@
                 "starting_items": [
                     [
                         "Steel_Lance",
-                        false
-                    ],
-                    [
-                        "Steel_Sword",
                         false
                     ]
                 ],
@@ -777,7 +757,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Bankuruwase",
+                        "Steel_Sword",
                         false
                     ]
                 ],
@@ -1178,7 +1158,7 @@
                 "generic": true
             },
             {
-                "nid": "127",
+                "nid": "Snag1",
                 "variant": null,
                 "level": 8,
                 "klass": "Snag20",
@@ -1594,11 +1574,6 @@
                 }
             }
         ],
-        "ai_groups": [
-            {
-                "nid": "",
-                "trigger_threshold": 1
-            }
-        ]
+        "ai_groups": []
     }
 ]

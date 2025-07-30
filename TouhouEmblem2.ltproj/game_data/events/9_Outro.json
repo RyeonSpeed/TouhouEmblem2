@@ -28,6 +28,7 @@
             "",
             "",
             "end",
+            "trigger_script;ENDING",
             "game_var;chaptercount;9",
             "set_next_chapter;Base"
         ],

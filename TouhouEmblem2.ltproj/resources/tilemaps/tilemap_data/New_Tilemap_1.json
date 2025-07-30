@@ -3535,11 +3535,37 @@
                         ]
                     ]
                 }
+            },
+            {
+                "nid": "Snag1",
+                "visible": false,
+                "foreground": false,
+                "terrain_grid": {
+                    "10,16": "1",
+                    "9,16": "1"
+                },
+                "sprite_grid": {
+                    "9,16": [
+                        "Green Raw Tiles",
+                        [
+                            24,
+                            28
+                        ]
+                    ],
+                    "10,16": [
+                        "Riverside_Ambush",
+                        [
+                            11,
+                            15
+                        ]
+                    ]
+                }
             }
         ],
         "tilesets": [
             "Riverside_Ambush",
-            "Jizou"
+            "Jizou",
+            "Green Raw Tiles"
         ]
     }
 ]

@@ -14,16 +14,8 @@
                 -9
             ],
             [
-                "modify_maximum_range",
-                5
-            ],
-            [
                 "damage_multiplier",
                 1.5
-            ],
-            [
-                "event_before_combat",
-                "Global BleedApply"
             ],
             [
                 "hit",
@@ -40,6 +32,22 @@
             [
                 "post_combat_splash_evaluated",
                 "unit.get_stat('STR') * 0.5"
+            ],
+            [
+                "modify_maximum_range",
+                5
+            ],
+            [
+                "event_before_combat",
+                "Global BleedApply"
+            ],
+            [
+                "condition",
+                "item.nid == 'Gungnir'"
+            ],
+            [
+                "cannot_double",
+                null
             ]
         ]
     }

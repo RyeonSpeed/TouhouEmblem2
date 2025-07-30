@@ -442,5 +442,7 @@
     "7_TalkStar",
     "7_TalkLuna",
     "7_TalkSunny",
-    "Global_New_Event"
+    "Global_ENDING",
+    "Global_START",
+    "9_Snag"
 ]

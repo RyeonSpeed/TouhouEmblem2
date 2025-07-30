@@ -1264,10 +1264,6 @@
                     [
                         "Horseslayer",
                         false
-                    ],
-                    [
-                        "Steel_Sword",
-                        false
                     ]
                 ],
                 "starting_skills": [],
@@ -1320,10 +1316,6 @@
                     [
                         "Steel_Lance",
                         false
-                    ],
-                    [
-                        "Steel_Sword",
-                        false
                     ]
                 ],
                 "starting_skills": [],
@@ -1347,10 +1339,6 @@
                 "starting_items": [
                     [
                         "Steel_Lance",
-                        false
-                    ],
-                    [
-                        "Steel_Sword",
                         false
                     ]
                 ],
@@ -1376,10 +1364,6 @@
                     [
                         "Steel_Lance",
                         false
-                    ],
-                    [
-                        "Rapier",
-                        false
                     ]
                 ],
                 "starting_skills": [],
@@ -1402,7 +1386,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Zanbato",
+                        "Platepiercer",
                         false
                     ]
                 ],
@@ -1426,7 +1410,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Steel_Sword",
+                        "Steel_Lance",
                         false
                     ]
                 ],
@@ -1456,7 +1440,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Pursue",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
@@ -1477,7 +1461,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Pursue",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
@@ -1498,7 +1482,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Pursue",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
@@ -1519,7 +1503,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Pursue",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
@@ -1540,7 +1524,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Pursue",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
@@ -1561,7 +1545,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Pursue",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
@@ -1576,13 +1560,13 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Steel_Sword",
+                        "Steel_Lance",
                         false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Pursue",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
@@ -1597,13 +1581,13 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Silver_Sword",
+                        "Silver_Lance",
                         false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Pursue",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
@@ -1618,13 +1602,13 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Steel_Sword",
+                        "Steel_Lance",
                         false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Pursue",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,

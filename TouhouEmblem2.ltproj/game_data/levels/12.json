@@ -413,7 +413,7 @@
                 "nid": "181",
                 "variant": null,
                 "level": 11,
-                "klass": "Grave_Rider",
+                "klass": "Lance_Rider",
                 "faction": "Insurgents",
                 "starting_items": [
                     [
@@ -437,7 +437,7 @@
                 "nid": "183",
                 "variant": null,
                 "level": 11,
-                "klass": "Grave_Rider",
+                "klass": "Sword_Rider",
                 "faction": "Insurgents",
                 "starting_items": [
                     [
@@ -989,7 +989,7 @@
                 "nid": "107",
                 "variant": null,
                 "level": 11,
-                "klass": "Grave_Rider",
+                "klass": "Lance_Rider",
                 "faction": "Insurgents",
                 "starting_items": [
                     [
@@ -1301,7 +1301,7 @@
                 "nid": "108",
                 "variant": null,
                 "level": 11,
-                "klass": "Grave_Rider",
+                "klass": "Sword_Rider",
                 "faction": "Insurgents",
                 "starting_items": [
                     [
@@ -1325,7 +1325,7 @@
                 "nid": "132",
                 "variant": null,
                 "level": 11,
-                "klass": "Grave_Rider",
+                "klass": "Sword_Rider",
                 "faction": "Insurgents",
                 "starting_items": [
                     [
@@ -1349,7 +1349,7 @@
                 "nid": "109",
                 "variant": null,
                 "level": 11,
-                "klass": "Grave_Rider",
+                "klass": "Lance_Rider",
                 "faction": "Insurgents",
                 "starting_items": [
                     [

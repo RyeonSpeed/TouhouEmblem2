@@ -2,7 +2,7 @@
     {
         "nid": "Spear_The_Gungnir",
         "name": "Spear The Gungnir",
-        "desc": "Cannot miss. 1.5x DMG. Strikethrough 5. Applies \"Bleeding\" before the target is hit. Uses up all of Gungnir's remaining durability. Enemies adjacent to target: Afterstrike = 50% user's STR. ",
+        "desc": "Cannot double or miss. 1.5x DMG. Strikethrough 5. Applies \"Bleeding\" before the target is hit. Uses up all of Gungnir's remaining durability. Enemies adjacent to target: Afterstrike = 50% user's STR. ",
         "icon_nid": "skillicons102724",
         "icon_index": [
             0,
@@ -18,8 +18,8 @@
                 "Spear_The_Gungnir_1"
             ],
             [
-                "condition",
-                "item.nid in ['Gungnir']"
+                "allowed_weapons",
+                "item_system.weapon_type(unit, item) in ['Lance']"
             ]
         ]
     }

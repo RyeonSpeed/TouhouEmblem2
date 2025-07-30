@@ -86,7 +86,7 @@
         ],
         "wexp_gain": {
             "Sword": [
-                true,
+                false,
                 1,
                 251
             ],
@@ -134,6 +134,11 @@
                 false,
                 0,
                 251
+            ],
+            "Knife": [
+                false,
+                0,
+                null
             ],
             "Monster": [
                 false,

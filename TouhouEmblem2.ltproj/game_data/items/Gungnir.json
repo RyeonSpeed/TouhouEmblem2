@@ -71,11 +71,12 @@
                 null
             ],
             [
-                "multi_status_on_equip",
-                [
-                    "Bloodlust",
-                    "Spear_The_Gungnir"
-                ]
+                "status_on_equip",
+                "Bloodlust"
+            ],
+            [
+                "status_on_hold",
+                "Spear_The_Gungnir"
             ]
         ]
     }

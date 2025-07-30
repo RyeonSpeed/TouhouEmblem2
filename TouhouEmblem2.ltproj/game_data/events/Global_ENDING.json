@@ -1,0 +1,20 @@
+[
+    {
+        "name": "ENDING",
+        "trigger": "level_end",
+        "level_nid": null,
+        "condition": "False",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "for;SHITLING;[x.nid for x in game.get_all_units_in_party()]",
+            "    game_var;{SHITLING}_fat_store;u('{SHITLING}').get_fatigue()",
+            "    if;v('{SHITLING}_fat_store')",
+            "        add_fatigue;{SHITLING};-{v:{SHITLING}_fat_store}",
+            "    end",
+            "endf"
+        ],
+        "nid": "Global ENDING"
+    }
+]

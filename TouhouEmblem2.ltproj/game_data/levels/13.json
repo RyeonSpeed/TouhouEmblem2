@@ -229,7 +229,7 @@
                 "nid": "108",
                 "variant": null,
                 "level": 12,
-                "klass": "Grave_Rider",
+                "klass": "Sword_Rider",
                 "faction": "Hakugyoukurou",
                 "starting_items": [
                     [
@@ -373,7 +373,7 @@
                 "nid": "114",
                 "variant": null,
                 "level": 12,
-                "klass": "Grave_Rider",
+                "klass": "Sword_Rider",
                 "faction": "Hakugyoukurou",
                 "starting_items": [
                     [
@@ -550,7 +550,7 @@
                 "nid": "121",
                 "variant": null,
                 "level": 12,
-                "klass": "Grave_Rider",
+                "klass": "Sword_Rider",
                 "faction": "Hakugyoukurou",
                 "starting_items": [
                     [

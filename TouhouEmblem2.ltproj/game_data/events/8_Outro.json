@@ -51,7 +51,7 @@
             "speak;Kasen;Seems like that's her \"ordinary\".",
             "",
             "transition;close",
-            "",
+            "trigger_script;ENDING",
             "game_var;chaptercount;8",
             "set_next_chapter;Base"
         ],

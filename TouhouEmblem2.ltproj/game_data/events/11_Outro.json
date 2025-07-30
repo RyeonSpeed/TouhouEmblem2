@@ -14,6 +14,7 @@
             "elif;game.turncount > 15",
             "speak;;Lmao skill issue;;;hint",
             "end",
+            "trigger_script;ENDING",
             "game_var;chaptercount;11",
             "set_next_chapter;Base",
             ""
