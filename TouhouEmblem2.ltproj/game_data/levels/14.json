@@ -2,17 +2,17 @@
     {
         "nid": "14",
         "name": "Ch 14: Death Blossoms",
-        "tilemap": "New Tilemap_8",
+        "tilemap": "New Tilemap_10",
         "bg_tilemap": null,
         "party": "Reimu",
         "music": {},
         "objective": {
-            "simple": "",
-            "win": "",
-            "loss": ""
+            "simple": "Survive <blue>{e:game.turncount}</>/13 turns",
+            "win": "Survive",
+            "loss": "Reimu or Marisa dies"
         },
         "roam": false,
-        "roam_unit": "Reimu",
+        "roam_unit": null,
         "go_to_overworld": false,
         "should_record": true,
         "tags": [],
@@ -24,8 +24,21 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    23,
-                    42
+                    2,
+                    21
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Marisa",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    1,
+                    20
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -37,8 +50,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    22,
-                    41
+                    0,
+                    18
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -50,8 +63,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    24,
-                    40
+                    1,
+                    22
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -60,22 +73,22 @@
                 "nid": "101",
                 "variant": null,
                 "level": 13,
-                "klass": "Archer",
-                "faction": "Youkai",
+                "klass": "Occultist",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Fukiya",
+                        "Luna",
                         false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Pursue",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    20,
-                    29
+                    8,
+                    19
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -84,22 +97,22 @@
                 "nid": "102",
                 "variant": null,
                 "level": 13,
-                "klass": "Archer",
-                "faction": "Youkai",
+                "klass": "Mage",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Fukiya",
+                        "Thunder",
                         false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Pursue",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    32,
-                    41
+                    9,
+                    18
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -108,227 +121,11 @@
                 "nid": "103",
                 "variant": null,
                 "level": 13,
-                "klass": "Archer",
-                "faction": "Youkai",
+                "klass": "Fencer",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Fukiya",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    34,
-                    42
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "104",
-                "variant": null,
-                "level": 13,
-                "klass": "Archer",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Fukiya",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    28,
-                    44
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "105",
-                "variant": null,
-                "level": 13,
-                "klass": "Archer",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Fukiya",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    28,
-                    39
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "106",
-                "variant": null,
-                "level": 13,
-                "klass": "Archer",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Fukiya",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    15,
-                    43
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "107",
-                "variant": null,
-                "level": 13,
-                "klass": "Archer",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Fukiya",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    14,
-                    42
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "108",
-                "variant": null,
-                "level": 13,
-                "klass": "Archer",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Fukiya",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    18,
-                    38
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "109",
-                "variant": null,
-                "level": 13,
-                "klass": "Archer",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Fukiya",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    14,
-                    40
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "110",
-                "variant": null,
-                "level": 13,
-                "klass": "Archer",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Fukiya",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    17,
-                    28
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "111",
-                "variant": null,
-                "level": 13,
-                "klass": "Archer",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Fukiya",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    16,
-                    29
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "112",
-                "variant": null,
-                "level": 13,
-                "klass": "Archer",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Fukiya",
+                        "Tanto",
                         false
                     ]
                 ],
@@ -339,7 +136,231 @@
                 "ai_group": "",
                 "starting_position": [
                     13,
-                    31
+                    23
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "104",
+                "variant": null,
+                "level": 13,
+                "klass": "Fighter",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    22
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "105",
+                "variant": null,
+                "level": 13,
+                "klass": "Mage",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Elfire",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    16,
+                    23
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "106",
+                "variant": null,
+                "level": 13,
+                "klass": "Lance_Rider",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    18,
+                    20
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "107",
+                "variant": null,
+                "level": 13,
+                "klass": "Lodestar_S",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Silver_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    19,
+                    4
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "108",
+                "variant": null,
+                "level": 13,
+                "klass": "Archer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Poison_Bow",
+                        false
+                    ],
+                    [
+                        "Yukkuri_M",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    22,
+                    21
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "109",
+                "variant": null,
+                "level": 13,
+                "klass": "Lancer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Reginleif",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    15,
+                    25
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "110",
+                "variant": null,
+                "level": 13,
+                "klass": "Bow_Rider",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Short_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    13,
+                    12
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "111",
+                "variant": null,
+                "level": 13,
+                "klass": "Bow_Rider",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Silencer",
+                        false
+                    ],
+                    [
+                        "Yukkuri_R",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    15,
+                    12
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "112",
+                "variant": null,
+                "level": 13,
+                "klass": "Fencer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Tanto",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    0,
+                    13
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -348,22 +369,22 @@
                 "nid": "113",
                 "variant": null,
                 "level": 13,
-                "klass": "Archer",
-                "faction": "Youkai",
+                "klass": "Vagrant_A",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Fukiya",
+                        "Steel_Axe",
                         false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Pursue",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    25,
-                    30
+                    1,
+                    13
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -372,22 +393,22 @@
                 "nid": "114",
                 "variant": null,
                 "level": 13,
-                "klass": "Archer",
-                "faction": "Youkai",
+                "klass": "Lodestar_L",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Fukiya",
+                        "Swordcatcher",
                         false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Pursue",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    24,
-                    31
+                    3,
+                    8
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -396,11 +417,11 @@
                 "nid": "115",
                 "variant": null,
                 "level": 13,
-                "klass": "Archer",
-                "faction": "Youkai",
+                "klass": "Vagrant_S",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Fukiya",
+                        "Steel_Sword",
                         false
                     ]
                 ],
@@ -410,8 +431,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    9,
-                    29
+                    5,
+                    15
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -420,8 +441,604 @@
                 "nid": "116",
                 "variant": null,
                 "level": 13,
-                "klass": "Archer",
-                "faction": "Youkai",
+                "klass": "Vagrant_S",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Persecutor",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    7,
+                    15
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "117",
+                "variant": null,
+                "level": 13,
+                "klass": "Guard",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Hurlbat",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    8,
+                    13
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "118",
+                "variant": null,
+                "level": 13,
+                "klass": "Guard",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Hurlbat",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    9,
+                    13
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "160",
+                "variant": null,
+                "level": 13,
+                "klass": "Lancer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ],
+                    [
+                        "Maple_Shield",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    7,
+                    10
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "119",
+                "variant": null,
+                "level": 13,
+                "klass": "Vagrant_S",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Armorslayer",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    11,
+                    25
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "120",
+                "variant": null,
+                "level": 13,
+                "klass": "Brigand",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Battle_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    23,
+                    23
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "121",
+                "variant": null,
+                "level": 13,
+                "klass": "Fencer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Rapier",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    23,
+                    24
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "122",
+                "variant": null,
+                "level": 13,
+                "klass": "Sword_Rider",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    22,
+                    25
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "123",
+                "variant": null,
+                "level": 13,
+                "klass": "Sword_Rider",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Killing_Edge",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    20,
+                    25
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "124",
+                "variant": null,
+                "level": 13,
+                "klass": "Axe_Rider",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    21,
+                    25
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "125",
+                "variant": null,
+                "level": 13,
+                "klass": "Sword_Rider",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    20,
+                    19
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "126",
+                "variant": null,
+                "level": 13,
+                "klass": "Sword_Rider",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Lancereaver",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    22,
+                    19
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "163",
+                "variant": null,
+                "level": 17,
+                "klass": "War_Monk",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Bolt_Axe",
+                        false
+                    ],
+                    [
+                        "Berserk",
+                        true
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    21,
+                    22
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "127",
+                "variant": null,
+                "level": 13,
+                "klass": "Fighter",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Hammer",
+                        false
+                    ],
+                    [
+                        "Forged_Shield",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    17,
+                    15
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "128",
+                "variant": null,
+                "level": 13,
+                "klass": "Fighter",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Kama",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    17,
+                    14
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "129",
+                "variant": null,
+                "level": 15,
+                "klass": "Vagrant_S",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Silver_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    21,
+                    12
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "130",
+                "variant": null,
+                "level": 13,
+                "klass": "Fighter",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Halberd",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    22,
+                    11
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "131",
+                "variant": null,
+                "level": 13,
+                "klass": "Fighter",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    20,
+                    11
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "132",
+                "variant": null,
+                "level": 13,
+                "klass": "Vagrant_A",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    11,
+                    22
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "133",
+                "variant": null,
+                "level": 13,
+                "klass": "Lancer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Short_Spear",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    23,
+                    8
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "134",
+                "variant": null,
+                "level": 15,
+                "klass": "Guard",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Tomahawk",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    3,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "135",
+                "variant": null,
+                "level": 15,
+                "klass": "Guard",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Spear",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    4,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "136",
+                "variant": null,
+                "level": 13,
+                "klass": "Brigand",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Swordreaver",
+                        false
+                    ],
+                    [
+                        "Yukkuri_R",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    10,
+                    10
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "137",
+                "variant": null,
+                "level": 16,
+                "klass": "Exorcist",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Heihaku",
+                        false
+                    ],
+                    [
+                        "Physic",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    8,
+                    9
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "138",
+                "variant": null,
+                "level": 16,
+                "klass": "Sniper",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
                         "Fukiya",
@@ -435,20 +1052,20 @@
                 "ai_group": "",
                 "starting_position": [
                     9,
-                    31
+                    2
                 ],
                 "starting_traveler": null,
                 "generic": true
             },
             {
-                "nid": "117",
+                "nid": "139",
                 "variant": null,
                 "level": 13,
-                "klass": "Archer",
-                "faction": "Youkai",
+                "klass": "Lancer",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Fukiya",
+                        "Steel_Lance",
                         false
                     ]
                 ],
@@ -459,20 +1076,20 @@
                 "ai_group": "",
                 "starting_position": [
                     8,
-                    35
+                    0
                 ],
                 "starting_traveler": null,
                 "generic": true
             },
             {
-                "nid": "118",
+                "nid": "140",
                 "variant": null,
                 "level": 13,
-                "klass": "Archer",
-                "faction": "Youkai",
+                "klass": "Lancer",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Fukiya",
+                        "Steel_Lance",
                         false
                     ]
                 ],
@@ -482,21 +1099,49 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    3,
-                    33
+                    10,
+                    0
                 ],
                 "starting_traveler": null,
                 "generic": true
             },
             {
-                "nid": "119",
+                "nid": "142",
                 "variant": null,
-                "level": 13,
-                "klass": "Archer",
-                "faction": "Youkai",
+                "level": 17,
+                "klass": "Warrior",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Fukiya",
+                        "Hurlbat",
+                        false
+                    ],
+                    [
+                        "Silver_Axe",
+                        true
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    9,
+                    1
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "143",
+                "variant": null,
+                "level": 13,
+                "klass": "Lancer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Toxin_Lance",
                         false
                     ]
                 ],
@@ -506,21 +1151,21 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    4,
-                    30
+                    8,
+                    2
                 ],
                 "starting_traveler": null,
                 "generic": true
             },
             {
-                "nid": "120",
+                "nid": "144",
                 "variant": null,
                 "level": 13,
-                "klass": "Archer",
-                "faction": "Youkai",
+                "klass": "Lancer",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Fukiya",
+                        "Toxin_Lance",
                         false
                     ]
                 ],
@@ -530,21 +1175,21 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    7,
-                    36
+                    10,
+                    2
                 ],
                 "starting_traveler": null,
                 "generic": true
             },
             {
-                "nid": "121",
+                "nid": "145",
                 "variant": null,
-                "level": 13,
-                "klass": "Archer",
-                "faction": "Youkai",
+                "level": 18,
+                "klass": "Sage",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Fukiya",
+                        "Elfire",
                         false
                     ]
                 ],
@@ -554,21 +1199,21 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    1,
-                    36
+                    14,
+                    2
                 ],
                 "starting_traveler": null,
                 "generic": true
             },
             {
-                "nid": "122",
+                "nid": "146",
                 "variant": null,
                 "level": 13,
-                "klass": "Archer",
-                "faction": "Youkai",
+                "klass": "Lodestar_B",
+                "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Fukiya",
+                        "Silver_Bow",
                         false
                     ]
                 ],
@@ -578,21 +1223,454 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    7,
-                    28
+                    13,
+                    2
                 ],
                 "starting_traveler": null,
                 "generic": true
             },
             {
-                "nid": "Marisa",
-                "team": "player",
-                "ai": "None",
+                "nid": "147",
+                "variant": null,
+                "level": 13,
+                "klass": "Fencer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Levin_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    15,
+                    2
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "148",
+                "variant": null,
+                "level": 13,
+                "klass": "Lancer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    3
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "149",
+                "variant": null,
+                "level": 13,
+                "klass": "Brigand",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    20,
+                    3
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "150",
+                "variant": null,
+                "level": 20,
+                "klass": "Berserker",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Silver_Axe",
+                        false
+                    ],
+                    [
+                        "Yukkuri_X",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    22,
+                    2
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "151",
+                "variant": null,
+                "level": 13,
+                "klass": "Lancer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Punji",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    18,
+                    2
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "152",
+                "variant": null,
+                "level": 13,
+                "klass": "Archer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Heavy_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    22,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "154",
+                "variant": null,
+                "level": 13,
+                "klass": "Pirate",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Kama",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    13,
+                    8
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "153",
+                "variant": null,
+                "level": 13,
+                "klass": "Acolyte",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Omikuji",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    7
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "156",
+                "variant": null,
+                "level": 13,
+                "klass": "Lancer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Horseslayer",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
                     23,
-                    40
+                    9
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "157",
+                "variant": null,
+                "level": 13,
+                "klass": "Mage",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Instant",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    1,
+                    9
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "155",
+                "variant": null,
+                "level": 13,
+                "klass": "Pirate",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Poison_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    15,
+                    8
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "158",
+                "variant": null,
+                "level": 13,
+                "klass": "Shaman",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Slime",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    11,
+                    12
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "159",
+                "variant": null,
+                "level": 13,
+                "klass": "Archer",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Longbow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    18,
+                    9
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "161",
+                "variant": null,
+                "level": 13,
+                "klass": "Vagrant_A",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Kasuyu",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    1,
+                    2
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "162",
+                "variant": null,
+                "level": 13,
+                "klass": "Vagrant_A",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Axe",
+                        false
+                    ],
+                    [
+                        "Eirins_Drugs",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    0,
+                    3
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Mai_Boss_1",
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    20,
+                    23
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Alice_Boss_5",
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    9,
+                    10
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Mima_Boss",
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    10
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Yuki_Boss",
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    22,
+                    23
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Yumeko_Boss_2",
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    21,
+                    10
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Shinki_Boss",
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    9,
+                    0
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -603,8 +1681,8 @@
                 "nid": "F_1",
                 "region_type": "formation",
                 "position": [
-                    4,
-                    11
+                    3,
+                    24
                 ],
                 "size": [
                     1,
@@ -621,8 +1699,8 @@
                 "nid": "F_2",
                 "region_type": "formation",
                 "position": [
-                    6,
-                    9
+                    4,
+                    23
                 ],
                 "size": [
                     1,
@@ -640,7 +1718,7 @@
                 "region_type": "formation",
                 "position": [
                     5,
-                    12
+                    20
                 ],
                 "size": [
                     1,
@@ -657,8 +1735,8 @@
                 "nid": "F_4",
                 "region_type": "formation",
                 "position": [
-                    5,
-                    10
+                    1,
+                    19
                 ],
                 "size": [
                     1,
@@ -675,8 +1753,8 @@
                 "nid": "F_5",
                 "region_type": "formation",
                 "position": [
-                    7,
-                    10
+                    6,
+                    22
                 ],
                 "size": [
                     1,
@@ -693,8 +1771,8 @@
                 "nid": "F_6",
                 "region_type": "formation",
                 "position": [
-                    4,
-                    9
+                    7,
+                    23
                 ],
                 "size": [
                     1,
@@ -711,8 +1789,8 @@
                 "nid": "F_7",
                 "region_type": "formation",
                 "position": [
-                    6,
-                    11
+                    7,
+                    24
                 ],
                 "size": [
                     1,
@@ -729,8 +1807,8 @@
                 "nid": "F_8",
                 "region_type": "formation",
                 "position": [
-                    24,
-                    41
+                    1,
+                    24
                 ],
                 "size": [
                     1,
@@ -747,8 +1825,8 @@
                 "nid": "F_9",
                 "region_type": "formation",
                 "position": [
-                    22,
-                    42
+                    4,
+                    24
                 ],
                 "size": [
                     1,
@@ -765,8 +1843,8 @@
                 "nid": "F_10",
                 "region_type": "formation",
                 "position": [
-                    34,
-                    6
+                    0,
+                    20
                 ],
                 "size": [
                     1,
@@ -783,14 +1861,14 @@
                 "nid": "F_11",
                 "region_type": "formation",
                 "position": [
-                    35,
-                    7
+                    3,
+                    20
                 ],
                 "size": [
                     1,
                     1
                 ],
-                "sub_nid": null,
+                "sub_nid": "",
                 "condition": "True",
                 "time_left": null,
                 "only_once": false,
@@ -801,8 +1879,8 @@
                 "nid": "F_12",
                 "region_type": "formation",
                 "position": [
-                    36,
-                    6
+                    2,
+                    23
                 ],
                 "size": [
                     1,
@@ -819,8 +1897,8 @@
                 "nid": "F_13",
                 "region_type": "formation",
                 "position": [
-                    37,
-                    7
+                    6,
+                    21
                 ],
                 "size": [
                     1,
@@ -837,8 +1915,8 @@
                 "nid": "F_14",
                 "region_type": "formation",
                 "position": [
-                    33,
-                    7
+                    0,
+                    23
                 ],
                 "size": [
                     1,
@@ -852,20 +1930,56 @@
                 "hide_time": false
             },
             {
-                "nid": "F_15",
-                "region_type": "formation",
+                "nid": "Chest_1",
+                "region_type": "event",
                 "position": [
-                    34,
-                    7
+                    15,
+                    21
                 ],
                 "size": [
                     1,
                     1
                 ],
-                "sub_nid": null,
-                "condition": "True",
+                "sub_nid": "Chest",
+                "condition": "unit.can_unlock(region)",
                 "time_left": null,
-                "only_once": false,
+                "only_once": true,
+                "interrupt_move": false,
+                "hide_time": false
+            },
+            {
+                "nid": "Chest_2",
+                "region_type": "event",
+                "position": [
+                    11,
+                    10
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "Chest",
+                "condition": "unit.can_unlock(region)",
+                "time_left": null,
+                "only_once": true,
+                "interrupt_move": false,
+                "hide_time": false
+            },
+            {
+                "nid": "Chest_3",
+                "region_type": "event",
+                "position": [
+                    20,
+                    5
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "Chest",
+                "condition": "unit.can_unlock(region)",
+                "time_left": null,
+                "only_once": true,
                 "interrupt_move": false,
                 "hide_time": false
             }

@@ -2,7 +2,7 @@
     {
         "name": "Door1_1",
         "trigger": "Door",
-        "level_nid": "14",
+        "level_nid": "Backburner",
         "condition": "region.nid == 'Door1_1'",
         "commands": [],
         "only_once": false,
@@ -14,6 +14,6 @@
             "for;FILLER;range(1,{e:",
             "give_skill;{unit};Exhausted;no_banner"
         ],
-        "nid": "14 Door1_1"
+        "nid": "Backburner Door1_1"
     }
 ]

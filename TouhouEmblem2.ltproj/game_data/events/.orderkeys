@@ -400,7 +400,7 @@
     "12_Commander1",
     "12_Commander2",
     "13_Intro",
-    "14_New_Event",
+    "Backburner_New_Event",
     "5_Shift1",
     "5_Shift2",
     "12_Switch1",
@@ -418,7 +418,7 @@
     "Global_DeathYoumu",
     "Global_DeathReisen",
     "Global_DeathKaguya",
-    "14_Door1_1",
+    "Backburner_Door1_1",
     "7_TalkMarisa",
     "8_Village1",
     "7_TalkMokou",
@@ -444,5 +444,7 @@
     "7_TalkSunny",
     "Global_ENDING",
     "Global_START",
-    "9_Snag"
+    "9_Snag",
+    "14_Intro",
+    "14_Outro"
 ]

@@ -1,0 +1,24 @@
+[
+    {
+        "nid": "Mima_Boss",
+        "name": "Mima",
+        "desc": "",
+        "variant": null,
+        "level": 1,
+        "klass": "Druid",
+        "tags": [
+            "Boss"
+        ],
+        "bases": {},
+        "growths": {},
+        "stat_cap_modifiers": {},
+        "starting_items": [],
+        "learned_skills": [],
+        "unit_notes": [],
+        "wexp_gain": {},
+        "alternate_classes": [],
+        "portrait_nid": "Mima",
+        "affinity": "None",
+        "fields": []
+    }
+]
