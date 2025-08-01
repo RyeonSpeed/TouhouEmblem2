@@ -9,6 +9,8 @@
         "priority": 20,
         "_source": [
             "for;SHITASS;[x for x in ['Wriggle', 'Mystia', 'Letty', 'Cirno', 'Rumia', 'Daiyousei', 'Rin', 'Kagerou', 'Reisen', 'Tewi', 'Reisen', 'Aunn', 'Kokoro', 'Rinnosuke', 'Kosuzu', 'Suika', 'Kasen', 'Star', 'Sunny', 'Luna', 'Remilia', 'Tokiko'] if u(x) and u(x).team == 'player' and u(x).party == 'Reimu' and game.check_alive(x)]",
+            "    speak;;{SHITASS}",
+            "    speak;;{e:game.check_alive('{SHITASS}')}",
             "    add_talk;Reimu;{SHITASS}",
             "    add_talk;{SHITASS};Reimu",
             "    add_group;{SHITASS};{SHITASS};fade;closest",
@@ -19,6 +21,7 @@
             "add_talk;Reimu;Eirin_NPC",
             "add_talk;Reimu;Marisa",
             "add_talk;Reimu;Mokou",
+            "add_talk;Reimu;Kaguya",
             "",
             "add_lore;Supports",
             "trigger_script;START",

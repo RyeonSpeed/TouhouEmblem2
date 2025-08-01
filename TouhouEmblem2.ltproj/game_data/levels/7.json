@@ -62,7 +62,7 @@
             },
             {
                 "nid": "Kasen",
-                "team": "player",
+                "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
@@ -72,7 +72,7 @@
             },
             {
                 "nid": "Wriggle",
-                "team": "player",
+                "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
@@ -82,7 +82,7 @@
             },
             {
                 "nid": "Mystia",
-                "team": "player",
+                "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
@@ -92,7 +92,7 @@
             },
             {
                 "nid": "Sunny",
-                "team": "player",
+                "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
@@ -102,7 +102,7 @@
             },
             {
                 "nid": "Luna",
-                "team": "player",
+                "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
@@ -112,7 +112,7 @@
             },
             {
                 "nid": "Star",
-                "team": "player",
+                "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
@@ -122,7 +122,7 @@
             },
             {
                 "nid": "Aunn",
-                "team": "player",
+                "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
@@ -132,7 +132,7 @@
             },
             {
                 "nid": "Remilia",
-                "team": "player",
+                "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
@@ -142,7 +142,7 @@
             },
             {
                 "nid": "Rinnosuke",
-                "team": "player",
+                "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
@@ -152,7 +152,7 @@
             },
             {
                 "nid": "Kosuzu",
-                "team": "player",
+                "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
@@ -162,7 +162,7 @@
             },
             {
                 "nid": "Reisen",
-                "team": "player",
+                "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
@@ -172,7 +172,7 @@
             },
             {
                 "nid": "Tewi",
-                "team": "player",
+                "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
@@ -182,7 +182,7 @@
             },
             {
                 "nid": "Kaguya",
-                "team": "player",
+                "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
@@ -195,7 +195,7 @@
             },
             {
                 "nid": "Mokou",
-                "team": "player",
+                "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
@@ -208,7 +208,7 @@
             },
             {
                 "nid": "Kagerou",
-                "team": "player",
+                "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
@@ -218,7 +218,7 @@
             },
             {
                 "nid": "Tokiko",
-                "team": "player",
+                "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
@@ -228,7 +228,7 @@
             },
             {
                 "nid": "Kokoro",
-                "team": "player",
+                "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
@@ -646,7 +646,7 @@
             },
             {
                 "nid": "Letty",
-                "team": "player",
+                "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
@@ -656,7 +656,7 @@
             },
             {
                 "nid": "Daiyousei",
-                "team": "player",
+                "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
@@ -666,7 +666,7 @@
             },
             {
                 "nid": "Cirno",
-                "team": "player",
+                "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
@@ -676,7 +676,7 @@
             },
             {
                 "nid": "Rumia",
-                "team": "player",
+                "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
@@ -686,7 +686,7 @@
             },
             {
                 "nid": "Rin",
-                "team": "player",
+                "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
@@ -696,7 +696,7 @@
             },
             {
                 "nid": "Suika",
-                "team": "player",
+                "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
@@ -999,6 +999,11 @@
                 }
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]
