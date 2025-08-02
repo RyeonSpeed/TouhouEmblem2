@@ -2,7 +2,7 @@
     {
         "nid": "Fugue_Tuning",
         "name": "Fugue Tuning",
-        "desc": "When within 2 tiles of Lunasa and Merlin: +2 DMG and +2 SPD.",
+        "desc": "When within 2 tiles of Lunasa and Merlin: +3 DMG and +3 SPD.",
         "icon_nid": "NewIcon2",
         "icon_index": [
             0,
@@ -18,7 +18,7 @@
                 [
                     [
                         "SPD",
-                        2
+                        3
                     ]
                 ]
             ],
@@ -28,7 +28,7 @@
             ],
             [
                 "damage",
-                2
+                3
             ]
         ]
     }
