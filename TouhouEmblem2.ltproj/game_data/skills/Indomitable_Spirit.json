@@ -2,7 +2,7 @@
     {
         "nid": "Indomitable_Spirit",
         "name": "Indomitable Spirit",
-        "desc": "Immune to negative statuses. Changes crit damage taken formula to 1.5x.",
+        "desc": "Immune to negative statuses. Halves damage from critical hits.",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,
@@ -14,16 +14,16 @@
                 null
             ],
             [
-                "immune_status",
-                null
-            ],
-            [
                 "skill_before_combat",
                 {
                     "skill": "Indomitable_Spirit_1",
                     "recipient": "target",
                     "allegiance": "both"
                 }
+            ],
+            [
+                "immune_status",
+                null
             ]
         ]
     }
