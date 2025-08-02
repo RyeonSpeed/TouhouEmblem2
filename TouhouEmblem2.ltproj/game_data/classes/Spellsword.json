@@ -124,6 +124,11 @@
                 0,
                 251
             ],
+            "Knife": [
+                false,
+                0,
+                null
+            ],
             "Monster": [
                 false,
                 0,
@@ -136,7 +141,7 @@
             0
         ],
         "map_sprite_nid": "Dread Fighter (F) {Nuramon}-stand",
-        "combat_anim_nid": "Sage",
+        "combat_anim_nid": "Spellsword",
         "fields": []
     }
 ]

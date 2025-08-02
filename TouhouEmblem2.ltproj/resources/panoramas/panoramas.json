@@ -1214,5 +1214,29 @@
     [
         "Alice's House",
         1
+    ],
+    [
+        "combat_snowy_forest",
+        1
+    ],
+    [
+        "combat_snowy_hill",
+        1
+    ],
+    [
+        "combat_snowy_outside_castle",
+        1
+    ],
+    [
+        "combat_snowy_plains",
+        1
+    ],
+    [
+        "combat_snowy_village",
+        1
+    ],
+    [
+        "combat_snowy_river",
+        1
     ]
 ]

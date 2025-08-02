@@ -15,6 +15,21 @@
         "status": null
     },
     {
+        "nid": "S_1",
+        "name": "Plain",
+        "color": [
+            239,
+            239,
+            239
+        ],
+        "minimap": "Snow",
+        "platform": "Snow",
+        "background": "combat_snowy_plains",
+        "mtype": "Normal",
+        "opaque": false,
+        "status": null
+    },
+    {
         "nid": "0",
         "name": "--",
         "color": [
@@ -24,7 +39,22 @@
         ],
         "minimap": "Wall",
         "platform": "Wall",
-        "background": "VillageGate",
+        "background": "combat_village",
+        "mtype": "Fence",
+        "opaque": false,
+        "status": null
+    },
+    {
+        "nid": "S_0",
+        "name": "--",
+        "color": [
+            59,
+            59,
+            59
+        ],
+        "minimap": "Wall",
+        "platform": "Snow",
+        "background": "combat_snowy_village",
         "mtype": "Fence",
         "opaque": false,
         "status": null
@@ -60,6 +90,21 @@
         "status": "Forest"
     },
     {
+        "nid": "S_2",
+        "name": "Forest",
+        "color": [
+            82,
+            165,
+            82
+        ],
+        "minimap": "Forest",
+        "platform": "SnowyForest",
+        "background": "combat_snowy_forest",
+        "mtype": "Forest",
+        "opaque": false,
+        "status": "Forest"
+    },
+    {
         "nid": "3",
         "name": "Thicket",
         "color": [
@@ -85,6 +130,21 @@
         "minimap": "Bridge",
         "platform": "Bridge",
         "background": "combat_river",
+        "mtype": "Normal",
+        "opaque": false,
+        "status": null
+    },
+    {
+        "nid": "S_4",
+        "name": "Bridge",
+        "color": [
+            177,
+            189,
+            147
+        ],
+        "minimap": "Bridge",
+        "platform": "SnowyBridge",
+        "background": "combat_snowy_river",
         "mtype": "Normal",
         "opaque": false,
         "status": null
@@ -300,6 +360,21 @@
         "status": null
     },
     {
+        "nid": "S_12",
+        "name": "River",
+        "color": [
+            19,
+            198,
+            248
+        ],
+        "minimap": "River",
+        "platform": "Sea",
+        "background": "combat_snowy_river",
+        "mtype": "River",
+        "opaque": false,
+        "status": null
+    },
+    {
         "nid": "20",
         "name": "Hill",
         "color": [
@@ -345,6 +420,21 @@
         "status": null
     },
     {
+        "nid": "S_22",
+        "name": "Cliff",
+        "color": [
+            116,
+            136,
+            98
+        ],
+        "minimap": "Snow_Cliff",
+        "platform": "Cliff",
+        "background": "combat_snowy_hill",
+        "mtype": "Cliff",
+        "opaque": false,
+        "status": null
+    },
+    {
         "nid": "25",
         "name": "Barrel",
         "color": [
@@ -375,6 +465,21 @@
         "status": "Avoid10"
     },
     {
+        "nid": "S_30",
+        "name": "House",
+        "color": [
+            168,
+            112,
+            86
+        ],
+        "minimap": "House",
+        "platform": "Snow",
+        "background": "combat_snowy_village",
+        "mtype": "Normal",
+        "opaque": false,
+        "status": "Avoid10"
+    },
+    {
         "nid": "31",
         "name": "Fort",
         "color": [
@@ -385,6 +490,21 @@
         "minimap": "Fort",
         "platform": "Fort",
         "background": "combat_outside_castle",
+        "mtype": "Fort",
+        "opaque": false,
+        "status": "Fort"
+    },
+    {
+        "nid": "S_31",
+        "name": "Fort",
+        "color": [
+            152,
+            60,
+            95
+        ],
+        "minimap": "Fort",
+        "platform": "Snow",
+        "background": "combat_snowy_outside_castle",
         "mtype": "Fort",
         "opaque": false,
         "status": "Fort"
@@ -505,6 +625,21 @@
         "minimap": "Chest",
         "platform": "Chest",
         "background": "combat_castle2",
+        "mtype": "Normal",
+        "opaque": false,
+        "status": null
+    },
+    {
+        "nid": "S_36",
+        "name": "Chest",
+        "color": [
+            255,
+            238,
+            3
+        ],
+        "minimap": "Chest",
+        "platform": "Chest",
+        "background": "combat_snowy_plains",
         "mtype": "Normal",
         "opaque": false,
         "status": null

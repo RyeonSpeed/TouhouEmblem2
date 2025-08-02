@@ -129,6 +129,11 @@
                 false,
                 0,
                 251
+            ],
+            "Knife": [
+                false,
+                0,
+                null
             ]
         },
         "icon_nid": "Generic_Portrait_Mage_Knight",
@@ -137,7 +142,7 @@
             0
         ],
         "map_sprite_nid": "MageKnightFemale",
-        "combat_anim_nid": "Strategist",
+        "combat_anim_nid": "Medic",
         "fields": []
     }
 ]

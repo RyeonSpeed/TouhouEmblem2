@@ -28,6 +28,10 @@
             [
                 "cannot_be_countered",
                 null
+            ],
+            [
+                "map_hit_sfx",
+                "Curse"
             ]
         ]
     }

@@ -68,33 +68,6 @@
                 "generic": true
             },
             {
-                "nid": "102",
-                "variant": null,
-                "level": 1,
-                "klass": "Cursed_Armor",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Short_Axe",
-                        false
-                    ]
-                ],
-                "starting_skills": [
-                    "NoSelect",
-                    "Indomitable_Spirit"
-                ],
-                "team": "enemy",
-                "ai": "Guard",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    11,
-                    5
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
                 "nid": "Sakuya",
                 "team": "player",
                 "ai": "None",
@@ -125,34 +98,21 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    14,
-                    15
+                    12,
+                    11
                 ],
                 "starting_traveler": null,
                 "generic": true
             },
             {
-                "nid": "Hourai",
+                "nid": "Alice",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    11,
-                    12
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Alice_Boss_2",
-                "team": "enemy",
-                "ai": "Guard",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    10,
-                    5
+                    13,
+                    3
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -164,11 +124,91 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    8,
-                    6
+                    11,
+                    3
                 ],
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "104",
+                "variant": null,
+                "level": 1,
+                "klass": "Shaman",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Yomi",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    12,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "105",
+                "variant": null,
+                "level": 1,
+                "klass": "Demon",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    12,
+                    3
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Mai_Boss",
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    20,
+                    10
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "102",
+                "variant": null,
+                "level": 1,
+                "klass": "Fencer",
+                "faction": "Youkai",
+                "starting_items": [],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    13,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": true
             }
         ],
         "regions": [

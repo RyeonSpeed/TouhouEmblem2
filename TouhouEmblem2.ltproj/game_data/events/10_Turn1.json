@@ -13,7 +13,8 @@
             "move_cursor;1,10",
             "add_unit;Koakuma;0,9;Warp",
             "move_unit;Koakuma;4,11",
-            "autolevel_to;Koakuma;9"
+            "autolevel_to;Koakuma;9",
+            "end"
         ],
         "nid": "10 Turn1"
     }
