@@ -2,11 +2,7 @@
     {
         "nid": "Indomitable_Spirit_1",
         "name": "Indomitable Spirit",
-<<<<<<< Updated upstream
         "desc": "the bruh",
-=======
-        "desc": "Immune to negative statuses. Halves damage from critical hits.",
->>>>>>> Stashed changes
         "icon_nid": "skillicons3",
         "icon_index": [
             1,

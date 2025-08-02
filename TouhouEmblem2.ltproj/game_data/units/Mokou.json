@@ -3,7 +3,7 @@
         "nid": "Mokou",
         "name": "Mokou",
         "desc": "Scion of the Fujiwara clan, Mokou is cursed with immortality and revives whenever she dies. Rivals with Kaguya.",
-        "variant": "",
+        "variant": null,
         "level": 1,
         "klass": "Mage_M",
         "tags": [],
