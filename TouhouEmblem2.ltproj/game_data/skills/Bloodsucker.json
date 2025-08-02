@@ -2,7 +2,7 @@
     {
         "nid": "Bloodsucker",
         "name": "Bloodsucker",
-        "desc": "+100 CRIT. Drain 50% damage. Applies Bleeding.",
+        "desc": "+100 CRIT. Drain 50% DMG. Applies Bleeding.",
         "icon_nid": "skillicons3",
         "icon_index": [
             0,
