@@ -81,12 +81,12 @@
                 }
             ],
             [
-                "blast_aoe",
-                4
-            ],
-            [
                 "fatigue",
                 1
+            ],
+            [
+                "enemy_blast_aoe",
+                4
             ]
         ]
     }
