@@ -35,6 +35,10 @@
                     "NoSword",
                     "NoBow"
                 ]
+            ],
+            [
+                "pass",
+                null
             ]
         ]
     }

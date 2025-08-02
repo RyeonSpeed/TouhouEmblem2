@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "ScreamOut_1",
+        "name": "Scream Out!",
+        "desc": "Cleave 2, inflicts 1 stack of Shock onto enemies.",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "give_status_after_hit",
+                "Shock"
+            ],
+            [
+                "cannot_double",
+                null
+            ]
+        ]
+    }
+]
