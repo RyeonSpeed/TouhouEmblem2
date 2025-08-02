@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "GatheringofSouls",
+        "name": "Gathering of Souls",
+        "desc": "Enemies that die near Yuyuko give her 1 Soul Charge. Soul Charges may be used on special abilities.\nCharges: {v:SoulCharge}",
+        "icon_nid": "skillicons102724(1)",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

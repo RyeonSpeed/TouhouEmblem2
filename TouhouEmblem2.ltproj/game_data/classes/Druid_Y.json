@@ -1,6 +1,6 @@
 [
     {
-        "nid": "Druid",
+        "nid": "Druid_Y",
         "name": "Druid",
         "desc": "More masterful dark magic users who are able to utilize this unstable magic.\nTags: Magic",
         "tier": 2,
@@ -66,8 +66,8 @@
             "SKL": 23,
             "SPD": 24,
             "LCK": 30,
-            "DEF": 22,
-            "RES": 32,
+            "DEF": 25,
+            "RES": 28,
             "CON": 20,
             "MOV": 15
         },

@@ -7,8 +7,8 @@
         "party": "Reimu",
         "music": {},
         "objective": {
-            "simple": "Survive <blue>{e:game.turncount}</>/13 turns",
-            "win": "Survive",
+            "simple": "Defeat Shinki",
+            "win": "Defeat Shinki",
             "loss": "Reimu or Marisa dies"
         },
         "roam": false,
@@ -50,8 +50,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    0,
-                    18
+                    1,
+                    22
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -63,8 +63,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    1,
-                    22
+                    0,
+                    18
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -1674,6 +1674,111 @@
                 ],
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "164",
+                "variant": null,
+                "level": 14,
+                "klass": "Skeleton",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "165",
+                "variant": null,
+                "level": 14,
+                "klass": "Skeleton",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Reginleif",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "166",
+                "variant": null,
+                "level": 14,
+                "klass": "Entombed",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Devastator_Strike",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "167",
+                "variant": null,
+                "level": 14,
+                "klass": "Skeleton",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Axereaver",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "168",
+                "variant": null,
+                "level": 14,
+                "klass": "Cursed_Armor",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Killing_Edge",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
             }
         ],
         "regions": [
@@ -1984,7 +2089,47 @@
                 "hide_time": false
             }
         ],
-        "unit_groups": [],
+        "unit_groups": [
+            {
+                "nid": "Turn5",
+                "units": [
+                    "164",
+                    "165"
+                ],
+                "positions": {
+                    "164": [
+                        23,
+                        15
+                    ],
+                    "165": [
+                        23,
+                        16
+                    ]
+                }
+            },
+            {
+                "nid": "Turn7",
+                "units": [
+                    "166",
+                    "167",
+                    "168"
+                ],
+                "positions": {
+                    "166": [
+                        0,
+                        2
+                    ],
+                    "167": [
+                        0,
+                        3
+                    ],
+                    "168": [
+                        0,
+                        4
+                    ]
+                }
+            }
+        ],
         "ai_groups": []
     }
 ]

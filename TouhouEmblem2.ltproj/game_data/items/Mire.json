@@ -85,12 +85,12 @@
                 "Poisoned"
             ],
             [
-                "blast_aoe",
-                2
-            ],
-            [
                 "fatigue",
                 1
+            ],
+            [
+                "enemy_blast_aoe",
+                2
             ]
         ]
     }
