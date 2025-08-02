@@ -12,7 +12,7 @@
             "add_portrait;Tewi;Left;ExpressionList=Smile",
             "speak;Tewi;Let's see what we have here!",
             "remove_portrait;Tewi",
-            "level_var;_despoil; game.get_random(1,100)",
+            "level_var;_despoil;game.get_random(1,100)",
             "if;{v:_despoil} <= 70",
             "    give_item;{unit1};Life_Gem",
             "elif;{v:_despoil} > 70 and {v:_despoil} <= 90",

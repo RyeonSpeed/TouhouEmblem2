@@ -95,6 +95,10 @@
             [
                 "fatigue",
                 1
+            ],
+            [
+                "battle_cast_anim",
+                "Dark_Spikes"
             ]
         ]
     }
