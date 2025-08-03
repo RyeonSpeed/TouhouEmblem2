@@ -1,6 +1,6 @@
 [
     {
-        "nid": "Cataphract",
+        "nid": "Cataphract_L",
         "name": "Cataphract",
         "desc": "The most heavily armored riders, physical attacks find it hard to penetrate their armor.\nTags: Mounted, Armor, Beast",
         "tier": 2,
@@ -63,15 +63,15 @@
         },
         "max_stats": {
             "HP": 80,
-            "STR": 32,
-            "MAG": 20,
+            "STR": 25,
+            "MAG": 26,
             "SKL": 27,
-            "SPD": 25,
+            "SPD": 27,
             "LCK": 30,
-            "DEF": 27,
+            "DEF": 23,
             "CON": 25,
             "MOV": 15,
-            "RES": 22
+            "RES": 28
         },
         "learned_skills": [
             [

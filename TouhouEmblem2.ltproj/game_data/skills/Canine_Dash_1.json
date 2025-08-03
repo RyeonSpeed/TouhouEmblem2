@@ -16,6 +16,10 @@
             [
                 "cannot_double",
                 null
+            ],
+            [
+                "give_status_after_combat_on_hit",
+                "Bleeding"
             ]
         ]
     }

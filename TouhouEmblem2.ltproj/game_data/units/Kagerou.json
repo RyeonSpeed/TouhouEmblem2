@@ -64,15 +64,11 @@
         "learned_skills": [
             [
                 1,
-                "Wolf_Fang"
-            ],
-            [
-                1,
-                "Canine_Dash"
-            ],
-            [
-                1,
                 "Swift_Hunter"
+            ],
+            [
+                1,
+                "Honshu_Slashing"
             ]
         ],
         "unit_notes": [],

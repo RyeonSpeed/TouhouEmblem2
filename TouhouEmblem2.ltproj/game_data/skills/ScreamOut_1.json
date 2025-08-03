@@ -10,12 +10,12 @@
         ],
         "components": [
             [
-                "give_status_after_hit",
-                "Shock"
-            ],
-            [
                 "cannot_double",
                 null
+            ],
+            [
+                "item_override",
+                "screamout"
             ]
         ]
     }

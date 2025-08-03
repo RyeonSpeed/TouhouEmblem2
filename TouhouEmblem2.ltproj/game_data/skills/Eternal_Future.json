@@ -16,10 +16,6 @@
             [
                 "combat_art",
                 "Eternal_Future_1"
-            ],
-            [
-                "condition",
-                "item.nid in ['Roukanken']"
             ]
         ]
     }

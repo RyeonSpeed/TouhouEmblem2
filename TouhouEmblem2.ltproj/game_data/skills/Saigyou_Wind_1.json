@@ -20,6 +20,10 @@
             [
                 "cannot_double",
                 null
+            ],
+            [
+                "condition",
+                "item.nid == 'Roukanken'"
             ]
         ]
     }
