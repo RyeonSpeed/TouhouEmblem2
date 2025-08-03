@@ -2,7 +2,7 @@
     {
         "nid": "Blade_Dance",
         "name": "Blade Dance",
-        "desc": "When attacking, +30 AVOID.",
+        "desc": "When attacking and HP >= 50%: +30 CRIT, +30 AVOID.",
         "icon_nid": "NewIcon5",
         "icon_index": [
             0,
@@ -11,7 +11,7 @@
         "components": [
             [
                 "combat_condition",
-                "mode == 'attack'"
+                "mode == 'attack' and unit.get_hp() >= unit.get_stat('HP')*0.5"
             ],
             [
                 "avoid",
@@ -20,6 +20,10 @@
             [
                 "ability_indicator",
                 null
+            ],
+            [
+                "crit",
+                30
             ]
         ]
     }

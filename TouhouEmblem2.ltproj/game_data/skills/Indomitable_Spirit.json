@@ -20,10 +20,6 @@
                     "recipient": "target",
                     "allegiance": "both"
                 }
-            ],
-            [
-                "immune_status",
-                null
             ]
         ]
     }

@@ -2,7 +2,7 @@
     {
         "nid": "Swift_Hunter",
         "name": "Swift Hunter",
-        "desc": "When unit < 50% HP: +50 AVOID.",
+        "desc": "When fighting an enemy with Bleeding: +3 DMG, +50 AVOID. ",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,
@@ -10,16 +10,20 @@
         ],
         "components": [
             [
-                "condition",
-                "unit.get_hp() <= unit.get_stat('HP')/2"
-            ],
-            [
                 "avoid",
                 50
             ],
             [
                 "ability_indicator",
                 null
+            ],
+            [
+                "combat_condition",
+                "has_skill(unit2, 'Bleeding')"
+            ],
+            [
+                "damage",
+                3
             ]
         ]
     }

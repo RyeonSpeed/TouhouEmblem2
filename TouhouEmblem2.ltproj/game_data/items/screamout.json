@@ -1,7 +1,7 @@
 [
     {
-        "nid": "new",
-        "name": "new",
+        "nid": "screamout",
+        "name": "new_4",
         "desc": "",
         "icon_nid": null,
         "icon_index": [
@@ -10,8 +10,12 @@
         ],
         "components": [
             [
-                "cannot_be_countered",
+                "enemy_cleave_aoe",
                 null
+            ],
+            [
+                "status_after_combat_on_hit",
+                "Shock"
             ]
         ]
     }
