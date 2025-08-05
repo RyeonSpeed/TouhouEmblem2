@@ -1,0 +1,39 @@
+[
+    {
+        "nid": "Paralyzing_Chant_Effect_1",
+        "name": "Paralyzing_Chant",
+        "desc": "Enemies within 3 tiles of unit inflicted with Shock suffer -2 SPD/DEF and -10% Avoid. Additionally, after combat, enemies have a 50% chance to be inflicted with Shock.",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "condition",
+                "has_skill(unit, 'Shock')"
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "SPD",
+                        -2
+                    ],
+                    [
+                        "DEF",
+                        -2
+                    ]
+                ]
+            ],
+            [
+                "avoid",
+                -10
+            ],
+            [
+                "hidden",
+                null
+            ]
+        ]
+    }
+]
