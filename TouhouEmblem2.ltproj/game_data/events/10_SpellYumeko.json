@@ -14,6 +14,7 @@
             "change_music;enemy_battle;Plastic Mind",
             "change_music;enemy2_phase;Plastic Mind",
             "change_music;enemy2_battle;Plastic Mind",
+            "music;Plastic Mind",
             "add_portrait;Yumeko_Boss;Left",
             "speak;;Construct Sign: Dream Slicer;center;155;hint;;red;;;1;;;;;Warp",
             "speak;Yumeko_Boss;Tch, I'm not done just yet~!",

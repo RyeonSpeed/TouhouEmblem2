@@ -8,7 +8,13 @@
         "only_once": true,
         "priority": 20,
         "_source": [
-            "give_bexp;500;Reimu;no_banner"
+            "give_bexp;500;Reimu",
+            "change_music;player_phase;Deep Mountain",
+            "change_music;player_battle;Deep Mountain",
+            "change_music;enemy_phase;Maple Wise",
+            "change_music;enemy_battle;Maple Wise",
+            "change_music;enemy2_phase;Maple Wise",
+            "change_music;enemy2_battle;Maple Wise"
         ],
         "nid": "10 YumekoSpellCap"
     }
