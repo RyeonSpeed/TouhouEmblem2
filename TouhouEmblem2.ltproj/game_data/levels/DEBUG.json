@@ -33,8 +33,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    17,
-                    15
+                    10,
+                    11
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -46,8 +46,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    23,
-                    13
+                    17,
+                    11
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -77,27 +77,14 @@
                 "generic": true
             },
             {
-                "nid": "Alice",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    13,
-                    3
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
                 "nid": "Koakuma",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    21,
-                    18
+                    20,
+                    19
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -149,19 +136,6 @@
                 ],
                 "starting_traveler": null,
                 "generic": true
-            },
-            {
-                "nid": "Mai_Boss",
-                "team": "enemy",
-                "ai": "Guard",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    20,
-                    15
-                ],
-                "starting_traveler": null,
-                "generic": false
             },
             {
                 "nid": "102",
@@ -336,196 +310,180 @@
                 "generic": true
             },
             {
-                "nid": "Reimu",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    18,
-                    17
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Marisa",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    19,
-                    17
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Rumia",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    20,
-                    17
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Kaguya",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    21,
-                    17
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Mokou",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    22,
-                    17
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Merlin",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    23,
-                    17
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Suika",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    18,
-                    19
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Seiran",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    19,
-                    19
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Ringo",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    19,
-                    21
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Rinnosuke",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    21,
-                    19
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Youmu",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    22,
-                    19
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Daiyousei",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    21,
-                    21
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Reisen",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    22,
-                    21
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Cirno",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    23,
-                    19
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
                 "nid": "Tewi",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    24,
-                    19
+                    11,
+                    11
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Letty",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    25,
+                    16
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Tokiko",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    25,
+                    15
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Kasen",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    17,
+                    14
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Sunny",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    18,
+                    12
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Luna",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    17,
+                    12
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Kogasa",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    25,
+                    14
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Youmu_Boss_3",
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "101",
+                "variant": null,
+                "level": 1,
+                "klass": "Wind_Priestess",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Sword",
+                        false
+                    ],
+                    [
+                        "Misfortune_Amulet",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    19,
+                    13
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Youmu_Boss",
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    21,
+                    15
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "113",
+                "variant": null,
+                "level": 13,
+                "klass": "Mage",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Thunder",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    21,
+                    11
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Kyouko",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    20,
+                    10
                 ],
                 "starting_traveler": null,
                 "generic": false

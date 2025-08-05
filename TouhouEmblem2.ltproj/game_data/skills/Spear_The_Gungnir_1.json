@@ -42,10 +42,6 @@
                 "Global BleedApply"
             ],
             [
-                "condition",
-                "item.nid == 'Gungnir'"
-            ],
-            [
                 "cannot_double",
                 null
             ]

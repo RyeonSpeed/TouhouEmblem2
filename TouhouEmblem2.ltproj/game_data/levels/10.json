@@ -2423,7 +2423,7 @@
                     4
                 ],
                 "sub_nid": "Secret!",
-                "condition": "True",
+                "condition": "unit == \"Marisa\"",
                 "time_left": null,
                 "only_once": true,
                 "interrupt_move": false,

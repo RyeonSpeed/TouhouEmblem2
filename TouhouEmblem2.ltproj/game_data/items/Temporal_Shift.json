@@ -28,6 +28,10 @@
             [
                 "event_after_combat_even_miss",
                 "Global Refresh"
+            ],
+            [
+                "map_hit_sfx",
+                "Aura2"
             ]
         ]
     }

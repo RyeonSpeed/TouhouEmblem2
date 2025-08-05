@@ -10,6 +10,7 @@
         "_source": [
             "move_cursor;0,11",
             "add_group;GTFO;GTFO;warp",
+            "wait;1000",
             "move_cursor;Reimu",
             "add_portrait;Reimu;Left",
             "speak;Reimu;I don't like the look of those guys...let's bounce!",
