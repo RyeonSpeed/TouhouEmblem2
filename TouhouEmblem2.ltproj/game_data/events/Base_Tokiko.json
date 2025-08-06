@@ -11,7 +11,7 @@
             "music;Comrades",
             "table;GoldDisplay;str(game.get_money())+'G';Funds;Alignment=top_right;RowWidth=60;expression",
             "add_portrait;Tokiko;Left",
-            "add_portrait;Reimu;CenterRight",
+            "add_portrait;Reimu;Right",
             "speak;Reimu;Oh, it's that bird that hangs around Kourin's shop.",
             "speak;Tokiko;Hmm? What do you want?",
             "speak;Reimu;Can you fight?",

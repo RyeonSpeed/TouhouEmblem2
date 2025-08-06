@@ -2,7 +2,7 @@
     {
         "nid": "Punji",
         "name": "Punji",
-        "desc": "A spike repurposed into a lethal weapon|Brave, but cannot double.",
+        "desc": "A spike repurposed into a lethal weapon.\nBrave, but cannot double.",
         "icon_nid": "NewItem1",
         "icon_index": [
             0,

@@ -11,7 +11,7 @@
             "music;Comrades",
             "table;GoldDisplay;str(game.get_money())+'G';Funds;Alignment=top_right;RowWidth=60;expression",
             "add_portrait;Kagerou;Left;ExpressionList=Smile",
-            "add_portrait;Reimu;CenterRight",
+            "add_portrait;Reimu;Right",
             "speak;Kagerou;Ah...the shrine maiden.",
             "speak;Reimu;I swear, I don't get any respect around here.",
             "speak;Reimu;So what are you doing in the camp?",

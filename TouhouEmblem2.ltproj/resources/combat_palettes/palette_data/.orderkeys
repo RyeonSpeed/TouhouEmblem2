@@ -119,6 +119,7 @@
     "Soldier5_GenericRed",
     "Halberdier5_Eliza",
     "Halberdier5_GenericBlue",
+    "Halberdier5_GenericRed",
     "Shaman5_GenericBlue",
     "Shaman5_Marple",
     "Shaman5_GenericRed",
@@ -400,5 +401,19 @@
     "Medic_Mai",
     "Medic_GenericBlue",
     "Spellsword_GenericBlue",
-    "Spellsword_GenericRed"
+    "Spellsword_GenericRed",
+    "WarriorFemale_GenericBlue",
+    "WarriorFemale_GenericRed",
+    "Rogue_GenericBlue",
+    "Rogue_GenericRed",
+    "SwordmasterFemale_GenericBlue",
+    "SwordmasterFemale_GenericRed",
+    "DracoRider_GenericBlue",
+    "DracoRider_GenericRed",
+    "BoltingDust_Image",
+    "BoltingMagic_Image",
+    "BoltingStart_Image",
+    "SniperFemale_GenericBlue",
+    "SniperFemale_GenericRed",
+    "SniperFemale_Mamizou"
 ]

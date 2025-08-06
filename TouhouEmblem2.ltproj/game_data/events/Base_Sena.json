@@ -11,7 +11,7 @@
             "music;Comrades",
             "table;GoldDisplay;str(game.get_money())+'G';Funds;Alignment=top_right;RowWidth=60;expression",
             "add_portrait;Sena;Left;ExpressionList=Smile",
-            "add_portrait;Reimu;CenterRight",
+            "add_portrait;Reimu;Right",
             "speak;Sena;Greetings, fellow exterminator.",
             "speak;Reimu;Huh? Who are you?",
             "speak;Sena;I am Sena...a humble crusader against the youkai threat.",

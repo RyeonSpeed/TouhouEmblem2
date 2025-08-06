@@ -3,7 +3,7 @@
         "name": "SpellAlice",
         "trigger": "combat_end",
         "level_nid": "11",
-        "condition": "game.check_dead(\"Alice_Boss_2\")",
+        "condition": "game.check_dead(\"Alice_Boss_3\")",
         "commands": [],
         "only_once": true,
         "priority": 20,

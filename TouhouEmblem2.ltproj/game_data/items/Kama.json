@@ -2,7 +2,7 @@
     {
         "nid": "Kama",
         "name": "Kama",
-        "desc": "Turns out a farming sickle is also a good weapon.|Brave, but cannot double.",
+        "desc": "Turns out a farming sickle is also a good weapon.\nBrave, but cannot double.",
         "icon_nid": "NewItem1",
         "icon_index": [
             0,

@@ -65,10 +65,6 @@
                 "E"
             ],
             [
-                "siege_weapon",
-                null
-            ],
-            [
                 "prf_class",
                 [
                     "Archer",
@@ -94,6 +90,14 @@
             [
                 "status_on_equip",
                 "Ballista_Anim"
+            ],
+            [
+                "cannot_counter",
+                null
+            ],
+            [
+                "weapon",
+                null
             ]
         ]
     }
