@@ -33,8 +33,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    10,
-                    11
+                    19,
+                    16
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -60,7 +60,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Killer_Ballista",
+                        "Iron_Sword",
                         false
                     ]
                 ],
@@ -70,21 +70,21 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    10,
-                    8
+                    19,
+                    15
                 ],
                 "starting_traveler": null,
                 "generic": true
             },
             {
-                "nid": "Koakuma",
+                "nid": "Star",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
                     20,
-                    19
+                    15
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -207,8 +207,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    17,
-                    8
+                    21,
+                    15
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -368,8 +368,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    18,
-                    12
+                    21,
+                    14
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -381,8 +381,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    17,
-                    12
+                    22,
+                    15
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -437,19 +437,6 @@
                 ],
                 "starting_traveler": null,
                 "generic": true
-            },
-            {
-                "nid": "Youmu_Boss",
-                "team": "enemy",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    21,
-                    15
-                ],
-                "starting_traveler": null,
-                "generic": false
             },
             {
                 "nid": "113",

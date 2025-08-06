@@ -10,8 +10,8 @@
         "_source": [
             "music;Comrades",
             "table;GoldDisplay;str(game.get_money())+'G';Funds;Alignment=top_right;RowWidth=60;expression",
-            "add_portrait;Ringo;Left;ExpressionList=Smile",
-            "add_portrait;Reimu;CenterRight",
+            "add_portrait;Ringo;Left",
+            "add_portrait;Reimu;Right",
             "speak;Reimu;So what brings you rabbits here?",
             "speak;Ringo;With all this fighting going around Gensokyo, dango sales haven't been doing too hot.",
             "speak;Reimu;And how is this my problem?",
@@ -21,6 +21,7 @@
             "speak;Reimu;Right...",
             "choice;Hire;Hire for 5000 gold?;Yes,No;backable",
             "if;'{v:Hire}' == 'Yes' and game.get_money() >= 5000",
+            "expression;Ringo;Smile",
             "speak;Ringo;Nice doing business with you!",
             "speak;Reimu;I'd rather hear that from the other side of a dango stand, really.",
             "give_money;-5000;Reimu;no_banner",

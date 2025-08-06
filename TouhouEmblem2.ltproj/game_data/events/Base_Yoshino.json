@@ -11,7 +11,7 @@
             "music;Comrades",
             "table;GoldDisplay;str(game.get_money())+'G';Funds;Alignment=top_right;RowWidth=60;expression",
             "add_portrait;Yoshino;Left;ExpressionList=Smile",
-            "add_portrait;Reimu;CenterRight",
+            "add_portrait;Reimu;Right",
             "speak;Yoshino;Heyo! Master Eirin said I could make a quick buck here!",
             "speak;Reimu;Quick isn't what I'd call the correct word. What can you even do?",
             "speak;Yoshino;I'm quite the fast courier! Anything you need, I can get.",

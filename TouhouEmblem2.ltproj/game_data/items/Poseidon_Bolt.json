@@ -77,10 +77,6 @@
                 }
             ],
             [
-                "siege_weapon",
-                null
-            ],
-            [
                 "prf_class",
                 [
                     "Mermaid"
@@ -89,6 +85,14 @@
             [
                 "fatigue",
                 1
+            ],
+            [
+                "cannot_counter",
+                null
+            ],
+            [
+                "weapon",
+                null
             ]
         ]
     }

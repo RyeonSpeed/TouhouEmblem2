@@ -73,10 +73,6 @@
                 10
             ],
             [
-                "siege_weapon",
-                null
-            ],
-            [
                 "map_hit_add_blend",
                 [
                     255,
@@ -87,6 +83,14 @@
             [
                 "fatigue",
                 1
+            ],
+            [
+                "cannot_counter",
+                null
+            ],
+            [
+                "weapon",
+                null
             ]
         ]
     }

@@ -11,7 +11,7 @@
             "music;Comrades",
             "table;GoldDisplay;str(game.get_money())+'G';Funds;Alignment=top_right;RowWidth=60;expression",
             "add_portrait;Letty;Left",
-            "add_portrait;Reimu;CenterRight",
+            "add_portrait;Reimu;Right",
             "speak;Reimu;Hm? What's a yuki-onna doing out? It's not even winter.",
             "speak;Letty;This is...where I end up during the spring...",
             "speak;Reimu;Seriously? You end up here?",

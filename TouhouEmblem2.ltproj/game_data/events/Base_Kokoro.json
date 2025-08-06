@@ -11,7 +11,7 @@
             "music;Comrades",
             "table;GoldDisplay;str(game.get_money())+'G';Funds;Alignment=top_right;RowWidth=60;expression",
             "add_portrait;Kokoro;Left",
-            "add_portrait;Reimu;CenterRight",
+            "add_portrait;Reimu;Right",
             "speak;Kokoro;Hark! Shrine maiden of Hakurei!",
             "speak;Reimu;It's the menreiki. What are you doing here?",
             "speak;Kokoro;Gimme a job!",

@@ -429,7 +429,7 @@
         ],
         "minimap": "Snow_Cliff",
         "platform": "Cliff",
-        "background": "combat_snowy_hill",
+        "background": "combat_hill",
         "mtype": "Cliff",
         "opaque": false,
         "status": null

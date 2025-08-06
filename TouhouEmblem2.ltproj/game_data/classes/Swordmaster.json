@@ -128,6 +128,11 @@
                 0,
                 251
             ],
+            "Knife": [
+                false,
+                0,
+                null
+            ],
             "Monster": [
                 false,
                 0,
@@ -140,7 +145,7 @@
             0
         ],
         "map_sprite_nid": "Swordmaster",
-        "combat_anim_nid": "Swordmaster",
+        "combat_anim_nid": "SwordmasterFemale",
         "fields": []
     }
 ]

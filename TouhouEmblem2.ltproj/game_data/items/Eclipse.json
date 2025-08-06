@@ -65,10 +65,6 @@
                 10
             ],
             [
-                "siege_weapon",
-                null
-            ],
-            [
                 "no_double",
                 null
             ],
@@ -79,6 +75,14 @@
             [
                 "fatigue",
                 1
+            ],
+            [
+                "cannot_counter",
+                null
+            ],
+            [
+                "weapon",
+                null
             ]
         ]
     }

@@ -77,12 +77,16 @@
                 }
             ],
             [
-                "siege_weapon",
+                "fatigue",
+                1
+            ],
+            [
+                "cannot_counter",
                 null
             ],
             [
-                "fatigue",
-                1
+                "weapon",
+                null
             ]
         ]
     }
