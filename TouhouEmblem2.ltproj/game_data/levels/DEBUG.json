@@ -441,7 +441,7 @@
             {
                 "nid": "113",
                 "variant": null,
-                "level": 13,
+                "level": 1,
                 "klass": "Mage",
                 "faction": "Youkai",
                 "starting_items": [
@@ -469,8 +469,21 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    20,
-                    10
+                    16,
+                    9
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Yuyuko",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    8
                 ],
                 "starting_traveler": null,
                 "generic": false

@@ -12,7 +12,11 @@
             "game_var;_turnwheel;True",
             "game_var;_max_turnwheel_uses;99",
             "game_var;_current_turnwheel_uses;99",
-            "autolevel_to;Tewi;19;fixed"
+            "autolevel_to;Tewi;19;fixed",
+            "autolevel_to;Yuyuko;19;fixed",
+            "trigger_script;Housekeeping3",
+            "trigger_script;Housekeeping1",
+            "trigger_script;Housekeeping2"
         ],
         "nid": "DEBUG New Event"
     }

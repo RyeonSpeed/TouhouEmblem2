@@ -2,7 +2,7 @@
     {
         "nid": "Magical_Might",
         "name": "Magical Might",
-        "desc": "Changes damage formula to Mag/2 + Res/2.",
+        "desc": "Adds Mag to damage.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             1,
@@ -10,12 +10,12 @@
         ],
         "components": [
             [
-                "alternate_damage_formula",
-                "LETTY_EQUATION"
-            ],
-            [
                 "ability_indicator",
                 null
+            ],
+            [
+                "eval_damage",
+                "unit.get_stat('MAG')"
             ]
         ]
     }
