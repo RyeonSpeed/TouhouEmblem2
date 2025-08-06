@@ -2,7 +2,7 @@
     {
         "nid": "Sakura_Fan",
         "name": "Sakura Fan",
-        "desc": "Attacks in a 4 tile radius blast.",
+        "desc": "Attacks in a 4 tile radius blast.\nCharges: {v:SoulCharge}",
         "icon_nid": "Darkmagic",
         "icon_index": [
             0,

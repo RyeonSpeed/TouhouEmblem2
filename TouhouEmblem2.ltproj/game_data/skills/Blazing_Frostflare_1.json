@@ -1,0 +1,21 @@
+[
+    {
+        "nid": "Blazing_Frostflare_1",
+        "name": "Blazing Frostflare",
+        "desc": "Frozen and Burning.",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "multi_skill",
+                [
+                    "Burning",
+                    "Frozen_1"
+                ]
+            ]
+        ]
+    }
+]

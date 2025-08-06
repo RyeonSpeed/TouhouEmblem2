@@ -1,0 +1,38 @@
+[
+    {
+        "nid": "Blazing_Frostflare",
+        "name": "Blazing Frostflare",
+        "desc": "Applies both Frozen and Burning to all enemies within 5 tiles.",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "aura",
+                "Blazing_Frostflare_1"
+            ],
+            [
+                "aura_range",
+                5
+            ],
+            [
+                "aura_target",
+                "enemy"
+            ],
+            [
+                "aura_opacity",
+                0.7
+            ],
+            [
+                "show_aura",
+                [
+                    206,
+                    163,
+                    6
+                ]
+            ]
+        ]
+    }
+]

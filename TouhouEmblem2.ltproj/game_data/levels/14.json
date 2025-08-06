@@ -577,7 +577,7 @@
                 "team": "enemy",
                 "ai": "Attack",
                 "roam_ai": null,
-                "ai_group": "",
+                "ai_group": "3",
                 "starting_position": [
                     23,
                     23
@@ -601,7 +601,7 @@
                 "team": "enemy",
                 "ai": "Attack",
                 "roam_ai": null,
-                "ai_group": "",
+                "ai_group": "3",
                 "starting_position": [
                     23,
                     24
@@ -1197,7 +1197,7 @@
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
-                "ai_group": "",
+                "ai_group": "2",
                 "starting_position": [
                     14,
                     2
@@ -1221,7 +1221,7 @@
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
-                "ai_group": "",
+                "ai_group": "2",
                 "starting_position": [
                     13,
                     2
@@ -1245,7 +1245,7 @@
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
-                "ai_group": "",
+                "ai_group": "2",
                 "starting_position": [
                     15,
                     2
@@ -1269,7 +1269,7 @@
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
-                "ai_group": "",
+                "ai_group": "2",
                 "starting_position": [
                     14,
                     3
@@ -1602,7 +1602,7 @@
                 "team": "enemy",
                 "ai": "Guard",
                 "roam_ai": null,
-                "ai_group": "",
+                "ai_group": "1",
                 "starting_position": [
                     20,
                     23
@@ -1641,7 +1641,7 @@
                 "team": "enemy",
                 "ai": "Attack",
                 "roam_ai": null,
-                "ai_group": "",
+                "ai_group": "1",
                 "starting_position": [
                     22,
                     23
@@ -1697,6 +1697,27 @@
                 "generic": true
             },
             {
+                "nid": "170",
+                "variant": null,
+                "level": 14,
+                "klass": "Skeleton",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Killing_Edge",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
                 "nid": "165",
                 "variant": null,
                 "level": 14,
@@ -1718,7 +1739,70 @@
                 "generic": true
             },
             {
+                "nid": "169",
+                "variant": null,
+                "level": 14,
+                "klass": "Skeleton",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Short_Spear",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
                 "nid": "166",
+                "variant": null,
+                "level": 14,
+                "klass": "Entombed",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Devastator_Strike",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "171",
+                "variant": null,
+                "level": 14,
+                "klass": "Entombed",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Devastator_Strike",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "172",
                 "variant": null,
                 "level": 14,
                 "klass": "Entombed",
@@ -1768,6 +1852,174 @@
                 "starting_items": [
                     [
                         "Killing_Edge",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "173",
+                "variant": null,
+                "level": 14,
+                "klass": "Skeleton",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Short_Spear",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "174",
+                "variant": null,
+                "level": 14,
+                "klass": "Skeleton",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Short_Spear",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "175",
+                "variant": null,
+                "level": 14,
+                "klass": "Mage",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Elfire",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "176",
+                "variant": null,
+                "level": 14,
+                "klass": "Skeleton",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "177",
+                "variant": null,
+                "level": 14,
+                "klass": "Skeleton",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "178",
+                "variant": null,
+                "level": 14,
+                "klass": "Skeleton",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Poison_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "179",
+                "variant": null,
+                "level": 16,
+                "klass": "Veteran_S",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "180",
+                "variant": null,
+                "level": 14,
+                "klass": "Skeleton",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
                         false
                     ]
                 ],
@@ -2094,7 +2346,9 @@
                 "nid": "Turn5",
                 "units": [
                     "164",
-                    "165"
+                    "165",
+                    "170",
+                    "169"
                 ],
                 "positions": {
                     "164": [
@@ -2104,15 +2358,25 @@
                     "165": [
                         23,
                         16
+                    ],
+                    "170": [
+                        23,
+                        8
+                    ],
+                    "169": [
+                        23,
+                        9
                     ]
                 }
             },
             {
-                "nid": "Turn7",
+                "nid": "Turn8",
                 "units": [
                     "166",
                     "167",
-                    "168"
+                    "168",
+                    "171",
+                    "172"
                 ],
                 "positions": {
                     "166": [
@@ -2126,10 +2390,80 @@
                     "168": [
                         0,
                         4
+                    ],
+                    "171": [
+                        23,
+                        23
+                    ],
+                    "172": [
+                        23,
+                        24
+                    ]
+                }
+            },
+            {
+                "nid": "Turn11",
+                "units": [
+                    "177",
+                    "176",
+                    "175",
+                    "174"
+                ],
+                "positions": {
+                    "177": [
+                        22,
+                        15
+                    ],
+                    "176": [
+                        22,
+                        16
+                    ],
+                    "175": [
+                        23,
+                        15
+                    ],
+                    "174": [
+                        23,
+                        16
+                    ]
+                }
+            },
+            {
+                "nid": "Turn14",
+                "units": [
+                    "179",
+                    "178",
+                    "180"
+                ],
+                "positions": {
+                    "179": [
+                        0,
+                        3
+                    ],
+                    "178": [
+                        0,
+                        2
+                    ],
+                    "180": [
+                        0,
+                        4
                     ]
                 }
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "1",
+                "trigger_threshold": 1
+            },
+            {
+                "nid": "2",
+                "trigger_threshold": 1
+            },
+            {
+                "nid": "3",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]
