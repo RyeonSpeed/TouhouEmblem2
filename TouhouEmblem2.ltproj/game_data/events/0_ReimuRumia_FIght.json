@@ -8,6 +8,7 @@
         "only_once": true,
         "priority": 20,
         "_source": [
+            "hide_combat_ui",
             "music;Dullahan Under the Willows",
             "add_portrait;Rumia;Left",
             "speak;Rumia;Reimu! Your shrine is mine!!",
@@ -15,7 +16,8 @@
             "speak;Reimu;...and what are you exactly planning to do with it?",
             "speak;Rumia;Well...! I haven't thought that far yet...",
             "speak;Reimu;*sigh* Let's just get this over with.",
-            "multi_remove_portrait;Rumia;Reimu"
+            "multi_remove_portrait;Rumia;Reimu",
+            "show_combat_ui"
         ],
         "nid": "0 Reimu/Rumia FIght"
     }

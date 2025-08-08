@@ -8,6 +8,7 @@
         "only_once": true,
         "priority": 20,
         "_source": [
+            "hide_combat_ui",
             "music;Dullahan Under the Willows",
             "add_portrait;Tewi;Left;ExpressionList=Smile",
             "add_portrait;Kasen;Right",
@@ -15,7 +16,8 @@
             "speak;Kasen;You've got some nerve, trying to chat me up in the middle of a battle.",
             "speak;Tewi;C'mon, no need to be so serious.\u2028Now...may I interest you in another|little bunny for your menagerie~?",
             "speak;Kasen;...|{tgm}Are you seriously trying to bribe me?;no_talk",
-            "multi_remove_portrait;Kasen;Tewi"
+            "multi_remove_portrait;Kasen;Tewi",
+            "show_combat_ui"
         ],
         "nid": "4 Fight Tewi/Kasen"
     }
