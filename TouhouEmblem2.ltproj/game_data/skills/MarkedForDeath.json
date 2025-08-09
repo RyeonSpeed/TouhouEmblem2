@@ -12,6 +12,10 @@
             [
                 "hidden",
                 null
+            ],
+            [
+                "event_on_remove",
+                "Global Soul Gather"
             ]
         ]
     }

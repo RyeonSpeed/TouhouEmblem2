@@ -479,6 +479,10 @@
                     [
                         "Fire",
                         false
+                    ],
+                    [
+                        "Yukkuri_R",
+                        false
                     ]
                 ],
                 "starting_skills": [],
@@ -742,6 +746,10 @@
                 "starting_items": [
                     [
                         "Hand_Axe",
+                        false
+                    ],
+                    [
+                        "Yukkuri_R",
                         false
                     ]
                 ],
@@ -1538,6 +1546,11 @@
                 }
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

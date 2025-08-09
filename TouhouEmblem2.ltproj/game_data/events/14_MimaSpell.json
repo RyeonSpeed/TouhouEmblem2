@@ -1,0 +1,34 @@
+[
+    {
+        "name": "MimaSpell",
+        "trigger": "combat_end",
+        "level_nid": "14",
+        "condition": "game.check_dead(\"Mima_Boss_1\") ",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "change_music;player_phase;Strawberry Crisis",
+            "change_music;player_battle;Strawberry Crisis",
+            "change_music;enemy_phase;Strawberry Crisis",
+            "change_music;enemy_battle;Strawberry Crisis",
+            "change_music;enemy2_phase;Strawberry Crisis",
+            "change_music;enemy2_battle;Strawberry Crisis",
+            "add_portrait;Mima;Left",
+            "speak;;Cold and Hot \"Samidare Broiler\";center;90;hint;;red;;;1;;;;;Warp",
+            "speak;Yuki;Alright, time to come in, guns blazing!",
+            "speak;Mai;Freeze to death!",
+            "remove_portrait;Yuki",
+            "remove_portrait;Mai",
+            "add_group;YukiMai;YukiMai;warp;closest",
+            "autolevel_to;Yuki_Boss_1;18;fixed",
+            "autolevel_to;Mai_Boss_2;18;fixed",
+            "move_cursor;Yuki_Boss_1",
+            "move_cursor;Mai_Boss_2",
+            "for;Spell;game.level.unit_groups.get('YukiMai').units",
+            "    has_finished;{Spell}",
+            "end"
+        ],
+        "nid": "14 MimaSpell"
+    }
+]

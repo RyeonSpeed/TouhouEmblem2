@@ -2,7 +2,7 @@
     {
         "nid": "Perfect_Freeze",
         "name": "Perfect Freeze",
-        "desc": "+30 HIT. Applies -2 AS, -99 MOV on target for 2 turns. ",
+        "desc": "+30 HIT. Applies Frozen on target for 2 turns. ",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,
@@ -15,7 +15,7 @@
             ],
             [
                 "give_status_after_hit",
-                "Frozen_1"
+                "Frozen"
             ],
             [
                 "first_hit_battle_anim",

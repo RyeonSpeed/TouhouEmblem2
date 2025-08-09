@@ -1,11 +1,11 @@
 [
     {
-        "nid": "Mai_Boss_1",
-        "name": "Mai",
+        "nid": "Yuki_Boss_1",
+        "name": "Yuki",
         "desc": "",
         "variant": "",
         "level": 1,
-        "klass": "Medic",
+        "klass": "Spellsword",
         "tags": [
             "Boss"
         ],
@@ -47,11 +47,11 @@
         },
         "starting_items": [
             [
-                "Aircalibur",
+                "Elfire",
                 false
             ],
             [
-                "Eirins_Drugs",
+                "Tanto",
                 false
             ],
             [

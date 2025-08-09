@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Shinki_Boss_1",
+        "name": "Shinki",
+        "desc": "",
+        "variant": null,
+        "level": 1,
+        "klass": "Hexblade",
+        "tags": [],
+        "bases": {},
+        "growths": {},
+        "stat_cap_modifiers": {},
+        "starting_items": [],
+        "learned_skills": [],
+        "unit_notes": [],
+        "wexp_gain": {},
+        "alternate_classes": [],
+        "portrait_nid": "Woman2",
+        "affinity": "None",
+        "fields": []
+    }
+]

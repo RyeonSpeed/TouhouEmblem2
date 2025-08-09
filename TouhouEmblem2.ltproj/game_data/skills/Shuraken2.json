@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Shuraken2",
+        "name": "Shuraken \"2nd Form\"",
+        "desc": "Pushed back further, Youmu increases the ferocity of her attacks.\nCapture Bonus: Mandatory",
+        "icon_nid": "NewIcon2",
+        "icon_index": [
+            0,
+            4
+        ],
+        "components": [
+            [
+                "combat_art_indicator",
+                null
+            ]
+        ]
+    }
+]

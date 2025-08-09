@@ -34,8 +34,8 @@
                 "roam_ai": null,
                 "ai_group": null,
                 "starting_position": [
-                    7,
-                    6
+                    6,
+                    5
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -47,7 +47,7 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    8,
+                    9,
                     5
                 ],
                 "starting_traveler": null,
@@ -59,10 +59,7 @@
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": [
-                    9,
-                    6
-                ],
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
             },
@@ -72,10 +69,7 @@
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": [
-                    9,
-                    5
-                ],
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
             },
@@ -85,10 +79,7 @@
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": null,
-                "starting_position": [
-                    7,
-                    4
-                ],
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
             },
@@ -106,12 +97,12 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
                     14,
-                    5
+                    11
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -120,22 +111,46 @@
                 "nid": "102",
                 "variant": null,
                 "level": 1,
-                "klass": "Mage",
+                "klass": "Acolyte",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Fire",
+                        "Ofuda",
                         false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Pursue",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
                     12,
-                    8
+                    7
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "110",
+                "variant": null,
+                "level": 1,
+                "klass": "Acolyte",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Ofuda",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    4
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -154,12 +169,12 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Attack",
+                "ai": "Defend",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    5,
-                    12
+                    8,
+                    13
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -183,7 +198,7 @@
                 "ai_group": "",
                 "starting_position": [
                     0,
-                    3
+                    5
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -206,7 +221,7 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    4,
+                    3,
                     11
                 ],
                 "starting_traveler": null,
@@ -230,7 +245,7 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    12,
+                    10,
                     12
                 ],
                 "starting_traveler": null,
@@ -250,12 +265,12 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    6,
-                    11
+                    0,
+                    6
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -358,8 +373,32 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    12,
-                    4
+                    3,
+                    3
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "117",
+                "variant": null,
+                "level": 1,
+                "klass": "Shaman",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Flux",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    0,
+                    2
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -428,8 +467,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    12,
-                    11
+                    4,
+                    12
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -465,9 +504,72 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    1,
-                    2
+                    3,
+                    7
                 ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "118",
+                "variant": null,
+                "level": 1,
+                "klass": "Sword_Rider",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "119",
+                "variant": null,
+                "level": 1,
+                "klass": "Sword_Rider",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "120",
+                "variant": null,
+                "level": 1,
+                "klass": "Sword_Rider",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": true
             },
@@ -480,6 +582,90 @@
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "141",
+                "variant": null,
+                "level": 1,
+                "klass": "Vagrant_S",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "142",
+                "variant": null,
+                "level": 1,
+                "klass": "Vagrant_S",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "143",
+                "variant": null,
+                "level": 1,
+                "klass": "Fighter",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "144",
+                "variant": null,
+                "level": 1,
+                "klass": "Fighter",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Hand_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
             }
         ],
         "regions": [
@@ -504,46 +690,13 @@
         ],
         "unit_groups": [
             {
-                "nid": "Enemy1",
-                "units": [
-                    "101",
-                    "102",
-                    "Rumia_Boss",
-                    "106",
-                    "107",
-                    "108",
-                    "109",
-                    "105",
-                    "104",
-                    "111",
-                    "112",
-                    "113",
-                    "114",
-                    "103"
-                ],
-                "positions": {
-                    "101": [
-                        6,
-                        13
-                    ],
-                    "102": [
-                        8,
-                        13
-                    ],
-                    "Rumia_Boss": [
-                        1,
-                        11
-                    ]
-                }
-            },
-            {
                 "nid": "Player",
                 "units": [
-                    "Reimu",
-                    "Marisa",
                     "Remilia",
                     "Aunn",
-                    "Kasen"
+                    "Kasen",
+                    "141",
+                    "142"
                 ],
                 "positions": {
                     "Reimu": [
@@ -555,16 +708,24 @@
                         5
                     ],
                     "Remilia": [
-                        7,
-                        6
+                        6,
+                        3
                     ],
                     "Kasen": [
                         7,
-                        5
+                        3
                     ],
                     "Aunn": [
+                        8,
+                        3
+                    ],
+                    "141": [
+                        6,
+                        13
+                    ],
+                    "142": [
                         7,
-                        4
+                        13
                     ]
                 }
             },
@@ -586,6 +747,45 @@
                     ],
                     "Rumia_Boss_1": [
                         13,
+                        8
+                    ]
+                }
+            },
+            {
+                "nid": "Turn3",
+                "units": [
+                    "143",
+                    "144"
+                ],
+                "positions": {
+                    "143": [
+                        1,
+                        2
+                    ],
+                    "144": [
+                        0,
+                        2
+                    ]
+                }
+            },
+            {
+                "nid": "Turn5",
+                "units": [
+                    "118",
+                    "119",
+                    "120"
+                ],
+                "positions": {
+                    "118": [
+                        14,
+                        6
+                    ],
+                    "119": [
+                        14,
+                        7
+                    ],
+                    "120": [
+                        14,
                         8
                     ]
                 }

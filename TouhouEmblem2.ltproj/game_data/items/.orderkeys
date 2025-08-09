@@ -234,10 +234,6 @@
     "Lucky_Clover",
     "Debug_Crit",
     "Ciggie_Box",
-    "COMP",
-    "Nekomata",
-    "Kodama",
-    "Nozuchi",
     "Lantern",
     "Gas_Mask",
     "Stone_Bowl",
@@ -328,6 +324,7 @@
     "slep",
     "honshuslashing",
     "screamout",
+    "new_4",
     "gem_gem",
     "Sear"
 ]

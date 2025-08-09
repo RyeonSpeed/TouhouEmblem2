@@ -333,6 +333,10 @@
                     [
                         "Steel_Bow",
                         false
+                    ],
+                    [
+                        "Yukkuri_R",
+                        false
                     ]
                 ],
                 "starting_skills": [],
@@ -705,6 +709,10 @@
                     [
                         "Steel_Lance",
                         false
+                    ],
+                    [
+                        "Yukkuri_R",
+                        false
                     ]
                 ],
                 "starting_skills": [],
@@ -944,6 +952,10 @@
                 "starting_items": [
                     [
                         "Dark_Spikes",
+                        false
+                    ],
+                    [
+                        "Yukkuri_R",
                         false
                     ]
                 ],
@@ -2488,6 +2500,11 @@
                 }
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

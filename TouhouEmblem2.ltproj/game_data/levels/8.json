@@ -144,6 +144,10 @@
                     [
                         "Flux",
                         false
+                    ],
+                    [
+                        "Yukkuri_R",
+                        false
                     ]
                 ],
                 "starting_skills": [],
@@ -339,6 +343,10 @@
                 "starting_items": [
                     [
                         "Steel_Sword",
+                        false
+                    ],
+                    [
+                        "Yukkuri_R",
                         false
                     ]
                 ],
@@ -708,6 +716,10 @@
                     [
                         "Razor_Claw",
                         false
+                    ],
+                    [
+                        "Yukkuri_R",
+                        false
                     ]
                 ],
                 "starting_skills": [],
@@ -1068,6 +1080,10 @@
                     [
                         "Steel_Lance",
                         false
+                    ],
+                    [
+                        "Yukkuri_R",
+                        false
                     ]
                 ],
                 "starting_skills": [],
@@ -1387,6 +1403,10 @@
                 "starting_items": [
                     [
                         "Platepiercer",
+                        false
+                    ],
+                    [
+                        "Yukkuri_R",
                         false
                     ]
                 ],
@@ -2373,6 +2393,11 @@
                 }
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

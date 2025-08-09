@@ -131,6 +131,10 @@
                     [
                         "Steel_Lance",
                         false
+                    ],
+                    [
+                        "Yukkuri_R",
+                        false
                     ]
                 ],
                 "starting_skills": [],
@@ -587,6 +591,10 @@
                     [
                         "Halberd",
                         false
+                    ],
+                    [
+                        "Yukkuri_R",
+                        false
                     ]
                 ],
                 "starting_skills": [],
@@ -971,6 +979,10 @@
                     [
                         "Luna",
                         false
+                    ],
+                    [
+                        "Yukkuri_R",
+                        false
                     ]
                 ],
                 "starting_skills": [],
@@ -1306,6 +1318,10 @@
                 "starting_items": [
                     [
                         "Steel_Sword",
+                        false
+                    ],
+                    [
+                        "Yukkuri_R",
                         false
                     ]
                 ],
@@ -2805,6 +2821,11 @@
                 }
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

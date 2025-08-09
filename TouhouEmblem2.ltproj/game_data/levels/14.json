@@ -175,6 +175,10 @@
                     [
                         "Elfire",
                         false
+                    ],
+                    [
+                        "Yukkuri_R",
+                        false
                     ]
                 ],
                 "starting_skills": [],
@@ -231,8 +235,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    19,
-                    4
+                    16,
+                    3
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -691,6 +695,10 @@
                     [
                         "Steel_Sword",
                         false
+                    ],
+                    [
+                        "Yukkuri_R",
+                        false
                     ]
                 ],
                 "starting_skills": [],
@@ -1023,7 +1031,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Guard",
+                "ai": "Guard_1",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -1066,6 +1074,10 @@
                 "starting_items": [
                     [
                         "Steel_Lance",
+                        false
+                    ],
+                    [
+                        "Yukkuri_R",
                         false
                     ]
                 ],
@@ -1295,8 +1307,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    20,
-                    3
+                    9,
+                    4
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1323,7 +1335,7 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    22,
+                    21,
                     2
                 ],
                 "starting_traveler": null,
@@ -1371,8 +1383,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    22,
-                    5
+                    19,
+                    4
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1458,6 +1470,10 @@
                 "starting_items": [
                     [
                         "Instant",
+                        false
+                    ],
+                    [
+                        "Yukkuri_M",
                         false
                     ]
                 ],
@@ -2031,6 +2047,153 @@
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": true
+            },
+            {
+                "nid": "Mai_Boss_2",
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Yuki_Boss_1",
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Mima_Boss_1",
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Shinki_Boss_1",
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Shinki_Boss_2",
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Shinki_Boss_3",
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "141",
+                "variant": null,
+                "level": 15,
+                "klass": "Thief",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Poison_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Thief",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "181",
+                "variant": null,
+                "level": 15,
+                "klass": "Thief",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Poison_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Thief",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "182",
+                "variant": null,
+                "level": 15,
+                "klass": "Thief",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Poison_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Thief",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "183",
+                "variant": null,
+                "level": 15,
+                "klass": "Thief",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Poison_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Thief",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    0,
+                    2
+                ],
+                "starting_traveler": null,
+                "generic": true
             }
         ],
         "regions": [
@@ -2348,7 +2511,8 @@
                     "164",
                     "165",
                     "170",
-                    "169"
+                    "169",
+                    "141"
                 ],
                 "positions": {
                     "164": [
@@ -2366,6 +2530,10 @@
                     "169": [
                         23,
                         9
+                    ],
+                    "141": [
+                        0,
+                        3
                     ]
                 }
             },
@@ -2376,7 +2544,8 @@
                     "167",
                     "168",
                     "171",
-                    "172"
+                    "172",
+                    "181"
                 ],
                 "positions": {
                     "166": [
@@ -2398,6 +2567,10 @@
                     "172": [
                         23,
                         24
+                    ],
+                    "181": [
+                        23,
+                        15
                     ]
                 }
             },
@@ -2407,7 +2580,8 @@
                     "177",
                     "176",
                     "175",
-                    "174"
+                    "174",
+                    "182"
                 ],
                 "positions": {
                     "177": [
@@ -2425,6 +2599,10 @@
                     "174": [
                         23,
                         16
+                    ],
+                    "182": [
+                        23,
+                        9
                     ]
                 }
             },
@@ -2449,6 +2627,71 @@
                         4
                     ]
                 }
+            },
+            {
+                "nid": "YukiMai",
+                "units": [
+                    "Mai_Boss_2",
+                    "Yuki_Boss_1"
+                ],
+                "positions": {
+                    "Yuki_Boss_1": [
+                        20,
+                        25
+                    ],
+                    "Mai_Boss_2": [
+                        22,
+                        24
+                    ]
+                }
+            },
+            {
+                "nid": "Mima",
+                "units": [
+                    "Mima_Boss_1"
+                ],
+                "positions": {
+                    "Mima_Boss_1": [
+                        14,
+                        10
+                    ]
+                }
+            },
+            {
+                "nid": "Shinki1",
+                "units": [
+                    "Shinki_Boss_1"
+                ],
+                "positions": {
+                    "Shinki_Boss_1": [
+                        15,
+                        24
+                    ]
+                }
+            },
+            {
+                "nid": "Shinki2",
+                "units": [
+                    "Shinki_Boss_2"
+                ],
+                "positions": {
+                    "Shinki_Boss_2": [
+                        21,
+                        4
+                    ]
+                }
+            },
+            {
+                "nid": "Shinki3",
+                "units": [
+                    "Shinki_Boss_3"
+                ],
+                "positions": {
+                    "Shinki_Boss_3": [
+                        8,
+                        10
+                    ]
+                }
             }
         ],
         "ai_groups": [
@@ -2462,6 +2705,10 @@
             },
             {
                 "nid": "3",
+                "trigger_threshold": 1
+            },
+            {
+                "nid": "",
                 "trigger_threshold": 1
             }
         ]

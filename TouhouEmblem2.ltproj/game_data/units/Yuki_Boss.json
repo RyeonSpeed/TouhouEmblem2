@@ -47,11 +47,11 @@
         },
         "starting_items": [
             [
-                "Aircalibur",
+                "Elfire",
                 false
             ],
             [
-                "Wundergust",
+                "Tanto",
                 false
             ],
             [
@@ -62,11 +62,11 @@
         "learned_skills": [
             [
                 1,
-                "Blizzard"
+                "Indomitable_Spirit"
             ],
             [
                 1,
-                "Indomitable_Spirit"
+                "SamidareBroiler"
             ]
         ],
         "unit_notes": [],

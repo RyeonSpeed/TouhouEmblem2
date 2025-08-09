@@ -543,6 +543,10 @@
                     [
                         "Slim_Axe",
                         false
+                    ],
+                    [
+                        "Yukkuri_R",
+                        false
                     ]
                 ],
                 "starting_skills": [],
@@ -686,6 +690,10 @@
                 "starting_items": [
                     [
                         "Steel_Lance",
+                        false
+                    ],
+                    [
+                        "Yukkuri_R",
                         false
                     ]
                 ],
@@ -858,6 +866,10 @@
                 "starting_items": [
                     [
                         "Iron_Lance",
+                        false
+                    ],
+                    [
+                        "Yukkuri_R",
                         false
                     ]
                 ],
@@ -1099,6 +1111,10 @@
                     [
                         "Steel_Sword",
                         false
+                    ],
+                    [
+                        "Yukkuri_R",
+                        false
                     ]
                 ],
                 "starting_skills": [],
@@ -1220,6 +1236,10 @@
                 "starting_items": [
                     [
                         "Longbow",
+                        false
+                    ],
+                    [
+                        "Yukkuri_R",
                         false
                     ]
                 ],
@@ -2698,6 +2718,11 @@
                 }
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

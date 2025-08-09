@@ -1,7 +1,7 @@
 [
     {
-        "nid": "Frostbitten",
-        "name": "Frostbitten",
+        "nid": "Frozen",
+        "name": "Frozen",
         "desc": "Applies -2 Mov and -15 Avoid on the enemy.",
         "icon_nid": "skillicons4",
         "icon_index": [

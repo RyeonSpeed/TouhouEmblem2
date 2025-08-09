@@ -10,12 +10,12 @@
         ],
         "components": [
             [
-                "crit",
-                -100
-            ],
-            [
-                "cannot_double",
-                null
+                "skill_before_combat",
+                {
+                    "skill": "Mercy",
+                    "recipient": "target",
+                    "allegiance": "enemy"
+                }
             ]
         ]
     }

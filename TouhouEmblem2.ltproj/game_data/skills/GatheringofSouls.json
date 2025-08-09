@@ -14,10 +14,6 @@
                 null
             ],
             [
-                "event_after_combat",
-                "Global Soul Gather"
-            ],
-            [
                 "aura",
                 "MarkedForDeath"
             ],
