@@ -71,6 +71,10 @@
             [
                 "battle_cast_anim",
                 "ThrowingAxe"
+            ],
+            [
+                "value",
+                1500
             ]
         ]
     }

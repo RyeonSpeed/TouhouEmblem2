@@ -3,10 +3,10 @@
         "nid": "Blazing_Frostflare_1",
         "name": "Blazing Frostflare",
         "desc": "Frozen and Burning.",
-        "icon_nid": null,
+        "icon_nid": "skillicons102724(1)",
         "icon_index": [
             0,
-            0
+            2
         ],
         "components": [
             [

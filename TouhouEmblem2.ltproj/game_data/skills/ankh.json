@@ -28,7 +28,7 @@
             ],
             [
                 "condition",
-                "unit.equipped_accessory.data['c_uses'] > 0"
+                "unit.equipped_accessory.data['uses'] > 0"
             ]
         ]
     }

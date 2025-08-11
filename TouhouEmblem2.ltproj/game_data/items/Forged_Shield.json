@@ -2,7 +2,7 @@
     {
         "nid": "Forged_Shield",
         "name": "Forged Shield",
-        "desc": "A reinforced shield forged only for elite soldiers. +6 Def when in inventory, but -3 Spd. Loses one durability per round of combat. Only one accessory can be equipped at a time. Recurring.",
+        "desc": "A reinforced shield forged only for elite soldiers. +6 Def when in inventory, but -3 Spd. Loses one durability per round of combat. Only one accessory can be equipped at a time. ",
         "icon_nid": "accessories",
         "icon_index": [
             0,
@@ -22,7 +22,14 @@
                 "False"
             ],
             [
-                "c_uses",
+                "multi_status_on_equip",
+                [
+                    "shield_check",
+                    "forged_shield"
+                ]
+            ],
+            [
+                "uses",
                 4
             ],
             [
@@ -31,13 +38,6 @@
                     "lose_uses_on_miss": false,
                     "one_loss_per_combat": false
                 }
-            ],
-            [
-                "multi_status_on_equip",
-                [
-                    "shield_check",
-                    "forged_shield"
-                ]
             ]
         ]
     }

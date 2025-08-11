@@ -16,7 +16,7 @@
             "change_music;enemy2_battle;Strawberry Crisis",
             "add_portrait;Yuki;FarLeft",
             "add_portrait;Mai;CenterLeft",
-            "speak;;Cold and Hot \"Samidare Broiler\";center;90;hint;;red;;;1;;;;;Warp",
+            "speak;;Cold and Hot \"Samidare Broiler\";center;165;hint;;red;;;1;;;;;Warp",
             "speak;Yuki;Alright, time to come in, guns blazing!",
             "speak;Mai;Freeze to death!",
             "remove_portrait;Yuki",

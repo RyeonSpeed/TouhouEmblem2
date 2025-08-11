@@ -46,7 +46,7 @@
             ],
             [
                 "crit",
-                10
+                30
             ],
             [
                 "wexp",
@@ -77,8 +77,8 @@
                     "effective_tags": [
                         "Flying"
                     ],
-                    "effective_multiplier": 1.0,
-                    "effective_bonus_damage": 24,
+                    "effective_multiplier": 3.0,
+                    "effective_bonus_damage": 10,
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }

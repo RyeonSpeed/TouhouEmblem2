@@ -1629,13 +1629,10 @@
             {
                 "nid": "Alice_Boss_5",
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Attack",
                 "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    9,
-                    10
-                ],
+                "ai_group": "4",
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
             },
@@ -1668,13 +1665,10 @@
             {
                 "nid": "Yumeko_Boss_2",
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Attack",
                 "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    21,
-                    10
-                ],
+                "ai_group": "8",
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
             },
@@ -2091,9 +2085,9 @@
             {
                 "nid": "Shinki_Boss_2",
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Attack",
                 "roam_ai": null,
-                "ai_group": "",
+                "ai_group": "4",
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
@@ -2192,6 +2186,305 @@
                     0,
                     2
                 ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "184",
+                "variant": null,
+                "level": 16,
+                "klass": "Maid",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Silver_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "8",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "185",
+                "variant": null,
+                "level": 16,
+                "klass": "Maid",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "8",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "186",
+                "variant": null,
+                "level": 16,
+                "klass": "Maid",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "8",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "187",
+                "variant": null,
+                "level": 16,
+                "klass": "Maid",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "8",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "188",
+                "variant": null,
+                "level": 16,
+                "klass": "Maid",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "8",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "189",
+                "variant": null,
+                "level": 16,
+                "klass": "Doll_L",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Platepiercer",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "190",
+                "variant": null,
+                "level": 16,
+                "klass": "Doll_L",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Punji",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "191",
+                "variant": null,
+                "level": 16,
+                "klass": "Doll_L",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "192",
+                "variant": null,
+                "level": 16,
+                "klass": "Doll_L",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Killer_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "193",
+                "variant": null,
+                "level": 16,
+                "klass": "Doll_L",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Reginleif",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "194",
+                "variant": null,
+                "level": 16,
+                "klass": "Doll_L",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Spear",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "195",
+                "variant": null,
+                "level": 16,
+                "klass": "Doll_L",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Saunion",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "196",
+                "variant": null,
+                "level": 16,
+                "klass": "Doll_L",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Naginata",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": true
             }
@@ -2660,24 +2953,99 @@
             {
                 "nid": "Shinki1",
                 "units": [
-                    "Shinki_Boss_1"
+                    "Shinki_Boss_1",
+                    "Yumeko_Boss_2",
+                    "188",
+                    "187",
+                    "186",
+                    "185",
+                    "184"
                 ],
                 "positions": {
                     "Shinki_Boss_1": [
-                        15,
+                        14,
                         24
+                    ],
+                    "Yumeko_Boss_2": [
+                        15,
+                        25
+                    ],
+                    "188": [
+                        0,
+                        13
+                    ],
+                    "187": [
+                        1,
+                        14
+                    ],
+                    "184": [
+                        16,
+                        24
+                    ],
+                    "185": [
+                        21,
+                        6
+                    ],
+                    "186": [
+                        22,
+                        7
                     ]
                 }
             },
             {
                 "nid": "Shinki2",
                 "units": [
-                    "Shinki_Boss_2"
+                    "Shinki_Boss_2",
+                    "Alice_Boss_5",
+                    "190",
+                    "191",
+                    "189",
+                    "192",
+                    "193",
+                    "194",
+                    "195",
+                    "196"
                 ],
                 "positions": {
                     "Shinki_Boss_2": [
+                        20,
+                        3
+                    ],
+                    "Alice_Boss_5": [
                         21,
                         4
+                    ],
+                    "190": [
+                        8,
+                        0
+                    ],
+                    "191": [
+                        10,
+                        0
+                    ],
+                    "189": [
+                        0,
+                        2
+                    ],
+                    "192": [
+                        0,
+                        4
+                    ],
+                    "193": [
+                        23,
+                        15
+                    ],
+                    "194": [
+                        23,
+                        16
+                    ],
+                    "195": [
+                        23,
+                        23
+                    ],
+                    "196": [
+                        23,
+                        24
                     ]
                 }
             },
@@ -2708,7 +3076,11 @@
                 "trigger_threshold": 1
             },
             {
-                "nid": "",
+                "nid": "8",
+                "trigger_threshold": 1
+            },
+            {
+                "nid": "4",
                 "trigger_threshold": 1
             }
         ]

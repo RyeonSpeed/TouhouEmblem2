@@ -7,16 +7,40 @@
         "level": 1,
         "klass": "Hexblade",
         "tags": [],
-        "bases": {},
+        "bases": {
+            "HP": 16,
+            "STR": 3,
+            "MAG": 5,
+            "SKL": 5,
+            "SPD": 5,
+            "LCK": 5,
+            "DEF": 4,
+            "RES": 4,
+            "CON": 1,
+            "MOV": 0
+        },
         "growths": {},
         "stat_cap_modifiers": {},
-        "starting_items": [],
+        "starting_items": [
+            [
+                "Runesword",
+                false
+            ],
+            [
+                "Persecutor",
+                false
+            ],
+            [
+                "Lucky_Clover",
+                false
+            ]
+        ],
         "learned_skills": [],
         "unit_notes": [],
         "wexp_gain": {},
         "alternate_classes": [],
-        "portrait_nid": "Woman2",
-        "affinity": "None",
+        "portrait_nid": "Shinki",
+        "affinity": "Dark",
         "fields": []
     }
 ]

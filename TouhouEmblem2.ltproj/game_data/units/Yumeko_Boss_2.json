@@ -51,19 +51,11 @@
                 false
             ],
             [
-                "Levin_Sword",
+                "Sleep",
                 false
             ]
         ],
         "learned_skills": [
-            [
-                1,
-                "Makai_Overdrive"
-            ],
-            [
-                1,
-                "Dream_Slicer"
-            ],
             [
                 1,
                 "Indomitable_Spirit"

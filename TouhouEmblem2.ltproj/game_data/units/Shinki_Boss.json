@@ -7,16 +7,49 @@
         "level": 1,
         "klass": "Hexblade",
         "tags": [],
-        "bases": {},
-        "growths": {},
+        "bases": {
+            "MAG": 4,
+            "STR": 3,
+            "HP": 12,
+            "SPD": 4,
+            "SKL": 4,
+            "LCK": 5,
+            "DEF": 4,
+            "RES": 4,
+            "CON": 1,
+            "MOV": 0
+        },
+        "growths": {
+            "HP": 0
+        },
         "stat_cap_modifiers": {},
-        "starting_items": [],
+        "starting_items": [
+            [
+                "Runesword",
+                false
+            ],
+            [
+                "Maple_Shield",
+                false
+            ]
+        ],
         "learned_skills": [],
         "unit_notes": [],
-        "wexp_gain": {},
+        "wexp_gain": {
+            "Sword": [
+                false,
+                181,
+                null
+            ],
+            "Dark": [
+                false,
+                252,
+                null
+            ]
+        },
         "alternate_classes": [],
-        "portrait_nid": "Woman2",
-        "affinity": "None",
+        "portrait_nid": "Shinki",
+        "affinity": "Dark",
         "fields": []
     }
 ]

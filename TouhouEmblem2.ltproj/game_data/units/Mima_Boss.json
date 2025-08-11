@@ -9,16 +9,72 @@
         "tags": [
             "Boss"
         ],
-        "bases": {},
+        "bases": {
+            "SPD": 2,
+            "DEF": 4,
+            "RES": 4,
+            "LCK": 7,
+            "SKL": 2,
+            "MAG": 3,
+            "HP": 8,
+            "CON": 2
+        },
         "growths": {},
         "stat_cap_modifiers": {},
-        "starting_items": [],
-        "learned_skills": [],
+        "starting_items": [
+            [
+                "Orreries_Sun",
+                false
+            ],
+            [
+                "Fenrir",
+                false
+            ],
+            [
+                "Maple_Shield",
+                false
+            ]
+        ],
+        "learned_skills": [
+            [
+                1,
+                "Indomitable_Spirit"
+            ],
+            [
+                1,
+                "Vengeful_Spirit"
+            ],
+            [
+                1,
+                "SolarSystem"
+            ]
+        ],
         "unit_notes": [],
-        "wexp_gain": {},
+        "wexp_gain": {
+            "Anima": [
+                false,
+                121,
+                null
+            ],
+            "Light": [
+                false,
+                0,
+                null
+            ],
+            "Dark": [
+                false,
+                181,
+                null
+            ],
+            "Staff": [
+                false,
+                71,
+                null
+            ]
+        },
         "alternate_classes": [],
         "portrait_nid": "Mima",
-        "affinity": "None",
+        "affinity": "Dark",
         "fields": []
     }
 ]

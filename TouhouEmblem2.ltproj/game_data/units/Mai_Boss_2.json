@@ -10,10 +10,10 @@
             "Boss"
         ],
         "bases": {
-            "HP": 12,
+            "HP": 14,
             "STR": 0,
             "MAG": 3,
-            "SKL": 2,
+            "SKL": 5,
             "SPD": 1,
             "LCK": 3,
             "DEF": 5,
@@ -63,6 +63,10 @@
             [
                 1,
                 "SamidareBroiler"
+            ],
+            [
+                1,
+                "Summoning_Sickness"
             ]
         ],
         "unit_notes": [],

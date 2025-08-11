@@ -1,0 +1,22 @@
+[
+    {
+        "name": "IntroCh13",
+        "trigger": "level_start",
+        "level_nid": "Base",
+        "condition": "game.game_vars['chaptercount'] == 12",
+        "commands": [],
+        "only_once": false,
+        "priority": 22,
+        "_source": [
+            "chapter_title",
+            "add_talk;Reimu;Marisa",
+            "add_talk;Reimu;Rinnosuke_NPC",
+            "add_talk;Reimu;Kosuzu_NPC",
+            "add_talk;Reimu;Miyoi_NPC",
+            "add_talk;Reimu;Kogasa_NPC",
+            "trigger_script;Global Housekeeping1",
+            "game_var;hireable_guys;v('hireable_guys') + ['Kairi','Jingyi']"
+        ],
+        "nid": "Base IntroCh13"
+    }
+]

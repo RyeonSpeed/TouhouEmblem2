@@ -18,17 +18,6 @@
                 1500
             ],
             [
-                "c_uses",
-                2
-            ],
-            [
-                "uses_options",
-                {
-                    "lose_uses_on_miss": false,
-                    "one_loss_per_combat": false
-                }
-            ],
-            [
                 "usable",
                 null
             ],
@@ -47,6 +36,17 @@
             [
                 "self_status_on_hit",
                 "eyeofsenri_1"
+            ],
+            [
+                "uses",
+                2
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
             ]
         ]
     }

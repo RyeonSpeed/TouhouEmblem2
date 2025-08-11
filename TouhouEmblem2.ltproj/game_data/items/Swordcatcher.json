@@ -49,10 +49,6 @@
                 }
             ],
             [
-                "reaver",
-                null
-            ],
-            [
                 "weight",
                 9
             ],
@@ -83,6 +79,18 @@
             [
                 "double_triangle",
                 null
+            ],
+            [
+                "effective_damage",
+                {
+                    "effective_tags": [
+                        "Sword"
+                    ],
+                    "effective_multiplier": 3,
+                    "effective_bonus_damage": 10,
+                    "show_effectiveness_flash": true,
+                    "weapon_effectiveness_multiplied": true
+                }
             ]
         ]
     }

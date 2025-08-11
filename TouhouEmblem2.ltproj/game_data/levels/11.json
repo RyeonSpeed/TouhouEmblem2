@@ -98,30 +98,6 @@
                 "generic": true
             },
             {
-                "nid": "103",
-                "variant": null,
-                "level": 10,
-                "klass": "Archer",
-                "faction": "Insurgents",
-                "starting_items": [
-                    [
-                        "Steel_Bow",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Attack",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    11,
-                    17
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
                 "nid": "203",
                 "variant": null,
                 "level": 10,
@@ -211,7 +187,7 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    12,
+                    10,
                     15
                 ],
                 "starting_traveler": null,
@@ -335,8 +311,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    1,
-                    4
+                    0,
+                    13
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -542,30 +518,6 @@
                 "generic": true
             },
             {
-                "nid": "118",
-                "variant": null,
-                "level": 10,
-                "klass": "Lancer",
-                "faction": "Insurgents",
-                "starting_items": [
-                    [
-                        "Punji",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    17,
-                    17
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
                 "nid": "119",
                 "variant": null,
                 "level": 10,
@@ -584,7 +536,7 @@
                 "ai_group": "",
                 "starting_position": [
                     15,
-                    16
+                    17
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -679,8 +631,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    20,
-                    11
+                    24,
+                    12
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -704,7 +656,7 @@
                 "ai_group": "",
                 "starting_position": [
                     21,
-                    8
+                    11
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -751,8 +703,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    15,
-                    10
+                    27,
+                    0
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -775,8 +727,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    16,
-                    9
+                    25,
+                    0
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -959,8 +911,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    24,
-                    7
+                    23,
+                    8
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1101,8 +1053,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    25,
-                    10
+                    22,
+                    8
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1313,7 +1265,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Guard",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -1341,7 +1293,7 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    20,
+                    22,
                     17
                 ],
                 "starting_traveler": null,
@@ -1389,8 +1341,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    19,
-                    14
+                    20,
+                    17
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1413,7 +1365,7 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    16,
+                    17,
                     19
                 ],
                 "starting_traveler": null,
@@ -1433,7 +1385,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -1481,36 +1433,12 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
                     27,
                     16
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "152",
-                "variant": null,
-                "level": 11,
-                "klass": "Archer",
-                "faction": "Insurgents",
-                "starting_items": [
-                    [
-                        "Steel_Bow",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    3,
-                    2
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -2479,8 +2407,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    18,
-                    10
+                    15,
+                    9
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -2779,6 +2707,42 @@
                 "hide_time": false
             },
             {
+                "nid": "F_10",
+                "region_type": "formation",
+                "position": [
+                    4,
+                    13
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "",
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false,
+                "hide_time": false
+            },
+            {
+                "nid": "F_12",
+                "region_type": "formation",
+                "position": [
+                    6,
+                    14
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "",
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false,
+                "hide_time": false
+            },
+            {
                 "nid": "House",
                 "region_type": "event",
                 "position": [
@@ -3062,11 +3026,6 @@
                 }
             }
         ],
-        "ai_groups": [
-            {
-                "nid": "",
-                "trigger_threshold": 1
-            }
-        ]
+        "ai_groups": []
     }
 ]
