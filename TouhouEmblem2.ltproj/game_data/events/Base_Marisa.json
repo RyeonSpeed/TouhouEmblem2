@@ -13,6 +13,7 @@
             "speak;Marisa;Hmmm? What is it, Reimu?",
             "choice;MarisaServices;What do you need?;Manage Items,Gossip,Save;backable",
             "if;'{v:MarisaServices}' == 'Manage Items'",
+            "trigger_script;Global FATIGUE READD",
             "open_unit_management",
             "elif;'{v:MarisaServices}' == 'Gossip'",
             "trigger_script;MarisaGossip",

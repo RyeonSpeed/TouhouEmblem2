@@ -1,0 +1,22 @@
+[
+    {
+        "name": "FATIGUE STORE",
+        "trigger": "level_end",
+        "level_nid": null,
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "for;SHITLING;[x.nid for x in game.get_all_units_in_party()]",
+            "    if;u('{SHITLING}').get_fatigue()",
+            "        game_var;{SHITLING}_fat_store;u('{SHITLING}').get_fatigue()",
+            "        if;v('{SHITLING}_fat_store')",
+            "            add_fatigue;{SHITLING};-{v:{SHITLING}_fat_store}",
+            "        end",
+            "    end",
+            "endf"
+        ],
+        "nid": "Global FATIGUE STORE"
+    }
+]

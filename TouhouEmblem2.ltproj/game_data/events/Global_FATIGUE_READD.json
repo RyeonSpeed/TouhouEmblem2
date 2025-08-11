@@ -1,12 +1,12 @@
 [
     {
-        "name": "START",
+        "name": "FATIGUE READD",
         "trigger": "level_start",
         "level_nid": null,
-        "condition": "False",
+        "condition": "not 'Intermission' in game.level.tags",
         "commands": [],
         "only_once": false,
-        "priority": 20,
+        "priority": 99,
         "_source": [
             "for;SHITLING;[x.nid for x in game.get_all_units_in_party()]",
             "    if;v('{SHITLING}_fat_store')",
@@ -15,6 +15,6 @@
             "    end",
             "endf"
         ],
-        "nid": "Global START"
+        "nid": "Global FATIGUE READD"
     }
 ]

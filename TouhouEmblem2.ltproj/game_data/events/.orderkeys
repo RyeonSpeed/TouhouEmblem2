@@ -444,7 +444,6 @@
     "7_TalkStar",
     "7_TalkLuna",
     "7_TalkSunny",
-    "Global_START",
     "9_Snag",
     "14_Intro",
     "14_Outro",
@@ -472,5 +471,8 @@
     "6_FightYumemiReimu",
     "14_DeathMima",
     "14_DeathShinki",
-    "10_RecruitCultists"
+    "10_RecruitCultists",
+    "6_FightYumemiReimu",
+    "Global_FATIGUE_READD",
+    "Global_FATIGUE_STORE"
 ]
