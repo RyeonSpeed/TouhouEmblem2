@@ -444,7 +444,6 @@
     "7_TalkStar",
     "7_TalkLuna",
     "7_TalkSunny",
-    "Global_ENDING",
     "Global_START",
     "9_Snag",
     "14_Intro",
@@ -469,5 +468,6 @@
     "14_YukiMaiSpell",
     "14_DeathYuki",
     "14_DeathMai",
-    "14_DeathMai_1"
+    "14_DeathMai_1",
+    "6_FightYumemiReimu"
 ]

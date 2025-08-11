@@ -8,12 +8,6 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "if;'Intermission' in game.level.tags",
-            "    for;SHITLING;[x.nid for x in game.get_all_units_in_party()]",
-            "        add_fatigue;{SHITLING};-9999",
-            "    endf",
-            "    finish",
-            "end",
             "for;SHITLING;[x.nid for x in game.get_all_units_in_party()]",
             "    if;v('{SHITLING}_fat_store')",
             "        add_fatigue;{SHITLING};{v:{SHITLING}_fat_store}",
