@@ -1416,7 +1416,7 @@
         "info_offset": 0
     },
     {
-        "nid": "ringo",
+        "nid": "Ringo",
         "blinking_offset": [
             24,
             32
@@ -1428,7 +1428,7 @@
         "info_offset": 0
     },
     {
-        "nid": "seiran",
+        "nid": "Seiran",
         "blinking_offset": [
             32,
             32
@@ -1836,7 +1836,7 @@
         "info_offset": 0
     },
     {
-        "nid": "kyouko",
+        "nid": "Kyouko",
         "blinking_offset": [
             24,
             32
