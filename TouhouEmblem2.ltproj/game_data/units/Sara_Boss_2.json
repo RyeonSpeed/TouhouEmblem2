@@ -1,35 +1,45 @@
 [
     {
-        "nid": "Mima_Boss_1",
-        "name": "Mima",
+        "nid": "Sara_Boss_2",
+        "name": "Sara",
         "desc": "",
         "variant": null,
         "level": 1,
-        "klass": "Druid",
+        "klass": "Warrior",
         "tags": [
             "Boss"
         ],
         "bases": {
+            "SPD": 3,
+            "DEF": 3,
+            "RES": 3,
+            "MAG": 0,
             "HP": 16,
-            "STR": 0,
-            "MAG": 3,
-            "SKL": 5,
-            "SPD": 2,
-            "LCK": 7,
-            "DEF": 4,
-            "RES": 4,
+            "SKL": 2,
             "CON": 2,
-            "MOV": 0
+            "STR": 3,
+            "LCK": 5
         },
-        "growths": {},
+        "growths": {
+            "STR": 5,
+            "HP": 10,
+            "DEF": 5,
+            "RES": 20,
+            "SKL": 5,
+            "LCK": 0
+        },
         "stat_cap_modifiers": {},
         "starting_items": [
             [
-                "Orreries_Sun",
+                "Silver_Axe",
                 false
             ],
             [
-                "Maple_Shield",
+                "Tomahawk",
+                false
+            ],
+            [
+                "Poppet",
                 false
             ]
         ],
@@ -40,33 +50,34 @@
             ],
             [
                 1,
-                "Vengeful_Spirit"
-            ],
-            [
-                1,
-                "Orreries_Solar_System"
+                "Summoning_Sickness"
             ]
         ],
         "unit_notes": [],
         "wexp_gain": {
-            "Staff": [
-                false,
-                71,
-                null
-            ],
-            "Anima": [
-                false,
-                121,
-                null
-            ],
             "Dark": [
                 false,
+                0,
+                null
+            ],
+            "Staff": [
+                false,
+                0,
+                null
+            ],
+            "Axe": [
+                false,
                 181,
+                null
+            ],
+            "Bow": [
+                false,
+                71,
                 null
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "Mima",
+        "portrait_nid": "Sara",
         "affinity": "Dark",
         "fields": []
     }

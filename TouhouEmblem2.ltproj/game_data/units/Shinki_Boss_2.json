@@ -35,9 +35,25 @@
                 false
             ]
         ],
-        "learned_skills": [],
+        "learned_skills": [
+            [
+                1,
+                "HourofDemons"
+            ]
+        ],
         "unit_notes": [],
-        "wexp_gain": {},
+        "wexp_gain": {
+            "Sword": [
+                false,
+                181,
+                null
+            ],
+            "Dark": [
+                false,
+                251,
+                null
+            ]
+        },
         "alternate_classes": [],
         "portrait_nid": "Shinki",
         "affinity": "Dark",

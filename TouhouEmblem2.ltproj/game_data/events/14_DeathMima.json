@@ -1,6 +1,6 @@
 [
     {
-        "name": "DeathMai_1",
+        "name": "DeathMima",
         "trigger": "unit_death",
         "level_nid": "14",
         "condition": "unit.nid == 'Mima_Boss_1' ",
@@ -10,6 +10,6 @@
         "_source": [
             "give_bexp;200"
         ],
-        "nid": "14 DeathMai_1"
+        "nid": "14 DeathMima"
     }
 ]

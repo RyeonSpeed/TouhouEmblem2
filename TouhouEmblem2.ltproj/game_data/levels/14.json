@@ -2095,7 +2095,7 @@
             {
                 "nid": "Shinki_Boss_3",
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
@@ -2480,6 +2480,131 @@
                 "starting_skills": [
                     "Summoning_Sickness"
                 ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Sara_Boss_2",
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Louise_Boss_2",
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "197",
+                "variant": null,
+                "level": 16,
+                "klass": "Archdemon",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "198",
+                "variant": null,
+                "level": 16,
+                "klass": "Archdemon",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "199",
+                "variant": null,
+                "level": 16,
+                "klass": "Archdemon",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "200",
+                "variant": null,
+                "level": 16,
+                "klass": "Archdemon",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Naginata",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "201",
+                "variant": null,
+                "level": 16,
+                "klass": "Warden",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -3052,12 +3177,47 @@
             {
                 "nid": "Shinki3",
                 "units": [
-                    "Shinki_Boss_3"
+                    "Shinki_Boss_3",
+                    "Sara_Boss_2",
+                    "Louise_Boss_2",
+                    "197",
+                    "198",
+                    "199",
+                    "200",
+                    "201"
                 ],
                 "positions": {
                     "Shinki_Boss_3": [
                         8,
                         10
+                    ],
+                    "Sara_Boss_2": [
+                        9,
+                        0
+                    ],
+                    "Louise_Boss_2": [
+                        23,
+                        15
+                    ],
+                    "197": [
+                        23,
+                        16
+                    ],
+                    "198": [
+                        8,
+                        14
+                    ],
+                    "199": [
+                        9,
+                        14
+                    ],
+                    "201": [
+                        5,
+                        9
+                    ],
+                    "200": [
+                        9,
+                        11
                     ]
                 }
             }

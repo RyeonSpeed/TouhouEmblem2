@@ -531,10 +531,10 @@
                 "condition": ""
             },
             {
-                "action": "Move_away_from",
+                "action": "Attack",
                 "target": "Enemy",
                 "target_spec": null,
-                "view_range": -3,
+                "view_range": -2,
                 "invert_targeting": false,
                 "roam_speed": 100,
                 "desired_proximity": 0,

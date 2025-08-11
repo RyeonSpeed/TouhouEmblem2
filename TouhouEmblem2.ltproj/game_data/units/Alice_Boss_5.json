@@ -47,7 +47,7 @@
         },
         "starting_items": [
             [
-                "Wind_Sword",
+                "Silver_Sword",
                 false
             ],
             [
@@ -73,7 +73,7 @@
         "wexp_gain": {
             "Dark": [
                 false,
-                71,
+                121,
                 null
             ],
             "Staff": [

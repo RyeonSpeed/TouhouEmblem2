@@ -108,8 +108,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    3,
-                    7
+                    2,
+                    13
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -123,6 +123,8 @@
                 "starting_position": [
                     2,
                     9
+                    3,
+                    7
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -2114,6 +2116,90 @@
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "201",
+                "variant": null,
+                "level": 16,
+                "klass": "Exorcist",
+                "faction": "Cultist",
+                "starting_items": [
+                    [
+                        "Physic",
+                        false
+                    ],
+                    [
+                        "Purge",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    2,
+                    18
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "202",
+                "variant": null,
+                "level": 16,
+                "klass": "Spy",
+                "faction": "Cultist",
+                "starting_items": [
+                    [
+                        "Rapier",
+                        false
+                    ],
+                    [
+                        "Short_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    3,
+                    17
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "203",
+                "variant": null,
+                "level": 16,
+                "klass": "Spy",
+                "faction": "Cultist",
+                "starting_items": [
+                    [
+                        "Rapier",
+                        false
+                    ],
+                    [
+                        "Short_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    1,
+                    17
+                ],
+                "starting_traveler": null,
+                "generic": true
             }
         ],
         "regions": [
@@ -2500,6 +2586,11 @@
                 }
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

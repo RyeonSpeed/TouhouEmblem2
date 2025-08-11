@@ -73,7 +73,7 @@
         "wexp_gain": {
             "Dark": [
                 false,
-                71,
+                121,
                 null
             ],
             "Staff": [
@@ -84,6 +84,11 @@
             "Sword": [
                 false,
                 121,
+                null
+            ],
+            "Anima": [
+                false,
+                0,
                 null
             ]
         },

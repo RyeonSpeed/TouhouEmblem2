@@ -33,7 +33,20 @@
                 false
             ]
         ],
-        "learned_skills": [],
+        "learned_skills": [
+            [
+                1,
+                "MakaiMaidMadness"
+            ],
+            [
+                1,
+                "StringsofOumagatoki"
+            ],
+            [
+                1,
+                "HourofDemons"
+            ]
+        ],
         "unit_notes": [],
         "wexp_gain": {
             "Sword": [

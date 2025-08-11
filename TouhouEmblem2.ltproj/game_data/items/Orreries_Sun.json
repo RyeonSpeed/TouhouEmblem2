@@ -2,7 +2,7 @@
     {
         "nid": "Orreries_Sun",
         "name": "Orreries Sun",
-        "desc": "Recurring. Reaver. +3 Def. Prf Mima and Marisa.",
+        "desc": "Recurring. Anti-Fliers. +3 Def. Prf Mima and Marisa.",
         "icon_nid": "the2icons",
         "icon_index": [
             8,
@@ -58,10 +58,6 @@
                 ]
             ],
             [
-                "magic",
-                null
-            ],
-            [
                 "fatigue",
                 1
             ],
@@ -100,6 +96,18 @@
                 {
                     "lose_uses_on_miss": false,
                     "one_loss_per_combat": false
+                }
+            ],
+            [
+                "effective_damage",
+                {
+                    "effective_tags": [
+                        "Flying"
+                    ],
+                    "effective_multiplier": 2.0,
+                    "effective_bonus_damage": 10,
+                    "show_effectiveness_flash": true,
+                    "weapon_effectiveness_multiplied": true
                 }
             ]
         ]

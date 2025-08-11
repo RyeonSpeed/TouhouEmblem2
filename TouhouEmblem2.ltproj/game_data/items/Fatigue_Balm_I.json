@@ -35,6 +35,18 @@
             [
                 "target_ally",
                 null
+            ],
+            [
+                "usable",
+                null
+            ],
+            [
+                "min_range",
+                0
+            ],
+            [
+                "max_range",
+                1
             ]
         ]
     }
