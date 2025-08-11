@@ -12,6 +12,7 @@
             "music;Strawberry Crisis",
             "add_portrait;Chiyuri;Left",
             "speak;Chiyuri;Hmph. I may be rusty, but if it's a fight you want,|it's a fight you'll get!",
+            "remove_portrait;Chiyuri",
             "show_combat_ui"
         ],
         "nid": "6 FightChiyuri"
