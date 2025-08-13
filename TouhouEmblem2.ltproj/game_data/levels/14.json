@@ -2612,6 +2612,69 @@
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": true
+            },
+            {
+                "nid": "202",
+                "variant": null,
+                "level": 19,
+                "klass": "Sniper",
+                "faction": "Cultist",
+                "starting_items": [
+                    [
+                        "Silver_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "203",
+                "variant": null,
+                "level": 16,
+                "klass": "Fencer",
+                "faction": "Cultist",
+                "starting_items": [
+                    [
+                        "Killing_Edge",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "204",
+                "variant": null,
+                "level": 16,
+                "klass": "Fencer",
+                "faction": "Cultist",
+                "starting_items": [
+                    [
+                        "Killing_Edge",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
             }
         ],
         "regions": [
@@ -3220,6 +3283,28 @@
                         11
                     ]
                 }
+            },
+            {
+                "nid": "Cultists",
+                "units": [
+                    "202",
+                    "203",
+                    "204"
+                ],
+                "positions": {
+                    "202": [
+                        16,
+                        2
+                    ],
+                    "203": [
+                        14,
+                        2
+                    ],
+                    "204": [
+                        15,
+                        3
+                    ]
+                }
             }
         ],
         "ai_groups": [
@@ -3241,6 +3326,10 @@
             },
             {
                 "nid": "4",
+                "trigger_threshold": 1
+            },
+            {
+                "nid": "",
                 "trigger_threshold": 1
             }
         ]

@@ -26,8 +26,11 @@
             "autolevel_to;Mai_Boss_2;18;fixed",
             "move_cursor;Yuki_Boss_1",
             "move_cursor;Mai_Boss_2",
+            "if;game.phase.get_current() == 'enemy'",
             "for;Spell;game.level.unit_groups.get('YukiMai').units",
             "    has_finished;{Spell}",
+            "endf",
+            "else",
             "end"
         ],
         "nid": "14 YukiMaiSpell"

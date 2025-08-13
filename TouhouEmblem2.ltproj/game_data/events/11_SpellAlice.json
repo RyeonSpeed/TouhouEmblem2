@@ -21,8 +21,11 @@
             "add_group;Alice2Spell;Alice2Spell;warp;closest",
             "autolevel_to;Alice_Boss_4;19;fixed",
             "move_cursor;Alice_Boss_4",
+            "if;game.phase.get_current() == 'enemy'",
             "for;Spell;game.level.unit_groups.get('Alice2Spell').units",
             "    has_finished;{Spell}",
+            "endf",
+            "else",
             "end"
         ],
         "nid": "11 SpellAlice"

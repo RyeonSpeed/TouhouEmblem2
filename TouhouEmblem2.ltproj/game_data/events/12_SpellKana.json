@@ -21,8 +21,11 @@
             "add_group;KanaSpell;KanaSpell;warp;closest",
             "autolevel_to;Kana_Boss_1;18;fixed",
             "move_cursor;Kana_Boss_1",
+            "if;game.phase.get_current() == 'enemy'",
             "for;Spell;game.level.unit_groups.get('KanaSpell').units",
             "    has_finished;{Spell}",
+            "endf",
+            "else",
             "end"
         ],
         "nid": "12 SpellKana"

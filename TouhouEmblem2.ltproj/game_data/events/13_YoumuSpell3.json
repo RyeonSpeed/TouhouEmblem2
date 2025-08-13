@@ -21,8 +21,11 @@
             "add_group;YoumuPhase4;YoumuPhase4;warp;closest",
             "autolevel_to;Youmu_Boss_3;20;fixed",
             "move_cursor;Youmu_Boss_3",
+            "if;game.phase.get_current() == 'enemy'",
             "for;Spell;game.level.unit_groups.get('YoumuPhase4').units",
             "    has_finished;{Spell}",
+            "endf",
+            "else",
             "end"
         ],
         "nid": "13 YoumuSpell3"

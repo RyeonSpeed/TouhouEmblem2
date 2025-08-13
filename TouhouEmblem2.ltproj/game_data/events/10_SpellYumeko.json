@@ -22,8 +22,11 @@
             "add_group;YumekoSpell;YumekoSpell;warp;closest",
             "autolevel_to;Yumeko_Boss_1;17;fixed",
             "move_cursor;Yumeko_Boss_1",
+            "if;game.phase.get_current() == 'enemy'",
             "for;Spell;game.level.unit_groups.get('YumekoSpell').units",
             "    has_finished;{Spell}",
+            "endf",
+            "else",
             "end"
         ],
         "nid": "10 SpellYumeko"

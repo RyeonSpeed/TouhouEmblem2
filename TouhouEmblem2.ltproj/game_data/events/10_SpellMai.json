@@ -26,7 +26,8 @@
             "flicker_cursor;Reimu",
             "add_portrait;Reimu;Left",
             "speak;Reimu;Brrr...! Who set up this damn blizzard?! We're gonna need to be more careful in a fight...",
-            "remove_portrait;Reimu"
+            "remove_portrait;Reimu",
+            ""
         ],
         "nid": "10 SpellMai"
     }

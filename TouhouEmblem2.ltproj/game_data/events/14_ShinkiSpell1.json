@@ -26,8 +26,11 @@
             "autolevel_to;Yumeko_Boss_2;18;fixed",
             "move_cursor;Shinki_Boss_1",
             "move_cursor;Yumeko_Boss_2",
+            "if;game.phase.get_current() == 'enemy'",
             "for;Spell;game.level.unit_groups.get('Shinki1').units",
             "    has_finished;{Spell}",
+            "endf",
+            "else",
             "end"
         ],
         "nid": "14 ShinkiSpell1"

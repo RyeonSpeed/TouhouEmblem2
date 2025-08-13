@@ -21,8 +21,11 @@
             "add_group;LouiseSpell;LouiseSpell;warp;closest",
             "autolevel_to;Louise_Boss_1;15;fixed",
             "move_cursor;Louise_Boss_1",
+            "if;game.phase.get_current() == 'enemy'",
             "for;Spell;game.level.unit_groups.get('LouiseSpell').units",
             "    has_finished;{Spell}",
+            "endf",
+            "else",
             "end"
         ],
         "nid": "8 SpellLouise"

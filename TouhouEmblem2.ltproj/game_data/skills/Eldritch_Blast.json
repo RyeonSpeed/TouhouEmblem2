@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Eldritch_Blast",
+        "name": "Eldritch Blast",
+        "desc": "Changes attack to be Blast 2 with a range of 3-10. Consumes 4 Soul Charge.",
+        "icon_nid": "skillicons102724(1)",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "condition",
+                "{v:SoulCharge} >= 4"
+            ],
+            [
+                "combat_art_indicator",
+                null
+            ],
+            [
+                "combat_art",
+                "EldritchBlast"
+            ]
+        ]
+    }
+]

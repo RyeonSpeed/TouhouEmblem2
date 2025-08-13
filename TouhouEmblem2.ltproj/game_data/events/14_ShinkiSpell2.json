@@ -26,8 +26,11 @@
             "autolevel_to;Alice_Boss_5;18;fixed",
             "move_cursor;Shinki_Boss_1",
             "move_cursor;Alice_Boss_5",
+            "if;game.phase.get_current() == 'enemy'",
             "for;Spell;game.level.unit_groups.get('Shinki2').units",
             "    has_finished;{Spell}",
+            "endf",
+            "else",
             "end"
         ],
         "nid": "14 ShinkiSpell2"

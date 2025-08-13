@@ -23,6 +23,8 @@
             "move_cursor;Mima",
             "for;Spell;game.level.unit_groups.get('Mima').units",
             "    has_finished;{Spell}",
+            "endf",
+            "else",
             "end"
         ],
         "nid": "14 MimaSpell"

@@ -23,8 +23,14 @@
             "autolevel_to;Sara_Boss_2;18;fixed",
             "autolevel_to;Louise_Boss_2;18;fixed",
             "move_cursor;Shinki_Boss_3",
+            "move_cursor;15,3",
+            "add_group;Cultists;Cultists;warp;closest",
+            "move_cursor;Shinki_Boss_3",
+            "if;game.phase.get_current() == 'enemy'",
             "for;Spell;game.level.unit_groups.get('Shinki3').units",
             "    has_finished;{Spell}",
+            "endf",
+            "else",
             "end"
         ],
         "nid": "14 ShinkiSpell3"
