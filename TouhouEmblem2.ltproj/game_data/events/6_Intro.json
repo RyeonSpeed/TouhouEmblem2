@@ -106,7 +106,7 @@
             "else",
             "end",
             "enable_fog_of_war;t",
-            "set_fog_of_war;gba;6;6;6",
+            "set_fog_of_war;gba;4;4;4",
             "autolevel_to;Kaguya;7;fixed",
             "autolevel_to;Mokou;7;fixed",
             "autolevel_to;Tewi;6;fixed",

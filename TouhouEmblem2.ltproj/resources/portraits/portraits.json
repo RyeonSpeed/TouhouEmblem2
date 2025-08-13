@@ -432,18 +432,6 @@
         "info_offset": 0
     },
     {
-        "nid": "Kogasa",
-        "blinking_offset": [
-            48,
-            24
-        ],
-        "smiling_offset": [
-            24,
-            48
-        ],
-        "info_offset": 0
-    },
-    {
         "nid": "Mima",
         "blinking_offset": [
             40,
@@ -1988,6 +1976,18 @@
         "smiling_offset": [
             24,
             40
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Kogasa",
+        "blinking_offset": [
+            48,
+            24
+        ],
+        "smiling_offset": [
+            24,
+            48
         ],
         "info_offset": 0
     }

@@ -27,110 +27,95 @@
         "tags": [],
         "units": [
             {
-                "nid": "103",
-                "variant": null,
-                "level": 1,
-                "klass": "Archer",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Persecutor",
-                        false
-                    ],
-                    [
-                        "Swordcatcher",
-                        false
-                    ],
-                    [
-                        "Forged_Shield",
-                        false
-                    ],
-                    [
-                        "Short_Spear",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
+                "nid": "Ringo",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    18,
-                    17
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "114",
-                "variant": null,
-                "level": 1,
-                "klass": "Archer",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Misfortune_Amulet",
-                        false
-                    ],
-                    [
-                        "Silencer",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    17,
-                    16
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "Youmu_Boss_3",
-                "team": "enemy",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    17,
+                    14,
                     18
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
-                "nid": "Shinki_Boss",
+                "nid": "101",
+                "variant": null,
+                "level": 1,
+                "klass": "Citizen",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "102",
+                "variant": null,
+                "level": 1,
+                "klass": "Citizen",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Sword",
+                        false
+                    ],
+                    [
+                        "Eye_of_Senri",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    14,
+                    19,
+                    18
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Sakuya",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    15,
                     17
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
-                "nid": "Sayuri",
+                "nid": "Remilia",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    16,
+                    17,
                     16
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
-                "nid": "Kabin",
+                "nid": "Koakuma",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -143,56 +128,58 @@
                 "generic": false
             },
             {
-                "nid": "Miki",
+                "nid": "103",
+                "variant": null,
+                "level": 1,
+                "klass": "Lodestar_S",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Sword",
+                        false
+                    ],
+                    [
+                        "Curry",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Poisoned"
+                ],
                 "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    15,
+                    19
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "104",
+                "variant": null,
+                "level": 1,
+                "klass": "Lodestar_S",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
                     17,
-                    17
+                    19
                 ],
                 "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Yuna",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    19,
-                    16
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Yuika",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    19,
-                    17
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Miu",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    16,
-                    17
-                ],
-                "starting_traveler": null,
-                "generic": false
+                "generic": true
             }
         ],
         "regions": [

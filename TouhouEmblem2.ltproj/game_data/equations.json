@@ -170,5 +170,13 @@
     {
         "nid": "Two",
         "expression": "2"
+    },
+    {
+        "nid": "Twenty",
+        "expression": "20"
+    },
+    {
+        "nid": "TwentyPlusSkill",
+        "expression": "20 + SKL"
     }
 ]
