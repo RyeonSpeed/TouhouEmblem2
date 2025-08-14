@@ -34,16 +34,12 @@
                 "unit.get_stat('STR') * 0.5"
             ],
             [
-                "modify_maximum_range",
-                5
-            ],
-            [
-                "event_before_combat",
-                "Global BleedApply"
-            ],
-            [
                 "cannot_double",
                 null
+            ],
+            [
+                "item_override",
+                "Spear_The_Gungnir"
             ]
         ]
     }

@@ -83,7 +83,7 @@
                 "ai_group": "",
                 "starting_position": [
                     19,
-                    18
+                    19
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -108,8 +108,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    17,
-                    16
+                    21,
+                    19
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -121,8 +121,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    18,
-                    16
+                    22,
+                    19
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -176,6 +176,30 @@
                 "ai_group": "",
                 "starting_position": [
                     17,
+                    19
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "105",
+                "variant": null,
+                "level": 1,
+                "klass": "Lodestar_S",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    18,
                     19
                 ],
                 "starting_traveler": null,

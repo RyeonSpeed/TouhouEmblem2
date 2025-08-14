@@ -2108,7 +2108,7 @@
             {
                 "nid": "Yumeko_Boss_1",
                 "team": "enemy",
-                "ai": "None",
+                "ai": "Pursue",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
