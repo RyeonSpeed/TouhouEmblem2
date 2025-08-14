@@ -1,8 +1,8 @@
 [
     {
-        "name": "Intro",
+        "name": "Intro_1",
         "trigger": "level_start",
-        "level_nid": "8",
+        "level_nid": "9",
         "condition": "True",
         "commands": [],
         "only_once": false,
@@ -135,7 +135,7 @@
             "speak;;My, perhaps there is room for one more.",
             "bop_portrait;Reimu",
             "speak;Reimu;I swear, the next person who does this is going to-",
-            "speak;Marisa;...",
+            "speak;Marisa;...;;;;no_talk",
             "multi_remove_portrait;Reimu;Marisa;Kasen",
             "",
             "music_clear",
@@ -193,6 +193,6 @@
             "prep;1;Sealed Gods",
             "speak;;This map's clear bonus is 500 Bonus EXP, with a decrease of 100 BExp per turn you take over 15 turns!;;;hint"
         ],
-        "nid": "8 Intro"
+        "nid": "9 Intro_1"
     }
 ]
