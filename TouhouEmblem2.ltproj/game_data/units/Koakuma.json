@@ -3,7 +3,7 @@
         "nid": "Koakuma",
         "name": "Koakuma",
         "desc": "A servant of the Scarlet Devil Mansion. She's mostly found helping out Patchouli in her library.",
-        "variant": null,
+        "variant": "Koakuma",
         "level": 1,
         "klass": "Demon",
         "tags": [],

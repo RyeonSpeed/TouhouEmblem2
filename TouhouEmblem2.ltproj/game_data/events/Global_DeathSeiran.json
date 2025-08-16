@@ -9,7 +9,7 @@
         "priority": 20,
         "_source": [
             "add_portrait;Seiran;FarRight",
-            "speak;Seiran;*Sob* I knew I was way in over my head.",
+            "speak;Seiran;*sob* I knew I was way in over my head.",
             "expression;Sunny;CloseEyes",
             "remove_portrait;Seiran"
         ],

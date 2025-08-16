@@ -300,7 +300,6 @@
     "TokikoPeg",
     "KogasaPeg",
     "Demon_Generic",
-    "Demon_Koakuma",
     "Fencer_GenericBlue",
     "Fencer_GenericRed",
     "Fencer_Hanae",
@@ -332,7 +331,6 @@
     "Pirate_GenericBlue",
     "Pirate_GenericRed",
     "Pirate_Rin",
-    "New_Palette_2",
     "InstantFGHit_Image_3",
     "InstantFGMiss_Image_3",
     "ReisenArcher",
@@ -415,5 +413,6 @@
     "BoltingStart_Image",
     "SniperFemale_GenericBlue",
     "SniperFemale_GenericRed",
-    "SniperFemale_Mamizou"
+    "SniperFemale_Mamizou",
+    "Demon_Koakuma"
 ]

@@ -14,7 +14,9 @@
             "choice;RinnosukeServices;What do you need?;Shop,Bonus Exp;backable",
             "if;'{v:RinnosukeServices}' == 'Shop'",
             "game_var;tiddies;v('ARMORY_ENTRY').sort(key=lambda item: [item.nid for item in DB.items].index(item) or 0)",
+            "music;Armory",
             "shop;{unit1};{e:','.join(v('ARMORY_ENTRY'))};armory",
+            "music_fade_back",
             "elif;'{v:RinnosukeServices}' == 'Bonus Exp'",
             "open_bexp_menu",
             "end"

@@ -9,7 +9,7 @@
         "priority": 20,
         "_source": [
             "add_portrait;Youmu;FarRight",
-            "speak;Youmu;Not enough... forgive me, Lady Yuyuko.",
+            "speak;Youmu;Not enough...forgive me, Lady Yuyuko.",
             "expression;Youmu;CloseEyes",
             "remove_portrait;Youmu"
         ],

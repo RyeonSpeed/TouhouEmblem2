@@ -8,12 +8,6 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "change_music;player_phase;Strawberry Crisis",
-            "change_music;player_battle;Strawberry Crisis",
-            "change_music;enemy_phase;Strawberry Crisis",
-            "change_music;enemy_battle;Strawberry Crisis",
-            "change_music;enemy2_phase;Strawberry Crisis",
-            "change_music;enemy2_battle;Strawberry Crisis",
             "add_portrait;Shinki;Left",
             "speak;;Hour of Demons: Oumagatoki;center;130;hint;;red;;;1;;;;;Warp",
             "speak;Shinki;Demons of Makai, march to the aid of your master!",

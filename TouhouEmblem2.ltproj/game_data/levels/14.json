@@ -5,7 +5,15 @@
         "tilemap": "New Tilemap_10",
         "bg_tilemap": null,
         "party": "Reimu",
-        "music": {},
+        "music": {
+            "enemy_phase": "Legendary Illusion",
+            "player_phase": "Legendary Illusion",
+            "player_battle": "Legendary Illusion",
+            "enemy_battle": "Legendary Illusion",
+            "boss_battle": "Last Judgement",
+            "other_phase": "Legendary Illusion",
+            "other_battle": "Legendary Illusion"
+        },
         "objective": {
             "simple": "Defeat Shinki",
             "win": "Defeat Shinki",
