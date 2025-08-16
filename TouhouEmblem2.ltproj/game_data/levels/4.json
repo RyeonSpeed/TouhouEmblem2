@@ -1982,6 +1982,40 @@
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": true
+            },
+            {
+                "nid": "SigmaRaven",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "178",
+                "variant": null,
+                "level": 1,
+                "klass": "Wind_Priestess",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Curry",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    8,
+                    26
+                ],
+                "starting_traveler": null,
+                "generic": true
             }
         ],
         "regions": [
@@ -2524,6 +2558,24 @@
                 "only_once": true,
                 "interrupt_move": false,
                 "hide_time": false
+            },
+            {
+                "nid": "ShrigmaRaven",
+                "region_type": "event",
+                "position": [
+                    0,
+                    25
+                ],
+                "size": [
+                    3,
+                    2
+                ],
+                "sub_nid": "Investigate",
+                "condition": "True",
+                "time_left": null,
+                "only_once": true,
+                "interrupt_move": false,
+                "hide_time": false
             }
         ],
         "unit_groups": [
@@ -2714,6 +2766,18 @@
                     "177": [
                         0,
                         9
+                    ]
+                }
+            },
+            {
+                "nid": "SigmaRaven",
+                "units": [
+                    "SigmaRaven"
+                ],
+                "positions": {
+                    "SigmaRaven": [
+                        1,
+                        25
                     ]
                 }
             }
