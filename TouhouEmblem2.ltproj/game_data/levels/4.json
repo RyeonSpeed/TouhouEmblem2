@@ -1992,30 +1992,6 @@
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
-            },
-            {
-                "nid": "178",
-                "variant": null,
-                "level": 1,
-                "klass": "Wind_Priestess",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Curry",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    8,
-                    26
-                ],
-                "starting_traveler": null,
-                "generic": true
             }
         ],
         "regions": [

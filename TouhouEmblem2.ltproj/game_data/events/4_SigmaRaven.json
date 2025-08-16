@@ -10,7 +10,7 @@
         "_source": [
             "add_portrait;{unit};Right",
             "add_portrait;SigmaRaven;Left",
-            "speak;SigmaRaven;What the hell do you want? I'm trying to enjoy some fresh rabbit meat here.",
+            "speak;SigmaRaven;What the hell do you want? I'm trying to enjoy some totally-not-rabbit meat here.",
             "speak;SigmaRaven;*sniff* Is that...curry? Japanese curry? Nevermind, give me some of that.",
             "speak;SigmaRaven;Join you? Do you think I'm that cheap?",
             "wait;10000",
