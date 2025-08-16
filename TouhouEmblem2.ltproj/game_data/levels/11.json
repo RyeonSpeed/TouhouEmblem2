@@ -2004,7 +2004,7 @@
                 "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Axebane",
+                        "Steel_Sword",
                         false
                     ]
                 ],
@@ -3026,6 +3026,11 @@
                 }
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]
