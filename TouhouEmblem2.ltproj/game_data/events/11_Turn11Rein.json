@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Turn11Rein",
+        "trigger": "turn_change",
+        "level_nid": "11",
+        "condition": "game.turncount == 11",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_group;Turn11Rein;Turn11Rein;warp;closest",
+            "move_cursor;182"
+        ],
+        "nid": "11 Turn11Rein"
+    }
+]

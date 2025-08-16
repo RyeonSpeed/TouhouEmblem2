@@ -1990,5 +1990,29 @@
             48
         ],
         "info_offset": 0
+    },
+    {
+        "nid": "Seiran_1",
+        "blinking_offset": [
+            32,
+            32
+        ],
+        "smiling_offset": [
+            32,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Narumi",
+        "blinking_offset": [
+            32,
+            40
+        ],
+        "smiling_offset": [
+            32,
+            56
+        ],
+        "info_offset": 0
     }
 ]

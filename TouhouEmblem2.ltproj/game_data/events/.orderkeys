@@ -206,6 +206,9 @@
     "11_House",
     "11_Per4Rein",
     "11_Turn5Rein",
+    "11_Turn8Rein",
+    "11_Turn11Rein",
+    "11_Turn15Rein",
     "11_Rout",
     "Global_Puppet_Assault",
     "Global_Puppet_Assault_1",
@@ -476,5 +479,6 @@
     "Global_Curry",
     "Global_SoulCharge1",
     "Special_New_Event",
-    "14_SpellMusic"
+    "14_SpellMusic",
+    "4_SigmaRaven"
 ]
