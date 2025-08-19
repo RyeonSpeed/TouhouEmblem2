@@ -18,7 +18,7 @@
         "name": "Weapons",
         "title": "Weapon Stats and Tags",
         "category": "Guide",
-        "text": "Weapon Stats{br}Weapons have various stats in their description.\nDurability: The number next to the weapon that displays as x/x is the durability of the weapon. Each weapon loses one durability per use. A weapon with no durability is broken and cannot be used anymore. Weapons with --/-- durability have infinite uses. Weapons with x/-- have a limited number of uses per chapter.\nWeapon Icon: Shows what type of weapon it is. Also has a letter called the Weapon Rank, which identifies how much Weapon Experience a unit needs to wield the weapon. Weapons with a \"Prf\" weapon rank are locked to certain units as described.\nMinimum Weapon Experience Needed To Wield Weapon:{br}[S: 251]{br}[A: 181]{br}[B: 121]{br}[C: 71]{br}[D: 31]{br}[E: 1]\nRng: Range. This shows up to how many tiles forward a weapon can attack.\nWt: Weight. This is the speed penalty imposed on a unit for wielding the weapon. This is counteracted with the Con stat. The speed penalty for a weapon can be calculated with (Con - Wt).\nMt: Might. This is how much damage the weapon does at base, not counting any other calculations.\nHit: Hit Rate. This is the base hit rate of the weapon, not counting any other calculations.\nCrit: Crit Rate. This is the base crit rate of the weapon, not counting any other calculations. If a weapon has no crit rate, it cannot make a critical hit.\nTags{br}Weapons have brief tags in their description that allow you to quickly identify what bonus abilities a weapon has.\nArmorpiercing: Weapon does bonus damage against enemies with the tag \"Armor\".\nAnti-Mounted: Weapon does bonus damage against enemies with the tag \"Horse\".\nBeastkiller: Weapon does bonus damage against enemies with the tag \"Beast\".\nAnti-Monstrous: Weapon does bonus damage against enemies with the tag \"Monster\".\nAnti-Fliers: Weapon does bonus damage against enemies with the tag \"Flier\".\nMagicbuster: Weapon does bonus damage against enemies with the tag \"Magic\".\nBrave: Weapon can attack twice as much as usual.\nDevil: Weapon has a (31 - Lck)% chance of backfiring and dealing damage to the wielder as well. This does not affect Monster units.\nReaver: Weapon reverses the effects of the weapon triangle.\nPhysical: This weapon which belongs to a usually magical weapon type now scales off of the user's STR stat and the enemy's DEF stat.\nMagic: This weapon which belongs to a usually physical weapon type now scales off of the user's MAG stat and the enemy's RES stat.\nPoisonous: This weapon inflicts Poisoned on the enemy after combat.\nPrf (Unit): This weapon is locked to the unit mentioned. (For example, \u2606Reimu weapons are locked to Reimu).\nRecurring: This weapon has a certain amount of uses per chapter and recharges said uses at the start of next chapter."
+        "text": "Weapon Stats{br}Weapons have various stats in their description.\nDurability: The number next to the weapon that displays as x/x is the durability of the weapon. Each weapon loses one durability per use. \nA weapon with no durability is broken and cannot be used anymore. Weapons with --/-- durability have infinite uses. Weapons with x/-- have a limited number of uses per chapter.\nWeapon Icon: Shows what type of weapon it is. Also has a letter called the Weapon Rank, which identifies how much Weapon Experience a unit needs to wield the weapon. \nWeapons with a \"Prf\" weapon rank are locked to certain units as described.\nMinimum Weapon Experience Needed To Wield Weapon:{br}[S: 251]{br}[A: 181]{br}[B: 121]{br}[C: 71]{br}[D: 31]{br}[E: 1]\nRng: Range. This shows up to how many tiles forward a weapon can attack.\nWt: Weight. This is the speed penalty imposed on a unit for wielding the weapon. This is counteracted with the Con stat. The speed penalty for a weapon can be calculated with (Con - Wt).\nMt: Might. This is how much damage the weapon does at base, not counting any other calculations.\nHit: Hit Rate. This is the base hit rate of the weapon, not counting any other calculations.\nCrit: Crit Rate. This is the base crit rate of the weapon, not counting any other calculations. If a weapon has no crit rate, it cannot make a critical hit.\nTags{br}Weapons have brief tags in their description that allow you to quickly identify what bonus abilities a weapon has.\nArmorpiercing: Weapon does bonus damage against enemies with the tag \"Armor\".\nAnti-Mounted: Weapon does bonus damage against enemies with the tag \"Horse\".\nBeastkiller: Weapon does bonus damage against enemies with the tag \"Beast\".\nAnti-Monstrous: Weapon does bonus damage against enemies with the tag \"Monster\".\nAnti-Fliers: Weapon does bonus damage against enemies with the tag \"Flier\".\nMagicbuster: Weapon does bonus damage against enemies with the tag \"Magic\".\nBrave: Weapon can attack twice as much as usual.\nDevil: Weapon has a (31 - Lck)% chance of backfiring and dealing damage to the wielder as well. This does not affect Monster units.\nReaver: Weapon reverses the effects of the weapon triangle.\nPhysical: This weapon which belongs to a usually magical weapon type now scales off of the user's STR stat and the enemy's DEF stat.\nMagic: This weapon which belongs to a usually physical weapon type now scales off of the user's MAG stat and the enemy's RES stat.\nPoisonous: This weapon inflicts Poisoned on the enemy after combat.\nPrf (Unit): This weapon is locked to the unit mentioned. (For example, Prf Reimu weapons are locked to Reimu).\nRecurring: This weapon has a certain amount of uses per chapter and recharges said uses at the start of next chapter."
     },
     {
         "nid": "Prf_Weapons",
@@ -39,28 +39,28 @@
         "name": "Wpn Triangle",
         "title": "Weapon Triangle",
         "category": "Guide",
-        "text": "The weapon triangle is a rock-paper-scissors system in Fire Emblem that means that different types of weapons have advantage over others. There are technically two triangles, the Weapon Triangle and Trinity of Magic, but the concept as a whole is called the \"Weapon Triangle\". Bows and Staves are exempt from this system.\nWeapon Triangle{br}The weapon triangle between swords/lances/axes has a 3 DMG/15 Hit Advantage/Disadvantage to the weapon with the Advantage/Disadvantage.{br}Swords beat Axes{br}Axes beat Lances{br}Lances beat Swords\nTrinity of Magic{br}The trinity of magic between anima/light/dark also has a 3 DMG/15 Hit Advantage/Disadvantage to the weapon with the Advantage/Disadvantage.{br}Anima beats Light{br}Light beats Dark{br}Dark beats Anima"
+        "text": "The weapon triangle is a rock-paper-scissors system in Fire Emblem that means that different types of weapons have advantage over others. \nThere are technically two triangles, the Weapon Triangle and Trinity of Magic, but the concept as a whole is called the \"Weapon Triangle\". Bows and Staves are exempt from this system.\nWeapon Triangle{br}The weapon triangle between swords/lances/axes has a 3 DMG/15 Hit Advantage/Disadvantage to the weapon with the Advantage/Disadvantage.{br}\nSwords beat Axes{br}Axes beat Lances{br}Lances beat Swords\nTrinity of Magic{br}The trinity of magic between anima/light/dark also has a 3 DMG/15 Hit Advantage/Disadvantage to the weapon with the Advantage/Disadvantage.{br}\nAnima beats Light{br}Light beats Dark{br}Dark beats Anima"
     },
     {
         "nid": "Effective_Damage",
         "name": "Effective Dmg",
         "title": "Effective Damage",
         "category": "Guide",
-        "text": "Some weapons will have tags like \"Anti-Monstrous\" or \"Armorpiercing\" which means that they deal effective damage against targets with certain tags. Effective Damage generally increases damage greatly by an amount and also multiplies damage done. Generally, bringing effective weaponry around is the greatest way to deal with certain issues or speed up your pace in a map."
+        "text": "Some weapons will have tags like \"Anti-Monstrous\" or \"Armorpiercing\" which means that they deal effective damage against targets with certain tags. \nEffective Damage generally increases damage greatly by an amount and also multiplies damage done. \nGenerally, bringing effective weaponry around is the greatest way to deal with certain issues or speed up your pace in a map."
     },
     {
         "nid": "Movement_Types",
         "name": "Movement",
         "title": "Movement Types",
         "category": "Guide",
-        "text": "Obviously, a horse can't swim. Unless it's a kelpie, of course, but that's irrelevant. Generally, speaking, certain movement types will have more or less trouble traversing certain environments. The most important ones to remember are that fliers can cross most terrain, magic users are unhindered by sand, and certain classes like Berserkers can traverse mountains slowly.\nTerrain on the battlefield has different qualities too, and may give certain stat bonuses or penalties. Fliers are generally exempt from these bonuses and penalties. For example, Forests give +1 Def and +20 Avoid, but slow down the movement of non-flying units. You can check this bonus by hovering over a tile and looking at the bottom left corner of the screen."
+        "text": "Obviously, a horse can't swim. Unless it's a kelpie, of course, but that's irrelevant. Generally, speaking, certain movement types will have more or less trouble traversing certain environments. \nThe most important ones to remember are that fliers can cross most terrain, magic users are unhindered by sand, and certain classes like Berserkers can traverse mountains slowly.\nTerrain on the battlefield has different qualities too, and may give certain stat bonuses or penalties. Fliers are generally exempt from these bonuses and penalties. \nYou can check this bonus by hovering over a tile and looking at the bottom left corner of the screen."
     },
     {
         "nid": "Growths",
         "name": "Growths",
         "title": "Growths",
         "category": "Guide",
-        "text": "Growth rates are an important part of each character, and are a big part (BUT NOT THE END-ALL-BE-ALL) of defining their viability. Growths can be accessed by pressing whatever key/button is your SELECT key while on the character's stat screen. Growths usually come in a two digit number like 50 or 60 that represent the percentage chance a character is to gain that stat on a level-up. \nGrowths over 100, like 105, have a 100% chance to level the stat once on level-up and a 5% additional chance to level it up 2 times. Looking at growths can give you a general idea of how a character will grow and what stats they will trend to. Just remember that everything is up to the whims of RNG."
+        "text": "Growth rates are an important part of each character, and are a big part (BUT NOT THE END-ALL-BE-ALL) of defining their viability. \nGrowths can be accessed by pressing whatever key/button is your SELECT key while on the character's stat screen. \nGrowths usually come in a two digit number like 50 or 60 that represent the percentage chance a character is to gain that stat on a level-up. \nGrowths over 100, like 105, have a 100% chance to level the stat once on level-up and a 5% additional chance to level it up 2 times. \nLooking at growths can give you a general idea of how a character will grow and what stats they will trend to. Just remember that everything is up to the whims of RNG."
     },
     {
         "nid": "Supports",
@@ -74,7 +74,7 @@
         "name": "Rescue",
         "title": "Rescue",
         "category": "Guide",
-        "text": "Rescue is a function that basically all units can do which allows them to absorb a unit into them and carry them around. Rescuing can be used to save a unit from being killed once enemy phase rolls around, or can be used to ferry units around the battlefield. \nUnits who are rescuing another unit receive penalties to their Skl and Spd, which can make them vulnerable to attack.\nThere are certain restrictions to who a unit can rescue. A unit can only rescue other units if the unit being rescued has a Con stat equal or lower than the rescuer's Aid stat (calculated using Con - 1 for infantry, and 25 - Con for mounted/flying units)."
+        "text": "Rescue is a function that basically all units can do which allows them to absorb a unit into them and carry them around. \nRescuing can be used to save a unit from being killed once enemy phase rolls around, or can be used to ferry units around the battlefield. \nUnits who are rescuing another unit receive penalties to their Skl and Spd, which can make them vulnerable to attack.\nThere are certain restrictions to who a unit can rescue. A unit can only rescue other units if the unit being rescued has a Con stat equal or lower than the rescuer's Aid stat (calculated using Con - 1 for infantry, and 25 - Con for mounted/flying units)."
     },
     {
         "nid": "Lockpicking",
@@ -95,21 +95,21 @@
         "name": "Villages",
         "title": "Villages",
         "category": "Guide",
-        "text": "Villages and houses can be found throughout Gensokyo and can be visited for rewards. Rewards can be anything from items to important information, so it is always worth visiting a house/village just in case it might have something. Brigands and thieves on certain maps may race towards a village and burn it down if you are not quick enough to intercept them, depriving you of the rewards."
+        "text": "Villages and houses can be found throughout Gensokyo and can be visited for rewards. Rewards can be anything from items to important information, so it is always worth visiting a house/village just in case it might have something. \n\nBrigands and thieves on certain maps may race towards a village and burn it down if you are not quick enough to intercept them, depriving you of the rewards."
     },
     {
         "nid": "Fog_of_War",
         "name": "Fog of War",
         "title": "Fog of War",
         "category": "Guide",
-        "text": "Some maps may have this thing called Fog of War which hinders your ability to see all of the map. In Fog of War, you will have to play more carefully considering you don't know what lies around the corner. Luckily, certain items and accessories help your range of vision in fog of war and may allow you to get better recon, limiting your risk. Units that can lockpick also have good eyesight and can see further in the Fog of War."
+        "text": "Some maps may have this thing called Fog of War which hinders your ability to see all of the map. In Fog of War, you will have to play more carefully considering you don't know what lies around the corner. \nLuckily, certain items and accessories help your range of vision in fog of war and may allow you to get better recon, limiting your risk. Units that can lockpick also have good eyesight and can see further in the Fog of War."
     },
     {
         "nid": "Combat_Arts",
         "name": "Combat Arts",
         "title": "Combat Arts",
         "category": "Guide",
-        "text": "Combat Arts are special skills possessed by certain characters which allow them to perform an alternate, usually more powerful attack. Combat Arts require you to enter combat to build up their charge to replenish their use, so active use of a unit will help you more effectively build up their Combat Art."
+        "text": "Combat Arts are special skills possessed by certain characters which allow them to perform an alternate, usually more powerful attack. \nCombat Arts require you to enter combat to build up their charge to replenish their use, so active use of a unit will help you more effectively build up their Combat Art."
     },
     {
         "nid": "Bonus_Experience",
@@ -186,14 +186,14 @@
         "name": "Reimu",
         "title": "Reimu",
         "category": "Character",
-        "text": "Name: Reimu Hakurei{br}Species: Human{br}The shrine maiden of Hakurei Shrine, and one of the protagonists of this adventure. She has a shifting personality based on her \nwhims, but she can generally be characterized as straightforward and somewhat selfish.\nReimu acts as a standard magic user, being physically frail with middling Spd, but generally fairly good Mag. Her personal skill, Natural Talent, doesn't really help her much early on, but can be impactful later. \nReimu also has access to the Combat Art \"Homing Shot\", which allows her to tackle some more pesky enemies that have high Avoid."
+        "text": "Name: Reimu Hakurei{br}Species: Human{br}The shrine maiden of Hakurei Shrine, and one of the protagonists of this adventure. She has a shifting personality based on her \nwhims, but she can generally be characterized as straightforward and somewhat selfish.\nReimu is a semi-frail magic user who dishes out great damage and is good for anti-monster and anti-cavalry measures with her Sealing Needle.\nReimu's Barrier Warp allows her to swap places with an enemy within 5 tiles, allowing for neat positional advantages.\nReimu's Homing Shot is a great bosskilling tool and good for dealing with pesky high avoid bosses."
     },
     {
         "nid": "Marisa",
         "name": "Marisa",
         "title": "Marisa",
         "category": "Character",
-        "text": "Name: Marisa Kirisame{br}Hobby: Stealing, Magic{br}An ordinary human magician. The deuteragonist of this adventure. She's a gregarious, informal and deceptive individual, but is ultimately \nvery hardworking and relies on effort over talent. However, being hardworking doesn't stop her from committing various acts of theft.\nMarisa has access to a few neat tools, foremost of which being her unique accessory: Tabula Rasa, which allows her to copy any tome and gain a single use of it. This has tons of potential to allow Marisa to become a single target nuke, or get herself out of a sticky situation, so keep your eyes out for any high ranking tomes. \nBeyond that, Marisa's Star Laser has pretty good function as an AoE attack to soften up or pick off a few weakened enemies."
+        "text": "Name: Marisa Kirisame{br}Hobby: Stealing, Magic{br}An ordinary human magician. The deuteragonist of this adventure. She's a gregarious, informal and deceptive individual, but is ultimately \nvery hardworking and relies on effort over talent. However, being hardworking doesn't stop her from committing various acts of theft.\nMarisa has access to a few neat tools, foremost of which being her unique accessory: Tabula Rasa, which allows her to copy any tome and gain a single use of it. \nThis has tons of potential to allow Marisa to become a single target nuke, or get herself out of a sticky situation, so keep your eyes out for any high ranking tomes. \nBeyond that, Marisa's Star Laser has pretty good function as an AoE attack to soften up or pick off a few weakened enemies."
     },
     {
         "nid": "Kasen",
@@ -221,7 +221,7 @@
         "name": "Remilia",
         "title": "Remilia",
         "category": "Character",
-        "text": "Name: Remilia Scarlet{br}Number of bloodsucking victims: 13{br}The mistress of the Scarlet Devil Mansion. She acts frequently on pangs of boredom, much like a petulant, bored child. \nWell, the difference is that this child is a powerful vampire.\nRemilia is a pretty standard infantry unit, possessing a neat tech in the \"Bloodsucker\" Combat Art, which allows her to drain HP from a unit during combat. \nHer strength, however, lies in the fact that you can use her \"Controller of Fate\" ability to turn back the clock on your actions up to 3 times a map. "
+        "text": "Name: Remilia Scarlet{br}Number of bloodsucking victims: 13{br}The mistress of the Scarlet Devil Mansion. She acts frequently on pangs of boredom, much like a petulant, bored child. \nWell, the difference is that this child is a powerful vampire.\nRemilia's playstyle surrounds attacking units at high HP so she can inflict Bleed, powering up her Combat Art.\nHer true strength, however, lies in the fact that you can use her \"Controller of Fate\" ability to turn back the clock on your actions up to 3 times a map. "
     },
     {
         "nid": "Suika",
@@ -249,7 +249,7 @@
         "name": "Tokiko",
         "title": "Tokiko",
         "category": "Character",
-        "text": "Name: Tokiko{br}\n\nAs a flier, Tokiko has amazing utility in being able to be basically anywhere on the map in a quick time, alongside rescuing and ferrying units where they need to be. \nBeyond this, Tokiko's skill \"Knowledge is Power\" allows you to more efficiently train up weapon exp."
+        "text": "Name: Tokiko{br}\n\nAs a flier, Tokiko has amazing utility in being able to be basically anywhere on the map in a quick time, alongside rescuing and ferrying units where they need to be. \nBeyond this, Tokiko's skill \"Knowledge is Power\" allows you to more efficiently train up weapon exp.\nTokiko's Nature vs Nurture ability allows her to be very customizable with her growths depending on where you want to take her."
     },
     {
         "nid": "Letty",
@@ -284,14 +284,14 @@
         "name": "Wriggle",
         "title": "Wriggle",
         "category": "Character",
-        "text": "Name: Wriggle Nightbug{br}Friend count: In the millions{br}The leader of the bugs in Gensokyo, but she\u2019s just a weak firefly youkai. She gets mad when bugs are disrespected though, so it\u2019s better not to anger her. Roach infestation isn\u2019t fun, kids.\nIn contrast to Aunn, Wriggle is a faster but frailer Lance Cav who takes more of an offensive approach, being a better player phase duelist at the expense of a lot of defense. \nHowever, Wriggle excels at hit and run tactics, with her Combat Art, infest, slowing down a unit's movement and allowing her to attack a unit and then ride off elsewhere. "
+        "text": "Name: Wriggle Nightbug{br}Friend count: In the millions{br}The leader of the bugs in Gensokyo, but she\u2019s just a weak firefly youkai. She gets mad when bugs are disrespected though, so it\u2019s better not to anger her. Roach infestation isn\u2019t fun, kids.\nIn contrast to Aunn, Wriggle is a faster but frailer Lance Cav who takes more of an offensive approach, being a better player phase duelist at the expense of a lot of defense. \nHowever, Wriggle excels at hit and run tactics, with her Combat Art, Infest, slowing down a unit's movement and allowing her to attack a unit and then ride off elsewhere. "
     },
     {
         "nid": "Sunny",
         "name": "Sunny",
         "title": "Sunny",
         "category": "Character",
-        "text": "Name: Sunny Milk{br}Woke up at: 12:00 pm{br} A member of the trio of the Fairies of Light, she acts as the leader of the group. She is a typical fairy, mischievous, reckless and prank-loving. Her power is to bend light to hide herself or see objects outside of her vision.\nSunny is a character mostly focused on countering mages and stealing. As a more support oriented character, she will be perfect for allowing you to steal items off of the enemy, paired with her high movement and speed."
+        "text": "Name: Sunny Milk{br}Woke up at: 12:00 pm{br} A member of the trio of the Fairies of Light, she acts as the leader of the group. She is a typical fairy, mischievous, reckless and prank-loving. Her power is to bend light to hide herself or see objects outside of her vision.\nSunny is a character mostly focused on countering mages and stealing. As a more support oriented character, she will be perfect for allowing you to steal items off of the enemy, paired with her high movement and speed.\nSunny can also \"Vanish\", allowing her to sneak off and do some side objectives while your main party fights."
     },
     {
         "nid": "Star",
