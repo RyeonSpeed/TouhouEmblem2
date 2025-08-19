@@ -6,8 +6,11 @@
         "bg_tilemap": null,
         "party": "Reimu",
         "music": {
-            "player_phase": "Ultimate Truth",
-            "player_battle": "Ultimate Truth"
+            "player_phase": "Hiroari",
+            "player_battle": "Hiroari",
+            "enemy_phase": "Hiroari",
+            "enemy_battle": "Hiroari",
+            "boss_battle": "Hiroari"
         },
         "objective": {
             "simple": "Defeat Youmu",

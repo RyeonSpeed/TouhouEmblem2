@@ -1416,18 +1416,6 @@
         "info_offset": 0
     },
     {
-        "nid": "seiran",
-        "blinking_offset": [
-            32,
-            32
-        ],
-        "smiling_offset": [
-            32,
-            48
-        ],
-        "info_offset": 0
-    },
-    {
         "nid": "zun_cultist",
         "blinking_offset": [
             24,
@@ -1992,7 +1980,7 @@
         "info_offset": 0
     },
     {
-        "nid": "Seiran_1",
+        "nid": "Seiran",
         "blinking_offset": [
             32,
             32

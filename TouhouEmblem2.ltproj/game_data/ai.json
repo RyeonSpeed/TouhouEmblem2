@@ -762,7 +762,7 @@
         "nid": "RedEscape",
         "behaviours": [
             {
-                "action": "Interact",
+                "action": "Move_to",
                 "target": "Event",
                 "target_spec": "Red_Escape",
                 "view_range": -4,
@@ -772,9 +772,9 @@
                 "condition": ""
             },
             {
-                "action": "Move_to",
+                "action": "Interact",
                 "target": "Event",
-                "target_spec": "Red_Escape",
+                "target_spec": "Escape",
                 "view_range": -4,
                 "invert_targeting": false,
                 "roam_speed": 100,

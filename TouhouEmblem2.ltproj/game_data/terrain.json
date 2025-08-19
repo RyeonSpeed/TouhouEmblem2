@@ -405,6 +405,21 @@
         "status": "Peak"
     },
     {
+        "nid": "S_21",
+        "name": "Mountain",
+        "color": [
+            161,
+            147,
+            130
+        ],
+        "minimap": "Mountain",
+        "platform": "SnowyMountain",
+        "background": "combat_snowy_hill",
+        "mtype": "Mountain",
+        "opaque": false,
+        "status": "Peak"
+    },
+    {
         "nid": "22",
         "name": "Cliff",
         "color": [
@@ -760,6 +775,21 @@
         "minimap": "Floor",
         "platform": "Floor",
         "background": "combat_hill",
+        "mtype": "Normal",
+        "opaque": false,
+        "status": null
+    },
+    {
+        "nid": "S_42",
+        "name": "Stairs",
+        "color": [
+            81,
+            81,
+            81
+        ],
+        "minimap": "Floor",
+        "platform": "Floor",
+        "background": "combat_snowy_hill",
         "mtype": "Normal",
         "opaque": false,
         "status": null
