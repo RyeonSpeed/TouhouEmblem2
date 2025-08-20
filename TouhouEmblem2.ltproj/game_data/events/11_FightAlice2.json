@@ -5,7 +5,7 @@
         "level_nid": "11",
         "condition": "unit.nid == \"Alice_Boss_3\" or unit2.nid == \"Alice_Boss_3\"",
         "commands": [],
-        "only_once": false,
+        "only_once": true,
         "priority": 20,
         "_source": [
             ""

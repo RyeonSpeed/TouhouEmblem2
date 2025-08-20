@@ -2205,11 +2205,11 @@
                 "nid": "163",
                 "variant": null,
                 "level": 15,
-                "klass": "Guard",
+                "klass": "Kappa_Mech",
                 "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Pilum",
+                        "Ballista",
                         false
                     ]
                 ],
@@ -2226,11 +2226,11 @@
                 "nid": "164",
                 "variant": null,
                 "level": 15,
-                "klass": "Guard",
+                "klass": "Kappa_Mech",
                 "faction": "Insurgents",
                 "starting_items": [
                     [
-                        "Pilum",
+                        "Ballista",
                         false
                     ]
                 ],
@@ -2763,16 +2763,16 @@
                     "164"
                 ],
                 "positions": {
-                    "Sara_Boss_1": [
-                        18,
+                    "163": [
+                        13,
                         3
                     ],
-                    "163": [
-                        17,
-                        3
+                    "Sara_Boss_1": [
+                        14,
+                        11
                     ],
                     "164": [
-                        19,
+                        23,
                         3
                     ]
                 }

@@ -25,10 +25,6 @@
                         -4
                     ]
                 ]
-            ],
-            [
-                "condition",
-                "unit.equipped_accessory.data['uses'] > 0"
             ]
         ]
     }

@@ -130,8 +130,8 @@
             {
                 "nid": "103",
                 "variant": null,
-                "level": 1,
-                "klass": "Lodestar_S",
+                "level": 40,
+                "klass": "Sniper",
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -158,54 +158,6 @@
                 "generic": true
             },
             {
-                "nid": "104",
-                "variant": null,
-                "level": 1,
-                "klass": "Lodestar_S",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Iron_Sword",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    17,
-                    19
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "105",
-                "variant": null,
-                "level": 1,
-                "klass": "Lodestar_S",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Iron_Sword",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    18,
-                    19
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
                 "nid": "SigmaRaven",
                 "team": "player",
                 "ai": "None",
@@ -217,6 +169,30 @@
                 ],
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "104",
+                "variant": null,
+                "level": 1,
+                "klass": "Kappa_Mech",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Ballista",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    16,
+                    16
+                ],
+                "starting_traveler": null,
+                "generic": true
             }
         ],
         "regions": [
