@@ -130,8 +130,8 @@
             {
                 "nid": "103",
                 "variant": null,
-                "level": 1,
-                "klass": "Lodestar_S",
+                "level": 40,
+                "klass": "Sniper",
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -152,54 +152,6 @@
                 "ai_group": "",
                 "starting_position": [
                     15,
-                    19
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "104",
-                "variant": null,
-                "level": 1,
-                "klass": "Lodestar_S",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Iron_Sword",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    17,
-                    19
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "105",
-                "variant": null,
-                "level": 1,
-                "klass": "Lodestar_S",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Iron_Sword",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    18,
                     19
                 ],
                 "starting_traveler": null,
@@ -258,6 +210,11 @@
             }
         ],
         "unit_groups": [],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

@@ -20,6 +20,10 @@
             [
                 "event_after_initiated_combat",
                 "Global Curry"
+            ],
+            [
+                "combat_condition",
+                "item.nid == 'Curry'"
             ]
         ]
     }

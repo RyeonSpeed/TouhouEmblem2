@@ -9,7 +9,7 @@
         "tags": [],
         "bases": {
             "HP": 3,
-            "STR": 0,
+            "STR": 1,
             "MAG": 2,
             "SKL": 2,
             "SPD": 3,

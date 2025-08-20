@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "GhostlyBladeDance",
+        "name": "Ghostly Blade Dance",
+        "desc": "Kana summons a swarm of swords to eviscerate the player. \nCapture Bonus: Mandatory",
+        "icon_nid": "NewIcon2",
+        "icon_index": [
+            0,
+            4
+        ],
+        "components": [
+            [
+                "combat_art_indicator",
+                null
+            ]
+        ]
+    }
+]
