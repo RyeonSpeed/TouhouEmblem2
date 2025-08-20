@@ -13,8 +13,8 @@
             "enemy_battle": "The Grimoire of Alice"
         },
         "objective": {
-            "simple": "Left {eval:len(game.get_enemy_units())}",
-            "win": "Rout Enemy or Defeat Alice",
+            "simple": "Defeat Alice",
+            "win": "Defeat Alice",
             "loss": "Reimu or Marisa dies"
         },
         "roam": false,
@@ -2418,7 +2418,7 @@
                 "variant": null,
                 "level": 1,
                 "klass": "Wall25",
-                "faction": "Insurgents",
+                "faction": "Wall",
                 "starting_items": [],
                 "starting_skills": [],
                 "team": "enemy",
@@ -2817,13 +2817,11 @@
         ],
         "unit_groups": [
             {
-                "nid": "Turn5Rein",
+                "nid": "Turn5ReinB",
                 "units": [
                     "169",
                     "170",
-                    "171",
-                    "172",
-                    "173"
+                    "171"
                 ],
                 "positions": {
                     "169": [
@@ -2849,15 +2847,11 @@
                 }
             },
             {
-                "nid": "Turn8Rein",
+                "nid": "Turn8ReinA",
                 "units": [
                     "174",
                     "175",
-                    "176",
-                    "178",
-                    "177",
-                    "179",
-                    "180"
+                    "176"
                 ],
                 "positions": {
                     "174": [
@@ -2891,13 +2885,10 @@
                 }
             },
             {
-                "nid": "Turn11Rein",
+                "nid": "Turn11ReinA",
                 "units": [
                     "182",
-                    "183",
-                    "184",
-                    "185",
-                    "186"
+                    "183"
                 ],
                 "positions": {
                     "182": [
@@ -2923,21 +2914,12 @@
                 }
             },
             {
-                "nid": "Turn15Rein",
+                "nid": "Turn15ReinA",
                 "units": [
-                    "187",
-                    "188",
-                    "189",
-                    "190",
-                    "191",
                     "192",
                     "193",
                     "194",
-                    "195",
-                    "196",
-                    "197",
-                    "198",
-                    "199"
+                    "195"
                 ],
                 "positions": {
                     "187": [
@@ -3022,6 +3004,145 @@
                     "202": [
                         29,
                         0
+                    ]
+                }
+            },
+            {
+                "nid": "Turn8ReinB",
+                "units": [
+                    "180"
+                ],
+                "positions": {
+                    "180": [
+                        20,
+                        4
+                    ]
+                }
+            },
+            {
+                "nid": "Turn8ReinC",
+                "units": [
+                    "177",
+                    "178",
+                    "179"
+                ],
+                "positions": {
+                    "177": [
+                        30,
+                        6
+                    ],
+                    "178": [
+                        30,
+                        7
+                    ],
+                    "179": [
+                        30,
+                        8
+                    ]
+                }
+            },
+            {
+                "nid": "Turn5ReinA",
+                "units": [
+                    "172",
+                    "173"
+                ],
+                "positions": {
+                    "172": [
+                        2,
+                        19
+                    ],
+                    "173": [
+                        3,
+                        19
+                    ]
+                }
+            },
+            {
+                "nid": "Turn11ReinB",
+                "units": [
+                    "184"
+                ],
+                "positions": {
+                    "184": [
+                        20,
+                        4
+                    ]
+                }
+            },
+            {
+                "nid": "Turn11ReinC",
+                "units": [
+                    "185",
+                    "186"
+                ],
+                "positions": {
+                    "185": [
+                        28,
+                        9
+                    ],
+                    "186": [
+                        29,
+                        9
+                    ]
+                }
+            },
+            {
+                "nid": "Turn15ReinB",
+                "units": [
+                    "187",
+                    "188",
+                    "189",
+                    "190",
+                    "191"
+                ],
+                "positions": {
+                    "191": [
+                        1,
+                        12
+                    ],
+                    "187": [
+                        1,
+                        11
+                    ],
+                    "189": [
+                        0,
+                        11
+                    ],
+                    "190": [
+                        0,
+                        12
+                    ],
+                    "188": [
+                        0,
+                        13
+                    ]
+                }
+            },
+            {
+                "nid": "Turn15ReinC",
+                "units": [
+                    "196",
+                    "197",
+                    "198",
+                    "199"
+                ],
+                "positions": {
+                    "199": [
+                        5,
+                        0
+                    ],
+                    "196": [
+                        4,
+                        1
+                    ],
+                    "197": [
+                        5,
+                        1
+                    ],
+                    "198": [
+                        6,
+                        1
                     ]
                 }
             }

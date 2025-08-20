@@ -1,0 +1,19 @@
+[
+    {
+        "name": "BarrierWarp",
+        "trigger": null,
+        "level_nid": null,
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "game_var;swap_unit_reimu;unit1.nid",
+            "game_var;swap_unit_reimu_2;unit2.nid",
+            "game_var;swap_unit_reimu_pos;u(v('swap_unit_reimu')).position",
+            "move_unit;{v:swap_unit_reimu};{e:u(v('swap_unit_reimu_2')).position};warp;stack",
+            "move_unit;{v:swap_unit_reimu_2};{v:swap_unit_reimu_pos};warp;stack"
+        ],
+        "nid": "Global BarrierWarp"
+    }
+]

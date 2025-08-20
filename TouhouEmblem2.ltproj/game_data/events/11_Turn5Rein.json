@@ -8,11 +8,13 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "move_cursor;2,19",
+            "center_cursor;3,19;150",
             "wait;200",
-            "add_group;Turn5Rein;Turn5Rein;immediate;closest",
+            "add_group;Turn5ReinA;Turn5ReinA;immediate;closest",
             "wait;500",
-            "move_cursor;5,0",
+            "center_cursor;5,0;150",
+            "wait;200",
+            "add_group;Turn5ReinB;Turn5ReinB;immediate;closest",
             "wait;500"
         ],
         "nid": "11 Turn5Rein"

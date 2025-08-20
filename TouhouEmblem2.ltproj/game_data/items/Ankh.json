@@ -10,10 +10,6 @@
         ],
         "components": [
             [
-                "usable",
-                null
-            ],
-            [
                 "value",
                 3000
             ],
