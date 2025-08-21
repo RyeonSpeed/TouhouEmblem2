@@ -15,15 +15,15 @@
             ],
             [
                 "combat_condition",
-                "item.effective_damage and item.effective_damage._check_effective(unit2)"
-            ],
-            [
-                "give_status_after_combat",
-                "LampadCharm1"
+                "item2.effective_damage and item2.effective_damage._check_effective(unit)"
             ],
             [
                 "event_after_combat",
                 "Global Shield_Check"
+            ],
+            [
+                "gain_skill_after_combat",
+                "LampadCharm1"
             ]
         ]
     }
