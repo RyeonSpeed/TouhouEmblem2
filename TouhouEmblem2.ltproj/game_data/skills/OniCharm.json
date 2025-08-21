@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "OniCharm",
+        "name": "new_1",
+        "desc": "",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "hidden",
+                null
+            ],
+            [
+                "deathrecoil2",
+                "unit.get_max_hp() * 0.33"
+            ],
+            [
+                "damage_multiplier",
+                1.5
+            ]
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "VampireCharm",
+        "name": "new_1",
+        "desc": "",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "hidden",
+                null
+            ],
+            [
+                "lifelink",
+                0.2
+            ]
+        ]
+    }
+]

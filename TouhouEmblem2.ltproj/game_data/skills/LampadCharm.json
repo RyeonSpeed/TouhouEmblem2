@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "LampadCharm",
+        "name": "new_1",
+        "desc": "",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "hidden",
+                null
+            ],
+            [
+                "combat_condition",
+                "item.effective_damage and item.effective_damage._check_effective(unit2)"
+            ],
+            [
+                "give_status_after_combat",
+                "LampadCharm1"
+            ],
+            [
+                "event_after_combat",
+                "Global Shield_Check"
+            ]
+        ]
+    }
+]

@@ -71,17 +71,13 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Iron_Sword",
-                        false
-                    ],
-                    [
-                        "Eye_of_Senri",
+                        "Armorslayer",
                         false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Attack",
+                "ai": "Pursue",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -146,12 +142,12 @@
             {
                 "nid": "104",
                 "variant": null,
-                "level": 1,
-                "klass": "Kappa_Mech",
+                "level": 20,
+                "klass": "Warden",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Ballista",
+                        "Lampad_Charm",
                         false
                     ]
                 ],
@@ -207,6 +203,11 @@
             }
         ],
         "unit_groups": [],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]
