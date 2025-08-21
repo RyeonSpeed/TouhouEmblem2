@@ -2,7 +2,7 @@
     {
         "nid": "Mercy_Art",
         "name": "Mercy",
-        "desc": "<green>[Combat Art]</green>\n<blue>[Combat Start]</blue> Cannot Double/Crit. ",
+        "desc": "<blue>[Combat Start]</blue> Cannot Double/Crit. ",
         "icon_nid": "skillicons4",
         "icon_index": [
             0,
