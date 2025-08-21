@@ -1701,14 +1701,6 @@
                     [
                         "Aircalibur",
                         true
-                    ],
-                    [
-                        "Bolting",
-                        false
-                    ],
-                    [
-                        "Bolting",
-                        false
                     ]
                 ],
                 "starting_skills": [],

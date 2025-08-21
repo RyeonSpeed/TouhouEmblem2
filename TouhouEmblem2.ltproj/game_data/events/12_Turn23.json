@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Turn23",
+        "trigger": "turn_change",
+        "level_nid": "12",
+        "condition": "game.turncount == 23",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_group;Turn23;Turn23;warp;closest",
+            "move_cursor;159",
+            "flicker_cursor;159",
+            ""
+        ],
+        "nid": "12 Turn23"
+    }
+]

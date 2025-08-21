@@ -3,7 +3,7 @@
         "name": "Per4Rein",
         "trigger": "turn_change",
         "level_nid": "11",
-        "condition": "game.turncount % 4 == 2 and game.turncount >= 10",
+        "condition": "game.turncount % 4 == 2 and game.turncount >= 18",
         "commands": [],
         "only_once": false,
         "priority": 20,

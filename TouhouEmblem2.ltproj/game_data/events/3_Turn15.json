@@ -3,7 +3,7 @@
         "name": "Turn15",
         "trigger": "turn_change",
         "level_nid": "3",
-        "condition": "game.turncount == 15",
+        "condition": "game.turncount == 20",
         "commands": [],
         "only_once": false,
         "priority": 20,

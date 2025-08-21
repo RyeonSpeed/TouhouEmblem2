@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Turn10",
+        "trigger": "turn_change",
+        "level_nid": "12",
+        "condition": "game.turncount == 10",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_group;Turn10;Turn10;warp;closest",
+            "move_cursor;153",
+            "flicker_cursor;153",
+            "move_cursor;154",
+            "flicker_cursor;154",
+            "move_cursor;155",
+            "flicker_cursor;155",
+            "move_cursor;156",
+            "flicker_cursor;156"
+        ],
+        "nid": "12 Turn10"
+    }
+]

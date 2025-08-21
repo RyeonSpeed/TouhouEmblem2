@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Turn5",
+        "trigger": "turn_change",
+        "level_nid": "12",
+        "condition": "game.turncount == 5",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_group;Turn5;Turn5;warp;closest",
+            "move_cursor;149",
+            "flicker_cursor;149",
+            "move_cursor;150",
+            "flicker_cursor;150",
+            "move_cursor;151",
+            "flicker_cursor;151",
+            "move_cursor;152",
+            "flicker_cursor;152"
+        ],
+        "nid": "12 Turn5"
+    }
+]
