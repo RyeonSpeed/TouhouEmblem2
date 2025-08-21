@@ -209,7 +209,6 @@
     "11_Turn8Rein",
     "11_Turn11Rein",
     "11_Turn15Rein",
-    "11_Rout",
     "Global_Puppet_Assault",
     "Global_Puppet_Assault_1",
     "Global_Apparitions_That_Stalk_The_Night",
@@ -298,6 +297,7 @@
     "Global_TitleFadeIn",
     "DEBUG_1_Scramble!",
     "Global_SeiranScramble",
+    "Global_BarrierWarp",
     "3_SpellRingo",
     "3_SpellSeiran",
     "4_SpellTewi",
@@ -488,4 +488,4 @@
     "14_Turn8",
     "14_Turn11",
     "14_Turn14"
-]
+    "11_AliceMusic"

@@ -141,7 +141,7 @@
             0
         ],
         "map_sprite_nid": "Tome (U) Anima {N426}-stand",
-        "combat_anim_nid": "Herald_1",
+        "combat_anim_nid": "ThunderTome",
         "fields": []
     }
 ]

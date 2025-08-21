@@ -15,7 +15,7 @@
             "change_music;enemy2_phase;Plastic Mind",
             "change_music;enemy2_battle;Plastic Mind",
             "add_portrait;Alice_Boss;Left",
-            "speak;;Triad of Magic;center;155;hint;;red;;;1;;;;;Warp",
+            "speak;;Triad of Magic;center;95;hint;;red;;;1;;;;;Warp;",
             "speak;Alice_Boss;Face a perfected form of magic!",
             "remove_portrait;Alice_Boss",
             "add_group;Alice2Spell;Alice2Spell;warp;closest",

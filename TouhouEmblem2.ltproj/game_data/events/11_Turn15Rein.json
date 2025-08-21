@@ -8,8 +8,18 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "add_group;Turn15Rein;Turn15Rein;warp;closest",
-            "move_cursor;187"
+            "center_cursor;3,17;150",
+            "wait;200",
+            "add_group;Turn15ReinA;Turn15ReinA;immediate;closest",
+            "wait;500",
+            "center_cursor;1,12;150",
+            "wait;200",
+            "add_group;Turn15ReinB;Turn15ReinB;immediate;closest",
+            "wait;500",
+            "center_cursor;5,1;150",
+            "wait;200",
+            "add_group;Turn15ReinC;Turn15ReinC;immediate;closest",
+            "wait;500"
         ],
         "nid": "11 Turn15Rein"
     }
