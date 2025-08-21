@@ -42,21 +42,24 @@
             {
                 "nid": "101",
                 "variant": null,
-                "level": 1,
-                "klass": "Citizen",
+                "level": 20,
+                "klass": "Peg_Rider",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Iron_Sword",
+                        "Silver_Sword",
                         false
                     ]
                 ],
                 "starting_skills": [],
-                "team": "enemy",
+                "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": null,
+                "starting_position": [
+                    11,
+                    14
+                ],
                 "starting_traveler": null,
                 "generic": true
             },
@@ -64,7 +67,7 @@
                 "nid": "102",
                 "variant": null,
                 "level": 1,
-                "klass": "Citizen",
+                "klass": "Tsukumogami_M",
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -78,25 +81,25 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "None",
+                "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    19,
-                    19
+                    10,
+                    14
                 ],
                 "starting_traveler": null,
                 "generic": true
             },
             {
-                "nid": "Sakuya",
+                "nid": "Reimu",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    15,
-                    17
+                    9,
+                    15
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -128,7 +131,7 @@
                 "generic": false
             },
             {
-                "nid": "SigmaRaven",
+                "nid": "Kaguya",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,

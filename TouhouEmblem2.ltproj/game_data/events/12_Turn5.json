@@ -8,15 +8,22 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "add_group;Turn5;Turn5;warp;closest",
-            "move_cursor;149",
-            "flicker_cursor;149",
-            "move_cursor;150",
-            "flicker_cursor;150",
-            "move_cursor;151",
-            "flicker_cursor;151",
-            "move_cursor;152",
-            "flicker_cursor;152"
+            "center_cursor;10,20;150",
+            "wait;200",
+            "add_group;Turn5A;Turn5A;immediate;closest",
+            "wait;400",
+            "center_cursor;22,20;150",
+            "wait;200",
+            "add_group;Turn5B;Turn5B;immediate;closest",
+            "wait;400",
+            "center_cursor;8,12;150",
+            "wait;200",
+            "add_group;Turn5C;Turn5C;immediate;closest",
+            "wait;400",
+            "center_cursor;25,7;150",
+            "wait;200",
+            "add_group;Turn5D;Turn5D;immediate;closest",
+            "wait;500"
         ],
         "nid": "12 Turn5"
     }

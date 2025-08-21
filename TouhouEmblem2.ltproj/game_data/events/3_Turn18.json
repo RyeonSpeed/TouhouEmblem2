@@ -1,6 +1,6 @@
 [
     {
-        "name": "Turn13",
+        "name": "Turn18",
         "trigger": "turn_change",
         "level_nid": "3",
         "condition": "game.turncount == 18",
@@ -16,6 +16,6 @@
             "remove_portrait;Seiran",
             ""
         ],
-        "nid": "3 Turn13"
+        "nid": "3 Turn18"
     }
 ]

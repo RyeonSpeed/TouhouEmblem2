@@ -1,6 +1,6 @@
 [
     {
-        "name": "Turn15",
+        "name": "Turn20",
         "trigger": "turn_change",
         "level_nid": "3",
         "condition": "game.turncount == 20",
@@ -15,6 +15,6 @@
             "flicker_cursor;144",
             ""
         ],
-        "nid": "3 Turn15"
+        "nid": "3 Turn20"
     }
 ]

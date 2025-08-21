@@ -8,10 +8,10 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "add_group;Turn23;Turn23;warp;closest",
-            "move_cursor;159",
-            "flicker_cursor;159",
-            ""
+            "center_cursor;6,30;150",
+            "wait;200",
+            "add_group;Turn23;Turn23;immediate;closest",
+            "wait;500"
         ],
         "nid": "12 Turn23"
     }

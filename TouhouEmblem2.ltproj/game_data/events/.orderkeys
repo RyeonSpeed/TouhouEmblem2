@@ -62,8 +62,8 @@
     "1_MarisaRumiaTalk",
     "2_Fog",
     "3_Turn9",
-    "3_Turn13",
-    "3_Turn15",
+    "3_Turn18",
+    "3_Turn20",
     "2_Turn15",
     "2_Turn19",
     "2_Turn17",
@@ -488,5 +488,7 @@
     "14_Turn8",
     "14_Turn11",
     "14_Turn14",
-    "11_AliceMusic"
-	]
+    "11_AliceMusic",
+    "2_Turn13",
+    "2_Turn15_1"
+]

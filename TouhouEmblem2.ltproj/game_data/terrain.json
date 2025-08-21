@@ -61,15 +61,15 @@
     },
     {
         "nid": "Air",
-        "name": "Air",
+        "name": "--",
         "color": [
             85,
             255,
             255
         ],
-        "minimap": "Snow",
-        "platform": "Snow",
-        "background": "Open Field (Snow)",
+        "minimap": "Sea",
+        "platform": "Air",
+        "background": "combat_snowy_hill",
         "mtype": "Cliff",
         "opaque": false,
         "status": null
@@ -150,6 +150,21 @@
         "status": null
     },
     {
+        "nid": "S2_4",
+        "name": "Bridge",
+        "color": [
+            141,
+            150,
+            116
+        ],
+        "minimap": "Bridge",
+        "platform": "SnowyBridge",
+        "background": "combat_snowy_hill",
+        "mtype": "Normal",
+        "opaque": false,
+        "status": null
+    },
+    {
         "nid": "5",
         "name": "Stairs",
         "color": [
@@ -195,8 +210,38 @@
         "status": null
     },
     {
+        "nid": "5_3",
+        "name": "Stairs",
+        "color": [
+            143,
+            42,
+            148
+        ],
+        "minimap": "Floor",
+        "platform": "Floor",
+        "background": "combat_outside_castle",
+        "mtype": "Normal",
+        "opaque": false,
+        "status": null
+    },
+    {
         "nid": "6",
         "name": "Floor",
+        "color": [
+            84,
+            84,
+            84
+        ],
+        "minimap": "Floor",
+        "platform": "Floor",
+        "background": "combat_castle2",
+        "mtype": "Normal",
+        "opaque": false,
+        "status": null
+    },
+    {
+        "nid": "6_4",
+        "name": "Switch",
         "color": [
             84,
             84,
@@ -640,6 +685,21 @@
         "minimap": "Chest",
         "platform": "Chest",
         "background": "combat_castle2",
+        "mtype": "Normal",
+        "opaque": false,
+        "status": null
+    },
+    {
+        "nid": "36_2",
+        "name": "Chest",
+        "color": [
+            166,
+            255,
+            0
+        ],
+        "minimap": "Chest",
+        "platform": "Chest",
+        "background": "combat_castle5",
         "mtype": "Normal",
         "opaque": false,
         "status": null
