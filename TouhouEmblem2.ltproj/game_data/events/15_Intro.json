@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Intro",
+        "trigger": "level_start",
+        "level_nid": "15",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "speak;System;The game no go further",
+            "trigger_script;START",
+            "win_game"
+        ],
+        "nid": "15 Intro"
+    }
+]

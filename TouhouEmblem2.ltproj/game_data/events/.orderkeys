@@ -321,6 +321,7 @@
     "Base_IntroCh12",
     "Base_IntroCh13",
     "Base_IntroCh14",
+    "Base_IntroCh15",
     "Base_Suika",
     "Base_Kogasa",
     "Base_KogasaShop",
@@ -492,5 +493,7 @@
     "2_Turn13",
     "2_Turn15_1",
     "Global_TrapRune",
-    "Global_New_Event"
+    "Global_New_Event",
+    "15_Intro",
+    "15_Outro"
 ]

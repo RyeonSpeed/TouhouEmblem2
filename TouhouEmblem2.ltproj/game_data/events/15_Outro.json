@@ -2,16 +2,15 @@
     {
         "name": "Outro",
         "trigger": "level_end",
-        "level_nid": "14",
+        "level_nid": "15",
         "condition": "True",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
             "trigger_script;ENDING",
-            "game_var;chaptercount;14",
             "set_next_chapter;Base"
         ],
-        "nid": "14 Outro"
+        "nid": "15 Outro"
     }
 ]
