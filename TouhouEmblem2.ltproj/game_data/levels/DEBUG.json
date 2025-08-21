@@ -43,7 +43,7 @@
                 "nid": "101",
                 "variant": null,
                 "level": 20,
-                "klass": "Peg_Rider",
+                "klass": "Mermaid",
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -57,8 +57,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    11,
-                    14
+                    16,
+                    13
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -67,7 +67,7 @@
                 "nid": "102",
                 "variant": null,
                 "level": 1,
-                "klass": "Tsukumogami_M",
+                "klass": "Revenant",
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -76,12 +76,12 @@
                     ]
                 ],
                 "starting_skills": [],
-                "team": "enemy",
-                "ai": "Pursue",
+                "team": "player",
+                "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    10,
+                    15,
                     14
                 ],
                 "starting_traveler": null,
@@ -114,7 +114,7 @@
                 "generic": false
             },
             {
-                "nid": "Koakuma",
+                "nid": "Lunasa",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -143,7 +143,7 @@
                 "nid": "104",
                 "variant": null,
                 "level": 20,
-                "klass": "Warden",
+                "klass": "Skeleton",
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -157,8 +157,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    17,
-                    19
+                    19,
+                    15
                 ],
                 "starting_traveler": null,
                 "generic": true
