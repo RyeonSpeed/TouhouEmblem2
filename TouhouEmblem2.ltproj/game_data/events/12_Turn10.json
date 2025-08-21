@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Turn10",
+        "trigger": "turn_change",
+        "level_nid": "12",
+        "condition": "game.turncount == 10",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "center_cursor;1,24;150",
+            "wait;200",
+            "add_group;Turn10A;Turn10A;immediate;closest",
+            "wait;400",
+            "center_cursor;19,31;150",
+            "wait;200",
+            "add_group;Turn10B;Turn10B;immediate;closest",
+            "wait;400",
+            "center_cursor;28,28;150",
+            "wait;200",
+            "add_group;Turn10C;Turn10C;immediate;closest",
+            "wait;400",
+            "center_cursor;19,14;150",
+            "wait;200",
+            "add_group;Turn10D;Turn10D;immediate;closest",
+            "wait;500"
+        ],
+        "nid": "12 Turn10"
+    }
+]

@@ -26,19 +26,11 @@
             ],
             [
                 "heal",
-                10
-            ],
-            [
-                "usable",
-                null
+                120
             ],
             [
                 "target_ally",
                 null
-            ],
-            [
-                "status_on_equip",
-                "CurryEffect"
             ],
             [
                 "map_hit_add_blend",
@@ -55,6 +47,14 @@
             [
                 "max_range",
                 0
+            ],
+            [
+                "usable",
+                null
+            ],
+            [
+                "status_on_equip",
+                "CurryEffect"
             ]
         ]
     }

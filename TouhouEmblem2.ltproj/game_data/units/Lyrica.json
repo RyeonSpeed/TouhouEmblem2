@@ -5,7 +5,7 @@
         "desc": "",
         "variant": null,
         "level": 1,
-        "klass": "Bow_Rider",
+        "klass": "Bow_Rider_L",
         "tags": [],
         "bases": {
             "HP": 2,

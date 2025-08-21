@@ -1,0 +1,43 @@
+[
+    {
+        "nid": "Lampad_Charm",
+        "name": "Lampad Charm",
+        "desc": "When struck by an effective hit, gains \"Rushed\", which increases damage dealt by 1.5x and increases AS by 5 for the rest of the map.",
+        "icon_nid": "accessories",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "equippable_accessory",
+                null
+            ],
+            [
+                "value",
+                2500
+            ],
+            [
+                "eval_target_restrict_2",
+                "False"
+            ],
+            [
+                "multi_status_on_equip",
+                [
+                    "LampadCharm"
+                ]
+            ],
+            [
+                "uses",
+                1
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ]
+        ]
+    }
+]

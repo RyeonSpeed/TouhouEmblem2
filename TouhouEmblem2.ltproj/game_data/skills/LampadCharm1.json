@@ -1,0 +1,31 @@
+[
+    {
+        "nid": "LampadCharm1",
+        "name": "Lampad Charm",
+        "desc": "1.5x DMG, +5 Speed.",
+        "icon_nid": "skillicons102724(1)",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "stat_change",
+                [
+                    [
+                        "SPD",
+                        5
+                    ]
+                ]
+            ],
+            [
+                "damage_multiplier",
+                1.5
+            ],
+            [
+                "lost_on_end_chapter",
+                null
+            ]
+        ]
+    }
+]

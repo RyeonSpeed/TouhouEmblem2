@@ -10,10 +10,6 @@
         ],
         "components": [
             [
-                "swap",
-                null
-            ],
-            [
                 "min_range",
                 1
             ],
@@ -27,11 +23,19 @@
             ],
             [
                 "eval_target_restrict_2",
-                "target.get_ai() not in ['Guard', 'None']"
+                "(target.get_ai() not in ['Guard', 'None']) and (get_terrain(target) != 'Air')"
             ],
             [
                 "attack_after_combat",
                 null
+            ],
+            [
+                "event_after_combat_even_miss",
+                "Global BarrierWarp"
+            ],
+            [
+                "map_hit_sfx",
+                "HealInit"
             ]
         ]
     }

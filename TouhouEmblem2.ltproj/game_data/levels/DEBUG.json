@@ -42,21 +42,24 @@
             {
                 "nid": "101",
                 "variant": null,
-                "level": 1,
-                "klass": "Citizen",
+                "level": 20,
+                "klass": "Peg_Rider",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Iron_Sword",
+                        "Silver_Sword",
                         false
                     ]
                 ],
                 "starting_skills": [],
-                "team": "enemy",
+                "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": null,
+                "starting_position": [
+                    11,
+                    14
+                ],
                 "starting_traveler": null,
                 "generic": true
             },
@@ -64,39 +67,35 @@
                 "nid": "102",
                 "variant": null,
                 "level": 1,
-                "klass": "Citizen",
+                "klass": "Tsukumogami_M",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Iron_Sword",
-                        false
-                    ],
-                    [
-                        "Eye_of_Senri",
+                        "Armorslayer",
                         false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "None",
+                "ai": "Pursue",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    19,
-                    19
+                    10,
+                    14
                 ],
                 "starting_traveler": null,
                 "generic": true
             },
             {
-                "nid": "Sakuya",
+                "nid": "Reimu",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    15,
-                    17
+                    9,
+                    15
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -128,85 +127,7 @@
                 "generic": false
             },
             {
-                "nid": "103",
-                "variant": null,
-                "level": 1,
-                "klass": "Lodestar_S",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Iron_Sword",
-                        false
-                    ],
-                    [
-                        "Curry",
-                        false
-                    ]
-                ],
-                "starting_skills": [
-                    "Poisoned"
-                ],
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    15,
-                    19
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "104",
-                "variant": null,
-                "level": 1,
-                "klass": "Lodestar_S",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Iron_Sword",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    17,
-                    19
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "105",
-                "variant": null,
-                "level": 1,
-                "klass": "Lodestar_S",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Iron_Sword",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    18,
-                    19
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "SigmaRaven",
+                "nid": "Kaguya",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -217,6 +138,30 @@
                 ],
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "104",
+                "variant": null,
+                "level": 20,
+                "klass": "Warden",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Lampad_Charm",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    17,
+                    19
+                ],
+                "starting_traveler": null,
+                "generic": true
             }
         ],
         "regions": [
@@ -258,6 +203,11 @@
             }
         ],
         "unit_groups": [],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

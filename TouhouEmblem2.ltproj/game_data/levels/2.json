@@ -903,7 +903,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Steel_Bow",
+                        "Iron_Bow",
                         false
                     ]
                 ],
@@ -1214,11 +1214,7 @@
                 "faction": "Monster",
                 "starting_items": [
                     [
-                        "War_Club",
-                        false
-                    ],
-                    [
-                        "Farshot",
+                        "Silver_Axe",
                         false
                     ]
                 ],

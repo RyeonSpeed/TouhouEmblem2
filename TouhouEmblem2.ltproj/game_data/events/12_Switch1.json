@@ -13,6 +13,13 @@
             "show_layer;Hidden3",
             "add_group;Hidden3;Hidden3;warp",
             "autolevel_to;Kana_Boss;20;fixed",
+            "add_portrait;Sara;Left",
+            "speak;Sara_Boss;Tch, they've breached the switches! Advance! Don't let them close!",
+            "remove_portrait;Sara",
+            "change_ai;Sara_Boss;Pursue",
+            "change_ai;202;Pursue",
+            "change_ai;203;Pursue",
+            "change_ai;204;Pursue",
             "else",
             "end"
         ],

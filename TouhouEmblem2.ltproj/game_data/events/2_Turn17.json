@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Turn17",
+        "trigger": "turn_change",
+        "level_nid": "2",
+        "condition": "game.turncount == 17",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Reimu;Left",
+            "speak;Reimu;*shivers* There's something terrifying in these woods...",
+            "remove_portrait;Reimu"
+        ],
+        "nid": "2 Turn17"
+    }
+]

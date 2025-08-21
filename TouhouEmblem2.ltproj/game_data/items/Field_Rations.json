@@ -1,0 +1,32 @@
+[
+    {
+        "nid": "Field_Rations",
+        "name": "Field Rations",
+        "desc": "Essential for an army on the march. Restores 15% of Max HP per turn.",
+        "icon_nid": "accessories",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "equippable_accessory",
+                null
+            ],
+            [
+                "value",
+                2500
+            ],
+            [
+                "eval_target_restrict_2",
+                "False"
+            ],
+            [
+                "multi_status_on_equip",
+                [
+                    "FieldRations"
+                ]
+            ]
+        ]
+    }
+]

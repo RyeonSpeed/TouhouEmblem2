@@ -3,16 +3,20 @@
         "name": "Per4Rein",
         "trigger": "turn_change",
         "level_nid": "11",
-        "condition": "game.turncount % 4 == 2 and game.turncount >= 10",
+        "condition": "game.turncount % 4 == 2 and game.turncount >= 18",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
+            "move_cursor;3,19;200",
+            "wait;200",
             "make_generic;;Lance_Rider;11;enemy;Pursue;Insurgents;;Steel_Lance",
-            "add_unit;{created_unit};2,19;warp;closest",
+            "add_unit;{created_unit};2,19;immediate;closest",
+            "give_skill;{created_unit};Void_Curse",
             "make_generic;;Axe_Rider;11;enemy;Pursue;Insurgents;;Steel_Axe",
-            "add_unit;{created_unit};3,19;warp;closest",
-            "move_cursor;{created_unit}"
+            "add_unit;{created_unit};3,19;immediate;closest",
+            "give_skill;{created_unit};Void_Curse",
+            "wait;500"
         ],
         "nid": "11 Per4Rein"
     }

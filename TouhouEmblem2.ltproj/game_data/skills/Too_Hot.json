@@ -15,6 +15,14 @@
                     "Burning",
                     "Too_HotEffect"
                 ]
+            ],
+            [
+                "time",
+                3
+            ],
+            [
+                "lost_on_end_chapter",
+                null
             ]
         ]
     }

@@ -1,0 +1,17 @@
+[
+    {
+        "name": "TrapRune",
+        "trigger": null,
+        "level_nid": null,
+        "condition": "False",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "inc_game_var;ShiggyDiggy;1",
+            "add_region;TrapRune{v:ShiggyDiggy};{e:target_pos};1,1;event;Trap;interrupt_move;only_once",
+            "map_anim;MapSurprise;{e:target_pos}"
+        ],
+        "nid": "Global TrapRune"
+    }
+]

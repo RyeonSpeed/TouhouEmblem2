@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Turn8",
+        "trigger": "turn_change",
+        "level_nid": "14",
+        "condition": "game.turncount == 8",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_group;Turn8;Turn8;warp;closest",
+            "move_cursor;167",
+            "flicker_cursor;167",
+            "move_cursor;171",
+            "flicker_cursor;171",
+            "move_cursor;181",
+            "flicker_cursor;181",
+            ""
+        ],
+        "nid": "14 Turn8"
+    }
+]

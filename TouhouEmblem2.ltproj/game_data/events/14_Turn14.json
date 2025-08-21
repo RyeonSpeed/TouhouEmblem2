@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Turn14",
+        "trigger": "turn_change",
+        "level_nid": "14",
+        "condition": "game.turncount == 14",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_group;Turn14;Turn14;warp;closest",
+            "move_cursor;179",
+            "flicker_cursor;179",
+            "",
+            ""
+        ],
+        "nid": "14 Turn14"
+    }
+]

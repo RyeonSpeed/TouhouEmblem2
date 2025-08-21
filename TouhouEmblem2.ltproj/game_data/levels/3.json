@@ -226,13 +226,11 @@
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Steel_Sword",
+                        "Slim_Sword",
                         false
                     ]
                 ],
-                "starting_skills": [
-                    "Eye_of_Bullshit"
-                ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Attack",
                 "roam_ai": null,
@@ -486,7 +484,7 @@
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Steel_Lance",
+                        "Iron_Lance",
                         false
                     ],
                     [
@@ -590,7 +588,7 @@
                 "faction": "Eientei",
                 "starting_items": [
                     [
-                        "Short_Axe",
+                        "Hand_Axe",
                         false
                     ],
                     [
@@ -1151,6 +1149,30 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "132",
+                "variant": null,
+                "level": 1,
+                "klass": "Thief",
+                "faction": "Bandit",
+                "starting_items": [
+                    [
+                        "Iron_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Thief",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    9,
+                    18
+                ],
                 "starting_traveler": null,
                 "generic": true
             }

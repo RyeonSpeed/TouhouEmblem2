@@ -68,7 +68,9 @@
                 "prf_class",
                 [
                     "Archer",
-                    "Sniper"
+                    "Sniper",
+                    "Kappa_Mech",
+                    "Super_Mech"
                 ]
             ],
             [

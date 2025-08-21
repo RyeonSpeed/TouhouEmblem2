@@ -1,0 +1,57 @@
+[
+    {
+        "nid": "Trap_Rune",
+        "name": "Trap Rune",
+        "desc": "Places a trap on an empty tile. The trap will go off and deal 10 damage to an enemy that steps on it, alongside ending its turn. Only one Trap Rune can exist at a time.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            4,
+            5
+        ],
+        "components": [
+            [
+                "equippable_accessory",
+                null
+            ],
+            [
+                "value",
+                750
+            ],
+            [
+                "uses",
+                3
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "target_tile",
+                null
+            ],
+            [
+                "empty_tile_target_restrict",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                1
+            ],
+            [
+                "usable",
+                null
+            ],
+            [
+                "event_on_hit",
+                "Global TrapRune"
+            ]
+        ]
+    }
+]

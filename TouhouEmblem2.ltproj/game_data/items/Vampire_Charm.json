@@ -1,0 +1,32 @@
+[
+    {
+        "nid": "Vampire_Charm",
+        "name": "Vampire Charm",
+        "desc": "User recovers 20% of damage dealt in HP.",
+        "icon_nid": "accessories",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "equippable_accessory",
+                null
+            ],
+            [
+                "value",
+                1500
+            ],
+            [
+                "eval_target_restrict_2",
+                "False"
+            ],
+            [
+                "multi_status_on_equip",
+                [
+                    "VampireCharm"
+                ]
+            ]
+        ]
+    }
+]

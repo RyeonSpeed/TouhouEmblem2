@@ -129,6 +129,11 @@
                 false,
                 0,
                 251
+            ],
+            "Knife": [
+                false,
+                0,
+                null
             ]
         },
         "icon_nid": "Generic_Portrait_Paladin",
@@ -136,8 +141,8 @@
             0,
             0
         ],
-        "map_sprite_nid": "Paladin (F) Revision Sword {Permafrost}-stand",
-        "combat_anim_nid": "Paladin",
+        "map_sprite_nid": "Paladin (U) Gendarme Sword {RobertFPY, MeteorSR23}-stand",
+        "combat_anim_nid": "Gendarme",
         "fields": []
     }
 ]

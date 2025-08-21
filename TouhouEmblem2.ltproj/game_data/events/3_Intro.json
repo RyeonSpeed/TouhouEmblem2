@@ -62,7 +62,7 @@
             "# Now for Part 2",
             "",
             "transition;close",
-            "multi_remove_portrait;Reimu;Kasen;Star;Luna;",
+            "multi_remove_portrait;Reimu;Kasen;Star;Luna",
             "remove_portrait;Sunny",
             "",
             "#Tewi Gang Time",

@@ -115,7 +115,7 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Steel_Sword",
+                        "Iron_Sword",
                         false
                     ],
                     [
@@ -928,7 +928,7 @@
                     "Looter"
                 ],
                 "team": "enemy",
-                "ai": "PursueVillage2",
+                "ai": "Pursue",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
@@ -951,7 +951,7 @@
                     "Looter"
                 ],
                 "team": "enemy",
-                "ai": "PursueVillage2",
+                "ai": "Pursue",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
