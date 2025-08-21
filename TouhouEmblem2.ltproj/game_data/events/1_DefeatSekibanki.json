@@ -1,0 +1,37 @@
+[
+    {
+        "name": "DefeatSekibanki",
+        "trigger": "combat_end",
+        "level_nid": "1",
+        "condition": "game.check_dead(\"Sekibanki_Boss\")",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "change_music;player_phase;Dullahan Under the Willows",
+            "change_music;player_battle;Dullahan Under the Willows",
+            "change_music;enemy_phase;Dullahan Under the Willows",
+            "change_music;enemy_battle;Dullahan Under the Willows",
+            "change_music;other_phase;Dullahan Under the Willows",
+            "change_music;other_battle;Dullahan Under the Willows",
+            "add_portrait;Sekibanki;Left",
+            "speak;;Flying Head \"Multiplicative Head\";center;170;hint;;red;;;1;;;;;Warp",
+            "add_group;SekibankiSpell;SekibankiSpell;warp;closest",
+            "autolevel_to;Sekibanki_Boss_1;6;fixed",
+            "move_cursor;Sekibanki_Boss_1",
+            "speak;Sekibanki;There's no escaping my many heads!",
+            "remove_portrait;Sekibanki",
+            "for;HEAD;game.level.unit_groups.get('SekibankiSpell').units",
+            "    if;u('{HEAD}').nid != 'Sekibanki_Boss_1'",
+            "        change_portrait;{HEAD};sekibanki-head",
+            "    end",
+            "    if;game.phase.get_current() == 'enemy'",
+            "        has_finished;{HEAD}",
+            "    end",
+            "endf",
+            "else",
+            "end"
+        ],
+        "nid": "1 DefeatSekibanki"
+    }
+]

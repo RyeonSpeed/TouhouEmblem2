@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Shattering_Moon_Effect",
+        "name": "Shattering Moon",
+        "desc": "<blue>[Combat Start]</blue> Adds WT to DMG.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            3,
+            5
+        ],
+        "components": [
+            [
+                "dynamic_damage",
+                "item.weight.value if item.weight else 0"
+            ],
+            [
+                "alternate_battle_anim",
+                "Shatter"
+            ]
+        ]
+    }
+]

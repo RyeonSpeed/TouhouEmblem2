@@ -1,0 +1,21 @@
+[
+    {
+        "nid": "Bloodsucker_Effect",
+        "name": "Bloodsucker",
+        "desc": "",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "multi_skill",
+                [
+                    "Bloodsucker_Effect_1",
+                    "Bloodsucker_Effect_2"
+                ]
+            ]
+        ]
+    }
+]

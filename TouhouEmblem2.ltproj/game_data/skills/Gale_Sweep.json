@@ -1,0 +1,38 @@
+[
+    {
+        "nid": "Gale_Sweep",
+        "name": "Gale Sweep",
+        "desc": "<blue>[On Hit]</blue> Inflicts Wind Shear. Swords only.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            1,
+            0
+        ],
+        "components": [
+            [
+                "build_charge_start_charged",
+                4
+            ],
+            [
+                "combat_charge_increase",
+                1
+            ],
+            [
+                "allowed_weapons",
+                "item_system.weapon_type(unit, item) in ['Sword']"
+            ],
+            [
+                "combat_art_indicator",
+                null
+            ],
+            [
+                "combat_art",
+                "Gale_Sweep_Effect"
+            ],
+            [
+                "upkeep_charge_increase",
+                1
+            ]
+        ]
+    }
+]

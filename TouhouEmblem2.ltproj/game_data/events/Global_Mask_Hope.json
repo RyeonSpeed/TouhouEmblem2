@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Mask_Hope",
+        "trigger": "turn_change",
+        "level_nid": null,
+        "condition": "game.turncount % 6 == 0 and game.check_alive('Kokoro')",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "remove_skill;Kokoro;Mask_Hope;;no_banner",
+            "give_skill;Kokoro;Mask_Hope2;;no_banner"
+        ],
+        "nid": "Global Mask_Hope"
+    }
+]

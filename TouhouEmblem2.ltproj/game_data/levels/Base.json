@@ -1,0 +1,416 @@
+[
+    {
+        "nid": "Base",
+        "name": "Base",
+        "tilemap": "Ms. Okina's Breakroom",
+        "bg_tilemap": null,
+        "party": "Reimu",
+        "music": {
+            "player_phase": "The Gensokyo the Gods Loved",
+            "other_phase": "The Gensokyo the Gods Loved"
+        },
+        "objective": {
+            "simple": "",
+            "win": "",
+            "loss": ""
+        },
+        "roam": true,
+        "roam_unit": "Reimu",
+        "go_to_overworld": false,
+        "should_record": true,
+        "tags": [
+            "Intermission"
+        ],
+        "units": [
+            {
+                "nid": "Reimu",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    25
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Marisa",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    10,
+                    21
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Rinnosuke_NPC",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    17,
+                    18
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Kosuzu_NPC",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    18,
+                    21
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Miyoi_NPC",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    18,
+                    19
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Suika",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Kasen_NPC",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Tokiko",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Kokoro",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Letty",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Rin",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Kagerou",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Sena",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Yoshino",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Seiran",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Ringo",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Kogasa",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Kogasa_NPC",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Kyouko",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            }
+        ],
+        "regions": [
+            {
+                "nid": "NextChapter",
+                "region_type": "event",
+                "position": [
+                    14,
+                    25
+                ],
+                "size": [
+                    2,
+                    1
+                ],
+                "sub_nid": "Onward!",
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false,
+                "hide_time": false
+            }
+        ],
+        "unit_groups": [
+            {
+                "nid": "Suika",
+                "units": [
+                    "Suika"
+                ],
+                "positions": {
+                    "Suika": [
+                        10,
+                        19
+                    ]
+                }
+            },
+            {
+                "nid": "Chapter7Kasen",
+                "units": [
+                    "Kasen_NPC"
+                ],
+                "positions": {
+                    "Kasen_NPC": [
+                        9,
+                        20
+                    ]
+                }
+            },
+            {
+                "nid": "Letty",
+                "units": [
+                    "Letty"
+                ],
+                "positions": {
+                    "Letty": [
+                        15,
+                        16
+                    ]
+                }
+            },
+            {
+                "nid": "Tokiko",
+                "units": [
+                    "Tokiko"
+                ],
+                "positions": {
+                    "Tokiko": [
+                        16,
+                        16
+                    ]
+                }
+            },
+            {
+                "nid": "Kokoro",
+                "units": [
+                    "Kokoro"
+                ],
+                "positions": {
+                    "Kokoro": [
+                        14,
+                        16
+                    ]
+                }
+            },
+            {
+                "nid": "Rin",
+                "units": [
+                    "Rin"
+                ],
+                "positions": {
+                    "Rin": [
+                        9,
+                        22
+                    ]
+                }
+            },
+            {
+                "nid": "Kagerou",
+                "units": [
+                    "Kagerou"
+                ],
+                "positions": {
+                    "Kagerou": [
+                        9,
+                        18
+                    ]
+                }
+            },
+            {
+                "nid": "Chapter7Elites",
+                "units": [
+                    "Sena",
+                    "Yoshino"
+                ],
+                "positions": {
+                    "Sena": [
+                        18,
+                        20
+                    ],
+                    "Yoshino": [
+                        18,
+                        21
+                    ]
+                }
+            },
+            {
+                "nid": "Ringo",
+                "units": [
+                    "Ringo"
+                ],
+                "positions": {
+                    "Ringo": [
+                        11,
+                        17
+                    ]
+                }
+            },
+            {
+                "nid": "Seiran",
+                "units": [
+                    "Seiran"
+                ],
+                "positions": {
+                    "Seiran": [
+                        12,
+                        17
+                    ]
+                }
+            },
+            {
+                "nid": "Kogasa",
+                "units": [
+                    "Kogasa"
+                ],
+                "positions": {
+                    "Kogasa": [
+                        11,
+                        24
+                    ]
+                }
+            },
+            {
+                "nid": "KogasaNPC",
+                "units": [
+                    "Kogasa_NPC"
+                ],
+                "positions": {
+                    "Kogasa_NPC": [
+                        11,
+                        24
+                    ]
+                }
+            },
+            {
+                "nid": "Kyouko",
+                "units": [
+                    "Kyouko"
+                ],
+                "positions": {
+                    "Kyouko": [
+                        16,
+                        24
+                    ]
+                }
+            }
+        ],
+        "ai_groups": []
+    }
+]

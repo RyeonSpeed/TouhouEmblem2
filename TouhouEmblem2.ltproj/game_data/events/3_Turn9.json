@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Turn9",
+        "trigger": "turn_change",
+        "level_nid": "3",
+        "condition": "game.turncount == 9",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_group;Thief2;Thief2;fade;closest",
+            "move_cursor;28,4"
+        ],
+        "nid": "3 Turn9"
+    }
+]

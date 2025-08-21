@@ -1,0 +1,20 @@
+[
+    {
+        "name": "MaskReset",
+        "trigger": "level_end",
+        "level_nid": null,
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "remove_skill;Kokoro;Mask_Calm;no_banner",
+            "remove_skill;Kokoro;Mask_Anger;no_banner",
+            "remove_skill;Kokoro;Mask_Sad;no_banner",
+            "remove_skill;Kokoro;Mask_Happy;no_banner",
+            "remove_skill;Kokoro;Mask_Hope;no_banner",
+            "remove_skill;Kokoro;Mask_Hope2;no_banner"
+        ],
+        "nid": "Global MaskReset"
+    }
+]

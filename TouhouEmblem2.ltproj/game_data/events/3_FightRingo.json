@@ -1,0 +1,20 @@
+[
+    {
+        "name": "FightRingo",
+        "trigger": "combat_start",
+        "level_nid": "3",
+        "condition": "(unit.nid == \"Ringo_Boss\" and unit2.team == 'player') or (unit2.nid == \"Ringo_Boss\" and unit.team == 'player')",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "hide_combat_ui",
+            "music;Dullahan Under the Willows",
+            "add_portrait;Ringo;Left",
+            "speak;Ringo;Even here, it seems like we can't avoid conflict...|but what can I do? I'll just get this done with.",
+            "remove_portrait;Ringo",
+            "show_combat_ui"
+        ],
+        "nid": "3 FightRingo"
+    }
+]

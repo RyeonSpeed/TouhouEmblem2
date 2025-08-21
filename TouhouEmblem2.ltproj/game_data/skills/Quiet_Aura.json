@@ -1,0 +1,35 @@
+[
+    {
+        "nid": "Quiet_Aura",
+        "name": "Quiet!",
+        "desc": "-3 Mag/+3 Res.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            2,
+            2
+        ],
+        "components": [
+            [
+                "stat_change",
+                [
+                    [
+                        "MAG",
+                        -3
+                    ],
+                    [
+                        "RES",
+                        3
+                    ]
+                ]
+            ],
+            [
+                "hidden",
+                null
+            ],
+            [
+                "lost_on_end_chapter",
+                null
+            ]
+        ]
+    }
+]

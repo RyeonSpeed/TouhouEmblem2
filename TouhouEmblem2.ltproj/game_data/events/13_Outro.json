@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Outro",
+        "trigger": "level_end",
+        "level_nid": "13",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "if;game.turncount <= 18",
+            "give_bexp;1000",
+            "speak;;You completed the map in 18 or less turns! You got the full reward!;;;hint",
+            "elif;game.turncount > 18 and game.turncount <= 23",
+            "give_bexp;{e:500 - ((game.turncount - 20) * 200)}",
+            "speak;;Unfortunately, you completed the map in more than 15 turns, so your reward will be reduced accordingly.;;;hint",
+            "elif;game.turncount > 23",
+            "speak;;Lmao skill issue;;;hint",
+            "end",
+            "trigger_script;ENDING",
+            "game_var;chaptercount;13",
+            "set_next_chapter;Base"
+        ],
+        "nid": "13 Outro"
+    }
+]

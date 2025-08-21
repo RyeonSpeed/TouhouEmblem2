@@ -1,0 +1,28 @@
+[
+    {
+        "nid": "Grimoire_Display",
+        "name": "Grimoire",
+        "desc": "Patchouli's spell tome. Grants her access to a myriad of spells. Patchouli also gains \"Great, Unmoving Library\" when holding the grimoire. The grimoire has a cooldown of two turns.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            7,
+            5
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "weapon_type",
+                "Anima"
+            ],
+            [
+                "multi_status_on_equip",
+                [
+                    "GML"
+                ]
+            ]
+        ]
+    }
+]

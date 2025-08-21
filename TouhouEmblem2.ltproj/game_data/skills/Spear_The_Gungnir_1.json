@@ -1,0 +1,46 @@
+[
+    {
+        "nid": "Spear_The_Gungnir_1",
+        "name": "Spear The Gungnir",
+        "desc": "Remilia throws Gungnir up to 5 spaces away, dealing 1.5x damage. Applies bleeding before the enemy is hit. Uses up all of Gungnir's remaining durability. Deals post combat splash damage to adjacent tiles equal to Remilia's STR/2. Surehit.",
+        "icon_nid": "skillicons102724",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "armsthrift",
+                -9
+            ],
+            [
+                "damage_multiplier",
+                1.5
+            ],
+            [
+                "hit",
+                100
+            ],
+            [
+                "alternate_battle_anim",
+                "Critical"
+            ],
+            [
+                "post_combat_splash_aoe_evaluated",
+                1
+            ],
+            [
+                "post_combat_splash_evaluated",
+                "unit.get_stat('STR') * 0.5"
+            ],
+            [
+                "cannot_double",
+                null
+            ],
+            [
+                "item_override",
+                "Spear_The_Gungnir"
+            ]
+        ]
+    }
+]

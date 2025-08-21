@@ -1,0 +1,25 @@
+[
+    {
+        "name": "IntroCh7",
+        "trigger": "level_start",
+        "level_nid": "Base",
+        "condition": "game.game_vars['chaptercount'] == 5",
+        "commands": [],
+        "only_once": false,
+        "priority": 22,
+        "_source": [
+            "chapter_title",
+            "add_talk;Reimu;Marisa",
+            "add_group;Chapter7Kasen;Chapter7Kasen;fade;closest",
+            "add_talk;Reimu;Rinnosuke_NPC",
+            "add_talk;Reimu;Kosuzu_NPC",
+            "add_talk;Reimu;Miyoi_NPC",
+            "add_talk;Reimu;Kasen_NPC",
+            "add_lore;Elite_Mercenaries",
+            "trigger_script;Global Housekeeping1",
+            "game_var;ARMORY_ENTRY;['Iron_Sword', 'Iron_Axe', 'Iron_Lance', 'Iron_Bow', 'Ofuda', 'Heal', 'Slim_Sword', 'Slim_Lance', 'Slim_Axe', 'Slim_Bow', 'Flamberge', 'Flame_Lance', 'Flame_Axe', 'Steel_Sword', 'Steel_Axe', 'Steel_Lance', 'Steel_Bow', 'Omikuji', 'Mend', 'Restore']",
+            "game_var;SHOP_ENTRY;['Fire',  'Flux', 'Life_Gem', 'Poppet', 'Maple_Shield', 'Lucky_Clover', 'Lantern', 'Torch', 'Gust', 'Thunder', 'Slime', 'Yomi', 'Misfortune_Amulet', 'Forged_Shield', 'Eye_of_Senri', 'Gas_Mask', 'Fatigue_Balm_I', 'Fatigue_Balm_II']"
+        ],
+        "nid": "Base IntroCh7"
+    }
+]

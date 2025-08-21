@@ -1,0 +1,35 @@
+[
+    {
+        "nid": "Mask_Calm",
+        "name": "1000 Masks: Calm",
+        "desc": "+2 MOV/+4 STR/+4 SPD. \nMasks shift at Turn Start.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            2,
+            4
+        ],
+        "components": [
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "MOV",
+                        2
+                    ],
+                    [
+                        "STR",
+                        4
+                    ],
+                    [
+                        "SPD",
+                        4
+                    ]
+                ]
+            ]
+        ]
+    }
+]

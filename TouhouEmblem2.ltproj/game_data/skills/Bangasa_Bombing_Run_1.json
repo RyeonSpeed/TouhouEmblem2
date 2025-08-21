@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Bangasa_Bombing_Run_1",
+        "name": "Bangasa Bombing Run",
+        "desc": "Kogasa flies about, attacking every enemy in a 2 tile radius.",
+        "icon_nid": "moreskillicons",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "item_override",
+                "Bangasa_Bombing_Run"
+            ]
+        ]
+    }
+]

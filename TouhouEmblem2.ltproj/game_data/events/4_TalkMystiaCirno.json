@@ -1,0 +1,28 @@
+[
+    {
+        "name": "TalkMystiaCirno",
+        "trigger": "on_talk",
+        "level_nid": "4",
+        "condition": "unit.nid == 'Mystia' and unit2.nid == 'Cirno'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Mystia;Right",
+            "add_portrait;Cirno;Left",
+            "speak;Mystia;Hey, Cirno! We're here to get you!",
+            "speak;Cirno;Finally! Took you long enough, were you possessed or something?",
+            "speak;Mystia;I guess you could say that...",
+            "multi_remove_portrait;Mystia;Cirno",
+            "change_team;Cirno;player",
+            "remove_talk;Wriggle;Cirno",
+            "remove_talk;Rumia;Cirno",
+            "remove_talk;Mystia;Cirno",
+            "remove_talk;Star;Cirno",
+            "remove_talk;Sunny;Cirno",
+            "remove_talk;Luna;Cirno",
+            "add_lore;Cirno"
+        ],
+        "nid": "4 TalkMystiaCirno"
+    }
+]

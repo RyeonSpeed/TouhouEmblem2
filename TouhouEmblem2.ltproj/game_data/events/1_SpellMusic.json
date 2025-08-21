@@ -1,0 +1,23 @@
+[
+    {
+        "name": "SpellMusic",
+        "trigger": "combat_end",
+        "level_nid": "1",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 21,
+        "_source": [
+            "if;v('KagerouSpellMusic') == 0 and v('SekibankiSpellMusic') == 0",
+            "change_music;player_phase;Mist Lake",
+            "change_music;player_battle;Mist Lake",
+            "change_music;enemy_phase;Wayward Springs",
+            "change_music;enemy_battle;Wayward Springs",
+            "change_music;other_phase;Wayward Springs",
+            "change_music;other_battle;Wayward Springs",
+            "else",
+            "end"
+        ],
+        "nid": "1 SpellMusic"
+    }
+]

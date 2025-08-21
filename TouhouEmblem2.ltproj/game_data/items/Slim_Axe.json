@@ -1,0 +1,86 @@
+[
+    {
+        "nid": "Slim_Axe",
+        "name": "Slim Axe",
+        "desc": "A lightweight axe perfect for skirmishers. +2 Spd.",
+        "icon_nid": "slim jims",
+        "icon_index": [
+            2,
+            0
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                1
+            ],
+            [
+                "damage",
+                6
+            ],
+            [
+                "hit",
+                80
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "weight",
+                6
+            ],
+            [
+                "uses",
+                30
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Axe"
+            ],
+            [
+                "weapon_rank",
+                "E"
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "SPD",
+                        2
+                    ]
+                ]
+            ],
+            [
+                "value",
+                330
+            ],
+            [
+                "fatigue",
+                1
+            ]
+        ]
+    }
+]

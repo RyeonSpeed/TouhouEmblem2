@@ -1,0 +1,18 @@
+[
+    {
+        "name": "DeathStar",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "unit.nid == 'Star'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Star;FarRight",
+            "speak;Star;Time to make a break for it! I needed to do other things anyway!",
+            "expression;Star;CloseEyes",
+            "remove_portrait;Star"
+        ],
+        "nid": "Global DeathStar"
+    }
+]

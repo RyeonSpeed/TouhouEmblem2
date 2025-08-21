@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "StringsofOumagatoki",
+        "name": "Strings of Oumagatoki",
+        "desc": "Shinki summons Alice and a squadron of dolls to defend herself.\nCapture Bonus: Mandatory",
+        "icon_nid": "NewIcon2",
+        "icon_index": [
+            0,
+            4
+        ],
+        "components": [
+            [
+                "combat_art_indicator",
+                null
+            ]
+        ]
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "nid": "Infest_Effect_1",
+        "name": "Infested",
+        "desc": "-3 MOV.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            1,
+            1
+        ],
+        "components": [
+            [
+                "stat_change",
+                [
+                    [
+                        "MOV",
+                        -3
+                    ]
+                ]
+            ],
+            [
+                "unit_flickering_tint",
+                [
+                    85,
+                    170,
+                    127
+                ]
+            ],
+            [
+                "time",
+                2
+            ],
+            [
+                "lost_on_end_chapter",
+                null
+            ]
+        ]
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "nid": "Poisoned",
+        "name": "Poison",
+        "desc": "<blue>[Turn End]</blue> Take 3 DMG\n-2 Def/Res. Stacks up to 5 times.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            2,
+            1
+        ],
+        "components": [
+            [
+                "negative",
+                null
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "DEF",
+                        -2
+                    ],
+                    [
+                        "RES",
+                        -2
+                    ]
+                ]
+            ],
+            [
+                "upkeep_damage",
+                3
+            ],
+            [
+                "unit_flickering_tint",
+                [
+                    0,
+                    170,
+                    127
+                ]
+            ],
+            [
+                "condition",
+                "not has_skill(unit, 'GasMaskBonus')"
+            ],
+            [
+                "hidden_if_inactive",
+                null
+            ],
+            [
+                "lost_on_end_chapter",
+                null
+            ],
+            [
+                "time",
+                3
+            ],
+            [
+                "upkeep_sound",
+                "Poison"
+            ],
+            [
+                "upkeep_animation",
+                "MapPoison"
+            ]
+        ]
+    }
+]

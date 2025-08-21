@@ -1,0 +1,35 @@
+[
+    {
+        "nid": "ankh",
+        "name": "Ankh",
+        "desc": "",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "hidden",
+                null
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "RES",
+                        8
+                    ],
+                    [
+                        "DEF",
+                        -4
+                    ]
+                ]
+            ],
+            [
+                "condition",
+                "unit.equipped_accessory.data['uses'] > 0"
+            ]
+        ]
+    }
+]

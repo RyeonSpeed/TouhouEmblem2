@@ -1,0 +1,40 @@
+[
+    {
+        "name": "SpellReisen",
+        "trigger": "combat_end",
+        "level_nid": "5",
+        "condition": "game.check_dead(\"Reisen_Boss\")",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "change_music;player_phase;Dullahan Under the Willows",
+            "change_music;player_battle;Dullahan Under the Willows",
+            "change_music;enemy_phase;Dullahan Under the Willows",
+            "change_music;enemy_battle;Dullahan Under the Willows",
+            "add_portrait;Reisen;Left",
+            "speak;;*You've Already Gone Mad!*;center;160;hint;;red;;;1;;;;;Warp",
+            "add_group;ReisenSpell;ReisenSpell;warp;closest",
+            "autolevel_to;Reisen_Boss_1;10;fixed",
+            "move_cursor;Reisen_Boss_1",
+            "speak;Reisen;Face this lunacy!;;;;;;;;1",
+            "remove_portrait;Reisen",
+            "game_var;swap_units;[x.nid for x in game.get_player_units()]",
+            "game_var;swap_unit1;game.get_random_choice(v('swap_units'))",
+            "move_cursor;{v:swap_unit1}",
+            "flicker_cursor;{v:swap_unit1}",
+            "give_skill;{v:swap_unit1};Lunatic_Red_Eyes_Effect",
+            "game_var;swap_unit2;game.get_random_choice([x for x in v('swap_units') if x != v('swap_unit1')])",
+            "move_cursor;{v:swap_unit2}",
+            "flicker_cursor;{v:swap_unit2}",
+            "give_skill;{v:swap_unit2};Lunatic_Red_Eyes_Effect",
+            "if;game.phase.get_current() == 'enemy'",
+            "for;Spell;game.level.unit_groups.get('ReisenSpell').units",
+            "    has_finished;{Spell}",
+            "endf",
+            "else",
+            "end"
+        ],
+        "nid": "5 SpellReisen"
+    }
+]

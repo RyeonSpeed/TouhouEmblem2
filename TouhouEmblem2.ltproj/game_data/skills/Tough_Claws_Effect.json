@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Tough_Claws_Effect",
+        "name": "Tough Claws",
+        "desc": "<blue>[Combat Start]</blue> +4 DMG, -2 AS. Martial only.",
+        "icon_nid": "skillicons2_1",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "damage",
+                4
+            ],
+            [
+                "attack_speed",
+                -2
+            ]
+        ]
+    }
+]

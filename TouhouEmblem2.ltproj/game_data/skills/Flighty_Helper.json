@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "Flighty_Helper",
+        "name": "Flighty Helper",
+        "desc": "When >50% HP: Ignore rescue penalties. Canto+.",
+        "icon_nid": "skillicons102724(2)",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "ignore_rescue_penalty",
+                null
+            ],
+            [
+                "condition",
+                "unit.get_hp() >= unit.get_max_hp() / 2"
+            ],
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "canto_plus",
+                null
+            ]
+        ]
+    }
+]

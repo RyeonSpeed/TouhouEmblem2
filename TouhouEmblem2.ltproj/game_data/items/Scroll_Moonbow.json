@@ -1,0 +1,45 @@
+[
+    {
+        "nid": "Scroll_Moonbow",
+        "name": "Moonbow",
+        "desc": "An advanced technique taught to elite Lunarian soldiers.\nGrants the user the skill \"Moonbow\".",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            5,
+            12
+        ],
+        "components": [
+            [
+                "usable",
+                null
+            ],
+            [
+                "target_ally",
+                null
+            ],
+            [
+                "usable_in_base",
+                null
+            ],
+            [
+                "uses",
+                1
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "value",
+                5000
+            ],
+            [
+                "event_after_combat_even_miss",
+                "Global ScrollMoonbow"
+            ]
+        ]
+    }
+]

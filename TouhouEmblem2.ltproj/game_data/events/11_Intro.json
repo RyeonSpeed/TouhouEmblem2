@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Intro",
+        "trigger": "level_start",
+        "level_nid": "11",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "chapter_title",
+            "trigger_script;Housekeeping3",
+            "trigger_script;Housekeeping1",
+            "trigger_script;Housekeeping2",
+            "autolevel_to;Mamizou_Boss;18",
+            "autolevel_to;Alice_Boss_3;18",
+            "trigger_script;START",
+            "prep;1;Sealed Gods",
+            "speak;;This map's clear bonus is 1000 Bonus EXP, but you won't get a single point if you go over 15 turns!;;;hint"
+        ],
+        "nid": "11 Intro"
+    }
+]

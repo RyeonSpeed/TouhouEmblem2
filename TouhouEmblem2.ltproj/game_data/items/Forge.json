@@ -1,0 +1,48 @@
+[
+    {
+        "nid": "Forge",
+        "name": "Forge",
+        "desc": "Applies Metal.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            8,
+            0
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "weapon_type",
+                "Anima"
+            ],
+            [
+                "weapon_rank",
+                "E"
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "multi_item",
+                [
+                    "ForgeForge",
+                    "ForgeHydrate",
+                    "ForgeIgnite",
+                    "ForgeErode",
+                    "ForgeBloom"
+                ]
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                2
+            ]
+        ]
+    }
+]

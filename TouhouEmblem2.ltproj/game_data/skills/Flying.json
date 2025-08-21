@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Flying",
+        "name": "Flying",
+        "desc": "Can fly.",
+        "icon_nid": "skillicons102724",
+        "icon_index": [
+            1,
+            2
+        ],
+        "components": [
+            [
+                "ignore_terrain",
+                null
+            ],
+            [
+                "class_skill",
+                null
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

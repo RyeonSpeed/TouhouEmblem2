@@ -1,0 +1,141 @@
+[
+    {
+        "nid": "Summoner",
+        "name": "Summoner",
+        "desc": "A sorcerer who can summon helpers to assist them in battle.\nTags: Magic",
+        "tier": 2,
+        "movement_group": "Mages",
+        "promotes_from": "Puppeteer",
+        "turns_into": [],
+        "tags": [
+            "Magic"
+        ],
+        "max_level": 40,
+        "bases": {
+            "HP": 22,
+            "STR": 1,
+            "MAG": 6,
+            "SKL": 5,
+            "SPD": 5,
+            "LCK": 0,
+            "DEF": 8,
+            "RES": 9,
+            "CON": 7,
+            "MOV": 5
+        },
+        "growths": {
+            "HP": 50,
+            "STR": 10,
+            "MAG": 35,
+            "SKL": 40,
+            "SPD": 30,
+            "LCK": 20,
+            "DEF": 35,
+            "RES": 30,
+            "CON": 0,
+            "MOV": 0
+        },
+        "growth_bonus": {
+            "HP": 0,
+            "STR": 0,
+            "MAG": 0,
+            "SKL": 0,
+            "SPD": 0,
+            "LCK": 0,
+            "DEF": 0,
+            "RES": 0,
+            "CON": 0,
+            "MOV": 0
+        },
+        "promotion": {
+            "HP": 6,
+            "STR": 0,
+            "MAG": 1,
+            "SKL": 1,
+            "SPD": 1,
+            "LCK": 0,
+            "DEF": 5,
+            "RES": 5,
+            "CON": 2,
+            "MOV": -99
+        },
+        "max_stats": {
+            "HP": 80,
+            "STR": 20,
+            "MAG": 26,
+            "SKL": 28,
+            "SPD": 23,
+            "LCK": 30,
+            "DEF": 30,
+            "RES": 30,
+            "CON": 20,
+            "MOV": 15
+        },
+        "learned_skills": [],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0,
+                251
+            ],
+            "Lance": [
+                false,
+                0,
+                251
+            ],
+            "Axe": [
+                false,
+                0,
+                251
+            ],
+            "Bow": [
+                false,
+                0,
+                251
+            ],
+            "Staff": [
+                true,
+                71,
+                121
+            ],
+            "Light": [
+                false,
+                0,
+                251
+            ],
+            "Anima": [
+                false,
+                0,
+                251
+            ],
+            "Dark": [
+                true,
+                1,
+                251
+            ],
+            "Martial": [
+                false,
+                0,
+                null
+            ],
+            "Default": [
+                false,
+                0,
+                251
+            ],
+            "Monster": [
+                false,
+                0,
+                null
+            ]
+        },
+        "icon_nid": "Generic_Portrait_Shaman",
+        "icon_index": [
+            0,
+            0
+        ],
+        "map_sprite_nid": "Summoner (F) {VelvetKitsune}-stand",
+        "combat_anim_nid": "Shaman",
+        "fields": []
+    }
+]

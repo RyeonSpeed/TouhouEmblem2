@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Suika",
+        "trigger": "on_talk",
+        "level_nid": "Base",
+        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Suika'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "music;Comrades",
+            "add_portrait;Suika;Left;ExpressionList=Smile",
+            "add_portrait;Reimu;CenterRight",
+            "add_portrait;Kasen;FarRight",
+            "speak;Suika;Heyyy!",
+            "speak;Reimu;Oh, there you are.",
+            "speak;Kasen;Suika? What's going on?",
+            "speak;Suika;Heard there was a party goin' on, so I decided to join!",
+            "speak;Reimu;Battle party.",
+            "speak;Suika;All the same to me! Let's have some fun!",
+            "speak;Kasen;*sigh*",
+            "multi_remove_portrait;Reimu;Kasen;Suika",
+            "sound;Item",
+            "alert;Suika joined the party!",
+            "give_bexp;25;no_banner",
+            "add_lore;Suika",
+            "change_team;Suika;player",
+            "remove_talk;Reimu;Suika",
+            "music_clear"
+        ],
+        "nid": "Base Suika"
+    }
+]

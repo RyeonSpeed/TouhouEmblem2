@@ -1,0 +1,33 @@
+[
+    {
+        "name": "SpellAlice",
+        "trigger": "combat_end",
+        "level_nid": "11",
+        "condition": "game.check_dead(\"Alice_Boss_3\")",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "change_music;player_phase;Plastic Mind",
+            "change_music;player_battle;Plastic Mind",
+            "change_music;enemy_phase;Plastic Mind",
+            "change_music;enemy_battle;Plastic Mind",
+            "change_music;enemy2_phase;Plastic Mind",
+            "change_music;enemy2_battle;Plastic Mind",
+            "add_portrait;Alice_Boss;Left",
+            "speak;;Triad of Magic;center;155;hint;;red;;;1;;;;;Warp",
+            "speak;Alice_Boss;Face a perfected form of magic!",
+            "remove_portrait;Alice_Boss",
+            "add_group;Alice2Spell;Alice2Spell;warp;closest",
+            "autolevel_to;Alice_Boss_4;19;fixed",
+            "move_cursor;Alice_Boss_4",
+            "if;game.phase.get_current() == 'enemy'",
+            "for;Spell;game.level.unit_groups.get('Alice2Spell').units",
+            "    has_finished;{Spell}",
+            "endf",
+            "else",
+            "end"
+        ],
+        "nid": "11 SpellAlice"
+    }
+]

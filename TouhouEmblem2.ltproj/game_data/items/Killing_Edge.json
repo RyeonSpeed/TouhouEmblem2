@@ -1,0 +1,81 @@
+[
+    {
+        "nid": "Killing_Edge",
+        "name": "Killing Edge",
+        "desc": "Used by seasoned duelists to end fights in one blow.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            0,
+            3
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "value",
+                1300
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                1
+            ],
+            [
+                "damage",
+                9
+            ],
+            [
+                "hit",
+                75
+            ],
+            [
+                "crit",
+                30
+            ],
+            [
+                "weight",
+                7
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Sword"
+            ],
+            [
+                "weapon_rank",
+                "C"
+            ],
+            [
+                "uses",
+                20
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "warning",
+                null
+            ],
+            [
+                "fatigue",
+                1
+            ]
+        ]
+    }
+]

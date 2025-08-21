@@ -1,0 +1,18 @@
+[
+    {
+        "name": "New Event",
+        "trigger": "combat_start",
+        "level_nid": "DEBUG_1",
+        "condition": "check_default('Sekibanki_Boss', [])",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "music;Dullahan Under the Willows",
+            "add_portrait;Wakasagihime;Left",
+            "speak;Wakasagihime;Just because you're above the water doesn't mean you're safe from it!",
+            "remove_portrait;Wakasagihime"
+        ],
+        "nid": "DEBUG_1 New Event"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Fatigue",
+        "trigger": "on_base_convo",
+        "level_nid": "6",
+        "condition": "unit == 'Fatigue'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "transition;close",
+            "change_background;Camp Tent Interior",
+            "transition;open",
+            "add_portrait;Reimu;CenterRight",
+            "add_portrait;Kasen;CenterLeft",
+            "speak;Reimu;Whew...I feel so tired.",
+            "speak;Kasen;Must be the fatigue speaking.",
+            "speak;Reimu;I'm not that tired. I should be fine.",
+            "speak;Kasen;Somehow, you are. But not everybody else.\u2028People build up fatigue over time.|If you don't watch out, they might get\u2028tired and be unable to fight.",
+            "speak;Reimu;Weak.",
+            "multi_remove_portrait;Kasen,Reimu",
+            "give_bexp;25;no_banner",
+            "transition;close",
+            "change_background",
+            "remove_base_convo;Fatigue",
+            "transition;open"
+        ],
+        "nid": "6 Fatigue"
+    }
+]

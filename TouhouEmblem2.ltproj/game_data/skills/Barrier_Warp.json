@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "Barrier_Warp",
+        "name": "Barrier Warp",
+        "desc": "Swaps places with a mobile enemy up to 5 tiles away. \nUnit may attack but not move after use.",
+        "icon_nid": "NewIcon2",
+        "icon_index": [
+            0,
+            5
+        ],
+        "components": [
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "ability",
+                "BarrierWarp"
+            ],
+            [
+                "build_charge_start_charged",
+                1
+            ],
+            [
+                "upkeep_charge_increase",
+                1
+            ]
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Kokoro",
+        "trigger": "on_talk",
+        "level_nid": "Base",
+        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Kokoro'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "music;Comrades",
+            "table;GoldDisplay;str(game.get_money())+'G';Funds;Alignment=top_right;RowWidth=60;expression",
+            "add_portrait;Kokoro;Left",
+            "add_portrait;Reimu;Right",
+            "speak;Kokoro;Hark! Shrine maiden of Hakurei!",
+            "speak;Reimu;It's the menreiki. What are you doing here?",
+            "speak;Kokoro;Gimme a job!",
+            "speak;Reimu;I see...",
+            "speak;Kokoro;You need extra hands, right~?",
+            "speak;Reimu;I guess so...?",
+            "choice;Hire;Hire for 3000 gold?;Yes,No;backable",
+            "if;'{v:Hire}' == 'Yes' and game.get_money() < 3000",
+            "speak;Kokoro;Such foolishness! To attempt to hire someone with no capital!",
+            "speak;Reimu;You came up to me yourself...",
+            "finish",
+            "elif;'{v:Hire}' == 'Yes' and game.get_money() >= 3000",
+            "speak;Kokoro;Hehehe...rolling in dough!",
+            "speak;Reimu;Err...yeah.",
+            "give_money;-3000;Reimu;no_banner",
+            "change_team;Kokoro;player",
+            "remove_talk;Reimu;Kokoro",
+            "multi_remove_portrait;Reimu;Kokoro",
+            "sound;Item",
+            "alert;Kokoro joined the party!",
+            "add_lore;Kokoro",
+            "elif;'{v:Hire}' == 'No'",
+            "speak;Kokoro;Awww man...",
+            "end"
+        ],
+        "nid": "Base Kokoro"
+    }
+]

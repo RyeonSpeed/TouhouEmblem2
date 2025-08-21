@@ -1,0 +1,36 @@
+[
+    {
+        "nid": "NoSelect",
+        "name": "NoSelect",
+        "desc": "",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "unselectable",
+                null
+            ],
+            [
+                "hidden",
+                null
+            ],
+            [
+                "modify_ai_priority",
+                0.0
+            ],
+            [
+                "immune_status",
+                null
+            ],
+            [
+                "has_tags",
+                [
+                    "Unrescuable"
+                ]
+            ]
+        ]
+    }
+]

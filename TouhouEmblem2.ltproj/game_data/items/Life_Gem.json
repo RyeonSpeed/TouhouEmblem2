@@ -1,0 +1,49 @@
+[
+    {
+        "nid": "Life_Gem",
+        "name": "Life Gem",
+        "desc": "Sold as a snake oil remedy. Restores 10 HP.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            4,
+            0
+        ],
+        "components": [
+            [
+                "usable",
+                null
+            ],
+            [
+                "value",
+                300
+            ],
+            [
+                "target_ally",
+                null
+            ],
+            [
+                "uses",
+                3
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "heal",
+                10
+            ],
+            [
+                "map_hit_add_blend",
+                [
+                    96,
+                    144,
+                    232
+                ]
+            ]
+        ]
+    }
+]

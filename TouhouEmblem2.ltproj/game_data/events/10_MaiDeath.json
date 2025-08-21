@@ -1,0 +1,19 @@
+[
+    {
+        "name": "MaiDeath",
+        "trigger": "unit_death",
+        "level_nid": "10",
+        "condition": "unit.nid == 'Mai_Boss'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "give_bexp;200;Reimu",
+            "wait;1000",
+            "remove_weather;snow",
+            "remove_weather;night",
+            "wait;1000"
+        ],
+        "nid": "10 MaiDeath"
+    }
+]

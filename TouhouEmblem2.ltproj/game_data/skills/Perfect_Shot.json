@@ -1,0 +1,38 @@
+[
+    {
+        "nid": "Perfect_Shot",
+        "name": "Perfect Shot",
+        "desc": "<blue>[Combat Start]</blue> +30 Crit. Bows only.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            4,
+            0
+        ],
+        "components": [
+            [
+                "build_charge_start_charged",
+                4
+            ],
+            [
+                "combat_art_indicator",
+                null
+            ],
+            [
+                "allowed_weapons",
+                "item_system.weapon_type(unit, item) in ['Bow']"
+            ],
+            [
+                "combat_art",
+                "Perfect_Shot_Effect"
+            ],
+            [
+                "combat_charge_increase",
+                1
+            ],
+            [
+                "upkeep_charge_increase",
+                1
+            ]
+        ]
+    }
+]

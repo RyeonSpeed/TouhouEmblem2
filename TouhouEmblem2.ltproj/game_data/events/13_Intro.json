@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Intro",
+        "trigger": "level_start",
+        "level_nid": "13",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "chapter_title",
+            "trigger_script;Housekeeping3",
+            "trigger_script;Housekeeping1",
+            "trigger_script;Housekeeping2",
+            "trigger_script;START",
+            "autolevel_to;Youmu_Boss;15;fixed;no_warn",
+            "prep;1;Sealed Gods",
+            "speak;;This map's clear bonus is 1000 Bonus EXP, with a decrease of 200 BExp per turn you take over 18 turns!;;;hint"
+        ],
+        "nid": "13 Intro"
+    }
+]

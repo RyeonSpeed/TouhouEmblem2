@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Lethal_Life_Flow1",
+        "name": "Lethal Life Flow",
+        "desc": "<blue>[On Use]</blue> Kill a non-boss enemy.",
+        "icon_nid": "skillicons102524(1)",
+        "icon_index": [
+            1,
+            2
+        ],
+        "components": [
+            [
+                "damage",
+                1000
+            ],
+            [
+                "combat_condition",
+                "\"Boss\" in unit2.tags"
+            ],
+            [
+                "hit",
+                100
+            ]
+        ]
+    }
+]

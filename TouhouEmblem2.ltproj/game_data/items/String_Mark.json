@@ -1,0 +1,38 @@
+[
+    {
+        "nid": "String_Mark",
+        "name": "String Mark",
+        "desc": "Afflicted unit will suffer -15% Crit Avoid.",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                2
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "status_on_hit",
+                "PuppeteersMark"
+            ],
+            [
+                "cannot_be_countered",
+                null
+            ],
+            [
+                "map_hit_sfx",
+                "Curse"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "ShinkiSpell2",
+        "trigger": "combat_end",
+        "level_nid": "14",
+        "condition": "game.check_dead(\"Shinki_Boss_1\") ",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Shinki;CenterLeft",
+            "add_portrait;PC-98 Alice;FarLeft",
+            "speak;;Strings of Oumagatoki;center;130;hint;;red;;;1;;;;;Warp",
+            "speak;Shinki;Come with me, Alice!",
+            "speak;PC-98 Alice;I'll string you up!",
+            "remove_portrait;Shinki",
+            "remove_portrait;PC-98 Alice",
+            "add_group;Shinki2;Shinki2;warp;closest",
+            "autolevel_to;Shinki_Boss_2;22;fixed",
+            "autolevel_to;Alice_Boss_5;18;fixed",
+            "move_cursor;Shinki_Boss_1",
+            "move_cursor;Alice_Boss_5",
+            "if;game.phase.get_current() == 'enemy'",
+            "for;Spell;game.level.unit_groups.get('Shinki2').units",
+            "    has_finished;{Spell}",
+            "endf",
+            "else",
+            "end"
+        ],
+        "nid": "14 ShinkiSpell2"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Deathbox",
+        "trigger": "on_base_convo",
+        "level_nid": "4",
+        "condition": "unit == 'Deathbox'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "transition;close",
+            "change_background;Camp Tent Interior",
+            "transition;open",
+            "add_portrait;Marisa;Left",
+            "add_portrait;Reimu;CenterRight",
+            "add_portrait;Kasen;FarRight",
+            "speak;Kasen;Are you two prepared for the upcoming battle?",
+            "speak;Reimu;What's there to prepare for? We'll just blast through the enemy, as always.",
+            "speak;Kasen;I wouldn't speak too soon. The front of Eientei looks a bit strange...it feels like|they're trying to lead us into a chokepoint.",
+            "speak;Marisa;What makes ya say that?",
+            "speak;Kasen;Look at that narrow space. It's perfect for archers to shoot us through.",
+            "speak;Reimu;But how would we get around that?",
+            "speak;Kasen;There might be a weakness in the walls somewhere...we'll have to see.",
+            "multi_remove_portrait;Reimu;Kasen;Marisa",
+            "give_bexp;25;no_banner",
+            "transition;close",
+            "change_background",
+            "remove_base_convo;Deathbox",
+            "transition;open"
+        ],
+        "nid": "4 Deathbox"
+    }
+]

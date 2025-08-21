@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Gallant_Thrust_Effect",
+        "name": "Gallant Thrust",
+        "desc": "<blue>[Combat Start]</blue> +6 DMG, +5 DMG taken, -20% CRIT AVOID. Lances only.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            2,
+            0
+        ],
+        "components": [
+            [
+                "damage",
+                6
+            ],
+            [
+                "resist",
+                -5
+            ],
+            [
+                "crit_avoid",
+                -20
+            ]
+        ]
+    }
+]

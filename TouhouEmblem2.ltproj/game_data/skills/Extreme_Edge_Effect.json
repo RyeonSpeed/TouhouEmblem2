@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Extreme_Edge_Effect",
+        "name": "Extreme Edge",
+        "desc": "<blue>[Combat Start]</blue> +40 Crit. Swords only.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            1,
+            0
+        ],
+        "components": [
+            [
+                "crit",
+                40
+            ]
+        ]
+    }
+]

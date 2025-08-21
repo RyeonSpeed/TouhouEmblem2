@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Door1_1",
+        "trigger": "Door",
+        "level_nid": "Backburner",
+        "condition": "region.nid == 'Door1_1'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "move_unit;{unit};15,16;warp;giveup",
+            "has_finished;{unit}",
+            "reset;{unit}",
+            "for;FILLER;range(1,{e:",
+            "give_skill;{unit};Exhausted;no_banner"
+        ],
+        "nid": "Backburner Door1_1"
+    }
+]

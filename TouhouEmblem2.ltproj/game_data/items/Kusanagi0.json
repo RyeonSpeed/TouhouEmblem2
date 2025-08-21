@@ -1,0 +1,80 @@
+[
+    {
+        "nid": "Kusanagi0",
+        "name": "Kusanagi?",
+        "desc": "Prf Rinnosuke. Purportedly the legendary sword of Japan. Exceptionally weak. The blade calls for 5 souls...\nKills: {v:KusanagiKills}",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            3,
+            10
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                1
+            ],
+            [
+                "damage",
+                3
+            ],
+            [
+                "hit",
+                60
+            ],
+            [
+                "crit",
+                -99
+            ],
+            [
+                "weight",
+                5
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Sword"
+            ],
+            [
+                "wexp",
+                3
+            ],
+            [
+                "prf_unit",
+                [
+                    "Rinnosuke"
+                ]
+            ],
+            [
+                "fatigue",
+                1
+            ],
+            [
+                "locked",
+                null
+            ],
+            [
+                "status_on_equip",
+                "Kusanagi_Gold"
+            ],
+            [
+                "event_after_combat_even_miss",
+                "Global KusanagiKills"
+            ]
+        ]
+    }
+]

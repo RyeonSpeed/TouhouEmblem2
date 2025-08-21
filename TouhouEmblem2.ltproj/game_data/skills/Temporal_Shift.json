@@ -1,0 +1,34 @@
+[
+    {
+        "nid": "Temporal_Shift",
+        "name": "Temporal Shift",
+        "desc": "<blue>[On Use]</blue> Refreshes self. Gain \"Luna Dial\" until Turn End. (Units within a 3 tile radius of user receive -4 SPD/-5 MOV.)",
+        "icon_nid": "skillicons102524",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "ability",
+                "Temporal_Shift"
+            ],
+            [
+                "build_charge_start_charged",
+                7
+            ],
+            [
+                "combat_charge_increase",
+                1
+            ],
+            [
+                "upkeep_charge_increase",
+                1
+            ],
+            [
+                "combat_art_indicator",
+                null
+            ]
+        ]
+    }
+]

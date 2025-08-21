@@ -1,0 +1,81 @@
+[
+    {
+        "nid": "Lancesmasher",
+        "name": "Lancesmasher",
+        "desc": "Doubles weapon triangle effects.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            2,
+            10
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "value",
+                2100
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                1
+            ],
+            [
+                "damage",
+                11
+            ],
+            [
+                "hit",
+                65
+            ],
+            [
+                "crit",
+                5
+            ],
+            [
+                "weight",
+                13
+            ],
+            [
+                "uses",
+                15
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Axe"
+            ],
+            [
+                "weapon_rank",
+                "C"
+            ],
+            [
+                "fatigue",
+                1
+            ],
+            [
+                "double_triangle",
+                null
+            ]
+        ]
+    }
+]

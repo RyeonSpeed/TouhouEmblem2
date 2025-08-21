@@ -1,0 +1,34 @@
+[
+    {
+        "name": "ReimuRumiaTalk",
+        "trigger": "on_talk",
+        "level_nid": "1",
+        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Rumia'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "music;Comrades",
+            "add_portrait;Reimu;Left",
+            "add_portrait;Rumia;Right",
+            "speak;Reimu;Oh, well look what the cat dragged in.",
+            "speak;Rumia;I-I'm not afraid of you! I'll take you down today!",
+            "speak;Reimu;Sure, and the Hakurei God is gonna get their power back next week. Try me.",
+            "speak;Rumia;Uh...",
+            "speak;Reimu;You're quivering.",
+            "speak;Rumia;Hiyah! Take this!",
+            "speak;Reimu;Missed.",
+            "speak;Rumia;On second thought, I think I'll just lea-",
+            "speak;Reimu;Hm, you could be an asset actually.",
+            "speak;Rumia;What",
+            "speak;Reimu;I don't really like having more youkai around, but welcome to the team.",
+            "speak;Rumia;Huh",
+            "change_team;Rumia;player",
+            "remove_talk;Reimu;Rumia",
+            "remove_talk;Marisa;Rumia",
+            "remove_skill;Rumia;Looter",
+            "music_fade_back"
+        ],
+        "nid": "1 ReimuRumiaTalk"
+    }
+]

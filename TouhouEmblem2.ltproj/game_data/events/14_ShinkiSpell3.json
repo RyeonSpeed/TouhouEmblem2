@@ -1,0 +1,32 @@
+[
+    {
+        "name": "ShinkiSpell3",
+        "trigger": "combat_end",
+        "level_nid": "14",
+        "condition": "game.check_dead(\"Shinki_Boss_2\") ",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Shinki;Left",
+            "speak;;Hour of Demons: Oumagatoki;center;130;hint;;red;;;1;;;;;Warp",
+            "speak;Shinki;Demons of Makai, march to the aid of your master!",
+            "remove_portrait;Shinki",
+            "add_group;Shinki3;Shinki3;warp;closest",
+            "autolevel_to;Shinki_Boss_3;22;fixed",
+            "autolevel_to;Sara_Boss_2;18;fixed",
+            "autolevel_to;Louise_Boss_2;18;fixed",
+            "move_cursor;Shinki_Boss_3",
+            "move_cursor;15,3",
+            "add_group;Cultists;Cultists;warp;closest",
+            "move_cursor;Shinki_Boss_3",
+            "if;game.phase.get_current() == 'enemy'",
+            "for;Spell;game.level.unit_groups.get('Shinki3').units",
+            "    has_finished;{Spell}",
+            "endf",
+            "else",
+            "end"
+        ],
+        "nid": "14 ShinkiSpell3"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Void_Curse",
+        "name": "Void Curse",
+        "desc": "No EXP can be gained from this unit.",
+        "icon_nid": "NewIcon6",
+        "icon_index": [
+            0,
+            4
+        ],
+        "components": [
+            [
+                "enemy_exp_multiplier",
+                0
+            ],
+            [
+                "lost_on_end_chapter",
+                null
+            ]
+        ]
+    }
+]

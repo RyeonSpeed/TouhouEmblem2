@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Purifying_Sutra_Effect",
+        "name": "Purifying Sutra",
+        "desc": "<blue>[On Hit]</blue>Heal HP = 50% DMG dealt. Light only.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            5,
+            0
+        ],
+        "components": [
+            [
+                "lifelink",
+                0.5
+            ]
+        ]
+    }
+]

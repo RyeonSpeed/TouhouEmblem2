@@ -1,0 +1,97 @@
+[
+    {
+        "nid": "Fukiya",
+        "name": "Fukiya",
+        "desc": "Used to discreetly eliminate targets.\nBrave, but cannot double. Anti-Fliers.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            3,
+            0
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "value",
+                1200
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                2
+            ],
+            [
+                "max_range",
+                2
+            ],
+            [
+                "damage",
+                7
+            ],
+            [
+                "hit",
+                75
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "weight",
+                6
+            ],
+            [
+                "uses",
+                20
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Bow"
+            ],
+            [
+                "weapon_rank",
+                "C"
+            ],
+            [
+                "effective_damage",
+                {
+                    "effective_tags": [
+                        "Flying"
+                    ],
+                    "effective_multiplier": 3.0,
+                    "effective_bonus_damage": 10,
+                    "show_effectiveness_flash": true,
+                    "weapon_effectiveness_multiplied": true
+                }
+            ],
+            [
+                "fatigue",
+                1
+            ],
+            [
+                "brave",
+                null
+            ],
+            [
+                "no_double",
+                null
+            ]
+        ]
+    }
+]

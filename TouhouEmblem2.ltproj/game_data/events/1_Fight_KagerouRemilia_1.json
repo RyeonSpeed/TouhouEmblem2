@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Fight Kagerou/Remilia_1",
+        "trigger": "combat_start",
+        "level_nid": "1",
+        "condition": "unit.nid == 'Kagerou' and unit2.nid == 'Remilia'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "hide_combat_ui",
+            "music;Dullahan Under the Willows",
+            "add_portrait;Kagerou;Left",
+            "speak;Kagerou;The mansion's vampire?! Here?!",
+            "add_portrait;Remilia;Right",
+            "speak;Remilia;A werewolf, eh? Even under the full moon, you'd just be a small fry before the queen of|the night.",
+            "speak;Kagerou;Ha! It's my chance to beat you and show you who really rules the night!",
+            "speak;Remilia;Fufufu...Your confidence amuses me.",
+            "multi_remove_portrait;Kagerou;Remilia",
+            "show_combat_ui"
+        ],
+        "nid": "1 Fight Kagerou/Remilia_1"
+    }
+]

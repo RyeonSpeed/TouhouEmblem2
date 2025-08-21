@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Warp_Kingdom",
+        "name": "Warp Kingdom",
+        "desc": "<blue>[On Use]</blue> Warps adjacent ally (max 3 tiles). Max 3 uses per map. ",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            5,
+            2
+        ],
+        "components": [
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "ability",
+                "Warp_Kingdom"
+            ],
+            [
+                "drain_charge",
+                3
+            ]
+        ]
+    }
+]

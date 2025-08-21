@@ -1,0 +1,20 @@
+[
+    {
+        "name": "DeathMystia",
+        "trigger": "combat_death",
+        "level_nid": "2",
+        "condition": "unit.nid == \"Mystia_Boss\"",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "hide_combat_ui",
+            "add_portrait;Mystia;Left",
+            "speak;Mystia;Ah, I knew I should've brought a weapon.",
+            "expression;Mystia;CloseEyes",
+            "remove_portrait;Mystia",
+            "show_combat_ui"
+        ],
+        "nid": "2 DeathMystia"
+    }
+]

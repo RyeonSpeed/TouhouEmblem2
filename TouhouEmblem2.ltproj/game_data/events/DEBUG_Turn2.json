@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Turn2",
+        "trigger": "combat_end",
+        "level_nid": "DEBUG",
+        "condition": "False",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "game_var;swap_units;[x.nid for x in game.get_player_units()]",
+            "game_var;swap_unit1;game.get_random_choice(v('swap_units'))",
+            "move_cursor;{v:swap_unit1}",
+            "flicker_cursor;{v:swap_unit1}",
+            "give_skill;{v:swap_unit1};Lunatic_Red_Eyes_Effect",
+            "game_var;swap_unit2;game.get_random_choice([x for x in v('swap_units') if x != v('swap_unit1')])",
+            "move_cursor;{v:swap_unit2}",
+            "flicker_cursor;{v:swap_unit2}",
+            "give_skill;{v:swap_unit2};Lunatic_Red_Eyes_Effect",
+            "if;game.phase.get_current() == 'enemy'",
+            "for;Spell;game.level.unit_groups.get('ReisenSpell').units",
+            "    has_finished;{Spell}",
+            "endf",
+            "else",
+            "end"
+        ],
+        "nid": "DEBUG Turn2"
+    }
+]

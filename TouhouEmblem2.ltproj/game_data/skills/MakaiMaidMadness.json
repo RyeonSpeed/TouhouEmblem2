@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "MakaiMaidMadness",
+        "name": "Makai Maid Madness",
+        "desc": "Shinki teleports away and summons her Makai maid squadron.\nCapture Bonus: Mandatory",
+        "icon_nid": "NewIcon2",
+        "icon_index": [
+            0,
+            4
+        ],
+        "components": [
+            [
+                "combat_art_indicator",
+                null
+            ]
+        ]
+    }
+]

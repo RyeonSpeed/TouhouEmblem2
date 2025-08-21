@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Nature_Power",
+        "name": "Nature Power",
+        "desc": "Per 1 RES, +1 CRIT.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            8,
+            1
+        ],
+        "components": [
+            [
+                "eval_crit",
+                "unit.get_stat('RES')"
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

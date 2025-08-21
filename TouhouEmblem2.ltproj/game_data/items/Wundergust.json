@@ -1,0 +1,109 @@
+[
+    {
+        "nid": "Wundergust",
+        "name": "Wundergust",
+        "desc": "A powerful breeze that strikes enemies from far away. Anti-Fliers. ",
+        "icon_nid": "AnimaMagic",
+        "icon_index": [
+            0,
+            3
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                2
+            ],
+            [
+                "max_range",
+                5
+            ],
+            [
+                "damage",
+                6
+            ],
+            [
+                "hit",
+                75
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "weight",
+                11
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Anima"
+            ],
+            [
+                "weapon_rank",
+                "C"
+            ],
+            [
+                "map_hit_add_blend",
+                [
+                    0,
+                    255,
+                    127
+                ]
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "value",
+                2000
+            ],
+            [
+                "uses",
+                30
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "wexp",
+                2
+            ],
+            [
+                "effective_damage",
+                {
+                    "effective_tags": [
+                        "Flying"
+                    ],
+                    "effective_multiplier": 1.5,
+                    "effective_bonus_damage": 3,
+                    "show_effectiveness_flash": true,
+                    "weapon_effectiveness_multiplied": true
+                }
+            ],
+            [
+                "fatigue",
+                1
+            ],
+            [
+                "battle_cast_anim",
+                "Wundergust"
+            ]
+        ]
+    }
+]

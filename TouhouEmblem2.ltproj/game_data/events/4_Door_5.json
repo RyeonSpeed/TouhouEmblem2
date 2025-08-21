@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Door_5",
+        "trigger": "Door",
+        "level_nid": "4",
+        "condition": "region.nid == 'Door_5'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "unlock;{unit}",
+            "show_layer;Door5",
+            "add_portrait;{unit};Left",
+            "speak;{unit};Alright! You're all free now!",
+            "add_portrait;zun_cultist;Right;",
+            "speak;zun_cultist;...;no_talk",
+            "remove_portrait;zun_cultist",
+            "speak;{unit};What a weirdo.",
+            "add_portrait;Cirno;CenterRight",
+            "add_portrait;Daiyousei;FarRight",
+            "speak;Cirno;Aha! I knew we'd be free, Dai!",
+            "speak;Daiyousei;Good thing we were lucky...",
+            "speak;Cirno;Luck shmuck, let's get outta here!",
+            "multi_remove_portrait;{unit};Cirno;Daiyousei",
+            "change_ai;Cirno;GreenEscape",
+            "change_ai;Daiyousei;GreenEscape",
+            "change_ai;145;GreenEscape",
+            "change_ai;146;GreenEscape",
+            "change_ai;147;GreenEscape",
+            "speak;;While unecessary, it may be beneficial to help these mysterious robed people escape here!;;;hint",
+            "add_group;BreakoutRein1;BreakoutRein1",
+            "move_cursor;153",
+            "flicker_cursor;153",
+            "has_finished;{unit}"
+        ],
+        "nid": "4 Door_5"
+    }
+]

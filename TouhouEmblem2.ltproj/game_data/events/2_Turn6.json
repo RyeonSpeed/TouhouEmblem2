@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Turn6",
+        "trigger": "turn_change",
+        "level_nid": "2",
+        "condition": "game.turncount == 6",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_group;Rein3;Rein3;fade;closest",
+            "end"
+        ],
+        "nid": "2 Turn6"
+    }
+]

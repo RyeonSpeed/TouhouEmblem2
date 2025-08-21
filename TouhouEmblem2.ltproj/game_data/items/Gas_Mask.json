@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "Gas_Mask",
+        "name": "Gas Mask",
+        "desc": "It says \"Manufactured in 1916, Germany\". Immune to poison. +2 Res. -2 sight in the dark. Only one accesory can be equipped at a time.",
+        "icon_nid": "accessories",
+        "icon_index": [
+            0,
+            7
+        ],
+        "components": [
+            [
+                "value",
+                800
+            ],
+            [
+                "equippable_accessory",
+                null
+            ],
+            [
+                "status_on_equip",
+                "GasMaskBonus"
+            ],
+            [
+                "eval_target_restrict_2",
+                "False"
+            ]
+        ]
+    }
+]

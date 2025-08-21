@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "LockdownZoneAura",
+        "name": "Lockdown Zone!",
+        "desc": "Enemies within 3 tiles: -99 Mov, -3 AS.",
+        "icon_nid": "NewIcon4",
+        "icon_index": [
+            0,
+            4
+        ],
+        "components": [
+            [
+                "aura",
+                "LockdownZoneAura_1"
+            ],
+            [
+                "aura_range",
+                3
+            ],
+            [
+                "aura_target",
+                "enemy"
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Yukkuri_M",
+        "name": "Yukkuri M",
+        "desc": "A yukkuri worth 2500 gold.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            5,
+            1
+        ],
+        "components": [
+            [
+                "value",
+                5000
+            ]
+        ]
+    }
+]

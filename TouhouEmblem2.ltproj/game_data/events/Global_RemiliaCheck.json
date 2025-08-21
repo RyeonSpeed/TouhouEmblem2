@@ -1,0 +1,19 @@
+[
+    {
+        "name": "RemiliaCheck",
+        "trigger": "turn_change",
+        "level_nid": null,
+        "condition": "game.turncount == 1",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "if;u('Remilia') and u('Remilia').position",
+            "game_var;_turnwheel;1",
+            "else",
+            "game_var;_turnwheel;0",
+            "end"
+        ],
+        "nid": "Global RemiliaCheck"
+    }
+]

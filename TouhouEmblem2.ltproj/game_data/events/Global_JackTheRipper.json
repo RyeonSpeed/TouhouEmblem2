@@ -1,0 +1,23 @@
+[
+    {
+        "name": "JackTheRipper",
+        "trigger": "combat_end",
+        "level_nid": null,
+        "condition": "has_skill(unit, 'Jack_The_Ripper')",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "if;not has_skill(unit1, 'Cooldown') and unit2.get_hp() == 0 and has_skill(unit1, 'Luna_Dial')",
+            "add_portrait;{unit};Right;ExpressionList=Smile",
+            "speak;{unit};ZA...WARUDO!",
+            "remove_portrait;{unit}",
+            "sound;RefreshDance",
+            "give_skill;{unit};Cooldown;;no_banner",
+            "reset;{unit}",
+            "else",
+            "end"
+        ],
+        "nid": "Global JackTheRipper"
+    }
+]

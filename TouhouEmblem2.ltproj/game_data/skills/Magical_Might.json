@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Magical_Might",
+        "name": "Magical Might",
+        "desc": "<blue>[Combat Start]</blue> Adds Mag to DMG dealt.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            1,
+            3
+        ],
+        "components": [
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "eval_damage",
+                "unit.get_stat('MAG')"
+            ]
+        ]
+    }
+]

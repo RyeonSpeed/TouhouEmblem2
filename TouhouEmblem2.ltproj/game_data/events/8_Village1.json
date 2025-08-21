@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Village1",
+        "trigger": "Visit",
+        "level_nid": "8",
+        "condition": "region.nid == 'Village1'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            ""
+        ],
+        "nid": "8 Village1"
+    }
+]

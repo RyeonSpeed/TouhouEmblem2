@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Mana_Overcharge_Effect",
+        "name": "Mana Overcharge",
+        "desc": "<blue>[Combat Start]</blue> +5 DMG, +40% Crit, 20 Death Recoil. Anima only.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            6,
+            0
+        ],
+        "components": [
+            [
+                "deathrecoil",
+                20
+            ],
+            [
+                "damage",
+                5
+            ],
+            [
+                "crit",
+                40
+            ]
+        ]
+    }
+]

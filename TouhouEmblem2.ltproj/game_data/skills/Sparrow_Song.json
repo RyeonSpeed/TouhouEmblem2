@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Sparrow_Song",
+        "name": "Sparrow Song",
+        "desc": "Allows user to refresh an ally.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            2,
+            7
+        ],
+        "components": [
+            [
+                "ability",
+                "Refresh"
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "BulletSign",
+        "name": "Bullet Sign \"Eagle Shooting\"",
+        "desc": "Seiran spawns a crew of moon rabbits and randomly swaps her soldiers' positions with random units under your control.\nCapture Bonus: Mandatory",
+        "icon_nid": "NewIcon2",
+        "icon_index": [
+            0,
+            4
+        ],
+        "components": [
+            [
+                "combat_art_indicator",
+                null
+            ]
+        ]
+    }
+]

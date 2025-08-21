@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Perfect_Freeze",
+        "name": "Perfect Freeze",
+        "desc": "<blue>[Combat Start]</blue> +30 HIT. Inflicts Frozen for 2 turns. ",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            2,
+            8
+        ],
+        "components": [
+            [
+                "hit",
+                30
+            ],
+            [
+                "give_status_after_hit",
+                "Frozen"
+            ],
+            [
+                "first_hit_battle_anim",
+                "Freeze"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Great_Fortune",
+        "name": "Great Fortune!",
+        "desc": "LCK% chance after a kill to pick up a random treasure.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            4,
+            3
+        ],
+        "components": [
+            [
+                "event_after_combat",
+                "Global TewiGamble"
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

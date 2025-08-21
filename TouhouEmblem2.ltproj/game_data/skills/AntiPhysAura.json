@@ -1,0 +1,46 @@
+[
+    {
+        "nid": "AntiPhysAura",
+        "name": "Strength Sap",
+        "desc": "Enemies within 3 tiles: Cannot use physical weapons.",
+        "icon_nid": "NewIcon4",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "aura",
+                "Weakened_1"
+            ],
+            [
+                "aura_range",
+                3
+            ],
+            [
+                "aura_target",
+                "unit"
+            ],
+            [
+                "show_aura",
+                [
+                    170,
+                    0,
+                    255
+                ]
+            ],
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "aura_opacity",
+                0.7
+            ],
+            [
+                "negative",
+                null
+            ]
+        ]
+    }
+]

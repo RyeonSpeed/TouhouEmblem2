@@ -1,0 +1,27 @@
+[
+    {
+        "name": "House2",
+        "trigger": "Visit",
+        "level_nid": "1",
+        "condition": "region.nid == 'House2'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "transition;Close",
+            "change_background;House",
+            "transition;Open",
+            "add_portrait;Man2;Left;no_block",
+            "add_portrait;{unit};Right",
+            "speak;Man2;Sometimes, you need a bit of speed in your\u2028life to get things done.|I like to use light tools myself since they\u2028let you move around and do things faster,|like this axe here!",
+            "transition;Close",
+            "change_background",
+            "transition;Open",
+            "give_item;{unit};Slim_Axe",
+            "give_bexp;30;no_banner",
+            "show_layer;Closed2",
+            "has_traded;{unit}"
+        ],
+        "nid": "1 House2"
+    }
+]

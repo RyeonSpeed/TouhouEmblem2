@@ -1,0 +1,85 @@
+[
+    {
+        "nid": "Devil_Lance",
+        "name": "Devil Lance",
+        "desc": "Recommended by 9/10 Fairy Maids. Devil.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            1,
+            11
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "damage",
+                13
+            ],
+            [
+                "hit",
+                100
+            ],
+            [
+                "weapon_type",
+                "Lance"
+            ],
+            [
+                "weapon_rank",
+                "D"
+            ],
+            [
+                "weight",
+                8
+            ],
+            [
+                "uses",
+                10
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "wexp",
+                8
+            ],
+            [
+                "status_on_equip",
+                "Devil_Luck"
+            ],
+            [
+                "value",
+                1000
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                1
+            ],
+            [
+                "fatigue",
+                1
+            ]
+        ]
+    }
+]

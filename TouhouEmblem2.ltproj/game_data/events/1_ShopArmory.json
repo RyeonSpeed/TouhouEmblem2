@@ -1,0 +1,17 @@
+[
+    {
+        "name": "ShopArmory",
+        "trigger": "Armory",
+        "level_nid": "1",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "transition;close",
+            "shop;{unit};Iron_Sword, Slim_Sword, Iron_Lance, Slim_Lance, Iron_Axe, Slim_Axe, Iron_Bow, Slim_Bow, Ofuda;armory",
+            "transition;open"
+        ],
+        "nid": "1 ShopArmory"
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "nid": "Sleep",
+        "name": "Sleep",
+        "desc": "Unit is asleep.",
+        "icon_nid": "NewIcon6",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "time",
+                5
+            ],
+            [
+                "unselectable",
+                null
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "MOV",
+                        -99
+                    ]
+                ]
+            ],
+            [
+                "negative",
+                null
+            ],
+            [
+                "unit_flickering_tint",
+                [
+                    170,
+                    170,
+                    255
+                ]
+            ],
+            [
+                "lost_on_end_chapter",
+                null
+            ],
+            [
+                "item_override",
+                "slep"
+            ],
+            [
+                "change_ai",
+                "None"
+            ]
+        ]
+    }
+]

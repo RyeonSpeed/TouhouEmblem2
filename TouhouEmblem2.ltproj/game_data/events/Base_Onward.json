@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Onward",
+        "trigger": "Onward!",
+        "level_nid": "Base",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "choice;onward;Advance to next chapter?;Yes,No",
+            "if;'{v:onward}' == 'Yes'",
+            "    set_next_chapter;{e:{v:chaptercount} + 1}",
+            "    win_game",
+            "end"
+        ],
+        "nid": "Base Onward"
+    }
+]

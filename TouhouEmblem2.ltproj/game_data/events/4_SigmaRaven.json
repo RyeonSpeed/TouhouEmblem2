@@ -1,0 +1,27 @@
+[
+    {
+        "name": "SigmaRaven",
+        "trigger": "Investigate",
+        "level_nid": "4",
+        "condition": "has_item(\"Curry\", unit1.nid) and region.nid == 'ShrigmaRaven'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;{unit};Right",
+            "add_portrait;SigmaRaven;Left",
+            "speak;SigmaRaven;What the hell do you want? I'm trying to enjoy some totally-not-rabbit meat here.",
+            "speak;SigmaRaven;*sniff* Is that...curry? Japanese curry? Nevermind, give me some of that.",
+            "speak;SigmaRaven;Join you? Do you think I'm that cheap?",
+            "wait;10000",
+            "speak;{unit};...",
+            "wait;10000",
+            "speak;SigmaRaven;You're absolutely right. Give me that curry.",
+            "remove_item;{unit};Curry",
+            "add_group;SigmaRaven;SigmaRaven;fade",
+            "autolevel_to;SigmaRaven;4;random",
+            "change_team;SigmaRaven;player"
+        ],
+        "nid": "4 SigmaRaven"
+    }
+]

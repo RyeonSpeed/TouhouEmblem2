@@ -1,0 +1,19 @@
+[
+    {
+        "name": "L Bozo",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "unit.nid == 'Remilia'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Rinnosuke;FarLeft",
+            "speak;Rinnosuke;You have severed your tie with fate.",
+            "expression;Rinnosuke;CloseEyes;Smile",
+            "speak;Rinnosuke;Persist in this doomed timeline.",
+            "game_var;_turnwheel;False"
+        ],
+        "nid": "Global L Bozo"
+    }
+]

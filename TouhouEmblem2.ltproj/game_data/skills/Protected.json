@@ -1,0 +1,34 @@
+[
+    {
+        "nid": "Protected",
+        "name": "Protected",
+        "desc": "User is protected by youma arts from taking damage for one turn.",
+        "icon_nid": "skillicons102524(1)",
+        "icon_index": [
+            1,
+            2
+        ],
+        "components": [
+            [
+                "time",
+                1
+            ],
+            [
+                "modify_ai_priority",
+                10.0
+            ],
+            [
+                "unit_flickering_tint",
+                [
+                    85,
+                    0,
+                    127
+                ]
+            ],
+            [
+                "resist_multiplier",
+                0
+            ]
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "Interfering_Waves",
+        "name": "Interfering Waves",
+        "desc": "Units within 3 tiles: -3 MAG/+3 RES.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            2,
+            2
+        ],
+        "components": [
+            [
+                "aura",
+                "Quiet_Aura"
+            ],
+            [
+                "aura_range",
+                3
+            ],
+            [
+                "aura_target",
+                "unit"
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

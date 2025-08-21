@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Turn8",
+        "trigger": "turn_change",
+        "level_nid": "6",
+        "condition": "game.turncount == 8",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_group;Turn8;Turn8;fade;closest",
+            "move_cursor;169",
+            "move_cursor;Reimu"
+        ],
+        "nid": "6 Turn8"
+    }
+]

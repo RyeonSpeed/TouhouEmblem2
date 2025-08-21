@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "Pivot",
+        "name": "Pivot",
+        "desc": "Pivots 1 tile over ally. User may attack but not move after use.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "ability",
+                "Pivot"
+            ],
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "build_charge_start_charged",
+                1
+            ],
+            [
+                "upkeep_charge_increase",
+                1
+            ]
+        ]
+    }
+]

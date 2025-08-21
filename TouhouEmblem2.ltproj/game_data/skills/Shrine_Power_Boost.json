@@ -1,0 +1,31 @@
+[
+    {
+        "nid": "Shrine_Power_Boost",
+        "name": "Shrine Power",
+        "desc": "+2 DEF/+4 RES.",
+        "icon_nid": "NewIcon3",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "time",
+                2
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "DEF",
+                        2
+                    ],
+                    [
+                        "RES",
+                        4
+                    ]
+                ]
+            ]
+        ]
+    }
+]

@@ -1,0 +1,143 @@
+[
+    {
+        "nid": "Gendarme",
+        "name": "Gendarme",
+        "desc": "Properly equipped, these riders can act as both shock cavalry and duelists.\nTags: Mounted, Sword, Beast",
+        "tier": 2,
+        "movement_group": "Heavy Cav",
+        "promotes_from": "Sword_Rider",
+        "turns_into": [],
+        "tags": [
+            "Mounted",
+            "Sword",
+            "Beast"
+        ],
+        "max_level": 40,
+        "bases": {
+            "HP": 23,
+            "STR": 6,
+            "MAG": 0,
+            "SKL": 5,
+            "SPD": 8,
+            "LCK": 0,
+            "DEF": 7,
+            "CON": 12,
+            "MOV": 8,
+            "RES": 5
+        },
+        "growths": {
+            "HP": 70,
+            "STR": 30,
+            "MAG": 20,
+            "SKL": 30,
+            "SPD": 35,
+            "LCK": 30,
+            "DEF": 20,
+            "CON": 0,
+            "MOV": 0,
+            "RES": 10
+        },
+        "growth_bonus": {
+            "HP": 0,
+            "STR": 0,
+            "MAG": 0,
+            "SKL": 0,
+            "SPD": 0,
+            "LCK": 0,
+            "DEF": 0,
+            "CON": 0,
+            "MOV": 0,
+            "RES": 0
+        },
+        "promotion": {
+            "HP": 3,
+            "STR": 1,
+            "MAG": 0,
+            "SKL": 0,
+            "SPD": 3,
+            "LCK": 0,
+            "DEF": 2,
+            "CON": 2,
+            "MOV": -99,
+            "RES": 5
+        },
+        "max_stats": {
+            "HP": 80,
+            "STR": 25,
+            "MAG": 20,
+            "SKL": 27,
+            "SPD": 29,
+            "LCK": 30,
+            "DEF": 25,
+            "CON": 25,
+            "MOV": 15,
+            "RES": 27
+        },
+        "learned_skills": [
+            [
+                1,
+                "Canto"
+            ]
+        ],
+        "wexp_gain": {
+            "Sword": [
+                true,
+                31,
+                251
+            ],
+            "Lance": [
+                false,
+                0,
+                251
+            ],
+            "Axe": [
+                true,
+                1,
+                251
+            ],
+            "Bow": [
+                false,
+                0,
+                251
+            ],
+            "Staff": [
+                false,
+                0,
+                251
+            ],
+            "Light": [
+                false,
+                0,
+                251
+            ],
+            "Anima": [
+                false,
+                0,
+                251
+            ],
+            "Dark": [
+                false,
+                0,
+                251
+            ],
+            "Martial": [
+                false,
+                0,
+                null
+            ],
+            "Default": [
+                false,
+                0,
+                251
+            ]
+        },
+        "icon_nid": "Generic_Portrait_Paladin",
+        "icon_index": [
+            0,
+            0
+        ],
+        "map_sprite_nid": "Paladin (F) Revision Sword {Permafrost}-stand",
+        "combat_anim_nid": "Paladin",
+        "fields": []
+    }
+]

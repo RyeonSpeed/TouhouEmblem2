@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Perfect_Shot_Effect",
+        "name": "Perfect Shot",
+        "desc": "<blue>[Combat Start]</blue> +30 Crit. Bows only.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            4,
+            0
+        ],
+        "components": [
+            [
+                "crit",
+                30
+            ]
+        ]
+    }
+]

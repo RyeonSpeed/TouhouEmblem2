@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Great_Funeral_Concert_1",
+        "name": "Great Funeral Concert",
+        "desc": "Blast 3. One use per map. Only usable when all 3 Prismriver Sisters are within 2 tiles of each other.\n<blue>[Combat Start]</blue> 2x DMG.",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "item_override",
+                "Great_Funeral_Concert"
+            ]
+        ]
+    }
+]

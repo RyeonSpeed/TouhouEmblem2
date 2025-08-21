@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Outro",
+        "trigger": "level_end",
+        "level_nid": "10",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "if;game.turncount <= 20",
+            "give_bexp;500",
+            "speak;;You completed the map in 15 or less turns! You got the full reward!;;;hint",
+            "elif;game.turncount > 20 and game.turncount <= 25",
+            "give_bexp;{e:500 - ((game.turncount - 20) * 100)}",
+            "speak;;Unfortunately, you completed the map in more than 15 turns, so your reward will be reduced accordingly.;;;hint",
+            "elif;game.turncount > 25",
+            "speak;;Lmao skill issue;;;hint",
+            "end",
+            "if;game.check_alive('Narumi') and game.get_unit('Narumi').team == 'player'",
+            "add_portrait;Marisa;Left",
+            "speak;Marisa;bruh",
+            "else",
+            "end",
+            "trigger_script;ENDING",
+            "game_var;chaptercount;10",
+            "set_next_chapter;Base"
+        ],
+        "nid": "10 Outro"
+    }
+]

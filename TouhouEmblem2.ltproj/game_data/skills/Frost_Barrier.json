@@ -1,0 +1,39 @@
+[
+    {
+        "nid": "Frost_Barrier",
+        "name": "Frost Barrier",
+        "desc": "+10 RES.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            1,
+            7
+        ],
+        "components": [
+            [
+                "stat_change",
+                [
+                    [
+                        "RES",
+                        10
+                    ]
+                ]
+            ],
+            [
+                "time",
+                2
+            ],
+            [
+                "unit_flickering_tint",
+                [
+                    85,
+                    255,
+                    255
+                ]
+            ],
+            [
+                "lost_on_end_chapter",
+                null
+            ]
+        ]
+    }
+]

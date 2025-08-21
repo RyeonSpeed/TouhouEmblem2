@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Yataderas_Gift",
+        "name": "Yatadera's Gift",
+        "desc": "Damage scales off of 50% of missing HP + MAG. ",
+        "icon_nid": "skillicons102524",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "eval_damage",
+                "int(unit.get_max_hp() - unit.get_hp()) * 0.5"
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Spear_The_Gungnir",
+        "name": "Spear The Gungnir",
+        "desc": "Strikethrough 5. Uses up all of Gungnir's remaining durability.\n<blue>[Combat Start]</blue> Cannot Double. Surehit. 1.5x DMG. Inflicts \"Bleeding\".\n<blue>[After Combat]</blue> Enemies adjacent to target: Take DMG = user's STR/2",
+        "icon_nid": "skillicons102724",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "combat_art_indicator",
+                null
+            ],
+            [
+                "combat_art",
+                "Spear_The_Gungnir_1"
+            ],
+            [
+                "allowed_weapons",
+                "item.nid == \"Gungnir\""
+            ]
+        ]
+    }
+]

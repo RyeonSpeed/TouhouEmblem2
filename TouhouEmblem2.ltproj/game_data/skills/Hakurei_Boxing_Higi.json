@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Hakurei_Boxing_Higi",
+        "name": "Hakurei Boxing Higi",
+        "desc": "Strikes 8 times. 20 HP Recoil.",
+        "icon_nid": "skillicons102724(1)",
+        "icon_index": [
+            1,
+            2
+        ],
+        "components": [
+            [
+                "combat_art",
+                "Hakurei_Boxing_Higi_1"
+            ],
+            [
+                "combat_art_indicator",
+                null
+            ],
+            [
+                "allowed_weapons",
+                "item_system.weapon_type(unit, item) in ['Martial']"
+            ]
+        ]
+    }
+]

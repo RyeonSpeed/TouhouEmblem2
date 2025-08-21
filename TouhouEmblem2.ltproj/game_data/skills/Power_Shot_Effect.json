@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Power_Shot_Effect",
+        "name": "Power Shot",
+        "desc": "<blue>[Combat Start]</blue> +3 DMG, +30% Hit. Bows only.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            4,
+            0
+        ],
+        "components": [
+            [
+                "damage",
+                3
+            ],
+            [
+                "hit",
+                30
+            ]
+        ]
+    }
+]

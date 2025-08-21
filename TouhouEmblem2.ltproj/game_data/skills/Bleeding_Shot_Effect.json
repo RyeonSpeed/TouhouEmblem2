@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Bleeding_Shot_Effect",
+        "name": "Bleeding Shot",
+        "desc": "<blue>[On Hit]</blue> Inflicts Bleeding. Bows only.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            4,
+            0
+        ],
+        "components": [
+            [
+                "give_status_after_hit",
+                "Bleeding"
+            ]
+        ]
+    }
+]

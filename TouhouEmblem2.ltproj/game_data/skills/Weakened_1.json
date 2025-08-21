@@ -1,0 +1,33 @@
+[
+    {
+        "nid": "Weakened_1",
+        "name": "Weakened",
+        "desc": "Unit cannot use physical weapons.",
+        "icon_nid": "NewIcon6",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "negative",
+                null
+            ],
+            [
+                "lost_on_end_chapter",
+                null
+            ],
+            [
+                "multi_skill",
+                [
+                    "NoSword",
+                    "NoLance",
+                    "NoAxe",
+                    "NoBow",
+                    "NoMartial",
+                    "NoKnife"
+                ]
+            ]
+        ]
+    }
+]

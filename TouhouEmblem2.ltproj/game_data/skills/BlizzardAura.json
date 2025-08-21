@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "BlizzardAura",
+        "name": "Blizzard Aura",
+        "desc": "All units: -15 AVOID/CRIT AVOID.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            2,
+            8
+        ],
+        "components": [
+            [
+                "aura",
+                "Chilled"
+            ],
+            [
+                "aura_range",
+                99
+            ],
+            [
+                "aura_target",
+                "unit"
+            ]
+        ]
+    }
+]

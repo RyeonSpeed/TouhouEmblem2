@@ -1,0 +1,33 @@
+[
+    {
+        "name": "MimaSpell",
+        "trigger": "combat_end",
+        "level_nid": "14",
+        "condition": "game.check_dead(\"Mima_Boss_1\") ",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "change_music;player_phase;Last Judgement",
+            "change_music;player_battle;Last Judgement",
+            "change_music;other_phase;Last Judgement",
+            "change_music;enemy_phase;Last Judgement",
+            "change_music;enemy_battle;Last Judgement",
+            "change_music;other_battle;Last Judgement",
+            "level_var;MimaSpellMusic;1",
+            "add_portrait;Mima;Left",
+            "speak;;Orreries Solar System;center;125;hint;;red;;;1;;;;;Warp",
+            "speak;Mima;Can you handle this?",
+            "remove_portrait;Mima",
+            "add_group;Mima;Mima;warp;closest",
+            "autolevel_to;Mima;20;fixed",
+            "move_cursor;Mima",
+            "for;Spell;game.level.unit_groups.get('Mima').units",
+            "    has_finished;{Spell}",
+            "endf",
+            "else",
+            "end"
+        ],
+        "nid": "14 MimaSpell"
+    }
+]

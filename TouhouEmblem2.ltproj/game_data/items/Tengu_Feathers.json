@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "Tengu_Feathers",
+        "name": "Tengu Feathers",
+        "desc": "Negates effective bonus of bows and wind magic toward user. Only one accesory can be equipped at a time.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            4,
+            3
+        ],
+        "components": [
+            [
+                "value",
+                10000
+            ],
+            [
+                "status_on_hold",
+                "Flier_Protection"
+            ],
+            [
+                "accessory",
+                null
+            ],
+            [
+                "eval_target_restrict_2",
+                "False"
+            ]
+        ]
+    }
+]

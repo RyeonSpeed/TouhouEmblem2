@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Marisa_Growths",
+        "trigger": null,
+        "level_nid": null,
+        "condition": "False",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "game_var;marisa_hp;0",
+            "game_var;marisa_str;0",
+            "game_var;marisa_mag;0",
+            "game_var;marisa_skl;0",
+            "game_var;marisa_skl;0",
+            "game_var;marisa_lck;0",
+            "game_var;marisa_def;0",
+            "game_var;marisa_res;0",
+            "game_var;marisa_con;0",
+            "game_var;marisa_mov;0"
+        ],
+        "nid": "Global Marisa_Growths"
+    }
+]

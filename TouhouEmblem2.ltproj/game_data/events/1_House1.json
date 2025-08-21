@@ -1,0 +1,27 @@
+[
+    {
+        "name": "House1",
+        "trigger": "Visit",
+        "level_nid": "1",
+        "condition": "region.nid == 'House1'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "transition;Close",
+            "change_background;House",
+            "transition;Open",
+            "add_portrait;Man1;Left;no_block",
+            "add_portrait;{unit};Right",
+            "speak;Man1;Got this cool sword from Kourindou the other\u2028day! The shopkeep told me it'd be good for|cooking, but...it burnt my meat a bit too well.|Yeah, it was cheap, but I don't really have a\u2028use for it now. Maybe you could use it?",
+            "transition;Close",
+            "change_background",
+            "transition;Open",
+            "give_item;{unit};Flamberge",
+            "give_bexp;30;no_banner",
+            "show_layer;Closed1",
+            "has_traded;{unit}"
+        ],
+        "nid": "1 House1"
+    }
+]

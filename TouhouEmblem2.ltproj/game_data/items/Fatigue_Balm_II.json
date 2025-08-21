@@ -1,0 +1,53 @@
+[
+    {
+        "nid": "Fatigue_Balm_II",
+        "name": "Fatigue Balm II",
+        "desc": "Reduces fatigue by 20.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            6,
+            3
+        ],
+        "components": [
+            [
+                "usable_in_base",
+                null
+            ],
+            [
+                "uses",
+                1
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "fatigue",
+                -20
+            ],
+            [
+                "value",
+                2000
+            ],
+            [
+                "target_ally",
+                null
+            ],
+            [
+                "usable",
+                null
+            ],
+            [
+                "max_range",
+                1
+            ],
+            [
+                "min_range",
+                0
+            ]
+        ]
+    }
+]

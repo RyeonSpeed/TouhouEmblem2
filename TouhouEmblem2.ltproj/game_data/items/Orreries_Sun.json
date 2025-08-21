@@ -1,0 +1,115 @@
+[
+    {
+        "nid": "Orreries_Sun",
+        "name": "Orreries Sun",
+        "desc": "Recurring. Anti-Fliers. +3 Def. Prf Mima and Marisa.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            8,
+            1
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                2
+            ],
+            [
+                "damage",
+                8
+            ],
+            [
+                "hit",
+                70
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "weight",
+                7
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Anima"
+            ],
+            [
+                "map_hit_add_blend",
+                [
+                    251,
+                    255,
+                    0
+                ]
+            ],
+            [
+                "fatigue",
+                1
+            ],
+            [
+                "battle_cast_anim",
+                "Thunder"
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "DEF",
+                        3
+                    ]
+                ]
+            ],
+            [
+                "reaver",
+                null
+            ],
+            [
+                "prf_unit",
+                [
+                    "Marisa",
+                    "Mima",
+                    "Mima_Boss",
+                    "Mima_Boss_1"
+                ]
+            ],
+            [
+                "c_uses",
+                10
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "effective_damage",
+                {
+                    "effective_tags": [
+                        "Flying"
+                    ],
+                    "effective_multiplier": 2.0,
+                    "effective_bonus_damage": 10,
+                    "show_effectiveness_flash": true,
+                    "weapon_effectiveness_multiplied": true
+                }
+            ]
+        ]
+    }
+]

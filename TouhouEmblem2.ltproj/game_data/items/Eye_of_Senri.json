@@ -1,0 +1,53 @@
+[
+    {
+        "nid": "Eye_of_Senri",
+        "name": "Eye of Senri",
+        "desc": "A mysterious crest from a parallel world. Use to make enemies more likely to target the user. Two uses per chapter. Only one accessory can be equipped at a time.",
+        "icon_nid": "Neutral",
+        "icon_index": [
+            0,
+            14
+        ],
+        "components": [
+            [
+                "equippable_accessory",
+                null
+            ],
+            [
+                "value",
+                1500
+            ],
+            [
+                "usable",
+                null
+            ],
+            [
+                "min_range",
+                0
+            ],
+            [
+                "max_range",
+                0
+            ],
+            [
+                "target_unit",
+                null
+            ],
+            [
+                "self_status_on_hit",
+                "eyeofsenri_1"
+            ],
+            [
+                "uses",
+                2
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ]
+        ]
+    }
+]

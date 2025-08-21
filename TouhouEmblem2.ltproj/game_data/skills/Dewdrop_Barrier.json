@@ -1,0 +1,38 @@
+[
+    {
+        "nid": "Dewdrop_Barrier",
+        "name": "Dewdrop Barrier",
+        "desc": "When under 50% HP: -50% DMG taken; Drain 50% DMG.",
+        "icon_nid": "skillicons102524(1)",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "resist_multiplier",
+                0.5
+            ],
+            [
+                "lifelink",
+                0.5
+            ],
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "unit_flickering_tint",
+                [
+                    255,
+                    255,
+                    0
+                ]
+            ],
+            [
+                "condition",
+                "unit.get_hp() <= unit.get_max_hp() / 2"
+            ]
+        ]
+    }
+]

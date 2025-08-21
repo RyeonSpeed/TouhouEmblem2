@@ -1,0 +1,35 @@
+[
+    {
+        "nid": "Fugue_Tuning",
+        "name": "Fugue Tuning",
+        "desc": "When within 2 tiles of Lunasa and Merlin: +2 DMG and +2 SPD.",
+        "icon_nid": "NewIcon2",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "condition",
+                "len([x for x in get_units_within_distance(unit.position, dist=2) if x.nid in ['Lunasa', 'Merlin']]) == 2"
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "SPD",
+                        2
+                    ]
+                ]
+            ],
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "damage",
+                2
+            ]
+        ]
+    }
+]

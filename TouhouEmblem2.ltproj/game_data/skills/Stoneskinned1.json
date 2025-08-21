@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "Stoneskinned1",
+        "name": "Stoneskinned1",
+        "desc": "<blue>[Combat Start]</blue> When enemy weapon Range = 1: DMG taken -50%. Otherwise, DMG taken +100%. ",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            1,
+            6
+        ],
+        "components": [
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "resist_multiplier",
+                2.0
+            ],
+            [
+                "hidden",
+                null
+            ],
+            [
+                "combat_condition",
+                "item_funcs.is_ranged(unit2, item2)"
+            ]
+        ]
+    }
+]

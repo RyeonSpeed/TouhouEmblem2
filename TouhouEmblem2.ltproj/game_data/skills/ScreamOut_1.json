@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "ScreamOut_1",
+        "name": "Scream Out!",
+        "desc": "Cleave 1, \n<blue>[On Hit]</blue> Inflicts Shock.",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "cannot_double",
+                null
+            ],
+            [
+                "item_override",
+                "screamout"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "nid": "Tabula_Rasa",
+        "name": "Tabula Rasa",
+        "desc": "Clones the opponent's equipped magic weapon (e.g. Fire) and stores 1 use in the item. Once a magical weapon has been stolen 5 times, an infinite use copy of the weapon will be created in the Tabula Rasa.",
+        "icon_nid": "tabularasa",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "multi_item",
+                []
+            ],
+            [
+                "prf_unit",
+                [
+                    "Marisa"
+                ]
+            ],
+            [
+                "equippable_accessory",
+                null
+            ],
+            [
+                "status_on_hold",
+                "Magithief"
+            ]
+        ]
+    }
+]

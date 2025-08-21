@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Gale_Sweep_Effect",
+        "name": "Gale Sweep",
+        "desc": "<blue>[On Hit]</blue> Inflicts Wind Shear. Swords only.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            1,
+            0
+        ],
+        "components": [
+            [
+                "give_status_after_hit",
+                "Wind_Shear"
+            ]
+        ]
+    }
+]

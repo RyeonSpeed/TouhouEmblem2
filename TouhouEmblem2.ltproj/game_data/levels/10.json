@@ -1,0 +1,2589 @@
+[
+    {
+        "nid": "10",
+        "name": "Ch 10: Snow On Mahounomori",
+        "tilemap": "Frozen River",
+        "bg_tilemap": null,
+        "party": "Reimu",
+        "music": {
+            "player_phase": "Deep Mountain",
+            "enemy_phase": "Maple Wise",
+            "enemy2_phase": "Maple Wise",
+            "player_battle": "Deep Mountain",
+            "enemy_battle": "Maple Wise",
+            "enemy2_battle": "Maple Wise",
+            "boss_battle": "Plastic Mind"
+        },
+        "objective": {
+            "simple": "Escape",
+            "win": "Escape",
+            "loss": "Reimu or Marisa dies"
+        },
+        "roam": false,
+        "roam_unit": null,
+        "go_to_overworld": false,
+        "should_record": true,
+        "tags": [],
+        "units": [
+            {
+                "nid": "107",
+                "variant": null,
+                "level": 1,
+                "klass": "Dryad",
+                "faction": "Youkai",
+                "starting_items": [],
+                "starting_skills": [],
+                "team": "enemy2",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    9,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "108",
+                "variant": null,
+                "level": 1,
+                "klass": "Dryad",
+                "faction": "Youkai",
+                "starting_items": [],
+                "starting_skills": [],
+                "team": "enemy2",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    16,
+                    14
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "109",
+                "variant": null,
+                "level": 1,
+                "klass": "Dryad",
+                "faction": "Youkai",
+                "starting_items": [],
+                "starting_skills": [],
+                "team": "enemy2",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    24,
+                    13
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "110",
+                "variant": null,
+                "level": 1,
+                "klass": "Dryad",
+                "faction": "Youkai",
+                "starting_items": [],
+                "starting_skills": [],
+                "team": "enemy2",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    30,
+                    6
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Reimu",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    2,
+                    9
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Marisa",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    3,
+                    7
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "111",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton_B",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    6,
+                    16
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "112",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton_B",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    10,
+                    10
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "133",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton_B",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Short_Bow",
+                        false
+                    ],
+                    [
+                        "Misfortune_Amulet",
+                        true
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    18,
+                    15
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "140",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton_B",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Short_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    21,
+                    3
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "151",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton_B",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    26,
+                    16
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "174",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton_B",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    21,
+                    18
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "175",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton_B",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    32,
+                    18
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "176",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton_B",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    31,
+                    18
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "177",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton_B",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Bow",
+                        false
+                    ],
+                    [
+                        "Yukkuri_R",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    15,
+                    17
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "154",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton_B",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    28,
+                    1
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "159",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton_B",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    35,
+                    0
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "160",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton_B",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    37,
+                    0
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "141",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton_B",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Silencer",
+                        true
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    21,
+                    7
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "113",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton_B",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Longbow",
+                        false
+                    ],
+                    [
+                        "Steel_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    33,
+                    14
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "170",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton_B",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Longbow",
+                        false
+                    ],
+                    [
+                        "Steel_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    36,
+                    6
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "114",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton_B",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Bow",
+                        false
+                    ],
+                    [
+                        "Yukkuri_R",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    26,
+                    8
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "116",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Naginata",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    8,
+                    14
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "117",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    9,
+                    13
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "183",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Killing_Edge",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    13,
+                    15
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "179",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    11
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "180",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    12,
+                    3
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "181",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    16,
+                    9
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "157",
+                "variant": null,
+                "level": 10,
+                "klass": "Skeleton",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    29,
+                    11
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "158",
+                "variant": null,
+                "level": 10,
+                "klass": "Skeleton",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ],
+                    [
+                        "Yukkuri_R",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    31,
+                    12
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "161",
+                "variant": null,
+                "level": 10,
+                "klass": "Skeleton",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    36,
+                    1
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "131",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    15,
+                    13
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "132",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    17,
+                    13
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "122",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Bankuruwase",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    12,
+                    8
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "142",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Slim_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    18,
+                    17
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "123",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    8,
+                    4
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "124",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Short_Spear",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    10,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "153",
+                "variant": null,
+                "level": 9,
+                "klass": "Skeleton",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Short_Spear",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    31,
+                    6
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "115",
+                "variant": null,
+                "level": 9,
+                "klass": "Occultist",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Mire",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    12,
+                    17
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "139",
+                "variant": null,
+                "level": 9,
+                "klass": "Occultist",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Dark_Spikes",
+                        false
+                    ],
+                    [
+                        "Yukkuri_R",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    19,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "155",
+                "variant": null,
+                "level": 9,
+                "klass": "Occultist",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Yomi",
+                        false
+                    ],
+                    [
+                        "Yukkuri_R",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    27,
+                    10
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "156",
+                "variant": null,
+                "level": 9,
+                "klass": "Occultist",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Yomi",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    28,
+                    16
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "118",
+                "variant": null,
+                "level": 9,
+                "klass": "Mage",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Aircalibur",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    11,
+                    9
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "134",
+                "variant": null,
+                "level": 9,
+                "klass": "Mage",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Elfire",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    0
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "127",
+                "variant": null,
+                "level": 9,
+                "klass": "Acolyte",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Omikuji",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    12,
+                    10
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "119",
+                "variant": null,
+                "level": 9,
+                "klass": "Grave_Rider",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Poison_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    13,
+                    1
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "166",
+                "variant": null,
+                "level": 9,
+                "klass": "Centaur",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ],
+                    [
+                        "Heal",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    36,
+                    18
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "167",
+                "variant": null,
+                "level": 9,
+                "klass": "Centaur",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ],
+                    [
+                        "Heal",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    37,
+                    18
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "120",
+                "variant": null,
+                "level": 9,
+                "klass": "Grave_Rider",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Toxin_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    15,
+                    1
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "143",
+                "variant": null,
+                "level": 10,
+                "klass": "Centaur",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Levin_Sword",
+                        true
+                    ],
+                    [
+                        "Heal",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    20,
+                    1
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "121",
+                "variant": null,
+                "level": 9,
+                "klass": "Centaur",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ],
+                    [
+                        "Heal",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    26,
+                    17
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "125",
+                "variant": null,
+                "level": 9,
+                "klass": "Revenant",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Wild_Strike",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    8,
+                    6
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "150",
+                "variant": null,
+                "level": 9,
+                "klass": "Revenant",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Fang",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    11,
+                    18
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "178",
+                "variant": null,
+                "level": 9,
+                "klass": "Revenant",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Fang",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    10,
+                    16
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "162",
+                "variant": null,
+                "level": 9,
+                "klass": "Revenant",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Wild_Strike",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    30,
+                    7
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "126",
+                "variant": null,
+                "level": 9,
+                "klass": "Revenant",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Power_Strike",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    10,
+                    9
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "135",
+                "variant": null,
+                "level": 9,
+                "klass": "Revenant",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Power_Strike",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    16,
+                    7
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "182",
+                "variant": null,
+                "level": 9,
+                "klass": "Revenant",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Power_Strike",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    6
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "136",
+                "variant": null,
+                "level": 9,
+                "klass": "Revenant",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Rotfang",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    15,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "138",
+                "variant": null,
+                "level": 9,
+                "klass": "Revenant",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Whirlwind_Strike",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    16,
+                    3
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "128",
+                "variant": null,
+                "level": 10,
+                "klass": "Demon",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    33,
+                    1
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "164",
+                "variant": null,
+                "level": 10,
+                "klass": "Demon",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    33,
+                    12
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "165",
+                "variant": null,
+                "level": 10,
+                "klass": "Demon",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Naginata",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    34,
+                    16
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "137",
+                "variant": null,
+                "level": 9,
+                "klass": "Demon",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Horseslayer",
+                        false
+                    ],
+                    [
+                        "Halberd",
+                        true
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    18,
+                    9
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "129",
+                "variant": null,
+                "level": 9,
+                "klass": "Demon",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    35,
+                    7
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "130",
+                "variant": null,
+                "level": 11,
+                "klass": "Pirate",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Brave_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    1,
+                    1
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "144",
+                "variant": null,
+                "level": 10,
+                "klass": "Cursed_Armor",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Short_Axe",
+                        true
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    20,
+                    15
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "145",
+                "variant": null,
+                "level": 10,
+                "klass": "Cursed_Armor",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Short_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    23,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "163",
+                "variant": null,
+                "level": 10,
+                "klass": "Cursed_Armor",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Short_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    34,
+                    9
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "171",
+                "variant": null,
+                "level": 13,
+                "klass": "Cursed_Armor",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Tomahawk",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    36,
+                    17
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "173",
+                "variant": null,
+                "level": 13,
+                "klass": "Cursed_Armor",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Tomahawk",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    37,
+                    16
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "172",
+                "variant": null,
+                "level": 13,
+                "klass": "Cursed_Armor",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Tomahawk",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    36,
+                    16
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "146",
+                "variant": null,
+                "level": 9,
+                "klass": "Cursed_Armor",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Axebane",
+                        true
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    20,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "147",
+                "variant": null,
+                "level": 9,
+                "klass": "Cursed_Armor",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Tomahawk",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    25,
+                    15
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "148",
+                "variant": null,
+                "level": 9,
+                "klass": "Cursed_Armor",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    25,
+                    17
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "149",
+                "variant": null,
+                "level": 9,
+                "klass": "Cursed_Armor",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    29,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "152",
+                "variant": null,
+                "level": 9,
+                "klass": "Cursed_Armor",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    29,
+                    7
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "168",
+                "variant": null,
+                "level": 10,
+                "klass": "Cursed_Armor",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    36,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "169",
+                "variant": null,
+                "level": 10,
+                "klass": "Cursed_Armor",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    36,
+                    4
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Alice_Boss",
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    37,
+                    17
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Yumeko_Boss",
+                "team": "enemy",
+                "ai": "Defend",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    19,
+                    12
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Mai_Boss",
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    19,
+                    11
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Koakuma",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Narumi",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "101",
+                "variant": null,
+                "level": 23,
+                "klass": "Spellsword",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Wind_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "102",
+                "variant": null,
+                "level": 23,
+                "klass": "Spellsword",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Wind_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "103",
+                "variant": null,
+                "level": 23,
+                "klass": "Spellsword",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Wind_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "104",
+                "variant": null,
+                "level": 23,
+                "klass": "Spellsword",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Wind_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "105",
+                "variant": null,
+                "level": 23,
+                "klass": "Spellsword",
+                "faction": "Insurgents",
+                "starting_items": [
+                    [
+                        "Wind_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Void_Curse"
+                ],
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Yumeko_Boss_1",
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "201",
+                "variant": null,
+                "level": 16,
+                "klass": "Exorcist",
+                "faction": "Cultist",
+                "starting_items": [
+                    [
+                        "Physic",
+                        false
+                    ],
+                    [
+                        "Purge",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    2,
+                    18
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "202",
+                "variant": null,
+                "level": 16,
+                "klass": "Spy",
+                "faction": "Cultist",
+                "starting_items": [
+                    [
+                        "Rapier",
+                        false
+                    ],
+                    [
+                        "Short_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    3,
+                    17
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "203",
+                "variant": null,
+                "level": 16,
+                "klass": "Spy",
+                "faction": "Cultist",
+                "starting_items": [
+                    [
+                        "Rapier",
+                        false
+                    ],
+                    [
+                        "Short_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    1,
+                    17
+                ],
+                "starting_traveler": null,
+                "generic": true
+            }
+        ],
+        "regions": [
+            {
+                "nid": "Formation_1",
+                "region_type": "formation",
+                "position": [
+                    2,
+                    11
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "",
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false,
+                "hide_time": false
+            },
+            {
+                "nid": "Formation_2",
+                "region_type": "formation",
+                "position": [
+                    1,
+                    14
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": null,
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false,
+                "hide_time": false
+            },
+            {
+                "nid": "Formation_3",
+                "region_type": "formation",
+                "position": [
+                    3,
+                    6
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": null,
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false,
+                "hide_time": false
+            },
+            {
+                "nid": "Formation_4",
+                "region_type": "formation",
+                "position": [
+                    4,
+                    7
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": null,
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false,
+                "hide_time": false
+            },
+            {
+                "nid": "Formation_5",
+                "region_type": "formation",
+                "position": [
+                    3,
+                    8
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": null,
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false,
+                "hide_time": false
+            },
+            {
+                "nid": "Formation_6",
+                "region_type": "formation",
+                "position": [
+                    2,
+                    6
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "",
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false,
+                "hide_time": false
+            },
+            {
+                "nid": "Formation_7",
+                "region_type": "formation",
+                "position": [
+                    3,
+                    13
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": null,
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false,
+                "hide_time": false
+            },
+            {
+                "nid": "Formation_8",
+                "region_type": "formation",
+                "position": [
+                    1,
+                    13
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": null,
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false,
+                "hide_time": false
+            },
+            {
+                "nid": "Formation_9",
+                "region_type": "formation",
+                "position": [
+                    3,
+                    12
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "",
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false,
+                "hide_time": false
+            },
+            {
+                "nid": "Formation_12",
+                "region_type": "formation",
+                "position": [
+                    4,
+                    9
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": null,
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false,
+                "hide_time": false
+            },
+            {
+                "nid": "Formation_13",
+                "region_type": "formation",
+                "position": [
+                    2,
+                    9
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": null,
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false,
+                "hide_time": false
+            },
+            {
+                "nid": "Formation_14",
+                "region_type": "formation",
+                "position": [
+                    3,
+                    15
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": null,
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false,
+                "hide_time": false
+            },
+            {
+                "nid": "Chest_1",
+                "region_type": "event",
+                "position": [
+                    1,
+                    0
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "Chest",
+                "condition": "unit.can_unlock(region)",
+                "time_left": null,
+                "only_once": true,
+                "interrupt_move": false,
+                "hide_time": false
+            },
+            {
+                "nid": "Chest_2",
+                "region_type": "event",
+                "position": [
+                    11,
+                    11
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "Chest",
+                "condition": "unit.can_unlock(region)",
+                "time_left": null,
+                "only_once": true,
+                "interrupt_move": false,
+                "hide_time": false
+            },
+            {
+                "nid": "Chest_3",
+                "region_type": "event",
+                "position": [
+                    33,
+                    0
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "Chest",
+                "condition": "unit.can_unlock(region)",
+                "time_left": null,
+                "only_once": true,
+                "interrupt_move": false,
+                "hide_time": false
+            },
+            {
+                "nid": "House_1",
+                "region_type": "event",
+                "position": [
+                    23,
+                    12
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "Visit",
+                "condition": "True",
+                "time_left": null,
+                "only_once": true,
+                "interrupt_move": false,
+                "hide_time": false
+            },
+            {
+                "nid": "Escape",
+                "region_type": "event",
+                "position": [
+                    37,
+                    4
+                ],
+                "size": [
+                    1,
+                    2
+                ],
+                "sub_nid": "Escape",
+                "condition": "unit.team == 'player'",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false,
+                "hide_time": false
+            },
+            {
+                "nid": "Secret_",
+                "region_type": "event",
+                "position": [
+                    36,
+                    7
+                ],
+                "size": [
+                    2,
+                    4
+                ],
+                "sub_nid": "Secret!",
+                "condition": "unit == \"Marisa\"",
+                "time_left": null,
+                "only_once": true,
+                "interrupt_move": false,
+                "hide_time": false
+            }
+        ],
+        "unit_groups": [
+            {
+                "nid": "Narumi",
+                "units": [
+                    "Narumi"
+                ],
+                "positions": {
+                    "Narumi": [
+                        36,
+                        8
+                    ]
+                }
+            },
+            {
+                "nid": "GTFO",
+                "units": [
+                    "101",
+                    "102",
+                    "103",
+                    "104",
+                    "105"
+                ],
+                "positions": {
+                    "101": [
+                        0,
+                        8
+                    ],
+                    "102": [
+                        1,
+                        9
+                    ],
+                    "103": [
+                        0,
+                        10
+                    ],
+                    "104": [
+                        1,
+                        11
+                    ],
+                    "105": [
+                        0,
+                        12
+                    ]
+                }
+            },
+            {
+                "nid": "YumekoSpell",
+                "units": [
+                    "Yumeko_Boss_1"
+                ],
+                "positions": {
+                    "Yumeko_Boss_1": [
+                        36,
+                        4
+                    ]
+                }
+            }
+        ],
+        "ai_groups": []
+    }
+]

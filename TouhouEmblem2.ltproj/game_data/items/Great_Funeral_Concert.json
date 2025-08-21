@@ -1,0 +1,34 @@
+[
+    {
+        "nid": "Great_Funeral_Concert",
+        "name": "Great_Funeral_Concert",
+        "desc": "",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "enemy_blast_aoe",
+                3
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "no_double",
+                null
+            ],
+            [
+                "cannot_be_countered",
+                null
+            ],
+            [
+                "never_use_battle_animation",
+                null
+            ]
+        ]
+    }
+]

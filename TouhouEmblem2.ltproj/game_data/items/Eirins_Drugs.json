@@ -1,0 +1,49 @@
+[
+    {
+        "nid": "Eirins_Drugs",
+        "name": "Eirin's Drugs",
+        "desc": "Made by a talented alchemist in the bamboo forest. Restores 20 HP.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            4,
+            1
+        ],
+        "components": [
+            [
+                "usable",
+                null
+            ],
+            [
+                "value",
+                750
+            ],
+            [
+                "target_ally",
+                null
+            ],
+            [
+                "uses",
+                3
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "heal",
+                20
+            ],
+            [
+                "map_hit_add_blend",
+                [
+                    96,
+                    144,
+                    232
+                ]
+            ]
+        ]
+    }
+]

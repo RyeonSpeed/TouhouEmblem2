@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Fog",
+        "trigger": "on_base_convo",
+        "level_nid": "2",
+        "condition": "unit == 'Fog'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "transition;close",
+            "change_background;Camp Tent Interior",
+            "transition;open",
+            "add_portrait;Reimu;CenterRight",
+            "add_portrait;Kasen;CenterLeft",
+            "speak;Reimu;Hm, it's pretty dark around here.",
+            "speak;Kasen;That's going to hinder our visibility. Please make sure to be careful in the dark.",
+            "speak;Reimu;It's fine. Marisa can see further in the dark, and we have a few methods of lighting the|place up.",
+            "speak;Kasen;Still, keep an eye out for anything hidden in the dark. Here. This lantern should help us see better.",
+            "multi_remove_portrait;Kasen,Reimu",
+            "give_bexp;25;no_banner",
+            "give_item;Reimu;Lantern",
+            "transition;close",
+            "change_background",
+            "remove_base_convo;Fog",
+            "game_var;baseconvolist;[x for x in v('baseconvolist') if not x == 'Fog']",
+            "transition;open"
+        ],
+        "nid": "2 Fog"
+    }
+]

@@ -1,0 +1,153 @@
+[
+    {
+        "nid": "Peg_Rider",
+        "name": "Peg. Rider",
+        "desc": "Riders riding winged steeds into battle.\nTags: Flying, Beast",
+        "tier": 1,
+        "movement_group": "Fliers",
+        "promotes_from": null,
+        "turns_into": [
+            "Dark_Flier"
+        ],
+        "tags": [
+            "Flying",
+            "Beast"
+        ],
+        "max_level": 20,
+        "bases": {
+            "HP": 17,
+            "STR": 4,
+            "MAG": 4,
+            "SKL": 5,
+            "SPD": 8,
+            "LCK": 0,
+            "DEF": 3,
+            "RES": 6,
+            "CON": 5,
+            "MOV": 7
+        },
+        "growths": {
+            "HP": 65,
+            "STR": 35,
+            "MAG": 20,
+            "SKL": 40,
+            "SPD": 45,
+            "LCK": 35,
+            "DEF": 20,
+            "RES": 55,
+            "CON": 0,
+            "MOV": 0
+        },
+        "growth_bonus": {
+            "HP": 0,
+            "STR": 0,
+            "MAG": 0,
+            "SKL": 0,
+            "SPD": 0,
+            "LCK": 0,
+            "DEF": 0,
+            "RES": 0,
+            "CON": 0,
+            "MOV": 0
+        },
+        "promotion": {
+            "HP": 17,
+            "STR": 4,
+            "MAG": 4,
+            "SKL": 5,
+            "SPD": 8,
+            "LCK": 0,
+            "DEF": 3,
+            "RES": 6,
+            "CON": 5,
+            "MOV": 7
+        },
+        "max_stats": {
+            "HP": 60,
+            "STR": 20,
+            "MAG": 20,
+            "SKL": 20,
+            "SPD": 20,
+            "LCK": 30,
+            "DEF": 20,
+            "RES": 20,
+            "CON": 25,
+            "MOV": 15
+        },
+        "learned_skills": [
+            [
+                1,
+                "Flying"
+            ],
+            [
+                1,
+                "Canto"
+            ]
+        ],
+        "wexp_gain": {
+            "Sword": [
+                true,
+                1,
+                181
+            ],
+            "Lance": [
+                true,
+                1,
+                181
+            ],
+            "Axe": [
+                false,
+                0,
+                251
+            ],
+            "Bow": [
+                false,
+                0,
+                251
+            ],
+            "Staff": [
+                false,
+                0,
+                251
+            ],
+            "Light": [
+                false,
+                0,
+                251
+            ],
+            "Anima": [
+                true,
+                0,
+                251
+            ],
+            "Dark": [
+                false,
+                0,
+                251
+            ],
+            "Martial": [
+                false,
+                0,
+                null
+            ],
+            "Default": [
+                false,
+                0,
+                251
+            ],
+            "Monster": [
+                false,
+                0,
+                null
+            ]
+        },
+        "icon_nid": "Generic_Portrait_Pegasus_Knight",
+        "icon_index": [
+            0,
+            0
+        ],
+        "map_sprite_nid": "PegasusKnight",
+        "combat_anim_nid": "PegasusKnight",
+        "fields": []
+    }
+]

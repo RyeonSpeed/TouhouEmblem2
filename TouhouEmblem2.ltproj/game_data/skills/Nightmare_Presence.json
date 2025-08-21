@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Nightmare_Presence",
+        "name": "Nightmare Presence",
+        "desc": "Enemies within 2 tiles:\n- Inflict Poison and Shock.",
+        "icon_nid": "skillicons102724(1)",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "aura",
+                "Nightmare_Presence_1"
+            ],
+            [
+                "aura_range",
+                2
+            ],
+            [
+                "aura_target",
+                "enemy"
+            ]
+        ]
+    }
+]

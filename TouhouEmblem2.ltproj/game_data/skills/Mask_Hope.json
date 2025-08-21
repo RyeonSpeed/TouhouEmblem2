@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Mask_Hope",
+        "name": "1000 Masks: Hope",
+        "desc": "All attacks are Brave. Cannot Double.\nMasks shift at Turn Start.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            2,
+            5
+        ],
+        "components": [
+            [
+                "all_brave",
+                null
+            ],
+            [
+                "cannot_double",
+                null
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

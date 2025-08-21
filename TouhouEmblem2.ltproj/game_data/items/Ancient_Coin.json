@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Ancient_Coin",
+        "name": "Ancient Coin",
+        "desc": "A relic worth a measly 200 Gold.",
+        "icon_nid": "accessories",
+        "icon_index": [
+            0,
+            6
+        ],
+        "components": [
+            [
+                "value",
+                200
+            ]
+        ]
+    }
+]

@@ -1,0 +1,1004 @@
+[
+    {
+        "nid": "7",
+        "name": "Interlude 1",
+        "tilemap": "New Tilemap_9",
+        "bg_tilemap": null,
+        "party": "Reimu",
+        "music": {
+            "player_phase": "Sacred Fireflies"
+        },
+        "objective": {
+            "simple": "",
+            "win": "",
+            "loss": ""
+        },
+        "roam": true,
+        "roam_unit": "Reimu",
+        "go_to_overworld": false,
+        "should_record": true,
+        "tags": [
+            "Intermission"
+        ],
+        "units": [
+            {
+                "nid": "Reimu",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    6,
+                    7
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Eirin_NPC",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    6,
+                    2
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Marisa",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    9,
+                    6
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Kasen",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Wriggle",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Mystia",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Sunny",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Luna",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Star",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Aunn",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Remilia",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Rinnosuke",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Kosuzu",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Reisen",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Tewi",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Kaguya",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    17
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Mokou",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    15,
+                    17
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Kagerou",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Tokiko",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Kokoro",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "101",
+                "variant": null,
+                "level": 1,
+                "klass": "Vagrant_A",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Mochi_Hammer",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    13,
+                    3
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "102",
+                "variant": null,
+                "level": 1,
+                "klass": "Vagrant_A",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Mochi_Hammer",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    13,
+                    6
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "103",
+                "variant": null,
+                "level": 1,
+                "klass": "Vagrant_A",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Mochi_Hammer",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    2,
+                    16
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "104",
+                "variant": null,
+                "level": 1,
+                "klass": "Vagrant_A",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Mochi_Hammer",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    15,
+                    8
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "105",
+                "variant": null,
+                "level": 1,
+                "klass": "Vagrant_A",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Mochi_Hammer",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    20,
+                    4
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "106",
+                "variant": null,
+                "level": 1,
+                "klass": "Vagrant_A",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Mochi_Hammer",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    26,
+                    3
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "107",
+                "variant": null,
+                "level": 1,
+                "klass": "Vagrant_A",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Mochi_Hammer",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    26,
+                    4
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "108",
+                "variant": null,
+                "level": 1,
+                "klass": "Vagrant_A",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Mochi_Hammer",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    10,
+                    7
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "109",
+                "variant": null,
+                "level": 1,
+                "klass": "Vagrant_A",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Mochi_Hammer",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    4,
+                    2
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "110",
+                "variant": null,
+                "level": 1,
+                "klass": "Vagrant_A",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Mochi_Hammer",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    11,
+                    2
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "111",
+                "variant": null,
+                "level": 1,
+                "klass": "Vagrant_A",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Mochi_Hammer",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    13,
+                    11
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "112",
+                "variant": null,
+                "level": 1,
+                "klass": "Vagrant_A",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Mochi_Hammer",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    12,
+                    11
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "113",
+                "variant": null,
+                "level": 1,
+                "klass": "Vagrant_A",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Mochi_Hammer",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    16,
+                    14
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "114",
+                "variant": null,
+                "level": 1,
+                "klass": "Vagrant_A",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Mochi_Hammer",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    18,
+                    14
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "115",
+                "variant": null,
+                "level": 1,
+                "klass": "Vagrant_A",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Mochi_Hammer",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    25,
+                    8
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "116",
+                "variant": null,
+                "level": 1,
+                "klass": "Vagrant_A",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Mochi_Hammer",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    7,
+                    19
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "117",
+                "variant": null,
+                "level": 1,
+                "klass": "Vagrant_A",
+                "faction": "Eientei",
+                "starting_items": [
+                    [
+                        "Mochi_Hammer",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    8,
+                    20
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Letty",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Daiyousei",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Cirno",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Rumia",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Rin",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Suika",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            }
+        ],
+        "regions": [
+            {
+                "nid": "Onward_",
+                "region_type": "event",
+                "position": [
+                    18,
+                    3
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "Onward!",
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false,
+                "hide_time": false
+            }
+        ],
+        "unit_groups": [
+            {
+                "nid": "Letty",
+                "units": [
+                    "Letty"
+                ],
+                "positions": {
+                    "Letty": [
+                        22,
+                        14
+                    ],
+                    "Cirno": [
+                        22,
+                        12
+                    ],
+                    "Rumia": [
+                        21,
+                        13
+                    ],
+                    "Daiyousei": [
+                        23,
+                        13
+                    ]
+                }
+            },
+            {
+                "nid": "Rin",
+                "units": [
+                    "Rin"
+                ],
+                "positions": {
+                    "Rin": [
+                        25,
+                        21
+                    ]
+                }
+            },
+            {
+                "nid": "Kagerou",
+                "units": [
+                    "Kagerou"
+                ],
+                "positions": {
+                    "Kagerou": [
+                        12,
+                        14
+                    ]
+                }
+            },
+            {
+                "nid": "Wriggle",
+                "units": [
+                    "Wriggle"
+                ],
+                "positions": {
+                    "Wriggle": [
+                        5,
+                        16
+                    ],
+                    "Mystia": [
+                        6,
+                        15
+                    ]
+                }
+            },
+            {
+                "nid": "Reisen",
+                "units": [
+                    "Reisen"
+                ],
+                "positions": {
+                    "Reisen": [
+                        16,
+                        8
+                    ],
+                    "Tewi": [
+                        17,
+                        8
+                    ]
+                }
+            },
+            {
+                "nid": "Kokoro",
+                "units": [
+                    "Kokoro"
+                ],
+                "positions": {
+                    "Kokoro": [
+                        4,
+                        10
+                    ]
+                }
+            },
+            {
+                "nid": "Aunn",
+                "units": [
+                    "Aunn"
+                ],
+                "positions": {
+                    "Aunn": [
+                        7,
+                        10
+                    ]
+                }
+            },
+            {
+                "nid": "Cirno",
+                "units": [
+                    "Cirno"
+                ],
+                "positions": {
+                    "Cirno": [
+                        22,
+                        12
+                    ]
+                }
+            },
+            {
+                "nid": "Daiyousei",
+                "units": [
+                    "Daiyousei"
+                ],
+                "positions": {
+                    "Daiyousei": [
+                        23,
+                        13
+                    ]
+                }
+            },
+            {
+                "nid": "Rumia",
+                "units": [
+                    "Rumia"
+                ],
+                "positions": {
+                    "Rumia": [
+                        21,
+                        13
+                    ]
+                }
+            },
+            {
+                "nid": "Mystia",
+                "units": [
+                    "Mystia"
+                ],
+                "positions": {
+                    "Mystia": [
+                        6,
+                        15
+                    ]
+                }
+            },
+            {
+                "nid": "Tewi",
+                "units": [
+                    "Tewi"
+                ],
+                "positions": {
+                    "Tewi": [
+                        17,
+                        8
+                    ]
+                }
+            },
+            {
+                "nid": "Kosuzu",
+                "units": [
+                    "Kosuzu"
+                ],
+                "positions": {
+                    "Kosuzu": [
+                        1,
+                        6
+                    ]
+                }
+            },
+            {
+                "nid": "Rinnosuke",
+                "units": [
+                    "Rinnosuke"
+                ],
+                "positions": {
+                    "Rinnosuke": [
+                        1,
+                        7
+                    ]
+                }
+            },
+            {
+                "nid": "Remilia",
+                "units": [
+                    "Remilia"
+                ],
+                "positions": {
+                    "Remilia": [
+                        4,
+                        6
+                    ]
+                }
+            },
+            {
+                "nid": "Tokiko",
+                "units": [
+                    "Tokiko"
+                ],
+                "positions": {
+                    "Tokiko": [
+                        3,
+                        7
+                    ]
+                }
+            },
+            {
+                "nid": "Suika",
+                "units": [
+                    "Suika"
+                ],
+                "positions": {
+                    "Suika": [
+                        6,
+                        4
+                    ]
+                }
+            },
+            {
+                "nid": "Luna",
+                "units": [
+                    "Luna"
+                ],
+                "positions": {
+                    "Luna": [
+                        9,
+                        3
+                    ]
+                }
+            },
+            {
+                "nid": "Sunny",
+                "units": [
+                    "Sunny"
+                ],
+                "positions": {
+                    "Sunny": [
+                        7,
+                        3
+                    ]
+                }
+            },
+            {
+                "nid": "Star",
+                "units": [
+                    "Star"
+                ],
+                "positions": {
+                    "Star": [
+                        8,
+                        3
+                    ]
+                }
+            },
+            {
+                "nid": "Kasen",
+                "units": [
+                    "Kasen"
+                ],
+                "positions": {
+                    "Kasen": [
+                        3,
+                        3
+                    ]
+                }
+            }
+        ],
+        "ai_groups": []
+    }
+]

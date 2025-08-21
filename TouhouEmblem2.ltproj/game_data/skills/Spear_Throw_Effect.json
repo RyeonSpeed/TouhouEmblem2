@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Spear_Throw_Effect",
+        "name": "Spear Throw",
+        "desc": "+1 Range\n<blue>[Combat Start]</blue> -20 Hit. Lances only.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            2,
+            0
+        ],
+        "components": [
+            [
+                "eval_max_range",
+                "1"
+            ],
+            [
+                "hit",
+                -20
+            ]
+        ]
+    }
+]

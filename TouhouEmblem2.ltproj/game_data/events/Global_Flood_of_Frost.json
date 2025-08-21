@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Flood_of_Frost",
+        "trigger": null,
+        "level_nid": null,
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "give_skill;{unit};Frost_Barrier"
+        ],
+        "nid": "Global Flood_of_Frost"
+    }
+]

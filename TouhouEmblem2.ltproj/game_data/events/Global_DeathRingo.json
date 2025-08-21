@@ -1,0 +1,18 @@
+[
+    {
+        "name": "DeathRingo",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "unit.nid == 'Ringo'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Ringo;FarRight",
+            "speak;Ringo;Yep, I'm out of here. I need some dango.",
+            "expression;Ringo;CloseEyes",
+            "remove_portrait;Ringo"
+        ],
+        "nid": "Global DeathRingo"
+    }
+]

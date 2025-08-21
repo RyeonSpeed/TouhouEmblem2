@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Slime_Melee",
+        "name": "Slime",
+        "desc": "This grimoire seems stickier than the rest. Devil.",
+        "icon_nid": "Darkmagic",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "battle_cast_anim",
+                "SlimeMelee"
+            ]
+        ]
+    }
+]

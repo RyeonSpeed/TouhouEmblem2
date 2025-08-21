@@ -1,0 +1,24 @@
+[
+    {
+        "name": "KasenCh7",
+        "trigger": "on_talk",
+        "level_nid": "Base",
+        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Kasen_NPC' and game.game_vars['chaptercount'] == 5 ",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Reimu;CenterRight",
+            "add_portrait;Kasen;CenterLeft",
+            "speak;Reimu;There seems to be a lot of interesting characters around camp.",
+            "speak;Kasen;It seems the eve of an important battle has more interesting people seeking employment.",
+            "speak;Reimu;I see...are they any good at combat?",
+            "speak;Kasen;Well, they're at least a step above the usual rabble that comes knocking.",
+            "speak;Reimu;That's more money spent, though...",
+            "speak;Kasen;It's up to you. Just remember that they'll\u2028pack up their bags if they're not hired|before big battles.",
+            "multi_remove_portrait;Kasen,Reimu",
+            "give_bexp;25;no_banner"
+        ],
+        "nid": "Base KasenCh7"
+    }
+]

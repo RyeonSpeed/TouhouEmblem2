@@ -1,0 +1,34 @@
+[
+    {
+        "nid": "Mask_Happy",
+        "name": "1000 Masks: Happiness",
+        "desc": "+40% CRIT, +40% HIT, -20% AVOID, -20% CRIT AVOID.\nMasks shift at Turn Start.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            2,
+            3
+        ],
+        "components": [
+            [
+                "crit",
+                40
+            ],
+            [
+                "avoid",
+                -20
+            ],
+            [
+                "hit",
+                40
+            ],
+            [
+                "crit_avoid",
+                -20
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

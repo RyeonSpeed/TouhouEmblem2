@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "DartingNightjars",
+        "name": "Evening Sign \"Darting Nightjars\"",
+        "desc": "Mystia intensifies the night blindness of the party, making them more susceptible to enemy attacks. All player/ally units -2 Def.\nCapture Bonus: Mandatory",
+        "icon_nid": "NewIcon2",
+        "icon_index": [
+            0,
+            4
+        ],
+        "components": [
+            [
+                "combat_art_indicator",
+                null
+            ]
+        ]
+    }
+]

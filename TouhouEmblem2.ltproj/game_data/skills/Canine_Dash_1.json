@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Canine_Dash_1",
+        "name": "Canine Dash",
+        "desc": "<blue>[Combat Start]</blue> Line 2-3. Cannot Double.\n<blue>[After Combat]</blue> 5 HP Recoil. Inflicts Bleeding. Pivot. ",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "item_override",
+                "CanineDash"
+            ],
+            [
+                "cannot_double",
+                null
+            ],
+            [
+                "give_status_after_combat_on_hit",
+                "Bleeding"
+            ]
+        ]
+    }
+]

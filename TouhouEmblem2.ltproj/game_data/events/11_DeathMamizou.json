@@ -1,0 +1,15 @@
+[
+    {
+        "name": "DeathMamizou",
+        "trigger": "unit_death",
+        "level_nid": "11",
+        "condition": "unit.nid == 'Mamizou_Boss'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            ""
+        ],
+        "nid": "11 DeathMamizou"
+    }
+]

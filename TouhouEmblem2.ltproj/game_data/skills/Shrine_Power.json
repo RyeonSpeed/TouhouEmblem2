@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Shrine_Power",
+        "name": "Shrine Power",
+        "desc": "User can \"Rally\" adjacent allies, usable 3 times each map.\n\"Rally\" grants +2 DEF/+4 RES for two turns.",
+        "icon_nid": "NewIcon3",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "ability",
+                "Rally_1"
+            ],
+            [
+                "combat_art_indicator",
+                null
+            ],
+            [
+                "drain_charge",
+                3
+            ]
+        ]
+    }
+]

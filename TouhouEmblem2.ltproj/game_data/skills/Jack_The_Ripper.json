@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Jack_The_Ripper",
+        "name": "Jack The Ripper",
+        "desc": "<blue>[On Kill]</blue> If in \"Luna Dial\", refreshes self (once per turn).",
+        "icon_nid": "skillicons102524(1)",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "event_after_combat",
+                "Global JackTheRipper"
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

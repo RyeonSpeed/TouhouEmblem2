@@ -1,0 +1,18 @@
+[
+    {
+        "name": "DeathYoumu",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "unit.nid == 'Youmu'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Youmu;FarRight",
+            "speak;Youmu;Not enough...forgive me, Lady Yuyuko.",
+            "expression;Youmu;CloseEyes",
+            "remove_portrait;Youmu"
+        ],
+        "nid": "Global DeathYoumu"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Revelry_Tuning",
+        "name": "Revelry Tuning",
+        "desc": "When within 2 tiles of Lyrica and Lunasa: +15 CRIT.",
+        "icon_nid": "NewIcon2",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "condition",
+                "len([x for x in get_units_within_distance(unit.position, dist=2) if x.nid in ['Lyrica', 'Lunasa']]) == 2"
+            ],
+            [
+                "crit",
+                15
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

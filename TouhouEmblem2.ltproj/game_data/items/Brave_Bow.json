@@ -1,0 +1,93 @@
+[
+    {
+        "nid": "Brave_Bow",
+        "name": "Brave Bow",
+        "desc": "You know what they say. Two arrows are better than one! Anti-Fliers, Brave.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            3,
+            4
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "damage",
+                10
+            ],
+            [
+                "hit",
+                70
+            ],
+            [
+                "weapon_type",
+                "Bow"
+            ],
+            [
+                "weapon_rank",
+                "A"
+            ],
+            [
+                "uses",
+                30
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "brave",
+                null
+            ],
+            [
+                "weight",
+                12
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "value",
+                6600
+            ],
+            [
+                "min_range",
+                2
+            ],
+            [
+                "max_range",
+                2
+            ],
+            [
+                "effective_damage",
+                {
+                    "effective_tags": [
+                        "Flying"
+                    ],
+                    "effective_multiplier": 3.0,
+                    "effective_bonus_damage": 10,
+                    "show_effectiveness_flash": true,
+                    "weapon_effectiveness_multiplied": true
+                }
+            ],
+            [
+                "fatigue",
+                1
+            ]
+        ]
+    }
+]

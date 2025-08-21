@@ -1,0 +1,55 @@
+[
+    {
+        "nid": "Rin_Satsuki",
+        "name": "Rin Satsuki",
+        "desc": "Submit yourself.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            0,
+            4
+        ],
+        "components": [
+            [
+                "expression_growth_change",
+                [
+                    [
+                        "HP",
+                        " v('rin_hp')"
+                    ],
+                    [
+                        "STR",
+                        " v('rin_str')"
+                    ],
+                    [
+                        "MAG",
+                        " v('rin_mag')"
+                    ],
+                    [
+                        "SKL",
+                        " v('rin_skl')"
+                    ],
+                    [
+                        "SPD",
+                        " v('rin_spd')"
+                    ],
+                    [
+                        "LCK",
+                        " v('rin_lck')"
+                    ],
+                    [
+                        "DEF",
+                        " v('rin_def')"
+                    ],
+                    [
+                        "RES",
+                        " v('rin_res')"
+                    ]
+                ]
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

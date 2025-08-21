@@ -1,0 +1,25 @@
+[
+    {
+        "name": "KosuzuScroll",
+        "trigger": null,
+        "level_nid": "6",
+        "condition": "False",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "transition;close",
+            "change_background;Camp Tent Interior",
+            "transition;open",
+            "add_portrait;Kosuzu;Left",
+            "speak;Kosuzu;Wait...is that...on the floor! A youma scroll!",
+            "speak;Kosuzu;What a great catch! I didn't expect someone to just leave this lying about!",
+            "speak;Kosuzu;Time to get a good read of you!",
+            "give_item;Kosuzu;Tindalos",
+            "transition;close",
+            "change_background",
+            "transition;open"
+        ],
+        "nid": "6 KosuzuScroll"
+    }
+]

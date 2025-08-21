@@ -1,0 +1,42 @@
+[
+    {
+        "nid": "Homing_Shot",
+        "name": "Homing Shot",
+        "desc": "<blue>[Combat Start]</blue> 1.5x DMG, +100 HIT.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            1,
+            4
+        ],
+        "components": [
+            [
+                "combat_art_indicator",
+                null
+            ],
+            [
+                "combat_art",
+                "Homing_ShotAttack"
+            ],
+            [
+                "allowed_weapons",
+                "item_system.weapon_type(unit, item) in ['Sword', 'Lance', 'Axe', 'Bow', 'Anima', 'Dark', 'Light', 'Martial']"
+            ],
+            [
+                "build_charge_start_charged",
+                6
+            ],
+            [
+                "combat_charge_increase",
+                1
+            ],
+            [
+                "ignore_fatigue",
+                null
+            ],
+            [
+                "upkeep_charge_increase",
+                1
+            ]
+        ]
+    }
+]

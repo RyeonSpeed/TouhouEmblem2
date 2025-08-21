@@ -1,0 +1,26 @@
+[
+    {
+        "name": "FightChiyuri/Marisa",
+        "trigger": "combat_start",
+        "level_nid": "6",
+        "condition": "unit1.nid == \"Chiyuri_Boss\" and unit2.nid == \"Marisa\"",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "hide_combat_ui",
+            "music;Strawberry Crisis",
+            "add_portrait;Chiyuri;Left",
+            "expression;Chiyuri;Smile",
+            "speak;Chiyuri;Well lookie here. Been a while, hasn't it?",
+            "add_portrait;Marisa;Right",
+            "speak;Marisa;Phew, I think I'm off my game today...|I don't really remember seeing you around.",
+            "expression;Chiyuri;NoSmile",
+            "speak;Chiyuri;Ah, whatever. Let's just do this already.",
+            "speak;Marisa;Must be one of those clingy types.;;;thought_bubble",
+            "multi_remove_portrait;Chiyuri;Marisa",
+            "show_combat_ui"
+        ],
+        "nid": "6 FightChiyuri/Marisa"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "name": "House1",
+        "trigger": "Visit",
+        "level_nid": "10",
+        "condition": "region.nid == 'House_1'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "transition;Close",
+            "change_background;House",
+            "transition;Open",
+            "transition;Close",
+            "change_background",
+            "transition;Open",
+            "give_item;{unit};Mire",
+            "give_bexp;30;no_banner",
+            "show_layer;House1",
+            "has_traded;{unit}"
+        ],
+        "nid": "10 House1"
+    }
+]

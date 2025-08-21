@@ -1,0 +1,38 @@
+[
+    {
+        "nid": "Immortal_Red_Soul",
+        "name": "Immortal Red Soul",
+        "desc": "Range 1. +1 DMG/4 HP lost\n<blue>[After Combat]</blue> 1/8 Max HP Recoil.\n<green>[Turn Start]</green> Heal HP = Mag. If dead, revive and +20 Fatigue.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            1,
+            8
+        ],
+        "components": [
+            [
+                "limit_maximum_range",
+                1
+            ],
+            [
+                "event_on_upkeep",
+                "Global MokouRecover"
+            ],
+            [
+                "event_after_strike",
+                "Global Mokou_Recoil_Check"
+            ],
+            [
+                "event_after_combat",
+                "Global Mokou_Recoil"
+            ],
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "eval_damage",
+                "int(unit.get_max_hp() - unit.get_hp()) * 0.25"
+            ]
+        ]
+    }
+]

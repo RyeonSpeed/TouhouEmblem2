@@ -1,0 +1,42 @@
+[
+    {
+        "nid": "Magithief",
+        "name": "Magithief",
+        "desc": "",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                1
+            ],
+            [
+                "spell",
+                null
+            ],
+            [
+                "event_on_hit",
+                "Global Magithief"
+            ],
+            [
+                "eval_target_restrict_2",
+                "target.get_weapon() and item_system.weapon_type(target, target.get_weapon()) in ['Anima', 'Dark', 'Light']"
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "map_hit_sfx",
+                "Thief"
+            ]
+        ]
+    }
+]

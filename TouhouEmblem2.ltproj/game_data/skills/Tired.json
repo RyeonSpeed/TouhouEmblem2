@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Tired",
+        "name": "Tired",
+        "desc": "",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "hidden",
+                null
+            ],
+            [
+                "time",
+                1
+            ]
+        ]
+    }
+]

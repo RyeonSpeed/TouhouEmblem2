@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "Nameless_City",
+        "name": "Nameless City",
+        "desc": "For 1 turn: Taunt, Immunity. 3 turn cooldown.",
+        "icon_nid": "skillicons102724",
+        "icon_index": [
+            1,
+            1
+        ],
+        "components": [
+            [
+                "build_charge_start_charged",
+                3
+            ],
+            [
+                "upkeep_charge_increase",
+                1
+            ],
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "ability",
+                "NamelessCity"
+            ]
+        ]
+    }
+]

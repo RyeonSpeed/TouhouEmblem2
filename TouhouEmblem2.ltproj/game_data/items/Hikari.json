@@ -1,0 +1,97 @@
+[
+    {
+        "nid": "Hikari",
+        "name": "Hikari",
+        "desc": "A coin said to give fortune to the user. After kill, Lck% chance to obtain an Ancient Coin.",
+        "icon_nid": "LightMagic",
+        "icon_index": [
+            0,
+            4
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "damage",
+                5
+            ],
+            [
+                "hit",
+                80
+            ],
+            [
+                "weapon_type",
+                "Light"
+            ],
+            [
+                "weapon_rank",
+                "D"
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "uses",
+                30
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "weight",
+                7
+            ],
+            [
+                "crit",
+                10
+            ],
+            [
+                "wexp",
+                2
+            ],
+            [
+                "value",
+                1200
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                2
+            ],
+            [
+                "map_hit_add_blend",
+                [
+                    255,
+                    255,
+                    0
+                ]
+            ],
+            [
+                "fatigue",
+                1
+            ],
+            [
+                "event_after_combat_even_miss",
+                "Global Divine_Fortune"
+            ]
+        ]
+    }
+]

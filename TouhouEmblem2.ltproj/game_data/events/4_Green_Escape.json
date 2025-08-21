@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Green Escape",
+        "trigger": "Green_Escape",
+        "level_nid": "4",
+        "condition": "region.nid == 'Green_Escape'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "remove_unit;{unit}",
+            "wait;400",
+            "inc_level_var;GreenEscaped;1"
+        ],
+        "nid": "4 Green Escape"
+    }
+]

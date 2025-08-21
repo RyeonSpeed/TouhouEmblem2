@@ -1,0 +1,28 @@
+[
+    {
+        "nid": "Mercy",
+        "name": "Mercy",
+        "desc": "",
+        "icon_nid": "skillicons4",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "TrueMiracle",
+                null
+            ],
+            [
+                "lost_on_end_combat2",
+                {
+                    "lost_on_self": true,
+                    "lost_on_ally": true,
+                    "lost_on_enemy": true,
+                    "lost_on_splash": true,
+                    "only_if_initiated": false
+                }
+            ]
+        ]
+    }
+]

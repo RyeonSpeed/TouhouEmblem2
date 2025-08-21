@@ -1,0 +1,147 @@
+[
+    {
+        "nid": "Kannushi",
+        "name": "Kannushi",
+        "desc": "A promoted shrine maiden who now wields greater divine favor.\nTags: Lord, Magic",
+        "tier": 2,
+        "movement_group": "Heavy Cav",
+        "promotes_from": "Miko",
+        "turns_into": [],
+        "tags": [
+            "Lord",
+            "Magic"
+        ],
+        "max_level": 40,
+        "bases": {
+            "HP": 20,
+            "STR": 6,
+            "MAG": 7,
+            "SKL": 7,
+            "SPD": 7,
+            "LCK": 0,
+            "DEF": 6,
+            "RES": 7,
+            "CON": 7,
+            "MOV": 6
+        },
+        "growths": {
+            "HP": 65,
+            "STR": 35,
+            "MAG": 35,
+            "SKL": 40,
+            "SPD": 25,
+            "LCK": 40,
+            "DEF": 20,
+            "RES": 30,
+            "CON": 0,
+            "MOV": 0
+        },
+        "growth_bonus": {
+            "HP": 0,
+            "STR": 0,
+            "MAG": 0,
+            "SKL": 0,
+            "SPD": 0,
+            "LCK": 0,
+            "DEF": 0,
+            "RES": 0,
+            "CON": 0,
+            "MOV": 0
+        },
+        "promotion": {
+            "HP": 4,
+            "STR": 2,
+            "MAG": 2,
+            "SKL": 2,
+            "SPD": 2,
+            "LCK": 0,
+            "DEF": 2,
+            "RES": 2,
+            "CON": 2,
+            "MOV": -99
+        },
+        "max_stats": {
+            "HP": 80,
+            "STR": 29,
+            "MAG": 29,
+            "SKL": 32,
+            "SPD": 26,
+            "LCK": 30,
+            "DEF": 24,
+            "RES": 27,
+            "CON": 25,
+            "MOV": 15
+        },
+        "learned_skills": [
+            [
+                1,
+                "Canto"
+            ]
+        ],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0,
+                251
+            ],
+            "Lance": [
+                true,
+                1,
+                251
+            ],
+            "Axe": [
+                false,
+                0,
+                251
+            ],
+            "Bow": [
+                true,
+                1,
+                251
+            ],
+            "Staff": [
+                true,
+                1,
+                181
+            ],
+            "Light": [
+                true,
+                31,
+                251
+            ],
+            "Anima": [
+                false,
+                0,
+                251
+            ],
+            "Dark": [
+                false,
+                0,
+                251
+            ],
+            "Martial": [
+                false,
+                0,
+                null
+            ],
+            "Default": [
+                false,
+                0,
+                251
+            ],
+            "Monster": [
+                false,
+                0,
+                null
+            ]
+        },
+        "icon_nid": "Generic_Portrait_Citizen",
+        "icon_index": [
+            0,
+            0
+        ],
+        "map_sprite_nid": "Miko",
+        "combat_anim_nid": "Herald_1",
+        "fields": []
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Fulmination_Infusion_Effect",
+        "name": "Fulmination Infusion",
+        "desc": "<blue>[On Hit]</blue> Inflicts Shock. Anima only.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            6,
+            0
+        ],
+        "components": [
+            [
+                "give_status_after_hit",
+                "Shock"
+            ]
+        ]
+    }
+]

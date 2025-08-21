@@ -1,0 +1,33 @@
+[
+    {
+        "name": "SpellSara",
+        "trigger": "combat_end",
+        "level_nid": "12",
+        "condition": "game.check_dead(\"Sara_Boss\")",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "change_music;player_phase;Vanishing Dream",
+            "change_music;player_battle;Vanishing Dream",
+            "change_music;enemy_phase;Vanishing Dream",
+            "change_music;enemy_battle;Vanishing Dream",
+            "change_music;enemy2_phase;Vanishing Dream",
+            "change_music;enemy2_battle;Vanishing Dream",
+            "add_portrait;Sara;Left",
+            "speak;;Lockdown Zone!;center;90;hint;;red;;;1;;;;;Warp",
+            "speak;Sara;Not a single step forward!",
+            "remove_portrait;Sara",
+            "add_group;SaraSpell;SaraSpell;warp;closest",
+            "autolevel_to;Sara_Boss_1;18;fixed",
+            "move_cursor;Sara_Boss_1",
+            "if;game.phase.get_current() == 'enemy'",
+            "for;Spell;game.level.unit_groups.get('SaraSpell').units",
+            "    has_finished;{Spell}",
+            "endf",
+            "else",
+            "end"
+        ],
+        "nid": "12 SpellSara"
+    }
+]

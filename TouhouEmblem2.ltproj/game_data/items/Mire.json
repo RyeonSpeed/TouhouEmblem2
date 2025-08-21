@@ -1,0 +1,97 @@
+[
+    {
+        "nid": "Mire",
+        "name": "Mire",
+        "desc": "Poisonous. Attacks in a 2 tile radius blast.",
+        "icon_nid": "Darkmagic",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                1
+            ],
+            [
+                "damage",
+                7
+            ],
+            [
+                "hit",
+                60
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "weight",
+                11
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Dark"
+            ],
+            [
+                "weapon_rank",
+                "B"
+            ],
+            [
+                "map_hit_add_blend",
+                [
+                    90,
+                    166,
+                    9
+                ]
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "value",
+                2200
+            ],
+            [
+                "uses",
+                25
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "status_on_hit",
+                "Poisoned"
+            ],
+            [
+                "fatigue",
+                1
+            ],
+            [
+                "enemy_blast_aoe",
+                2
+            ]
+        ]
+    }
+]

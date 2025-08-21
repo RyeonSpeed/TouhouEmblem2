@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Optimism",
+        "name": "Optimism",
+        "desc": "+5 HP healed. \n<blue>[Turn Start]</blue>User restores 20% of health. ",
+        "icon_nid": "skillicons102724(1)",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "empower_heal_received",
+                "5"
+            ],
+            [
+                "regeneration",
+                0.2
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Parry",
+        "name": "Parry",
+        "desc": "Skill% chance to negate an attack.",
+        "icon_nid": "skillicons102724",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "proc_rate",
+                "CRIT_HIT"
+            ],
+            [
+                "defense_proc",
+                "Parry_Effect"
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

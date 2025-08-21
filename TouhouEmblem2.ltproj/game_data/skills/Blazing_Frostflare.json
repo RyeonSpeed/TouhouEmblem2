@@ -1,0 +1,38 @@
+[
+    {
+        "nid": "Blazing_Frostflare",
+        "name": "Blazing Frostflare",
+        "desc": "Enemies within 5 tiles:\n- Inflict Frozen and Burning.",
+        "icon_nid": "skillicons102724(1)",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "aura",
+                "Blazing_Frostflare_1"
+            ],
+            [
+                "aura_range",
+                5
+            ],
+            [
+                "aura_target",
+                "enemy"
+            ],
+            [
+                "aura_opacity",
+                0.7
+            ],
+            [
+                "show_aura",
+                [
+                    206,
+                    163,
+                    6
+                ]
+            ]
+        ]
+    }
+]

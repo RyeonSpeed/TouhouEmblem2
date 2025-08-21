@@ -1,0 +1,85 @@
+[
+    {
+        "nid": "Power_Strike",
+        "name": "Power Strike",
+        "desc": "A strong and concentrated blow.\n-2 Attack Speed. Recurring.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            5,
+            8
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "damage",
+                10
+            ],
+            [
+                "hit",
+                80
+            ],
+            [
+                "weight",
+                9
+            ],
+            [
+                "wexp",
+                0
+            ],
+            [
+                "crit",
+                30
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                1
+            ],
+            [
+                "fatigue",
+                1
+            ],
+            [
+                "weapon_type",
+                "Martial"
+            ],
+            [
+                "weapon_rank",
+                "D"
+            ],
+            [
+                "c_uses",
+                10
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "value",
+                600
+            ],
+            [
+                "status_on_equip",
+                "PowerStrike"
+            ]
+        ]
+    }
+]

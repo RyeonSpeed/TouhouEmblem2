@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Guide",
+        "trigger": null,
+        "level_nid": "0",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Patchouli;Left",
+            "speak;Patchouli;Perfect. Let us begin.",
+            "speak;Patchouli;Question one. What is the definition of a guide?",
+            "choice;Q1;What is the definition of a guide?;Something that is to be ignored.,Something that helps you learn something.,Cheeseburgers.",
+            "if;'{v:Q1}' == 'Something that helps you learn something.'",
+            "else",
+            "speak;Patchouli;Bruh",
+            "main_menu",
+            "end"
+        ],
+        "nid": "0 Guide"
+    }
+]

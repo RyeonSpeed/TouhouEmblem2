@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Hakurei_Boxing_Higi_1",
+        "name": "Hakurei Boxing Higi",
+        "desc": "Strikes 8 times. ",
+        "icon_nid": "skillicons102724(1)",
+        "icon_index": [
+            1,
+            2
+        ],
+        "components": [
+            [
+                "dynamic_multiattacks",
+                "7"
+            ],
+            [
+                "deathrecoil",
+                20
+            ]
+        ]
+    }
+]

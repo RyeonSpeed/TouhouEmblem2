@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Stoneskinned",
+        "name": "Stoneskinned",
+        "desc": "",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "no_map_hp_display",
+                null
+            ],
+            [
+                "no_attack_after_move",
+                null
+            ]
+        ]
+    }
+]

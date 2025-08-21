@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Are you ready?",
+        "trigger": null,
+        "level_nid": "0",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "choice;Readiness;Are you ready?;Yes,No",
+            "if;'{v:Readiness}' == 'Yes'",
+            "else",
+            "add_portrait;Patchouli;Left",
+            "speak;Patchouli;Bruh",
+            "main_menu",
+            "end"
+        ],
+        "nid": "0 Are you ready?"
+    }
+]

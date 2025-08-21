@@ -1,0 +1,39 @@
+[
+    {
+        "nid": "Requiem_Tuning",
+        "name": "Requiem Tuning",
+        "desc": "When within 2 tiles of Lyrica and Merlin: +15 HIT, +2 DEF/RES.",
+        "icon_nid": "NewIcon2",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "condition",
+                "len([x for x in get_units_within_distance(unit.position, dist=2) if x.nid in ['Lyrica', 'Merlin']]) == 2"
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "DEF",
+                        2
+                    ],
+                    [
+                        "RES",
+                        2
+                    ]
+                ]
+            ],
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "hit",
+                15
+            ]
+        ]
+    }
+]

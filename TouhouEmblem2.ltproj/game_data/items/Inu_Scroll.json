@@ -1,0 +1,28 @@
+[
+    {
+        "nid": "Inu_Scroll",
+        "name": "Inu Scroll",
+        "desc": "+20% Spd Growth, -2 Spd.\n+10% Skl Growth, -1 Skl.\nOnly one accessory can be equipped at a time.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            4,
+            5
+        ],
+        "components": [
+            [
+                "multi_status_on_hold",
+                [
+                    "Stoneskinned"
+                ]
+            ],
+            [
+                "equippable_accessory",
+                null
+            ],
+            [
+                "eval_target_restrict_2",
+                "False"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Mask_Anger",
+        "trigger": "turn_change",
+        "level_nid": null,
+        "condition": "game.turncount % 6 == 4 and game.check_alive('Kokoro')",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "remove_skill;Kokoro;Mask_Anger;;no_banner",
+            "give_skill;Kokoro;Mask_Sad;;no_banner"
+        ],
+        "nid": "Global Mask_Anger"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "nid": "IgniteForge",
+        "name": "Forge",
+        "desc": "Applies Metal.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            8,
+            0
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "weapon_type",
+                "Anima"
+            ],
+            [
+                "weapon_rank",
+                "E"
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "max_range",
+                2
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "status_on_equip",
+                "GML_1"
+            ]
+        ]
+    }
+]

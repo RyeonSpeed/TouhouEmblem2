@@ -1,0 +1,104 @@
+[
+    {
+        "nid": "Long_Ballista",
+        "name": "Long Ballista",
+        "desc": "Anti-Fliers.",
+        "icon_nid": "Bow",
+        "icon_index": [
+            0,
+            9
+        ],
+        "components": [
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "damage",
+                13
+            ],
+            [
+                "hit",
+                60
+            ],
+            [
+                "weapon_type",
+                "Bow"
+            ],
+            [
+                "uses",
+                5
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "weight",
+                20
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "wexp",
+                4
+            ],
+            [
+                "min_range",
+                3
+            ],
+            [
+                "max_range",
+                15
+            ],
+            [
+                "weapon_rank",
+                "E"
+            ],
+            [
+                "prf_class",
+                [
+                    "Archer",
+                    "Sniper"
+                ]
+            ],
+            [
+                "effective_damage",
+                {
+                    "effective_tags": [
+                        "Flying"
+                    ],
+                    "effective_multiplier": 3.0,
+                    "effective_bonus_damage": 10,
+                    "show_effectiveness_flash": true,
+                    "weapon_effectiveness_multiplied": true
+                }
+            ],
+            [
+                "fatigue",
+                1
+            ],
+            [
+                "status_on_equip",
+                "Ballista_Anim"
+            ],
+            [
+                "cannot_counter",
+                null
+            ],
+            [
+                "weapon",
+                null
+            ]
+        ]
+    }
+]

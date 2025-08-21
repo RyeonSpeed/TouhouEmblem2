@@ -1,0 +1,34 @@
+[
+    {
+        "name": "MarisaRumiaTalk",
+        "trigger": "on_talk",
+        "level_nid": "1",
+        "condition": "unit.nid == 'Marisa' and unit2.nid == 'Rumia'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "music;Comrades",
+            "add_portrait;Marisa;Left",
+            "add_portrait;Rumia;Right",
+            "speak;Marisa;Well, lookie here...",
+            "speak;Rumia;I-I'm not afraid of you! I'll take you down today!",
+            "speak;Marisa;Sure, an' the Hakurei God is gonna get their power back next week. ",
+            "speak;Rumia;Uh...",
+            "speak;Marisa;Ya seem pretty unsure of yerself.",
+            "speak;Rumia;Hiyah! Take this!",
+            "speak;Marisa;Ya can't hit anything like this, y'know...",
+            "speak;Rumia;On second thought, I think I'll just lea-",
+            "speak;Marisa;Hm, you could be an asset actually.",
+            "speak;Rumia;What",
+            "speak;Marisa;Always nice to have another footsoldier around!",
+            "speak;Rumia;Huh",
+            "change_team;Rumia;player",
+            "remove_talk;Marisa;Rumia",
+            "remove_talk;Reimu;Rumia",
+            "remove_skill;Rumia;Looter;no_banner",
+            "music_fade_back"
+        ],
+        "nid": "1 MarisaRumiaTalk"
+    }
+]

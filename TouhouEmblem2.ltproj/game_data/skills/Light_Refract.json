@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "Light_Refract",
+        "name": "Light Refract",
+        "desc": "<blue>[On Use]</blue> Gain \"Vanished\". While \"Vanished\", cannot be targeted by enemies, cannot attack or trade. 3 turn duration.",
+        "icon_nid": "NewIcon3",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "ability",
+                "Vanish"
+            ],
+            [
+                "build_charge_start_charged",
+                4
+            ],
+            [
+                "upkeep_charge_increase",
+                1
+            ]
+        ]
+    }
+]

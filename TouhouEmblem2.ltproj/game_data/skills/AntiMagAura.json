@@ -1,0 +1,46 @@
+[
+    {
+        "nid": "AntiMagAura",
+        "name": "Magical Decay",
+        "desc": "Enemies within 3 tiles: Cannot use magical weapons.",
+        "icon_nid": "NewIcon4",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "aura",
+                "Silence_1"
+            ],
+            [
+                "aura_range",
+                3
+            ],
+            [
+                "aura_target",
+                "unit"
+            ],
+            [
+                "show_aura",
+                [
+                    170,
+                    0,
+                    255
+                ]
+            ],
+            [
+                "aura_opacity",
+                0.7
+            ],
+            [
+                "negative",
+                null
+            ]
+        ]
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "nid": "Mima",
+        "name": "Mima",
+        "desc": "Marisa's mentor. She's a vengeful spirit who's usually found haunting Hakurei Shrine. Nowadays, she seems to be wandering Gensokyo...",
+        "variant": "",
+        "level": 1,
+        "klass": "Druid",
+        "tags": [],
+        "bases": {
+            "HP": 0,
+            "STR": 0,
+            "MAG": 0,
+            "SKL": 2,
+            "SPD": 1,
+            "LCK": 2,
+            "DEF": 2,
+            "RES": 0,
+            "CON": 1,
+            "MOV": 0
+        },
+        "growths": {
+            "HP": -5,
+            "STR": 0,
+            "MAG": 10,
+            "SKL": 5,
+            "SPD": 10,
+            "LCK": 0,
+            "DEF": 5,
+            "RES": 5,
+            "CON": 0,
+            "MOV": 0
+        },
+        "stat_cap_modifiers": {
+            "LCK": 0,
+            "CON": 0,
+            "MOV": 0,
+            "STR": 0,
+            "SKL": 0,
+            "RES": 0,
+            "HP": 0,
+            "MAG": 0,
+            "SPD": 0,
+            "DEF": 0
+        },
+        "starting_items": [
+            [
+                "Yomi",
+                false
+            ],
+            [
+                "Luna",
+                false
+            ],
+            [
+                "Mend",
+                false
+            ],
+            [
+                "Lucky_Clover",
+                false
+            ]
+        ],
+        "learned_skills": [],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Light": [
+                false,
+                0,
+                null
+            ],
+            "Staff": [
+                false,
+                121,
+                null
+            ],
+            "Dark": [
+                false,
+                181,
+                null
+            ],
+            "Anima": [
+                false,
+                71,
+                null
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "Mima",
+        "affinity": "Dark",
+        "fields": []
+    }
+]

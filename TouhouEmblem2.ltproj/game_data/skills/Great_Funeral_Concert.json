@@ -1,0 +1,34 @@
+[
+    {
+        "nid": "Great_Funeral_Concert",
+        "name": "Great Funeral Concert",
+        "desc": "Blast 3. One use per map. Only usable when all 3 Prismriver Sisters are within 2 tiles of each other.\n<blue>[Combat Start]</blue> 2x DMG.",
+        "icon_nid": "NewIcon2",
+        "icon_index": [
+            0,
+            3
+        ],
+        "components": [
+            [
+                "combat_art_indicator",
+                null
+            ],
+            [
+                "combat_art",
+                "Great_Funeral_Concert_1"
+            ],
+            [
+                "drain_charge",
+                1
+            ],
+            [
+                "condition",
+                "len([x for x in get_units_within_distance(unit.position, dist=2) if x.nid in ['Lyrica', 'Merlin', 'Lunasa']]) == 3"
+            ],
+            [
+                "damage_multiplier",
+                2.0
+            ]
+        ]
+    }
+]

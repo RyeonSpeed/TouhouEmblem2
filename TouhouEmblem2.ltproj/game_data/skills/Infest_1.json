@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Infest_1",
+        "name": "Infesting Strike",
+        "desc": "<blue>[After Combat]</blue> Inflicts \"Infested\" for 2 turns.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            1,
+            1
+        ],
+        "components": [
+            [
+                "give_status_after_combat",
+                "Infest_Effect_1"
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "The_Eternity",
+        "name": "The Eternity",
+        "desc": "Halves DMG taken. Immune to negative status.",
+        "icon_nid": "skillicons102724(2)",
+        "icon_index": [
+            1,
+            1
+        ],
+        "components": [
+            [
+                "resist_multiplier",
+                0.5
+            ],
+            [
+                "immune_status",
+                null
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

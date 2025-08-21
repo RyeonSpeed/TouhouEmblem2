@@ -1,0 +1,50 @@
+[
+    {
+        "nid": "Lethal_Life_Flow",
+        "name": "Lethal Life Flow",
+        "desc": "<blue>[When Hit]</blue> Gain one charge. \n<blue>[On Use]</blue> Kill a non-boss enemy.",
+        "icon_nid": "skillicons102524(1)",
+        "icon_index": [
+            1,
+            2
+        ],
+        "components": [
+            [
+                "combat_art_indicator",
+                null
+            ],
+            [
+                "combat_art",
+                "Lethal_Life_Flow1"
+            ],
+            [
+                "build_charge",
+                10
+            ],
+            [
+                "event_when_hit",
+                "Global LethalLifeFlowCharge"
+            ],
+            [
+                "condition",
+                "\"Boss\" in unit2.tags"
+            ],
+            [
+                "allowed_weapons",
+                "item_system.weapon_type(unit, item) in ['Sword', 'Lance', 'Axe', 'Bow', 'Anima', 'Dark', 'Light', 'Martial']"
+            ],
+            [
+                "alternate_battle_anim",
+                "Critical"
+            ],
+            [
+                "combat_charge_increase",
+                1
+            ],
+            [
+                "upkeep_charge_increase",
+                1
+            ]
+        ]
+    }
+]

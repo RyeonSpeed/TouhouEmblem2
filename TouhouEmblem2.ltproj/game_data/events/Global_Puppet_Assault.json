@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Puppet Assault",
+        "trigger": "turn_change",
+        "level_nid": null,
+        "condition": "game.turncount == 1",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "if;u('Alice') and u('Alice').position",
+            "game_var;AlicePosition;u('Alice').position",
+            "game_var;AliceLevel;u('Alice').level",
+            "change_party;Shanghai;Reimu",
+            "change_party;Hourai;Reimu",
+            "load_unit;Shanghai;player",
+            "load_unit;Hourai;player",
+            "add_unit;Shanghai;{v:AlicePosition};warp;closest",
+            "add_unit;Hourai;{v:AlicePosition};warp;closest",
+            "autolevel_to;Shanghai;{v:AliceLevel}",
+            "autolevel_to;Hourai;{v:AliceLevel}",
+            "end"
+        ],
+        "nid": "Global Puppet Assault"
+    }
+]

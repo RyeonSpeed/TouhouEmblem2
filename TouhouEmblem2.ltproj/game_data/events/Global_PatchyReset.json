@@ -1,0 +1,17 @@
+[
+    {
+        "name": "PatchyReset",
+        "trigger": null,
+        "level_nid": null,
+        "condition": "False",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "reset;Patchouli",
+            "sound;RefreshDance",
+            "give_skill;Patchouli;Tired;;no_banner"
+        ],
+        "nid": "Global PatchyReset"
+    }
+]

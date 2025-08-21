@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Tewi",
+        "trigger": "unit_wait",
+        "level_nid": "4",
+        "condition": "region.nid == 'Tewi'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Tewi;Left",
+            "speak;Tewi;There they are! Time to play!",
+            "remove_portrait;Tewi",
+            "change_ai;Tewi_Boss;Pursue",
+            ""
+        ],
+        "nid": "4 Tewi"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "name": "DeathLuna",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "unit.nid == 'Luna'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Luna;FarRight",
+            "speak;Luna;Oh...fun time's over, I guess.",
+            "expression;Luna;CloseEyes",
+            "remove_portrait;Luna"
+        ],
+        "nid": "Global DeathLuna"
+    }
+]

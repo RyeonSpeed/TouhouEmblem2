@@ -1,0 +1,26 @@
+[
+    {
+        "name": "TriangleAttack",
+        "trigger": "combat_start",
+        "level_nid": null,
+        "condition": "unit1.nid in [\"Sunny\",\"Luna\",\"Star\"]",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "if;len([x.nid for x in get_allies_within_distance(unit2.position) if has_skill(x, 'Staking_Your_Life_on_a_Prank')]) == 3;",
+            "    if;unit1.nid == \"Star\";",
+            "        add_portrait;Star;Left;normal;Smile",
+            "        speak;Star;Looks like it's a good time for this!\u2028Sunny, Luna, let's go!",
+            "        remove_portrait;Star",
+            "    elif;unit1.nid == \"Luna\";",
+            "        add_portrait;Luna;Left;normal;NoSmile",
+            "        speak;Luna;Huh? We're doing this now? Alright then, here goes...",
+            "        remove_portrait;Luna",
+            "    elif;unit1.nid == \"Sunny\";",
+            "    end",
+            "end"
+        ],
+        "nid": "Global TriangleAttack"
+    }
+]

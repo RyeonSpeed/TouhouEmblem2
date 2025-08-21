@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Puppet_Assault",
+        "name": "Puppet Assault",
+        "desc": "<blue>[Chapter Start]</blue> Alice will summon Shanghai and Hourai to assist her in battle.",
+        "icon_nid": "skillicons102724(2)",
+        "icon_index": [
+            1,
+            2
+        ],
+        "components": [
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "nid": "LunaticRedEyes",
+        "name": "Lunatic Eyes",
+        "desc": "1-5 Range. Adds fatigue equal to 40% of user's max fatigue after. Can target any unit regardless of allegiance. Apply \"Berserk\" to target for 3 turns and gives target -30 HIT/AVOID, and +50 CRIT. ",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "spell",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                5
+            ],
+            [
+                "target_unit",
+                null
+            ],
+            [
+                "status_on_hit",
+                "Lunatic_Red_Eyes_Effect"
+            ],
+            [
+                "event_on_hit",
+                "Global ReisenPTSD"
+            ]
+        ]
+    }
+]

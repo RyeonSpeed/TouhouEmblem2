@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Immortal_Red_Soul_1",
+        "name": "Immortal Red Soul",
+        "desc": "Range 1. +1 DMG/4 HP lost\n<blue>[After Combat]</blue> 1/8 Max HP Recoil.\n<green>[Turn Start]</green> Heal HP = Mag. If dead, revive and +20 Fatigue.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            1,
+            8
+        ],
+        "components": [
+            [
+                "event_before_combat",
+                "Global Record Position"
+            ],
+            [
+                "hidden",
+                null
+            ]
+        ]
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "HourofDemons",
+        "name": "Hour of Demons: Oumagatoki",
+        "desc": "Shinki unleashes the waking, walking demons of Makai upon the enemy in a final blow.\nCapture Bonus: Mandatory",
+        "icon_nid": "NewIcon2",
+        "icon_index": [
+            0,
+            4
+        ],
+        "components": [
+            [
+                "combat_art_indicator",
+                null
+            ]
+        ]
+    }
+]

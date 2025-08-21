@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Infest_Effect",
+        "name": "Infest",
+        "desc": "",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            1,
+            1
+        ],
+        "components": [
+            [
+                "give_status_after_combat",
+                "Infest_Effect_1"
+            ],
+            [
+                "canto_plus",
+                null
+            ],
+            [
+                "first_hit_battle_anim",
+                "Critical"
+            ]
+        ]
+    }
+]

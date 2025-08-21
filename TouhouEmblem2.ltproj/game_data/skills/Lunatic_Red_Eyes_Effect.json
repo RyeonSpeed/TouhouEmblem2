@@ -1,0 +1,62 @@
+[
+    {
+        "nid": "Lunatic_Red_Eyes_Effect",
+        "name": "Lunacy",
+        "desc": "Unit will attack any unit on the field. -30 Hit/Dodge but also +50 Crit.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            3,
+            1
+        ],
+        "components": [
+            [
+                "time",
+                3
+            ],
+            [
+                "unit_flickering_tint",
+                [
+                    153,
+                    0,
+                    0
+                ]
+            ],
+            [
+                "negative",
+                null
+            ],
+            [
+                "ignore_alliances",
+                null
+            ],
+            [
+                "unselectable",
+                null
+            ],
+            [
+                "hit",
+                -30
+            ],
+            [
+                "avoid",
+                -30
+            ],
+            [
+                "crit",
+                50
+            ],
+            [
+                "change_ai",
+                "Pursue"
+            ],
+            [
+                "lost_on_end_chapter",
+                null
+            ],
+            [
+                "cannot_trade",
+                null
+            ]
+        ]
+    }
+]

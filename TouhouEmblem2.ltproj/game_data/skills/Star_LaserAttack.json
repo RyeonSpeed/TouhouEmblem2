@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Star_LaserAttack",
+        "name": "Star Laser",
+        "desc": "",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            2,
+            5
+        ],
+        "components": [
+            [
+                "item_override",
+                "StarLaser"
+            ]
+        ]
+    }
+]

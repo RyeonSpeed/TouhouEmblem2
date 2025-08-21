@@ -1,0 +1,21 @@
+[
+    {
+        "nid": "Blazing_Frostflare_1",
+        "name": "Blazing Frostflare",
+        "desc": "Frozen and Burning.",
+        "icon_nid": "skillicons102724(1)",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "multi_skill",
+                [
+                    "Burning",
+                    "Frozen"
+                ]
+            ]
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Bloodlust",
+        "trigger": "combat_end",
+        "level_nid": null,
+        "condition": "item1.nid == 'Gungnir'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "if;unit2.get_hp() == 0 and has_skill(unit2, 'Bleeding') and not has_skill(unit1, 'Cooldown') ",
+            "add_portrait;Remilia;Right",
+            "speak;Remilia;MORE! I NEED MORE!",
+            "remove_portrait;Remilia",
+            "sound;RefreshDance",
+            "give_skill;{unit};Cooldown;;no_banner",
+            "reset;{unit}",
+            "else",
+            "end"
+        ],
+        "nid": "Global Bloodlust"
+    }
+]

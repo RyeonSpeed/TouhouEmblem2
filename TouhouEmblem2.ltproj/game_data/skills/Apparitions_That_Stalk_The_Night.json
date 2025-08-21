@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Apparitions_That_Stalk_The_Night",
+        "name": "Apparitions That Stalk The Night",
+        "desc": "<blue>[On Use]</blue> Shrouds map in dense fog. Gain \"Night Hunter\". \nUsable once per map.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            1,
+            4
+        ],
+        "components": [
+            [
+                "drain_charge",
+                1
+            ],
+            [
+                "ability",
+                "Apparitions"
+            ],
+            [
+                "combat_art_indicator",
+                null
+            ]
+        ]
+    }
+]

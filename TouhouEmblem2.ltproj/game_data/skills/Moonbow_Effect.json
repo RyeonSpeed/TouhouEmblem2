@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Moonbow_Effect",
+        "name": "Moonbow",
+        "desc": "<blue>[Combat Start]</blue> Ignore 25% Def/Res. Bows only.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            4,
+            0
+        ],
+        "components": [
+            [
+                "dynamic_damage",
+                "unit2.get_stat('RES') * 0.5 if item_funcs.is_magic(unit, item) else unit2.get_stat('DEF') * 0.25"
+            ]
+        ]
+    }
+]

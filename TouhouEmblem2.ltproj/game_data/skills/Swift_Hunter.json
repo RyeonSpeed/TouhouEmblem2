@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "Swift_Hunter",
+        "name": "Swift Hunter",
+        "desc": "<blue>[Combat Start]</blue> If enemy is Bleeding: +3 DMG, +50 AVOID. ",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            2,
+            0
+        ],
+        "components": [
+            [
+                "avoid",
+                50
+            ],
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "combat_condition",
+                "has_skill(unit2, 'Bleeding')"
+            ],
+            [
+                "damage",
+                3
+            ]
+        ]
+    }
+]

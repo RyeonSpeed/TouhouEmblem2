@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "Portal_Combat",
+        "name": "Portal Combat",
+        "desc": "<green>[On Defense]</green>\n<blue>[Combat Start]</blue> Counters regardless of range. Cannot Double.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            5,
+            2
+        ],
+        "components": [
+            [
+                "combat_condition",
+                "mode != 'attack'"
+            ],
+            [
+                "distant_counter",
+                null
+            ],
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "cannot_double",
+                null
+            ]
+        ]
+    }
+]

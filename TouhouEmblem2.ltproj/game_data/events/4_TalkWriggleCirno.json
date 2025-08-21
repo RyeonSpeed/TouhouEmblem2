@@ -1,0 +1,28 @@
+[
+    {
+        "name": "TalkWriggleCirno",
+        "trigger": "on_talk",
+        "level_nid": "4",
+        "condition": "unit.nid == 'Wriggle' and unit2.nid == 'Cirno'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Wriggle;Right;ExpressionList=Smile",
+            "add_portrait;Cirno;Left;ExpressionList=Smile",
+            "speak;Wriggle;Well, well, well.",
+            "speak;Cirno;Ah, Wriggle! There you are! Let's bust out of here together!",
+            "speak;Wriggle;Heh heh...right behind you!",
+            "multi_remove_portrait;Wriggle;Cirno",
+            "change_team;Cirno;player",
+            "remove_talk;Rumia;Cirno",
+            "remove_talk;Mystia;Cirno",
+            "remove_talk;Wriggle;Cirno",
+            "remove_talk;Star;Cirno",
+            "remove_talk;Sunny;Cirno",
+            "remove_talk;Luna;Cirno",
+            "add_lore;Cirno"
+        ],
+        "nid": "4 TalkWriggleCirno"
+    }
+]

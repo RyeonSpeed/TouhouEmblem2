@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Record Position",
+        "trigger": null,
+        "level_nid": null,
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "game_var;UnitPosition;unit.position",
+            "end"
+        ],
+        "nid": "Global Record Position"
+    }
+]

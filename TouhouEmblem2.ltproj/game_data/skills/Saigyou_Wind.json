@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Saigyou_Wind",
+        "name": "Slash of Saigyou Spring Wind",
+        "desc": "Youmu unleashes a series of 7 slashes onto an opponent at half damage. \nCost: Up to 7 Durability",
+        "icon_nid": "NewIcon1",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "combat_art",
+                "Saigyou_Wind_1"
+            ],
+            [
+                "combat_art_indicator",
+                null
+            ]
+        ]
+    }
+]

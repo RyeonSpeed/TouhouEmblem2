@@ -1,0 +1,38 @@
+[
+    {
+        "nid": "Overwhelm",
+        "name": "Overwhelm",
+        "desc": "<blue>[Combat Start]</blue> +5 DMG, -3 SPD. Dark only.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            7,
+            0
+        ],
+        "components": [
+            [
+                "build_charge_start_charged",
+                4
+            ],
+            [
+                "combat_art_indicator",
+                null
+            ],
+            [
+                "allowed_weapons",
+                "item_system.weapon_type(unit, item) in ['Dark']"
+            ],
+            [
+                "combat_art",
+                "Overwhelm_Effect"
+            ],
+            [
+                "combat_charge_increase",
+                1
+            ],
+            [
+                "upkeep_charge_increase",
+                1
+            ]
+        ]
+    }
+]

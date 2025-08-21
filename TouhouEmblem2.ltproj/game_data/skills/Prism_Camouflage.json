@@ -1,0 +1,34 @@
+[
+    {
+        "nid": "Prism_Camouflage",
+        "name": "Prism Camouflage",
+        "desc": "Shade. If enemy is using Light: halve damage taken, +10 AVOID. ",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            3,
+            2
+        ],
+        "components": [
+            [
+                "combat_condition",
+                "item_system.weapon_type(unit2, item2) == 'Light'"
+            ],
+            [
+                "avoid",
+                10
+            ],
+            [
+                "resist_multiplier",
+                0.5
+            ],
+            [
+                "modify_ai_priority",
+                0.3
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

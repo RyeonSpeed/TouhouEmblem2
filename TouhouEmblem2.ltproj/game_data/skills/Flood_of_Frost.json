@@ -1,0 +1,38 @@
+[
+    {
+        "nid": "Flood_of_Frost",
+        "name": "Flood of Frost",
+        "desc": "<blue>[Combat Start]</blue> Splash 1. Cannot Double.\n<blue>[After Combat]</blue> Inflicts Frozen for 2 turns. Gain +10 RES for 2 turns.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            2,
+            2
+        ],
+        "components": [
+            [
+                "combat_art",
+                "Flood_of_Frost_Art"
+            ],
+            [
+                "allowed_weapons",
+                "item_system.weapon_type(unit, item) in ['Sword', 'Lance', 'Axe', 'Bow', 'Anima', 'Dark', 'Light', 'Martial']"
+            ],
+            [
+                "build_charge_start_charged",
+                9
+            ],
+            [
+                "combat_charge_increase",
+                1
+            ],
+            [
+                "combat_art_indicator",
+                null
+            ],
+            [
+                "upkeep_charge_increase",
+                1
+            ]
+        ]
+    }
+]

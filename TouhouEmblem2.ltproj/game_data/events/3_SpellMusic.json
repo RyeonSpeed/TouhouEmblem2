@@ -1,0 +1,21 @@
+[
+    {
+        "name": "SpellMusic",
+        "trigger": "combat_end",
+        "level_nid": "3",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 21,
+        "_source": [
+            "if;v('RingoSpellMusic') == 0 and v('SeiranSpellMusic') == 0",
+            "change_music;player_phase;Nostalgic Blood",
+            "change_music;player_battle;Nostalgic Blood",
+            "change_music;enemy_phase;Deaf to All but the Song",
+            "change_music;enemy_battle;Deaf to All but the Song",
+            "else",
+            "end"
+        ],
+        "nid": "3 SpellMusic"
+    }
+]

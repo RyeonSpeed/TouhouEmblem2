@@ -1,0 +1,38 @@
+[
+    {
+        "nid": "Fulmination_Infusion",
+        "name": "Fulmination Infusion",
+        "desc": "<blue>[On Hit]</blue> Inflicts Shock. Anima only.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            6,
+            0
+        ],
+        "components": [
+            [
+                "build_charge_start_charged",
+                4
+            ],
+            [
+                "combat_art_indicator",
+                null
+            ],
+            [
+                "allowed_weapons",
+                "item_system.weapon_type(unit, item) in ['Anima']"
+            ],
+            [
+                "combat_art",
+                "Fulmination_Infusion_Effect"
+            ],
+            [
+                "combat_charge_increase",
+                1
+            ],
+            [
+                "upkeep_charge_increase",
+                1
+            ]
+        ]
+    }
+]

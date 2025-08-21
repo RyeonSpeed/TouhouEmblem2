@@ -1,0 +1,25 @@
+[
+    {
+        "name": "DeathReimu",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "unit.nid == 'Reimu'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Reimu;FarRight",
+            "music;In Sorrows Shroud",
+            "speak;Reimu;Gah... Ow. This sucks.",
+            "expression;Reimu;CloseEyes",
+            "remove_portrait;Reimu",
+            "remove_unit;Reimu",
+            "if;{v:_current_turnwheel_uses} > 0",
+            "activate_turnwheel;t",
+            "else",
+            "lose_game",
+            "end"
+        ],
+        "nid": "Global DeathReimu"
+    }
+]

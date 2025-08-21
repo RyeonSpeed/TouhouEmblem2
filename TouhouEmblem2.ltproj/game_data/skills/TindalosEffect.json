@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "TindalosEffect",
+        "name": "TindalosEffect",
+        "desc": "",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "hidden",
+                null
+            ],
+            [
+                "proc_rate",
+                "TINDALOS"
+            ],
+            [
+                "attack_proc",
+                "Bleeding_Strike_1"
+            ]
+        ]
+    }
+]

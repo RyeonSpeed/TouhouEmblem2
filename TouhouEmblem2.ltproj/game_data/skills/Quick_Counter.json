@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Quick_Counter",
+        "name": "Quick Counter",
+        "desc": "<green>[On Defense]</green>\n<blue>[Combat Start]</blue> User can counter at 1 range.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            5,
+            1
+        ],
+        "components": [
+            [
+                "close_counter",
+                null
+            ],
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]

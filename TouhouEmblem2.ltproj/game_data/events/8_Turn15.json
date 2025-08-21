@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Turn15",
+        "trigger": "turn_change",
+        "level_nid": "8",
+        "condition": "game.turncount == 15",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_group;HurryUp;HurryUp;fade;push",
+            "move_cursor;139",
+            "flicker_cursor;139",
+            "move_cursor;140",
+            "flicker_cursor;140"
+        ],
+        "nid": "8 Turn15"
+    }
+]

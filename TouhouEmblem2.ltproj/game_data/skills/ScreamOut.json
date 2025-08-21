@@ -1,0 +1,34 @@
+[
+    {
+        "nid": "ScreamOut",
+        "name": "Scream Out!",
+        "desc": "Cleave 1, \n<blue>[On Hit]</blue> Inflicts Shock.",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "combat_art_indicator",
+                null
+            ],
+            [
+                "combat_art",
+                "ScreamOut_1"
+            ],
+            [
+                "build_charge_start_charged",
+                6
+            ],
+            [
+                "upkeep_charge_increase",
+                1
+            ],
+            [
+                "combat_charge_increase",
+                1
+            ]
+        ]
+    }
+]

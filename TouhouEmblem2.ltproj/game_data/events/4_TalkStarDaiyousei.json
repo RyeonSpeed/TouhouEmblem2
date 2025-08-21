@@ -1,0 +1,30 @@
+[
+    {
+        "name": "TalkStarDaiyousei",
+        "trigger": "on_talk",
+        "level_nid": "4",
+        "condition": "unit.nid == 'Star' and unit2.nid == 'Daiyousei'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Star;Right",
+            "add_portrait;Daiyousei;Left",
+            "speak;Star;Hello there.",
+            "speak;Daiyousei;It's you! Uh...",
+            "speak;Star;It's ok. I can't remember your name either.",
+            "remove_portrait;Star",
+            "speak;Daiyousei;Uh...yeah! What IS my name...?",
+            "remove_portrait;Daiyousei",
+            "change_team;Daiyousei;player",
+            "remove_talk;Rumia;Daiyousei",
+            "remove_talk;Wriggle;Daiyousei",
+            "remove_talk;Mystia;Daiyousei",
+            "remove_talk;Star;Daiyousei",
+            "remove_talk;Sunny;Daiyousei",
+            "remove_talk;Luna;Daiyousei",
+            "add_lore;Daiyousei"
+        ],
+        "nid": "4 TalkStarDaiyousei"
+    }
+]

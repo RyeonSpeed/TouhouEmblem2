@@ -1,0 +1,38 @@
+[
+    {
+        "nid": "Phoenix_Crash",
+        "name": "Phoenix Crash",
+        "desc": "<blue>[Combat Start]</blue> Splash 1. DMG x1.5.\n<blue>[After Combat]</blue> Set HP to Max HP/2. Gain \"Phoenix Aura\".",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "combat_art",
+                "Phoenix_Aura"
+            ],
+            [
+                "build_charge_start_charged",
+                9
+            ],
+            [
+                "combat_charge_increase",
+                1
+            ],
+            [
+                "combat_art_indicator",
+                null
+            ],
+            [
+                "allowed_weapons",
+                "item_system.weapon_type(unit, item) in ['Sword', 'Lance', 'Axe', 'Bow', 'Anima', 'Dark', 'Light', 'Martial']"
+            ],
+            [
+                "upkeep_charge_increase",
+                1
+            ]
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Outro",
+        "trigger": "level_end",
+        "level_nid": "11",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "if;game.turncount <= 15",
+            "give_bexp;500",
+            "speak;;You completed the map in 15 or less turns! You got the full reward!;;;hint",
+            "elif;game.turncount > 15",
+            "speak;;Lmao skill issue;;;hint",
+            "end",
+            "trigger_script;ENDING",
+            "game_var;chaptercount;11",
+            "set_next_chapter;Base",
+            ""
+        ],
+        "nid": "11 Outro"
+    }
+]

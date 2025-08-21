@@ -1,0 +1,19 @@
+[
+    {
+        "name": "SpecialOrders",
+        "trigger": null,
+        "level_nid": null,
+        "condition": "",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "if;not v('special_orders')",
+            "    finish",
+            "end",
+            "textbox;OrderDescription;\"{d:SpecialOrders.{v:SpecialOrdersChoice_choice_hover}.Description}\";bottom_right;90;5;;0.5;;;menu_bg_parchment;expression",
+            "choice;SpecialOrdersChoice;Special Orders;v('special_orders') or ['Reimu'];Alignment=top_left;EntryType=type_unit;EventNid=Global ConfirmSpecialOrder;expression;Dimensions=6,1;scroll_bar;backable"
+        ],
+        "nid": "Global SpecialOrders"
+    }
+]

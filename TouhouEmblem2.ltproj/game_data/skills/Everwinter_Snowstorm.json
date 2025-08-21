@@ -1,0 +1,42 @@
+[
+    {
+        "nid": "Everwinter_Snowstorm",
+        "name": "Everwinter Snowstorm",
+        "desc": "Enemies within 2 tiles: -2 MOV/-15 AVOID. ",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            2,
+            8
+        ],
+        "components": [
+            [
+                "aura",
+                "Frozen"
+            ],
+            [
+                "aura_range",
+                2
+            ],
+            [
+                "aura_target",
+                "enemy"
+            ],
+            [
+                "show_aura",
+                [
+                    0,
+                    255,
+                    255
+                ]
+            ],
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "aura_opacity",
+                0.8
+            ]
+        ]
+    }
+]

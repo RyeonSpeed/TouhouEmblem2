@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Silence_1",
+        "name": "Silence",
+        "desc": "Unit cannot use magic.",
+        "icon_nid": "NewIcon6",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "negative",
+                null
+            ],
+            [
+                "cannot_use_magic_items",
+                null
+            ],
+            [
+                "lost_on_end_chapter",
+                null
+            ]
+        ]
+    }
+]

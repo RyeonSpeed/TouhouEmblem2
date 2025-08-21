@@ -1,0 +1,27 @@
+[
+    {
+        "nid": "Overwhelm_Effect",
+        "name": "Overwhelm",
+        "desc": "<blue>[Combat Start]</blue> +5 DMG, -3 SPD. Dark only.",
+        "icon_nid": "skillicons_1",
+        "icon_index": [
+            7,
+            0
+        ],
+        "components": [
+            [
+                "damage",
+                4
+            ],
+            [
+                "stat_change",
+                [
+                    [
+                        "SPD",
+                        -3
+                    ]
+                ]
+            ]
+        ]
+    }
+]
