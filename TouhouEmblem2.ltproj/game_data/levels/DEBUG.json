@@ -128,36 +128,6 @@
                 "generic": false
             },
             {
-                "nid": "103",
-                "variant": null,
-                "level": 40,
-                "klass": "Sniper",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Iron_Sword",
-                        false
-                    ],
-                    [
-                        "Curry",
-                        false
-                    ]
-                ],
-                "starting_skills": [
-                    "Poisoned"
-                ],
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    15,
-                    19
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
                 "nid": "SigmaRaven",
                 "team": "player",
                 "ai": "None",
@@ -188,8 +158,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    16,
-                    16
+                    17,
+                    19
                 ],
                 "starting_traveler": null,
                 "generic": true
