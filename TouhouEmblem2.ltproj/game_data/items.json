@@ -9681,6 +9681,10 @@
             [
                 "fatigue",
                 1
+            ],
+            [
+                "map_hit_sfx",
+                "DebuffRecover"
             ]
         ]
     },
@@ -10331,7 +10335,7 @@
     {
         "nid": "Heihaku",
         "name": "Heihaku",
-        "desc": "A ritual gohei perfect for warding off youkai, annoying spirits, etc.",
+        "desc": "A ritual gohei perfect for warding off youkai, annoying spirits, etc. Anti-Monstrous.",
         "icon_nid": "LightMagic",
         "icon_index": [
             0,
@@ -10352,7 +10356,7 @@
             ],
             [
                 "damage",
-                8
+                6
             ],
             [
                 "hit",
@@ -10412,6 +10416,18 @@
             [
                 "fatigue",
                 1
+            ],
+            [
+                "effective_damage",
+                {
+                    "effective_tags": [
+                        "Monster"
+                    ],
+                    "effective_multiplier": 3,
+                    "effective_bonus_damage": 0,
+                    "show_effectiveness_flash": true,
+                    "weapon_effectiveness_multiplied": true
+                }
             ]
         ]
     },
@@ -10439,7 +10455,7 @@
             ],
             [
                 "damage",
-                10
+                8
             ],
             [
                 "hit",
@@ -19955,7 +19971,7 @@
                 99
             ],
             [
-                "target_tile",
+                "target_unit",
                 null
             ]
         ]

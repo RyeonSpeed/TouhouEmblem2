@@ -1009,7 +1009,7 @@
         "name": "Wind Priestess",
         "desc": "The shrine maiden of Moriya Shrine who commands wind magic.\nTags: Lord, Flying, Magic, Beast",
         "tier": 2,
-        "movement_group": "Heavy Cav",
+        "movement_group": "Fliers",
         "promotes_from": "Miko",
         "turns_into": [],
         "tags": [
@@ -1135,6 +1135,11 @@
                 false,
                 0,
                 251
+            ],
+            "Knife": [
+                false,
+                0,
+                null
             ]
         },
         "icon_nid": "Generic_Portrait_Citizen",
@@ -1271,6 +1276,11 @@
                 false,
                 0,
                 251
+            ],
+            "Knife": [
+                false,
+                0,
+                null
             ],
             "Monster": [
                 false,

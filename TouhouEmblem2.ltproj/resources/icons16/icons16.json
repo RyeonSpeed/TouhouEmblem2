@@ -764,7 +764,12 @@
     },
     {
         "nid": "skillicons102724(2)",
-        "subicon_dict": {}
+        "subicon_dict": {
+            "skillicons102724(2) 1, 1": [
+                1,
+                1
+            ]
+        }
     },
     {
         "nid": "skillicons102724(1)",

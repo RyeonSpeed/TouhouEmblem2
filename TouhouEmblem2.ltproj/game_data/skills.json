@@ -19,7 +19,8 @@
                     "lost_on_self": true,
                     "lost_on_ally": true,
                     "lost_on_enemy": true,
-                    "lost_on_splash": true
+                    "lost_on_splash": true,
+                    "only_if_initiated": false
                 }
             ]
         ]
@@ -47,7 +48,7 @@
     {
         "nid": "Mercy_Art",
         "name": "Mercy",
-        "desc": "Prevents unit from landing critical hits or doubling.",
+        "desc": "<green>[Combat Art]</green>\n<blue>[Combat Start]</blue> Cannot Double/Crit. ",
         "icon_nid": "skillicons4",
         "icon_index": [
             0,
@@ -71,7 +72,7 @@
     {
         "nid": "Homing_Shot",
         "name": "Homing Shot",
-        "desc": "1.5x DMG, +100 HIT.",
+        "desc": "<blue>[Combat Start]</blue> 1.5x DMG, +100 HIT.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             1,
@@ -131,7 +132,7 @@
     {
         "nid": "Star_Laser",
         "name": "Star Laser",
-        "desc": "Strikethrough 3. No Double.",
+        "desc": "<blue>[Combat Start]</blue> Strikethrough 3. Cannot Double.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             2,
@@ -203,7 +204,7 @@
     {
         "nid": "Bloodsucker",
         "name": "Bloodsucker",
-        "desc": "Drain 50% DMG. +100% Crit if enemy has Bleeding.",
+        "desc": "<blue>[On Hit]</blue> Drain 50% DMG. +100% Crit if enemy has Bleeding.",
         "icon_nid": "skillicons3",
         "icon_index": [
             0,
@@ -294,7 +295,7 @@
     {
         "nid": "Opening_Wound",
         "name": "Opening Wound",
-        "desc": "If enemy >= 80% HP, +20% DMG and inflict 1 stack of Bleeding after every hit.",
+        "desc": "<blue>[Combat Start]</blue> If enemy >= 80% HP, +20% DMG and inflict 1 stack of Bleeding after every hit.",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,
@@ -382,7 +383,7 @@
     {
         "nid": "Hard_Worker",
         "name": "Hard Worker",
-        "desc": "Gives +3-5% to all growths per kill. Growth boosts reset on level up.",
+        "desc": "<blue>[On Kill]</blue> +3-5% to all growths. Growth boosts reset on level up.",
         "icon_nid": "skillicons3",
         "icon_index": [
             0,
@@ -520,7 +521,7 @@
     {
         "nid": "Barrier_Warp",
         "name": "Barrier Warp",
-        "desc": "Reimu swaps places with an enemy up to 5 tiles away. Does not work on enemies that do not move. User may attack but not move after use.",
+        "desc": "Swaps places with a mobile enemy up to 5 tiles away. \nUnit may attack but not move after use.",
         "icon_nid": "NewIcon2",
         "icon_index": [
             0,
@@ -548,7 +549,7 @@
     {
         "nid": "Shrine_Power",
         "name": "Shrine Power",
-        "desc": "User can \"Rally\", giving adjacent units +2 DEF/+4 RES for two turns.\nUsable 3 times a map.",
+        "desc": "User can \"Rally\" adjacent allies, usable 3 times each map.\n\"Rally\" grants +2 DEF/+4 RES for two turns.",
         "icon_nid": "NewIcon3",
         "icon_index": [
             0,
@@ -629,7 +630,7 @@
     {
         "nid": "Wolf_Fang_Proc",
         "name": "Wolf Fang",
-        "desc": "Applies Bleeding. 7 HP Recoil.",
+        "desc": "<blue>[After Combat]</blue> 7 HP Recoil. Inflicts Bleeding",
         "icon_nid": "skillicons3",
         "icon_index": [
             0,
@@ -653,7 +654,7 @@
     {
         "nid": "Wolf_Fang",
         "name": "Wolf Fang",
-        "desc": "Applies Bleeding. 7 HP Recoil.",
+        "desc": "<blue>[After Combat]</blue> 7 HP Recoil. Inflicts Bleeding",
         "icon_nid": "skillicons3",
         "icon_index": [
             0,
@@ -677,7 +678,7 @@
     {
         "nid": "Wolf_Fang_1",
         "name": "Wolf Fang",
-        "desc": "Applies Bleeding. 7 HP Recoil.",
+        "desc": "<blue>[After Combat]</blue> 7 HP Recoil. Inflicts Bleeding",
         "icon_nid": "skillicons3",
         "icon_index": [
             0,
@@ -697,7 +698,7 @@
     {
         "nid": "Canine_Dash",
         "name": "Canine Dash",
-        "desc": "Range 2-3. Pivots 1 tile over selected enemy. Damages all enemies in line. 5 HP Recoil. Inflicts Bleeding. Cannot Double.",
+        "desc": "<blue>[Combat Start]</blue> Line 2-3. Cannot Double.\n<blue>[After Combat]</blue> 5 HP Recoil. Inflicts Bleeding. Pivot. ",
         "icon_nid": "skillicons3",
         "icon_index": [
             0,
@@ -733,7 +734,7 @@
     {
         "nid": "Canine_Dash_1",
         "name": "Canine Dash",
-        "desc": "Range 2-3. Pivots 1 tile over selected enemy. Damages all enemies in line. 5 HP Recoil.",
+        "desc": "<blue>[Combat Start]</blue> Line 2-3. Cannot Double.\n<blue>[After Combat]</blue> 5 HP Recoil. Inflicts Bleeding. Pivot. ",
         "icon_nid": "skillicons3",
         "icon_index": [
             0,
@@ -757,7 +758,7 @@
     {
         "nid": "Swift_Hunter",
         "name": "Swift Hunter",
-        "desc": "When fighting an enemy with Bleeding: +3 DMG, +50 AVOID. ",
+        "desc": "<blue>[Combat Start]</blue> If enemy is Bleeding: +3 DMG, +50 AVOID. ",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,
@@ -785,7 +786,7 @@
     {
         "nid": "Honshu_Slashing",
         "name": "Honshu Slashing",
-        "desc": "Inflicts Bleeding on enemies when defending.",
+        "desc": "<green>[On Defense]</green>\n<blue>[After Combat]</blue> Inflicts Bleeding.",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,
@@ -809,7 +810,7 @@
     {
         "nid": "Stoneskinned",
         "name": "Stoneskinned",
-        "desc": "When enemy weapon can only strike from 1 Range: halve damage taken. Otherwise, take double damage taken. ",
+        "desc": "<blue>[Combat Start]</blue> When enemy weapon Range = 1: DMG taken -50%. Otherwise, DMG taken +100%. ",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,
@@ -832,7 +833,7 @@
     {
         "nid": "Stoneskinned1",
         "name": "Stoneskinned1",
-        "desc": "When enemy weapon can only strike from 1 Range: halve damage. Otherwise, take double damage. ",
+        "desc": "<blue>[Combat Start]</blue> When enemy weapon Range = 1: DMG taken -50%. Otherwise, DMG taken +100%. ",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,
@@ -860,7 +861,7 @@
     {
         "nid": "Stoneskinned2",
         "name": "Stoneskinned2",
-        "desc": "When enemy weapon can only strike from 1 Range: halve damage. Otherwise, take double damage. ",
+        "desc": "<blue>[Combat Start]</blue> When enemy weapon Range = 1: DMG taken -50%. Otherwise, DMG taken +100%. ",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,
@@ -888,7 +889,7 @@
     {
         "nid": "Thick_Fur",
         "name": "Thick Fur",
-        "desc": "If enemy is using Anima: halve damage taken. If enemy is using Light: double damage taken.",
+        "desc": "<blue>[Combat Start]</blue> When facing Anima: DMG taken -50%. When facing Light: DMG taken +50%.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             0,
@@ -912,7 +913,7 @@
     {
         "nid": "Thick_Fur_Part2",
         "name": "Thick Fur",
-        "desc": "If enemy is using Anima: halve damage taken. If enemy is using Light: double damage taken.",
+        "desc": "<blue>[Combat Start]</blue> When facing Anima: DMG taken -50%. When facing Light: DMG taken +50%.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             0,
@@ -936,7 +937,7 @@
     {
         "nid": "Magical_Might",
         "name": "Magical Might",
-        "desc": "Adds Mag to damage.",
+        "desc": "<blue>[Combat Start]</blue> Adds Mag to DMG dealt.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             1,
@@ -956,7 +957,7 @@
     {
         "nid": "Flood_of_Frost",
         "name": "Flood of Frost",
-        "desc": "Splash 1. Applies Frozen to all enemies hit for 2 turns. Applies +10 RES to user for 2 turns. Cannot Double.",
+        "desc": "<blue>[Combat Start]</blue> Splash 1. Cannot Double.\n<blue>[After Combat]</blue> Inflicts Frozen for 2 turns. Gain +10 RES for 2 turns.",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,
@@ -992,7 +993,7 @@
     {
         "nid": "Flood_of_Frost_Art",
         "name": "Flood of Frost",
-        "desc": "Splash 1. Applies Frozen to all enemies hit for 2 turns. Applies +10 RES to user for 2 turns. Cannot Double.",
+        "desc": "<blue>[Combat Start]</blue> Splash 1. Cannot Double.\n<blue>[After Combat]</blue> Inflicts Frozen for 2 turns. Gain +10 RES for 2 turns.",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,
@@ -1142,7 +1143,7 @@
     {
         "nid": "Apparitions_That_Stalk_The_Night",
         "name": "Apparitions That Stalk The Night",
-        "desc": "Covers the battlefield in a very thick fog. Applies \"Night Hunter\" skill to user. Usable once per map.",
+        "desc": "<blue>[On Use]</blue> Shrouds map in dense fog. Gain \"Night Hunter\". \nUsable once per map.",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,
@@ -1166,7 +1167,7 @@
     {
         "nid": "Mask_Change",
         "name": "Mask Change",
-        "desc": "At the start of each turn, user will switch between a sequence of masks, each giving a unique effect to her.",
+        "desc": "<blue>[Turn Start]</blue> Switch between a sequence of masks, each giving a unique effect to the user.",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,
@@ -1182,7 +1183,7 @@
     {
         "nid": "Mask_Calm",
         "name": "1000 Masks: Calm",
-        "desc": "+2 MOV/+4 STR/+4 SPD. Mask will shift at the start of next turn.",
+        "desc": "+2 MOV/+4 STR/+4 SPD. \nMasks shift at Turn Start.",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,
@@ -1215,7 +1216,7 @@
     {
         "nid": "Mask_Happy",
         "name": "1000 Masks: Happiness",
-        "desc": "+40% CRIT, +40% HIT, -20% AVOID, -20% CRIT AVOID. Mask will shift at the start of next turn.",
+        "desc": "+40% CRIT, +40% HIT, -20% AVOID, -20% CRIT AVOID.\nMasks shift at Turn Start.",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,
@@ -1247,7 +1248,7 @@
     {
         "nid": "Mask_Anger",
         "name": "1000 Masks: Anger",
-        "desc": "+3 DMG, -3 DMG taken, -15 AVOID, Cannot Double. Takes half damage on follow up attacks. Mask will shift at the start of next turn.",
+        "desc": "+3 DMG, -3 DMG taken, -15 AVOID, Cannot Double. -50% DMG taken from follow-up attacks. \nMasks shift at Turn Start.",
         "icon_nid": "skillicons4",
         "icon_index": [
             0,
@@ -1283,7 +1284,7 @@
     {
         "nid": "Mask_Sad",
         "name": "1000 Masks: Sadness",
-        "desc": "Unit gains +8 DEF/+8 RES but -4 STR/-2 MAG/-2 SPD. Mask will shift at the start of next turn.",
+        "desc": "+8 DEF/+8 RES. -4 STR/-2 MAG/-2 SPD.\nMasks shift at Turn Start.",
         "icon_nid": "skillicons4",
         "icon_index": [
             0,
@@ -1324,7 +1325,7 @@
     {
         "nid": "Mask_Hope",
         "name": "1000 Masks: Hope",
-        "desc": "All weapons are brave, but cannot double. Mask will shift at the start of next turn.",
+        "desc": "All attacks are Brave. Cannot Double.\nMasks shift at Turn Start.",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,
@@ -1348,7 +1349,7 @@
     {
         "nid": "Mask_Hope2",
         "name": "1000 Masks: Hope?",
-        "desc": "Restores 50% of damage dealt. Mask will shift at the start of next turn.",
+        "desc": "Restores 50% of damage dealt.\nMasks shift at Turn Start.",
         "icon_nid": "skillicons4",
         "icon_index": [
             0,
@@ -1368,7 +1369,7 @@
     {
         "nid": "Shattering_Moon",
         "name": "Shattering Moon",
-        "desc": "Adds WT to damage.",
+        "desc": "<blue>[Combat Start]</blue> Adds WT to DMG.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             3,
@@ -1404,7 +1405,7 @@
     {
         "nid": "Shattering_Moon_Effect",
         "name": "Shattering Moon",
-        "desc": "Adds WT to damage.",
+        "desc": "<blue>[Combat Start]</blue> Adds WT to DMG.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             3,
@@ -1424,7 +1425,7 @@
     {
         "nid": "Infest",
         "name": "Infest",
-        "desc": "After combat: Applies \"Infested\" to enemy for 2 turns. Can move after attacking.",
+        "desc": "<blue>[After Combat]</blue> Inflicts \"Infested\" for 2 turns. Canto.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             1,
@@ -1484,7 +1485,7 @@
     {
         "nid": "Infest_1",
         "name": "Infesting Strike",
-        "desc": "After combat: Applies \"Infested\" to enemy for 2 turns.",
+        "desc": "<blue>[After Combat]</blue> Inflicts \"Infested\" for 2 turns.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             1,
@@ -1504,7 +1505,7 @@
     {
         "nid": "Illuminate",
         "name": "Illuminate",
-        "desc": "Units within 2 tiles: If equipped with Dark: halve damage dealt.",
+        "desc": "Units within 2 tiles: If equipping Dark: halve DMG dealt.",
         "icon_nid": "skillicons102724(1)",
         "icon_index": [
             1,
@@ -1544,7 +1545,7 @@
     {
         "nid": "Illuminate_Effect",
         "name": "Illuminate",
-        "desc": "Units within 2 tiles: If equipped with Dark: halve damage dealt.",
+        "desc": "Units within 2 tiles: If equipping Dark: halve damage dealt.",
         "icon_nid": null,
         "icon_index": [
             0,
@@ -1588,7 +1589,7 @@
     {
         "nid": "Immortal_Red_Soul",
         "name": "Immortal Red Soul",
-        "desc": "Range 1. 1/8 Max HP Recoil. +1 Dmg/4 HP lost. Heal HP = Mag each turn. When defeated, Mokou will revive the next turn, +20 Fatigue.",
+        "desc": "Range 1. +1 DMG/4 HP lost\n<blue>[After Combat]</blue> 1/8 Max HP Recoil.\n<green>[Turn Start]</green> Heal HP = Mag. If dead, revive and +20 Fatigue.",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,
@@ -1624,7 +1625,7 @@
     {
         "nid": "Immortal_Red_Soul_1",
         "name": "Immortal Red Soul",
-        "desc": "Range 1. 1/8 Max HP Recoil. +1 Dmg/4 HP lost. Heal HP = Mag each turn. When defeated, Mokou will revive the next turn, +20 Fatigue.",
+        "desc": "Range 1. +1 DMG/4 HP lost\n<blue>[After Combat]</blue> 1/8 Max HP Recoil.\n<green>[Turn Start]</green> Heal HP = Mag. If dead, revive and +20 Fatigue.",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,
@@ -1644,7 +1645,7 @@
     {
         "nid": "Phoenix_Crash",
         "name": "Phoenix Crash",
-        "desc": "Splash 1. After attack: sets user's HP to 50% of their Max HP, then applies \"Phoenix Aura\" to user. Multiplies DMG by 1.5x.",
+        "desc": "<blue>[Combat Start]</blue> Splash 1. DMG x1.5.\n<blue>[After Combat]</blue> Set HP to Max HP/2. Gain \"Phoenix Aura\".",
         "icon_nid": "skillicons_1",
         "icon_index": [
             0,
@@ -1752,11 +1753,11 @@
     {
         "nid": "The_Eternity",
         "name": "The Eternity",
-        "desc": "Halves damage taken. Immune to negative status.",
+        "desc": "Halves DMG taken. Immune to negative status.",
         "icon_nid": "skillicons102724(2)",
         "icon_index": [
             1,
-            0
+            1
         ],
         "components": [
             [
@@ -1808,11 +1809,11 @@
     {
         "nid": "Nameless_City",
         "name": "Nameless City",
-        "desc": "For 1 turn: Taunt, Immunity. Recharge 3 turns.",
-        "icon_nid": "skillicons_1",
+        "desc": "For 1 turn: Taunt, Immunity. 3 turn cooldown.",
+        "icon_nid": "skillicons102724",
         "icon_index": [
-            7,
-            0
+            1,
+            1
         ],
         "components": [
             [
@@ -1836,7 +1837,7 @@
     {
         "nid": "Master_Pharmacist",
         "name": "Master Pharmacist",
-        "desc": "If equipped with Staff: User does not expend durability.",
+        "desc": "If equipping Staff: No durability cost.",
         "icon_nid": "skillicons102724",
         "icon_index": [
             0,
@@ -1924,7 +1925,7 @@
     {
         "nid": "Light_Refract",
         "name": "Light Refract",
-        "desc": "Unit may use \"Vanish\", allowing them to enter the \"Vanished\" state. While \"Vanished\", unit cannot be targeted by enemies, but will also be unable to attack or trade. Lasts for 3 turns.",
+        "desc": "<blue>[On Use]</blue> Gain \"Vanished\". While \"Vanished\", cannot be targeted by enemies, cannot attack or trade. 3 turn duration.",
         "icon_nid": "NewIcon3",
         "icon_index": [
             0,
@@ -1952,7 +1953,7 @@
     {
         "nid": "Vanished",
         "name": "Vanished",
-        "desc": "Unable to be targeted by enemies, but also cannot attack or trade. Lasts for 3 turns.",
+        "desc": "Unable to be targeted by enemies, attack or trade. 3 turn duration.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             2,
@@ -2143,7 +2144,7 @@
     {
         "nid": "Haphazard_Smash",
         "name": "Haphazard Smash",
-        "desc": "+1 DMG for every point of WT above user's CON.",
+        "desc": "<blue>[Combat Start]</blue> Per weapon WT above Con, +1 DMG",
         "icon_nid": "skillicons3",
         "icon_index": [
             0,
@@ -2163,7 +2164,7 @@
     {
         "nid": "Portal_Combat",
         "name": "Portal Combat",
-        "desc": "Can counter at any range. When defending: Cannot double.",
+        "desc": "<green>[On Defense]</green>\n<blue>[Combat Start]</blue> Counters regardless of range. Cannot Double.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             5,
@@ -2191,7 +2192,7 @@
     {
         "nid": "Warp_Kingdom",
         "name": "Warp Kingdom",
-        "desc": "Up to 3 times per map, can teleport an adjacent ally up to 3 tiles away.",
+        "desc": "<blue>[On Use]</blue> Warps adjacent ally (max 3 tiles). Max 3 uses per map. ",
         "icon_nid": "skillicons_1",
         "icon_index": [
             5,
@@ -2215,7 +2216,7 @@
     {
         "nid": "Quick_Counter",
         "name": "Quick Counter",
-        "desc": "User can counter at 1 range.",
+        "desc": "<green>[On Defense]</green>\n<blue>[Combat Start]</blue> User can counter at 1 range.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             5,
@@ -2235,7 +2236,7 @@
     {
         "nid": "Mogu_Mogu",
         "name": "Mogu Mogu",
-        "desc": "User can use an item after attacking.",
+        "desc": "<blue>[After Combat]</blue> May use items.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             4,
@@ -2255,7 +2256,7 @@
     {
         "nid": "Perfect_Freeze",
         "name": "Perfect Freeze",
-        "desc": "+30 HIT. Applies Frozen on target for 2 turns. ",
+        "desc": "<blue>[Combat Start]</blue> +30 HIT. Inflicts Frozen for 2 turns. ",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,
@@ -2279,7 +2280,7 @@
     {
         "nid": "Perfect_Freeze_Art",
         "name": "Perfect Freeze",
-        "desc": "+30 HIT. Applies -2 AS, -99 MOV on target for 2 turns. ",
+        "desc": "<blue>[Combat Start]</blue> +30 HIT. Inflicts -2 AS, -99 MOV for 2 turns. ",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,
@@ -2355,7 +2356,7 @@
     {
         "nid": "Big_Power_Shot",
         "name": "Big Power Shot!",
-        "desc": "+30 Crit, 1.5x DMG. Cannot Double.",
+        "desc": "<blue>[Combat Start]</blue> +30 Crit, 1.5x DMG. Cannot Double.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             8,
@@ -2391,7 +2392,7 @@
     {
         "nid": "Big_Power_Shot_1",
         "name": "Big Power Shot!",
-        "desc": "+30 Crit, 1.5x DMG. Cannot Double.",
+        "desc": "<blue>[Combat Start]</blue> +30 Crit, 1.5x DMG. Cannot Double.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             8,
@@ -2451,7 +2452,7 @@
     {
         "nid": "Sharpshooter",
         "name": "Sharpshooter",
-        "desc": "Critical hits now double damage before factoring in damage reduction, plus 10 extra DMG.",
+        "desc": "Critical hits now double damage before factoring in damage reduction. CRIT DMG +10.",
         "icon_nid": "skillicons102524(1)",
         "icon_index": [
             0,
@@ -2487,7 +2488,7 @@
     {
         "nid": "Lunatic_Red_Eyes",
         "name": "Lunatic Red Eyes",
-        "desc": "1-5 Range. Adds fatigue equal to 40% of user's max fatigue after. Can target any unit regardless of allegiance. Apply \"Berserk\" to target for 3 turns and gives target -30 HIT/AVOID, and +50 CRIT. ",
+        "desc": "1-5 Range. Indiscriminate.\n<blue>[After Combat]</blue> Gain 40% Max Fatigue. Inflict \"Berserk\", -30 HIT/AVOID, +50 CRIT for 3 turns. ",
         "icon_nid": "skillicons_1",
         "icon_index": [
             3,
@@ -2507,7 +2508,7 @@
     {
         "nid": "Lunatic_Red_Eyes_1",
         "name": "Lunatic Red Eyes",
-        "desc": "1-5 Range. Adds fatigue equal to 40% of user's max fatigue after. Can target any unit regardless of allegiance. Apply \"Berserk\" to target for 3 turns and gives target -30 HIT/AVOID, and +50 CRIT. ",
+        "desc": "1-5 Range. Indiscriminate.\n<blue>[After Combat]</blue> Gain 40% Max Fatigue. Inflict \"Berserk\", -30 HIT/AVOID, +50 CRIT for 3 turns. ",
         "icon_nid": "skillicons_1",
         "icon_index": [
             3,
@@ -2539,7 +2540,7 @@
     {
         "nid": "Lunatic_Haze_on_Bloody_Battlefield",
         "name": "Lunatic Haze on Bloody Battlefield",
-        "desc": "+DMG/AS/DMG taken equal to (Fatigue/Max Fatigue * 100%)/15%. If unit goes over fatigue cap, apply \"Berserk\" to user.",
+        "desc": "+DMG/AS/DMG taken equal to (Fatigue/Max Fatigue * 100%)/15%. If Fatigue exceeds cap, gain \"Berserk\".",
         "icon_nid": "skillicons102724",
         "icon_index": [
             0,
@@ -2659,7 +2660,7 @@
     {
         "nid": "Super_Luck",
         "name": "Super Luck",
-        "desc": "Per 1 LCK, +1 CRIT. Cannot be crit.",
+        "desc": "Per 1 LCK, +1 CRIT.\nCannot receive criticals.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             4,
@@ -2703,7 +2704,7 @@
     {
         "nid": "Optimism",
         "name": "Optimism",
-        "desc": "+5 HP from all sources of healing. At the beginning of each turn: User restores 20% of health. ",
+        "desc": "+5 HP healed. \n<blue>[Turn Start]</blue>User restores 20% of health. ",
         "icon_nid": "skillicons102724(1)",
         "icon_index": [
             0,
@@ -3098,7 +3099,7 @@
     {
         "nid": "Temporal_Shift",
         "name": "Temporal Shift",
-        "desc": "Applies \"Luna Dial\" onto user until end of turn. All units within a 3 tile radius of user receive -4 SPD/-5 MOV. Refreshes unit on use.",
+        "desc": "<blue>[On Use]</blue> Refreshes self. Gain \"Luna Dial\" until Turn End. (Units within a 3 tile radius of user receive -4 SPD/-5 MOV.)",
         "icon_nid": "skillicons102524",
         "icon_index": [
             0,
@@ -3130,7 +3131,7 @@
     {
         "nid": "Jack_The_Ripper",
         "name": "Jack The Ripper",
-        "desc": "If user kills target while equipped with buff \"Luna Dial\", may also act again after. May only activate the effect of \"Jack The Ripper\" once per turn.",
+        "desc": "<blue>[On Kill]</blue> If in \"Luna Dial\", refreshes self (once per turn).",
         "icon_nid": "skillicons102524(1)",
         "icon_index": [
             0,
@@ -3223,7 +3224,7 @@
     {
         "nid": "String_Commander",
         "name": "String Commander",
-        "desc": "Range 1-2, Applies \"Puppeteer's Mark\" to target for one turn (CRIT AVOID -15).",
+        "desc": "Range 1-2\n<blue>[After Combat]</blue> Applies \"Puppeteer's Mark\" to target for one turn (CRIT AVOID -15).",
         "icon_nid": "skillicons102524(1)",
         "icon_index": [
             1,
@@ -3243,7 +3244,7 @@
     {
         "nid": "Puppet_Assault",
         "name": "Puppet Assault",
-        "desc": "At the start of the level, Alice will summon Shanghai and Hourai to assist her in battle. They will not respawn until next chapter if killed.",
+        "desc": "<blue>[Chapter Start]</blue> Alice will summon Shanghai and Hourai to assist her in battle.",
         "icon_nid": "skillicons102724(2)",
         "icon_index": [
             1,
@@ -3259,7 +3260,7 @@
     {
         "nid": "Doll_Coordination",
         "name": "Doll Coordination",
-        "desc": "When within 3 tiles of Alice: +3 DEF/RES, 20 AVOID. When enemy initiates: +2 AS.",
+        "desc": "When within 3 tiles of Alice: +3 DEF/RES, 20 AVOID. \nWhen enemy initiates: +2 AS.",
         "icon_nid": "skillicons102724(2)",
         "icon_index": [
             2,
@@ -3300,7 +3301,7 @@
     {
         "nid": "Doll_Coordination_1",
         "name": "Doll Coordination",
-        "desc": "When within 3 tiles of Alice: +3 DEF/RES, 20 AVOID. When enemy initiates: +2 AS.",
+        "desc": "When within 3 tiles of Alice: +3 DEF/RES, 20 AVOID. \nWhen enemy initiates: +2 AS.",
         "icon_nid": "skillicons102724(2)",
         "icon_index": [
             1,
@@ -3361,7 +3362,7 @@
     {
         "nid": "Dewdrop_Barrier",
         "name": "Dewdrop Barrier",
-        "desc": "When under 50% HP: halve damage taken; Drain 50% damage.",
+        "desc": "When under 50% HP: -50% DMG taken; Drain 50% DMG.",
         "icon_nid": "skillicons102524(1)",
         "icon_index": [
             0,
@@ -3397,7 +3398,7 @@
     {
         "nid": "Lethal_Life_Flow",
         "name": "Lethal Life Flow",
-        "desc": "Whenever user is hit: gain one charge. Allows user to kill a single non-boss enemy.",
+        "desc": "<blue>[When Hit]</blue> Gain one charge. \n<blue>[On Use]</blue> Kill a non-boss enemy.",
         "icon_nid": "skillicons102524(1)",
         "icon_index": [
             1,
@@ -3445,7 +3446,7 @@
     {
         "nid": "Lethal_Life_Flow1",
         "name": "Lethal Life Flow",
-        "desc": "Allows user to kill a single non-boss enemy.",
+        "desc": "<blue>[On Use]</blue> Kill a non-boss enemy.",
         "icon_nid": "skillicons102524(1)",
         "icon_index": [
             1,
@@ -3489,7 +3490,7 @@
     {
         "nid": "Capricious_Cheerleader",
         "name": "Capricious Cheerleader",
-        "desc": "If user < 50% HP: Cannot use this skill. User can \"Rally\", giving adjacent units \n+2 STR/MAG/SKL/SPD/DEF/RES for one turn. ",
+        "desc": " <blue>[On Use]</blue> When >50% HP, \"Rally\" adjacent units, \ngiving +2 STR/MAG/SKL/SPD/DEF/RES for one turn. ",
         "icon_nid": "skillicons102724(2)",
         "icon_index": [
             0,
@@ -3558,7 +3559,7 @@
     {
         "nid": "Flighty_Helper",
         "name": "Flighty Helper",
-        "desc": "When unit >50% HP: Unit will ignore rescue penalties and can move after attacking.",
+        "desc": "When >50% HP: Ignore rescue penalties. Canto+.",
         "icon_nid": "skillicons102724(2)",
         "icon_index": [
             0,
@@ -3586,7 +3587,7 @@
     {
         "nid": "Bumbling_Dodge",
         "name": "Bumbling Dodge",
-        "desc": "When unit = 100% HP: +20 AVOID.",
+        "desc": "<blue>[Combat Start]</blue> At full HP, +20 AVOID.",
         "icon_nid": "skillicons102724",
         "icon_index": [
             2,
@@ -3610,7 +3611,7 @@
     {
         "nid": "Bloodlust",
         "name": "Bloodlust",
-        "desc": "If this unit kills an enemy with Bleeding, can act again. ",
+        "desc": "<blue>[On Kill]</blue> If target was Bleeding, refreshes self.",
         "icon_nid": "skillicons102724(1)",
         "icon_index": [
             1,
@@ -3650,7 +3651,7 @@
     {
         "nid": "ACT_the_FOOL",
         "name": "Act the FOOL HAHAHA",
-        "desc": "If user >= 50% HP, Units within 2 tiles: Apply \"Optimism\".",
+        "desc": "If >=50% HP, Units within 2 tiles: Gain \"Optimism\".",
         "icon_nid": "ACTTHEFOOLHAHAHAHA",
         "icon_index": [
             0,
@@ -3796,7 +3797,7 @@
     {
         "nid": "Great_Funeral_Concert",
         "name": "Great Funeral Concert",
-        "desc": "Usable once per map. Only able to be used when all 3 Prismriver Sisters are within 2 tiles of each other: Blast 3. Doubles damage. Only targets enemies.",
+        "desc": "Blast 3. One use per map. Only usable when all 3 Prismriver Sisters are within 2 tiles of each other.\n<blue>[Combat Start]</blue> 2x DMG.",
         "icon_nid": "NewIcon2",
         "icon_index": [
             0,
@@ -3828,7 +3829,7 @@
     {
         "nid": "Great_Funeral_Concert_1",
         "name": "Great Funeral Concert",
-        "desc": "Usable once per map. Only able to be used when all 3 Prismriver Sisters are within 2 tiles of each other: Blast 3. Only targets enemies.",
+        "desc": "Blast 3. One use per map. Only usable when all 3 Prismriver Sisters are within 2 tiles of each other.\n<blue>[Combat Start]</blue> 2x DMG.",
         "icon_nid": null,
         "icon_index": [
             0,
@@ -3844,7 +3845,7 @@
     {
         "nid": "Spear_The_Gungnir",
         "name": "Spear The Gungnir",
-        "desc": "Cannot double or miss. 1.5x DMG. Strikethrough 5. Applies \"Bleeding\" before hit. Uses up all of Gungnir's remaining durability. Enemies adjacent to target: Afterstrike = 50% user's STR. ",
+        "desc": "Strikethrough 5. Uses up all of Gungnir's remaining durability.\n<blue>[Combat Start]</blue> Cannot Double. Surehit. 1.5x DMG. Inflicts \"Bleeding\".\n<blue>[After Combat]</blue> Enemies adjacent to target: Take DMG = user's STR/2",
         "icon_nid": "skillicons102724",
         "icon_index": [
             0,
@@ -3868,7 +3869,7 @@
     {
         "nid": "Spear_The_Gungnir_1",
         "name": "Spear The Gungnir",
-        "desc": "Remilia throws Gungnir up to 5 spaces away, dealing 1.5x damage. Applies bleeding before the enemy is hit. Uses up all of Gungnir's remaining durability. Deals post combat splash damage to adjacent tiles equal to 0.5 of Remilia's STR. Cannot miss.",
+        "desc": "Remilia throws Gungnir up to 5 spaces away, dealing 1.5x damage. Applies bleeding before the enemy is hit. Uses up all of Gungnir's remaining durability. Deals post combat splash damage to adjacent tiles equal to Remilia's STR/2. Surehit.",
         "icon_nid": "skillicons102724",
         "icon_index": [
             0,
@@ -3932,7 +3933,7 @@
     {
         "nid": "BlizzardAura",
         "name": "Blizzard Aura",
-        "desc": "-15 Avoid/Crit Avoid to all units on the map.",
+        "desc": "All units: -15 AVOID/CRIT AVOID.",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,
@@ -3956,7 +3957,7 @@
     {
         "nid": "NightjarAura",
         "name": "Nightjar Aura",
-        "desc": "All enemies -2 Def.",
+        "desc": "All enemies: -2 DEF.",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,
@@ -3984,7 +3985,7 @@
     {
         "nid": "NightjarAura_1",
         "name": "NightjarAura",
-        "desc": "Harder to spot attackers in the fog. -2 Def.",
+        "desc": "Harder to spot attackers in the fog. -2 DEF.",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,
@@ -4025,7 +4026,7 @@
     {
         "nid": "Dream_Slicer",
         "name": "Dream Slicer",
-        "desc": "Splash 1. Inflicts \"Bleeding\" on all targets after battle.",
+        "desc": "Splash 1. \n<blue>[After Combat]</blue> Inflicts \"Bleeding\".",
         "icon_nid": "NewIcon4",
         "icon_index": [
             0,
@@ -4142,7 +4143,7 @@
     {
         "nid": "Blade_Dance",
         "name": "Blade Dance",
-        "desc": "When attacking and HP >= 50%: +30 CRIT, +30 AVOID.",
+        "desc": "<blue>[On Initiation]</blue> When HP >= 50%: +30 CRIT, +30 AVOID.",
         "icon_nid": "NewIcon5",
         "icon_index": [
             0,
@@ -4170,7 +4171,7 @@
     {
         "nid": "Saigyou_Wind_2",
         "name": "Slash of Saigyou Spring Wind",
-        "desc": "When at <=33% HP, Youmu unleashes a series of 7 slashes onto an opponent at half damage. \n",
+        "desc": "<blue>[Combat Start]</blue> When HP <=33%, Youmu unleashes a series of 7 slashes onto an opponent at half damage. \n",
         "icon_nid": "NewIcon1",
         "icon_index": [
             0,
@@ -4250,7 +4251,7 @@
     {
         "nid": "ScreamOut",
         "name": "Scream Out!",
-        "desc": "Cleave 1, inflicts 1 stack of Shock onto enemies.",
+        "desc": "Cleave 1, \n<blue>[On Hit]</blue> Inflicts Shock.",
         "icon_nid": null,
         "icon_index": [
             0,
@@ -4282,7 +4283,7 @@
     {
         "nid": "ScreamOut_1",
         "name": "Scream Out!",
-        "desc": "Cleave 1, inflicts 1 stack of Shock onto enemies.",
+        "desc": "Cleave 1, \n<blue>[On Hit]</blue> Inflicts Shock.",
         "icon_nid": null,
         "icon_index": [
             0,
@@ -4302,7 +4303,7 @@
     {
         "nid": "Paralyzing_Chant",
         "name": "Paralyzing Chant",
-        "desc": "For enemies within 3 tiles of unit:\n- If Shocked, -2 SPD/DEF, -10 Avoid\n- After any combat, 50% chance to be inflicted with Shock",
+        "desc": "Enemies within 3 tiles of unit:\n- If Shocked, -2 SPD/DEF, -10 AVOID\n- <blue>[After Combat]</blue> 50% chance to gain Shock",
         "icon_nid": "skillicons102724(1)",
         "icon_index": [
             0,
@@ -4410,7 +4411,7 @@
     {
         "nid": "GatheringofSouls",
         "name": "Gathering of Souls",
-        "desc": "Enemies that die within 5 tiles of Yuyuko give her 1 Soul Charge. \nCharges: {v:SoulCharge}",
+        "desc": "Enemies within 5 tiles:\n<red>[On Death]</red> Grant Yuyuko 1 Soul Charge. \nCharges: {v:SoulCharge}",
         "icon_nid": "skillicons102724(1)",
         "icon_index": [
             0,
@@ -4438,7 +4439,7 @@
     {
         "nid": "Eldritch_Blast",
         "name": "Eldritch Blast",
-        "desc": "Changes attack to be Blast 2 with a range of 3-10. Consumes 4 Soul Charge.",
+        "desc": "Blast 2, Range 3-10. Consumes 4 Soul Charge.",
         "icon_nid": "skillicons102724(1)",
         "icon_index": [
             0,
@@ -4462,7 +4463,7 @@
     {
         "nid": "EldritchBlast",
         "name": "Eldritch Blast",
-        "desc": "Changes attack to be Blast 2 with a range of 3-10.",
+        "desc": "Blast 2, Range 3-10.",
         "icon_nid": "skillicons102724(1)",
         "icon_index": [
             0,
@@ -4498,7 +4499,7 @@
     {
         "nid": "Blazing_Frostflare",
         "name": "Blazing Frostflare",
-        "desc": "Applies both Frozen and Burning to all enemies within 5 tiles.",
+        "desc": "Enemies within 5 tiles:\n- Inflict Frozen and Burning.",
         "icon_nid": "skillicons102724(1)",
         "icon_index": [
             0,
@@ -4553,7 +4554,7 @@
     {
         "nid": "Vengeful_Spirit",
         "name": "Vengeful Spirit",
-        "desc": "+40 Hit against enemies wielding Light Magic.",
+        "desc": "When facing Light: +40 Hit.",
         "icon_nid": "skillicons102724(1)",
         "icon_index": [
             0,
@@ -4573,7 +4574,7 @@
     {
         "nid": "Orreries_Solar_System",
         "name": "Orreries Solar System",
-        "desc": "Gives Blast 3 to Mima's attacks.",
+        "desc": "All attacks become Blast 3.",
         "icon_nid": "skillicons102724(1)",
         "icon_index": [
             0,
@@ -4589,7 +4590,7 @@
     {
         "nid": "Nightmare_Presence",
         "name": "Nightmare Presence",
-        "desc": "Enemies within 2 tiles are inflicted with Poison and Shock.",
+        "desc": "Enemies within 2 tiles:\n- Inflict Poison and Shock.",
         "icon_nid": "skillicons102724(1)",
         "icon_index": [
             0,
@@ -4660,7 +4661,7 @@
     {
         "nid": "Too_Hot",
         "name": "Too Hot!",
-        "desc": "Burning. When hitting enemy, [20 + Skl]% chance to inflict Burning.",
+        "desc": "Burning. \n<blue>[On Hit]</blue> [20 + Skl]% chance to inflict Burning.",
         "icon_nid": null,
         "icon_index": [
             0,
@@ -4703,7 +4704,7 @@
     {
         "nid": "Fleetfoot_Whack",
         "name": "Fleetfoot Whack",
-        "desc": "+3 Spd. Axes only.",
+        "desc": "<blue>[Combat Start]</blue> +3 Spd. Axes only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             3,
@@ -4739,7 +4740,7 @@
     {
         "nid": "Fleetfoot_Whack_Effect",
         "name": "Fleetfoot Whack",
-        "desc": "+3 Spd.",
+        "desc": "<blue>[Combat Start]</blue> +3 Spd.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             3,
@@ -4760,7 +4761,7 @@
     {
         "nid": "Certain_Blow",
         "name": "Certain Blow",
-        "desc": "+40 Hit. Axes only.",
+        "desc": "<blue>[Combat Start]</blue> +40 Hit. Axes only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             3,
@@ -4796,7 +4797,7 @@
     {
         "nid": "Certain_Blow_Effect",
         "name": "Certain Blow",
-        "desc": "+40 Hit. Axes only.",
+        "desc": "<blue>[Combat Start]</blue> +40 Hit. Axes only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             3,
@@ -4812,7 +4813,7 @@
     {
         "nid": "Gamble",
         "name": "Gamble",
-        "desc": "+50% Crit, -30% Hit. Axes only.",
+        "desc": "<blue>[Combat Start]</blue> +50% Crit, -30% Hit. Axes only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             3,
@@ -4848,7 +4849,7 @@
     {
         "nid": "Gamble_Effect",
         "name": "Gamble",
-        "desc": "+50% Crit, -30% Hit. Axes only.",
+        "desc": "<blue>[Combat Start]</blue> +50% Crit, -30% Hit. Axes only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             3,
@@ -4868,7 +4869,7 @@
     {
         "nid": "Chopping_Smash",
         "name": "Chopping Smash",
-        "desc": "+5 Dmg, -15% Hit. Axes only.",
+        "desc": "<blue>[Combat Start]</blue> +5 DMG, -15% Hit. Axes only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             3,
@@ -4904,7 +4905,7 @@
     {
         "nid": "Chopping_Smash_Effect",
         "name": "Chopping Smash",
-        "desc": "+5 Dmg, -15% Hit. Axes only.",
+        "desc": "<blue>[Combat Start]</blue> +5 DMG, -15% Hit. Axes only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             3,
@@ -4924,7 +4925,7 @@
     {
         "nid": "Frosty_Chop",
         "name": "Frosty Chop",
-        "desc": "Applies Frostbitten on enemy. Axes only.",
+        "desc": "<blue>[On Hit]</blue> Inflicts Frozen. Axes only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             3,
@@ -4960,7 +4961,7 @@
     {
         "nid": "Frosty_Chop_Effect",
         "name": "Frosty Chop",
-        "desc": "Applies Frostbitten on enemy. Axes only.",
+        "desc": "<blue>[On Hit]</blue> Inflicts Frozen. Axes only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             3,
@@ -4976,7 +4977,7 @@
     {
         "nid": "Extreme_Edge",
         "name": "Extreme Edge",
-        "desc": "When initiating combat, +40 Crit. Swords only.",
+        "desc": "<blue>[Combat Start]</blue> +40 Crit. Swords only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             1,
@@ -5012,7 +5013,7 @@
     {
         "nid": "Extreme_Edge_Effect",
         "name": "Extreme Edge",
-        "desc": "When initiating combat, +40 Crit. Swords only.",
+        "desc": "<blue>[Combat Start]</blue> +40 Crit. Swords only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             1,
@@ -5028,7 +5029,7 @@
     {
         "nid": "Rushdown",
         "name": "Rushdown",
-        "desc": "+3 Dmg, +30% Avoid. Swords only.",
+        "desc": "<blue>[Combat Start]</blue> +3 Dmg, +30% Avoid. Swords only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             1,
@@ -5064,7 +5065,7 @@
     {
         "nid": "Rushdown_Effect",
         "name": "Rushdown",
-        "desc": "+3 Dmg, +30% Avoid. Swords only.",
+        "desc": "<blue>[Combat Start]</blue> +3 Dmg, +30% Avoid. Swords only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             1,
@@ -5084,7 +5085,7 @@
     {
         "nid": "Crush_Blade",
         "name": "Crush Blade",
-        "desc": "+5 Dmg, +20% Crit, -3 AS. Swords only.",
+        "desc": "<blue>[Combat Start]</blue> +5 Dmg, +20% Crit, -3 AS. Swords only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             1,
@@ -5120,7 +5121,7 @@
     {
         "nid": "Crush_Blade_Effect",
         "name": "Crush Blade",
-        "desc": "+5 Dmg, +20% Crit, -3 AS. Swords only.",
+        "desc": "<blue>[Combat Start]</blue> +5 Dmg, +20% Crit, -3 AS. Swords only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             1,
@@ -5144,7 +5145,7 @@
     {
         "nid": "Lightspeed_Flash",
         "name": "Lightspeed Flash",
-        "desc": "+5 Speed. Swords only.",
+        "desc": "<blue>[Combat Start]</blue> +5 Speed. Swords only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             1,
@@ -5180,7 +5181,7 @@
     {
         "nid": "Lightspeed_Flash_Effect",
         "name": "Lightspeed Flash",
-        "desc": "+5 Speed. Swords only.",
+        "desc": "<blue>[Combat Start]</blue> +5 Speed. Swords only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             1,
@@ -5201,7 +5202,7 @@
     {
         "nid": "Gale_Sweep",
         "name": "Gale Sweep",
-        "desc": "Applies Wind Shear on enemy. Swords only.",
+        "desc": "<blue>[On Hit]</blue> Inflicts Wind Shear. Swords only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             1,
@@ -5237,7 +5238,7 @@
     {
         "nid": "Gale_Sweep_Effect",
         "name": "Gale Sweep",
-        "desc": "Applies Wind Shear on enemy. Swords only.",
+        "desc": "<blue>[On Hit]</blue> Inflicts Wind Shear. Swords only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             1,
@@ -5253,7 +5254,7 @@
     {
         "nid": "Spear_Throw",
         "name": "Spear Throw",
-        "desc": "Allows user to attack at +1 Range, with -20 Hit. Lances only.",
+        "desc": "+1 Range.\n<blue>[Combat Start]</blue> -20 Hit. Lances only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             2,
@@ -5289,7 +5290,7 @@
     {
         "nid": "Spear_Throw_Effect",
         "name": "Spear Throw",
-        "desc": "Allows user to attack at +1 Range, with -20 Hit. Lances only.",
+        "desc": "+1 Range\n<blue>[Combat Start]</blue> -20 Hit. Lances only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             2,
@@ -5309,7 +5310,7 @@
     {
         "nid": "Gallant_Thrust",
         "name": "Gallant Thrust",
-        "desc": "+6 Dmg, +5 Dmg taken, -20% Crit Avoid. Lances only.",
+        "desc": "<blue>[Combat Start]</blue> +6 DMG, +5 DMG taken, -20% CRIT AVOID. Lances only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             2,
@@ -5345,7 +5346,7 @@
     {
         "nid": "Gallant_Thrust_Effect",
         "name": "Gallant Thrust",
-        "desc": "+6 Dmg, +5 Dmg taken, -20% Crit Avoid. Lances only.",
+        "desc": "<blue>[Combat Start]</blue> +6 DMG, +5 DMG taken, -20% CRIT AVOID. Lances only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             2,
@@ -5369,7 +5370,7 @@
     {
         "nid": "Flaming_Forward",
         "name": "Flaming Forward",
-        "desc": "Applies Burning on enemy. Lances only.",
+        "desc": "<blue>[On Hit]</blue> Inflicts Burning. Lances only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             2,
@@ -5405,7 +5406,7 @@
     {
         "nid": "Flaming_Forward_Effect",
         "name": "Flaming Forward",
-        "desc": "Applies Burning on enemy. Lances only.",
+        "desc": "<blue>[On Hit]</blue> Inflicts Burning. Lances only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             2,
@@ -5421,7 +5422,7 @@
     {
         "nid": "Swift_Jab",
         "name": "Swift Jab",
-        "desc": "+5 AS, -15% Hit. Lances only.",
+        "desc": "<blue>[Combat Start]</blue> +5 AS, -15% Hit. Lances only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             2,
@@ -5457,7 +5458,7 @@
     {
         "nid": "Swift_Jab_Effect",
         "name": "Swift Jab",
-        "desc": "+5 AS, -15% Hit. Lances only.",
+        "desc": "<blue>[Combat Start]</blue> +5 AS, -15% Hit. Lances only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             2,
@@ -5477,7 +5478,7 @@
     {
         "nid": "Moonbow",
         "name": "Moonbow",
-        "desc": "Allows the user to ignore 25% of the enemy's Def/Res. Bows only.",
+        "desc": "<blue>[Combat Start]</blue> Ignore 25% Def/Res. Bows only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             4,
@@ -5513,7 +5514,7 @@
     {
         "nid": "Moonbow_Effect",
         "name": "Moonbow",
-        "desc": "Allows the user to ignore 25% of the enemy's Def/Res.",
+        "desc": "<blue>[Combat Start]</blue> Ignore 25% Def/Res. Bows only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             4,
@@ -5529,7 +5530,7 @@
     {
         "nid": "Power_Shot",
         "name": "Power Shot",
-        "desc": "+3 DMG, +30% Hit. Bows only.",
+        "desc": "<blue>[Combat Start]</blue> +3 DMG, +30% Hit. Bows only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             4,
@@ -5565,7 +5566,7 @@
     {
         "nid": "Power_Shot_Effect",
         "name": "Power Shot",
-        "desc": "+3 DMG, +30% Hit. Bows only.",
+        "desc": "<blue>[Combat Start]</blue> +3 DMG, +30% Hit. Bows only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             4,
@@ -5585,7 +5586,7 @@
     {
         "nid": "Bleeding_Shot",
         "name": "Bleeding Shot",
-        "desc": "Applies Bleeding to the target. Bows only.",
+        "desc": "<blue>[On Hit]</blue> Inflicts Bleeding. Bows only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             4,
@@ -5621,7 +5622,7 @@
     {
         "nid": "Bleeding_Shot_Effect",
         "name": "Bleeding Shot",
-        "desc": "Applies Bleeding to the target. Bows only.",
+        "desc": "<blue>[On Hit]</blue> Inflicts Bleeding. Bows only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             4,
@@ -5637,7 +5638,7 @@
     {
         "nid": "Perfect_Shot",
         "name": "Perfect Shot",
-        "desc": "+30 Crit. Bows only.",
+        "desc": "<blue>[Combat Start]</blue> +30 Crit. Bows only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             4,
@@ -5673,7 +5674,7 @@
     {
         "nid": "Perfect_Shot_Effect",
         "name": "Perfect Shot",
-        "desc": "+30 Crit. Bows only.",
+        "desc": "<blue>[Combat Start]</blue> +30 Crit. Bows only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             4,
@@ -5689,7 +5690,7 @@
     {
         "nid": "Fulmination_Infusion",
         "name": "Fulmination Infusion",
-        "desc": "Applies Shock to the target. Anima only.",
+        "desc": "<blue>[On Hit]</blue> Inflicts Shock. Anima only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             6,
@@ -5725,7 +5726,7 @@
     {
         "nid": "Fulmination_Infusion_Effect",
         "name": "Fulmination Infusion",
-        "desc": "Applies Shock to the target. Anima only.",
+        "desc": "<blue>[On Hit]</blue> Inflicts Shock. Anima only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             6,
@@ -5741,7 +5742,7 @@
     {
         "nid": "Mana_Overcharge",
         "name": "Mana Overcharge",
-        "desc": "+5 Dmg, +40% Crit, 20 HP Recoil. Can be fatal. Anima only.",
+        "desc": "<blue>[Combat Start]</blue> +5 DMG, +40% Crit, 20 Death Recoil. Anima only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             6,
@@ -5777,7 +5778,7 @@
     {
         "nid": "Mana_Overcharge_Effect",
         "name": "Mana Overcharge",
-        "desc": "+5 Dmg, +40% Crit, 20 HP Recoil. Can be fatal. Anima only.",
+        "desc": "<blue>[Combat Start]</blue> +5 DMG, +40% Crit, 20 Death Recoil. Anima only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             6,
@@ -5801,7 +5802,7 @@
     {
         "nid": "Night_Blinder",
         "name": "Night Blinder",
-        "desc": "+100% Avoid. Dark only.",
+        "desc": "<blue>[Combat Start]</blue> +100% Avoid. Dark only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             7,
@@ -5837,7 +5838,7 @@
     {
         "nid": "Night_Blinder_Effect",
         "name": "Night Blinder",
-        "desc": "+100% Avoid. Dark only.",
+        "desc": "<blue>[Combat Start]</blue> +100% Avoid. Dark only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             7,
@@ -5853,7 +5854,7 @@
     {
         "nid": "Overwhelm",
         "name": "Overwhelm",
-        "desc": "+5 Dmg, -3 Spd. Dark only.",
+        "desc": "<blue>[Combat Start]</blue> +5 DMG, -3 SPD. Dark only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             7,
@@ -5889,7 +5890,7 @@
     {
         "nid": "Overwhelm_Effect",
         "name": "Overwhelm",
-        "desc": "+5 Dmg, -3 Spd. Dark only.",
+        "desc": "<blue>[Combat Start]</blue> +5 DMG, -3 SPD. Dark only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             7,
@@ -5914,7 +5915,7 @@
     {
         "nid": "Purifying_Sutra",
         "name": "Purifying Sutra",
-        "desc": "User restores 50% of damage dealt after combat. Light only.",
+        "desc": "<blue>[On Hit]</blue>Heal HP = 50% DMG dealt. Light only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             5,
@@ -5950,7 +5951,7 @@
     {
         "nid": "Purifying_Sutra_Effect",
         "name": "Purifying Sutra",
-        "desc": "User restores 50% of damage dealt after combat. Light only.",
+        "desc": "<blue>[On Hit]</blue>Heal HP = 50% DMG dealt. Light only.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             5,
@@ -5966,7 +5967,7 @@
     {
         "nid": "Tough_Claws",
         "name": "Tough Claws",
-        "desc": "+4 Dmg, -2 AS. Martial only.",
+        "desc": "<blue>[Combat Start]</blue> +4 DMG, -2 AS. Martial only.",
         "icon_nid": "skillicons2_1",
         "icon_index": [
             0,
@@ -6002,7 +6003,7 @@
     {
         "nid": "Tough_Claws_Effect",
         "name": "Tough Claws",
-        "desc": "+4 Dmg, -2 AS. Martial only.",
+        "desc": "<blue>[Combat Start]</blue> +4 DMG, -2 AS. Martial only.",
         "icon_nid": "skillicons2_1",
         "icon_index": [
             0,
@@ -6022,7 +6023,7 @@
     {
         "nid": "Frozen",
         "name": "Frozen",
-        "desc": "Applies -2 Mov and -15 Avoid on the enemy.",
+        "desc": "-2 MOV, -15 AVOID",
         "icon_nid": "skillicons4",
         "icon_index": [
             0,
@@ -6103,7 +6104,7 @@
     {
         "nid": "Frozen_1",
         "name": "Frozen ",
-        "desc": "Applies -5 Spd/-99 Mov on the enemy for 2 turns.",
+        "desc": "-5 Spd/-99 Mov",
         "icon_nid": "skillicons4",
         "icon_index": [
             0,
@@ -6148,7 +6149,7 @@
     {
         "nid": "Bleeding",
         "name": "Bleeding",
-        "desc": "Unit takes 3 damage per turn and takes 1.2x damage. Stacks up to 3 times. Lasts 3 turns.",
+        "desc": "<blue>[Turn End]</blue> Take 3 DMG.\n1.2x DMG taken. Stacks up to 3 times. Lasts 3 turns.",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,
@@ -6192,7 +6193,7 @@
     {
         "nid": "Wind_Shear",
         "name": "Wind Shear",
-        "desc": "Unit takes 3 damage per turn and has -10 Hit. Stacks up to 3 times. Lasts 3 turns.",
+        "desc": "<blue>[Turn End]</blue> Take 3 DMG.\n-10 Hit. Stacks up to 3 times. Lasts 3 turns.",
         "icon_nid": "NewIcon3",
         "icon_index": [
             0,
@@ -6236,7 +6237,7 @@
     {
         "nid": "Shock",
         "name": "Shock",
-        "desc": "Unit takes 3 damage per turn and has -10 Crit Avoid. Stacks up to 3 times. Lasts 3 turns.",
+        "desc": "<blue>[Turn End]</blue> Take 3 DMG.\n-10 Crit Avoid. Stacks up to 3 times. Lasts 3 turns.",
         "icon_nid": "NewIcon3",
         "icon_index": [
             0,
@@ -6280,7 +6281,7 @@
     {
         "nid": "Burning",
         "name": "Burning",
-        "desc": "Str * 0.5, Unit takes 5 Dmg at the end of turn. Lasts for 3 turns.",
+        "desc": "<blue>[Turn End]</blue> Take 3 DMG.\n-50% STR. Lasts for 3 turns.",
         "icon_nid": "skillicons3",
         "icon_index": [
             0,
@@ -6325,7 +6326,7 @@
     {
         "nid": "Poisoned",
         "name": "Poison",
-        "desc": "Inflicts -2 to Def/Res. Unit takes 3 damage at the start of their turn. Stacks up to 5 times.",
+        "desc": "<blue>[Turn End]</blue> Take 3 DMG\n-2 Def/Res. Stacks up to 5 times.",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,
@@ -6606,7 +6607,7 @@
     {
         "nid": "Stoneskinned_Status",
         "name": "Stoneskinned",
-        "desc": "+4 Def",
+        "desc": "+4 DEF",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,
@@ -6643,7 +6644,7 @@
     {
         "nid": "Frost_Barrier",
         "name": "Frost Barrier",
-        "desc": "+10 Res.",
+        "desc": "+10 RES.",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,
@@ -6680,7 +6681,7 @@
     {
         "nid": "Taskmaster_Effect",
         "name": "Working Overtime!",
-        "desc": "+10 Hit",
+        "desc": "+10 Hit.",
         "icon_nid": "skillicons3",
         "icon_index": [
             0,
@@ -6720,7 +6721,7 @@
     {
         "nid": "Night_Hunter",
         "name": "Night Hunter",
-        "desc": "+4 Str/Mag and +1 Mov but also doubles damage taken from follow up attacks.",
+        "desc": "+4 Str/Mag and +1 MOV. Take double damage from follow-up attacks.",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,
@@ -6757,7 +6758,7 @@
     {
         "nid": "Infest_Effect_1",
         "name": "Infested",
-        "desc": "-3 Mov.",
+        "desc": "-3 MOV.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             1,
@@ -6970,7 +6971,7 @@
     {
         "nid": "Void_Curse",
         "name": "Void Curse",
-        "desc": "No exp gained for attacking this unit.",
+        "desc": "No EXP can be gained from this unit.",
         "icon_nid": "NewIcon6",
         "icon_index": [
             0,
@@ -8286,7 +8287,7 @@
     {
         "nid": "Thief",
         "name": "Thief's Set",
-        "desc": "Unit can pick locks, open treasure, steal and see one tile further in the dark. Units may only steal from units slower than them, and only weapons with a lower Wt than the stealer's CON.",
+        "desc": "+1 Fog Vision. Can pick locks and steal.\nMay only steal from slower units, and only weapons with a less WT than own CON.",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,
@@ -8438,7 +8439,7 @@
     {
         "nid": "AntiPhysAura",
         "name": "Strength Sap",
-        "desc": "Enemies within a 3 tile radius of this unit will be unable to use physical weapons.",
+        "desc": "Enemies within 3 tiles: Cannot use physical weapons.",
         "icon_nid": "NewIcon4",
         "icon_index": [
             0,
@@ -8482,7 +8483,7 @@
     {
         "nid": "AntiMagAura",
         "name": "Magical Decay",
-        "desc": "Enemies within a 3 tile radius of this unit will be unable to use magical weapons.",
+        "desc": "Enemies within 3 tiles: Cannot use magical weapons.",
         "icon_nid": "NewIcon4",
         "icon_index": [
             0,
