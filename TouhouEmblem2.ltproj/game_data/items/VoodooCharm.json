@@ -1,0 +1,32 @@
+[
+    {
+        "nid": "VoodooCharm",
+        "name": "Voodoo Charm",
+        "desc": "Enemies that attack the user take 25% of damage dealt.",
+        "icon_nid": "accessories",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "equippable_accessory",
+                null
+            ],
+            [
+                "value",
+                1500
+            ],
+            [
+                "eval_target_restrict_2",
+                "False"
+            ],
+            [
+                "multi_status_on_equip",
+                [
+                    "VoodooCharm"
+                ]
+            ]
+        ]
+    }
+]

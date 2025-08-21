@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "FieldRations",
+        "name": "new_1",
+        "desc": "",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "hidden",
+                null
+            ],
+            [
+                "regeneration",
+                0.15
+            ]
+        ]
+    }
+]

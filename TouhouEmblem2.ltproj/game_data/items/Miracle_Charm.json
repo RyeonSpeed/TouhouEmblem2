@@ -1,0 +1,47 @@
+[
+    {
+        "nid": "Miracle_Charm",
+        "name": "Miracle Charm",
+        "desc": "Allows user to survive one fatal hit.",
+        "icon_nid": "accessories",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "equippable_accessory",
+                null
+            ],
+            [
+                "value",
+                1500
+            ],
+            [
+                "eval_target_restrict_2",
+                "False"
+            ],
+            [
+                "multi_status_on_equip",
+                [
+                    "MiracleCharm"
+                ]
+            ],
+            [
+                "uses",
+                1
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "no_alert_on_break",
+                null
+            ]
+        ]
+    }
+]

@@ -15,7 +15,7 @@
             "add_talk;Reimu;Miyoi_NPC",
             "trigger_script;Global Housekeeping1",
             "game_var;ARMORY_ENTRY;['Iron_Sword', 'Iron_Axe', 'Iron_Lance', 'Iron_Bow', 'Ofuda', 'Heal', 'Slim_Sword', 'Slim_Lance', 'Slim_Axe', 'Slim_Bow', 'Flamberge', 'Flame_Lance', 'Flame_Axe']",
-            "game_var;SHOP_ENTRY;['Fire',  'Flux', 'Life_Gem', 'Poppet', 'Maple_Shield', 'Lucky_Clover', 'Lantern', 'Torch', 'Gust']",
+            "game_var;SHOP_ENTRY;['Fire',  'Flux', 'Life_Gem', 'Poppet', 'Maple_Shield', 'Lucky_Clover', 'Lantern', 'Miracle_Charm', 'Torch', 'Gust']",
             "game_var;hireable_guys;v('hireable_guys') + ['Meiko','Hanae']",
             ""
         ],

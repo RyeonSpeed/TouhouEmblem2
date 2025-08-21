@@ -27,58 +27,20 @@
         "tags": [],
         "units": [
             {
-                "nid": "Ringo",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    14,
-                    18
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "101",
-                "variant": null,
-                "level": 1,
-                "klass": "Citizen",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Iron_Sword",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": null,
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
                 "nid": "102",
                 "variant": null,
                 "level": 1,
-                "klass": "Citizen",
+                "klass": "Charger",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Iron_Sword",
-                        false
-                    ],
-                    [
-                        "Eye_of_Senri",
+                        "Armorslayer",
                         false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "None",
+                "ai": "Pursue",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -89,66 +51,14 @@
                 "generic": true
             },
             {
-                "nid": "Sakuya",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    15,
-                    17
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Remilia",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    21,
-                    19
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Koakuma",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    22,
-                    19
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "SigmaRaven",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    17,
-                    16
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
                 "nid": "104",
                 "variant": null,
-                "level": 1,
-                "klass": "Kappa_Mech",
+                "level": 20,
+                "klass": "Warden",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Ballista",
+                        "Lampad_Charm",
                         false
                     ]
                 ],
@@ -204,6 +114,11 @@
             }
         ],
         "unit_groups": [],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]
