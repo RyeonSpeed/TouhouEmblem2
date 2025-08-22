@@ -4,7 +4,7 @@
         "name": "Seraphknight",
         "desc": "Pegasus riders who've gained greater mastery over their flighty steeds.\nTags: Flying, Beast",
         "tier": 2,
-        "movement_group": "Light Cav",
+        "movement_group": "Fliers",
         "promotes_from": "Peg_Rider_K",
         "turns_into": [],
         "tags": [

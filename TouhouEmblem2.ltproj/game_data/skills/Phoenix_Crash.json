@@ -2,7 +2,7 @@
     {
         "nid": "Phoenix_Crash",
         "name": "Phoenix Crash",
-        "desc": "<blue>[Combat Start]</blue> Splash 1. DMG x1.5.\n<blue>[After Combat]</blue> Set HP to Max HP/2. Gain \"Phoenix Aura\".",
+        "desc": "<blue>[Combat Start]</blue> Splash 1. DMG x1.5. Cannot Double.\n<blue>[After Combat]</blue> Set HP to Max HP/2. Gain \"Phoenix Aura\".",
         "icon_nid": "skillicons_1",
         "icon_index": [
             0,

@@ -8,6 +8,9 @@
         "only_once": false,
         "priority": 1,
         "_source": [
+            "level_var;TurnwheelUses;0",
+            "start_turnwheel_recording",
+            "game_var;SoulCharge;0",
             "for;baseconvo;v('baseconvolist')",
             "add_base_convo;{baseconvo}",
             "endf"

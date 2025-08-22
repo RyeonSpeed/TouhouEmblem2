@@ -9,6 +9,7 @@
         "priority": 20,
         "_source": [
             "inc_level_var;Switches;1",
+            "has_traded;{unit}",
             "if;{v:Switches} == 2",
             "show_layer;Hidden3",
             "add_group;Hidden3;Hidden3;warp",

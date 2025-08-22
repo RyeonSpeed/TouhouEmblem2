@@ -1,0 +1,38 @@
+[
+    {
+        "name": "SHITTENFARTEN",
+        "trigger": "on_turnwheel",
+        "level_nid": null,
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "inc_level_var;TurnwheelUses;5",
+            "level_var;SuzumiKill;random.randint(1,100)",
+            "if;v('TurnwheelUses') < 15",
+            "elif;{v:Dark} == 1",
+            "add_portrait;Suzumi;Left",
+            "speak;Suzumi;Niihihihihi-Huh? ",
+            "speak;Suzumi;...",
+            "speak;Suzumi;I'll let you off easy this time.",
+            "clear_turnwheel",
+            "stop_turnwheel_recording",
+            "enable_turnwheel;false",
+            "elif;{v:SuzumiKill} <= {v:TurnwheelUses}",
+            "clear_turnwheel",
+            "load_unit;Suzumi;enemy",
+            "autolevel_to;Suzumi;40",
+            "add_unit;Suzumi;Reimu;warp;closest",
+            "add_portrait;Suzumi;Left",
+            "add_portrait;Reimu;Right",
+            "speak;Reimu;What-",
+            "speak;Suzumi;Nihihihihi~! You've made a biiiiig mistake~!",
+            "speak;Suzumi;I'll kill you. Now.",
+            "stop_turnwheel_recording",
+            "enable_turnwheel;false",
+            "end"
+        ],
+        "nid": "Global SHITTENFARTEN"
+    }
+]

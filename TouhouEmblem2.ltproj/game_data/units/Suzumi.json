@@ -1,0 +1,60 @@
+[
+    {
+        "nid": "Suzumi",
+        "name": "Suzumi",
+        "desc": "Information Unknown",
+        "variant": null,
+        "level": 1,
+        "klass": "Informant",
+        "tags": [],
+        "bases": {
+            "HP": 100,
+            "DEF": 30,
+            "STR": 30,
+            "MAG": 30,
+            "SKL": 30,
+            "SPD": 30,
+            "LCK": 30,
+            "CON": 0,
+            "RES": 30
+        },
+        "growths": {
+            "HP": 0
+        },
+        "stat_cap_modifiers": {},
+        "starting_items": [
+            [
+                "Tracer_Knife",
+                false
+            ]
+        ],
+        "learned_skills": [],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                251,
+                null
+            ],
+            "Bow": [
+                false,
+                181,
+                null
+            ],
+            "Default": [
+                false,
+                0,
+                null
+            ],
+            "Knife": [
+                false,
+                251,
+                null
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "Rinssingno",
+        "affinity": "Dark",
+        "fields": []
+    }
+]

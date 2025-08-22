@@ -24,6 +24,10 @@
             [
                 "Cleave",
                 null
+            ],
+            [
+                "cannot_double",
+                null
             ]
         ]
     }
