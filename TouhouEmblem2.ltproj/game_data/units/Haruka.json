@@ -6,7 +6,9 @@
         "variant": null,
         "level": 1,
         "klass": "Shaman",
-        "tags": [],
+        "tags": [
+            "Unimportant"
+        ],
         "bases": {
             "LCK": 0,
             "HP": 0,

@@ -6,7 +6,9 @@
         "variant": "",
         "level": 1,
         "klass": "Fencer_Y",
-        "tags": [],
+        "tags": [
+            "Unimportant"
+        ],
         "bases": {
             "LCK": 0,
             "HP": 0,

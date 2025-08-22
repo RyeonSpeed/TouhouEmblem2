@@ -6,7 +6,9 @@
         "variant": null,
         "level": 1,
         "klass": "Axe_Rider",
-        "tags": [],
+        "tags": [
+            "Unimportant"
+        ],
         "bases": {
             "HP": 3,
             "STR": 1,

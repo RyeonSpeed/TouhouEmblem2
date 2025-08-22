@@ -11,6 +11,7 @@
             "choice;onward;Advance to next chapter?;Yes,No",
             "if;'{v:onward}' == 'Yes'",
             "    set_next_chapter;{e:{v:chaptercount} + 1}",
+            "    trigger_script;Global FATIGUE READD",
             "    win_game",
             "end"
         ],

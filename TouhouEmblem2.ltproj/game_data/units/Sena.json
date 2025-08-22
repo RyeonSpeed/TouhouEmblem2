@@ -6,7 +6,9 @@
         "variant": "",
         "level": 1,
         "klass": "Vagrant_S",
-        "tags": [],
+        "tags": [
+            "Unimportant"
+        ],
         "bases": {
             "HP": 3,
             "STR": 1,

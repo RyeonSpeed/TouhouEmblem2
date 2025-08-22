@@ -20,13 +20,9 @@
             "game_var;SHOP_ENTRY;['Fire',  'Flux', 'Life_Gem', 'Poppet', 'Maple_Shield', 'Lucky_Clover', 'Lantern']",
             "game_var;hireable_guys;['Miki','Tomomi','Konami','Kabin','Yae','Amane']",
             "for;SHITASS;[x for x in ['Wriggle', 'Mystia', 'Cirno', 'Rumia', 'Daiyousei', 'SigmaRaven', 'Tewi', 'Reisen', 'Aunn', 'Merlin', 'Lunasa', 'Lyrica', 'Youmu', 'Yuyuko', 'Star', 'Sunny', 'Luna', 'Koakuma', 'Sakuya', 'Kaguya', 'Mokou', 'Kyouko', 'Narumi'] if u(x) and u(x).team == 'player' and u(x).party == 'Reimu' and game.check_alive(x)]",
-            "    add_talk;Reimu;{SHITASS}",
-            "    add_talk;{SHITASS};Reimu",
             "    add_group;{SHITASS};{SHITASS};fade;closest",
             "endf",
             "for;Important;[x for x in ['Kasen', 'Alice', 'Mima', 'Remilia'] if u(x) and u(x).team == 'player' and game.check_alive(x)]",
-            "    add_talk;Reimu;{Important}",
-            "    add_talk;{Important};Reimu",
             "    add_group;{Important};{Important};fade;closest",
             "endf",
             "for;Shop;[x for x in ['Rinnosuke', 'Miyoi', 'Kosuzu'] if u(x) and  game.check_alive(x)]",
@@ -80,12 +76,13 @@
             "speak;Kasen;*sigh*, lay off the booze.",
             "multi_remove_portrait;Kasen;Reimu;Miyoi",
             "multi_add_portrait;Kasen;Left;Reimu;Right",
-            "speak;Kasen;Well, that's pretty much it. Here's some funds. Don't waste them.",
+            "speak;Kasen;Well, that's pretty much it. Here's some funds. Don't waste them. Talk to Marisa when you|wanna move on.",
             "give_money;5000;Reimu",
             "give_bexp;200",
             "speak;Reimu;Ooooh, you're so kind, Master Hermit!",
             "speak;Kasen;Alright...I'll leave you to your own devices.",
-            "move_unit;Kasen;27,47;warp;no_follow"
+            "move_unit;Kasen;27,47;warp;no_follow",
+            ""
         ],
         "nid": "Base IntroCh2"
     }

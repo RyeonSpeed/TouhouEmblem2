@@ -6,7 +6,9 @@
         "variant": "",
         "level": 1,
         "klass": "Pirate",
-        "tags": [],
+        "tags": [
+            "Unimportant"
+        ],
         "bases": {
             "HP": 0,
             "STR": 0,
