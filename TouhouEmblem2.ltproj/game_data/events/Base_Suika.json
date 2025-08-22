@@ -3,7 +3,7 @@
         "name": "Suika",
         "trigger": "on_talk",
         "level_nid": "Base",
-        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Suika'",
+        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Suika' and game.get_unit('Suika').team != 'player'",
         "commands": [],
         "only_once": true,
         "priority": 20,

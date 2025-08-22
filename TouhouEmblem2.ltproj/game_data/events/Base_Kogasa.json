@@ -3,7 +3,7 @@
         "name": "Kogasa",
         "trigger": "on_talk",
         "level_nid": "Base",
-        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Kogasa'",
+        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Kogasa' and game.get_unit('Kogasa').team != 'player'",
         "commands": [],
         "only_once": true,
         "priority": 20,
@@ -31,8 +31,6 @@
             "add_lore;Kogasa",
             "change_team;Kogasa;player",
             "enable_repair_shop;true",
-            "remove_talk;Reimu;Kogasa",
-            "remove_unit;Kogasa;warp;fade",
             "add_group;KogasaNPC;KogasaNPC;warp;closest",
             "game_var;KogasaTalked;1"
         ],

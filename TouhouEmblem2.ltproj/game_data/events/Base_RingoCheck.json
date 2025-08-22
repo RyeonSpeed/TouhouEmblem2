@@ -3,14 +3,16 @@
         "name": "RingoCheck",
         "trigger": "level_start",
         "level_nid": "Base",
-        "condition": "game.check_alive('Ringo') and game.get_unit('Ringo').team != 'player' and game.game_vars['chaptercount'] >= 6",
+        "condition": "game.check_alive('Ringo') and game.game_vars['chaptercount'] >= 6",
         "commands": [],
         "only_once": false,
         "priority": 21,
         "_source": [
             "add_group;Ringo;Ringo;fade;closest",
-            "autolevel_to;Ringo;{e:{v:chaptercount} + 1};fixed",
             "add_talk;Reimu;Ringo",
+            "if;game.get_unit('Ringo').team != 'player'",
+            "autolevel_to;Ringo;{e:{v:chaptercount} + 1};fixed",
+            "else",
             "end"
         ],
         "nid": "Base RingoCheck"

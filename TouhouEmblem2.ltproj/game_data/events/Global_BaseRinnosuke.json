@@ -13,6 +13,8 @@
             "transition;open",
             "music;Comrades",
             "load_unit;Rinnosuke",
+            "change_team;Rinnosuke;player",
+            "change_party;Rinnosuke;Reimu",
             "autolevel_to;Rinnosuke;4;fixed",
             "add_portrait;Rinnosuke;Left",
             "add_portrait;Marisa;Right;ExpressionList=Smile",

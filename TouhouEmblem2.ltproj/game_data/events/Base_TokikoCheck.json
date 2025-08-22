@@ -3,14 +3,16 @@
         "name": "TokikoCheck",
         "trigger": "level_start",
         "level_nid": "Base",
-        "condition": "game.check_alive('Tokiko') and game.get_unit('Tokiko').team != 'player'",
+        "condition": "game.check_alive('Tokiko') ",
         "commands": [],
         "only_once": false,
         "priority": 21,
         "_source": [
             "add_group;Tokiko;Tokiko;fade;closest",
-            "autolevel_to;Tokiko;{e:{v:chaptercount} + 1};fixed",
             "add_talk;Reimu;Tokiko",
+            "if;game.get_unit('Tokiko').team != 'player'",
+            "autolevel_to;Tokiko;{e:{v:chaptercount} + 1};fixed",
+            "else",
             "end"
         ],
         "nid": "Base TokikoCheck"

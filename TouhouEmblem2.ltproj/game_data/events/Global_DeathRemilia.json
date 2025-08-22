@@ -12,7 +12,8 @@
             "speak;Remilia;Hmph! I'm leaving! How dare you leave me to be injured like that!",
             "expression;Remilia;CloseEyes",
             "remove_portrait;Remilia",
-            ""
+            "resurrect;Remilia",
+            "change_party;Remilia;Dumpster"
         ],
         "nid": "Global DeathRemilia"
     }

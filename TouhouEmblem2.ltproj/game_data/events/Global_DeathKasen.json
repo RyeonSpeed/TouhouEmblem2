@@ -11,7 +11,9 @@
             "add_portrait;Kasen;FarRight",
             "speak;Kasen;I told you to be careful!",
             "expression;Kasen;CloseEyes",
-            "remove_portrait;Kasen"
+            "remove_portrait;Kasen",
+            "resurrect;Kasen",
+            "change_party;Kasen;Dumpster"
         ],
         "nid": "Global DeathKasen"
     }

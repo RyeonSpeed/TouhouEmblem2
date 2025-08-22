@@ -3,13 +3,16 @@
         "name": "RinCheck",
         "trigger": "level_start",
         "level_nid": "Base",
-        "condition": "game.check_alive('Rin') and game.get_unit('Rin').team != 'player'",
+        "condition": "game.check_alive('Rin') ",
         "commands": [],
         "only_once": false,
         "priority": 21,
         "_source": [
             "add_group;Rin;Rin;fade;closest",
             "add_talk;Reimu;Rin",
+            "if;game.get_unit('Rin').team != 'player'",
+            "autolevel_to;Rin;{e:{v:chaptercount} + 1};fixed",
+            "else",
             "end"
         ],
         "nid": "Base RinCheck"

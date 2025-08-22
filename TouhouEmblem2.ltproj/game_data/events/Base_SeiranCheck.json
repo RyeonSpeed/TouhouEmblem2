@@ -3,14 +3,16 @@
         "name": "SeiranCheck",
         "trigger": "level_start",
         "level_nid": "Base",
-        "condition": "game.check_alive('Seiran') and game.get_unit('Seiran').team != 'player' and game.game_vars['chaptercount'] >= 6",
+        "condition": "game.check_alive('Seiran') and game.game_vars['chaptercount'] >= 6",
         "commands": [],
         "only_once": false,
         "priority": 21,
         "_source": [
             "add_group;Seiran;Seiran;fade;closest",
-            "autolevel_to;Seiran;{e:{v:chaptercount} + 1};fixed",
             "add_talk;Reimu;Seiran",
+            "if;game.get_unit('Seiran').team != 'player'",
+            "autolevel_to;Seiran;{e:{v:chaptercount} + 1};fixed",
+            "else",
             "end"
         ],
         "nid": "Base SeiranCheck"

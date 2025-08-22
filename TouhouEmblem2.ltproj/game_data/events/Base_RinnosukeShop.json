@@ -3,7 +3,7 @@
         "name": "RinnosukeShop",
         "trigger": "on_talk",
         "level_nid": "Base",
-        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Rinnosuke_NPC'",
+        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Rinnosuke'",
         "commands": [],
         "only_once": false,
         "priority": 20,

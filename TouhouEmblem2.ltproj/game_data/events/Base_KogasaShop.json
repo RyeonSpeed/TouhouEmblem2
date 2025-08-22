@@ -3,7 +3,7 @@
         "name": "KogasaShop",
         "trigger": "on_talk",
         "level_nid": "Base",
-        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Kogasa_NPC'",
+        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Kogasa' and game.get_unit('Kogasa').team == 'player'",
         "commands": [],
         "only_once": false,
         "priority": 20,

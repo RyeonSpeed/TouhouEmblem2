@@ -3,7 +3,7 @@
         "name": "KasenCh7",
         "trigger": "on_talk",
         "level_nid": "Base",
-        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Kasen_NPC' and game.game_vars['chaptercount'] == 5 ",
+        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Kasen' and game.game_vars['chaptercount'] == 5 ",
         "commands": [],
         "only_once": false,
         "priority": 20,

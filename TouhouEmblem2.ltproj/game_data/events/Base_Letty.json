@@ -3,7 +3,7 @@
         "name": "Letty",
         "trigger": "on_talk",
         "level_nid": "Base",
-        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Letty'",
+        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Letty' and game.get_unit('Letty').team != 'player'",
         "commands": [],
         "only_once": false,
         "priority": 20,

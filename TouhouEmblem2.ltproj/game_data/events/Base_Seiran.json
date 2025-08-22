@@ -3,7 +3,7 @@
         "name": "Seiran",
         "trigger": "on_talk",
         "level_nid": "Base",
-        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Seiran'",
+        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Seiran' and game.get_unit('Seiran').team != 'player' ",
         "commands": [],
         "only_once": false,
         "priority": 20,

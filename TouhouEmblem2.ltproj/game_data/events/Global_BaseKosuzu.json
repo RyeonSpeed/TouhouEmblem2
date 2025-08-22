@@ -13,6 +13,8 @@
             "transition;open",
             "music;Comrades",
             "load_unit;Kosuzu",
+            "change_team;Kosuzu;player",
+            "change_party;Kosuzu;Reimu",
             "add_portrait;Kosuzu;Left",
             "add_portrait;Reimu;CenterRight",
             "add_portrait;Kasen;FarRight",

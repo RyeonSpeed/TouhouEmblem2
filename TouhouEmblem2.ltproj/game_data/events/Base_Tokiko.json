@@ -3,7 +3,7 @@
         "name": "Tokiko",
         "trigger": "on_talk",
         "level_nid": "Base",
-        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Tokiko'",
+        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Tokiko' and game.get_unit('Tokiko').team != 'player'",
         "commands": [],
         "only_once": false,
         "priority": 20,

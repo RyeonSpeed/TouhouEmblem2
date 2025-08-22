@@ -11,7 +11,9 @@
             "add_portrait;Rinnosuke;FarRight",
             "speak;Rinnosuke;You know, I'll just leave the fighting to the experts...",
             "expression;Rinnosuke;CloseEyes",
-            "remove_portrait;Rinnosuke"
+            "remove_portrait;Rinnosuke",
+            "resurrect;Rinnosuke",
+            "change_party;Rinnosuke;Dumpster"
         ],
         "nid": "Global DeathRinnosuke"
     }

@@ -3,7 +3,7 @@
         "name": "KosuzuShop",
         "trigger": "on_talk",
         "level_nid": "Base",
-        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Kosuzu_NPC'",
+        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Kosuzu'",
         "commands": [],
         "only_once": false,
         "priority": 20,

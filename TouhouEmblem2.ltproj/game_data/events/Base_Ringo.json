@@ -3,7 +3,7 @@
         "name": "Ringo",
         "trigger": "on_talk",
         "level_nid": "Base",
-        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Ringo'",
+        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Ringo' and game.get_unit('Ringo').team != 'player' ",
         "commands": [],
         "only_once": false,
         "priority": 20,

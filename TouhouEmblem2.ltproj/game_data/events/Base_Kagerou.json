@@ -3,7 +3,7 @@
         "name": "Kagerou",
         "trigger": "on_talk",
         "level_nid": "Base",
-        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Kagerou'",
+        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Kagerou' and game.get_unit('Kagerou').team != 'player'",
         "commands": [],
         "only_once": false,
         "priority": 20,

@@ -2,7 +2,7 @@
     {
         "nid": "Base",
         "name": "Base",
-        "tilemap": "Ms. Okina's Breakroom",
+        "tilemap": "New Tilemap_11",
         "bg_tilemap": null,
         "party": "Reimu",
         "music": {
@@ -29,8 +29,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    14,
-                    25
+                    30,
+                    54
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -42,53 +42,14 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    10,
-                    21
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Rinnosuke_NPC",
-                "team": "other",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    17,
+                    27,
                     18
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
-                "nid": "Kosuzu_NPC",
-                "team": "other",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    18,
-                    21
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Miyoi_NPC",
-                "team": "other",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    18,
-                    19
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Suika",
+                "nid": "Rinnosuke",
                 "team": "other",
                 "ai": "None",
                 "roam_ai": null,
@@ -98,7 +59,27 @@
                 "generic": false
             },
             {
-                "nid": "Kasen_NPC",
+                "nid": "Kosuzu",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Miyoi",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Suika",
                 "team": "other",
                 "ai": "None",
                 "roam_ai": null,
@@ -208,16 +189,6 @@
                 "generic": false
             },
             {
-                "nid": "Kogasa_NPC",
-                "team": "other",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": null,
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
                 "nid": "Kyouko",
                 "team": "other",
                 "ai": "None",
@@ -226,28 +197,289 @@
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
-            }
-        ],
-        "regions": [
+            },
             {
-                "nid": "NextChapter",
-                "region_type": "event",
-                "position": [
-                    14,
-                    25
-                ],
-                "size": [
-                    2,
-                    1
-                ],
-                "sub_nid": "Onward!",
-                "condition": "True",
-                "time_left": null,
-                "only_once": false,
-                "interrupt_move": false,
-                "hide_time": false
+                "nid": "Kasen",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Remilia",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Aunn",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Rumia",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Wriggle",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Mystia",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Sunny",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Luna",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Star",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Cirno",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Daiyousei",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Tewi",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Reisen",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "SigmaRaven",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Mokou",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Kaguya",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Mima",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Sakuya",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Alice",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Koakuma",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Narumi",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Lyrica",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Shanghai",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Hourai",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Merlin",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Lunasa",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Youmu",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Yuyuko",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
             }
         ],
+        "regions": [],
         "unit_groups": [
             {
                 "nid": "Suika",
@@ -256,22 +488,15 @@
                 ],
                 "positions": {
                     "Suika": [
-                        10,
+                        23,
                         19
                     ]
                 }
             },
             {
                 "nid": "Chapter7Kasen",
-                "units": [
-                    "Kasen_NPC"
-                ],
-                "positions": {
-                    "Kasen_NPC": [
-                        9,
-                        20
-                    ]
-                }
+                "units": [],
+                "positions": {}
             },
             {
                 "nid": "Letty",
@@ -280,8 +505,8 @@
                 ],
                 "positions": {
                     "Letty": [
-                        15,
-                        16
+                        53,
+                        31
                     ]
                 }
             },
@@ -292,8 +517,8 @@
                 ],
                 "positions": {
                     "Tokiko": [
-                        16,
-                        16
+                        46,
+                        26
                     ]
                 }
             },
@@ -304,8 +529,8 @@
                 ],
                 "positions": {
                     "Kokoro": [
-                        14,
-                        16
+                        50,
+                        30
                     ]
                 }
             },
@@ -316,8 +541,8 @@
                 ],
                 "positions": {
                     "Rin": [
-                        9,
-                        22
+                        53,
+                        37
                     ]
                 }
             },
@@ -328,8 +553,8 @@
                 ],
                 "positions": {
                     "Kagerou": [
-                        9,
-                        18
+                        51,
+                        27
                     ]
                 }
             },
@@ -341,12 +566,12 @@
                 ],
                 "positions": {
                     "Sena": [
-                        18,
-                        20
+                        47,
+                        32
                     ],
                     "Yoshino": [
-                        18,
-                        21
+                        48,
+                        32
                     ]
                 }
             },
@@ -357,8 +582,8 @@
                 ],
                 "positions": {
                     "Ringo": [
-                        11,
-                        17
+                        50,
+                        25
                     ]
                 }
             },
@@ -369,8 +594,8 @@
                 ],
                 "positions": {
                     "Seiran": [
-                        12,
-                        17
+                        47,
+                        24
                     ]
                 }
             },
@@ -381,22 +606,15 @@
                 ],
                 "positions": {
                     "Kogasa": [
-                        11,
-                        24
+                        35,
+                        1
                     ]
                 }
             },
             {
                 "nid": "KogasaNPC",
-                "units": [
-                    "Kogasa_NPC"
-                ],
-                "positions": {
-                    "Kogasa_NPC": [
-                        11,
-                        24
-                    ]
-                }
+                "units": [],
+                "positions": {}
             },
             {
                 "nid": "Kyouko",
@@ -405,8 +623,421 @@
                 ],
                 "positions": {
                     "Kyouko": [
-                        16,
+                        49,
+                        28
+                    ]
+                }
+            },
+            {
+                "nid": "ReimuKasen1",
+                "units": [
+                    "Reimu",
+                    "Kasen"
+                ],
+                "positions": {
+                    "Reimu": [
+                        28,
+                        3
+                    ],
+                    "Kasen": [
+                        27,
+                        3
+                    ]
+                }
+            },
+            {
+                "nid": "ReimuKasen2",
+                "units": [
+                    "Reimu",
+                    "Kasen"
+                ],
+                "positions": {
+                    "Reimu": [
+                        4,
+                        23
+                    ],
+                    "Kasen": [
+                        4,
                         24
+                    ]
+                }
+            },
+            {
+                "nid": "ReimuKasen3",
+                "units": [
+                    "Reimu",
+                    "Kasen"
+                ],
+                "positions": {
+                    "Reimu": [
+                        49,
+                        21
+                    ],
+                    "Kasen": [
+                        50,
+                        21
+                    ]
+                }
+            },
+            {
+                "nid": "Remilia",
+                "units": [
+                    "Remilia"
+                ],
+                "positions": {
+                    "Remilia": [
+                        26,
+                        22
+                    ]
+                }
+            },
+            {
+                "nid": "Aunn",
+                "units": [
+                    "Aunn"
+                ],
+                "positions": {
+                    "Aunn": [
+                        22,
+                        47
+                    ]
+                }
+            },
+            {
+                "nid": "Rumia",
+                "units": [
+                    "Rumia"
+                ],
+                "positions": {
+                    "Rumia": [
+                        37,
+                        50
+                    ]
+                }
+            },
+            {
+                "nid": "Wriggle",
+                "units": [
+                    "Wriggle"
+                ],
+                "positions": {
+                    "Wriggle": [
+                        35,
+                        51
+                    ]
+                }
+            },
+            {
+                "nid": "Mystia",
+                "units": [
+                    "Mystia"
+                ],
+                "positions": {
+                    "Mystia": [
+                        39,
+                        51
+                    ]
+                }
+            },
+            {
+                "nid": "Sunny",
+                "units": [
+                    "Sunny"
+                ],
+                "positions": {
+                    "Sunny": [
+                        0,
+                        18
+                    ]
+                }
+            },
+            {
+                "nid": "Luna",
+                "units": [
+                    "Luna"
+                ],
+                "positions": {
+                    "Luna": [
+                        1,
+                        19
+                    ]
+                }
+            },
+            {
+                "nid": "Star",
+                "units": [
+                    "Star"
+                ],
+                "positions": {
+                    "Star": [
+                        2,
+                        18
+                    ]
+                }
+            },
+            {
+                "nid": "Cirno",
+                "units": [
+                    "Cirno"
+                ],
+                "positions": {
+                    "Cirno": [
+                        35,
+                        49
+                    ]
+                }
+            },
+            {
+                "nid": "Daiyousei",
+                "units": [
+                    "Daiyousei"
+                ],
+                "positions": {
+                    "Daiyousei": [
+                        38,
+                        49
+                    ]
+                }
+            },
+            {
+                "nid": "Tewi",
+                "units": [
+                    "Tewi"
+                ],
+                "positions": {
+                    "Tewi": [
+                        25,
+                        26
+                    ],
+                    "Reisen": [
+                        30,
+                        26
+                    ]
+                }
+            },
+            {
+                "nid": "Reisen",
+                "units": [
+                    "Reisen"
+                ],
+                "positions": {
+                    "Reisen": [
+                        30,
+                        26
+                    ]
+                }
+            },
+            {
+                "nid": "SigmaRaven",
+                "units": [
+                    "SigmaRaven"
+                ],
+                "positions": {
+                    "SigmaRaven": [
+                        7,
+                        22
+                    ]
+                }
+            },
+            {
+                "nid": "Mokou",
+                "units": [
+                    "Mokou"
+                ],
+                "positions": {
+                    "Mokou": [
+                        28,
+                        51
+                    ]
+                }
+            },
+            {
+                "nid": "Kaguya",
+                "units": [
+                    "Kaguya"
+                ],
+                "positions": {
+                    "Kaguya": [
+                        9,
+                        18
+                    ]
+                }
+            },
+            {
+                "nid": "Mima",
+                "units": [
+                    "Mima"
+                ],
+                "positions": {
+                    "Mima": [
+                        30,
+                        23
+                    ]
+                }
+            },
+            {
+                "nid": "Sakuya",
+                "units": [
+                    "Sakuya"
+                ],
+                "positions": {
+                    "Sakuya": [
+                        26,
+                        23
+                    ]
+                }
+            },
+            {
+                "nid": "Alice",
+                "units": [
+                    "Alice",
+                    "Shanghai",
+                    "Hourai"
+                ],
+                "positions": {
+                    "Alice": [
+                        29,
+                        21
+                    ],
+                    "Shanghai": [
+                        30,
+                        19
+                    ],
+                    "Hourai": [
+                        30,
+                        23
+                    ]
+                }
+            },
+            {
+                "nid": "Koakuma",
+                "units": [
+                    "Koakuma"
+                ],
+                "positions": {
+                    "Koakuma": [
+                        8,
+                        26
+                    ]
+                }
+            },
+            {
+                "nid": "Narumi",
+                "units": [
+                    "Narumi"
+                ],
+                "positions": {
+                    "Narumi": [
+                        26,
+                        30
+                    ]
+                }
+            },
+            {
+                "nid": "Lyrica",
+                "units": [
+                    "Lyrica"
+                ],
+                "positions": {
+                    "Lyrica": [
+                        32,
+                        44
+                    ]
+                }
+            },
+            {
+                "nid": "Lunasa",
+                "units": [
+                    "Lunasa"
+                ],
+                "positions": {
+                    "Lunasa": [
+                        32,
+                        46
+                    ]
+                }
+            },
+            {
+                "nid": "Merlin",
+                "units": [
+                    "Merlin"
+                ],
+                "positions": {
+                    "Merlin": [
+                        31,
+                        45
+                    ]
+                }
+            },
+            {
+                "nid": "Youmu",
+                "units": [
+                    "Youmu"
+                ],
+                "positions": {
+                    "Youmu": [
+                        25,
+                        3
+                    ]
+                }
+            },
+            {
+                "nid": "Yuyuko",
+                "units": [
+                    "Yuyuko"
+                ],
+                "positions": {
+                    "Yuyuko": [
+                        7,
+                        11
+                    ]
+                }
+            },
+            {
+                "nid": "Rinnosuke",
+                "units": [
+                    "Rinnosuke"
+                ],
+                "positions": {
+                    "Rinnosuke": [
+                        28,
+                        1
+                    ]
+                }
+            },
+            {
+                "nid": "Miyoi",
+                "units": [
+                    "Miyoi"
+                ],
+                "positions": {
+                    "Miyoi": [
+                        49,
+                        19
+                    ]
+                }
+            },
+            {
+                "nid": "Kosuzu",
+                "units": [
+                    "Kosuzu"
+                ],
+                "positions": {
+                    "Kosuzu": [
+                        2,
+                        23
+                    ]
+                }
+            },
+            {
+                "nid": "Kasen",
+                "units": [
+                    "Kasen"
+                ],
+                "positions": {
+                    "Kasen": [
+                        27,
+                        50
                     ]
                 }
             }

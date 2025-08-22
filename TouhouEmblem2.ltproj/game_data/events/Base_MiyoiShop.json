@@ -3,7 +3,7 @@
         "name": "MiyoiShop",
         "trigger": "on_talk",
         "level_nid": "Base",
-        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Miyoi_NPC'",
+        "condition": "unit.nid == 'Reimu' and unit2.nid == 'Miyoi'",
         "commands": [],
         "only_once": false,
         "priority": 20,
