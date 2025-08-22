@@ -24,10 +24,6 @@
             [
                 "condition",
                 "len([x for x in get_units_within_distance(unit.position, dist=2) if x.nid in ['Lyrica', 'Merlin', 'Lunasa']]) == 3"
-            ],
-            [
-                "damage_multiplier",
-                2.0
             ]
         ]
     }

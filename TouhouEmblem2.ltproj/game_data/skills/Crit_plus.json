@@ -14,16 +14,8 @@
                 null
             ],
             [
-                "aura",
-                "Crit_plus_1"
-            ],
-            [
-                "aura_range",
-                3
-            ],
-            [
-                "aura_target",
-                "ally"
+                "crit",
+                50
             ]
         ]
     }

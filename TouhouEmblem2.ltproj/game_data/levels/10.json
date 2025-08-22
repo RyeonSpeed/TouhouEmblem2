@@ -2123,11 +2123,11 @@
                 "faction": "Cultist",
                 "starting_items": [
                     [
-                        "Physic",
+                        "Physic_Funny",
                         false
                     ],
                     [
-                        "Purge",
+                        "Purge_Funny",
                         false
                     ]
                 ],

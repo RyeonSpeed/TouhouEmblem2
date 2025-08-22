@@ -12,6 +12,10 @@
             [
                 "item_override",
                 "Great_Funeral_Concert"
+            ],
+            [
+                "damage_multiplier",
+                2.0000000000000004
             ]
         ]
     }

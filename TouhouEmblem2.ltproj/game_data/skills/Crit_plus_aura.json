@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "Crit_plus_aura",
+        "name": "Crit Plus",
+        "desc": "Gives +50% crit.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            10,
+            3
+        ],
+        "components": [
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "aura",
+                "Crit_plus"
+            ],
+            [
+                "aura_range",
+                3
+            ],
+            [
+                "aura_target",
+                "ally"
+            ]
+        ]
+    }
+]

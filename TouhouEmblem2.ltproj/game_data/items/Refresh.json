@@ -40,6 +40,10 @@
             [
                 "battle_animation_music",
                 "Sacred Strength"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

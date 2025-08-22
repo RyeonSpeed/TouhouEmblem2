@@ -11,7 +11,7 @@
         "components": [
             [
                 "combat_condition",
-                "unit2.get_hp() >= unit2.get_stat('HP')*0.8"
+                "(unit2.get_hp() >= unit2.get_stat('HP')*0.8) and (unit2.team not in ['player', 'other'])"
             ],
             [
                 "damage_multiplier",
