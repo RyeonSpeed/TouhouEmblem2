@@ -5,10 +5,20 @@
         "level_nid": "7",
         "condition": "unit.nid == 'Reimu' and unit2.nid == 'Aunn'",
         "commands": [],
-        "only_once": false,
+        "only_once": true,
         "priority": 20,
         "_source": [
-            ""
+            "multi_add_portrait;Reimu;Right;{unit2};Left",
+            "speak;Aunn;Ms. Reimu! Ms. Reimu! How are you doing this night?",
+            "speak;Reimu;Woah there. I'm doing fine.",
+            "speak;Aunn;That's great! If you need anything, I'll be over there!",
+            "speak;Reimu;Hmmm...wait.",
+            "speak;Reimu;Go, fetch!",
+            "speak;Aunn;On it!",
+            "remove_portrait;Aunn",
+            "speak;Reimu;Like a dog...",
+            "speak;Reimu;I wonder where the lion half of her is.",
+            "multi_remove_portrait;Reimu;{unit2}"
         ],
         "nid": "7 TalkAunn"
     }

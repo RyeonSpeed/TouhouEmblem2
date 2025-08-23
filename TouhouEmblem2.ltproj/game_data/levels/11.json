@@ -3137,6 +3137,14 @@
                         1
                     ]
                 }
+            },
+            {
+                "nid": "New Group",
+                "units": [
+                    "Reimu",
+                    "Marisa"
+                ],
+                "positions": {}
             }
         ],
         "ai_groups": []

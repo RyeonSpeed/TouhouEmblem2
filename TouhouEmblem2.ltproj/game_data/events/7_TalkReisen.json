@@ -5,10 +5,21 @@
         "level_nid": "7",
         "condition": "unit.nid == 'Reimu' and unit2.nid == 'Reisen'",
         "commands": [],
-        "only_once": false,
+        "only_once": true,
         "priority": 20,
         "_source": [
-            ""
+            "multi_add_portrait;Reimu;Right;{unit2};Left",
+            "speak;Reimu;Nice evening we're having.",
+            "speak;Reisen;Shrine maiden, what are you getting at?",
+            "speak;Reimu;Lighten up. I'm just making some small talk.",
+            "speak;Reisen;I'm not great at that.",
+            "speak;Reimu;Is that so? Even in the midst of battle, our conversations felt like small talk.",
+            "speak;Reisen;That's different.",
+            "speak;Reimu;I suppose it is. ",
+            "speak;Reisen;Ah well. Enjoy some more sake, courtesy of my masters.",
+            "speak;Reimu;Now you're speaking my language.",
+            "multi_remove_portrait;Reimu;{unit2}",
+            "remove_talk;Reimu;{unit2}"
         ],
         "nid": "7 TalkReisen"
     }

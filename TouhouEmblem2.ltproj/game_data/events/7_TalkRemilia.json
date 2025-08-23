@@ -5,10 +5,19 @@
         "level_nid": "7",
         "condition": "unit.nid == 'Reimu' and unit2.nid == 'Remilia'",
         "commands": [],
-        "only_once": false,
+        "only_once": true,
         "priority": 20,
         "_source": [
-            ""
+            "multi_add_portrait;Reimu;Right;{unit2};Left",
+            "speak;Remilia;Ahh~ I feel in my element this night.",
+            "speak;Reimu;I guess that's to be expected from a vampire.",
+            "speak;Remilia;I almost wish Sakuya and the others were here to enjoy this night with me.",
+            "speak;Reimu;Tsk. Having them here would've made our jobs easier.",
+            "speak;Remilia;Can't blame me for wanting something different.",
+            "speak;Reimu;Really? And how are you holding up with not having someone at your beck and call?",
+            "speak;Remilia;I miss it now...",
+            "multi_remove_portrait;Reimu;{unit2}",
+            "remove_talk;Reimu;{unit2}"
         ],
         "nid": "7 TalkRemilia"
     }

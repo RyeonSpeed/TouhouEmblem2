@@ -11,7 +11,7 @@
             "#This one is Marisa's House",
             "",
             "transition;Close",
-            "change_background;Rural Town",
+            "change_background;House Interior",
             "transition;Open",
             "",
             "if;unit.nid == \"Marisa\"",

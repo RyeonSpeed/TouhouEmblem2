@@ -5,10 +5,22 @@
         "level_nid": "7",
         "condition": "unit.nid == 'Reimu' and unit2.nid == 'Kagerou'",
         "commands": [],
-        "only_once": false,
+        "only_once": true,
         "priority": 20,
         "_source": [
-            ""
+            "multi_add_portrait;Reimu;Right;{unit2};Left",
+            "speak;Kagerou;Hmhmhmmhmm~",
+            "speak;Reimu;Hello.",
+            "speak;Kagerou;G-ggah! You scared me!",
+            "speak;Reimu;Should've smelled me coming.",
+            "speak;Kagerou;This mochi smelled so nice, though...",
+            "speak;Reimu;Huh, that is quite a fragrant mochi.",
+            "speak;Kagerou;D-do you want some of mine?",
+            "speak;Reimu;Nah, I'll get my own.",
+            "remove_portrait;Reimu",
+            "speak;Kagerou;She's so hard to talk to...",
+            "multi_remove_portrait;Reimu;{unit2}",
+            "remove_talk;Reimu;{unit2}"
         ],
         "nid": "7 TalkKagerou"
     }

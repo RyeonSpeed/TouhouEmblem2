@@ -8,6 +8,8 @@
         "only_once": true,
         "priority": 20,
         "_source": [
+            "multi_add_portrait;Reimu;Right;{unit2};Left",
+            "multi_remove_portrait;Reimu;{unit2}",
             "give_item;Reimu;Scroll_Moonbow",
             "remove_talk;Reimu;Eirin_NPC",
             ""

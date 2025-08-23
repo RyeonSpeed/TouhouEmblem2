@@ -10,7 +10,6 @@
         "_source": [
             "for;SHITASS;[x for x in ['Wriggle', 'Mystia', 'Letty', 'Cirno', 'Rumia', 'Daiyousei', 'Rin', 'Kagerou', 'Reisen', 'Tewi', 'Reisen', 'Aunn', 'Kokoro', 'Rinnosuke', 'Kosuzu', 'Suika', 'Kasen', 'Star', 'Sunny', 'Luna', 'Remilia', 'Tokiko'] if u(x) and u(x).team == 'player' and u(x).party == 'Reimu' and game.check_alive(x)]",
             "    add_talk;Reimu;{SHITASS}",
-            "    add_talk;{SHITASS};Reimu",
             "    add_group;{SHITASS};{SHITASS};fade;closest",
             "endf",
             "game_var;chaptercount;7",

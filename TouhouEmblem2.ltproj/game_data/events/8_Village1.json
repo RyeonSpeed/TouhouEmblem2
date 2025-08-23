@@ -8,7 +8,26 @@
         "only_once": true,
         "priority": 20,
         "_source": [
-            ""
+            "transition;Close",
+            "change_background;House Interior",
+            "transition;Open",
+            "",
+            "add_portrait;{unit};Left",
+            "add_portrait;Karin;Right",
+            "",
+            "speak;Karin;It's pretty hard to get through the forest with all the poison about.",
+            "speak;Karin;Here, have this. It'll make it easier.",
+            "give_item;{unit};Gas_Mask",
+            "",
+            "    transition;Close",
+            "    remove_portrait;{unit}",
+            "    remove_portrait;Marple",
+            "    change_background",
+            "    transition;Open",
+            "    give_bexp;30;no_banner",
+            "    show_layer;Village1",
+            "    has_traded;{unit}",
+            "    end"
         ],
         "nid": "8 Village1"
     }

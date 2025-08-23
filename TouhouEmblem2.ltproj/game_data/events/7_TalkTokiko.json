@@ -5,10 +5,23 @@
         "level_nid": "7",
         "condition": "unit.nid == 'Reimu' and unit2.nid == 'Tokiko'",
         "commands": [],
-        "only_once": false,
+        "only_once": true,
         "priority": 20,
         "_source": [
-            ""
+            "multi_add_portrait;Reimu;Right;{unit2};Left",
+            "speak;Reimu;Soo...what are you reading?",
+            "speak;Tokiko;Really, that's your best opener?",
+            "speak;Reimu;I barely speak to you. What's your point?",
+            "speak;Tokiko;Whatever. I'm reading some book by this uh...\"Jo-ji Oru-we-ru\"",
+            "speak;Reimu;1984...",
+            "speak;Tokiko;It's a curious book! I don't exactly understand anything...",
+            "speak;Tokiko;But that's fine, it's interesting!",
+            "speak;Reimu;Let me take a look...",
+            "speak;Reimu;Pfeh. Can't understand a lick of this.",
+            "speak;Tokiko;Heheh, you can't get it either?",
+            "speak;Reimu;Reads like nonsense.",
+            "multi_remove_portrait;Reimu;{unit2}",
+            "remove_talk;Reimu;{unit2}"
         ],
         "nid": "7 TalkTokiko"
     }
