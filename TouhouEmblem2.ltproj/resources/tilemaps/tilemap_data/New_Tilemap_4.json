@@ -8549,6 +8549,36 @@
                         ]
                     ]
                 }
+            },
+            {
+                "nid": "Chest1",
+                "visible": false,
+                "foreground": false,
+                "terrain_grid": {},
+                "sprite_grid": {
+                    "1,11": [
+                        "Zoramine Fields",
+                        [
+                            21,
+                            28
+                        ]
+                    ]
+                }
+            },
+            {
+                "nid": "Chest2",
+                "visible": false,
+                "foreground": false,
+                "terrain_grid": {},
+                "sprite_grid": {
+                    "28,21": [
+                        "Zoramine Fields",
+                        [
+                            21,
+                            28
+                        ]
+                    ]
+                }
             }
         ],
         "tilesets": [
