@@ -8,12 +8,11 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "music;In Sorrows Shroud",
             "add_portrait;Kosuzu;FarRight",
             "speak;Kosuzu;But I wanted to...find more books...",
             "expression;Kosuzu;CloseEyes",
-            "remove_portrait;Kosuzu",
-            "resurrect;Kosuzu",
-            "change_party;Kosuzu;Dumpster"
+            "remove_portrait;Kosuzu"
         ],
         "nid": "Global DeathKosuzu"
     }

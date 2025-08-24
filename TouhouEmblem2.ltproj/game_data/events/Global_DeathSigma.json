@@ -1,0 +1,19 @@
+[
+    {
+        "name": "DeathSigma",
+        "trigger": "combat_death",
+        "level_nid": null,
+        "condition": "unit1.nid == 'SigmaRaven'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "music;In Sorrows Shroud",
+            "add_portrait;SigmaRaven;FarRight",
+            "speak;SigmaRaven;I should've...charged...\u2028cash...money...",
+            "expression;SigmaRaven;CloseEyes",
+            "remove_portrait;SigmaRaven"
+        ],
+        "nid": "Global DeathSigma"
+    }
+]

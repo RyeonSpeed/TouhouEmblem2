@@ -8,6 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "music;In Sorrows Shroud",
             "add_portrait;Luna;FarRight",
             "speak;Luna;Oh...fun time's over, I guess.",
             "expression;Luna;CloseEyes",

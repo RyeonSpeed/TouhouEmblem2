@@ -43,7 +43,7 @@
                 "nid": "101",
                 "variant": null,
                 "level": 20,
-                "klass": "Mermaid",
+                "klass": "Lance_Rider",
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -67,7 +67,7 @@
                 "nid": "102",
                 "variant": null,
                 "level": 1,
-                "klass": "Revenant",
+                "klass": "Miko_R",
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -107,8 +107,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    16,
-                    17
+                    19,
+                    12
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -127,64 +127,40 @@
                 "generic": false
             },
             {
-                "nid": "Kaguya",
+                "nid": "Rinnosuke",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    17,
-                    16
+                    20,
+                    11
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
-                "nid": "104",
-                "variant": null,
-                "level": 14,
-                "klass": "Tsukumogami_S",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Tanto",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    19,
-                    15
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "Kagerou_Boss",
+                "nid": "Wriggle_Boss",
                 "team": "enemy",
-                "ai": "None",
+                "ai": "Guard",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    19,
-                    13
+                    17,
+                    11
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
                 "nid": "Suzumi",
-                "team": "player",
-                "ai": "None",
+                "team": "enemy",
+                "ai": "Guard",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    18,
-                    13
+                    19,
+                    11
                 ],
                 "starting_traveler": null,
                 "generic": false

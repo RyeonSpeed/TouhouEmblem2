@@ -71,7 +71,7 @@
             "",
             "",
             "multi_add_portrait;Marisa;FarLeft;Alice;CenterLeft;Alice_Boss_1;Right",
-            "music;Trouble;1",
+            "music;Trouble!;1",
             "expression;Alice_Boss_1;Smile",
             "speak;Alice_Boss_1;Ahahaha, you guys just fell into my trap! I'll have to thank Louise for that later.",
             "speak;Marisa;Trap? I don't think you know how these things work.|This just means we can attack anywhere now.",
@@ -109,7 +109,7 @@
             "multi_remove_portrait;Marisa;Reimu;Alice;Kasen",
             "transition;open",
             "trigger_script;START",
-            "prep;1;Trouble",
+            "prep;1;Trouble!",
             "speak;;This map's clear bonus is 500 Bonus EXP, with a decrease of 100 BExp per turn you take over 15 turns!;;;hint"
         ],
         "nid": "9 Intro"

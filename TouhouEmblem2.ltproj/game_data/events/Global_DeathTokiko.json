@@ -8,6 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "music;In Sorrows Shroud",
             "add_portrait;Tokiko;FarRight",
             "speak;Tokiko;Gah! I was reading that!",
             "expression;Tokiko;CloseEyes",

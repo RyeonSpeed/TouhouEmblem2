@@ -8,6 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "music;In Sorrows Shroud",
             "add_portrait;Star;FarRight",
             "speak;Star;Time to make a break for it! I needed to do other things anyway!",
             "expression;Star;CloseEyes",

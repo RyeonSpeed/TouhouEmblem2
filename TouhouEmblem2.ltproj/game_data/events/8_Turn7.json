@@ -8,10 +8,18 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "add_group;Brigand1;Brigand1;fade;closest",
-            "move_cursor;13,19",
-            "add_group;Rein1;Rein1;fade;closest",
-            "move_cursor;23,25"
+            "center_cursor;11,15;150",
+            "wait;200",
+            "add_group;Brigand1;Brigand1;immediate;closest",
+            "wait;400",
+            "center_cursor;2,2;150",
+            "wait;200",
+            "add_group;Rein1A;Rein1A;immediate;closest",
+            "wait;400",
+            "center_cursor;23,1;150",
+            "wait;200",
+            "add_group;Rein1B;Rein1B;immediate;closest",
+            "wait;500"
         ],
         "nid": "8 Turn7"
     }

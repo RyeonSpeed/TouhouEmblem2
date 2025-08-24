@@ -8,6 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "music;In Sorrows Shroud",
             "add_portrait;Seiran;FarRight",
             "speak;Seiran;*sob* I knew I was way in over my head.",
             "expression;Sunny;CloseEyes",

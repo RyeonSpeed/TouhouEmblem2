@@ -8,6 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "music;In Sorrows Shroud",
             "add_portrait;Ringo;FarRight",
             "speak;Ringo;Yep, I'm out of here. I need some dango.",
             "expression;Ringo;CloseEyes",

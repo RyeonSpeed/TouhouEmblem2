@@ -8,9 +8,10 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "add_group;Rein2;Rein2;fade;closest",
-            "move_cursor;23,1",
-            "wait;750"
+            "center_cursor;23,1;150",
+            "wait;200",
+            "add_group;Rein2;Rein2;immediate;closest",
+            "wait;500"
         ],
         "nid": "8 Turn11"
     }

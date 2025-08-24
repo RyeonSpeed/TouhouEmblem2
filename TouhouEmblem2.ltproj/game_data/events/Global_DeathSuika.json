@@ -8,6 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "music;In Sorrows Shroud",
             "add_portrait;Suika;FarRight",
             "speak;Suika;Aw man...the party ended...so soon...",
             "expression;Suika;CloseEyes",

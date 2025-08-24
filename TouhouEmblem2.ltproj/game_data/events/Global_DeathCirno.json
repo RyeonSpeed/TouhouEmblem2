@@ -8,6 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "music;In Sorrows Shroud",
             "add_portrait;Cirno;FarRight",
             "speak;Cirno;Gahh! I'm not having fun anymore! I'm supposed to be the strongest!",
             "expression;Cirno;CloseEyes",

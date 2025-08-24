@@ -8,6 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "music;In Sorrows Shroud",
             "add_portrait;Wriggle;FarRight",
             "speak;Wriggle;You know, I think the power of insects won't solve this issue.",
             "expression;Wriggle;CloseEyes",

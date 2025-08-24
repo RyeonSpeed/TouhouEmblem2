@@ -8,6 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "music;In Sorrows Shroud",
             "add_portrait;Letty;FarRight",
             "speak;Letty;It's getting way too heated! Not the place for me!",
             "expression;Letty;CloseEyes",

@@ -8,6 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "music;In Sorrows Shroud",
             "add_portrait;Aunn;FarRight",
             "speak;Aunn;I'm sorry, Ms. Reimu...",
             "expression;Aunn;CloseEyes",

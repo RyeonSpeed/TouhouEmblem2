@@ -1,0 +1,19 @@
+[
+    {
+        "name": "DeathKosuzu_1",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "unit1.nid == 'Kosuzu'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "remove_unit;Kosuzu",
+            "sound;Death",
+            "wait;400",
+            "resurrect;Kosuzu",
+            "change_party;Kosuzu;Dumpster"
+        ],
+        "nid": "Global DeathKosuzu_1"
+    }
+]

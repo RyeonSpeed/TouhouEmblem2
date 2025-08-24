@@ -1,0 +1,19 @@
+[
+    {
+        "name": "DeathRemilia_1",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "unit1.nid == 'Remilia'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "remove_unit;Remilia;fade",
+            "sound;Death",
+            "wait;400",
+            "resurrect;Remilia",
+            "change_party;Remilia;Dumpster"
+        ],
+        "nid": "Global DeathRemilia_1"
+    }
+]

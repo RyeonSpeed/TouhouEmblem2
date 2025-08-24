@@ -8,13 +8,11 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "music;In Sorrows Shroud",
             "add_portrait;Rinnosuke;FarRight",
             "speak;Rinnosuke;You know, I'll just leave the fighting to the experts...",
             "expression;Rinnosuke;CloseEyes",
-            "remove_portrait;Rinnosuke",
-            "remove_unit;Rinnosuke",
-            "resurrect;Rinnosuke",
-            "change_party;Rinnosuke;Dumpster"
+            "remove_portrait;Rinnosuke"
         ],
         "nid": "Global DeathRinnosuke"
     }

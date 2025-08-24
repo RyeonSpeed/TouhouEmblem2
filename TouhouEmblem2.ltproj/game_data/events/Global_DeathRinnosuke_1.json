@@ -1,0 +1,19 @@
+[
+    {
+        "name": "DeathRinnosuke_1",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "unit1.nid == 'Rinnosuke'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "remove_unit;Rinnosuke",
+            "sound;Death",
+            "wait;400",
+            "resurrect;Rinnosuke",
+            "change_party;Rinnosuke;Dumpster"
+        ],
+        "nid": "Global DeathRinnosuke_1"
+    }
+]

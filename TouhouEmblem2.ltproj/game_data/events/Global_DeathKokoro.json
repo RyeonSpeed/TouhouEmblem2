@@ -8,6 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "music;In Sorrows Shroud",
             "add_portrait;Kokoro;FarRight",
             "speak;Kokoro;Ah! My masks! My masks are dropping all over the place!",
             "expression;Kokoro;CloseEyes",

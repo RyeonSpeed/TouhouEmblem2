@@ -8,6 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "music;In Sorrows Shroud",
             "add_portrait;Kaguya;FarRight",
             "expression;Kaguya;Smile",
             "speak;Kaguya;Ohohoho, you got me. Good one.",

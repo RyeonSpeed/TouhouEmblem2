@@ -8,11 +8,10 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "add_group;HurryUp;HurryUp;fade;push",
-            "move_cursor;139",
-            "flicker_cursor;139",
-            "move_cursor;140",
-            "flicker_cursor;140"
+            "center_cursor;11,15;150",
+            "wait;200",
+            "add_group;HurryUp;HurryUp;immediate;closest",
+            "wait;500"
         ],
         "nid": "8 Turn20"
     }

@@ -8,6 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "music;In Sorrows Shroud",
             "add_portrait;Tewi;FarRight",
             "speak;Tewi;Rats, didn't think my luck would run out today!",
             "expression;Tewi;CloseEyes",

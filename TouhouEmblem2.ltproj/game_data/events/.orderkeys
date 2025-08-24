@@ -224,8 +224,10 @@
     "Global_DeathCirno",
     "Global_DeathDaiyousei",
     "Global_DeathKasen",
+    "Global_DeathKasen_1",
     "Global_DeathKokoro",
     "Global_DeathKosuzu",
+    "Global_DeathKosuzu_1",
     "Global_DeathLetty",
     "Global_DeathLuna",
     "Global_DeathMarisa",
@@ -234,7 +236,10 @@
     "Global_DeathMystiaEnemy",
     "Global_DeathReimu",
     "Global_DeathRemilia",
+    "Global_DeathRemilia_1",
+    "Global_DeathMusic",
     "Global_DeathRinnosuke",
+    "Global_DeathRinnosuke_1",
     "Global_DeathRumia",
     "Global_DeathRumiaEnemy",
     "Global_DeathStar",
@@ -422,6 +427,7 @@
     "Global_DeathRingo",
     "Global_DeathYoumu",
     "Global_DeathReisen",
+    "Global_DeathSigma",
     "Global_DeathKaguya",
     "Backburner_Door1_1",
     "7_TalkMarisa",
@@ -497,5 +503,6 @@
     "15_Outro",
     "Global_SHITTENFARTEN",
     "12_Chest1",
-    "12_Chest2"
+    "12_Chest2",
+    "12_DefeatKana"
 ]

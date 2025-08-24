@@ -9,7 +9,7 @@
         "priority": 20,
         "_source": [
             "move_cursor;23,25",
-            "add_group;Sakuya;Sakuya;warp",
+            "add_group;Sakuya;Sakuya;immediate",
             "autolevel_to;Sakuya;12;fixed",
             "move_cursor;Sakuya",
             "flicker_cursor;Sakuya",

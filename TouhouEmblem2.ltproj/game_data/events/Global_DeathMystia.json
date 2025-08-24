@@ -8,6 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "music;In Sorrows Shroud",
             "add_portrait;Mystia;FarRight",
             "speak;Mystia;I'd rather not be attacked! Begone! I'm going!",
             "expression;Mystia;CloseEyes",

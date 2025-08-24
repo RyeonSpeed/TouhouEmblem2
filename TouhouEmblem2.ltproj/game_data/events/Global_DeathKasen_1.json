@@ -1,0 +1,19 @@
+[
+    {
+        "name": "DeathKasen_1",
+        "trigger": "unit_wait",
+        "level_nid": null,
+        "condition": "unit1.nid == 'Kasen'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "remove_unit;Kasen",
+            "sound;Death",
+            "wait;400",
+            "resurrect;Kasen",
+            "change_party;Kasen;Dumpster"
+        ],
+        "nid": "Global DeathKasen_1"
+    }
+]

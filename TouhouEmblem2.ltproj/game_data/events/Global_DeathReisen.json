@@ -3,11 +3,12 @@
         "name": "DeathReisen",
         "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit1.nid == 'Reisen",
+        "condition": "unit1.nid == 'Reisen'",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
+            "music;In Sorrows Shroud",
             "add_portrait;Reisen;FarRight",
             "speak;Reisen;This is too much for me to handle. I'm falling back!",
             "expression;Reisen;CloseEyes",

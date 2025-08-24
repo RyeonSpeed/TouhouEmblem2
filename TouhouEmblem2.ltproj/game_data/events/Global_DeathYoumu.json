@@ -8,6 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "music;In Sorrows Shroud",
             "add_portrait;Youmu;FarRight",
             "speak;Youmu;Not enough...forgive me, Lady Yuyuko.",
             "expression;Youmu;CloseEyes",

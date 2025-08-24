@@ -8,6 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "music;In Sorrows Shroud",
             "add_portrait;Rumia;FarRight",
             "speak;Rumia;Time for a...nice...long...nap...",
             "expression;Rumia;CloseEyes",

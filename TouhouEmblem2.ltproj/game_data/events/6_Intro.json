@@ -104,7 +104,6 @@
             "autolevel_to;Mokou;7;fixed",
             "autolevel_to;Tewi;6;fixed",
             "autolevel_to;Reisen;6;fixed",
-            "autolevel_to;SigmaRaven;6;fixed",
             "autolevel_to;Eirin_NPC;39;fixed",
             "prep;1;Spirit of Avarice",
             "move_cursor;Mokou",
@@ -119,9 +118,6 @@
             "move_cursor;Reisen",
             "flicker_cursor;Reisen",
             "change_team;Reisen;player",
-            "move_cursor;SigmaRaven",
-            "flicker_cursor;SigmaRaven",
-            "change_team;SigmaRaven;player",
             "add_lore;Tewi",
             "add_lore;Reisen"
         ],
