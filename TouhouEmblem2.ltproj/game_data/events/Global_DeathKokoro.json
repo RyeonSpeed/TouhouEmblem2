@@ -1,9 +1,9 @@
 [
     {
         "name": "DeathKokoro",
-        "trigger": "unit_death",
+        "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit.nid == 'Kokoro'",
+        "condition": "unit1.nid == 'Kokoro'",
         "commands": [],
         "only_once": false,
         "priority": 20,

@@ -1,9 +1,9 @@
 [
     {
         "name": "DeathMystiaEnemy",
-        "trigger": "unit_death",
+        "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit.nid == 'Mystia' and unit.team == 'Enemy'",
+        "condition": "unit1.nid == 'Mystia_Boss' and unit1.team == 'Enemy'",
         "commands": [],
         "only_once": false,
         "priority": 20,

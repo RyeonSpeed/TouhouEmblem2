@@ -1,9 +1,9 @@
 [
     {
         "name": "DeathSeiran",
-        "trigger": "unit_death",
+        "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit.nid == 'Seiran'",
+        "condition": "unit1.nid == 'Seiran'",
         "commands": [],
         "only_once": false,
         "priority": 20,

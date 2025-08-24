@@ -13,6 +13,7 @@
             "trigger_script;Global Housekeeping2",
             "load_unit;Mima",
             "autolevel_to;Mima;15;fixed",
+            "change_team;Mima;player",
             "autolevel_to;Louise_Boss;14;fixed",
             "",
             "# The actual dialogue starts here",
@@ -190,7 +191,7 @@
             "",
             "add_lore;Mima",
             "add_lore;Miasma",
-            "add_talk;Remilia;Sakuya ",
+            "add_talk;Remilia;Sakuya",
             "trigger_script;START",
             "prep;1;Sealed Gods",
             "speak;;This map's clear bonus is 500 Bonus EXP, with a decrease of 100 BExp per turn you take over 15 turns!;;;hint"

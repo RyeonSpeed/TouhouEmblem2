@@ -1,9 +1,9 @@
 [
     {
         "name": "DeathKaguya",
-        "trigger": "unit_death",
+        "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit.nid == 'Kaguya'",
+        "condition": "unit1.nid == 'Kaguya'",
         "commands": [],
         "only_once": false,
         "priority": 20,

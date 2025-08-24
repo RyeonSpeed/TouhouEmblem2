@@ -1,9 +1,9 @@
 [
     {
         "name": "DeathKasen",
-        "trigger": "unit_death",
+        "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit.nid == 'Kasen'",
+        "condition": "unit1.nid == 'Kasen'",
         "commands": [],
         "only_once": false,
         "priority": 20,
@@ -12,6 +12,7 @@
             "speak;Kasen;I told you to be careful!",
             "expression;Kasen;CloseEyes",
             "remove_portrait;Kasen",
+            "remove_unit;Kasen",
             "resurrect;Kasen",
             "change_party;Kasen;Dumpster"
         ],

@@ -1,9 +1,9 @@
 [
     {
         "name": "DeathMokou",
-        "trigger": "unit_death",
+        "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit.nid == 'Mokou' and not has_skill(unit, 'Immortal_Red_Soul_1')",
+        "condition": "unit1.nid == 'Mokou' and not has_skill(unit1, 'Immortal_Red_Soul_1')",
         "commands": [],
         "only_once": false,
         "priority": 20,

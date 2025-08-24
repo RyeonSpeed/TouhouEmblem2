@@ -1,9 +1,9 @@
 [
     {
         "name": "DeathDaiyousei",
-        "trigger": "unit_death",
+        "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit.nid == 'Daiyousei'",
+        "condition": "unit1.nid == 'Daiyousei'",
         "commands": [],
         "only_once": false,
         "priority": 20,

@@ -1,9 +1,9 @@
 [
     {
         "name": "DeathLuna",
-        "trigger": "unit_death",
+        "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit.nid == 'Luna'",
+        "condition": "unit1.nid == 'Luna'",
         "commands": [],
         "only_once": false,
         "priority": 20,

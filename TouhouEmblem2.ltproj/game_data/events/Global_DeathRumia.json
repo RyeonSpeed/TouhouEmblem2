@@ -1,9 +1,9 @@
 [
     {
         "name": "DeathRumia",
-        "trigger": "unit_death",
+        "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit.nid == 'Rumia' and unit.team == 'Player'",
+        "condition": "unit1.nid == 'Rumia' and unit1.team == 'player'",
         "commands": [],
         "only_once": false,
         "priority": 20,

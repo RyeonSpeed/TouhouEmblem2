@@ -1,9 +1,9 @@
 [
     {
         "name": "DeathReisen",
-        "trigger": "unit_death",
+        "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit.nid == 'Reisen",
+        "condition": "unit1.nid == 'Reisen",
         "commands": [],
         "only_once": false,
         "priority": 20,

@@ -3,9 +3,9 @@
         "name": "RemiliaSakuya",
         "trigger": "on_talk",
         "level_nid": "8",
-        "condition": "unit.nid == 'Remilia' and unit2.nid == 'Sakuya'",
+        "condition": "unit1.nid == 'Remilia' and unit2.nid == 'Sakuya'",
         "commands": [],
-        "only_once": false,
+        "only_once": true,
         "priority": 20,
         "_source": [
             "music;Comrades",

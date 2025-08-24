@@ -3,7 +3,7 @@
         "name": "AliceLeaves",
         "trigger": "turn_change",
         "level_nid": "10",
-        "condition": "game.turncount == 15",
+        "condition": "game.turncount == 15 and game.check_alive(\"Alice_Boss\")",
         "commands": [],
         "only_once": false,
         "priority": 20,

@@ -1,9 +1,9 @@
 [
     {
         "name": "DeathYoumu",
-        "trigger": "unit_death",
+        "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit.nid == 'Youmu'",
+        "condition": "unit1.nid == 'Youmu'",
         "commands": [],
         "only_once": false,
         "priority": 20,

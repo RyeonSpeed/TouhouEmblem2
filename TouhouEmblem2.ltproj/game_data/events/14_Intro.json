@@ -15,6 +15,8 @@
             "trigger_script;START",
             "autolevel_to;Youmu;13",
             "autolevel_to;Yuyuko;18",
+            "change_team;Youmu;player",
+            "change_team;Yuyuko;player",
             "autolevel_to;Shinki_Boss;22",
             "autolevel_to;Mima_Boss;20",
             "autolevel_to;Mai_Boss_1;18",

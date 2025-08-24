@@ -1,9 +1,9 @@
 [
     {
         "name": "DeathSunny",
-        "trigger": "unit_death",
+        "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit.nid == 'Sunny'",
+        "condition": "unit1.nid == 'Sunny'",
         "commands": [],
         "only_once": false,
         "priority": 20,

@@ -155,12 +155,7 @@
         false
     ],
     [
-        "Glitch",
-        false,
-        false
-    ],
-    [
-        "Game Boy Advance Crash Sound",
+        "_Game Boy Advance Crash Sound",
         false,
         false
     ],
@@ -251,6 +246,16 @@
     ],
     [
         "Hiroari",
+        false,
+        false
+    ],
+    [
+        "Trouble!",
+        false,
+        false
+    ],
+    [
+        "_MO-NA-D-1",
         false,
         false
     ]

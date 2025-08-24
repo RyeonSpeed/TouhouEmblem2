@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Turn20",
+        "trigger": "turn_change",
+        "level_nid": "4",
+        "condition": "game.turncount == 20",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Tewi;Left",
+            "speak;Tewi;Tch, these guys are boring. Hey, bunnies! Let's cause some chaos!",
+            "remove_portrait;Tewi",
+            "add_group;GetFucked;GetFucked;warp;closest",
+            "move_cursor;174",
+            "flicker_cursor;174",
+            "move_cursor;175",
+            "flicker_cursor;175",
+            "move_cursor;176",
+            "flicker_cursor;176",
+            "move_cursor;177",
+            "flicker_cursor;177"
+        ],
+        "nid": "4 Turn20"
+    }
+]

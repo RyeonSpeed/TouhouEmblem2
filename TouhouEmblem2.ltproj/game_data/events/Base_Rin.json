@@ -16,7 +16,7 @@
             "speak;Reimu;W-wha-",
             "speak;Rin;6E 6F 74 68 69 6E 67 20 69 73 20 73 61 63 72 65 64 20 6E 6F 74 68 69 6E 67 20 69 73 20 70 65 72 6D 61 6E 65 6E 74 20 6E 6F 74 68 69 6E 67 20 77 69 6C 6C 20 6C 61 73 74 20 66 6F 72 65 76 65 72 20 77 65 20 77 69 6C 6C 20 62 65 20 73 75 63 6B 65 64 20 69 6E 74 6F 20 74 68 65 20 64 61 72 6B 20 65 6E 64 6C 65 73 73 20 76 6F 69 64 20 6F 66 20 70 65 72 70 65 74 75 69 74 79",
             "speak;Reimu;I-I'm sorry? I-",
-            "music;Game Boy Advance Crash Sound",
+            "music;_Game Boy Advance Crash Sound",
             "change_background;bnuy",
             "add_portrait;Rin;Left;ExpressionList=Smile",
             "add_portrait;Reimu;Right",

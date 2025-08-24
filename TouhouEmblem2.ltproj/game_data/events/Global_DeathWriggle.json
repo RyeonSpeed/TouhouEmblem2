@@ -1,9 +1,9 @@
 [
     {
         "name": "DeathWriggle",
-        "trigger": "unit_death",
+        "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit.nid == 'Wriggle' and unit.team == 'Player'",
+        "condition": "unit1.nid == 'Wriggle' and unit1.team == 'player'",
         "commands": [],
         "only_once": false,
         "priority": 20,

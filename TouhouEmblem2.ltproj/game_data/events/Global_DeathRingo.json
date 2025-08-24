@@ -1,9 +1,9 @@
 [
     {
         "name": "DeathRingo",
-        "trigger": "unit_death",
+        "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit.nid == 'Ringo'",
+        "condition": "unit1.nid == 'Ringo'",
         "commands": [],
         "only_once": false,
         "priority": 20,

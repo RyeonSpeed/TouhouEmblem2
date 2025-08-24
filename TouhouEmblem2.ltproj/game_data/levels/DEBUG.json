@@ -33,8 +33,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    14,
-                    18
+                    15,
+                    16
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -107,8 +107,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    21,
-                    19
+                    16,
+                    17
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -120,8 +120,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    22,
-                    19
+                    20,
+                    21
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -142,12 +142,12 @@
             {
                 "nid": "104",
                 "variant": null,
-                "level": 20,
-                "klass": "Skeleton",
+                "level": 14,
+                "klass": "Tsukumogami_S",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Lampad_Charm",
+                        "Tanto",
                         false
                     ]
                 ],
@@ -164,6 +164,19 @@
                 "generic": true
             },
             {
+                "nid": "Kagerou_Boss",
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    19,
+                    13
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
                 "nid": "Suzumi",
                 "team": "player",
                 "ai": "None",
@@ -177,27 +190,27 @@
                 "generic": false
             },
             {
-                "nid": "Sakuya",
+                "nid": "SigmaRaven",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    19,
-                    13
+                    16,
+                    15
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
-                "nid": "Hamee",
+                "nid": "Mystia",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    17,
-                    14
+                    16,
+                    16
                 ],
                 "starting_traveler": null,
                 "generic": false

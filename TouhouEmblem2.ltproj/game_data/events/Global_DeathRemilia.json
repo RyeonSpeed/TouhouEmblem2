@@ -1,9 +1,9 @@
 [
     {
         "name": "DeathRemilia",
-        "trigger": "unit_death",
+        "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit.nid == 'Remilia'",
+        "condition": "unit1.nid == 'Remilia'",
         "commands": [],
         "only_once": false,
         "priority": 20,
@@ -12,6 +12,7 @@
             "speak;Remilia;Hmph! I'm leaving! How dare you leave me to be injured like that!",
             "expression;Remilia;CloseEyes",
             "remove_portrait;Remilia",
+            "remove_unit;Remilia",
             "resurrect;Remilia",
             "change_party;Remilia;Dumpster"
         ],

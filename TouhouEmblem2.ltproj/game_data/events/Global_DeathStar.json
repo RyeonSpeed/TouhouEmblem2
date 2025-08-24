@@ -1,9 +1,9 @@
 [
     {
         "name": "DeathStar",
-        "trigger": "unit_death",
+        "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit.nid == 'Star'",
+        "condition": "unit1.nid == 'Star'",
         "commands": [],
         "only_once": false,
         "priority": 20,
