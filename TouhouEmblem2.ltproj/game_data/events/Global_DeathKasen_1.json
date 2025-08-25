@@ -1,7 +1,7 @@
 [
     {
         "name": "DeathKasen_1",
-        "trigger": "unit_wait",
+        "trigger": "unit_death",
         "level_nid": null,
         "condition": "unit1.nid == 'Kasen'",
         "commands": [],

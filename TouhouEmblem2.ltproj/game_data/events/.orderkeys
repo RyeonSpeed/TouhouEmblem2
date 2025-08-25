@@ -224,7 +224,6 @@
     "Global_DeathCirno",
     "Global_DeathDaiyousei",
     "Global_DeathKasen",
-    "Global_DeathKasen_1",
     "Global_DeathKokoro",
     "Global_DeathKosuzu",
     "Global_DeathKosuzu_1",
@@ -504,5 +503,8 @@
     "Global_SHITTENFARTEN",
     "12_Chest1",
     "12_Chest2",
-    "12_DefeatKana"
+    "12_DefeatKana",
+    "7_TalkAkyuu",
+    "Global_RemoveStudious",
+    "Global_DeathKasen_1"
 ]
