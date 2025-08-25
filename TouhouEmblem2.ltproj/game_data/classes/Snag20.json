@@ -122,10 +122,20 @@
                 0,
                 251
             ],
+            "Martial": [
+                false,
+                0,
+                null
+            ],
             "Default": [
                 false,
                 0,
                 251
+            ],
+            "Knife": [
+                false,
+                0,
+                null
             ]
         },
         "icon_nid": "Generic_Portrait_Citizen",

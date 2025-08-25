@@ -2,7 +2,7 @@
     {
         "nid": "Poisoned",
         "name": "Poison",
-        "desc": "<blue>[Turn End]</blue> Take 3 DMG\n-2 Def/Res. Stacks up to 5 times.",
+        "desc": "<blue>[Turn Start]</blue> Take 3 DMG\n-2 Def/Res. Stacks up to 5 times.",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,

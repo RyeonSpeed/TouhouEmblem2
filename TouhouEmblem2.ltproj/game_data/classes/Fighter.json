@@ -11,7 +11,7 @@
             "Warrior"
         ],
         "tags": [],
-        "max_level": 20,
+        "max_level": 40,
         "bases": {
             "HP": 22,
             "STR": 7,

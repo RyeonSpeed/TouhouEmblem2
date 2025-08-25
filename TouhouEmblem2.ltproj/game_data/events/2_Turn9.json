@@ -14,6 +14,7 @@
             "flicker_cursor;Mokou_NPC",
             "add_portrait;Mokou;Left",
             "speak;Mokou;Alright! Who the hell is making this much noise at this time?! If this is another one of|Kaguya's schemes, I'm gonna burn you all to a crisp!",
+            "autolevel_to;Mokou_NPC;7",
             "remove_portrait;Mokou",
             "level_var;MokouOut;1",
             "end"

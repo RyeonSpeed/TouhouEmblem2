@@ -13,7 +13,7 @@
             "Mounted",
             "Beast"
         ],
-        "max_level": 20,
+        "max_level": 40,
         "bases": {
             "HP": 20,
             "STR": 7,
@@ -130,6 +130,11 @@
                 false,
                 0,
                 251
+            ],
+            "Knife": [
+                false,
+                0,
+                null
             ],
             "Monster": [
                 false,

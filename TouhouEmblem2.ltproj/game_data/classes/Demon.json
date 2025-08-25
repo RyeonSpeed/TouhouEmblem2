@@ -13,7 +13,7 @@
             "Flying",
             "Monster"
         ],
-        "max_level": 20,
+        "max_level": 40,
         "bases": {
             "HP": 21,
             "STR": 7,
@@ -127,6 +127,11 @@
                 null
             ],
             "Default": [
+                false,
+                0,
+                null
+            ],
+            "Knife": [
                 false,
                 0,
                 null

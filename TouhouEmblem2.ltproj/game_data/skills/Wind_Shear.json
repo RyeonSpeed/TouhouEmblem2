@@ -2,7 +2,7 @@
     {
         "nid": "Wind_Shear",
         "name": "Wind Shear",
-        "desc": "<blue>[Turn End]</blue> Take 3 DMG.\n-10 Hit. Stacks up to 3 times. Lasts 3 turns.",
+        "desc": "<blue>[Turn Start]</blue> Take 3 DMG.\n-10 Hit. Stacks up to 3 times. Lasts 3 turns.",
         "icon_nid": "NewIcon3",
         "icon_index": [
             0,

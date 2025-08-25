@@ -122,17 +122,22 @@
                 0,
                 251
             ],
+            "Martial": [
+                false,
+                0,
+                null
+            ],
             "Default": [
                 false,
                 0,
                 251
             ],
-            "Monster": [
+            "Knife": [
                 false,
                 0,
                 null
             ],
-            "Martial": [
+            "Monster": [
                 false,
                 0,
                 null

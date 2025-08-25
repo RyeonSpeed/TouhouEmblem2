@@ -33,8 +33,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    15,
-                    16
+                    18,
+                    15
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -159,7 +159,7 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    16,
+                    17,
                     15
                 ],
                 "starting_traveler": null,
@@ -199,11 +199,15 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Elfire",
+                        "Full_Power",
                         false
                     ],
                     [
-                        "Fire",
+                        "Full_Power",
+                        false
+                    ],
+                    [
+                        "Full_Power",
                         false
                     ]
                 ],
@@ -213,8 +217,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    17,
-                    9
+                    18,
+                    13
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -242,6 +246,19 @@
                 ],
                 "starting_traveler": null,
                 "generic": true
+            },
+            {
+                "nid": "Yae",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    20,
+                    14
+                ],
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [
@@ -283,6 +300,11 @@
             }
         ],
         "unit_groups": [],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

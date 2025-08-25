@@ -10,7 +10,7 @@
             "Kannushi"
         ],
         "tags": [],
-        "max_level": 20,
+        "max_level": 40,
         "bases": {
             "HP": 16,
             "STR": 4,
@@ -122,6 +122,11 @@
                 false,
                 0,
                 251
+            ],
+            "Knife": [
+                false,
+                0,
+                null
             ]
         },
         "icon_nid": "Generic_Portrait_Citizen",

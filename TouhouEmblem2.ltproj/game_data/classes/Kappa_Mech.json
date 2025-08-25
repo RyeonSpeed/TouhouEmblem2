@@ -12,7 +12,7 @@
         "tags": [
             "Armor"
         ],
-        "max_level": 20,
+        "max_level": 40,
         "bases": {
             "HP": 17,
             "STR": 7,
