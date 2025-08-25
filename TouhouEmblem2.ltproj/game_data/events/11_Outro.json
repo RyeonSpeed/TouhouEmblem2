@@ -9,7 +9,7 @@
         "priority": 20,
         "_source": [
             "if;game.turncount <= 15",
-            "give_bexp;500",
+            "give_bexp;1000",
             "speak;;You completed the map in 15 or less turns! You got the full reward!;;;hint",
             "elif;game.turncount > 15",
             "speak;;Lmao skill issue;;;hint",
