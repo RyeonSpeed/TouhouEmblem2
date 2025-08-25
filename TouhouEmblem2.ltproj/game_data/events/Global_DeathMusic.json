@@ -3,7 +3,7 @@
         "name": "DeathMusic",
         "trigger": "unit_death",
         "level_nid": null,
-        "condition": "True",
+        "condition": "unit1.team == 'player'",
         "commands": [],
         "only_once": false,
         "priority": 20,

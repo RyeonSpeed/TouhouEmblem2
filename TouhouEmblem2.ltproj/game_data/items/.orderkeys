@@ -349,8 +349,8 @@
     "SoulChargeAbility1",
     "Drink",
     "Fatigue",
-    "Studious",
-    "RemoveStudious",
+    "Study",
+    "Stop_Studying",
     "gem_gem",
     "Sear"
 ]

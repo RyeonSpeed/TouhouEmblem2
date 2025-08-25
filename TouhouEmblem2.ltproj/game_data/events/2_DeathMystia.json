@@ -10,7 +10,7 @@
         "_source": [
             "hide_combat_ui",
             "add_portrait;Mystia;Left",
-            "speak;Mystia;Ah, I knew I should've brought a weapon.",
+            "speak;Mystia;I knew I should've brought a weapon!",
             "expression;Mystia;CloseEyes",
             "remove_portrait;Mystia",
             "show_combat_ui"

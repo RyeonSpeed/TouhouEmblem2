@@ -1,0 +1,34 @@
+[
+    {
+        "nid": "Study",
+        "name": "Study",
+        "desc": "",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "target_unit",
+                null
+            ],
+            [
+                "min_range",
+                0
+            ],
+            [
+                "max_range",
+                0
+            ],
+            [
+                "event_after_combat_even_miss",
+                "Global ToggleStudious"
+            ],
+            [
+                "map_hit_sfx",
+                "PencilWrite"
+            ]
+        ]
+    }
+]

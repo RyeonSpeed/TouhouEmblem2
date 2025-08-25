@@ -153,19 +153,6 @@
                 "generic": false
             },
             {
-                "nid": "Suzumi",
-                "team": "enemy",
-                "ai": "Guard",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    19,
-                    11
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
                 "nid": "SigmaRaven",
                 "team": "player",
                 "ai": "None",
@@ -192,7 +179,7 @@
                 "generic": false
             },
             {
-                "nid": "Suika",
+                "nid": "Akyuu",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -214,16 +201,20 @@
                     [
                         "Elfire",
                         false
+                    ],
+                    [
+                        "Fire",
+                        false
                     ]
                 ],
                 "starting_skills": [],
-                "team": "enemy",
+                "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    21,
-                    16
+                    17,
+                    9
                 ],
                 "starting_traveler": null,
                 "generic": true

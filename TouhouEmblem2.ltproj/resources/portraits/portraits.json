@@ -324,18 +324,6 @@
         "info_offset": 0
     },
     {
-        "nid": "Kosuzu",
-        "blinking_offset": [
-            32,
-            32
-        ],
-        "smiling_offset": [
-            32,
-            48
-        ],
-        "info_offset": 0
-    },
-    {
         "nid": "Miyoi",
         "blinking_offset": [
             32,
@@ -2000,6 +1988,18 @@
         "smiling_offset": [
             32,
             56
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Kosuzu",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
         ],
         "info_offset": 0
     }

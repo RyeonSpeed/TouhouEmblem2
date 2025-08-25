@@ -1074,5 +1074,13 @@
     [
         "Switch",
         null
+    ],
+    [
+        "CloseBook",
+        null
+    ],
+    [
+        "PencilWrite",
+        null
     ]
 ]
