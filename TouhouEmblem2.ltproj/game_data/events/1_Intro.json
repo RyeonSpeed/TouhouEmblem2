@@ -89,7 +89,19 @@
             "remove_portrait;Keine",
             "level_var;KagerouSpellMusic;0",
             "level_var;SekibankiSpellMusic;0",
-            "speak;;From here on out, every map will feature a clear bonus if you finish the map within a certain|number of turns. This map's clear bonus is 300 Bonus EXP, with a decrease of 15 BExp|per turn you take over 15 turns!;;;hint"
+            "speak;;From here on out, every map will feature a clear bonus if you finish the map within a certain|number of turns. This map's clear bonus is 300 Bonus EXP, with a decrease of 15 BExp|per turn you take over 15 turns!;;;hint",
+            "change_team;Akyuu;player",
+            "add_group;Akyuu;Akyuu;fade;closest",
+            "move_cursor;Reimu",
+            "move_unit;Akyuu;3,19;normal",
+            "add_portrait;Akyuu;Left",
+            "add_portrait;Reimu;Right",
+            "speak;Reimu;What the heck are you doing outside the village?",
+            "speak;Akyuu;Fighting isn't really my forte...but I wanted to give it a shot at least once.",
+            "speak;Reimu;Tch. Leave the fighting up to the experts.",
+            "speak;Akyuu;You're allowing Kosuzu and that shopkeeper to travel with you. Why not me?",
+            "speak;Reimu;Fine. But don't cause me any trouble!",
+            "multi_remove_portrait;Reimu;Akyuu"
         ],
         "nid": "1 Intro"
     }

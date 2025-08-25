@@ -1154,6 +1154,16 @@
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": true
+            },
+            {
+                "nid": "Akyuu",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [
@@ -1482,6 +1492,18 @@
                     "142": [
                         24,
                         11
+                    ]
+                }
+            },
+            {
+                "nid": "Akyuu",
+                "units": [
+                    "Akyuu"
+                ],
+                "positions": {
+                    "Akyuu": [
+                        3,
+                        24
                     ]
                 }
             }

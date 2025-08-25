@@ -52,7 +52,20 @@
                 false
             ]
         ],
-        "learned_skills": [],
+        "learned_skills": [
+            [
+                1,
+                "Extreme_Edge"
+            ],
+            [
+                1,
+                "Rushdown"
+            ],
+            [
+                1,
+                "Gale_Sweep"
+            ]
+        ],
         "unit_notes": [],
         "wexp_gain": {
             "Sword": [

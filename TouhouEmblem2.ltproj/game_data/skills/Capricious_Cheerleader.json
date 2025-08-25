@@ -2,7 +2,7 @@
     {
         "nid": "Capricious_Cheerleader",
         "name": "Capricious Cheerleader",
-        "desc": " <blue>[On Use]</blue> When >50% HP, \"Rally\" adjacent units, \ngiving +2 STR/MAG/SKL/SPD/DEF/RES for one turn. ",
+        "desc": " <blue>[On Use]</blue> When >50% HP, \"Rally\" adjacent units, \ngiving +2 STR/MAG/SKL/SPD/DEF/RES for one turn. \nUsable 2 times per map.",
         "icon_nid": "skillicons102724(2)",
         "icon_index": [
             0,
@@ -20,6 +20,10 @@
             [
                 "ability",
                 "Rally"
+            ],
+            [
+                "drain_charge",
+                2
             ]
         ]
     }

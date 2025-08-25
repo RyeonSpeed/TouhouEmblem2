@@ -1,0 +1,63 @@
+[
+    {
+        "nid": "Studious",
+        "name": "Studious",
+        "desc": "Halved Exp gain, +15% to all growths.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            0,
+            4
+        ],
+        "components": [
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "exp_multiplier",
+                0.5
+            ],
+            [
+                "growth_change",
+                [
+                    [
+                        "HP",
+                        15
+                    ],
+                    [
+                        "STR",
+                        15
+                    ],
+                    [
+                        "MAG",
+                        15
+                    ],
+                    [
+                        "SKL",
+                        15
+                    ],
+                    [
+                        "SPD",
+                        15
+                    ],
+                    [
+                        "LCK",
+                        15
+                    ],
+                    [
+                        "RES",
+                        15
+                    ],
+                    [
+                        "DEF",
+                        15
+                    ]
+                ]
+            ],
+            [
+                "ability",
+                "RemoveStudious"
+            ]
+        ]
+    }
+]

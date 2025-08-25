@@ -59,6 +59,10 @@
             [
                 "Life_Gem",
                 false
+            ],
+            [
+                "Sake_Gourd",
+                false
             ]
         ],
         "learned_skills": [

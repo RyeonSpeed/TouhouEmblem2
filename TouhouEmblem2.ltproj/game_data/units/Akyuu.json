@@ -8,28 +8,28 @@
         "klass": "Lodestar_B",
         "tags": [],
         "bases": {
-            "HP": 16,
-            "STR": 4,
-            "MAG": 2,
-            "SKL": 8,
-            "SPD": 9,
-            "LCK": 0,
-            "DEF": 3,
+            "HP": 0,
+            "STR": 0,
+            "MAG": 0,
+            "SKL": 0,
+            "SPD": 1,
+            "LCK": 10,
+            "DEF": 0,
             "RES": 0,
-            "CON": 5,
-            "MOV": 5
+            "CON": -2,
+            "MOV": 0
         },
         "growths": {
-            "HP": 90,
-            "STR": 45,
-            "MAG": 22,
-            "SKL": 40,
-            "SPD": 45,
-            "LCK": 40,
-            "DEF": 15,
-            "RES": 20,
-            "CON": 0,
-            "MOV": 0
+            "HP": -20,
+            "STR": 0,
+            "MAG": 0,
+            "SKL": 0,
+            "SPD": 0,
+            "LCK": 0,
+            "DEF": -15,
+            "RES": 0,
+            "CON": 10,
+            "MOV": 10
         },
         "stat_cap_modifiers": {
             "STR": 0,
@@ -43,13 +43,57 @@
             "RES": 0,
             "DEF": 0
         },
-        "starting_items": [],
-        "learned_skills": [],
+        "starting_items": [
+            [
+                "Iron_Bow",
+                false
+            ],
+            [
+                "Slim_Bow",
+                false
+            ],
+            [
+                "Life_Gem",
+                false
+            ],
+            [
+                "Miracle_Charm",
+                false
+            ]
+        ],
+        "learned_skills": [
+            [
+                1,
+                "Photographic_Memory"
+            ],
+            [
+                1,
+                "Literature_Review"
+            ],
+            [
+                1,
+                "Moonbow"
+            ],
+            [
+                1,
+                "Bleeding_Shot"
+            ],
+            [
+                1,
+                "Perfect_Shot"
+            ]
+        ],
         "unit_notes": [],
-        "wexp_gain": {},
+        "wexp_gain": {
+            "Bow": [
+                false,
+                1,
+                null
+            ]
+        },
         "alternate_classes": [],
         "portrait_nid": "akyuu",
-        "affinity": "None",
+        "affinity": "Anima",
         "fields": []
     }
 ]

@@ -40,6 +40,10 @@
             [
                 "ally_blast_aoe_except_unit",
                 "ONE"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

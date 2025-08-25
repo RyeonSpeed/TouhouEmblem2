@@ -2,7 +2,7 @@
     {
         "nid": "Everwinter_Snowstorm",
         "name": "Everwinter Snowstorm",
-        "desc": "Enemies within 2 tiles: -2 MOV/-15 AVOID. ",
+        "desc": "Enemies within 2 tiles: -10 AVOID.",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,

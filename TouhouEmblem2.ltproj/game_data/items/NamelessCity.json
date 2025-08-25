@@ -28,6 +28,10 @@
             [
                 "map_hit_sfx",
                 "Gespenst1"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

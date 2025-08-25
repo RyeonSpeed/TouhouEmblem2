@@ -703,6 +703,16 @@
                 "starting_position": null,
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "Akyuu",
+                "team": "other",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [
@@ -995,6 +1005,18 @@
                     "Kasen": [
                         3,
                         3
+                    ]
+                }
+            },
+            {
+                "nid": "Akyuu",
+                "units": [
+                    "Akyuu"
+                ],
+                "positions": {
+                    "Akyuu": [
+                        1,
+                        5
                     ]
                 }
             }

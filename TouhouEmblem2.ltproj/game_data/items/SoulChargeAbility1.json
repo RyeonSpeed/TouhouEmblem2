@@ -19,7 +19,7 @@
             ],
             [
                 "max_range",
-                10
+                5
             ],
             [
                 "event_after_combat_even_miss",

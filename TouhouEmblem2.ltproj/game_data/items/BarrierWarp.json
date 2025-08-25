@@ -36,6 +36,10 @@
             [
                 "map_hit_sfx",
                 "HealInit"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

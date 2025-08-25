@@ -32,6 +32,10 @@
             [
                 "map_hit_sfx",
                 "Aura2"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

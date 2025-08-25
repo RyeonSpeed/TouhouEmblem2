@@ -15,7 +15,7 @@
             "add_talk;Reimu;Miyoi",
             "add_talk;Reimu;Kogasa",
             "trigger_script;Global Housekeeping1",
-            "for;SHITASS;[x for x in ['Wriggle', 'Mystia', 'Cirno', 'Rumia', 'Daiyousei', 'SigmaRaven', 'Tewi', 'Reisen', 'Aunn', 'Merlin', 'Lunasa', 'Lyrica', 'Youmu', 'Yuyuko', 'Star', 'Sunny', 'Luna', 'Koakuma', 'Sakuya', 'Kaguya', 'Mokou', 'Kyouko', 'Narumi'] if u(x) and u(x).team == 'player' and u(x).party == 'Reimu' and game.check_alive(x)]",
+            "for;SHITASS;[x for x in ['Wriggle', 'Mystia', 'Cirno', 'Rumia', 'Daiyousei', 'SigmaRaven', 'Tewi', 'Reisen', 'Aunn', 'Merlin', 'Lunasa', 'Lyrica', 'Youmu', 'Yuyuko', 'Star', 'Sunny', 'Luna', 'Koakuma', 'Sakuya', 'Kaguya', 'Mokou', 'Kyouko', 'Narumi', 'Akyuu'] if u(x) and u(x).team == 'player' and u(x).party == 'Reimu' and game.check_alive(x)]",
             "    add_group;{SHITASS};{SHITASS};fade;closest",
             "endf",
             "for;Important;[x for x in ['Kasen', 'Alice', 'Mima', 'Remilia'] if u(x) and u(x).team == 'player' and game.check_alive(x)]",

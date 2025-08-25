@@ -1,7 +1,7 @@
 [
     {
-        "nid": "Hard_Worker",
-        "name": "Hard Worker",
+        "nid": "Photographic_Memory",
+        "name": "Photographic Memory",
         "desc": "<blue>[On Kill]</blue> +3-5% to all growths. Growth boosts reset on level up.",
         "icon_nid": "skillicons3",
         "icon_index": [
@@ -49,10 +49,6 @@
             [
                 "event_after_combat",
                 "Global Marisa_Kill"
-            ],
-            [
-                "sight_range_bonus",
-                3
             ],
             [
                 "ability_indicator",

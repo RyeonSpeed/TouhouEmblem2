@@ -2,7 +2,7 @@
     {
         "nid": "Tindalos",
         "name": "Tindalos",
-        "desc": "Prf Kosuzu. Blasts targets in a 2 tile radius and has a 50% chance to inflict Bleeding on them. 3 turn cooldown.",
+        "desc": "Prf Kosuzu. Brave. Cooldown for 3 turns.",
         "icon_nid": "the2icons",
         "icon_index": [
             4,
@@ -33,7 +33,7 @@
             ],
             [
                 "damage",
-                10
+                7
             ],
             [
                 "hit",
@@ -60,10 +60,6 @@
                 null
             ],
             [
-                "status_on_equip",
-                "TindalosEffect"
-            ],
-            [
                 "level_exp",
                 null
             ],
@@ -78,14 +74,6 @@
             [
                 "cooldown",
                 3
-            ],
-            [
-                "enemy_blast_aoe",
-                2
-            ],
-            [
-                "cannot_be_countered",
-                null
             ],
             [
                 "battle_cast_anim",

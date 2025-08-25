@@ -2,7 +2,7 @@
     {
         "nid": "Super_Luck",
         "name": "Super Luck",
-        "desc": "Per 1 LCK, +1 CRIT.\nCannot receive criticals.",
+        "desc": "Per 2 LCK, +1 CRIT.\nCannot receive criticals.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             4,
@@ -15,7 +15,7 @@
             ],
             [
                 "eval_crit",
-                "unit.get_stat('LCK')"
+                "unit.get_stat('LCK') * 0.5"
             ],
             [
                 "ability_indicator",

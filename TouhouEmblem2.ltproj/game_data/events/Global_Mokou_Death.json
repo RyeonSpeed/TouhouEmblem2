@@ -8,7 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "if;game.check_dead('Mokou') == 1",
+            "if;game.check_dead('Mokou') == 1 and {v:MokouRevives} != 1",
             "add_portrait;Mokou_NPC;FarLeft",
             "speak;Mokou_NPC;RISE, IMMORTAL PHOENIX!",
             "center_cursor;{v:UnitPosition};immediate",
@@ -22,6 +22,9 @@
             "sound;FireHit",
             "add_fatigue;Mokou;20",
             "wait;700",
+            "level_var;MokouRevives;1",
+            "elif;game.check_dead('Mokou') == 1 and {v:MokouRevives} == 1",
+            "resurrect;Mokou",
             "end"
         ],
         "nid": "Global Mokou_Death"

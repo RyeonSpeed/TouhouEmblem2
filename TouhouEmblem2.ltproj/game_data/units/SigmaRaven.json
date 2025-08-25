@@ -6,7 +6,9 @@
         "variant": "Sigma",
         "level": 1,
         "klass": "Archer",
-        "tags": [],
+        "tags": [
+            "Unimportant"
+        ],
         "bases": {
             "HP": 4,
             "STR": 1,

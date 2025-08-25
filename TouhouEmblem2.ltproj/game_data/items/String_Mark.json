@@ -32,6 +32,10 @@
             [
                 "map_hit_sfx",
                 "Curse"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

@@ -33,7 +33,9 @@
             "set_wexp;Yuna;Bow;181",
             "autolevel_to;Miu;15;fixed",
             "set_wexp;Miu;Sword;181",
-            "autolevel_to;Hamee;40"
+            "autolevel_to;Hamee;40",
+            "autolevel_to;Suika;15;fixed",
+            ""
         ],
         "nid": "DEBUG New Event"
     }

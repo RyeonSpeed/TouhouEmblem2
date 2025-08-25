@@ -187,6 +187,7 @@
             "speak;Marisa;In broad daylight?",
             "speak;Rumia;Sh-shut it!",
             "autolevel_to;Rumia_Boss;5;fixed",
+            "trigger_script;Marisa_Growths",
             ""
         ],
         "nid": "0 Intro"

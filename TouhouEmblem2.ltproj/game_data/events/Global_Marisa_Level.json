@@ -3,7 +3,7 @@
         "name": "Marisa_Level",
         "trigger": "unit_level_up",
         "level_nid": null,
-        "condition": "has_skill(unit, 'Hard_Worker')",
+        "condition": "has_skill(unit, 'Photographic_Memory')",
         "commands": [],
         "only_once": false,
         "priority": 20,

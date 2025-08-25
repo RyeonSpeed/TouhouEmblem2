@@ -25,7 +25,7 @@
             "MAG": -5,
             "SKL": 0,
             "SPD": 10,
-            "LCK": 160,
+            "LCK": 70,
             "DEF": 0,
             "RES": 15,
             "CON": 0,
@@ -33,8 +33,8 @@
         },
         "stat_cap_modifiers": {
             "HP": 0,
-            "STR": -9,
-            "MAG": -9,
+            "STR": 0,
+            "MAG": 0,
             "SKL": 0,
             "SPD": 0,
             "LCK": 40,
@@ -61,10 +61,6 @@
             [
                 1,
                 "Super_Luck"
-            ],
-            [
-                1,
-                "Great_Fortune"
             ]
         ],
         "unit_notes": [],

@@ -2,7 +2,7 @@
     {
         "nid": "Nameless_City",
         "name": "Nameless City",
-        "desc": "Prf Kosuzu. Allows her to temporarily prevent herself from taking damage for a turn. 3 turn cooldown on damage prevention skill.",
+        "desc": "Prf Kosuzu. Allows her to temporarily prevent herself from taking damage for a turn. Cooldown for 3 turns.",
         "icon_nid": "the2icons",
         "icon_index": [
             4,

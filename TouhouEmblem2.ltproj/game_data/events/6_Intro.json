@@ -94,7 +94,7 @@
             "add_lore;Fatigue",
             "trigger_script;6 Fatigue Disappear",
             "add_base_convo;Fatigue",
-            "if;game.get_unit('Kosuzu').party == 'Reimu'",
+            "if;game.check_alive(\"Kosuzu\") and game.get_unit('Kosuzu').party == 'Reimu' ",
             "    trigger_script;6 KosuzuScroll",
             "else",
             "end",

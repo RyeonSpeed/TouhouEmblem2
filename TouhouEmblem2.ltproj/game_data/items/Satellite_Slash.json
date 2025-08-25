@@ -32,6 +32,10 @@
             [
                 "event_on_hit",
                 "Global YoumuDurability"
+            ],
+            [
+                "fatigue",
+                1
             ]
         ]
     }

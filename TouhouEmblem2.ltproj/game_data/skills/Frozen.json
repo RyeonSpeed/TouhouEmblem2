@@ -10,15 +10,6 @@
         ],
         "components": [
             [
-                "stat_change",
-                [
-                    [
-                        "MOV",
-                        -2
-                    ]
-                ]
-            ],
-            [
                 "unit_flickering_tint",
                 [
                     85,
@@ -32,7 +23,7 @@
             ],
             [
                 "avoid",
-                -15
+                -10
             ],
             [
                 "condition",

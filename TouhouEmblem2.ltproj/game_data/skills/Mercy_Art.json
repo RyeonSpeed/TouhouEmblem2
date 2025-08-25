@@ -2,7 +2,7 @@
     {
         "nid": "Mercy_Art",
         "name": "Mercy",
-        "desc": "<blue>[Combat Start]</blue> Cannot Double/Crit. ",
+        "desc": "<blue>[Combat Start]</blue> Leaves enemies at 1 HP.",
         "icon_nid": "skillicons4",
         "icon_index": [
             0,

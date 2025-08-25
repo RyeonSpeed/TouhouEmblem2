@@ -125,6 +125,11 @@
                 2,
                 251
             ],
+            "Knife": [
+                false,
+                0,
+                null
+            ],
             "Monster": [
                 false,
                 0,

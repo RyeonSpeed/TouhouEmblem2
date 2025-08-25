@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "SakeGourd",
+        "name": "SakeGourd",
+        "desc": "",
+        "icon_nid": "skillicons102724(2)",
+        "icon_index": [
+            2,
+            2
+        ],
+        "components": [
+            [
+                "ability",
+                "Drink"
+            ],
+            [
+                "hidden",
+                null
+            ],
+            [
+                "condition",
+                "len([x for x in unit.skills if x.nid == 'DrunkenFlailing']) < 5"
+            ]
+        ]
+    }
+]
