@@ -24,7 +24,7 @@
             "for;Shop;[x for x in ['Rinnosuke', 'Miyoi', 'Kosuzu'] if u(x) and  game.check_alive(x)]",
             "    add_group;{Shop};{Shop};immediate",
             "endf",
-            "game_var;hireable_guys;v('hireable_guys') + ['Kairi','Jingyi']",
+            "game_var;hireable_guys;v('hireable_guys') + ['Kairi','Xinyi']",
             "game_var;ARMORY_ENTRY;['Iron_Sword', 'Iron_Axe', 'Iron_Lance', 'Iron_Bow', 'Ofuda', 'Heal', 'Slim_Sword', 'Slim_Lance', 'Slim_Axe', 'Slim_Bow', 'Flamberge', 'Flame_Lance', 'Flame_Axe', 'Steel_Sword', 'Steel_Axe', 'Steel_Lance', 'Steel_Bow', 'Javelin', 'Hand_Axe', 'Omikuji', 'Mend', 'Restore']",
             "game_var;SHOP_ENTRY;['Fire',  'Flux', 'Life_Gem', 'Poppet', 'Maple_Shield', 'Lucky_Clover', 'Lantern', 'Miracle_Charm', 'Torch', 'Gust', 'Thunder', 'Slime', 'Yomi', 'Misfortune_Amulet', 'Forged_Shield', 'Eye_of_Senri', 'Gas_Mask', 'Fatigue_Balm_I', 'Fatigue_Balm_II', 'Field_Rations', 'Oni_Charm', 'Enchanted_Arrows', 'Vampire_Charm', 'VoodooCharm', 'Lampad_Charm']"
         ],
