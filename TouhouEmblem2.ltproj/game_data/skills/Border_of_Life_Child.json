@@ -1,7 +1,7 @@
 [
     {
-        "nid": "Lethal_Life_Flow1",
-        "name": "Lethal Life Flow",
+        "nid": "Border_of_Life_Child",
+        "name": "Border of Life Child",
         "desc": "<blue>[On Use]</blue> Kill a non-boss enemy.",
         "icon_nid": "skillicons102524(1)",
         "icon_index": [
@@ -15,11 +15,15 @@
             ],
             [
                 "combat_condition",
-                "\"Boss\" in unit2.tags"
+                "\"Boss\" not in unit2.tags"
             ],
             [
                 "hit",
-                100
+                1000
+            ],
+            [
+                "item_override",
+                "SoulChargeAbility2"
             ]
         ]
     }

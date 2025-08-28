@@ -29,6 +29,12 @@
                         4
                     ]
                 ]
+            ],
+            [
+                "multi_skill",
+                [
+                    "Mask_Calm_Removal"
+                ]
             ]
         ]
     }

@@ -370,7 +370,6 @@
     "9_DefeatBoss",
     "8_DeathLouise",
     "8_DeathLouise_1",
-    "Global_MaskReset",
     "Global_Refresh",
     "1_SpellMusic",
     "3_SpellMusic",
@@ -501,5 +500,6 @@
     "12_DefeatKana",
     "7_TalkAkyuu",
     "Global_ToggleStudious",
-    "Global_DeathKasen_1"
+    "Global_DeathKasen_1",
+    "Global_LLF"
 ]

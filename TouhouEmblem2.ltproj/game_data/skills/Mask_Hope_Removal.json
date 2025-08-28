@@ -1,6 +1,6 @@
 [
     {
-        "nid": "Mask_Hope",
+        "nid": "Mask_Hope_Removal",
         "name": "1000 Masks: Hope",
         "desc": "All attacks are Brave. Cannot Double.\nMasks shift at Turn Start.",
         "icon_nid": "skillicons3",
@@ -10,22 +10,16 @@
         ],
         "components": [
             [
-                "all_brave",
-                null
+                "event_on_upkeep",
+                "Global Mask_Hope"
             ],
             [
-                "cannot_double",
-                null
+                "condition",
+                "game.turncount > 1 or 'Intermission' not in level.tags"
             ],
             [
-                "ability_indicator",
+                "hidden",
                 null
-            ],
-            [
-                "multi_skill",
-                [
-                    "Mask_Hope_Removal"
-                ]
             ]
         ]
     }

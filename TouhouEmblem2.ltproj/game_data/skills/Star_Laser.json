@@ -2,7 +2,7 @@
     {
         "nid": "Star_Laser",
         "name": "Star Laser",
-        "desc": "<blue>[Combat Start]</blue> Strikethrough 3. Cannot Double.",
+        "desc": "<blue>[Combat Start]</blue> <violet>Strikethrough</> <violet>3</>. Cannot Double.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             2,

@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Mask_Anger_Removal",
+        "name": "1000 Masks: Anger",
+        "desc": "+3 DMG, -3 DMG taken, -15 AVOID, Cannot Double. -50% DMG taken from follow-up attacks. \nMasks shift at Turn Start.",
+        "icon_nid": "skillicons4",
+        "icon_index": [
+            0,
+            4
+        ],
+        "components": [
+            [
+                "event_on_upkeep",
+                "Global Mask_Anger"
+            ],
+            [
+                "condition",
+                "game.turncount > 1 or 'Intermission' not in level.tags"
+            ],
+            [
+                "hidden",
+                null
+            ]
+        ]
+    }
+]

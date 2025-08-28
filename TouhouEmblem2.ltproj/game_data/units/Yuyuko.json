@@ -11,10 +11,10 @@
             "HP": 5,
             "STR": 0,
             "MAG": 1,
-            "SKL": 1,
-            "SPD": 0,
+            "SKL": 5,
+            "SPD": 1,
             "LCK": 4,
-            "DEF": 0,
+            "DEF": 1,
             "RES": 4,
             "CON": 2,
             "MOV": 0
@@ -23,9 +23,9 @@
             "HP": 15,
             "STR": 0,
             "MAG": 5,
-            "SKL": 0,
+            "SKL": 15,
             "SPD": 0,
-            "LCK": -16,
+            "LCK": 0,
             "DEF": 0,
             "RES": 5,
             "CON": 10,
@@ -49,7 +49,7 @@
                 false
             ],
             [
-                "Slime",
+                "Yomi",
                 false
             ],
             [
@@ -65,6 +65,10 @@
             [
                 1,
                 "Eldritch_Blast"
+            ],
+            [
+                1,
+                "Border_of_Life"
             ]
         ],
         "unit_notes": [],

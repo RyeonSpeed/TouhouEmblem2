@@ -1,15 +1,15 @@
 [
     {
         "name": "Mask_Happy",
-        "trigger": "turn_change",
+        "trigger": null,
         "level_nid": null,
-        "condition": "game.turncount % 6 == 3 and game.check_alive('Kokoro')",
+        "condition": "False",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
-            "remove_skill;Kokoro;Mask_Happy;;no_banner",
-            "give_skill;Kokoro;Mask_Anger;;no_banner"
+            "remove_skill;{unit};Mask_Happy;;no_banner",
+            "give_skill;{unit};Mask_Anger;;no_banner"
         ],
         "nid": "Global Mask_Happy"
     }

@@ -1,7 +1,7 @@
 [
     {
         "nid": "Occultist_P",
-        "name": "Shaman",
+        "name": "Occultist",
         "desc": "Those who mess around with magic of the night. They play a dangerous game.\nTags: Magic",
         "tier": 1,
         "movement_group": "Mages",

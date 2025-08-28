@@ -444,3 +444,4 @@ class GiveStatusBeforeCrit(SkillComponent):
             if self._did_action:
                 action.do(action.RemoveSkill(target, self.value))
                 self._did_action = False
+

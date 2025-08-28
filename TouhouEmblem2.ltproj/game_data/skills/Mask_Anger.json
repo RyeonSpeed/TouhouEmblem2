@@ -32,6 +32,12 @@
             [
                 "cannot_double",
                 null
+            ],
+            [
+                "multi_skill",
+                [
+                    "Mask_Anger_Removal"
+                ]
             ]
         ]
     }

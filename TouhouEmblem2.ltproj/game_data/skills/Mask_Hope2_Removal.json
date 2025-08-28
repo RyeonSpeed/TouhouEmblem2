@@ -1,6 +1,6 @@
 [
     {
-        "nid": "Mask_Hope2",
+        "nid": "Mask_Hope2_Removal",
         "name": "1000 Masks: Hope?",
         "desc": "Restores 50% of damage dealt.\nMasks shift at Turn Start.",
         "icon_nid": "skillicons4",
@@ -10,18 +10,16 @@
         ],
         "components": [
             [
-                "ability_indicator",
+                "event_on_upkeep",
+                "Global Mask_Hope2"
+            ],
+            [
+                "condition",
+                "game.turncount > 1 or 'Intermission' not in level.tags"
+            ],
+            [
+                "hidden",
                 null
-            ],
-            [
-                "lifelink",
-                0.5
-            ],
-            [
-                "multi_skill",
-                [
-                    "Mask_Hope2_Removal"
-                ]
             ]
         ]
     }

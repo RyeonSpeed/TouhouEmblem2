@@ -1,0 +1,66 @@
+[
+    {
+        "nid": "Lethal_LifeFlow",
+        "name": "Lethal Life Flow",
+        "desc": "1.1x + 0.1x all stats (except Con & Mov) for every Magic unit in a 2 tile radius. When 0 Magic units near the user, the user consumes 2 more Fatigue per attack. Magic units within 2 tiles suffer 2 Fatigue every time the user enters combat. When > Max Fatigue, become Petrified.",
+        "icon_nid": "skillicons102524(1)",
+        "icon_index": [
+            1,
+            2
+        ],
+        "components": [
+            [
+                "ability_indicator",
+                null
+            ],
+            [
+                "multi_skill",
+                [
+                    "NoAlliesLLF",
+                    "MoreThan0AlliesLLF"
+                ]
+            ],
+            [
+                "stat_change_expression",
+                [
+                    [
+                        "STR",
+                        "(min(1.5, 1.0 + (len([x for x in get_units_within_distance(unit.position, dist=2) if 'Magic' in x.tags])*0.1)) - 1)*unit.stats['STR']"
+                    ],
+                    [
+                        "MAG",
+                        "(min(1.5, 1.0 + (len([x for x in get_units_within_distance(unit.position, dist=2) if 'Magic' in x.tags])*0.1)) - 1)*unit.stats['MAG']"
+                    ],
+                    [
+                        "SKL",
+                        "(min(1.5, 1.0 + (len([x for x in get_units_within_distance(unit.position, dist=2) if 'Magic' in x.tags])*0.1)) - 1)*unit.stats['SKL']"
+                    ],
+                    [
+                        "SPD",
+                        "(min(1.5, 1.0 + (len([x for x in get_units_within_distance(unit.position, dist=2) if 'Magic' in x.tags])*0.1)) - 1)*unit.stats['SPD']"
+                    ],
+                    [
+                        "DEF",
+                        "(min(1.5, 1.0 + (len([x for x in get_units_within_distance(unit.position, dist=2) if 'Magic' in x.tags])*0.1)) - 1)*unit.stats['DEF']"
+                    ],
+                    [
+                        "RES",
+                        "(min(1.5, 1.0 + (len([x for x in get_units_within_distance(unit.position, dist=2) if 'Magic' in x.tags])*0.1)) - 1)*unit.stats['RES']"
+                    ],
+                    [
+                        "LCK",
+                        "(min(1.5, 1.0 + (len([x for x in get_units_within_distance(unit.position, dist=2) if 'Magic' in x.tags])*0.1)) - 1)*unit.stats['LCK']"
+                    ]
+                ]
+            ],
+            [
+                "lost_on_end_chapter",
+                null
+            ],
+            [
+                "combat_condition",
+                "False"
+            ]
+        ]
+    }
+]

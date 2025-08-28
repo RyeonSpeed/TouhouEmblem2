@@ -2,7 +2,7 @@
     {
         "nid": "Flood_of_Frost",
         "name": "Flood of Frost",
-        "desc": "<blue>[Combat Start]</blue> Splash 1. Cannot Double.\n<blue>[After Combat]</blue> Inflicts Frozen for 2 turns. Gain +10 RES for 2 turns.",
+        "desc": "<blue>[Combat Start]</blue> <violet>Splash</> <violet>1</>. Cannot Double.\n<blue>[After Combat]</blue> Inflicts Frozen for 2 turns. Gain +10 RES for 2 turns.",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,

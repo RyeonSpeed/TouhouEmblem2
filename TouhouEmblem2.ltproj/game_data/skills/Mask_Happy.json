@@ -28,6 +28,12 @@
             [
                 "ability_indicator",
                 null
+            ],
+            [
+                "multi_skill",
+                [
+                    "Mask_Happy_Removal"
+                ]
             ]
         ]
     }

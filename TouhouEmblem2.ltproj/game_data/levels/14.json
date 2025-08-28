@@ -32,8 +32,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    2,
-                    21
+                    5,
+                    23
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -58,8 +58,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    1,
-                    22
+                    6,
+                    24
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -371,8 +371,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    0,
-                    13
+                    4,
+                    14
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -395,8 +395,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    1,
-                    13
+                    3,
+                    15
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -443,7 +443,7 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    5,
+                    10,
                     15
                 ],
                 "starting_traveler": null,
@@ -2690,8 +2690,8 @@
                 "nid": "F_1",
                 "region_type": "formation",
                 "position": [
-                    3,
-                    24
+                    1,
+                    22
                 ],
                 "size": [
                     1,
@@ -2708,8 +2708,8 @@
                 "nid": "F_2",
                 "region_type": "formation",
                 "position": [
-                    4,
-                    23
+                    2,
+                    21
                 ],
                 "size": [
                     1,
@@ -2762,8 +2762,8 @@
                 "nid": "F_5",
                 "region_type": "formation",
                 "position": [
-                    6,
-                    22
+                    0,
+                    15
                 ],
                 "size": [
                     1,
@@ -2817,7 +2817,7 @@
                 "region_type": "formation",
                 "position": [
                     1,
-                    24
+                    15
                 ],
                 "size": [
                     1,
@@ -2870,8 +2870,8 @@
                 "nid": "F_11",
                 "region_type": "formation",
                 "position": [
-                    3,
-                    20
+                    0,
+                    16
                 ],
                 "size": [
                     1,
@@ -2888,8 +2888,8 @@
                 "nid": "F_12",
                 "region_type": "formation",
                 "position": [
-                    2,
-                    23
+                    1,
+                    17
                 ],
                 "size": [
                     1,
@@ -2924,7 +2924,7 @@
                 "nid": "F_14",
                 "region_type": "formation",
                 "position": [
-                    0,
+                    6,
                     23
                 ],
                 "size": [

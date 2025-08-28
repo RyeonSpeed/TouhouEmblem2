@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Mask_Sad_Removal",
+        "name": "1000 Masks: Sadness",
+        "desc": "+8 DEF/+8 RES. -4 STR/-2 MAG/-2 SPD.\nMasks shift at Turn Start.",
+        "icon_nid": "skillicons4",
+        "icon_index": [
+            0,
+            3
+        ],
+        "components": [
+            [
+                "event_on_upkeep",
+                "Global Mask_Sad"
+            ],
+            [
+                "condition",
+                "game.turncount > 1 or 'Intermission' not in level.tags"
+            ],
+            [
+                "hidden",
+                null
+            ]
+        ]
+    }
+]

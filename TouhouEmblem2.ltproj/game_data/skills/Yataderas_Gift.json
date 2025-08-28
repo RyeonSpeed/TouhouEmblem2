@@ -2,7 +2,7 @@
     {
         "nid": "Yataderas_Gift",
         "name": "Yatadera's Gift",
-        "desc": "Damage scales off of 50% of missing HP + MAG. ",
+        "desc": "Can activate \"Lethal Life Flow\", multiplying all stats except Con and Mov by 1.1x + 0.1x for every Magic unit in a 2 tile radius of the user. When there are no Magic units near the user, the user consumes 2 more fatigue per attack. Magic units near the user suffer 2 Fatigue every time the user enters combat.",
         "icon_nid": "skillicons102524",
         "icon_index": [
             0,
@@ -10,12 +10,16 @@
         ],
         "components": [
             [
-                "eval_damage",
-                "int(unit.get_max_hp() - unit.get_hp()) * 0.5"
-            ],
-            [
                 "ability_indicator",
                 null
+            ],
+            [
+                "ability",
+                "LLF"
+            ],
+            [
+                "drain_charge",
+                1
             ]
         ]
     }

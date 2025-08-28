@@ -1,0 +1,46 @@
+[
+    {
+        "nid": "Petrified",
+        "name": "Petrified",
+        "desc": "User is turned into a statue and cannot be interacted with.",
+        "icon_nid": "skillicons102524(1)",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "condition",
+                "unit.get_fatigue() > unit.get_max_fatigue()"
+            ],
+            [
+                "hidden_if_inactive",
+                null
+            ],
+            [
+                "unit_tint",
+                [
+                    98,
+                    98,
+                    98
+                ]
+            ],
+            [
+                "cannot_trade",
+                null
+            ],
+            [
+                "cannot_use_items",
+                null
+            ],
+            [
+                "cannot_counter",
+                null
+            ],
+            [
+                "unselectable",
+                null
+            ]
+        ]
+    }
+]

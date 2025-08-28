@@ -347,10 +347,13 @@
     "new_4",
     "new_5",
     "SoulChargeAbility1",
+    "SoulChargeAbility2",
     "Drink",
     "Fatigue",
     "Study",
     "Stop_Studying",
+    "LLF",
+    "FatigueN",
     "gem_gem",
     "Sear"
 ]

@@ -2,7 +2,7 @@
     {
         "nid": "Wolf_Fang_Proc",
         "name": "Wolf Fang",
-        "desc": "<blue>[After Combat]</blue> 7 HP Recoil. Inflicts Bleeding",
+        "desc": "<blue>[After Combat]</blue> 7 HP Recoil. Inflicts Bleeding.",
         "icon_nid": "skillicons3",
         "icon_index": [
             0,

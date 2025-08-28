@@ -1,0 +1,34 @@
+[
+    {
+        "nid": "Border_of_Life",
+        "name": "Border of Life",
+        "desc": "<blue>[On Use]</blue> Kill a non-boss enemy. Consumes 4 Soul Charge.",
+        "icon_nid": "skillicons102524(1)",
+        "icon_index": [
+            1,
+            2
+        ],
+        "components": [
+            [
+                "combat_art_indicator",
+                null
+            ],
+            [
+                "combat_art",
+                "Border_of_Life_Child"
+            ],
+            [
+                "allowed_weapons",
+                "item_system.weapon_type(unit, item) in ['Sword', 'Lance', 'Axe', 'Bow', 'Anima', 'Dark', 'Light', 'Martial']"
+            ],
+            [
+                "alternate_battle_anim",
+                "Critical"
+            ],
+            [
+                "condition",
+                "{v:SoulCharge} >= 4"
+            ]
+        ]
+    }
+]

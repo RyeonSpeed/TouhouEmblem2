@@ -16,6 +16,10 @@
             [
                 "ability_indicator",
                 null
+            ],
+            [
+                "combat_condition",
+                "unit1.item == 'Gungnir'"
             ]
         ]
     }

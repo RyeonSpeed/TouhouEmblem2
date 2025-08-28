@@ -12,7 +12,7 @@
         ],
         "max_level": 40,
         "bases": {
-            "HP": 27,
+            "HP": 17,
             "STR": 1,
             "MAG": 7,
             "SKL": 6,
@@ -24,7 +24,7 @@
             "MOV": 6
         },
         "growths": {
-            "HP": 80,
+            "HP": 45,
             "STR": 10,
             "MAG": 35,
             "SKL": 35,
@@ -48,7 +48,7 @@
             "MOV": 0
         },
         "promotion": {
-            "HP": 7,
+            "HP": 2,
             "STR": 0,
             "MAG": 2,
             "SKL": 1,

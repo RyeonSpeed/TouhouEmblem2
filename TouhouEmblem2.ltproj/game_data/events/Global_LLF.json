@@ -1,0 +1,21 @@
+[
+    {
+        "name": "LLF",
+        "trigger": null,
+        "level_nid": null,
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "for;LLF;[x for x in get_units_within_distance(unit.position, dist=2)]",
+            "if;item.nid != 'LLF' and u('{LLF}').team == 'player' and u('{LLF}').nid != 'Narumi'",
+            "if;'Magic' in u('{LLF}').tags",
+            "add_fatigue;{LLF};2",
+            "end",
+            "end",
+            "endf"
+        ],
+        "nid": "Global LLF"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "NoAlliesLLF",
+        "name": "Lethal Life Flow",
+        "desc": "A",
+        "icon_nid": "skillicons102524(1)",
+        "icon_index": [
+            1,
+            2
+        ],
+        "components": [
+            [
+                "condition",
+                "len([x for x in get_units_within_distance(unit.position, dist=2) if 'Magic' in x.tags]) == 0"
+            ],
+            [
+                "item_override",
+                "FatigueN"
+            ],
+            [
+                "hidden",
+                null
+            ],
+            [
+                "combat_condition",
+                "item_system.weapon_type(unit, item) in ['Sword', 'Lance', 'Axe', 'Bow', 'Anima', 'Dark', 'Light', 'Martial']"
+            ]
+        ]
+    }
+]

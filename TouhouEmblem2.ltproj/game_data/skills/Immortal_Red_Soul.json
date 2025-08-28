@@ -1,8 +1,8 @@
 [
     {
         "nid": "Immortal_Red_Soul",
-        "name": "Immortal Red Soul",
-        "desc": "Range 1. +1 DMG/4 HP lost\n<blue>[After Combat]</blue> 1/8 Max HP Recoil.\n<green>[Turn Start]</green> Heal HP = Mag. If dead, revive and +20 Fatigue.",
+        "name": "Immortal <red>Red</> Soul",
+        "desc": "Locked to 1 Range. +1 DMG/4 HP lost\n<blue>[After Combat]</blue> 1/8 Max HP Recoil.\n<green>[Turn Start]</green> Heal HP = Mag. Once per map: If dead, revive and +20 Fatigue.",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,

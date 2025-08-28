@@ -2,7 +2,7 @@
     {
         "nid": "Capricious_Cheerleader",
         "name": "Capricious Cheerleader",
-        "desc": " <blue>[On Use]</blue> When >50% HP, \"Rally\" adjacent units, \ngiving +2 STR/MAG/SKL/SPD/DEF/RES for one turn. \nUsable 2 times per map.",
+        "desc": " <blue>[On Use]</blue> When >50% HP, can \"Rally\" adjacent units, usable 2 times per map.\n\"Rally\" grants +2 all stats (other than MOV/CON) for one turn. \n",
         "icon_nid": "skillicons102724(2)",
         "icon_index": [
             0,

@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Mask_Calm_Removal",
+        "name": "1000 Masks: Calm",
+        "desc": "+2 MOV/+4 STR/+4 SPD. \nMasks shift at Turn Start.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            2,
+            4
+        ],
+        "components": [
+            [
+                "event_on_upkeep",
+                "Global Mask_Calm"
+            ],
+            [
+                "condition",
+                "game.turncount > 1 or 'Intermission' not in level.tags"
+            ],
+            [
+                "hidden",
+                null
+            ]
+        ]
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "SoulChargeAbility2",
+        "name": "SoulChargeAbility2",
+        "desc": "",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "event_after_combat_even_miss",
+                "Global SoulCharge1"
+            ]
+        ]
+    }
+]
