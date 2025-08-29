@@ -3,9 +3,9 @@
         "nid": "Skyward",
         "name": "Skyward",
         "desc": "A quick, but reckless flurry technique.\n+6 Attack Speed. -4 Def/Res. Recurring. Brave.",
-        "icon_nid": "the2icons",
+        "icon_nid": "martials",
         "icon_index": [
-            5,
+            0,
             8
         ],
         "components": [

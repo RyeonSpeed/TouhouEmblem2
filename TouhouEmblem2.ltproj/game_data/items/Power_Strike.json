@@ -3,10 +3,10 @@
         "nid": "Power_Strike",
         "name": "Power Strike",
         "desc": "A strong and concentrated blow.\n-2 Attack Speed. Recurring.",
-        "icon_nid": "the2icons",
+        "icon_nid": "martials",
         "icon_index": [
-            5,
-            8
+            0,
+            5
         ],
         "components": [
             [

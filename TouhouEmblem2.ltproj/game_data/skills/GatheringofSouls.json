@@ -3,10 +3,10 @@
         "nid": "GatheringofSouls",
         "name": "Gathering of Souls",
         "desc": "Enemies within 5 tiles:\n<red>[On Death]</red> Grant Yuyuko 1 Soul Charge. \nCharges: {v:SoulCharge}",
-        "icon_nid": "skillicons102724(1)",
+        "icon_nid": "icons",
         "icon_index": [
-            0,
-            2
+            2,
+            0
         ],
         "components": [
             [

@@ -3,10 +3,10 @@
         "nid": "Orreries_Solar_System",
         "name": "Orreries Solar System",
         "desc": "All attacks become Blast 3.",
-        "icon_nid": "skillicons102724(1)",
+        "icon_nid": "icons",
         "icon_index": [
-            0,
-            2
+            6,
+            0
         ],
         "components": [
             [

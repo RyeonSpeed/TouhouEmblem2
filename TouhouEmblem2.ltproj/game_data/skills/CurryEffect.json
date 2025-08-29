@@ -3,9 +3,9 @@
         "nid": "CurryEffect",
         "name": "CurryEffect",
         "desc": "",
-        "icon_nid": null,
+        "icon_nid": "icons",
         "icon_index": [
-            0,
+            8,
             0
         ],
         "components": [

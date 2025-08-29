@@ -3,9 +3,9 @@
         "nid": "Too_Hot",
         "name": "Too Hot!",
         "desc": "Burning. \n<blue>[On Hit]</blue> [20 + Skl]% chance to inflict Burning.",
-        "icon_nid": null,
+        "icon_nid": "icons",
         "icon_index": [
-            0,
+            8,
             0
         ],
         "components": [

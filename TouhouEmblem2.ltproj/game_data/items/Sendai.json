@@ -3,10 +3,10 @@
         "nid": "Sendai",
         "name": "Sendai's Bandage",
         "desc": "A special brawling technique left behind by the previous Hakurei Miko. \nGrants the combat art \"Hakurei Boxing Higi\". Recurring.",
-        "icon_nid": "the2icons",
+        "icon_nid": "martials",
         "icon_index": [
-            5,
-            7
+            0,
+            1
         ],
         "components": [
             [

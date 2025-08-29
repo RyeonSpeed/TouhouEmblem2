@@ -3,10 +3,10 @@
         "nid": "Devastator_Strike",
         "name": "Devastator",
         "desc": "A slow, but very strong punch to the solar plexus.\n-4 Attack Speed. Recurring.",
-        "icon_nid": "the2icons",
+        "icon_nid": "martials",
         "icon_index": [
-            5,
-            8
+            0,
+            6
         ],
         "components": [
             [

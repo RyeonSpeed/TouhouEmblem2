@@ -3,10 +3,10 @@
         "nid": "Eldritch_Blast",
         "name": "Eldritch Blast",
         "desc": "Blast 2, Range 3-7. Consumes 4 Soul Charge.",
-        "icon_nid": "skillicons102724(1)",
+        "icon_nid": "icons",
         "icon_index": [
-            0,
-            2
+            3,
+            0
         ],
         "components": [
             [

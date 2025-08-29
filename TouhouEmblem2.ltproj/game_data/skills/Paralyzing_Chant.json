@@ -3,10 +3,10 @@
         "nid": "Paralyzing_Chant",
         "name": "Paralyzing Chant",
         "desc": "Enemies within 3 tiles of unit:\n- If Shocked, -2 SPD/DEF, -10 AVOID\n- <blue>[After Combat]</blue> 50% chance to gain Shock",
-        "icon_nid": "skillicons102724(1)",
+        "icon_nid": "icons",
         "icon_index": [
-            0,
-            2
+            1,
+            0
         ],
         "components": [
             [

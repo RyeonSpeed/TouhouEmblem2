@@ -3,10 +3,10 @@
         "nid": "Wild_Strike",
         "name": "Wild Strike",
         "desc": "+2 Attack Speed. Recurring. Brave.",
-        "icon_nid": "the2icons",
+        "icon_nid": "martials",
         "icon_index": [
-            5,
-            8
+            0,
+            4
         ],
         "components": [
             [

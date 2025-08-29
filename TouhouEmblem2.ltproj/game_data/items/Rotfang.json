@@ -3,10 +3,10 @@
         "nid": "Rotfang",
         "name": "Rotfang",
         "desc": "You should really brush your teeth more.|\nSkill% chance to inflict poisoned. Recurring.",
-        "icon_nid": "the2icons",
+        "icon_nid": "martials",
         "icon_index": [
-            5,
-            5
+            0,
+            0
         ],
         "components": [
             [

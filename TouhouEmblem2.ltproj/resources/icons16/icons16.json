@@ -854,5 +854,13 @@
     {
         "nid": "tabularasa",
         "subicon_dict": {}
+    },
+    {
+        "nid": "icons",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "martials",
+        "subicon_dict": {}
     }
 ]

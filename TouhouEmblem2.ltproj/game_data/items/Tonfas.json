@@ -3,10 +3,10 @@
         "nid": "Tonfas",
         "name": "Tonfas",
         "desc": "A highly defensive technique.\n+3 Def. Recurring. Skill% chance to negate damage. Cannot Double.",
-        "icon_nid": "the2icons",
+        "icon_nid": "martials",
         "icon_index": [
-            5,
-            8
+            0,
+            3
         ],
         "components": [
             [

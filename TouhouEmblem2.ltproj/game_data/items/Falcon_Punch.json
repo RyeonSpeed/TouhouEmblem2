@@ -3,10 +3,10 @@
         "nid": "Falcon_Punch",
         "name": "Falcon_Punch",
         "desc": "\"Show me your moves!\" \n+5 damage taken on counterattack. Cannot Double. Recurring.",
-        "icon_nid": "the2icons",
+        "icon_nid": "martials",
         "icon_index": [
-            5,
-            8
+            0,
+            2
         ],
         "components": [
             [

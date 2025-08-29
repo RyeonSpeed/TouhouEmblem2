@@ -3,10 +3,10 @@
         "nid": "Vengeful_Spirit",
         "name": "Vengeful Spirit",
         "desc": "When facing Light: +40 Hit.",
-        "icon_nid": "skillicons102724(1)",
+        "icon_nid": "icons",
         "icon_index": [
-            0,
-            2
+            5,
+            0
         ],
         "components": [
             [
