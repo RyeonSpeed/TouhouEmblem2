@@ -9,11 +9,13 @@
         "priority": 20,
         "_source": [
             "music;In Sorrows Shroud",
+            "hide_combat_ui",
             "add_portrait;Kaguya;FarRight",
             "expression;Kaguya;Smile",
             "speak;Kaguya;Ohohoho, you got me. Good one.",
             "expression;Kaguya;CloseEyes,Smile",
-            "remove_portrait;Kaguya"
+            "remove_portrait;Kaguya",
+            "show_combat_ui"
         ],
         "nid": "Global DeathKaguya"
     }

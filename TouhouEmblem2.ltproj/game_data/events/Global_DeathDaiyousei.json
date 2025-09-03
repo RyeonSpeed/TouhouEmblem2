@@ -9,10 +9,12 @@
         "priority": 20,
         "_source": [
             "music;In Sorrows Shroud",
+            "hide_combat_ui",
             "add_portrait;Daiyousei;FarRight",
             "speak;Daiyousei;Cirno?! Cirno, where are you?!",
             "expression;Daiyousei;CloseEyes",
-            "remove_portrait;Daiyousei"
+            "remove_portrait;Daiyousei",
+            "show_combat_ui"
         ],
         "nid": "Global DeathDaiyousei"
     }

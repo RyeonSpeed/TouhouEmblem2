@@ -9,10 +9,12 @@
         "priority": 20,
         "_source": [
             "music;In Sorrows Shroud",
+            "hide_combat_ui",
             "add_portrait;Cirno;FarRight",
-            "speak;Cirno;Gahh! I'm not having fun anymore! I'm supposed to be the strongest!",
+            "speak;Cirno;I'm supposed to be the strongest! How did I lose?",
             "expression;Cirno;CloseEyes",
-            "remove_portrait;Cirno"
+            "remove_portrait;Cirno",
+            "show_combat_ui"
         ],
         "nid": "Global DeathCirno"
     }
