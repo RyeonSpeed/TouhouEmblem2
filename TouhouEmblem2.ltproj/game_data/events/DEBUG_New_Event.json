@@ -1,9 +1,9 @@
 [
     {
         "name": "New Event",
-        "trigger": "level_start",
+        "trigger": "turn_change",
         "level_nid": "DEBUG",
-        "condition": "True",
+        "condition": "game.turncount == 1",
         "commands": [],
         "only_once": false,
         "priority": 20,
@@ -33,9 +33,8 @@
             "set_wexp;Yuna;Bow;181",
             "autolevel_to;Merlin;15;fixed",
             "set_wexp;Miu;Sword;181",
-            "autolevel_to;Hamee;40",
-            "autolevel_to;Suika;15;fixed",
-            ""
+            "autolevel_to;Keine_NPC;40",
+            "autolevel_to;Suika;15;fixed"
         ],
         "nid": "DEBUG New Event"
     }

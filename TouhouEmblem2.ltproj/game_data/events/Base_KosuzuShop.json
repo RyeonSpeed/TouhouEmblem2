@@ -8,7 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "add_portrait;Kosuzu;Left",
+            "add_portrait;Kosuzu;Left;;Smile",
             "add_portrait;Reimu;Right",
             "speak;Kosuzu;Hey Reimu! Welcome to Suzunaan!",
             "choice;KosuzuServices;What do you need?;Shop,Guide,Lore;backable",

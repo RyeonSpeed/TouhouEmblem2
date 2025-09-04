@@ -308,6 +308,7 @@
     "Fencer_GenericBlue",
     "Fencer_GenericRed",
     "Fencer_Hanae",
+    "Fencer_Youmu",
     "MokouMage",
     "KaguyaMage",
     "MageLongHair_GenericRed",
@@ -412,6 +413,7 @@
     "Rogue_GenericRed",
     "SwordmasterFemale_GenericBlue",
     "SwordmasterFemale_GenericRed",
+    "SwordmasterFemale_Youmu",
     "DracoRider_GenericBlue",
     "DracoRider_GenericRed",
     "BoltingDust_Image",
@@ -450,5 +452,6 @@
     "HealOrbLow_Image_1",
     "Assassin_SilencerFG_Image",
     "Informant_Suzumi",
-    "Lodestar_GenericBlue"
+    "Lodestar_GenericBlue",
+    "Bigle_Generic"
 ]

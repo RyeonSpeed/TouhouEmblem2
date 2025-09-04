@@ -15,6 +15,21 @@
         "status": null
     },
     {
+        "nid": "1_1",
+        "name": "Plain",
+        "color": [
+            132,
+            185,
+            34
+        ],
+        "minimap": "Grass",
+        "platform": "Plains",
+        "background": "combat_marsh",
+        "mtype": "Normal",
+        "opaque": false,
+        "status": null
+    },
+    {
         "nid": "S_1",
         "name": "Plain",
         "color": [
@@ -100,6 +115,21 @@
         "minimap": "Forest",
         "platform": "SnowyForest",
         "background": "combat_snowy_forest",
+        "mtype": "Forest",
+        "opaque": false,
+        "status": "Forest"
+    },
+    {
+        "nid": "S_3",
+        "name": "Forest",
+        "color": [
+            255,
+            0,
+            255
+        ],
+        "minimap": "Forest",
+        "platform": "SnowyForest",
+        "background": "combat_snowy_sakura",
         "mtype": "Forest",
         "opaque": false,
         "status": "Forest"
@@ -310,6 +340,36 @@
         "minimap": "Sand",
         "platform": "Road",
         "background": "combat_plains",
+        "mtype": "Normal",
+        "opaque": false,
+        "status": null
+    },
+    {
+        "nid": "7_1",
+        "name": "Road",
+        "color": [
+            220,
+            220,
+            117
+        ],
+        "minimap": "Sand",
+        "platform": "Road",
+        "background": "combat_marsh",
+        "mtype": "Normal",
+        "opaque": false,
+        "status": null
+    },
+    {
+        "nid": "S_7",
+        "name": "Road",
+        "color": [
+            189,
+            175,
+            96
+        ],
+        "minimap": "Sand",
+        "platform": "SnowyRoad",
+        "background": "combat_snowy_plains",
         "mtype": "Normal",
         "opaque": false,
         "status": null
@@ -836,6 +896,21 @@
         "platform": "Floor",
         "background": "combat_hill",
         "mtype": "Normal",
+        "opaque": false,
+        "status": null
+    },
+    {
+        "nid": "9_1",
+        "name": "Stairs",
+        "color": [
+            0,
+            67,
+            70
+        ],
+        "minimap": "Wall",
+        "platform": "Floor",
+        "background": "combat_snowy_hill",
+        "mtype": "Cliff",
         "opaque": false,
         "status": null
     },

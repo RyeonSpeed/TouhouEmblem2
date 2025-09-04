@@ -10,7 +10,7 @@
         "_source": [
             "if;game.turncount <= 20",
             "give_bexp;1000",
-            "speak;;You completed the map in 15 or less turns! You got the full reward!;;;hint",
+            "speak;;You completed the map in 20 or less turns! You got the full reward!;;;hint",
             "elif;game.turncount > 20",
             "speak;;Lmao skill issue;;;hint",
             "end",

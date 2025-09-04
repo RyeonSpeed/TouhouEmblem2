@@ -1,0 +1,25 @@
+[
+    {
+        "name": "DollDropConvoy",
+        "trigger": "combat_end",
+        "level_nid": null,
+        "condition": "unit1.nid in ['Shanghai','Hourai'] or unit2.nid in ['Shanghai','Hourai']",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "if;len(u('Shanghai').items) > 2",
+            "    game_var;doll_item;u('Shanghai').items[-1].nid",
+            "    game_var;doll_item2;u('Shanghai').items[-1].name",
+            "    move_item;Shanghai;convoy",
+            "    alert;{v:doll_item2} was sent to the convoy.;{v:doll_item}",
+            "elif;len(u('Hourai').items) > 2",
+            "    game_var;doll_item;u('Hourai').items[-1].nid",
+            "    game_var;doll_item2;u('Hourai').items[-1].name",
+            "    move_item;Hourai;convoy",
+            "    alert;{v:doll_item2} was sent to the convoy.;{v:doll_item}",
+            "end"
+        ],
+        "nid": "Global DollDropConvoy"
+    }
+]

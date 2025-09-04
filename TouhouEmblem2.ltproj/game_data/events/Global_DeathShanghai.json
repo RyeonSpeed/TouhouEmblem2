@@ -1,0 +1,19 @@
+[
+    {
+        "name": "DeathShanghai",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "unit1.nid == 'Shanghai'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "remove_unit;Shanghai",
+            "sound;Death",
+            "wait;400",
+            "resurrect;Shanghai",
+            "change_party;Shanghai;Dumpster"
+        ],
+        "nid": "Global DeathShanghai"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "name": "AliceStuffAfter",
+        "trigger": null,
+        "level_nid": null,
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "for;BRUH;[x for x in ['Alice','Shanghai','Hourai']]",
+            "    if;unit1.nid != '{BRUH}'",
+            "        if;unit1.level != {v:AliceLv}",
+            "            give_exp;{BRUH};{e:unit1.exp+100-{v:AliceEXP}}",
+            "        else",
+            "            give_exp;{BRUH};{e:unit1.exp-{v:AliceEXP}}",
+            "        end",
+            "    end",
+            "endf"
+        ],
+        "nid": "Global AliceStuffAfter"
+    }
+]

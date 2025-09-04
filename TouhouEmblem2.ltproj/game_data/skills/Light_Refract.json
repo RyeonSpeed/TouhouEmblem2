@@ -2,7 +2,7 @@
     {
         "nid": "Light_Refract",
         "name": "Light Refract",
-        "desc": "<blue>[On Use]</blue> Gain \"Vanished\". While \"Vanished\", cannot be targeted by enemies, cannot attack or trade. 3 turn duration. Refreshes unit.",
+        "desc": "<blue>[On Use]</blue> Gain \"Vanished\". While \"Vanished\", Pass, cannot be targeted by enemies, cannot attack or trade. 3 turn duration. Refreshes unit.",
         "icon_nid": "NewIcon3",
         "icon_index": [
             0,

@@ -9,7 +9,7 @@
         "priority": 20,
         "_source": [
             "if;v('mokou_recoil')",
-            "    sound;FireHit",
+            "#    sound;FireHit",
             "    map_anim;AOE_Fireball;{unit}",
             "    set_current_hp;{unit};{e:max(1, unit.get_hp() - int(unit.get_max_hp() / 8))}",
             "    level_var;mokou_recoil;False",

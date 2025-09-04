@@ -27,35 +27,27 @@
         "tags": [],
         "units": [
             {
-                "nid": "Ringo",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": null,
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
                 "nid": "101",
                 "variant": null,
-                "level": 20,
-                "klass": "Lance_Rider",
+                "level": 1,
+                "klass": "Archer",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Silver_Sword",
-                        false
+                        "Iron_Bow",
+                        true
                     ]
                 ],
-                "starting_skills": [],
-                "team": "player",
+                "starting_skills": [
+                    "Bleeding_Shot"
+                ],
+                "team": "enemy",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    16,
-                    13
+                    17,
+                    21
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -63,23 +55,25 @@
             {
                 "nid": "102",
                 "variant": null,
-                "level": 1,
-                "klass": "Miko_R",
+                "level": 10,
+                "klass": "Citizen",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Armorslayer",
+                        "Iron_Bow",
                         false
                     ]
                 ],
-                "starting_skills": [],
-                "team": "player",
+                "starting_skills": [
+                    "Bleeding_Shot"
+                ],
+                "team": "enemy",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
                     16,
-                    14
+                    21
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -91,8 +85,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    9,
-                    15
+                    15,
+                    17
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -111,290 +105,26 @@
                 "generic": false
             },
             {
-                "nid": "Lunasa",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    19,
-                    15
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Rinnosuke",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    20,
-                    11
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Wriggle_Boss",
-                "team": "enemy",
-                "ai": "Guard",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    17,
-                    11
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "SigmaRaven",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    23,
-                    15
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Mystia",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    16,
-                    16
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Akyuu",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    20,
-                    16
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "103",
-                "variant": null,
-                "level": 15,
-                "klass": "Mage",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Full_Power",
-                        false
-                    ],
-                    [
-                        "Full_Power",
-                        false
-                    ],
-                    [
-                        "Full_Power",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
+                "nid": "Kosuzu",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
                     18,
-                    13
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "108",
-                "variant": null,
-                "level": 15,
-                "klass": "Mage",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Full_Power",
-                        false
-                    ],
-                    [
-                        "Full_Power",
-                        false
-                    ],
-                    [
-                        "Full_Power",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    19,
-                    14
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "105",
-                "variant": null,
-                "level": 15,
-                "klass": "Vagrant_A",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Steel_Axe",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    20,
-                    17
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "Yae",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    20,
-                    14
+                    21
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
-                "nid": "104",
-                "variant": null,
-                "level": 15,
-                "klass": "Fencer_Y",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Iron_Sword",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
+                "nid": "Alice",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
                     18,
-                    15
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "Rumia",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    17,
-                    15
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "106",
-                "variant": null,
-                "level": 10,
-                "klass": "Citizen",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Iron_Sword",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    17,
-                    17
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "107",
-                "variant": null,
-                "level": 10,
-                "klass": "Citizen",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Iron_Sword",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    17,
-                    13
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "Narumi",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    19,
-                    18
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Merlin",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    20,
                     18
                 ],
                 "starting_traveler": null,
@@ -403,91 +133,28 @@
             {
                 "nid": "109",
                 "variant": null,
-                "level": 40,
-                "klass": "Veteran_A",
+                "level": 1,
+                "klass": "Bigle",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Silver_Sword",
+                        "Slime",
                         false
                     ]
                 ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    17,
-                    19
+                "starting_skills": [
+                    "Canine_Dash"
                 ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "Mokou",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    18,
+                    19,
                     20
                 ],
                 "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Koakuma",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    15,
-                    17
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Sakuya",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    18,
-                    18
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Kokoro",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    22,
-                    15
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Marisa",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    16,
-                    18
-                ],
-                "starting_traveler": null,
-                "generic": false
+                "generic": true
             }
         ],
         "regions": [

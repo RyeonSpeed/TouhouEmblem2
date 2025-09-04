@@ -85972,7 +85972,7 @@
         "palettes": []
     },
     {
-        "nid": "SvartrwolfFG",
+        "nid": "TindalosFG",
         "poses": [
             [
                 "Attack",
@@ -86639,7 +86639,7 @@
         ]
     },
     {
-        "nid": "Svartrwolf",
+        "nid": "Tindalos",
         "poses": [
             [
                 "Attack",
@@ -86669,7 +86669,7 @@
                     [
                         "under_effect",
                         [
-                            "SvartrwolfFG"
+                            "TindalosFG"
                         ]
                     ],
                     [
@@ -86792,7 +86792,7 @@
                     [
                         "under_effect",
                         [
-                            "SvartrwolfFG"
+                            "TindalosFG"
                         ]
                     ],
                     [

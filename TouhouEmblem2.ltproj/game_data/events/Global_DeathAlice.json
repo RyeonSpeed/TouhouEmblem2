@@ -1,20 +1,24 @@
 [
     {
         "name": "DeathAlice",
-        "trigger": "combat_death",
+        "trigger": "combat_end",
         "level_nid": null,
-        "condition": "unit1.nid == 'Alice'",
+        "condition": "game.check_dead(\"Alice\")",
         "commands": [],
-        "only_once": false,
-        "priority": 20,
+        "only_once": true,
+        "priority": 21,
         "_source": [
-            "music;In Sorrows Shroud",
-            "hide_combat_ui",
-            "add_portrait;Alice;FarRight",
-            "speak;Alice;Why did I even agree to this?",
-            "expression;Alice;CloseEyes",
-            "show_combat_ui",
-            "remove_portrait;Alice"
+            "if;u('Shanghai').position",
+            "    center_cursor;Shanghai;150",
+            "    wait;200",
+            "    kill_unit;Shanghai",
+            "    wait;150",
+            "end",
+            "if;u('Hourai').position",
+            "    center_cursor;Hourai;150",
+            "    wait;200",
+            "    kill_unit;Hourai",
+            "end"
         ],
         "nid": "Global DeathAlice"
     }

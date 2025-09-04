@@ -1,14 +1,22 @@
 [
     {
         "name": "DeathMusic",
-        "trigger": "unit_death",
+        "trigger": "combat_end",
         "level_nid": null,
-        "condition": "unit1.team == 'player'",
+        "condition": "(unit1.team == 'player' and game.check_dead(unit1.nid)) or (unit2.team == 'player' and game.check_dead(unit2.nid))",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
-            "music_fade_back"
+            "if;unit1.team == 'player'",
+            "    if;'Unimportant' not in unit1.tags and unit1.nid not in ['Mokou', 'Shanghai', 'Hourai']",
+            "    music_fade_back",
+            "    end",
+            "elif;unit2.team == 'player'",
+            "    if;'Unimportant' not in unit2.tags and unit2.nid not in ['Mokou', 'Shanghai', 'Hourai']",
+            "    music_fade_back",
+            "    end",
+            "end"
         ],
         "nid": "Global DeathMusic"
     }

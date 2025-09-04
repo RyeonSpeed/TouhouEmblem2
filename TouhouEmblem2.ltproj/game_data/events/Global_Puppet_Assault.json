@@ -17,8 +17,14 @@
             "load_unit;Hourai;player",
             "add_unit;Shanghai;{v:AlicePosition};warp;closest",
             "add_unit;Hourai;{v:AlicePosition};warp;closest",
-            "autolevel_to;Shanghai;{v:AliceLevel}",
-            "autolevel_to;Hourai;{v:AliceLevel}",
+            "remove_item;Shanghai;Reginleif;no_banner",
+            "give_item;Shanghai;Reginleif;no_banner",
+            "remove_item;Shanghai;Horseslayer;no_banner",
+            "give_item;Shanghai;Horseslayer;no_banner",
+            "remove_item;Hourai;Slime;no_banner",
+            "give_item;Hourai;Slime;no_banner",
+            "remove_item;Hourai;Yomi;no_banner",
+            "give_item;Hourai;Yomi;no_banner",
             "end"
         ],
         "nid": "Global Puppet Assault"

@@ -253,6 +253,9 @@
     "Global_LethalLifeFlowCharge",
     "Global_LunaDial",
     "Global_LunaDialCharge",
+    "Global_DollDropConvoy",
+    "Global_AliceStuffBefore",
+    "Global_AliceStuffAfter",
     "Global_L_Bozo",
     "Global_Marisa_Growths",
     "Global_Marisa_Kill",
@@ -501,8 +504,11 @@
     "7_TalkAkyuu",
     "Global_ToggleStudious",
     "Global_DeathKasen_1",
+    "Global_DeathShanghai",
+    "Global_DeathHourai",
     "Global_LLF",
     "Global_DeathNarumi",
     "Global_DeathYuyuko",
-    "Global_DeathAlice"
+    "Global_DeathAlice",
+    "Global_DeathAlice_1"
 ]
