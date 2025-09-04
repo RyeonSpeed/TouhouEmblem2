@@ -1,0 +1,17 @@
+[
+    {
+        "name": "AliceStuffBefore",
+        "trigger": null,
+        "level_nid": null,
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "game_var;AliceEXP;unit1.exp",
+            "game_var;AliceLv;unit1.level",
+            "end"
+        ],
+        "nid": "Global AliceStuffBefore"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "name": "DeathAlice_1",
+        "trigger": "combat_death",
+        "level_nid": null,
+        "condition": "unit1.nid == 'Alice'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "music;In Sorrows Shroud",
+            "hide_combat_ui",
+            "add_portrait;Alice;FarRight",
+            "speak;Alice;Why did I even agree to this?",
+            "expression;Alice;CloseEyes",
+            "show_combat_ui",
+            "remove_portrait;Alice"
+        ],
+        "nid": "Global DeathAlice_1"
+    }
+]

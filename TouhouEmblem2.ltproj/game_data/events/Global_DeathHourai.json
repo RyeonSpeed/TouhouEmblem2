@@ -1,0 +1,19 @@
+[
+    {
+        "name": "DeathHourai",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "unit1.nid == 'Hourai'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "remove_unit;Hourai",
+            "sound;Death",
+            "wait;400",
+            "resurrect;Hourai",
+            "change_party;Hourai;Dumpster"
+        ],
+        "nid": "Global DeathHourai"
+    }
+]
