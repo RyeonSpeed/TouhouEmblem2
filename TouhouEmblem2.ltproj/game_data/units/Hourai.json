@@ -45,11 +45,11 @@
         },
         "starting_items": [
             [
-                "Slime",
+                "Slime_S",
                 false
             ],
             [
-                "Yomi",
+                "Yomi_S",
                 false
             ]
         ],

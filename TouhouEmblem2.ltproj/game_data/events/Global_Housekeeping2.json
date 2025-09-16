@@ -10,7 +10,6 @@
         "_source": [
             "level_var;TurnwheelUses;0",
             "level_var;MokouRevives;0",
-            "start_turnwheel_recording",
             "game_var;SoulCharge;0",
             "for;baseconvo;v('baseconvolist')",
             "add_base_convo;{baseconvo}",

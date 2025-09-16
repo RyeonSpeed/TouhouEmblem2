@@ -13,7 +13,7 @@
             "        if;unit1.level != {v:AliceLv}",
             "            give_exp;{BRUH};{e:unit1.exp+100-{v:AliceEXP}}",
             "        else",
-            "            give_exp;{BRUH};{e:unit1.exp-{v:AliceEXP}}",
+            "            give_exp;{BRUH};{e:unit1.exp-{v:AliceEXP}};silent",
             "        end",
             "    end",
             "endf"

@@ -419,26 +419,6 @@
                 "generic": false
             },
             {
-                "nid": "Shanghai",
-                "team": "other",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": null,
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Hourai",
-                "team": "other",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": null,
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
                 "nid": "Merlin",
                 "team": "other",
                 "ai": "None",
@@ -900,22 +880,12 @@
             {
                 "nid": "Alice",
                 "units": [
-                    "Alice",
-                    "Shanghai",
-                    "Hourai"
+                    "Alice"
                 ],
                 "positions": {
                     "Alice": [
                         29,
                         21
-                    ],
-                    "Shanghai": [
-                        30,
-                        19
-                    ],
-                    "Hourai": [
-                        30,
-                        23
                     ]
                 }
             },

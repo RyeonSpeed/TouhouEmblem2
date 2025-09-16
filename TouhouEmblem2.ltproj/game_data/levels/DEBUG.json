@@ -36,6 +36,10 @@
                     [
                         "Iron_Bow",
                         true
+                    ],
+                    [
+                        "Lucky_Clover",
+                        true
                     ]
                 ],
                 "starting_skills": [
@@ -73,6 +77,32 @@
                 "ai_group": "",
                 "starting_position": [
                     16,
+                    21
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "103",
+                "variant": null,
+                "level": 10,
+                "klass": "Citizen",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Bleeding_Shot"
+                ],
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    15,
                     21
                 ],
                 "starting_traveler": null,
@@ -131,30 +161,17 @@
                 "generic": false
             },
             {
-                "nid": "109",
-                "variant": null,
-                "level": 1,
-                "klass": "Bigle",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Slime",
-                        false
-                    ]
-                ],
-                "starting_skills": [
-                    "Canine_Dash"
-                ],
-                "team": "player",
-                "ai": "None",
+                "nid": "Keine_NPC",
+                "team": "enemy",
+                "ai": "Guard",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    19,
-                    20
+                    20,
+                    18
                 ],
                 "starting_traveler": null,
-                "generic": true
+                "generic": false
             }
         ],
         "regions": [

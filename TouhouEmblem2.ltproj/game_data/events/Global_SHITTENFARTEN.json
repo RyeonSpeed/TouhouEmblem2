@@ -15,7 +15,6 @@
             "elif;{v:SuzumiKill} <= {v:TurnwheelUses}",
             "    music_clear",
             "    clear_turnwheel",
-            "    stop_turnwheel_recording",
             "    enable_turnwheel;false",
             "    if;{v:Dark} == 1",
             "        add_portrait;Suzumi;Left",

@@ -8,17 +8,23 @@
         "only_once": true,
         "priority": 21,
         "_source": [
-            "if;u('Shanghai').position",
+            "if;(u('Shanghai').position) or (x for x in game.units if x.traveler == 'Shanghai')",
             "    center_cursor;Shanghai;150",
             "    wait;200",
-            "    kill_unit;Shanghai",
-            "    wait;150",
+            "    remove_unit;Shanghai",
+            "    sound;Death",
+            "    wait;400",
+            "    resurrect;Shanghai",
             "end",
-            "if;u('Hourai').position",
+            "if;(u('Hourai').position) or (x for x in game.units if x.traveler == 'Hourai')",
             "    center_cursor;Hourai;150",
             "    wait;200",
-            "    kill_unit;Hourai",
-            "end"
+            "    remove_unit;Hourai",
+            "    sound;Death",
+            "    wait;400",
+            "    resurrect;Hourai",
+            "end",
+            "wait;100"
         ],
         "nid": "Global DeathAlice"
     }

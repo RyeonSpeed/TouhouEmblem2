@@ -9,7 +9,6 @@
         "priority": 1,
         "_source": [
             "level_var;TurnwheelUses;0",
-            "start_turnwheel_recording",
             "game_var;SoulCharge;0",
             "add_lore;Intro",
             "add_lore;Character_Stats",

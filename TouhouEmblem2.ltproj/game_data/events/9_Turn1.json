@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Turn1",
+        "trigger": "turn_change",
+        "level_nid": "9",
+        "condition": "game.turncount == 1",
+        "commands": [],
+        "only_once": true,
+        "priority": 19,
+        "_source": [
+            "autolevel_to;Shanghai;8;fixed",
+            "autolevel_to;Hourai;8;fixed"
+        ],
+        "nid": "9 Turn1"
+    }
+]
