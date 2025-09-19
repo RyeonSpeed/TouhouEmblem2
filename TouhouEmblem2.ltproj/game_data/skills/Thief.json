@@ -2,7 +2,7 @@
     {
         "nid": "Thief",
         "name": "Thief's Set",
-        "desc": "+1 Fog Vision. Can pick locks and steal.\nMay only steal from slower units, and only weapons with a less WT than own CON.",
+        "desc": "+1 Fog Vision. Can pick locks and steal.\nMay only steal from slower or equal speed units, and only weapons with a less WT than own CON.",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,

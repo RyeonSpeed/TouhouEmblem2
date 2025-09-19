@@ -5,7 +5,7 @@
         "level_nid": "14",
         "condition": "game.check_dead(\"Shinki_Boss_1\") ",
         "commands": [],
-        "only_once": false,
+        "only_once": true,
         "priority": 20,
         "_source": [
             "add_portrait;Shinki;CenterLeft",

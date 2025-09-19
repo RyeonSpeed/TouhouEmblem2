@@ -2,7 +2,7 @@
     {
         "nid": "Lampad_Charm",
         "name": "Lampad Charm",
-        "desc": "When struck by an effective hit, gains \"Rushed\", which increases damage dealt by 1.5x and increases SPD by 5 for the rest of the map.",
+        "desc": "When struck by an effective hit, gains \"Maddened\", which increases damage dealt by 1.5x and increases SPD by 5 for the rest of the map.",
         "icon_nid": "accessories",
         "icon_index": [
             0,

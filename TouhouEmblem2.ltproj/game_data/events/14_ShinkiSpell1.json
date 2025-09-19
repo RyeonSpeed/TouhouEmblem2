@@ -5,7 +5,7 @@
         "level_nid": "14",
         "condition": "game.check_dead(\"Shinki_Boss\") ",
         "commands": [],
-        "only_once": false,
+        "only_once": true,
         "priority": 20,
         "_source": [
             "change_music;player_phase;Last Judgement",

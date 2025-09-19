@@ -41,7 +41,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Skeleton",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Devil_Lance",
@@ -65,7 +65,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Fighter",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Halberd",
@@ -89,7 +89,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Skeleton",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Devil_Lance",
@@ -113,7 +113,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Grave_Rider",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Steel_Lance",
@@ -137,7 +137,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Skeleton_B",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Steel_Bow",
@@ -161,7 +161,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Mage",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Thunder",
@@ -185,7 +185,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Skeleton_B",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Steel_Bow",
@@ -209,7 +209,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Pirate",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Steel_Axe",
@@ -233,7 +233,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Sword_Rider",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Steel_Sword",
@@ -257,7 +257,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Brigand",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Slim_Axe",
@@ -281,7 +281,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Bigle",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Slime",
@@ -305,7 +305,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Vagrant_S",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Steel_Sword",
@@ -329,7 +329,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Demon",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Steel_Lance",
@@ -353,7 +353,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Demon",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Steel_Lance",
@@ -377,7 +377,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Sword_Rider",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Steel_Sword",
@@ -401,7 +401,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Guard",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Steel_Axe",
@@ -425,7 +425,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Skeleton",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Reginleif",
@@ -485,7 +485,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Skeleton_B",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Steel_Bow",
@@ -508,7 +508,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Shaman",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Yomi",
@@ -531,7 +531,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Grave_Rider",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Steel_Sword",
@@ -554,7 +554,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Sword_Rider",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Steel_Sword",
@@ -577,7 +577,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Lancer",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Steel_Lance",
@@ -600,7 +600,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Brigand",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Steel_Axe",
@@ -623,7 +623,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Fencer",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Tanto",
@@ -646,7 +646,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Grave_Rider",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Axereaver",
@@ -669,7 +669,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Fighter",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Steel_Axe",
@@ -692,7 +692,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Vagrant_A",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Hurlbat",
@@ -715,7 +715,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Vagrant_A",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Hurlbat",
@@ -738,7 +738,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Vagrant_S",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Steel_Sword",
@@ -761,7 +761,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Skeleton",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Steel_Lance",
@@ -784,7 +784,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Vagrant_S",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Steel_Sword",
@@ -817,7 +817,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Mage",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Bolting",
@@ -840,7 +840,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Vagrant_S",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Steel_Sword",
@@ -863,7 +863,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Lodestar_L",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Steel_Lance",
@@ -886,7 +886,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Lancer",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Pilum",
@@ -909,7 +909,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Lancer",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Pilum",
@@ -932,7 +932,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Fighter",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Steel_Axe",
@@ -955,7 +955,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Vagrant_A",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Slim_Axe",
@@ -978,7 +978,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Centaur",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Steel_Sword",
@@ -1001,7 +1001,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Centaur",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Tanto",
@@ -1024,7 +1024,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Archer",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Fukiya",
@@ -1047,7 +1047,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Archer",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Silencer",
@@ -1080,7 +1080,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Pirate",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Short_Axe",
@@ -1103,7 +1103,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Vagrant_S",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Steel_Sword",
@@ -1126,7 +1126,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Lancer",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Short_Spear",
@@ -1149,7 +1149,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Spellsword",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Thunder",
@@ -1172,7 +1172,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Vagrant_S",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Steel_Sword",
@@ -1195,7 +1195,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Vagrant_A",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Hammer",
@@ -1218,7 +1218,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Vagrant_A",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Swordreaver",
@@ -1241,7 +1241,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Fighter",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Hurlbat",
@@ -1264,7 +1264,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Acolyte",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Omikuji",
@@ -1287,7 +1287,7 @@
                 "variant": null,
                 "level": 12,
                 "klass": "Acolyte",
-                "faction": "Hakugyoukurou",
+                "faction": "Underworld",
                 "starting_items": [
                     [
                         "Omikuji",
