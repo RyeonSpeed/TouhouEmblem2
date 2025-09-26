@@ -1,19 +1,20 @@
 [
     {
-        "name": "FightAlice",
-        "trigger": "combat_start",
+        "name": "AliceDefeatPC98",
+        "trigger": "combat_death",
         "level_nid": "10",
-        "condition": "unit.nid == \"Alice_Boss\" or unit2.nid == \"Alice_Boss\"",
+        "condition": "unit.nid == 'Alice_Boss'",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
             "hide_combat_ui",
             "add_portrait;Alice_Boss;Left",
-            "speak;Alice_Boss;You people again?! It looks like you still haven't learned your lesson!",
+            "speak;Alice_Boss;Argh, that makes two losses! So unfair!",
+            "expression;Alice_Boss;CloseEyes",
             "remove_portrait;Alice_Boss",
             "show_combat_ui"
         ],
-        "nid": "10 FightAlice"
+        "nid": "10 AliceDefeatPC98"
     }
 ]
