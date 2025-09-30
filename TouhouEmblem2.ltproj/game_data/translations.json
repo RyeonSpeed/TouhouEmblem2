@@ -409,15 +409,15 @@
     },
     {
         "nid": "Baby Mode_desc",
-        "text": "Coward. No enemy autolevels."
+        "text": "Coward. +3 PLAYER autolevels."
     },
     {
         "nid": "Normal_desc",
-        "text": "For the normal people. +3 autolevels."
+        "text": "For the normal people. +0 autolevels."
     },
     {
         "nid": "Classic Normal_desc",
-        "text": "For people who play FE. +3 autolevels. Permadeath."
+        "text": "For people who play FE. +0 autolevels. Permadeath."
     },
     {
         "nid": "Lunatic_desc",
@@ -425,7 +425,7 @@
     },
     {
         "nid": "Tezukan't_desc",
-        "text": "For annoying staff. +8 autolevels. Permadeath."
+        "text": "For annoying staff. +10 autolevels. Permadeath."
     },
     {
         "nid": "Random_desc",
@@ -437,7 +437,7 @@
     },
     {
         "nid": "Dynamic_desc",
-        "text": "Random growths, but units will grow around a stat baseline."
+        "text": "Missed stats have a higher chance of leveling."
     },
     {
         "nid": "Casual_desc",
@@ -450,5 +450,9 @@
     {
         "nid": "_attribution",
         "text": " "
+    },
+    {
+        "nid": "Hard_desc",
+        "text": "For FE players. +3 autolevels."
     }
 ]
