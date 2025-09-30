@@ -192,7 +192,6 @@
     "0_MathTest1",
     "0_MathTest2",
     "0_MathTest3",
-    "10_AliceDeathPC98",
     "10_FightAlice",
     "10_FightMai",
     "10_FightYumeko",
@@ -511,5 +510,7 @@
     "Global_DeathNarumi",
     "Global_DeathYuyuko",
     "Global_DeathAlice",
-    "Global_DeathAlice_1"
+    "Global_DeathAlice_1",
+    "10_AliceDefeatPC98",
+    "10_MaiDefeat"
 ]
