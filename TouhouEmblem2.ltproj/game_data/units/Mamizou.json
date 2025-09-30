@@ -2,7 +2,7 @@
     {
         "nid": "Mamizou",
         "name": "Mamizou",
-        "desc": "",
+        "desc": "A mischevious bake-danuki hailing from the Outside World. Has a great interest in youma scrolls.",
         "variant": null,
         "level": 1,
         "klass": "Sniper",
@@ -49,7 +49,7 @@
         "wexp_gain": {},
         "alternate_classes": [],
         "portrait_nid": "Mamizou",
-        "affinity": null,
+        "affinity": "None",
         "fields": []
     }
 ]

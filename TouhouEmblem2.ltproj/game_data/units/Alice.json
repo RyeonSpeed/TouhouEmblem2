@@ -3,7 +3,7 @@
         "nid": "Alice",
         "name": "Alice",
         "desc": "A dollmaking magician who resides in the Forest of Magic. She is a reticient but helpful person who specializes in puppetry.",
-        "variant": null,
+        "variant": "",
         "level": 1,
         "klass": "Puppeteer",
         "tags": [],

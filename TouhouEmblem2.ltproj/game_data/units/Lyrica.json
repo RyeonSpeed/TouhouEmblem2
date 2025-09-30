@@ -2,8 +2,8 @@
     {
         "nid": "Lyrica",
         "name": "Lyrica",
-        "desc": "",
-        "variant": null,
+        "desc": "Youngest sister of the Prismriver Ensemble. Level headed, smart, and has a bit of a pragmatic streak.",
+        "variant": "",
         "level": 1,
         "klass": "Bow_Rider_L",
         "tags": [],

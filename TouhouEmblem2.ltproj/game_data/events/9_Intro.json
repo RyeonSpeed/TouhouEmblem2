@@ -25,7 +25,7 @@
             "transition;open",
             "multi_add_portrait;Marisa;CenterLeft;Reimu;FarLeft;Mima;CenterRight;Kasen;FarRight",
             "",
-            "speak;Marisa;Alright teach, this should be the place.",
+            "speak;Marisa;Alright, teach, this should be the place.",
             "speak;Mima;Hmm, seems more...open than your residence, don't you think?",
             "speak;Marisa;Alice likes to keep a clean house. Kinda easy since she almost never leaves it.",
             "speak;Mima;You seem to have many shut-in friends, don't you?",
