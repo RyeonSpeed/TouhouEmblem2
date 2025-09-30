@@ -256,5 +256,43 @@
                 "Name": "V.S. Eirin"
             }
         ]
+    },
+    {
+        "nid": "Shopkeepers",
+        "dtype": "list",
+        "svalue": "",
+        "kvvalue": [],
+        "oattrs": [
+            "nid",
+            "opener",
+            "buy",
+            "leave",
+            "buy_again",
+            "convoy",
+            "no_stock",
+            "no_money",
+            "max_inventory",
+            "sell_again",
+            "again",
+            "no_value",
+            "back"
+        ],
+        "lovalue": [
+            {
+                "nid": "Marisa",
+                "opener": "IMMA FIRIN MAH LAZER",
+                "buy": "WHATCHOO WANT SONNY",
+                "leave": "YEAH GET OUTTA HERE",
+                "buy_again": "YOU GOT MONEY LEFT???",
+                "convoy": "JUST SHOVE IT UP YER BUM",
+                "no_stock": "WE'RE OUTTA THAT",
+                "no_money": "POOR! POINT AND LAUGH!",
+                "max_inventory": "Y CAN'T U HOLD ALL THESE",
+                "sell_again": "FUCK UR TRASH",
+                "again": "BOTTOM TEXT",
+                "no_value": "UNIDENTIFIED FANTASTIC OBJECT",
+                "back": "GOT COLD FEET, SLUT?"
+            }
+        ]
     }
 ]

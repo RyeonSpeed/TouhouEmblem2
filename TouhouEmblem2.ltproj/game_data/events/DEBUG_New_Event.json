@@ -32,7 +32,8 @@
             "set_wexp;Yuna;Bow;181",
             "autolevel_to;Merlin;15;fixed",
             "set_wexp;Miu;Sword;181",
-            "autolevel_to;Keine_NPC;40"
+            "autolevel_to;Keine_NPC;40",
+            "shop;Reimu;Iron_Sword,Tanto;Marisa"
         ],
         "nid": "DEBUG New Event"
     }
