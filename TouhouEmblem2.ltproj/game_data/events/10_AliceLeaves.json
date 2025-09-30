@@ -9,6 +9,9 @@
         "priority": 20,
         "_source": [
             "move_cursor;Alice_Boss",
+            "disp_cursor;t",
+            "wait;1000",
+            "disp_cursor;f",
             "add_portrait;PC-98 Alice;Left",
             "speak;PC-98 Alice;I tire of this farce! I'm leaving!",
             "remove_portrait;PC-98 Alice",

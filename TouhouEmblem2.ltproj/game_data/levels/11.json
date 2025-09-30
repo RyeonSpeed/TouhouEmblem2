@@ -15,7 +15,7 @@
         "objective": {
             "simple": "Defeat Alice",
             "win": "Defeat Alice",
-            "loss": "Reimu or Marisa dies"
+            "loss": "Reimu or Marisa Dies"
         },
         "roam": false,
         "roam_unit": null,

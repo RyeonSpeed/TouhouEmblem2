@@ -44,6 +44,8 @@
             "remove_portrait;Kasen",
             "speak;Mima;*sigh*, it's so hard to gain trust around here.",
             "",
+            "transition;close",
+            "",
             "game_var;chaptercount;10",
             "set_next_chapter;Base"
         ],
