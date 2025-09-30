@@ -3,7 +3,7 @@
         "nid": "Shanghai",
         "name": "Shanghai",
         "desc": "",
-        "variant": null,
+        "variant": "",
         "level": 1,
         "klass": "Doll_L",
         "tags": [],
@@ -76,7 +76,7 @@
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "",
+        "portrait_nid": "Shanghai",
         "affinity": "Thunder",
         "fields": []
     }

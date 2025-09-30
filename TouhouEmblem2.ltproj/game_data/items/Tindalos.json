@@ -74,6 +74,10 @@
             [
                 "cooldown",
                 3
+            ],
+            [
+                "brave",
+                null
             ]
         ]
     }

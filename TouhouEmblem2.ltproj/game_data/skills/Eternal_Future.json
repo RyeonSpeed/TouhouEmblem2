@@ -16,6 +16,10 @@
             [
                 "combat_art",
                 "Eternal_Future_1"
+            ],
+            [
+                "allowed_weapons",
+                "item.nid == 'Roukanken'"
             ]
         ]
     }

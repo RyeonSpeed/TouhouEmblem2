@@ -22,12 +22,16 @@
                 null
             ],
             [
-                "combat_condition",
-                "unit.get_hp() <= unit.get_stat('HP')/3"
-            ],
-            [
                 "combat_art_indicator",
                 null
+            ],
+            [
+                "change_variant",
+                "Saigyou"
+            ],
+            [
+                "condition",
+                "unit.get_hp() <= unit.get_stat('HP')/3"
             ]
         ]
     }

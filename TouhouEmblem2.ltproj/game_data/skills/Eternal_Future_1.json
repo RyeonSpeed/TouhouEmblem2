@@ -19,11 +19,7 @@
             ],
             [
                 "item_override",
-                "new"
-            ],
-            [
-                "condition",
-                "item.nid == 'Roukanken'"
+                "No_Counter"
             ],
             [
                 "stat_multiplier",

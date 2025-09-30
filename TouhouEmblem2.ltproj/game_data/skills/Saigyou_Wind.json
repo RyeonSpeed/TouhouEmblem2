@@ -16,6 +16,10 @@
             [
                 "combat_art_indicator",
                 null
+            ],
+            [
+                "allowed_weapons",
+                "item.nid == \"Roukanken\""
             ]
         ]
     }

@@ -3,10 +3,10 @@
         "nid": "String_Mark",
         "name": "String Mark",
         "desc": "Afflicted unit will suffer -15% Crit Avoid.",
-        "icon_nid": null,
+        "icon_nid": "skillicons102524(1)",
         "icon_index": [
-            0,
-            0
+            1,
+            1
         ],
         "components": [
             [

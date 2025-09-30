@@ -22,8 +22,8 @@
                 null
             ],
             [
-                "condition",
-                "item.nid == 'Roukanken'"
+                "change_variant",
+                "Saigyou"
             ]
         ]
     }
