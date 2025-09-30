@@ -2,7 +2,7 @@
     {
         "nid": "Crit_Plus30",
         "name": "Crit +30",
-        "desc": "Grants +30 Critical change",
+        "desc": "Grants +30% Critical chance.",
         "icon_nid": "skillicons3",
         "icon_index": [
             0,

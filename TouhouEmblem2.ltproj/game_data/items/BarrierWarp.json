@@ -3,10 +3,10 @@
         "nid": "BarrierWarp",
         "name": "Barrier Warp",
         "desc": "",
-        "icon_nid": null,
+        "icon_nid": "NewIcon2",
         "icon_index": [
             0,
-            0
+            5
         ],
         "components": [
             [

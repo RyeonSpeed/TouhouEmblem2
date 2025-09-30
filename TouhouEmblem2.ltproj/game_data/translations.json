@@ -272,7 +272,15 @@
         "text": "This is a general store. {w}{clear}How can I help you?"
     },
     {
+        "nid": "shop_opener",
+        "text": "What can I do for you?"
+    },
+    {
         "nid": "vendor_buy",
+        "text": "What can I get for you?"
+    },
+    {
+        "nid": "shop_buy",
         "text": "What can I get for you?"
     },
     {
@@ -280,8 +288,16 @@
         "text": "Anything else I can do for you?"
     },
     {
+        "nid": "shop_back",
+        "text": "Anything else I can do for you?"
+    },
+    {
         "nid": "vendor_leave",
         "text": "Drop in again."
+    },
+    {
+        "nid": "shop_leave",
+        "text": "Come again!"
     },
     {
         "nid": "shop_again",

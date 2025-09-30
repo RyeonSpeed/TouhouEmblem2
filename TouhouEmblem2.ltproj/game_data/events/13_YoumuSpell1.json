@@ -9,7 +9,7 @@
         "priority": 20,
         "_source": [
             "add_portrait;Youmu;Left",
-            "speak;;Shuraken \"1st Form\";center;90;hint;;red;;;1;;;;;Warp",
+            "speak;;Shuraken \"1st Form\";center;120;hint;;red;;;1;;;;;Warp",
             "speak;Youmu;Not a single step forward!",
             "remove_portrait;Youmu",
             "add_group;YoumuPhase2;YoumuPhase2;warp;closest",

@@ -928,7 +928,7 @@
                     "Looter"
                 ],
                 "team": "enemy",
-                "ai": "Pursue",
+                "ai": "PursueVillage2",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
@@ -951,7 +951,7 @@
                     "Looter"
                 ],
                 "team": "enemy",
-                "ai": "Pursue",
+                "ai": "PursueVillage2",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
@@ -971,7 +971,7 @@
             {
                 "nid": "Wakasagihime_Boss",
                 "team": "enemy",
-                "ai": "Pursue",
+                "ai": "Pursue_1",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
@@ -992,7 +992,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Pursue",
+                "ai": "Pursue_1",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
@@ -1013,7 +1013,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Pursue",
+                "ai": "Pursue_1",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
@@ -1023,7 +1023,7 @@
             {
                 "nid": "Kagerou_Boss_1",
                 "team": "enemy",
-                "ai": "Pursue",
+                "ai": "Pursue_1",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
@@ -1046,7 +1046,7 @@
                     "Summoning_Sickness"
                 ],
                 "team": "enemy",
-                "ai": "Pursue",
+                "ai": "Pursue_1",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
@@ -1069,7 +1069,7 @@
                     "Summoning_Sickness"
                 ],
                 "team": "enemy",
-                "ai": "Pursue",
+                "ai": "Pursue_1",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
@@ -1079,7 +1079,7 @@
             {
                 "nid": "Sekibanki_Boss_1",
                 "team": "enemy",
-                "ai": "Pursue",
+                "ai": "Pursue_1",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
@@ -1102,7 +1102,7 @@
                     "Summoning_Sickness"
                 ],
                 "team": "enemy",
-                "ai": "Pursue",
+                "ai": "Pursue_1",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
@@ -1125,7 +1125,7 @@
                     "Summoning_Sickness"
                 ],
                 "team": "enemy",
-                "ai": "Pursue",
+                "ai": "Pursue_1",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,
@@ -1148,7 +1148,7 @@
                     "Summoning_Sickness"
                 ],
                 "team": "enemy",
-                "ai": "Pursue",
+                "ai": "Pursue_1",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,

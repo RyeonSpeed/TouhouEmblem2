@@ -101,27 +101,24 @@
                 "condition": ""
             },
             {
-                "action": "None",
-                "target": "None",
-                "target_spec": [
-                    "Name",
-                    "Reimu"
-                ],
-                "view_range": 0,
+                "action": "Move_to",
+                "target": "Enemy",
+                "target_spec": null,
+                "view_range": -4,
                 "invert_targeting": false,
                 "roam_speed": 100,
                 "desired_proximity": 0,
                 "condition": ""
             },
             {
-                "action": "Move_away_from",
-                "target": "Enemy",
+                "action": "None",
+                "target": "None",
                 "target_spec": [
                     "ID",
                     "Keine_NPC"
                 ],
                 "view_range": -3,
-                "invert_targeting": true,
+                "invert_targeting": false,
                 "roam_speed": 100,
                 "desired_proximity": 0,
                 "condition": ""

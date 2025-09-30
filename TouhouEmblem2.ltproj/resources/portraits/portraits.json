@@ -2002,5 +2002,29 @@
             48
         ],
         "info_offset": 0
+    },
+    {
+        "nid": "Shanghai",
+        "blinking_offset": [
+            24,
+            48
+        ],
+        "smiling_offset": [
+            24,
+            64
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Hourai",
+        "blinking_offset": [
+            24,
+            48
+        ],
+        "smiling_offset": [
+            24,
+            64
+        ],
+        "info_offset": 0
     }
 ]

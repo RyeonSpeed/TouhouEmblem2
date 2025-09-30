@@ -3,10 +3,10 @@
         "nid": "Rally_1",
         "name": "Rally",
         "desc": "",
-        "icon_nid": null,
+        "icon_nid": "NewIcon3",
         "icon_index": [
             0,
-            0
+            1
         ],
         "components": [
             [
