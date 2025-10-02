@@ -12,6 +12,10 @@
             [
                 "ability_indicator",
                 null
+            ],
+            [
+                "event_on_upkeep",
+                "Global RemiliaCheck"
             ]
         ]
     }
