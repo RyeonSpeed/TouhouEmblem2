@@ -67,6 +67,10 @@
             [
                 "fatigue",
                 1
+            ],
+            [
+                "map_hit_sfx",
+                "Berserk"
             ]
         ]
     }

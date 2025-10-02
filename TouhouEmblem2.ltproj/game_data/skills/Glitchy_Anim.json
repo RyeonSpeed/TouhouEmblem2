@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Glitchy_Anim",
+        "name": "New_Skill_1",
+        "desc": "<!DOCTYPE html>\n<html class=\"desktop-view not-mobile-device text-size-normal anon no-touch discourse-no-touch\" lang=\"en\" style=\"--header-offset: 64px; --main-outlet-offset: 64px;\">\n  <head>\n    <meta charset=\"utf-8\">\n    <meta name=\"description\" content=\"Touhou Emblem 2 is the 4th Team Stoned Stoners Project and a_w what goes on in Touhou Emblem 1 nor will you have &hellip;\">\n    <meta name=\"discourse_theme_id\" content=\"1\">\n    <meta name=\"discourse_current_homepage\" content=\"latest\">\n    <meta name=\"generator\" content=\"Discourse 3.6.0.beta1-dev - https://github.com/discourse/discourse version 5bb3b79eb0a2cdad0648b9b8edf2bec8cab23f2\">\n    <link rel=\"icon\" type=\"image/png\" href=\"https://feuniverse.us/uploads/default/optimized/3X/d/d787842f232b451fc9c5008cf16a0cc235d8784_2_32x32.gif\">\n  </head>\n</html>",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "change_variant",
+                "Glitchy"
+            ]
+        ]
+    }
+]

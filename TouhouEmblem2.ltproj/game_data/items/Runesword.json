@@ -2,7 +2,7 @@
     {
         "nid": "Runesword",
         "name": "Runesword",
-        "desc": "An unholy sword capable of sapping lifeforce.|Magic, Drain.",
+        "desc": "An unholy sword capable of sapping lifeforce. Magic, Drain.",
         "icon_nid": "the2icons",
         "icon_index": [
             3,
@@ -75,6 +75,10 @@
             [
                 "magic",
                 null
+            ],
+            [
+                "battle_cast_anim",
+                "Nosferatu"
             ]
         ]
     }

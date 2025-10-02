@@ -2633,7 +2633,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Glitchy_Anim"
+                ],
                 "team": "other",
                 "ai": "Attack",
                 "roam_ai": null,
@@ -2654,7 +2656,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Glitchy_Anim"
+                ],
                 "team": "other",
                 "ai": "Attack",
                 "roam_ai": null,
@@ -2675,7 +2679,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Glitchy_Anim"
+                ],
                 "team": "other",
                 "ai": "Attack",
                 "roam_ai": null,

@@ -32,6 +32,22 @@
             [
                 "lost_on_end_chapter",
                 null
+            ],
+            [
+                "unit_flickering_tint",
+                [
+                    255,
+                    0,
+                    0
+                ]
+            ],
+            [
+                "combat_flickering_tint",
+                [
+                    255,
+                    0,
+                    0
+                ]
             ]
         ]
     }
