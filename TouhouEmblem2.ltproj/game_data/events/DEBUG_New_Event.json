@@ -33,6 +33,7 @@
             "autolevel_to;Merlin;15;fixed",
             "set_wexp;Miu;Sword;181",
             "autolevel_to;Keine_NPC;40"
+            "autolevel_to;Reimu;2;fixed"
         ],
         "nid": "DEBUG New Event"
     }

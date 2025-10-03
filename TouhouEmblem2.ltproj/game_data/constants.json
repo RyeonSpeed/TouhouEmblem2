@@ -321,7 +321,7 @@
     ],
     [
         "exp_curve",
-        0.035
+        0.04
     ],
     [
         "exp_magnitude",
@@ -329,7 +329,7 @@
     ],
     [
         "exp_offset",
-        0
+        1.0
     ],
     [
         "gexp_max",
@@ -341,7 +341,7 @@
     ],
     [
         "gexp_slope",
-        0.25
+        0.05
     ],
     [
         "gexp_intercept",

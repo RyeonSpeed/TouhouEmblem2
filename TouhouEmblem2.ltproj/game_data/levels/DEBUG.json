@@ -27,10 +27,10 @@
         "tags": [],
         "units": [
             {
-                "nid": "101",
+                "nid": "109",
                 "variant": null,
-                "level": 20,
-                "klass": "Peg_Rider",
+                "level": 1,
+                "klass": "Archer",
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -166,6 +166,7 @@
                         false
                     ]
                 ],
+                "starting_items": [],
                 "starting_skills": [],
                 "team": "enemy",
                 "ai": "Guard",
@@ -213,6 +214,36 @@
                 "starting_position": [
                     20,
                     19
+                ],
+                "starting_traveler": null,
+                    13,
+                    17
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Kosuzu",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    16
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Aunn",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    18
                 ],
                 "starting_traveler": null,
                 "generic": false

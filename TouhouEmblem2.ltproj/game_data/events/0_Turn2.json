@@ -9,7 +9,7 @@
         "priority": 20,
         "_source": [
             "add_group;Player;Player;fade;closest",
-            "autolevel_to;Kasen;10;fixed",
+            "autolevel_to;Kasen;15;fixed",
             "move_cursor;Kasen",
             "flicker_cursor;Kasen",
             "multi_add_portrait;Kasen;CenterLeft;Remilia;FarLeft",
