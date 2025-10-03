@@ -2,7 +2,7 @@
     {
         "nid": "Indomitable_Spirit",
         "name": "Indomitable Spirit",
-        "desc": "Immune to negative statuses. Halves damage from critical hits.",
+        "desc": "Immune to sleep and berserk. Halves damage from critical hits.",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,
@@ -20,6 +20,13 @@
                     "recipient": "target",
                     "allegiance": "both"
                 }
+            ],
+            [
+                "multi_skill",
+                [
+                    "Indomitable_Spirit_3",
+                    "Indomitable_Spirit_4"
+                ]
             ]
         ]
     }

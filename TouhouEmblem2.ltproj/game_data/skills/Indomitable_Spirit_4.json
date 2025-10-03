@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Indomitable_Spirit_4",
+        "name": "Indomitable Spirit",
+        "desc": "Immune to negative statuses. Halves damage from critical hits.",
+        "icon_nid": "skillicons3",
+        "icon_index": [
+            1,
+            2
+        ],
+        "components": [
+            [
+                "immune__choose_status",
+                "Berserk"
+            ],
+            [
+                "hidden",
+                null
+            ]
+        ]
+    }
+]

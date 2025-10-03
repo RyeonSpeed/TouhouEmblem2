@@ -116,14 +116,14 @@
         "name": "Bonus Exp",
         "title": "Bonus Experience",
         "category": "Guide",
-        "text": "Bonus Exp is a feature that gives you extra stored exp for completing certain objectives, such as visiting houses or unlocking certain secrets on maps. You can use bonus exp before a chapter in Base Preps. This exp can be utilized to grind up a new unit to help them catch up, or invest further into an already trained unit. A single point of Bonus Exp will be less effective the higher level a unit is."
+        "text": "Bonus Exp is a feature that gives you extra stored exp for completing certain objectives, such as visiting houses or unlocking certain secrets on maps. You can use bonus exp before a chapter in Base Preps. \nThis exp can be utilized to grind up a new unit to help them catch up, or invest further into an already trained unit. A single point of Bonus Exp will be less effective the higher level a unit is."
     },
     {
         "nid": "Base_Conversations",
         "name": "Base Convos",
         "title": "Base Conversations",
         "category": "Guide",
-        "text": "Each chapter, there will be new base conversations for you to access. These conversations will give you rewards like bonus exp, extra items, and maybe even new playables. Be forewarned, however, that not all base conversations will be available permanently. Some may disappear after the chapter ends or after a period of time."
+        "text": "Each chapter, there will be new base conversations for you to access. These conversations will give you rewards like bonus exp, extra items, and maybe even new playables. \nBe forewarned, however, that not all base conversations will be available permanently. Some may disappear after the chapter ends or after a period of time."
     },
     {
         "nid": "Market",

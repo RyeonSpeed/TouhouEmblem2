@@ -2,7 +2,7 @@
     {
         "nid": "Night_Hunter",
         "name": "Night Hunter",
-        "desc": "+4 Str/Mag and +1 MOV. Take double damage from follow-up attacks.",
+        "desc": "+4 Str/Mag and +1 MOV. Take halved damage from follow-up attacks.",
         "icon_nid": "skillicons3",
         "icon_index": [
             1,
@@ -28,7 +28,7 @@
             ],
             [
                 "resist_follow_up",
-                2.0
+                0.5
             ],
             [
                 "lost_on_end_chapter",

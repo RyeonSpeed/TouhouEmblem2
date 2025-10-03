@@ -1,8 +1,8 @@
 [
     {
         "nid": "Mercy",
-        "name": "Mercy",
-        "desc": "",
+        "name": "Merciful Fighter",
+        "desc": "Prevents unit from doubling/critting or being doubled/critted.",
         "icon_nid": "skillicons4",
         "icon_index": [
             0,
@@ -10,18 +10,28 @@
         ],
         "components": [
             [
-                "TrueMiracle",
+                "cannot_double",
                 null
             ],
             [
-                "lost_on_end_combat2",
-                {
-                    "lost_on_self": true,
-                    "lost_on_ally": true,
-                    "lost_on_enemy": true,
-                    "lost_on_splash": true,
-                    "only_if_initiated": false
-                }
+                "defense_speed",
+                99
+            ],
+            [
+                "ability",
+                "Merciful_Fighter_Remove"
+            ],
+            [
+                "crit",
+                -200
+            ],
+            [
+                "crit_avoid",
+                200
+            ],
+            [
+                "lost_on_end_chapter",
+                null
             ]
         ]
     }

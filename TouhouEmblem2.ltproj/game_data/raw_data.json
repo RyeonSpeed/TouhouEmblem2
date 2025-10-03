@@ -292,6 +292,36 @@
                 "again": "BOTTOM TEXT",
                 "no_value": "UNIDENTIFIED FANTASTIC OBJECT",
                 "back": "GOT COLD FEET, SLUT?"
+            },
+            {
+                "nid": "Kosuzu",
+                "opener": "Welcome to Suzunaan!",
+                "buy": "I'm sure you'll find a good book, or something.",
+                "leave": "Leaving so soon?",
+                "buy_again": "Care for another book?",
+                "convoy": "I'll have that sent to the supply!",
+                "no_stock": "Aww...we're out.",
+                "no_money": "Hm, it seems you don't have enough money.",
+                "max_inventory": "You have too much stuff!",
+                "sell_again": "Here's your change!",
+                "again": "Anything else?",
+                "no_value": "What?",
+                "back": "See you again!"
+            },
+            {
+                "nid": "Rinnosuke",
+                "opener": "Welcome to Kourindou.",
+                "buy": "I think there might be something interesting in this pile...",
+                "leave": "Tsk, window shoppers.",
+                "buy_again": "You're actually buying more?",
+                "convoy": "Your inventory's so cluttered. To the supply.",
+                "no_stock": "Items don't grow on trees.",
+                "no_money": "This isn't a charity.",
+                "max_inventory": "Too much stuff. Consider selling to me instead.",
+                "sell_again": "I can't keep buying without selling.",
+                "again": "Anything else?",
+                "no_value": "Huh?",
+                "back": "Come again."
             }
         ]
     }
