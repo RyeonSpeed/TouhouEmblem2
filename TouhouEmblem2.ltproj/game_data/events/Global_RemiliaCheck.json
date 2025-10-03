@@ -3,7 +3,7 @@
         "name": "RemiliaCheck",
         "trigger": "turn_change",
         "level_nid": null,
-        "condition": "False",
+        "condition": "game.turncount == 1",
         "commands": [],
         "only_once": false,
         "priority": 20,

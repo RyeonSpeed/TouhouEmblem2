@@ -36,15 +36,9 @@
                     [
                         "Iron_Lance",
                         true
-                    ],
-                    [
-                        "Lucky_Clover",
-                        true
                     ]
                 ],
-                "starting_skills": [
-                    "BlizzardAura"
-                ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Guard",
                 "roam_ai": null,
@@ -71,7 +65,7 @@
                 "starting_skills": [
                     "Bleeding_Shot"
                 ],
-                "team": "enemy",
+                "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
@@ -128,14 +122,14 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    16,
-                    17
+                    20,
+                    18
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
-                "nid": "Youmu",
+                "nid": "Alice",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -148,123 +142,14 @@
                 "generic": false
             },
             {
-                "nid": "Youmu_Boss_3",
-                "team": "enemy",
-                "ai": "Guard",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    20,
-                    18
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "104",
-                "variant": null,
-                "level": 35,
-                "klass": "Druid",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Slime",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
+                "nid": "Kasen",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    20,
-                    19
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "105",
-                "variant": null,
-                "level": 35,
-                "klass": "Druid",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Slime",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    19,
-                    18
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "106",
-                "variant": null,
-                "level": 35,
-                "klass": "Druid",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Slime",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    21,
-                    18
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "107",
-                "variant": null,
-                "level": 35,
-                "klass": "Druid",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Slime",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    20,
+                    23,
                     17
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "Meta",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    15,
-                    19
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -283,15 +168,54 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    20,
+                    17
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Kosuzu",
+                "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    13,
+                    18,
+                    20
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Sunny",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    19,
+                    20
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Tewi",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    20,
                     19
                 ],
                 "starting_traveler": null,
-                "generic": true
+                "generic": false
             }
         ],
         "regions": [
