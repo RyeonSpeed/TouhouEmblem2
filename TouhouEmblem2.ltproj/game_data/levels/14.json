@@ -2937,7 +2937,7 @@
                     1,
                     1
                 ],
-                "sub_nid": null,
+                "sub_nid": "",
                 "condition": "True",
                 "time_left": null,
                 "only_once": false,
@@ -2945,7 +2945,7 @@
                 "hide_time": false
             },
             {
-                "nid": "Chest_1",
+                "nid": "Chest1",
                 "region_type": "event",
                 "position": [
                     15,
@@ -2963,7 +2963,7 @@
                 "hide_time": false
             },
             {
-                "nid": "Chest_2",
+                "nid": "Chest2",
                 "region_type": "event",
                 "position": [
                     11,
@@ -2981,7 +2981,7 @@
                 "hide_time": false
             },
             {
-                "nid": "Chest_3",
+                "nid": "Chest3",
                 "region_type": "event",
                 "position": [
                     20,
@@ -3001,13 +3001,10 @@
         ],
         "unit_groups": [
             {
-                "nid": "Turn5",
+                "nid": "Turn5A",
                 "units": [
                     "164",
-                    "165",
-                    "170",
-                    "169",
-                    "141"
+                    "165"
                 ],
                 "positions": {
                     "164": [
@@ -3033,14 +3030,11 @@
                 }
             },
             {
-                "nid": "Turn8",
+                "nid": "Turn8A",
                 "units": [
                     "166",
                     "167",
-                    "168",
-                    "171",
-                    "172",
-                    "181"
+                    "168"
                 ],
                 "positions": {
                     "166": [
@@ -3070,13 +3064,12 @@
                 }
             },
             {
-                "nid": "Turn11",
+                "nid": "Turn11A",
                 "units": [
                     "177",
                     "176",
                     "175",
-                    "174",
-                    "182"
+                    "174"
                 ],
                 "positions": {
                     "177": [
@@ -3153,14 +3146,10 @@
                 }
             },
             {
-                "nid": "Shinki1",
+                "nid": "Shinki1A",
                 "units": [
                     "Shinki_Boss_1",
                     "Yumeko_Boss_2",
-                    "188",
-                    "187",
-                    "186",
-                    "185",
                     "184"
                 ],
                 "positions": {
@@ -3195,69 +3184,9 @@
                 }
             },
             {
-                "nid": "Shinki2",
-                "units": [
-                    "Shinki_Boss_2",
-                    "Alice_Boss_5",
-                    "190",
-                    "191",
-                    "189",
-                    "192",
-                    "193",
-                    "194",
-                    "195",
-                    "196"
-                ],
-                "positions": {
-                    "Shinki_Boss_2": [
-                        20,
-                        3
-                    ],
-                    "Alice_Boss_5": [
-                        21,
-                        4
-                    ],
-                    "190": [
-                        8,
-                        0
-                    ],
-                    "191": [
-                        10,
-                        0
-                    ],
-                    "189": [
-                        0,
-                        2
-                    ],
-                    "192": [
-                        0,
-                        4
-                    ],
-                    "193": [
-                        23,
-                        15
-                    ],
-                    "194": [
-                        23,
-                        16
-                    ],
-                    "195": [
-                        23,
-                        23
-                    ],
-                    "196": [
-                        23,
-                        24
-                    ]
-                }
-            },
-            {
-                "nid": "Shinki3",
+                "nid": "Shinki3A",
                 "units": [
                     "Shinki_Boss_3",
-                    "Sara_Boss_2",
-                    "Louise_Boss_2",
-                    "197",
                     "198",
                     "199",
                     "200",
@@ -3317,6 +3246,224 @@
                     "204": [
                         15,
                         3
+                    ]
+                }
+            },
+            {
+                "nid": "Turn5B",
+                "units": [
+                    "170",
+                    "169"
+                ],
+                "positions": {
+                    "170": [
+                        23,
+                        8
+                    ],
+                    "169": [
+                        23,
+                        9
+                    ]
+                }
+            },
+            {
+                "nid": "Turn5C",
+                "units": [
+                    "141"
+                ],
+                "positions": {
+                    "141": [
+                        0,
+                        3
+                    ]
+                }
+            },
+            {
+                "nid": "Turn8B",
+                "units": [
+                    "171",
+                    "172"
+                ],
+                "positions": {
+                    "171": [
+                        23,
+                        23
+                    ],
+                    "172": [
+                        23,
+                        24
+                    ]
+                }
+            },
+            {
+                "nid": "Turn8C",
+                "units": [
+                    "181"
+                ],
+                "positions": {
+                    "181": [
+                        23,
+                        15
+                    ]
+                }
+            },
+            {
+                "nid": "Turn11B",
+                "units": [
+                    "182"
+                ],
+                "positions": {
+                    "182": [
+                        23,
+                        9
+                    ]
+                }
+            },
+            {
+                "nid": "Shinki1B",
+                "units": [
+                    "187",
+                    "188"
+                ],
+                "positions": {
+                    "187": [
+                        1,
+                        14
+                    ],
+                    "188": [
+                        0,
+                        13
+                    ]
+                }
+            },
+            {
+                "nid": "Shinki1C",
+                "units": [
+                    "185",
+                    "186"
+                ],
+                "positions": {
+                    "185": [
+                        21,
+                        6
+                    ],
+                    "186": [
+                        22,
+                        7
+                    ]
+                }
+            },
+            {
+                "nid": "Shinki2C",
+                "units": [
+                    "Shinki_Boss_2",
+                    "Alice_Boss_5"
+                ],
+                "positions": {
+                    "Shinki_Boss_2": [
+                        20,
+                        3
+                    ],
+                    "Alice_Boss_5": [
+                        21,
+                        4
+                    ]
+                }
+            },
+            {
+                "nid": "Shinki2A",
+                "units": [
+                    "189",
+                    "192"
+                ],
+                "positions": {
+                    "189": [
+                        0,
+                        2
+                    ],
+                    "192": [
+                        0,
+                        4
+                    ]
+                }
+            },
+            {
+                "nid": "Shinki2B",
+                "units": [
+                    "190",
+                    "191"
+                ],
+                "positions": {
+                    "190": [
+                        8,
+                        0
+                    ],
+                    "191": [
+                        10,
+                        0
+                    ]
+                }
+            },
+            {
+                "nid": "Shinki2D",
+                "units": [
+                    "193",
+                    "194"
+                ],
+                "positions": {
+                    "193": [
+                        23,
+                        15
+                    ],
+                    "194": [
+                        23,
+                        16
+                    ]
+                }
+            },
+            {
+                "nid": "Shinki2E",
+                "units": [
+                    "195",
+                    "196"
+                ],
+                "positions": {
+                    "195": [
+                        23,
+                        23
+                    ],
+                    "196": [
+                        23,
+                        24
+                    ]
+                }
+            },
+            {
+                "nid": "Shinki3B",
+                "units": [
+                    "Louise_Boss_2",
+                    "197"
+                ],
+                "positions": {
+                    "Louise_Boss_2": [
+                        23,
+                        15
+                    ],
+                    "197": [
+                        23,
+                        16
+                    ]
+                }
+            },
+            {
+                "nid": "Shinki3C",
+                "units": [
+                    "Sara_Boss_2"
+                ],
+                "positions": {
+                    "Sara_Boss_2": [
+                        9,
+                        0
                     ]
                 }
             }

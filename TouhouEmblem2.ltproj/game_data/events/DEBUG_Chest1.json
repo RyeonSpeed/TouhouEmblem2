@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Chest1",
+        "trigger": "Chest",
+        "level_nid": "DEBUG",
+        "condition": "True",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "unlock;{unit}",
+            "give_item;{unit};Iron_Sword",
+            "has_finished;{unit}"
+        ],
+        "nid": "DEBUG Chest1"
+    }
+]

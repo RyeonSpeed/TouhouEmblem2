@@ -8,11 +8,10 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "add_group;Turn14;Turn14;warp;closest",
-            "move_cursor;179",
-            "flicker_cursor;179",
-            "",
-            ""
+            "center_cursor;0,3;150",
+            "wait;200",
+            "add_group;Turn14;Turn14;immediate;closest",
+            "wait;500"
         ],
         "nid": "14 Turn14"
     }
