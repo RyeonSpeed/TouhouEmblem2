@@ -8,8 +8,10 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "center_cursor;14,17",
+            "wait;200",
             "add_group;Thief1;Thief1;fade;closest",
-            "move_cursor;14,17"
+            "wait;500"
         ],
         "nid": "3 Turn3"
     }

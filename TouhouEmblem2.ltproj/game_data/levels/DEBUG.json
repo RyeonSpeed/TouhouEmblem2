@@ -160,12 +160,6 @@
                 "level": 3,
                 "klass": "Thief",
                 "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Kama",
-                        false
-                    ]
-                ],
                 "starting_items": [],
                 "starting_skills": [],
                 "team": "enemy",
@@ -204,23 +198,6 @@
                 ],
                 "starting_traveler": null,
                 "generic": false
-            },
-            {
-                "nid": "Tewi",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    20,
-                    19
-                ],
-                "starting_traveler": null,
-                    13,
-                    17
-                ],
-                "starting_traveler": null,
-                "generic": true
             },
             {
                 "nid": "Kosuzu",
