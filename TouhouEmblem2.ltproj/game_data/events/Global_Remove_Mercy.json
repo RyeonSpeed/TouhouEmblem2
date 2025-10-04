@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Remove_Mercy",
+        "trigger": null,
+        "level_nid": null,
+        "condition": "False",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "remove_skill;{unit};Mercy;no_banner"
+        ],
+        "nid": "Global Remove_Mercy"
+    }
+]

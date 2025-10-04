@@ -1,8 +1,8 @@
 [
     {
-        "nid": "Study",
-        "name": "Study",
-        "desc": "",
+        "nid": "Merciful_Fighter",
+        "name": "Merciful Fighter",
+        "desc": "Applies \"Merciful Fighter\".",
         "icon_nid": null,
         "icon_index": [
             0,
@@ -22,12 +22,8 @@
                 0
             ],
             [
-                "event_after_combat_even_miss",
-                "Global ToggleStudious"
-            ],
-            [
-                "map_hit_sfx",
-                "PencilWrite"
+                "self_status_on_hit",
+                "Mercy"
             ],
             [
                 "attack_after_combat",

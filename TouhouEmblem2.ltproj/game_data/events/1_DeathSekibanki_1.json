@@ -15,7 +15,10 @@
             "remove_portrait;Sekibanki",
             "level_var;SekibankiSpellMusic;0",
             "give_bexp;100;Reimu",
-            "show_combat_ui"
+            "show_combat_ui",
+            "remove_unit;140;warp;north",
+            "remove_unit;141;warp;north",
+            "remove_unit;142;warp;north"
         ],
         "nid": "1 DeathSekibanki_1"
     }

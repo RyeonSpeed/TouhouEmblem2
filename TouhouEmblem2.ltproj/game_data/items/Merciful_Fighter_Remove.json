@@ -1,8 +1,8 @@
 [
     {
-        "nid": "Study",
-        "name": "Study",
-        "desc": "",
+        "nid": "Merciful_Fighter_Remove",
+        "name": "Remove",
+        "desc": "Unapplies \"Merciful Fighter\".",
         "icon_nid": null,
         "icon_index": [
             0,
@@ -22,16 +22,12 @@
                 0
             ],
             [
-                "event_after_combat_even_miss",
-                "Global ToggleStudious"
-            ],
-            [
-                "map_hit_sfx",
-                "PencilWrite"
-            ],
-            [
                 "attack_after_combat",
                 null
+            ],
+            [
+                "event_after_combat_even_miss",
+                "Global Remove_Mercy"
             ]
         ]
     }

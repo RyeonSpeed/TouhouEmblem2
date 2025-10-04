@@ -1,8 +1,8 @@
 [
     {
         "nid": "Mercy_Art",
-        "name": "Mercy",
-        "desc": "<blue>[Combat Start]</blue> Leaves enemies at 1 HP.",
+        "name": "Merciful Fighter",
+        "desc": "<blue>[On Use]</blue> Prevents unit from doubling/critting or being doubled/critted.",
         "icon_nid": "skillicons4",
         "icon_index": [
             0,
@@ -10,16 +10,16 @@
         ],
         "components": [
             [
-                "combat_art",
-                "MercyAura"
+                "ability",
+                "Merciful_Fighter"
             ],
             [
-                "allowed_weapons",
-                "item_system.weapon_type(unit, item) in ['Sword', 'Lance', 'Axe', 'Bow', 'Anima', 'Dark', 'Light', 'Monster']"
-            ],
-            [
-                "combat_art_indicator",
+                "ability_indicator",
                 null
+            ],
+            [
+                "condition",
+                "not has_skill(unit1, 'Mercy')"
             ]
         ]
     }

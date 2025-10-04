@@ -262,6 +262,10 @@
                     [
                         "Slim_Axe",
                         false
+                    ],
+                    [
+                        "Yukkuri_M",
+                        false
                     ]
                 ],
                 "starting_skills": [],
@@ -627,6 +631,10 @@
                 "starting_items": [
                     [
                         "Tanto",
+                        false
+                    ],
+                    [
+                        "Yukkuri_R",
                         false
                     ]
                 ],
@@ -1176,6 +1184,10 @@
                 "starting_items": [
                     [
                         "Steel_Sword",
+                        false
+                    ],
+                    [
+                        "Yukkuri_R",
                         false
                     ]
                 ],
