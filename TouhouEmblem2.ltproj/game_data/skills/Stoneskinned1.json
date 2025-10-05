@@ -23,7 +23,7 @@
             ],
             [
                 "combat_condition",
-                "item_funcs.is_ranged(unit2, item2)"
+                "utils.calculate_distance(unit.position, target.position) > 1"
             ]
         ]
     }

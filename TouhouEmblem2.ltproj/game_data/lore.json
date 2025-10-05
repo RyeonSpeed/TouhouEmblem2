@@ -74,7 +74,7 @@
         "name": "Rescue",
         "title": "Rescue",
         "category": "Guide",
-        "text": "Rescue is a function that basically all units can do which allows them to absorb a unit into them and carry them around. \nRescuing can be used to save a unit from being killed once enemy phase rolls around, or can be used to ferry units around the battlefield. \nUnits who are rescuing another unit receive penalties to their Skl and Spd, which can make them vulnerable to attack.\nThere are certain restrictions to who a unit can rescue. A unit can only rescue other units if the unit being rescued has a Con stat equal or lower than the rescuer's Aid stat (calculated using Con - 1 for infantry, and 25 - Con for mounted/flying units)."
+        "text": "Rescue is a function that basically all units can do which allows them to absorb a unit into them and carry them around. \nRescuing can be used to save a unit from being killed once enemy phase rolls around, or can be used to ferry units around the battlefield. \nUnits who are rescuing another unit receive penalties to their Skl and Spd, which can make them vulnerable to attack.\nA unit can only rescue other units if the unit being rescued has a Con stat equal or lower than the rescuer's Aid stat (calculated using Con - 1 for infantry, and 25 - Con for mounted/flying units)."
     },
     {
         "nid": "Lockpicking",
