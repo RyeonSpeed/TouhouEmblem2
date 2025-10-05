@@ -10,7 +10,6 @@
         "_source": [
             "trigger_script_with_args;Global FUCK YOU RAINLASH",
             "level_var;TurnwheelUses;0",
-            "start_turnwheel_recording",
             "music;Nostalgic Blood",
             "if;game.current_mode.nid == 'Baby'",
             "game_var;difficultybonus;0",
