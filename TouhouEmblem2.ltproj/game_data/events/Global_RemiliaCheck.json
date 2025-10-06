@@ -9,10 +9,10 @@
         "priority": 20,
         "_source": [
             "if;u('Remilia') and u('Remilia').position",
-            "game_var;_turnwheel;1",
+            "enable_turnwheel;true",
             "level_var;_current_turnwheel_uses;-1",
             "else",
-            "game_var;_turnwheel;0",
+            "enable_turnwheel;false",
             "end"
         ],
         "nid": "Global RemiliaCheck"
