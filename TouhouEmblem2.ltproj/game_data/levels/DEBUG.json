@@ -80,11 +80,11 @@
                 "nid": "103",
                 "variant": null,
                 "level": 10,
-                "klass": "Citizen",
+                "klass": "Mage",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Iron_Bow",
+                        "Fire",
                         false
                     ]
                 ],
@@ -129,14 +129,14 @@
                 "generic": false
             },
             {
-                "nid": "Alice",
+                "nid": "Marisa",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    17,
-                    20
+                    16,
+                    19
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -265,6 +265,11 @@
             }
         ],
         "unit_groups": [],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]
