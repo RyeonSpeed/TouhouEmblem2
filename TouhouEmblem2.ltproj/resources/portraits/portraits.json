@@ -1392,18 +1392,6 @@
         "info_offset": 0
     },
     {
-        "nid": "ringo",
-        "blinking_offset": [
-            24,
-            32
-        ],
-        "smiling_offset": [
-            24,
-            48
-        ],
-        "info_offset": 0
-    },
-    {
         "nid": "zun_cultist",
         "blinking_offset": [
             24,
@@ -1692,31 +1680,7 @@
         "info_offset": 0
     },
     {
-        "nid": "Sen",
-        "blinking_offset": [
-            24,
-            32
-        ],
-        "smiling_offset": [
-            24,
-            48
-        ],
-        "info_offset": 0
-    },
-    {
         "nid": "Sena",
-        "blinking_offset": [
-            24,
-            32
-        ],
-        "smiling_offset": [
-            24,
-            48
-        ],
-        "info_offset": 0
-    },
-    {
-        "nid": "Taiga",
         "blinking_offset": [
             24,
             32
@@ -1800,18 +1764,6 @@
         "info_offset": 0
     },
     {
-        "nid": "kyouko",
-        "blinking_offset": [
-            24,
-            32
-        ],
-        "smiling_offset": [
-            24,
-            48
-        ],
-        "info_offset": 0
-    },
-    {
         "nid": "sekibanki",
         "blinking_offset": [
             24,
@@ -1832,18 +1784,6 @@
         "smiling_offset": [
             24,
             48
-        ],
-        "info_offset": 0
-    },
-    {
-        "nid": "Rinnosuke",
-        "blinking_offset": [
-            24,
-            24
-        ],
-        "smiling_offset": [
-            24,
-            40
         ],
         "info_offset": 0
     },
@@ -2029,6 +1969,66 @@
     },
     {
         "nid": "Meta",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Rinnosuke",
+        "blinking_offset": [
+            24,
+            24
+        ],
+        "smiling_offset": [
+            24,
+            40
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Ringo",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Kyouko",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Sen",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Taiga",
         "blinking_offset": [
             24,
             32
