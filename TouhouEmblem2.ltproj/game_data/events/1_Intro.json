@@ -72,7 +72,7 @@
             "speak;Akyuu;You're allowing Kosuzu and that shopkeeper to travel with you. Why not me?",
             "speak;Reimu;Fine. But don't cause me any trouble!",
             "multi_remove_portrait;Reimu;Akyuu",
-            "load_unit;Akyuu;player",
+            "change_team;Akyuu;player",
             "#Housekeeping Time",
             "transition;close",
             "multi_remove_portrait;Reimu;Kasen;Marisa;Remilia",

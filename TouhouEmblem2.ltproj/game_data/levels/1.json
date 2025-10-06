@@ -1157,7 +1157,7 @@
             },
             {
                 "nid": "Akyuu",
-                "team": "player",
+                "team": "other",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
@@ -1508,6 +1508,11 @@
                 }
             }
         ],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]
