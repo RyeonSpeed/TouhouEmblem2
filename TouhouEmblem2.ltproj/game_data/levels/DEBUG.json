@@ -79,7 +79,7 @@
             {
                 "nid": "103",
                 "variant": null,
-                "level": 10,
+                "level": 40,
                 "klass": "Mage",
                 "faction": "Youkai",
                 "starting_items": [
@@ -96,8 +96,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    15,
-                    21
+                    17,
+                    18
                 ],
                 "starting_traveler": null,
                 "generic": true

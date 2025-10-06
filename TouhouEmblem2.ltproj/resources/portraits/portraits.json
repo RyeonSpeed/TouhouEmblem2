@@ -2038,5 +2038,17 @@
             48
         ],
         "info_offset": 0
+    },
+    {
+        "nid": "c2c09657d745780c02d95e414db3e2ccb4eab915",
+        "blinking_offset": [
+            32,
+            32
+        ],
+        "smiling_offset": [
+            32,
+            48
+        ],
+        "info_offset": 0
     }
 ]
