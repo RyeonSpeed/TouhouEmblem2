@@ -8,7 +8,6 @@
         "only_once": false,
         "priority": 1,
         "_source": [
-            "level_var;TurnwheelUses;0",
             "game_var;SoulCharge;0",
             "add_lore;Intro",
             "add_lore;Character_Stats",

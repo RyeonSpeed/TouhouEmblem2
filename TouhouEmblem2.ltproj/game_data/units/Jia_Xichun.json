@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Jia_Xichun",
+        "name": "Jia Xichun",
+        "desc": "",
+        "variant": null,
+        "level": 1,
+        "klass": "Citizen",
+        "tags": [],
+        "bases": {},
+        "growths": {},
+        "stat_cap_modifiers": {},
+        "starting_items": [],
+        "learned_skills": [],
+        "unit_notes": [],
+        "wexp_gain": {},
+        "alternate_classes": [],
+        "portrait_nid": "c2c09657d745780c02d95e414db3e2ccb4eab915",
+        "affinity": null,
+        "fields": []
+    }
+]

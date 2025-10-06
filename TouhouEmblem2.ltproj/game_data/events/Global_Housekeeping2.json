@@ -8,7 +8,6 @@
         "only_once": false,
         "priority": 1,
         "_source": [
-            "level_var;TurnwheelUses;0",
             "level_var;MokouRevives;0",
             "game_var;SoulCharge;0",
             "for;baseconvo;v('baseconvolist')",
