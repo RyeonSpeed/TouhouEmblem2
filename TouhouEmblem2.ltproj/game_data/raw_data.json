@@ -324,5 +324,28 @@
                 "back": "Come again."
             }
         ]
+    },
+    {
+        "nid": "Ch14BossMusicTriggers",
+        "dtype": "list",
+        "svalue": "",
+        "kvvalue": [],
+        "oattrs": [
+            "nid"
+        ],
+        "lovalue": [
+            {
+                "nid": "Mai_Boss_1"
+            },
+            {
+                "nid": "Yuki_Boss"
+            },
+            {
+                "nid": "Shinki_Boss"
+            },
+            {
+                "nid": "Mima_Boss"
+            }
+        ]
     }
 ]

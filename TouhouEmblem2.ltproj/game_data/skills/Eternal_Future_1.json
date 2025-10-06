@@ -29,6 +29,14 @@
                         2.0
                     ]
                 ]
+            ],
+            [
+                "cannot_double",
+                null
+            ],
+            [
+                "armsthrift",
+                -4
             ]
         ]
     }
