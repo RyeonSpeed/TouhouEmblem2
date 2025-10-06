@@ -10,6 +10,7 @@
         "_source": [
             "trigger_script_with_args;Global FUCK YOU RAINLASH",
             "level_var;TurnwheelUses;0",
+            "start_turnwheel_recording",
             "music;Nostalgic Blood",
             "if;game.current_mode.nid == 'Baby'",
             "game_var;difficultybonus;0",
@@ -63,7 +64,7 @@
             "enable_convoy;1",
             "enable_turnwheel;1",
             "enable_repair_shop;false",
-            "game_var;_current_turnwheel_uses;-1",
+            "level_var;_current_turnwheel_uses;-1",
             "game_var;_fatigue;0",
             "add_lore;Intro",
             "add_lore;Character_Stats",
