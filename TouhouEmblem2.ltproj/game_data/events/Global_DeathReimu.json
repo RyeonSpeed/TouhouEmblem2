@@ -14,7 +14,7 @@
             "expression;Reimu;CloseEyes",
             "remove_portrait;Reimu",
             "remove_unit;Reimu",
-            "if;({v:_current_turnwheel_uses} > 0) and ({v:_turnwheel} == True)",
+            "if;{v:_turnwheel} == True",
             "activate_turnwheel;t",
             "else",
             "lose_game",

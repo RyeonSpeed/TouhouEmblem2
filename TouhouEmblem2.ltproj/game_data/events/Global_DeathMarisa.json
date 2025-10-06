@@ -13,7 +13,7 @@
             "speak;Marisa;Come on Marisa, you got through worse. Get up!",
             "expression;Marisa;CloseEyes",
             "remove_portrait;Marisa",
-            "if;({v:_current_turnwheel_uses} > 0) and ({v:_turnwheel} == True)",
+            "if;{v:_turnwheel} == True",
             "activate_turnwheel;t",
             "else",
             "lose_game",
