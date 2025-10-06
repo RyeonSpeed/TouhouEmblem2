@@ -9,6 +9,7 @@
         "priority": 20,
         "_source": [
             "trigger_script_with_args;Global FUCK YOU RAINLASH",
+            "level_var;TurnwheelUses;0",
             "music;Nostalgic Blood",
             "if;game.current_mode.nid == 'Baby'",
             "game_var;difficultybonus;0",

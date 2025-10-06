@@ -8,6 +8,7 @@
         "only_once": false,
         "priority": 1,
         "_source": [
+            "level_var;TurnwheelUses;0",
             "trigger_script;FUCK YOU RAINLASH",
             "if;not v('baseconvolist')",
             "    game_var;baseconvolist;[]",

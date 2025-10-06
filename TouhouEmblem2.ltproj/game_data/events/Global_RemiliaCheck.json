@@ -10,7 +10,7 @@
         "_source": [
             "if;u('Remilia') and u('Remilia').position",
             "enable_turnwheel;true",
-            "level_var;_current_turnwheel_uses;-1",
+            "game_var;_current_turnwheel_uses;-1",
             "else",
             "enable_turnwheel;false",
             "end"
