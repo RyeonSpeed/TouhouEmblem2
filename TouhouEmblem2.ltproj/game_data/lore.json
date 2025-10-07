@@ -95,7 +95,7 @@
         "name": "Villages",
         "title": "Villages",
         "category": "Guide",
-        "text": "Villages and houses can be found throughout Gensokyo and can be visited for rewards. Rewards can be anything from items to important information, so it is always worth visiting a house/village just in case it might have something. \n\nBrigands and thieves on certain maps may race towards a village and burn it down if you are not quick enough to intercept them, depriving you of the rewards."
+        "text": "Villages and houses can be found throughout Gensokyo and can be visited for rewards. Rewards can be anything from items to important information, so it is always worth visiting a house/village just in case it might have something. \nBrigands and thieves on certain maps may race towards a village and burn it down if you are not quick enough to intercept them, depriving you of the rewards."
     },
     {
         "nid": "Fog_of_War",
@@ -221,7 +221,7 @@
         "name": "Remilia",
         "title": "Remilia",
         "category": "Character",
-        "text": "Name: Remilia Scarlet{br}Number of bloodsucking victims: 13{br}The mistress of the Scarlet Devil Mansion. She acts frequently on pangs of boredom, much like a petulant, bored child. \nWell, the difference is that this child is a powerful vampire.\nRemilia's playstyle surrounds attacking units at high HP so she can inflict Bleed, powering up her Combat Art.\nHer true strength, however, lies in the fact that you can use her \"Controller of Fate\" ability to turn back the clock on your actions up to 3 times a map. "
+        "text": "Name: Remilia Scarlet{br}Number of bloodsucking victims: 13{br}The mistress of the Scarlet Devil Mansion. She acts frequently on pangs of boredom, much like a petulant, bored child. \nWell, the difference is that this child is a powerful vampire.\nRemilia's playstyle surrounds attacking units at high HP so she can inflict Bleed, powering up her Combat Art.\nHer true strength, however, lies in the fact that you can use her \"Controller of Fate\" ability to turn back the clock on your actions.\nOf course, don't use it too much :3"
     },
     {
         "nid": "Suika",

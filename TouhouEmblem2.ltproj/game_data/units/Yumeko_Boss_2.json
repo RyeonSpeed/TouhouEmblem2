@@ -49,10 +49,6 @@
             [
                 "Rapier",
                 false
-            ],
-            [
-                "Sleep",
-                false
             ]
         ],
         "learned_skills": [

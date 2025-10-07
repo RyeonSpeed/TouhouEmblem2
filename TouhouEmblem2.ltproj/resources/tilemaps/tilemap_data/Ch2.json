@@ -5340,6 +5340,37 @@
                         ]
                     ]
                 }
+            },
+            {
+                "nid": "Wall1",
+                "visible": false,
+                "foreground": false,
+                "terrain_grid": {
+                    "19,13": "6"
+                },
+                "sprite_grid": {
+                    "18,13": [
+                        "Village v2 - Standard Tileset",
+                        [
+                            3,
+                            24
+                        ]
+                    ],
+                    "20,13": [
+                        "Village v2 - Standard Tileset",
+                        [
+                            5,
+                            23
+                        ]
+                    ],
+                    "19,13": [
+                        "image-194",
+                        [
+                            18,
+                            12
+                        ]
+                    ]
+                }
             }
         ],
         "tilesets": [
