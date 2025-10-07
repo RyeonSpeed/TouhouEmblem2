@@ -3,7 +3,7 @@
         "name": "DeathYuki",
         "trigger": "unit_death",
         "level_nid": "14",
-        "condition": "unit.nid == 'Yuki_Boss_1' and game.check_dead(\"Mai_Boss_2\")",
+        "condition": "unit.nid == 'Yuki_Boss_1'",
         "commands": [],
         "only_once": true,
         "priority": 20,

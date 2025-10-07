@@ -63,7 +63,6 @@
             "enable_convoy;1",
             "enable_turnwheel;1",
             "enable_repair_shop;false",
-            "level_var;_current_turnwheel_uses;-1",
             "game_var;_fatigue;0",
             "add_lore;Intro",
             "add_lore;Character_Stats",

@@ -13,7 +13,8 @@
             "player_battle": "Lunate Elf",
             "enemy_battle": "Lunate Elf",
             "other_battle": null,
-            "enemy2_battle": null
+            "enemy2_battle": null,
+            "boss_battle": "Dullahan Under the Willows"
         },
         "objective": {
             "simple": "DEBUG",
@@ -142,14 +143,14 @@
                 "generic": false
             },
             {
-                "nid": "Kasen",
-                "team": "player",
+                "nid": "Rumia_Boss",
+                "team": "enemy",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    23,
-                    17
+                    18,
+                    21
                 ],
                 "starting_traveler": null,
                 "generic": false

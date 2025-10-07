@@ -2,7 +2,7 @@
     {
         "nid": "Sake_Gourd",
         "name": "Sake Gourd",
-        "desc": "Applies \"Drunken Flailing\" on the user for 3 turns., giving them 1.3x DMG, 0.9x HIT, and 1.1x DMG Taken. Stacks up to 5 times. Can only be used by oni.",
+        "desc": "Applies \"Drunken Flailing\" on the user for 3 turns, giving them 1.3x DMG, 0.9x HIT, and 1.1x DMG taken. Stacks up to 5 times. Can only be used by oni.",
         "icon_nid": "accessories",
         "icon_index": [
             0,

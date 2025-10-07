@@ -6,7 +6,9 @@
         "variant": null,
         "level": 1,
         "klass": "Hexblade",
-        "tags": [],
+        "tags": [
+            "Boss"
+        ],
         "bases": {
             "HP": 16,
             "STR": 3,
@@ -39,6 +41,10 @@
             [
                 1,
                 "HourofDemons"
+            ],
+            [
+                1,
+                "Summoning_Sickness"
             ]
         ],
         "unit_notes": [],

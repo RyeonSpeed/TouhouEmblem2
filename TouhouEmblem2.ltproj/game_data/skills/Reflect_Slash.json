@@ -2,7 +2,7 @@
     {
         "nid": "Reflect_Slash",
         "name": "Matsuyoi-Reflecting Satellite Slash",
-        "desc": "Becomes unable to dodge, but counterattacks go first, do 1.5x as much damage and crit rate raises by 30%. \nCost: 3 Durability.",
+        "desc": "Becomes unable to dodge, but counterattacks go first, do 1.5x as much damage and crit rate increases by 30%. \nCost: 3 Durability.",
         "icon_nid": "NewIcon1",
         "icon_index": [
             0,

@@ -6,7 +6,9 @@
         "variant": null,
         "level": 1,
         "klass": "Hexblade",
-        "tags": [],
+        "tags": [
+            "Boss"
+        ],
         "bases": {
             "MAG": 4,
             "STR": 3,
