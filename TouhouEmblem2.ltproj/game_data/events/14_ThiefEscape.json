@@ -1,0 +1,15 @@
+[
+    {
+        "name": "ThiefEscape",
+        "trigger": "ThiefEscape",
+        "level_nid": "14",
+        "condition": "unit.team == 'enemy' and region and region.nid == 'ThiefEscape'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "remove_unit;{unit};fade;south"
+        ],
+        "nid": "14 ThiefEscape"
+    }
+]

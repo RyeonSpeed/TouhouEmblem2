@@ -2552,6 +2552,24 @@
                 "only_once": true,
                 "interrupt_move": false,
                 "hide_time": false
+            },
+            {
+                "nid": "ThiefEscape",
+                "region_type": "event",
+                "position": [
+                    30,
+                    0
+                ],
+                "size": [
+                    1,
+                    4
+                ],
+                "sub_nid": "ThiefEscape",
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false,
+                "hide_time": false
             }
         ],
         "unit_groups": [

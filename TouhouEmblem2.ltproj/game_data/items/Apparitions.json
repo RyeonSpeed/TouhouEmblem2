@@ -36,6 +36,10 @@
                     0,
                     127
                 ]
+            ],
+            [
+                "attack_after_combat",
+                null
             ]
         ]
     }
