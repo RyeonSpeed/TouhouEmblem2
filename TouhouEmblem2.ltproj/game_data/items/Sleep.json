@@ -71,6 +71,10 @@
             [
                 "map_hit_sfx",
                 "Silence"
+            ],
+            [
+                "hit",
+                50
             ]
         ]
     }

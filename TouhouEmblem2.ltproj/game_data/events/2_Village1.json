@@ -8,7 +8,7 @@
         "only_once": true,
         "priority": 20,
         "_source": [
-            "if;game.turncount < 7",
+            "if;game.turncount < 9",
             "add_portrait;Mokou;Left",
             "add_portrait;{unit1};Right",
             "speak;Mokou;Hey, what's with all the noise outside? Some people are trying to get some sleep here! ",

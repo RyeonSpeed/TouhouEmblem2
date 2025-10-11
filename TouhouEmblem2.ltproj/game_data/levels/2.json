@@ -373,7 +373,7 @@
                 "nid": "110",
                 "variant": null,
                 "level": 2,
-                "klass": "Vagrant_A",
+                "klass": "Fighter",
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -812,7 +812,7 @@
                 "ai_group": "",
                 "starting_position": [
                     6,
-                    4
+                    3
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -836,7 +836,7 @@
                 "ai_group": "",
                 "starting_position": [
                     12,
-                    4
+                    3
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -1245,7 +1245,7 @@
             {
                 "nid": "Wriggle_Boss",
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Guard",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [

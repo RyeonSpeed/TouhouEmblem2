@@ -2,7 +2,7 @@
     {
         "nid": "Perfect_Freeze_Art",
         "name": "Perfect Freeze",
-        "desc": "<blue>[Combat Start]</blue> +30 HIT. Inflicts -2 AS, -99 MOV for 2 turns. ",
+        "desc": "<blue>[Combat Start]</blue> +30 HIT. Inflicts Frostbitten for 2 turns. ",
         "icon_nid": "skillicons3",
         "icon_index": [
             2,

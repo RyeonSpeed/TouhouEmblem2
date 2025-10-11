@@ -2,10 +2,10 @@
     {
         "nid": "Jia_Xichun",
         "name": "Jia Xichun",
-        "desc": "",
+        "desc": "The current matriarch of the Jia family. While she has a short temper, she's ultimately a kind person. Ryefu #1.",
         "variant": null,
         "level": 1,
-        "klass": "Citizen",
+        "klass": "Fencer",
         "tags": [],
         "bases": {},
         "growths": {},

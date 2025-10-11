@@ -71,6 +71,10 @@
             [
                 "map_hit_sfx",
                 "Berserk"
+            ],
+            [
+                "hit",
+                50
             ]
         ]
     }

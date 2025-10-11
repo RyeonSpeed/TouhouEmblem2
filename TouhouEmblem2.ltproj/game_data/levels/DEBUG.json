@@ -225,6 +225,30 @@
                 ],
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "101",
+                "variant": null,
+                "level": 10,
+                "klass": "Archer",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    19,
+                    16
+                ],
+                "starting_traveler": null,
+                "generic": true
             }
         ],
         "regions": [
