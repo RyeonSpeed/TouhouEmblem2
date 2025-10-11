@@ -1,0 +1,20 @@
+[
+    {
+        "name": "SaraIntro",
+        "trigger": "turn_change",
+        "level_nid": "12",
+        "condition": "game.turncount == 1",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "move_cursor;Sara_Boss",
+            "disp_cursor;t",
+            "wait;200",
+            "disp_cursor;f",
+            "add_portrait;Sara_Boss;Left",
+            "speak;Sara_Boss;Wait, intruders! How'd they get past the previous two ambushes?|No matter, they won't get through here!"
+        ],
+        "nid": "12 SaraIntro"
+    }
+]
