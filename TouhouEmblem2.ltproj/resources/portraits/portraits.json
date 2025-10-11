@@ -1932,18 +1932,6 @@
         "info_offset": 0
     },
     {
-        "nid": "Kosuzu",
-        "blinking_offset": [
-            24,
-            32
-        ],
-        "smiling_offset": [
-            24,
-            48
-        ],
-        "info_offset": 0
-    },
-    {
         "nid": "Shanghai",
         "blinking_offset": [
             24,
@@ -2048,6 +2036,30 @@
         "smiling_offset": [
             32,
             48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Kosuzu",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Mima2",
+        "blinking_offset": [
+            32,
+            24
+        ],
+        "smiling_offset": [
+            0,
+            32
         ],
         "info_offset": 0
     }

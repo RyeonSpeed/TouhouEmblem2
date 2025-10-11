@@ -1,7 +1,7 @@
 [
     {
-        "nid": "new_1",
-        "name": "",
+        "nid": "Attack_After_Combat",
+        "name": "new_2",
         "desc": "",
         "icon_nid": null,
         "icon_index": [
@@ -10,7 +10,7 @@
         ],
         "components": [
             [
-                "menu_after_combat",
+                "attack_after_combat",
                 null
             ]
         ]

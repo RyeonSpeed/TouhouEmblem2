@@ -1,7 +1,7 @@
 [
     {
-        "nid": "new_3",
-        "name": "new_3",
+        "nid": "Cannot_Be_Countered",
+        "name": "Cannot Be Countered",
         "desc": "",
         "icon_nid": null,
         "icon_index": [
@@ -10,7 +10,7 @@
         ],
         "components": [
             [
-                "cannot_counter",
+                "cannot_be_countered",
                 null
             ]
         ]

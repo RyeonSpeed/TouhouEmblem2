@@ -122,5 +122,9 @@
     {
         "nid": "baseconvolist",
         "desc": null
+    },
+    {
+        "nid": "difficultybonus",
+        "desc": null
     }
 ]

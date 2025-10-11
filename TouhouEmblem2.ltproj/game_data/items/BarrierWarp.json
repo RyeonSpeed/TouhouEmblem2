@@ -23,7 +23,7 @@
             ],
             [
                 "eval_target_restrict_2",
-                "(target.get_ai() not in ['Guard', 'None']) and (get_terrain(target) != 'Air')"
+                "(target.get_ai() not in ['Guard', 'None']) and (get_terrain(target) not in ['Air', '11', '12'])"
             ],
             [
                 "attack_after_combat",

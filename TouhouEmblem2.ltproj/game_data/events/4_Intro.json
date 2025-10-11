@@ -80,7 +80,7 @@
             "speak;Tewi;Teehee! Anyways, that Hakurei girl and her cabal of weirdos should be here anytime now.",
             "speak;Reisen;Such a brazen attack on our territory...what could they be after?",
             "expression;Tewi;NoSmile",
-            "speak;Tewi;I guess\u2028we're first on the chopping block.|Now, why don't you go let Master know\u2028that preparations are ready?",
+            "speak;Tewi;I guess we're first on the chopping block.\u2028Now, why don't you go let Master know|that preparations are ready?",
             "speak;Reisen;I feel like our roles have been swapped here...",
             "expression;Tewi;Smile",
             "speak;Tewi;Don't worry about it!",
@@ -132,7 +132,7 @@
             "move_cursor;Reimu",
             "add_portrait;Reimu;CenterRight",
             "add_portrait;Kasen;CenterLeft",
-            "speak;Reimu;Man...this place is such a pain...I can\u2019t even tell the direction I walk half the time.",
+            "speak;Reimu;Man...this place is such a pain...I can't even tell the direction I walk half the time.",
             "speak;Kasen;We'll have to be careful, then. We won't always be able to get a great view of our|situation once Eientei's illusion magic starts taking effect.",
             "multi_remove_portrait;Kasen;Reimu"
         ],

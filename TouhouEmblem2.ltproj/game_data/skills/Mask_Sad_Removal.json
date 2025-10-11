@@ -15,7 +15,7 @@
             ],
             [
                 "condition",
-                "game.turncount > 1 or 'Intermission' not in level.tags"
+                "game.turncount > 1 or 'Intermission' not in game.level.tags"
             ],
             [
                 "hidden",
