@@ -1,0 +1,21 @@
+[
+    {
+        "name": "DeathSekibanki",
+        "trigger": "combat_death",
+        "level_nid": null,
+        "condition": "unit1.nid == 'Sekibanki'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "music;In Sorrows Shroud",
+            "hide_combat_ui",
+            "add_portrait;Sekibanki;FarRight",
+            "speak;Sekibanki;Yeah, that's enough. I'm out of here.",
+            "expression;Sekibanki;CloseEyes",
+            "remove_portrait;Sekibanki",
+            "show_combat_ui"
+        ],
+        "nid": "Global DeathSekibanki"
+    }
+]

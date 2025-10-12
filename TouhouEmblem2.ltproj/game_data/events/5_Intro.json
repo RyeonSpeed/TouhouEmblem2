@@ -59,7 +59,7 @@
             "speak;Reimu;Well, with a certain vampire here, we can do it as much as we want! Who's gonna stop-",
             "sound;Warp",
             "multi_remove_portrait;Kasen;Reimu",
-            "speak;Marisa;...{c:wait;300}{tgm}And superstition marches on.\u2028Glad I\u2019m not the lost one this time!;no_talk",
+            "speak;Marisa;...{c:wait;300}{tgm}And superstition marches on.\u2028Glad I'm not lost this time!;no_talk",
             "",
             "transition;close",
             "trigger_script;Global Housekeeping3",

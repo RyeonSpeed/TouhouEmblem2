@@ -9,10 +9,12 @@
         "priority": 20,
         "_source": [
             "music;In Sorrows Shroud",
+            "hide_combat_ui",
             "add_portrait;Youmu;FarRight",
             "speak;Youmu;Not enough...forgive me, Lady Yuyuko.",
             "expression;Youmu;CloseEyes",
-            "remove_portrait;Youmu"
+            "remove_portrait;Youmu",
+            "show_combat_ui"
         ],
         "nid": "Global DeathYoumu"
     }

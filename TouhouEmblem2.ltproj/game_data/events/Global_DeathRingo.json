@@ -9,10 +9,12 @@
         "priority": 20,
         "_source": [
             "music;In Sorrows Shroud",
+            "hide_combat_ui",
             "add_portrait;Ringo;FarRight",
             "speak;Ringo;Yep, I'm out of here. I need some dango.",
             "expression;Ringo;CloseEyes",
-            "remove_portrait;Ringo"
+            "remove_portrait;Ringo",
+            "show_combat_ui"
         ],
         "nid": "Global DeathRingo"
     }

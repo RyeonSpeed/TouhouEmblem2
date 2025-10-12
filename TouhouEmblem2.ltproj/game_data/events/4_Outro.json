@@ -34,7 +34,7 @@
             "expression;Marisa;NoSmile",
             "speak;Tewi;Heh, or what?",
             "speak;Reimu;Or you'll be known as the \"Rabbit of Misfortune\" once I'm done with you.",
-            "speak;Tewi;Hey now, Gensokyo already has enough people in the misfortune trade...{c:wait;400} I'm looking at one of them right now.",
+            "speak;Tewi;Hey now, Gensokyo already has enough people in the misfortune trade...{c:wait;400}|I'm looking at one of them right now.",
             "speak;Reimu;Oh, that does it! Marisa.{c:wait;200} Rabbit.{c:wait;200} Now.",
             "expression;Marisa;Smile",
             "speak;Marisa;Alright chef. Be sure to save me a piece of the dark mea-",

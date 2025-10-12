@@ -43,7 +43,7 @@
             "speak;Kasen;About six hours. Would have been faster if you didn't bring along the booze.",
             "speak;Reimu;Hey! I'm just saying, it was good quality!",
             "speak;Marisa;She's a got a point...",
-            "speak;Kasen;Well, now that it's dusk, we can't see anything. Please adjust your drinking habits to be|mindful of our strategizing in the future.",
+            "speak;Kasen;Well, now that it's dusk, we can't see anything.|Please adjust your drinking habits to be mindful of our strategizing in the future.",
             "speak;Marisa;Bah, it's all about being flashy anyway! I'll just light up the night sky with my spells!",
             "speak;Reimu;True. If we keep marching, we'll eventually run into someone!",
             "speak;Kasen;*sigh*",
@@ -86,7 +86,7 @@
             "autolevel_to;Mystia_Boss;3;fixed",
             "prep;1;Sealed Gods",
             "transition;open",
-            "speak;;This map's clear bonus is 300 Bonus EXP, with a decrease of 60 BExp per turn you take over 15 turns!;;;hint"
+            "speak;;This map's clear bonus is 300 Bonus EXP,|with a decrease of 60 BExp per turn you take over 15 turns!;;;hint"
         ],
         "nid": "2 Intro"
     }

@@ -9,10 +9,12 @@
         "priority": 20,
         "_source": [
             "music;In Sorrows Shroud",
+            "hide_combat_ui",
             "add_portrait;Seiran;FarRight",
             "speak;Seiran;*sob* I knew I was way in over my head.",
-            "expression;Sunny;CloseEyes",
-            "remove_portrait;Seiran"
+            "expression;Seiran;CloseEyes",
+            "remove_portrait;Seiran",
+            "show_combat_ui"
         ],
         "nid": "Global DeathSeiran"
     }

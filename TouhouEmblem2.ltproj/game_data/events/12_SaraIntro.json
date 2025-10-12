@@ -10,10 +10,30 @@
         "_source": [
             "move_cursor;Sara_Boss",
             "disp_cursor;t",
-            "wait;200",
+            "wait;500",
             "disp_cursor;f",
             "add_portrait;Sara_Boss;Left",
-            "speak;Sara_Boss;Wait, intruders! How'd they get past the previous two ambushes?|No matter, they won't get through here!"
+            "speak;Sara_Boss;Wait, intruders! How'd they get past the previous two ambushes?|No matter, they won't get through here!",
+            "",
+            "",
+            "remove_portrait;Sara_Boss",
+            "",
+            "",
+            "move_cursor;24,22",
+            "disp_cursor;t",
+            "wait;1000",
+            "disp_cursor;f",
+            "",
+            "move_cursor;5,10",
+            "disp_cursor;t",
+            "wait;1000",
+            "disp_cursor;f",
+            "",
+            "",
+            "",
+            "move_cursor;Sara_Boss",
+            "add_portrait;Sara_Boss;Left",
+            "speak;Sara_Boss;As long as the two gatehouses are secured,|there is no hope for them.;;;;;red"
         ],
         "nid": "12 SaraIntro"
     }
