@@ -11,7 +11,7 @@
         "components": [
             [
                 "item_override",
-                "new_1"
+                "Menu_After_Combat"
             ],
             [
                 "ability_indicator",

@@ -16,8 +16,7 @@
             "speak;Kasen;Ok, all ready to go!",
             "speak;Remilia;Tsk, it's too bright outside.",
             "multi_remove_portrait;Kasen;Remilia",
-            "enable_turnwheel;1",
-            "level_var;_current_turnwheel_uses;-1"
+            "enable_turnwheel;1"
         ],
         "nid": "0 Turn2"
     }

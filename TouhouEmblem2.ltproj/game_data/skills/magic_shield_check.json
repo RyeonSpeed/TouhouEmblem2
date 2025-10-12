@@ -14,12 +14,12 @@
                 null
             ],
             [
-                "combat_condition",
-                "item2 and item2.magic and not item2.targets_allies"
-            ],
-            [
                 "event_after_combat_when_hit",
                 "Global Shield_Check"
+            ],
+            [
+                "combat_condition",
+                "item2 and item2.weapon and item2.magic"
             ]
         ]
     }

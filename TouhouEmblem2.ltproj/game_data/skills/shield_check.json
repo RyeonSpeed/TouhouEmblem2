@@ -19,7 +19,7 @@
             ],
             [
                 "combat_condition",
-                "item2 and not item2.magic and not item2.targets_allies"
+                "item2 and item2.weapon and not item2.magic"
             ]
         ]
     }
