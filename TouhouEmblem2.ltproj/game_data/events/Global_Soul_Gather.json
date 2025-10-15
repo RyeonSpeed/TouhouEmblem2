@@ -9,7 +9,7 @@
         "priority": 20,
         "_source": [
             "if;unit.get_hp() == 0",
-            "inc_game_var;SoulCharge;1",
+            "inc_game_var;SoulCharge",
             "end"
         ],
         "nid": "Global Soul Gather"

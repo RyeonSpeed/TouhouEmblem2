@@ -126,5 +126,9 @@
     {
         "nid": "difficultybonus",
         "desc": null
+    },
+    {
+        "nid": "SoulCharge",
+        "desc": null
     }
 ]

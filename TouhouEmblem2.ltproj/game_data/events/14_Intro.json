@@ -10,7 +10,6 @@
         "_source": [
             "chapter_title",
             "trigger_script;Housekeeping3",
-            "trigger_script;Housekeeping1",
             "trigger_script;Housekeeping2",
             "trigger_script;START",
             "autolevel_to;Youmu;13",

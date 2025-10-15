@@ -91,11 +91,11 @@
                 "action": "Attack",
                 "target": "Enemy",
                 "target_spec": [
-                    "Class",
-                    "Dryad"
+                    "Team",
+                    "player"
                 ],
                 "view_range": -4,
-                "invert_targeting": true,
+                "invert_targeting": false,
                 "roam_speed": 100,
                 "desired_proximity": 0,
                 "condition": ""
@@ -103,7 +103,10 @@
             {
                 "action": "Move_to",
                 "target": "Enemy",
-                "target_spec": null,
+                "target_spec": [
+                    "Team",
+                    "player"
+                ],
                 "view_range": -4,
                 "invert_targeting": false,
                 "roam_speed": 100,
@@ -135,11 +138,11 @@
                 "action": "Attack",
                 "target": "Enemy",
                 "target_spec": [
-                    "Class",
-                    "Dryad"
+                    "Team",
+                    "player"
                 ],
                 "view_range": -4,
-                "invert_targeting": true,
+                "invert_targeting": false,
                 "roam_speed": 100,
                 "desired_proximity": 0,
                 "condition": ""
@@ -148,8 +151,8 @@
                 "action": "Move_to",
                 "target": "Enemy",
                 "target_spec": [
-                    "Name",
-                    "Reimu"
+                    "Team",
+                    "player"
                 ],
                 "view_range": -4,
                 "invert_targeting": false,

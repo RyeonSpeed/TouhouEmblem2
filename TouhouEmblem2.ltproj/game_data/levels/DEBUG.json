@@ -31,7 +31,7 @@
                 "nid": "109",
                 "variant": null,
                 "level": 1,
-                "klass": "Archer",
+                "klass": "Citizen",
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -175,14 +175,14 @@
                 "generic": true
             },
             {
-                "nid": "Kosuzu",
+                "nid": "Alice",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    18,
-                    20
+                    22,
+                    15
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -230,7 +230,7 @@
                 "nid": "101",
                 "variant": null,
                 "level": 10,
-                "klass": "Archer",
+                "klass": "Citizen",
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -246,6 +246,30 @@
                 "starting_position": [
                     19,
                     16
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "104",
+                "variant": null,
+                "level": 10,
+                "klass": "Citizen",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    19,
+                    15
                 ],
                 "starting_traveler": null,
                 "generic": true

@@ -121,6 +121,11 @@
                 false,
                 0,
                 251
+            ],
+            "Knife": [
+                false,
+                1,
+                null
             ]
         },
         "alternate_classes": [],

@@ -90,6 +90,14 @@
                     "lose_uses_on_miss": false,
                     "one_loss_per_combat": true
                 }
+            ],
+            [
+                "weapon_type",
+                "Knife"
+            ],
+            [
+                "wexp",
+                0
             ]
         ]
     }

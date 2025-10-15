@@ -16,6 +16,12 @@
             [
                 "item_override",
                 "aslur"
+            ],
+            [
+                "has_tags",
+                [
+                    "DropToConvoy"
+                ]
             ]
         ]
     }

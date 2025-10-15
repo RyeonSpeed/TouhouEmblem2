@@ -9,8 +9,8 @@
         "priority": 19,
         "_source": [
             "if;v('YukiSpellMusic') != 1 and v('MaiSpellMusic') != 1 and v('MimaSpellMusic') != 1",
-            "change_music;player_phase;Legendary Illusion",
-            "change_music;player_battle;Legendary Illusion",
+            "change_music;player_phase;Border of Life",
+            "change_music;player_battle;Border of Life",
             "change_music;enemy_phase;Legendary Illusion",
             "change_music;enemy_battle;Legendary Illusion",
             "change_music;other_phase;Legendary Illusion",

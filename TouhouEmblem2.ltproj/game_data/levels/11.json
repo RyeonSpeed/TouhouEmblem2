@@ -2781,7 +2781,7 @@
                     3,
                     3
                 ],
-                "sub_nid": "Door1",
+                "sub_nid": "Door",
                 "condition": "unit.can_unlock(region)",
                 "time_left": null,
                 "only_once": true,
@@ -2799,7 +2799,7 @@
                     3,
                     1
                 ],
-                "sub_nid": "Door2",
+                "sub_nid": "Door",
                 "condition": "unit.can_unlock(region)",
                 "time_left": null,
                 "only_once": true,
