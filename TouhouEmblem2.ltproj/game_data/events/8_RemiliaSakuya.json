@@ -22,6 +22,8 @@
             "multi_remove_portrait;Sakuya;Remilia",
             "remove_talk;Remilia;Sakuya",
             "change_team;Sakuya;player",
+            "remove_talk;Remilia;Sakuya",
+            "remove_talk;Sakuya;Remilia",
             "music_fade_back"
         ],
         "nid": "8 RemiliaSakuya"
