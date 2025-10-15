@@ -3,7 +3,7 @@
         "name": "Soul Gather",
         "trigger": "unit_death",
         "level_nid": null,
-        "condition": "has_skill(unit, 'MarkedForDeath')",
+        "condition": "has_skill(unit, 'MarkedForDeath') and skill_system.check_enemy(unit, u('Yuyuko'))",
         "commands": [],
         "only_once": false,
         "priority": 20,
