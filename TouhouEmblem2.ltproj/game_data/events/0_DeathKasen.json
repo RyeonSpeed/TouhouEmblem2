@@ -1,15 +1,15 @@
 [
     {
-        "name": "Turn2",
+        "name": "DeathKasen",
         "trigger": "unit_death",
-        "level_nid": "DEBUG",
-        "condition": "True",
+        "level_nid": "0",
+        "condition": "unit.nid == \"Kasen\"",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
-            "speak;;the"
+            "lose_game"
         ],
-        "nid": "DEBUG Turn2"
+        "nid": "0 DeathKasen"
     }
 ]

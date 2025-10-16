@@ -1,6 +1,6 @@
 [
     {
-        "nid": "Frozen",
+        "nid": "Frozen_2",
         "name": "Frozen",
         "desc": "-10 Avoid.",
         "icon_nid": "skillicons4",
@@ -27,7 +27,7 @@
             ],
             [
                 "condition",
-                "unit.team is not 'player'"
+                "unit.team is not 'enemy'"
             ],
             [
                 "negative",

@@ -186,8 +186,7 @@
             "add_lore;Miasma",
             "add_talk;Remilia;Sakuya",
             "trigger_script;START",
-            "prep;1;Sealed Gods",
-            "speak;;This map's clear bonus is 500 Bonus EXP, with a decrease of 100 BExp per turn you take over 15 turns!;;;hint"
+            "prep;1;Sealed Gods"
         ],
         "nid": "8 Intro"
     }

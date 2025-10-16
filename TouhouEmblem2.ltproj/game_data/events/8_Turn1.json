@@ -5,9 +5,10 @@
         "level_nid": "8",
         "condition": "game.turncount == 1",
         "commands": [],
-        "only_once": false,
+        "only_once": true,
         "priority": 20,
         "_source": [
+            "speak;;This map's clear bonus is 500 Bonus EXP, with a decrease of 100 BExp per turn you take over 15 turns!;;145;hint",
             "center_cursor;12,17;150",
             "wait;200",
             "add_group;Brigand0A;Brigand0A;immediate;closest",

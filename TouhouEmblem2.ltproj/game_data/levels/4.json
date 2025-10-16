@@ -2555,7 +2555,7 @@
                     2
                 ],
                 "sub_nid": "Investigate",
-                "condition": "True",
+                "condition": "has_item(\"Curry\", unit1.nid)",
                 "time_left": null,
                 "only_once": true,
                 "interrupt_move": false,

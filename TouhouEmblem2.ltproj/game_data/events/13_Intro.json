@@ -26,8 +26,7 @@
             "",
             "",
             "autolevel_to;Youmu_Boss;15;fixed;no_warn",
-            "prep;1;Sealed Gods",
-            "speak;;This map's clear bonus is 1000 Bonus EXP, with a decrease of 200 BExp per turn you take over 18 turns!;;;hint"
+            "prep;1;Sealed Gods"
         ],
         "nid": "13 Intro"
     }

@@ -20,7 +20,12 @@
             "autolevel_to;Mima_Boss;20",
             "autolevel_to;Mai_Boss_1;18",
             "autolevel_to;Yuki_Boss;18",
+            "",
+            "for;BRUH;[x.nid for x in u('Mima').items]",
+            "    move_item;Mima;convoy;{BRUH}",
+            "endf",
             "change_party;Mima;Dumpster",
+            "",
             "prep;1;Spirit of Avarice"
         ],
         "nid": "14 Intro"

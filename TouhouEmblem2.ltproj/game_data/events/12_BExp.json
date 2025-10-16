@@ -1,0 +1,15 @@
+[
+    {
+        "name": "BExp",
+        "trigger": "turn_change",
+        "level_nid": "12",
+        "condition": "game.turncount == 1",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "speak;;This map's clear bonus is 1000 Bonus EXP, with a decrease of 200 BExp per turn you take over 18 turns!;;155;hint"
+        ],
+        "nid": "12 BExp"
+    }
+]

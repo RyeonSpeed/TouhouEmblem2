@@ -1624,7 +1624,7 @@
             {
                 "nid": "Mai_Boss_1",
                 "team": "enemy",
-                "ai": "Guard",
+                "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "1",
                 "starting_position": [

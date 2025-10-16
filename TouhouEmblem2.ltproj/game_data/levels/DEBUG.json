@@ -52,32 +52,6 @@
                 "generic": true
             },
             {
-                "nid": "102",
-                "variant": null,
-                "level": 10,
-                "klass": "Citizen",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Iron_Bow",
-                        false
-                    ]
-                ],
-                "starting_skills": [
-                    "Bleeding_Shot"
-                ],
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    16,
-                    21
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
                 "nid": "103",
                 "variant": null,
                 "level": 40,
@@ -104,48 +78,9 @@
                 "generic": true
             },
             {
-                "nid": "Reimu",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    19,
-                    18
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Remilia",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    20,
-                    18
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Marisa",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    16,
-                    19
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Rumia_Boss",
+                "nid": "Wriggle_Boss_1",
                 "team": "enemy",
-                "ai": "None",
+                "ai": "Pursue",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -156,65 +91,7 @@
                 "generic": false
             },
             {
-                "nid": "108",
-                "variant": null,
-                "level": 3,
-                "klass": "Thief",
-                "faction": "Youkai",
-                "starting_items": [],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Thief",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    13,
-                    13
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "Yuyuko",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    22,
-                    15
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Sunny",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    19,
-                    20
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Kosuzu",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    14,
-                    16
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Aunn",
+                "nid": "Kaguya",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,

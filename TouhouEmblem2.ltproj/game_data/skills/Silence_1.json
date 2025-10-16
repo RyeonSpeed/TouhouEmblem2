@@ -20,6 +20,10 @@
             [
                 "lost_on_end_chapter",
                 null
+            ],
+            [
+                "condition",
+                "unit.nid != 'Alice_Boss_2'"
             ]
         ]
     }

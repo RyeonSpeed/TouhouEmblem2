@@ -1,0 +1,15 @@
+[
+    {
+        "name": "BExp",
+        "trigger": "turn_change",
+        "level_nid": "1",
+        "condition": "game.turncount == 1",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "speak;;From here on out, every map will feature a clear bonus if you finish the map within a certain|number of turns. This map's clear bonus is 300 Bonus EXP, with a decrease of 15 BExp|per turn you take over 15 turns!;;;hint"
+        ],
+        "nid": "1 BExp"
+    }
+]
