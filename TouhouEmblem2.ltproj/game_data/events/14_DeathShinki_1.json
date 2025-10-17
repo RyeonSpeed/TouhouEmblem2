@@ -1,0 +1,15 @@
+[
+    {
+        "name": "DeathShinki_1",
+        "trigger": "combat_death",
+        "level_nid": "14",
+        "condition": "unit.nid == 'Shinki_Boss_1'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            ""
+        ],
+        "nid": "14 DeathShinki_1"
+    }
+]

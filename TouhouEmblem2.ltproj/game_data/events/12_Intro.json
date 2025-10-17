@@ -95,7 +95,10 @@
             "speak;Merlin;Yeah, it definitely is!",
             "",
             "",
-            "",
+            "level_var;Commander1Dead;0",
+            "level_var;Commander2Dead;0",
+            "level_var;SaraDead;0",
+            "level_var;KanaDead;0",
             "",
             "prep;1;Sealed Gods",
             ""

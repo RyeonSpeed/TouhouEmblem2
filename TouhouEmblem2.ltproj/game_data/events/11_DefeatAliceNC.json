@@ -1,0 +1,39 @@
+[
+    {
+        "name": "DefeatAliceNC",
+        "trigger": "unit_death",
+        "level_nid": "11",
+        "condition": "unit1.nid == 'Alice_Boss_3' and unit2 == None",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "change_music;player_phase;Plastic Mind",
+            "change_music;player_battle;Plastic Mind",
+            "change_music;enemy_phase;Plastic Mind",
+            "change_music;enemy_battle;Plastic Mind",
+            "change_music;enemy2_phase;Plastic Mind",
+            "change_music;enemy2_battle;Plastic Mind",
+            "kill_unit;Alice_Boss_3",
+            "",
+            "music;Plastic Mind",
+            "add_portrait;Alice_Boss;Left",
+            "speak;;Triad of Magic;center;95;hint;;red;;;1;;;;;Warp;",
+            "speak;Alice_Boss;Face a perfected form of magic!",
+            "remove_portrait;Alice_Boss",
+            "add_group;Alice2Spell;Alice2Spell;warp;closest",
+            "autolevel_to;Alice_Boss_4;19;fixed",
+            "move_cursor;Alice_Boss_4",
+            "level_var;AliceDead;1",
+            "",
+            "if;game.phase.get_current() == 'enemy'",
+            "for;Spell;game.level.unit_groups.get('Alice2Spell').units",
+            "    has_finished;{Spell}",
+            "endf",
+            "end",
+            "",
+            "wait;500"
+        ],
+        "nid": "11 DefeatAliceNC"
+    }
+]

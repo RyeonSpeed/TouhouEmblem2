@@ -8,9 +8,10 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "add_group;Turn5;Turn5;fade;closest",
-            "move_cursor;173",
-            "move_cursor;Reimu"
+            "center_cursor;25,14;150",
+            "wait;200",
+            "add_group;Turn5;Turn5;immediate;closest",
+            "wait;500"
         ],
         "nid": "6 Turn5"
     }

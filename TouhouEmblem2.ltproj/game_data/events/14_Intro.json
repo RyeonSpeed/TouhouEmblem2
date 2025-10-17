@@ -26,6 +26,15 @@
             "endf",
             "change_party;Mima;Dumpster",
             "",
+            "level_var;MimaDead1;0",
+            "level_var;MimaDead2;0",
+            "level_var;MaiDead;0",
+            "level_var;YukiDead;0",
+            "level_var;MaiYukiDead;0",
+            "level_var;ShinkiDead1;0",
+            "level_var;ShinkiDead2;0",
+            "level_var;ShinkiDead3;0",
+            "",
             "prep;1;Spirit of Avarice"
         ],
         "nid": "14 Intro"

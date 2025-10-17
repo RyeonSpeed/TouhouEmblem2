@@ -65,6 +65,8 @@
             "remove_portrait;Alice_Boss",
             "transition;close",
             "move_unit;Alice_Boss_3;26,1;immediate",
+            "level_var;AliceDead;0",
+            "",
             "change_background",
             "transition;open",
             "prep;1;Sealed Gods"

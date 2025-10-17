@@ -98,7 +98,12 @@
             "speak;Keine;I knew some youkai would make a move the second something like this happened. What a|pain. Listen here, you scum! I may not be able to erase history anymore, but I'll erase you|all the same!",
             "remove_portrait;Keine",
             "level_var;KagerouSpellMusic;0",
-            "level_var;SekibankiSpellMusic;0"
+            "level_var;SekibankiSpellMusic;0",
+            "level_var;KagerouDead1;0",
+            "level_var;KagerouDead2;0",
+            "level_var;BankiDead1;0",
+            "level_var;BankiDead2;0",
+            "level_var;WakaDead;0"
         ],
         "nid": "1 Intro"
     }

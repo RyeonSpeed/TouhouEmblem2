@@ -1,15 +1,14 @@
 [
     {
         "name": "DeathMima",
-        "trigger": "unit_death",
+        "trigger": "combat_death",
         "level_nid": "14",
-        "condition": "unit.nid == 'Mima_Boss_1' ",
+        "condition": "unit.nid == 'Mima_Boss'",
         "commands": [],
         "only_once": true,
         "priority": 20,
         "_source": [
-            "give_bexp;200",
-            "level_var;MimaSpellMusic;0"
+            ""
         ],
         "nid": "14 DeathMima"
     }

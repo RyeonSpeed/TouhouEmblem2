@@ -1,0 +1,25 @@
+[
+    {
+        "name": "DefeatMaiNC",
+        "trigger": "unit_death",
+        "level_nid": "10",
+        "condition": "unit1.nid == 'Mai_Boss' and unit2 == None",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Mai;Left",
+            "speak;Mai;Argh! Why are you so strong?",
+            "expression;Mai;CloseEyes",
+            "remove_portrait;Mai",
+            "kill_unit;Mai_Boss",
+            "",
+            "give_bexp;200;Reimu",
+            "wait;500",
+            "remove_weather;snow",
+            "remove_weather;night",
+            "wait;500"
+        ],
+        "nid": "10 DefeatMaiNC"
+    }
+]

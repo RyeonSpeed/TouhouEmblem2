@@ -1,0 +1,27 @@
+[
+    {
+        "name": "DefeatMaiNC",
+        "trigger": "unit_death",
+        "level_nid": "14",
+        "condition": "unit1.nid == 'Mai_Boss_2' and unit2 == None",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "kill_unit;Mai_Boss_2",
+            "give_bexp;200",
+            "level_var;MaiSpellMusic;0",
+            "level_var;MaiDead;1",
+            "",
+            "if;v('YukiSpellMusic') != 1 and v('MimaSpellMusic') != 1 and not game.check_dead(\"Shinki_Boss\") ",
+            "change_music;player_phase;Border of Life",
+            "change_music;player_battle;Border of Life",
+            "change_music;enemy_phase;Legendary Illusion",
+            "change_music;enemy_battle;Legendary Illusion",
+            "change_music;other_phase;Legendary Illusion",
+            "change_music;other_battle;Legendary Illusion",
+            "end"
+        ],
+        "nid": "14 DefeatMaiNC"
+    }
+]

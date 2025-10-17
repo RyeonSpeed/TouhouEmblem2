@@ -1,0 +1,22 @@
+[
+    {
+        "name": "DefeatRumia_1NC",
+        "trigger": "unit_death",
+        "level_nid": "0",
+        "condition": "unit1.nid == 'Rumia_Boss_1' and unit2 == None",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Rumia_Boss;Left",
+            "speak;Rumia_Boss;How?! How did you defeat me?!",
+            "expression;Rumia_Boss;CloseEyes",
+            "remove_portrait;Rumia_Boss",
+            "kill_unit;Rumia_Boss_1",
+            "sound;Death",
+            "wait;250",
+            "win_game"
+        ],
+        "nid": "0 DefeatRumia_1NC"
+    }
+]

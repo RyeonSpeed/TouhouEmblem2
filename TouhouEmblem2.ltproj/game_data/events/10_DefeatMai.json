@@ -1,0 +1,19 @@
+[
+    {
+        "name": "DefeatMai",
+        "trigger": "combat_end",
+        "level_nid": "10",
+        "condition": "game.check_dead(\"Mai_Boss\") and v('MaiDead') == 0",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "give_bexp;200;Reimu",
+            "wait;500",
+            "remove_weather;snow",
+            "remove_weather;night",
+            "wait;500"
+        ],
+        "nid": "10 DefeatMai"
+    }
+]

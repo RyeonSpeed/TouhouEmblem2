@@ -1,0 +1,15 @@
+[
+    {
+        "name": "DefeatYoumu_3",
+        "trigger": "combat_end",
+        "level_nid": "13",
+        "condition": "game.check_dead(\"Youmu_Boss_3\")",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "win_game"
+        ],
+        "nid": "13 DefeatYoumu_3"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "name": "MokouNPCDeathNC",
+        "trigger": "unit_death",
+        "level_nid": "2",
+        "condition": "unit1.nid == 'Mokou_NPC' and unit2 == None",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Mokou;Left",
+            "speak;Mokou;Damn it, dying is not on my to-do list tonight. ",
+            "speak;Mokou;Ugh, I'm going to feel this one in the morning, aren't I?",
+            "remove_portrait;Mokou"
+        ],
+        "nid": "2 MokouNPCDeathNC"
+    }
+]

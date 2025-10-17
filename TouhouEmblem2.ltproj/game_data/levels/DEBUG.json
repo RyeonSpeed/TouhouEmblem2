@@ -72,33 +72,20 @@
                 "ai_group": "",
                 "starting_position": [
                     17,
-                    18
+                    21
                 ],
                 "starting_traveler": null,
                 "generic": true
             },
             {
-                "nid": "Wriggle_Boss_1",
-                "team": "enemy",
-                "ai": "Pursue",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    18,
-                    21
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Kaguya",
+                "nid": "Remilia",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    14,
-                    18
+                    19,
+                    21
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -222,6 +209,56 @@
                 ],
                 "starting_traveler": null,
                 "generic": true
+            },
+            {
+                "nid": "Reimu",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    19,
+                    17
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "102",
+                "variant": null,
+                "level": 1,
+                "klass": "Citizen",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    18,
+                    20
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Alice",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    19,
+                    23
+                ],
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [

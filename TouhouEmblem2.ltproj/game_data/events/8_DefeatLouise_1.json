@@ -1,0 +1,15 @@
+[
+    {
+        "name": "DefeatLouise_1",
+        "trigger": "combat_end",
+        "level_nid": "8",
+        "condition": "game.check_dead(\"Louise_Boss_1\")",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "win_game"
+        ],
+        "nid": "8 DefeatLouise_1"
+    }
+]

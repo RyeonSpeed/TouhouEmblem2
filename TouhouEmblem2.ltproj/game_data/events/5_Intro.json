@@ -67,6 +67,7 @@
             "add_base_convo;Warps",
             "add_lore;Warp_Tiles",
             "level_var;Darkness;0",
+            "level_var;ReisenDead;0",
             "autolevel_to;Reisen_Boss;10;fixed",
             "change_background;",
             "prep;1;Sealed Gods",

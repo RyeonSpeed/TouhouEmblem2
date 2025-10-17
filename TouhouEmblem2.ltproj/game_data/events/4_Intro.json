@@ -98,6 +98,7 @@
             "transition;close",
             "change_background",
             "remove_portrait;Tewi",
+            "level_var;TewiDead;0",
             "end_skip",
             "prep;1;Sealed Gods",
             "transition;open",

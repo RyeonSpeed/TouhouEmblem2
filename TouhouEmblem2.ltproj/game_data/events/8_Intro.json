@@ -185,6 +185,7 @@
             "add_lore;Mima",
             "add_lore;Miasma",
             "add_talk;Remilia;Sakuya",
+            "level_var;LouiseDead;0",
             "trigger_script;START",
             "prep;1;Sealed Gods"
         ],

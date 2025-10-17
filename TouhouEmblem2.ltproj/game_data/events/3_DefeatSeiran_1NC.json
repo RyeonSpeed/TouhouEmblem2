@@ -1,0 +1,20 @@
+[
+    {
+        "name": "DefeatSeiran_1NC",
+        "trigger": "unit_death",
+        "level_nid": "3",
+        "condition": "unit1.nid == 'Seiran_Boss_1' and unit2 == None",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Seiran;Left",
+            "speak;Seiran;I'm handing in my resignation after this...",
+            "remove_portrait;Seiran",
+            "kill_unit;Seiran_Boss_1",
+            "wait;250",
+            "win_game"
+        ],
+        "nid": "3 DefeatSeiran_1NC"
+    }
+]

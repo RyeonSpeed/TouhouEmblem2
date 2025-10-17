@@ -1,0 +1,16 @@
+[
+    {
+        "name": "DefeatCommander1",
+        "trigger": "combat_end",
+        "level_nid": "12",
+        "condition": "game.check_dead(\"Commander1\") and v('Commander1Dead') == 0",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "show_layer;Hidden1",
+            "add_group;Hidden1;Hidden1;fade;closest"
+        ],
+        "nid": "12 DefeatCommander1"
+    }
+]

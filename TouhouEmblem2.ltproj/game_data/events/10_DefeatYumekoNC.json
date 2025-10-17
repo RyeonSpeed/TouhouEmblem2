@@ -1,0 +1,39 @@
+[
+    {
+        "name": "DefeatYumekoNC",
+        "trigger": "unit_death",
+        "level_nid": "10",
+        "condition": "unit1.nid == 'Yumeko_Boss' and unit2 == None",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "change_music;player_phase;Plastic Mind",
+            "change_music;player_battle;Plastic Mind",
+            "change_music;enemy_phase;Plastic Mind",
+            "change_music;enemy_battle;Plastic Mind",
+            "change_music;enemy2_phase;Plastic Mind",
+            "change_music;enemy2_battle;Plastic Mind",
+            "change_music;other_phase;Plastic Mind",
+            "change_music;other_battle;Plastic Mind",
+            "kill_unit;Yumeko_Boss",
+            "",
+            "music;Plastic Mind",
+            "add_portrait;Yumeko_Boss;Left",
+            "speak;;Construct Sign: Dream Slicer;center;155;hint;;red;;;1;;;;;Warp",
+            "speak;Yumeko_Boss;Tch, I'm not done just yet~!",
+            "remove_portrait;Yumeko_Boss",
+            "add_group;YumekoSpell;YumekoSpell;warp;closest",
+            "autolevel_to;Yumeko_Boss_1;17;fixed",
+            "move_cursor;Yumeko_Boss_1",
+            "level_var;YumekoDead;1",
+            "",
+            "if;game.phase.get_current() == 'enemy'",
+            "for;Spell;game.level.unit_groups.get('YumekoSpell').units",
+            "    has_finished;{Spell}",
+            "endf",
+            "end"
+        ],
+        "nid": "10 DefeatYumekoNC"
+    }
+]

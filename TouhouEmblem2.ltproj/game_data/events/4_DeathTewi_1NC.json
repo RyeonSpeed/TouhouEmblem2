@@ -1,0 +1,20 @@
+[
+    {
+        "name": "DeathTewi_1NC",
+        "trigger": "unit_death",
+        "level_nid": "4",
+        "condition": "unit1.nid == \"Tewi_Boss_1\" and unit2 == None",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Tewi;Left",
+            "speak;Tewi;Alright, alright, I surrender! Jeez.",
+            "remove_portrait;Tewi",
+            "kill_unit;Tewi_Boss_1",
+            "wait;250",
+            "win_game"
+        ],
+        "nid": "4 DeathTewi_1NC"
+    }
+]

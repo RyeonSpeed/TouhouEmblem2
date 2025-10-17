@@ -1,0 +1,15 @@
+[
+    {
+        "name": "DefeatKagerou_1",
+        "trigger": "combat_end",
+        "level_nid": "1",
+        "condition": "game.check_dead(\"Kagerou_Boss_1\") and and v('KagerouDead2') == 0",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "give_bexp;200;Reimu"
+        ],
+        "nid": "1 DefeatKagerou_1"
+    }
+]

@@ -1,14 +1,14 @@
 [
     {
         "name": "DeathShinki",
-        "trigger": "unit_death",
+        "trigger": "combat_death",
         "level_nid": "14",
-        "condition": "unit.nid == 'Shinki_Boss_3' ",
+        "condition": "unit.nid == 'Shinki_Boss'",
         "commands": [],
         "only_once": true,
         "priority": 20,
         "_source": [
-            "win_game"
+            ""
         ],
         "nid": "14 DeathShinki"
     }

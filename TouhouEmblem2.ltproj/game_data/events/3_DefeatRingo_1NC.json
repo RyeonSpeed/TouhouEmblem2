@@ -1,0 +1,25 @@
+[
+    {
+        "name": "DefeatRingo_1NC",
+        "trigger": "unit_death",
+        "level_nid": "3",
+        "condition": "unit1.nid == 'Ringo_Boss_1' and unit2 == None",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Ringo;Left",
+            "speak;Ringo;I guess that's enough for today!",
+            "remove_portrait;Ringo",
+            "give_bexp;100;Reimu",
+            "",
+            "if;v('SeiranSpellMusic') == 0",
+            "change_music;player_phase;Nostalgic Blood",
+            "change_music;player_battle;Nostalgic Blood",
+            "change_music;enemy_phase;Deaf to All but the Song",
+            "change_music;enemy_battle;Deaf to All but the Song",
+            "end"
+        ],
+        "nid": "3 DefeatRingo_1NC"
+    }
+]

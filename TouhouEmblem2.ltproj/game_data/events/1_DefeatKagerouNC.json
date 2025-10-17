@@ -1,0 +1,41 @@
+[
+    {
+        "name": "DefeatKagerouNC",
+        "trigger": "unit_death",
+        "level_nid": "1",
+        "condition": "game.check_dead(\"Kagerou_Boss\") and unit2 == None",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "change_music;player_phase;Dullahan Under the Willows",
+            "change_music;player_battle;Dullahan Under the Willows",
+            "change_music;enemy_phase;Dullahan Under the Willows",
+            "change_music;enemy_battle;Dullahan Under the Willows",
+            "change_music;other_phase;Dullahan Under the Willows",
+            "change_music;other_battle;Dullahan Under the Willows",
+            "kill_unit;Kagerou_Boss",
+            "add_portrait;Kagerou;Left",
+            "speak;Kagerou;Tch...time to pull out my ace!",
+            "level_var;KagerouSpellMusic;1",
+            "music;Dullahan Under the Willows",
+            "speak;;Wolf Sign \"Star Ring Pounce\";center;160;hint;;red;;;1;;;;;Warp",
+            "add_group;KagerouSpell;KagerouSpell;warp;closest",
+            "autolevel_to;Kagerou_Boss_1;6;fixed",
+            "move_cursor;Kagerou_Boss_1",
+            "speak;Kagerou;I'll tear you to shreds in a crimson flash!",
+            "remove_portrait;Kagerou",
+            "level_var;KagerouDead1;1",
+            "",
+            "for;AFTERIMAGE;game.level.unit_groups.get('KagerouSpell').units",
+            "    if;u('{AFTERIMAGE}').faction == \"Afterimage\"",
+            "        change_portrait;{AFTERIMAGE};kagerou-afterimage",
+            "    end",
+            "    if;game.phase.get_current() == 'enemy'",
+            "        has_finished;{AFTERIMAGE}",
+            "    end",
+            "endf"
+        ],
+        "nid": "1 DefeatKagerouNC"
+    }
+]

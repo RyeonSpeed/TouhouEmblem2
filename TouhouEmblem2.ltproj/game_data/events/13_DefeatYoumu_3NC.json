@@ -1,0 +1,17 @@
+[
+    {
+        "name": "DefeatYoumu_3NC",
+        "trigger": "unit_death",
+        "level_nid": "13",
+        "condition": "unit1.nid == 'Youmu_Boss_3' and unit2 == None",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "kill_unit;Youmu_Boss_3",
+            "wait;250",
+            "win_game"
+        ],
+        "nid": "13 DefeatYoumu_3NC"
+    }
+]

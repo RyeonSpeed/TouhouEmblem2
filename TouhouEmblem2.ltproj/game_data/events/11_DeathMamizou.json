@@ -1,7 +1,7 @@
 [
     {
         "name": "DeathMamizou",
-        "trigger": "unit_death",
+        "trigger": "combat_death",
         "level_nid": "11",
         "condition": "unit.nid == 'Mamizou_Boss'",
         "commands": [],

@@ -8,12 +8,12 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "add_group;Turn3;Turn3;fade;closest ",
+            "add_group;Turn3;Turn3;immediate;closest",
             "#142,144,146",
             "move_cursor;142",
             "move_cursor;144",
             "move_cursor;146",
-            "move_cursor;Reimu"
+            "wait;400"
         ],
         "nid": "6 Turn3"
     }

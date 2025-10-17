@@ -1,0 +1,17 @@
+[
+    {
+        "name": "DefeatAlice_1NC",
+        "trigger": "unit_death",
+        "level_nid": "11",
+        "condition": "unit1.nid == 'Alice_Boss_4' and unit2 == None",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "kill_unit;Alice_Boss_4",
+            "wait;250",
+            "win_game"
+        ],
+        "nid": "11 DefeatAlice_1NC"
+    }
+]

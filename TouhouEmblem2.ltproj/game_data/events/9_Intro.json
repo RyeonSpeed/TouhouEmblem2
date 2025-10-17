@@ -106,6 +106,7 @@
             "remove_unit;Kasen;immediate",
             "remove_unit;Mima;immediate",
             "move_unit;Marisa;19,15;immediate",
+            "level_var;Alice98Dead;0",
             "multi_remove_portrait;Marisa;Reimu;Alice;Kasen",
             "transition;open",
             "trigger_script;START",

@@ -1,7 +1,7 @@
 [
     {
         "name": "DeathLouise",
-        "trigger": "combat_end",
+        "trigger": "combat_death",
         "level_nid": "8",
         "condition": "unit.nid == 'Louise_Boss'",
         "commands": [],
