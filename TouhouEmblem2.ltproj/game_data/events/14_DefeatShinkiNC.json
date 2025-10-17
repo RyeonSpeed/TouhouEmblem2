@@ -17,6 +17,8 @@
             "",
             "if;v('YukiSpellMusic') != 1 and v('MaiSpellMusic') != 1 and v('MimaSpellMusic') != 1",
             "music_clear",
+            "end",
+            "",
             "kill_unit;Shinki_Boss",
             "",
             "wait;401",

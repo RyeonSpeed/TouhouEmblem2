@@ -3,7 +3,7 @@
         "name": "DefeatRumia",
         "trigger": "combat_end",
         "level_nid": "0",
-        "condition": "game.check_dead(\"Rumia_Boss\") and and v('RumiaDead') == 0",
+        "condition": "game.check_dead(\"Rumia_Boss\") and v('RumiaDead') == 0",
         "commands": [],
         "only_once": true,
         "priority": 20,
