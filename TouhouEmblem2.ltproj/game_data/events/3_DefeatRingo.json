@@ -3,7 +3,7 @@
         "name": "DefeatRingo",
         "trigger": "combat_end",
         "level_nid": "3",
-        "condition": "game.check_dead(\"Ringo_Boss\") and and v('RingoDead') == 0",
+        "condition": "game.check_dead(\"Ringo_Boss\") and v('RingoDead') == 0",
         "commands": [],
         "only_once": true,
         "priority": 20,
