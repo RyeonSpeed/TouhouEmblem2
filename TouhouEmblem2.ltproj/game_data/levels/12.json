@@ -2421,7 +2421,7 @@
                     1,
                     1
                 ],
-                "sub_nid": null,
+                "sub_nid": "",
                 "condition": "True",
                 "time_left": null,
                 "only_once": false,
@@ -2475,7 +2475,7 @@
                     1,
                     1
                 ],
-                "sub_nid": null,
+                "sub_nid": "",
                 "condition": "True",
                 "time_left": null,
                 "only_once": false,
@@ -2511,7 +2511,7 @@
                     1,
                     1
                 ],
-                "sub_nid": null,
+                "sub_nid": "",
                 "condition": "True",
                 "time_left": null,
                 "only_once": false,
@@ -2542,6 +2542,24 @@
                 "position": [
                     28,
                     21
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "Chest",
+                "condition": "unit.can_unlock(region)",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false,
+                "hide_time": false
+            },
+            {
+                "nid": "Chest3",
+                "region_type": "event",
+                "position": [
+                    28,
+                    1
                 ],
                 "size": [
                     1,

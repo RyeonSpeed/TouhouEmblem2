@@ -8557,10 +8557,10 @@
                 "terrain_grid": {},
                 "sprite_grid": {
                     "1,11": [
-                        "Zoramine Fields",
+                        "Zoramine Castle",
                         [
-                            21,
-                            28
+                            1,
+                            0
                         ]
                     ]
                 }
@@ -8572,10 +8572,25 @@
                 "terrain_grid": {},
                 "sprite_grid": {
                     "28,21": [
-                        "Zoramine Fields",
+                        "Zoramine Castle",
                         [
-                            21,
-                            28
+                            1,
+                            0
+                        ]
+                    ]
+                }
+            },
+            {
+                "nid": "Chest3",
+                "visible": false,
+                "foreground": false,
+                "terrain_grid": {},
+                "sprite_grid": {
+                    "28,1": [
+                        "Zoramine Castle",
+                        [
+                            1,
+                            0
                         ]
                     ]
                 }
