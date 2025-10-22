@@ -1,0 +1,23 @@
+[
+    {
+        "name": "DefeatYumeko_1NC",
+        "trigger": "unit_death",
+        "level_nid": "10",
+        "condition": "unit1.nid == 'Yumeko_Boss_1' and unit2 == None",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "give_bexp;500;Reimu",
+            "change_music;player_phase;Deep Mountain",
+            "change_music;player_battle;Deep Mountain",
+            "change_music;enemy_phase;Maple Wise",
+            "change_music;enemy_battle;Maple Wise",
+            "change_music;enemy2_phase;Maple Wise",
+            "change_music;enemy2_battle;Maple Wise",
+            "change_music;other_phase;Maple Wise",
+            "change_music;other_battle;Maple Wise"
+        ],
+        "nid": "10 DefeatYumeko_1NC"
+    }
+]

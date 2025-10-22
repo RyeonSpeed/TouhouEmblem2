@@ -185,6 +185,7 @@
             "speak;Marisa;In broad daylight?",
             "speak;Rumia;Sh-shut it!",
             "autolevel_to;Rumia_Boss;5;fixed",
+            "level_var;RumiaDead;0",
             "trigger_script;Marisa_Growths",
             ""
         ],

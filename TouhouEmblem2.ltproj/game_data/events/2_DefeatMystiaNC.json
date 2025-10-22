@@ -1,0 +1,20 @@
+[
+    {
+        "name": "DefeatMystiaNC",
+        "trigger": "unit_death",
+        "level_nid": "2",
+        "condition": "unit1.nid == 'Mystia_Boss' and unit2 == None",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Mystia;Left",
+            "speak;Mystia;I knew I should've brought a weapon!",
+            "expression;Mystia;CloseEyes",
+            "remove_portrait;Mystia",
+            "give_bexp;100;Reimu",
+            "level_var;MystiaDead;1"
+        ],
+        "nid": "2 DefeatMystiaNC"
+    }
+]

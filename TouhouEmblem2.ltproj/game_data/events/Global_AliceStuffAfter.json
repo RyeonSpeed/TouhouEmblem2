@@ -1,13 +1,14 @@
 [
     {
         "name": "AliceStuffAfter",
-        "trigger": null,
+        "trigger": "combat_end",
         "level_nid": null,
-        "condition": "True",
+        "condition": "unit1.nid in ['Alice','Shanghai','Hourai'] or unit2.nid in ['Alice','Shanghai','Hourai']",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
+            "if;unit1.nid in ['Alice','Shanghai','Hourai']",
             "for;BRUH;[x for x in ['Alice','Shanghai','Hourai']]",
             "    if;unit1.nid != '{BRUH}'",
             "        if;unit1.level != {v:AliceLv}",
@@ -16,7 +17,20 @@
             "            give_exp;{BRUH};{e:unit1.exp-{v:AliceEXP}};silent",
             "        end",
             "    end",
-            "endf"
+            "endf",
+            "",
+            "else",
+            "for;BRUH;[x for x in ['Alice','Shanghai','Hourai']]",
+            "    if;unit2.nid != '{BRUH}'",
+            "        if;unit2.level != {v:AliceLv}",
+            "            give_exp;{BRUH};{e:unit2.exp+100-{v:AliceEXP}}",
+            "        else",
+            "            give_exp;{BRUH};{e:unit2.exp-{v:AliceEXP}};silent",
+            "        end",
+            "    end",
+            "endf",
+            "",
+            "end"
         ],
         "nid": "Global AliceStuffAfter"
     }

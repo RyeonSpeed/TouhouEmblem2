@@ -1,0 +1,36 @@
+[
+    {
+        "name": "DefeatRingoNC",
+        "trigger": "unit_death",
+        "level_nid": "3",
+        "condition": "unit1.nid == 'Ringo_Boss' and unit2 == None",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "change_music;player_phase;Dullahan Under the Willows",
+            "change_music;player_battle;Dullahan Under the Willows",
+            "change_music;enemy_phase;Dullahan Under the Willows",
+            "change_music;enemy_battle;Dullahan Under the Willows",
+            "kill_unit;Ringo_Boss",
+            "add_portrait;Ringo;Left",
+            "speak;Ringo;Tch. Tough customer, eh?",
+            "level_var;RingoSpellMusic;1",
+            "music;Dullahan Under the Willows",
+            "speak;;Moon-Viewing Sake \"Lunatic September\";center;201;hint;;red;;;1;;;;;Warp",
+            "add_group;RingoSpell;RingoSpell;warp;closest",
+            "autolevel_to;Ringo_Boss_1;7;fixed",
+            "move_cursor;Ringo_Boss_1",
+            "speak;Ringo;Hey, I'm not done just yet! I still have my pride as a soldier!",
+            "remove_portrait;Ringo",
+            "level_var;RingoDead;1",
+            "",
+            "if;game.phase.get_current() == 'enemy'",
+            "for;Spell;game.level.unit_groups.get('RingoSpell').units",
+            "    has_finished;{Spell}",
+            "endf",
+            "end"
+        ],
+        "nid": "3 DefeatRingoNC"
+    }
+]

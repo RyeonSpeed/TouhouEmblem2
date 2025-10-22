@@ -1,0 +1,15 @@
+[
+    {
+        "name": "DeathYoumu_2",
+        "trigger": "combat_death",
+        "level_nid": "13",
+        "condition": "unit.nid == 'Youmu_Boss_2'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            ""
+        ],
+        "nid": "13 DeathYoumu_2"
+    }
+]

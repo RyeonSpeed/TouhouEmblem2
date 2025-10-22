@@ -1,0 +1,20 @@
+[
+    {
+        "name": "DefeatLouise_1NC",
+        "trigger": "unit_death",
+        "level_nid": "8",
+        "condition": "unit1.nid == 'Louise_Boss_1' and unit2 == None",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Louise;Left",
+            "speak;Louise;Ugh, what terrible service. I'm leaving.",
+            "remove_portrait;Louise",
+            "kill_unit;Louise_Boss_1",
+            "wait;250",
+            "win_game"
+        ],
+        "nid": "8 DefeatLouise_1NC"
+    }
+]

@@ -11,7 +11,7 @@
         "components": [
             [
                 "condition",
-                "{v:SoulCharge} >= 4"
+                "game.game_vars['SoulCharge'] >= 4"
             ],
             [
                 "combat_art_indicator",

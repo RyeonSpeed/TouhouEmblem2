@@ -5019,13 +5019,13 @@
             },
             {
                 "nid": "Door2",
-                "visible": false,
+                "visible": true,
                 "foreground": false,
                 "terrain_grid": {
                     "9,0": "6",
                     "9,1": "6",
                     "9,2": "6",
-                    "8,1": "9",
+                    "8,1": "6",
                     "8,2": "6"
                 },
                 "sprite_grid": {

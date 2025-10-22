@@ -371,7 +371,7 @@
             {
                 "nid": "Sakuya",
                 "team": "other",
-                "ai": "None",
+                "ai": "Pursue",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,

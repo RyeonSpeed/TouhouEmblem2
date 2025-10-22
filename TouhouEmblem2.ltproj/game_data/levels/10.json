@@ -12,7 +12,9 @@
             "player_battle": "Deep Mountain",
             "enemy_battle": "Maple Wise",
             "enemy2_battle": "Maple Wise",
-            "boss_battle": "Plastic Mind"
+            "boss_battle": "Plastic Mind",
+            "other_phase": "Maple Wise",
+            "other_battle": "Maple Wise"
         },
         "objective": {
             "simple": "Escape",
@@ -1947,7 +1949,7 @@
             {
                 "nid": "Yumeko_Boss",
                 "team": "enemy",
-                "ai": "Defend",
+                "ai": "Defend_1",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [

@@ -27,6 +27,10 @@
                     "NoMartial",
                     "NoKnife"
                 ]
+            ],
+            [
+                "condition",
+                "unit.nid != 'Alice_Boss_2'"
             ]
         ]
     }

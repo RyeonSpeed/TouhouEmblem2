@@ -1,0 +1,30 @@
+[
+    {
+        "name": "DefeatYoumu_1NC",
+        "trigger": "unit_death",
+        "level_nid": "13",
+        "condition": "unit1.nid == 'Youmu_Boss_1' and unit2 == None",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "kill_unit;Youmu_Boss_1",
+            "",
+            "add_portrait;Youmu;Left",
+            "speak;;Shuraken \"2nd Form\";center;120;hint;;red;;;1;;;;;Warp",
+            "speak;Youmu;Not a single step forward!",
+            "remove_portrait;Youmu",
+            "add_group;YoumuPhase3;YoumuPhase3;warp;closest",
+            "autolevel_to;Youmu_Boss_2;18;fixed",
+            "move_cursor;Youmu_Boss_2",
+            "level_var;YoumuDead2;1",
+            "",
+            "if;game.phase.get_current() == 'enemy'",
+            "for;Spell;game.level.unit_groups.get('YoumuPhase3').units",
+            "    has_finished;{Spell}",
+            "endf",
+            "end"
+        ],
+        "nid": "13 DefeatYoumu_1NC"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "name": "DefeatAlice98NC",
+        "trigger": "unit_death",
+        "level_nid": "9",
+        "condition": "unit1.nid == 'Alice_Boss_1' and unit2 == None",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "change_music;player_phase;Plastic Mind",
+            "change_music;player_battle;Plastic Mind",
+            "change_music;enemy_phase;Plastic Mind",
+            "change_music;enemy_battle;Plastic Mind",
+            "change_music;enemy2_phase;Plastic Mind",
+            "change_music;enemy2_battle;Plastic Mind",
+            "change_music;other_phase;Plastic Mind",
+            "kill_unit;Alice_Boss_1",
+            "",
+            "add_portrait;PC-98 Alice;Left",
+            "",
+            "music;Plastic Mind",
+            "speak;;Grimoire of Alice: Makai Synchrogazer;center;200;hint;;red;;;1;;;;;Warp",
+            "speak;PC-98 Alice;The magic granted to me by Makai...face it!",
+            "remove_portrait;PC-98 Alice",
+            "add_group;AlicePC98Spell;AlicePC98Spell;warp;closest",
+            "autolevel_to;Alice_Boss_2;17;fixed",
+            "move_cursor;Alice_Boss_2",
+            "level_var;Alice98Dead;1",
+            "",
+            "if;game.phase.get_current() == 'enemy'",
+            "for;Spell;game.level.unit_groups.get('AlicePC98Spell').units",
+            "    has_finished;{Spell}",
+            "endf",
+            "else",
+            "end"
+        ],
+        "nid": "9 DefeatAlice98NC"
+    }
+]

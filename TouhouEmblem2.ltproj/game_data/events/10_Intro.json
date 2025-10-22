@@ -106,6 +106,8 @@
             "remove_unit;B",
             "remove_unit;C",
             "multi_remove_portrait;Marisa;Reimu;Kasen;",
+            "level_var;MaiDead;0",
+            "level_var;YumekoDead;0",
             "transition;open",
             "",
             "add_talk;Rin;201",

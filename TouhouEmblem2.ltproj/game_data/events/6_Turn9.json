@@ -8,9 +8,9 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "add_group;Turn9;Turn9;fade;closest",
+            "add_group;Turn9;Turn9;immediate;closest",
             "move_cursor;172",
-            "move_cursor;Reimu"
+            "wait;400"
         ],
         "nid": "6 Turn9"
     }

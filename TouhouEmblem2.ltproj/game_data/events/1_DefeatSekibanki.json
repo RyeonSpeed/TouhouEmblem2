@@ -3,7 +3,7 @@
         "name": "DefeatSekibanki",
         "trigger": "combat_end",
         "level_nid": "1",
-        "condition": "game.check_dead(\"Sekibanki_Boss\")",
+        "condition": "game.check_dead(\"Sekibanki_Boss\") and v('BankiDead1') == 0",
         "commands": [],
         "only_once": true,
         "priority": 20,

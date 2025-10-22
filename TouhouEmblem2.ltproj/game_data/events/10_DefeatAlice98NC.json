@@ -1,0 +1,18 @@
+[
+    {
+        "name": "DefeatAlice98NC",
+        "trigger": "unit_death",
+        "level_nid": "10",
+        "condition": "unit1.nid == 'Alice_Boss' and unit2 == None",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Alice_Boss;Left",
+            "speak;Alice_Boss;Argh, that makes two losses! So unfair!",
+            "expression;Alice_Boss;CloseEyes",
+            "remove_portrait;Alice_Boss"
+        ],
+        "nid": "10 DefeatAlice98NC"
+    }
+]

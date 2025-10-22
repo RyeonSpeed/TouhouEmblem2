@@ -8,6 +8,7 @@
         "klass": "Miko",
         "tags": [
             "Lord",
+            "Required",
             "Convoy",
             "AdjConvoy"
         ],

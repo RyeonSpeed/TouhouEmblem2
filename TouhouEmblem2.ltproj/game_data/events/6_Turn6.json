@@ -8,12 +8,12 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "add_group;Turn6;Turn6;fade;closest",
+            "add_group;Turn6;Turn6;immediate;closest",
             "move_cursor;150",
             "move_cursor;155",
             "move_cursor;160",
             "move_cursor;165",
-            "move_cursor;Reimu"
+            "wait;350"
         ],
         "nid": "6 Turn6"
     }

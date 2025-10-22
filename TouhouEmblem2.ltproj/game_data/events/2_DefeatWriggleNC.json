@@ -1,0 +1,31 @@
+[
+    {
+        "name": "DefeatWriggleNC",
+        "trigger": "unit_death",
+        "level_nid": "2",
+        "condition": "unit1.nid == 'Wriggle_Boss' and unit2 == None",
+        "commands": [],
+        "only_once": true,
+        "priority": 21,
+        "_source": [
+            "change_music;player_phase;Dullahan Under the Willows",
+            "change_music;enemy_phase;Dullahan Under the Willows",
+            "change_music;player_battle;Dullahan Under the Willows",
+            "change_music;enemy_battle;Dullahan Under the Willows",
+            "kill_unit;Wriggle_Boss",
+            "add_portrait;Wriggle;Left",
+            "speak;Wriggle;You really think this is going to keep me down? Watch this!",
+            "music;Dullahan Under the Willows",
+            "speak;;Carapace Sign \"Hercules Beetle\";center;170;hint;;red;;;1;;;;;Warp",
+            "speak;Wriggle;I feel...much stronger now! Come to me, insects of the woods!",
+            "remove_portrait;Wriggle",
+            "add_group;WriggleSpell;WriggleSpell;warp;push",
+            "autolevel_to;Wriggle_Boss_1;3;fixed",
+            "level_var;WriggleDead;1",
+            "for;Spell;game.level.unit_groups.get('WriggleSpell').units",
+            "    has_finished;{Spell}",
+            "endf"
+        ],
+        "nid": "2 DefeatWriggleNC"
+    }
+]

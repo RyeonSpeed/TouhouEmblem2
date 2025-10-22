@@ -1,0 +1,20 @@
+[
+    {
+        "name": "DefeatWakasagihimeNC",
+        "trigger": "unit_death",
+        "level_nid": "1",
+        "condition": "unit1.nid == \"Wakasagihime_Boss\" and unit2 == None",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Wakasagihime;Left",
+            "speak;Wakasagihime;I'm sorry...Kagerou, Sekibanki...",
+            "expression;Wakasagihime;CloseEyes",
+            "remove_portrait;Wakasagihime",
+            "give_bexp;50;Reimu",
+            "level_var;WakaDead;1"
+        ],
+        "nid": "1 DefeatWakasagihimeNC"
+    }
+]

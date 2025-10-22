@@ -28,7 +28,7 @@
             "",
             "change_objective_win;Defeat Boss,Defeat Boss",
             "change_objective_simple;Rout Enemy",
-            "speak;;This map's clear bonus is 500 Bonus EXP, with a decrease of 100 BExp per turn you take over 15 turns!;;;hint"
+            "speak;;This map's clear bonus is 500 Bonus EXP, with a decrease of 100 BExp per turn you take over 15 turns!;;145;hint"
         ],
         "nid": "6 Turn10"
     }

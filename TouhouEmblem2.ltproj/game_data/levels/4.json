@@ -1267,7 +1267,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Attack",
                 "roam_ai": null,
@@ -1288,7 +1290,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Attack",
                 "roam_ai": null,
@@ -1435,7 +1439,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -1456,7 +1462,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Summoning_Sickness"
+                ],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -2547,7 +2555,7 @@
                     2
                 ],
                 "sub_nid": "Investigate",
-                "condition": "True",
+                "condition": "has_item(\"Curry\", unit1.nid)",
                 "time_left": null,
                 "only_once": true,
                 "interrupt_move": false,

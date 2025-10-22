@@ -1,0 +1,38 @@
+[
+    {
+        "nid": "Frozen_2",
+        "name": "Frozen",
+        "desc": "-10 Avoid.",
+        "icon_nid": "skillicons4",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "unit_flickering_tint",
+                [
+                    85,
+                    170,
+                    255
+                ]
+            ],
+            [
+                "lost_on_end_chapter",
+                null
+            ],
+            [
+                "avoid",
+                -10
+            ],
+            [
+                "condition",
+                "unit.team is not 'enemy'"
+            ],
+            [
+                "negative",
+                null
+            ]
+        ]
+    }
+]

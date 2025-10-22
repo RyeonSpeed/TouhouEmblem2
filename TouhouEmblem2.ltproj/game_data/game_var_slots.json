@@ -126,5 +126,13 @@
     {
         "nid": "difficultybonus",
         "desc": null
+    },
+    {
+        "nid": "SoulCharge",
+        "desc": null
+    },
+    {
+        "nid": "DollFatigue",
+        "desc": null
     }
 ]

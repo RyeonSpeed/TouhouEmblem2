@@ -99,7 +99,11 @@
             "remove_portrait;Keine",
             "level_var;KagerouSpellMusic;0",
             "level_var;SekibankiSpellMusic;0",
-            "speak;;From here on out, every map will feature a clear bonus if you finish the map within a certain|number of turns. This map's clear bonus is 300 Bonus EXP, with a decrease of 15 BExp|per turn you take over 15 turns!;;;hint"
+            "level_var;KagerouDead1;0",
+            "level_var;KagerouDead2;0",
+            "level_var;BankiDead1;0",
+            "level_var;BankiDead2;0",
+            "level_var;WakaDead;0"
         ],
         "nid": "1 Intro"
     }

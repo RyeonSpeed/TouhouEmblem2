@@ -95,10 +95,12 @@
             "speak;Merlin;Yeah, it definitely is!",
             "",
             "",
-            "",
+            "level_var;Commander1Dead;0",
+            "level_var;Commander2Dead;0",
+            "level_var;SaraDead;0",
+            "level_var;KanaDead;0",
             "",
             "prep;1;Sealed Gods",
-            "speak;;This map's clear bonus is 1000 Bonus EXP, with a decrease of 200 BExp per turn you take over 18 turns!;;;hint",
             ""
         ],
         "nid": "12 Intro"

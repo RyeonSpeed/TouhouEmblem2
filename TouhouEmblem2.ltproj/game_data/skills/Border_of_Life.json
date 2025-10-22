@@ -27,7 +27,7 @@
             ],
             [
                 "condition",
-                "{v:SoulCharge} >= 4"
+                "game.game_vars['SoulCharge'] >= 4"
             ]
         ]
     }

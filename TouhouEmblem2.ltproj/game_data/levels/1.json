@@ -19,7 +19,7 @@
         "objective": {
             "simple": "Talk to Keine",
             "win": "Talk to Keine",
-            "loss": "Reimu or Marisa die"
+            "loss": "Reimu or Marisa dies"
         },
         "roam": false,
         "roam_unit": null,

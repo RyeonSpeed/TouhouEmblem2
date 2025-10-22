@@ -1,0 +1,16 @@
+[
+    {
+        "name": "DefeatMima_1",
+        "trigger": "combat_end",
+        "level_nid": "14",
+        "condition": "game.check_dead(\"Mima_Boss_1\") and v('MimaDead2') == 0",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "give_bexp;200",
+            "level_var;MimaSpellMusic;0"
+        ],
+        "nid": "14 DefeatMima_1"
+    }
+]

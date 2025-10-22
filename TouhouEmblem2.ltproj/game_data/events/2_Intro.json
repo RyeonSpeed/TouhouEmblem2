@@ -84,9 +84,10 @@
             "set_fog_of_war;gba;5;5;5",
             "autolevel_to;Wriggle_Boss;3;fixed",
             "autolevel_to;Mystia_Boss;3;fixed",
+            "level_var;MystiaDead;0",
+            "level_var;WriggleDead;0",
             "prep;1;Sealed Gods",
-            "transition;open",
-            "speak;;This map's clear bonus is 300 Bonus EXP,|with a decrease of 60 BExp per turn you take over 15 turns!;;;hint"
+            "transition;open"
         ],
         "nid": "2 Intro"
     }

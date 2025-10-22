@@ -1,0 +1,17 @@
+[
+    {
+        "name": "DefeatShinki_3NC",
+        "trigger": "unit_death",
+        "level_nid": "14",
+        "condition": "unit1.nid == 'Shinki_Boss_3' and unit2 == None",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "kill_unit;Shinki_Boss_3",
+            "wait;250",
+            "win_game"
+        ],
+        "nid": "14 DefeatShinki_3NC"
+    }
+]

@@ -300,6 +300,21 @@
         "status": null
     },
     {
+        "nid": "6_5",
+        "name": "Floor",
+        "color": [
+            140,
+            68,
+            49
+        ],
+        "minimap": "Floor",
+        "platform": "Floor3",
+        "background": "combat_castle6",
+        "mtype": "Normal",
+        "opaque": false,
+        "status": null
+    },
+    {
         "nid": "6_1",
         "name": "Warp",
         "color": [
@@ -396,6 +411,21 @@
             40,
             40,
             40
+        ],
+        "minimap": "Wall",
+        "platform": "Wall",
+        "background": "combat_castle4",
+        "mtype": "Wall",
+        "opaque": true,
+        "status": null
+    },
+    {
+        "nid": "9_2",
+        "name": "--",
+        "color": [
+            84,
+            84,
+            84
         ],
         "minimap": "Wall",
         "platform": "Wall",
@@ -758,8 +788,23 @@
             0
         ],
         "minimap": "Chest",
-        "platform": "Chest",
+        "platform": "Chest2",
         "background": "combat_castle5",
+        "mtype": "Normal",
+        "opaque": false,
+        "status": null
+    },
+    {
+        "nid": "36_3",
+        "name": "Chest",
+        "color": [
+            255,
+            181,
+            10
+        ],
+        "minimap": "Chest",
+        "platform": "Chest3",
+        "background": "combat_castle6",
         "mtype": "Normal",
         "opaque": false,
         "status": null
@@ -1060,6 +1105,21 @@
         "minimap": "Lava",
         "platform": "Carpet",
         "background": "combat_castle4",
+        "mtype": "Normal",
+        "opaque": false,
+        "status": null
+    },
+    {
+        "nid": "50_1",
+        "name": "Floor",
+        "color": [
+            133,
+            164,
+            231
+        ],
+        "minimap": "River",
+        "platform": "Carpet2",
+        "background": "combat_castle5",
         "mtype": "Normal",
         "opaque": false,
         "status": null

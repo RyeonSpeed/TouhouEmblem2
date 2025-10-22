@@ -15,7 +15,8 @@
             "flicker_cursor;Sakuya",
             "add_portrait;Sakuya;Right",
             "speak;Sakuya;Hm, I seem to have finally caught up to Lady Remilia's location. My search is almost done.",
-            "remove_portrait;Sakuya"
+            "remove_portrait;Sakuya",
+            "change_ai;Sakuya;Pursue"
         ],
         "nid": "8 Turn5"
     }

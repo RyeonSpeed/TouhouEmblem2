@@ -93,6 +93,10 @@
             [
                 "weapon_type",
                 "Knife"
+            ],
+            [
+                "wexp",
+                0
             ]
         ]
     }

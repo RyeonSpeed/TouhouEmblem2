@@ -106,11 +106,11 @@
             "remove_unit;Kasen;immediate",
             "remove_unit;Mima;immediate",
             "move_unit;Marisa;19,15;immediate",
+            "level_var;Alice98Dead;0",
             "multi_remove_portrait;Marisa;Reimu;Alice;Kasen",
             "transition;open",
             "trigger_script;START",
-            "prep;1;Trouble!",
-            "speak;;This map's clear bonus is 500 Bonus EXP, with a decrease of 100 BExp per turn you take over 15 turns!;;;hint"
+            "prep;1;Trouble!"
         ],
         "nid": "9 Intro"
     }

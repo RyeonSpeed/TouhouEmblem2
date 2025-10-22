@@ -1,0 +1,31 @@
+[
+    {
+        "name": "DefeatKagerou_1NC",
+        "trigger": "unit_death",
+        "level_nid": "1",
+        "condition": "unit1.nid == \"Kagerou_Boss_1\" and unit2 == None",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Kagerou;Left",
+            "speak;Kagerou;I knew I shouldn't have come out...",
+            "expression;Kagerou;CloseEyes",
+            "remove_portrait;Kagerou",
+            "level_var;KagerouSpellMusic;0",
+            "",
+            "if;v('SekibankiSpellMusic') == 0",
+            "change_music;player_phase;Mist Lake",
+            "change_music;player_battle;Mist Lake",
+            "change_music;enemy_phase;Wayward Springs",
+            "change_music;enemy_battle;Wayward Springs",
+            "change_music;other_phase;Wayward Springs",
+            "change_music;other_battle;Wayward Springs",
+            "end",
+            "",
+            "level_var;KagerouDead2;1",
+            "give_bexp;200;Reimu"
+        ],
+        "nid": "1 DefeatKagerou_1NC"
+    }
+]

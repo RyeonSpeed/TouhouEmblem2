@@ -1,7 +1,7 @@
 [
     {
         "nid": "NightjarAura_1",
-        "name": "NightjarAura",
+        "name": "Darting Nightjars",
         "desc": "Harder to spot attackers in the fog. -2 DEF.",
         "icon_nid": "skillicons3",
         "icon_index": [

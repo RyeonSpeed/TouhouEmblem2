@@ -1,0 +1,34 @@
+[
+    {
+        "name": "DefeatSekibanki_1NC",
+        "trigger": "unit_death",
+        "level_nid": "1",
+        "condition": "unit1.nid == \"Sekibanki_Boss_1\" and unit2 == None",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Sekibanki;Left",
+            "speak;Sekibanki;Ugh...You're still awfully strong...",
+            "expression;Sekibanki;CloseEyes",
+            "remove_portrait;Sekibanki",
+            "level_var;SekibankiSpellMusic;0",
+            "",
+            "if;v('KagerouSpellMusic') == 0",
+            "change_music;player_phase;Mist Lake",
+            "change_music;player_battle;Mist Lake",
+            "change_music;enemy_phase;Wayward Springs",
+            "change_music;enemy_battle;Wayward Springs",
+            "change_music;other_phase;Wayward Springs",
+            "change_music;other_battle;Wayward Springs",
+            "end",
+            "",
+            "level_var;BankiDead2;1",
+            "give_bexp;100;Reimu",
+            "remove_unit;140;warp;north",
+            "remove_unit;141;warp;north",
+            "remove_unit;142;warp;north"
+        ],
+        "nid": "1 DefeatSekibanki_1NC"
+    }
+]

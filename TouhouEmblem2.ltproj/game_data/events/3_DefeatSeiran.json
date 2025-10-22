@@ -1,19 +1,31 @@
 [
     {
         "name": "DefeatSeiran",
-        "trigger": "combat_death",
+        "trigger": "combat_end",
         "level_nid": "3",
-        "condition": "unit.nid == \"Seiran_Boss\"",
+        "condition": "game.check_dead(\"Seiran_Boss\") and v('SeiranDead') == 0",
         "commands": [],
-        "only_once": false,
+        "only_once": true,
         "priority": 20,
         "_source": [
-            "hide_combat_ui",
+            "change_music;player_phase;Dullahan Under the Willows",
+            "change_music;player_battle;Dullahan Under the Willows",
+            "change_music;enemy_phase;Dullahan Under the Willows",
+            "change_music;enemy_battle;Dullahan Under the Willows",
             "add_portrait;Seiran;Left",
-            "speak;Seiran;Let me show you a little of what I can do!",
+            "speak;;Bullet Sign \"Eagle Shooting\";center;155;hint;;red;;;1;;;;;Warp",
+            "add_group;SeiranSpell;SeiranSpell;warp;closest",
+            "autolevel_to;Seiran_Boss_1;7;fixed",
+            "move_cursor;Seiran_Boss_1",
+            "speak;Seiran;I might not be the strongest eagle ravi, but I'm still one nonetheless!",
+            "trigger_script;Global SeiranScramble",
             "remove_portrait;Seiran",
-            "level_var;SeiranSpellMusic;1",
-            "show_combat_ui"
+            "if;game.phase.get_current() == 'enemy'",
+            "for;Spell;game.level.unit_groups.get('SeiranSpell').units",
+            "    has_finished;{Spell}",
+            "endf",
+            "else",
+            "end"
         ],
         "nid": "3 DefeatSeiran"
     }

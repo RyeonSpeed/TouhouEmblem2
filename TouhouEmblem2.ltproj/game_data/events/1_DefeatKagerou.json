@@ -3,7 +3,7 @@
         "name": "DefeatKagerou",
         "trigger": "combat_end",
         "level_nid": "1",
-        "condition": "game.check_dead(\"Kagerou_Boss\")",
+        "condition": "game.check_dead(\"Kagerou_Boss\") and v('KagerouDead1') == 0",
         "commands": [],
         "only_once": true,
         "priority": 20,

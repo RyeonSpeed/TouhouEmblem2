@@ -16,6 +16,10 @@
             "load_unit;Hourai;player",
             "add_unit;Shanghai;{v:AlicePosition};warp;closest",
             "add_unit;Hourai;{v:AlicePosition};warp;closest",
+            "game_var;DollFatigue;u('Shanghai').get_fatigue()*-1",
+            "add_fatigue;Shanghai;{v:DollFatigue}",
+            "game_var;DollFatigue;u('Hourai').get_fatigue()*-1",
+            "add_fatigue;Hourai;{v:DollFatigue}",
             "if;'Reginleif_S' in [x.nid for x in u('Shanghai').items]",
             "    set_item_uses;Shanghai;Reginleif_S;{e:get_item('Shanghai','Reginleif_S').data['starting_uses']}",
             "else",
@@ -36,7 +40,9 @@
             "else",
             "    give_item;Hourai;Yomi_S;no_banner",
             "end",
-            "end"
+            "end",
+            "level_var;ShanghaiDead;0",
+            "level_var;HouraiDead;0"
         ],
         "nid": "Global Puppet Assault"
     }

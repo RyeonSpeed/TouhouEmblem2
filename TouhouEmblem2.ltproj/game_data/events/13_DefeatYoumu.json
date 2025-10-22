@@ -3,12 +3,24 @@
         "name": "DefeatYoumu",
         "trigger": "combat_end",
         "level_nid": "13",
-        "condition": "game.check_dead(\"Youmu_Boss_3\")",
+        "condition": "game.check_dead(\"Youmu_Boss\") and v('YoumuDead1') == 0",
         "commands": [],
-        "only_once": false,
+        "only_once": true,
         "priority": 20,
         "_source": [
-            "win_game"
+            "add_portrait;Youmu;Left",
+            "speak;;Shuraken \"1st Form\";center;120;hint;;red;;;1;;;;;Warp",
+            "speak;Youmu;Not a single step forward!",
+            "remove_portrait;Youmu",
+            "add_group;YoumuPhase2;YoumuPhase2;warp;closest",
+            "autolevel_to;Youmu_Boss_1;18;fixed",
+            "move_cursor;Youmu_Boss_1",
+            "if;game.phase.get_current() == 'enemy'",
+            "for;Spell;game.level.unit_groups.get('YoumuPhase2').units",
+            "    has_finished;{Spell}",
+            "endf",
+            "else",
+            "end"
         ],
         "nid": "13 DefeatYoumu"
     }

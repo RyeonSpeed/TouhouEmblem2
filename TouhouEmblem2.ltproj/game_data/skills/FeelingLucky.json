@@ -2,7 +2,7 @@
     {
         "nid": "FeelingLucky",
         "name": "Feeling Lucky?",
-        "desc": "After initiating combat, the user will be inflicted with a random effect.",
+        "desc": "Initiating combat results in one of many random effects.",
         "icon_nid": "skillicons_1",
         "icon_index": [
             4,

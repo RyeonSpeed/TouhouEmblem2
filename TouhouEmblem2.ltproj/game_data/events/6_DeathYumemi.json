@@ -1,7 +1,7 @@
 [
     {
         "name": "DeathYumemi",
-        "trigger": "unit_death",
+        "trigger": "combat_death",
         "level_nid": "6",
         "condition": "unit.nid == \"Yumemi_Boss\"",
         "commands": [],

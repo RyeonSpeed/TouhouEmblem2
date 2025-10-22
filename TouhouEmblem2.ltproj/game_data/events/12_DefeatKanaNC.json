@@ -1,0 +1,39 @@
+[
+    {
+        "name": "DefeatKanaNC",
+        "trigger": "unit_death",
+        "level_nid": "12",
+        "condition": "unit1.nid == 'Kana_Boss' and unit2 == None",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "change_music;player_phase;Vanishing Dream",
+            "change_music;player_battle;Vanishing Dream",
+            "change_music;enemy_phase;Vanishing Dream",
+            "change_music;enemy_battle;Vanishing Dream",
+            "change_music;enemy2_phase;Vanishing Dream",
+            "change_music;enemy2_battle;Vanishing Dream",
+            "kill_unit;Kana_Boss",
+            "",
+            "music;Vanishing Dream",
+            "add_portrait;Kana_Boss;Left",
+            "speak;;Ghostly Blade Dance;center;115;hint;;red;;;1;;;;;Warp",
+            "speak;Kana_Boss;Until there's only one left~!",
+            "remove_portrait;Kana_Boss",
+            "add_group;KanaSpell;KanaSpell;warp;closest",
+            "autolevel_to;Kana_Boss_1;18;fixed",
+            "move_cursor;Kana_Boss_1",
+            "level_var;KanaDead;1",
+            "",
+            "if;game.phase.get_current() == 'enemy'",
+            "for;Spell;game.level.unit_groups.get('KanaSpell').units",
+            "    has_finished;{Spell}",
+            "endf",
+            "end",
+            "",
+            "wait;500"
+        ],
+        "nid": "12 DefeatKanaNC"
+    }
+]

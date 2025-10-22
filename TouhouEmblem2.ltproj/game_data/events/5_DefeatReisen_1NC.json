@@ -1,0 +1,23 @@
+[
+    {
+        "name": "DefeatReisen_1NC",
+        "trigger": "unit_death",
+        "level_nid": "5",
+        "condition": "unit1.nid == 'Reisen_Boss_1' and unit2 == None",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "add_portrait;Reisen;Left",
+            "speak;Reisen;Insane...",
+            "expression;Reisen;CloseEyes",
+            "remove_portrait;Reisen",
+            "",
+            "change_music;player_phase;Kagome Kagome",
+            "change_music;player_battle;Kagome Kagome",
+            "change_music;enemy_phase;Invisible Full Moon",
+            "change_music;enemy_battle;Invisible Full Moon"
+        ],
+        "nid": "5 DefeatReisen_1NC"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "name": "DefeatMystia",
+        "trigger": "combat_end",
+        "level_nid": "2",
+        "condition": "game.check_dead(\"Mystia_Boss\") and v('MystiaDead') == 0",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "give_bexp;100;Reimu"
+        ],
+        "nid": "2 DefeatMystia"
+    }
+]

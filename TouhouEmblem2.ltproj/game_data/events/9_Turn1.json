@@ -9,7 +9,8 @@
         "priority": 19,
         "_source": [
             "autolevel_to;Shanghai;8;fixed",
-            "autolevel_to;Hourai;8;fixed"
+            "autolevel_to;Hourai;8;fixed",
+            "speak;;This map's clear bonus is 500 Bonus EXP, with a decrease of 100 BExp per turn you take over 15 turns!;;145;hint"
         ],
         "nid": "9 Turn1"
     }

@@ -8,11 +8,12 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "speak;;This map's clear bonus is 300 Bonus EXP, with a decrease of 60 BExp per turn you take over 15 turns!;;145;hint",
             "add_portrait;Mystia;Left",
             "speak;;Evening Sign \"Darting Nightjars\";center;170;hint;;red;;;1;;;;;Warp",
             "speak;Mystia;Do you feel blinded? Alone? Fear the grasp of the dark!",
             "remove_portrait;Mystia",
-            "give_skill;Mystia_Boss;NightjarAura;;no_warn",
+            "give_skill;Mystia_Boss;NightjarAura;;no_banner",
             "add_portrait;Reimu;Right",
             "speak;Reimu;Ugh...watch out everyone, the enemy's going to try and take advantage of our weakness!",
             "remove_portrait;Reimu"

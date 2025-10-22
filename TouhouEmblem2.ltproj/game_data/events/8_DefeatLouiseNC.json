@@ -1,0 +1,40 @@
+[
+    {
+        "name": "DefeatLouiseNC",
+        "trigger": "unit_death",
+        "level_nid": "8",
+        "condition": "unit1.nid == 'Louise_Boss' and unit2 == None",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "change_music;player_phase;Strawberry Crisis",
+            "change_music;player_battle;Strawberry Crisis",
+            "change_music;enemy_phase;Strawberry Crisis",
+            "change_music;enemy_battle;Strawberry Crisis",
+            "change_music;enemy2_phase;Strawberry Crisis",
+            "change_music;enemy2_battle;Strawberry Crisis",
+            "kill_unit;Louise_Boss",
+            "add_portrait;Louise;Left",
+            "expression;Louise;Smile",
+            "speak;Louise;Hey, that's not very nice now.|Looks like I'll have to write up a complaint!",
+            "",
+            "music;Strawberry Crisis",
+            "speak;;Devil Sign: Tour Guide From the Underworld!;center;220;hint;;red;;;1;;;;;Warp",
+            "speak;Louise;And I was promised a leisurely vacation. I guess it'll have to be a red one!",
+            "remove_portrait;Louise",
+            "add_group;LouiseSpell;LouiseSpell;warp;closest",
+            "autolevel_to;Louise_Boss_1;15;fixed",
+            "move_cursor;Louise_Boss_1",
+            "level_var;LouiseDead;1",
+            "",
+            "if;game.phase.get_current() == 'enemy'",
+            "for;Spell;game.level.unit_groups.get('LouiseSpell').units",
+            "    has_finished;{Spell}",
+            "endf",
+            "else",
+            "end"
+        ],
+        "nid": "8 DefeatLouiseNC"
+    }
+]

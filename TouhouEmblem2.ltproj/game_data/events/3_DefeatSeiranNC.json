@@ -1,0 +1,37 @@
+[
+    {
+        "name": "DefeatSeiranNC",
+        "trigger": "unit_death",
+        "level_nid": "3",
+        "condition": "unit1.nid == 'Seiran_Boss' and unit2 == None",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "change_music;player_phase;Dullahan Under the Willows",
+            "change_music;player_battle;Dullahan Under the Willows",
+            "change_music;enemy_phase;Dullahan Under the Willows",
+            "change_music;enemy_battle;Dullahan Under the Willows",
+            "kill_unit;Seiran_Boss",
+            "add_portrait;Seiran;Left",
+            "speak;Seiran;Let me show you a little of what I can do!",
+            "level_var;SeiranSpellMusic;1",
+            "music;Dullahan Under the Willows",
+            "speak;;Bullet Sign \"Eagle Shooting\";center;155;hint;;red;;;1;;;;;Warp",
+            "add_group;SeiranSpell;SeiranSpell;warp;closest",
+            "autolevel_to;Seiran_Boss_1;7;fixed",
+            "move_cursor;Seiran_Boss_1",
+            "speak;Seiran;I might not be the strongest eagle ravi, but I'm still one nonetheless!",
+            "trigger_script;Global SeiranScramble",
+            "remove_portrait;Seiran",
+            "level_var;SeiranDead;1",
+            "",
+            "if;game.phase.get_current() == 'enemy'",
+            "for;Spell;game.level.unit_groups.get('SeiranSpell').units",
+            "    has_finished;{Spell}",
+            "endf",
+            "end"
+        ],
+        "nid": "3 DefeatSeiranNC"
+    }
+]

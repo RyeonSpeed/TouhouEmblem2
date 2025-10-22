@@ -2,7 +2,7 @@
     {
         "nid": "Frozen",
         "name": "Frozen",
-        "desc": "-2 MOV, -15 AVOID",
+        "desc": "-10 Avoid.",
         "icon_nid": "skillicons4",
         "icon_index": [
             0,
