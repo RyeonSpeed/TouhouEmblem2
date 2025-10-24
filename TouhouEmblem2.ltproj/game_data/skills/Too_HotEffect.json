@@ -10,16 +10,16 @@
         ],
         "components": [
             [
-                "proc_rate",
-                "TwentyPlusSkill"
+                "hidden",
+                null
             ],
             [
                 "item_override",
                 "new_5"
             ],
             [
-                "hidden",
-                null
+                "condition",
+                "(random.randint(1,100) <= (unit.get_stat(\"SKL\") + 20)) and item_system.weapon_type(unit, unit.get_weapon()) in ['Sword', 'Lance', 'Axe', 'Bow', 'Anima', 'Dark', 'Light', 'Martial', 'Knife']"
             ]
         ]
     }

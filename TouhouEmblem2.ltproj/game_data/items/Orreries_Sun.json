@@ -63,7 +63,7 @@
             ],
             [
                 "battle_cast_anim",
-                "Atlas"
+                "Orreries_Sun"
             ],
             [
                 "stat_change",
@@ -113,6 +113,10 @@
             [
                 "magic",
                 null
+            ],
+            [
+                "status_on_equip",
+                "Orreries_Sun_Melee_Skill"
             ]
         ]
     }

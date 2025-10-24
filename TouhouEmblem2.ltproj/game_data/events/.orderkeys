@@ -98,7 +98,7 @@
     "4_FightTewi",
     "4_DeathTewi",
     "4_DeathTewi_1",
-    "4_DeathTewi_1NC",
+    "4_DefeatTewi_1NC",
     "4_DefeatTewi_1",
     "4_Wall1",
     "4_Turn5",
@@ -578,7 +578,7 @@
     "Global_DeathKagerou",
     "Global_DeathSekibanki",
     "Global_DeathSakuya",
-    "12_Chest3"
+    "12_Chest3",
     "0_DeathKasen",
     "1_BExp",
     "12_DeathSara",

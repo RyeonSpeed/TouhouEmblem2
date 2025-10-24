@@ -10,16 +10,16 @@
         ],
         "components": [
             [
-                "proc_rate",
-                "TINDALOS"
-            ],
-            [
                 "gain_skill_after_combat",
                 "Shock"
             ],
             [
                 "hidden",
                 null
+            ],
+            [
+                "condition",
+                "random.randint(1,100) <= 50"
             ]
         ]
     }

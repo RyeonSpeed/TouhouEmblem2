@@ -14,16 +14,12 @@
                 null
             ],
             [
-                "proc_rate",
-                "TINDALOS"
-            ],
-            [
                 "event_after_initiated_combat",
                 "Global Curry"
             ],
             [
                 "combat_condition",
-                "item.nid == 'Curry'"
+                "item.nid == 'Curry' and random.randint(1,100) <= 50"
             ]
         ]
     }

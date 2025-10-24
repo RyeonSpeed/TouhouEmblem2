@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "new_1",
+        "name": "new_1",
+        "desc": "",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "immune__choose_status",
+                "Bleeding"
+            ]
+        ]
+    }
+]

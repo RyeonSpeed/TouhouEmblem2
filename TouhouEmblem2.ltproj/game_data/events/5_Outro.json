@@ -13,7 +13,7 @@
             "speak;;You completed the map in 15 or less turns! You got the full reward!;;;hint",
             "elif;game.turncount > 15 and game.turncount < 20",
             "give_bexp;{e:375 - ((game.turncount - 15) * 75)}",
-            "speak;;Unfortunately, you completed the map in more than 20 turns, so your reward will be reduced accordingly.;;;hint",
+            "speak;;Unfortunately, you completed the map in more than 15 turns, so your reward will be reduced accordingly.;;;hint",
             "elif;game.turncount >= 20",
             "speak;;Lmao skill issue;;;hint",
             "end",

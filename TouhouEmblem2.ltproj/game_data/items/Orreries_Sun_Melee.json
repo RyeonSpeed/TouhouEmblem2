@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Orreries_Sun_Melee",
+        "name": "Orreries Sun",
+        "desc": "Recurring. Anti-Fliers. +3 Def. Prf Mima and Marisa.",
+        "icon_nid": "the2icons",
+        "icon_index": [
+            8,
+            1
+        ],
+        "components": [
+            [
+                "battle_cast_anim",
+                "Orreries_SunMelee"
+            ]
+        ]
+    }
+]

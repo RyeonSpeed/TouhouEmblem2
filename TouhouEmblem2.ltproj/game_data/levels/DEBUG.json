@@ -52,32 +52,6 @@
                 "generic": true
             },
             {
-                "nid": "103",
-                "variant": null,
-                "level": 40,
-                "klass": "Mage",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Fire",
-                        false
-                    ]
-                ],
-                "starting_skills": [
-                    "Bleeding_Shot"
-                ],
-                "team": "enemy",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    17,
-                    21
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
                 "nid": "Remilia",
                 "team": "player",
                 "ai": "None",
@@ -93,12 +67,16 @@
             {
                 "nid": "101",
                 "variant": null,
-                "level": 10,
-                "klass": "Citizen",
+                "level": 40,
+                "klass": "Warden",
                 "faction": "Youkai",
                 "starting_items": [
                     [
                         "Iron_Bow",
+                        false
+                    ],
+                    [
+                        "Lucky_Clover",
                         false
                     ]
                 ],
@@ -115,14 +93,18 @@
                 "generic": true
             },
             {
-                "nid": "105",
+                "nid": "104",
                 "variant": null,
-                "level": 10,
-                "klass": "Citizen",
+                "level": 40,
+                "klass": "Warden",
                 "faction": "Youkai",
                 "starting_items": [
                     [
                         "Iron_Bow",
+                        false
+                    ],
+                    [
+                        "Lucky_Clover",
                         false
                     ]
                 ],
@@ -132,21 +114,25 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    18,
-                    15
+                    20,
+                    16
                 ],
                 "starting_traveler": null,
                 "generic": true
             },
             {
-                "nid": "104",
+                "nid": "105",
                 "variant": null,
-                "level": 10,
-                "klass": "Citizen",
+                "level": 40,
+                "klass": "Warden",
                 "faction": "Youkai",
                 "starting_items": [
                     [
                         "Iron_Bow",
+                        false
+                    ],
+                    [
+                        "Lucky_Clover",
                         false
                     ]
                 ],
@@ -156,8 +142,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    19,
-                    15
+                    21,
+                    16
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -166,7 +152,7 @@
                 "nid": "107",
                 "variant": null,
                 "level": 10,
-                "klass": "Citizen",
+                "klass": "Miko_Y",
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -190,7 +176,7 @@
                 "nid": "106",
                 "variant": null,
                 "level": 10,
-                "klass": "Citizen",
+                "klass": "Miko_Y",
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -217,8 +203,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    19,
-                    17
+                    23,
+                    18
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -227,11 +213,15 @@
                 "nid": "102",
                 "variant": null,
                 "level": 1,
-                "klass": "Citizen",
+                "klass": "Witch_R",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Iron_Sword",
+                        "Debug_Crit",
+                        false
+                    ],
+                    [
+                        "Orreries_Sun",
                         false
                     ]
                 ],
@@ -241,21 +231,34 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    18,
-                    20
+                    20,
+                    19
                 ],
                 "starting_traveler": null,
                 "generic": true
             },
             {
-                "nid": "Alice",
+                "nid": "Marisa",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    19,
-                    23
+                    21,
+                    19
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Youmu_Boss_3",
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    22,
+                    21
                 ],
                 "starting_traveler": null,
                 "generic": false

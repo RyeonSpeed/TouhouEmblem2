@@ -2,7 +2,7 @@
     {
         "nid": "Too_Hot",
         "name": "Too Hot!",
-        "desc": "Burning. \n<blue>[On Hit]</blue> [20 + Skl]% chance to inflict Burning.",
+        "desc": "Burning. \n<blue>[After Combat]</blue> [20 + Skl]% chance to inflict Burning if enemy was hit.",
         "icon_nid": "icons",
         "icon_index": [
             8,

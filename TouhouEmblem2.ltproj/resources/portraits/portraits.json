@@ -2062,5 +2062,17 @@
             32
         ],
         "info_offset": 0
+    },
+    {
+        "nid": "Yuki",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
     }
 ]

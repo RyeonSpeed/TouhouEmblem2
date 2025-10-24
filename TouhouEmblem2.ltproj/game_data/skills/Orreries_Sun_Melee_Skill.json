@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Orreries_Sun_Melee_Skill",
+        "name": "Dagon Melee Skill",
+        "desc": "",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "hidden",
+                null
+            ],
+            [
+                "combat_condition",
+                "utils.calculate_distance(unit.position, target.position) == 1 and unit2.team != unit.team"
+            ],
+            [
+                "item_override",
+                "Orreries_Sun_Melee"
+            ]
+        ]
+    }
+]
