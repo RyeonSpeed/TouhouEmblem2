@@ -324,18 +324,6 @@
         "info_offset": 0
     },
     {
-        "nid": "Miyoi",
-        "blinking_offset": [
-            32,
-            32
-        ],
-        "smiling_offset": [
-            32,
-            48
-        ],
-        "info_offset": 0
-    },
-    {
         "nid": "Aunn",
         "blinking_offset": [
             24,
@@ -1920,18 +1908,6 @@
         "info_offset": 0
     },
     {
-        "nid": "Narumi",
-        "blinking_offset": [
-            32,
-            40
-        ],
-        "smiling_offset": [
-            32,
-            56
-        ],
-        "info_offset": 0
-    },
-    {
         "nid": "Shanghai",
         "blinking_offset": [
             24,
@@ -2072,6 +2048,30 @@
         "smiling_offset": [
             24,
             48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Miyoi",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Narumi",
+        "blinking_offset": [
+            24,
+            40
+        ],
+        "smiling_offset": [
+            24,
+            56
         ],
         "info_offset": 0
     }
