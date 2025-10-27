@@ -5019,7 +5019,7 @@
             },
             {
                 "nid": "Door2",
-                "visible": true,
+                "visible": false,
                 "foreground": false,
                 "terrain_grid": {
                     "9,0": "6",
