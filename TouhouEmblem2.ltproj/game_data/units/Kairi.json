@@ -5,7 +5,7 @@
         "desc": "An earnest white wolf tengu who was assigned to help find stories for a tengu newspaper.",
         "variant": "",
         "level": 1,
-        "klass": "Herald",
+        "klass": "Lancer",
         "tags": [
             "Unimportant"
         ],
@@ -47,7 +47,7 @@
         },
         "starting_items": [
             [
-                "Mend",
+                "Punji",
                 false
             ]
         ],
@@ -76,7 +76,7 @@
             ],
             "Sword": [
                 false,
-                31,
+                0,
                 null
             ],
             "Axe": [
@@ -84,7 +84,7 @@
                 0,
                 null
             ],
-            "Staff": [
+            "Lance": [
                 false,
                 31,
                 null

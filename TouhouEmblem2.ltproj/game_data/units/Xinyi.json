@@ -2,10 +2,10 @@
     {
         "nid": "Xinyi",
         "name": "Xinyi",
-        "desc": "An earnest white wolf tengu who was assigned to help find stories for a tengu newspaper.",
+        "desc": "A rehabilitation specialist from the human village. Somewhat sharp-tongued but competent. Occasionally takes outpatient referrals from Eirin.",
         "variant": "",
         "level": 1,
-        "klass": "Lancer",
+        "klass": "Herald",
         "tags": [
             "Unimportant"
         ],
@@ -47,7 +47,7 @@
         },
         "starting_items": [
             [
-                "Punji",
+                "Mend",
                 false
             ]
         ],
@@ -76,7 +76,7 @@
             ],
             "Sword": [
                 false,
-                0,
+                31,
                 null
             ],
             "Axe": [
@@ -84,7 +84,7 @@
                 0,
                 null
             ],
-            "Lance": [
+            "Staff": [
                 false,
                 31,
                 null

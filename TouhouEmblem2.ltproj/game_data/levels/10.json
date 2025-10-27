@@ -2387,14 +2387,14 @@
                 "nid": "Formation_13",
                 "region_type": "formation",
                 "position": [
-                    2,
-                    9
+                    3,
+                    10
                 ],
                 "size": [
                     1,
                     1
                 ],
-                "sub_nid": null,
+                "sub_nid": "",
                 "condition": "True",
                 "time_left": null,
                 "only_once": false,
@@ -2510,7 +2510,7 @@
                 "hide_time": false
             },
             {
-                "nid": "Secret_",
+                "nid": "NarumiSecret",
                 "region_type": "event",
                 "position": [
                     36,
