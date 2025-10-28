@@ -88,6 +88,10 @@
             [
                 "no_double",
                 null
+            ],
+            [
+                "status_on_equip",
+                "Parry"
             ]
         ]
     }

@@ -10,10 +10,6 @@
         ],
         "components": [
             [
-                "self_status_on_hit",
-                "Reflect_Slash1"
-            ],
-            [
                 "target_unit",
                 null
             ],
@@ -36,6 +32,10 @@
             [
                 "fatigue",
                 1
+            ],
+            [
+                "self_status_on_hit",
+                "Reflect_Slash2"
             ]
         ]
     }

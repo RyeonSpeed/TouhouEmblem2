@@ -10,24 +10,16 @@
         ],
         "components": [
             [
-                "combat_art_indicator",
-                null
+                "condition",
+                "game.game_vars['SoulCharge'] >= 4"
             ],
             [
-                "combat_art",
-                "Border_of_Life_Child"
-            ],
-            [
-                "allowed_weapons",
-                "item_system.weapon_type(unit, item) in ['Sword', 'Lance', 'Axe', 'Bow', 'Anima', 'Dark', 'Light', 'Martial']"
+                "ability",
+                "Border_of_Life"
             ],
             [
                 "alternate_battle_anim",
                 "Critical"
-            ],
-            [
-                "condition",
-                "game.game_vars['SoulCharge'] >= 4"
             ]
         ]
     }

@@ -41,12 +41,74 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    26,
+                    19
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "110",
+                "variant": null,
+                "level": 1,
+                "klass": "Citizen",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Lance",
+                        true
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
                 "ai": "Guard",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    22,
-                    18
+                    25,
+                    20
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "111",
+                "variant": null,
+                "level": 1,
+                "klass": "Citizen",
+                "faction": "Youkai",
+                "starting_items": [],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    26,
+                    20
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "112",
+                "variant": null,
+                "level": 1,
+                "klass": "Citizen",
+                "faction": "Youkai",
+                "starting_items": [],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    25,
+                    19
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -67,22 +129,18 @@
             {
                 "nid": "101",
                 "variant": null,
-                "level": 40,
-                "klass": "Warden",
+                "level": 20,
+                "klass": "Guard",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Iron_Bow",
-                        false
-                    ],
-                    [
-                        "Lucky_Clover",
+                        "Steel_Axe",
                         false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "None",
+                "ai": "Guard",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -151,7 +209,7 @@
             {
                 "nid": "107",
                 "variant": null,
-                "level": 10,
+                "level": 1,
                 "klass": "Miko_Y",
                 "faction": "Youkai",
                 "starting_items": [
@@ -166,8 +224,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    19,
-                    14
+                    25,
+                    18
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -238,20 +296,20 @@
                 "generic": true
             },
             {
-                "nid": "Marisa",
+                "nid": "Youmu",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    21,
-                    19
+                    19,
+                    17
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
-                "nid": "Youmu_Boss_3",
+                "nid": "Rinnosuke",
                 "team": "enemy",
                 "ai": "None",
                 "roam_ai": null,
