@@ -69,8 +69,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    25,
-                    20
+                    23,
+                    21
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -296,27 +296,53 @@
                 "generic": true
             },
             {
-                "nid": "Youmu",
+                "nid": "Yuyuko",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    19,
-                    17
+                    23,
+                    19
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
-                "nid": "Rinnosuke",
+                "nid": "Cirno",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    24,
+                    21
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Suika",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    26,
+                    21
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Rumia_Boss",
                 "team": "enemy",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    22,
-                    21
+                    19,
+                    22
                 ],
                 "starting_traveler": null,
                 "generic": false
