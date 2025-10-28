@@ -3,12 +3,11 @@
         "name": "DeathHourai",
         "trigger": "unit_death",
         "level_nid": null,
-        "condition": "unit1.nid == 'Hourai' and v('HouraiDead') == 0",
+        "condition": "unit1.nid == 'Hourai'",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
-            "level_var;HouraiDead;1",
             "kill_unit;Hourai",
             "wait;100",
             "resurrect;Hourai",

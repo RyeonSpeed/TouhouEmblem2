@@ -8,12 +8,18 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "add_group;Turn3;Turn3;immediate;closest",
-            "#142,144,146",
-            "move_cursor;142",
-            "move_cursor;144",
-            "move_cursor;146",
-            "wait;400"
+            "center_cursor;0,14;150",
+            "wait;200",
+            "add_group;Turn3A;Turn3A;immediate;closest",
+            "wait;400",
+            "center_cursor;25,12;150",
+            "wait;200",
+            "add_group;Turn3B;Turn3B;immediate;closest",
+            "wait;400",
+            "center_cursor;23,28;150",
+            "wait;200",
+            "add_group;Turn3C;Turn3C;immediate;closest",
+            "wait;500"
         ],
         "nid": "6 Turn3"
     }

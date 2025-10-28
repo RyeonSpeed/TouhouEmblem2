@@ -8,9 +8,14 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "add_group;Turn8;Turn8;immediate;closest",
-            "move_cursor;169",
-            "wait;400"
+            "center_cursor;25,17;150",
+            "wait;200",
+            "add_group;Turn8A;Turn8A;immediate;closest",
+            "wait;400",
+            "center_cursor;19,27;150",
+            "wait;200",
+            "add_group;Turn8B;Turn8B;immediate;closest",
+            "wait;500"
         ],
         "nid": "6 Turn8"
     }

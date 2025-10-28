@@ -51,7 +51,8 @@
             "remove_base_convo;Kosuzu",
             "game_var;baseconvolist;[x for x in v('baseconvolist') if not x == 'Kosuzu']",
             "add_lore;Kosuzu",
-            "transition;open"
+            "transition;open",
+            "music_fade_back"
         ],
         "nid": "Global BaseKosuzu"
     }

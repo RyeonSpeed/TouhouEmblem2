@@ -1,0 +1,25 @@
+[
+    {
+        "name": "DeathSuzumi",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "unit1.nid == 'Suzumi'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "kill_unit;Suzumi",
+            "        ",
+            "        change_music;player_phase;{v:music1}",
+            "        change_music;player_battle;{v:music2}",
+            "        change_music;enemy_phase;{v:music3}",
+            "        change_music;enemy_battle;{v:music4}",
+            "        change_music;enemy2_phase;{v:music5}",
+            "        change_music;enemy2_battle;{v:music6}",
+            "        change_music;other_phase;{v:music7}",
+            "        change_music;other_battle;{v:music8}",
+            "        change_music;boss_battle;{v:music9}"
+        ],
+        "nid": "Global DeathSuzumi"
+    }
+]

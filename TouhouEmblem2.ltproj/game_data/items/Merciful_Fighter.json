@@ -28,6 +28,10 @@
             [
                 "attack_after_combat",
                 null
+            ],
+            [
+                "map_hit_sfx",
+                "Weapon Push"
             ]
         ]
     }

@@ -3020,7 +3020,7 @@
                     1
                 ],
                 "sub_nid": "ThiefEscape",
-                "condition": "True",
+                "condition": "unit.team == 'enemy'",
                 "time_left": null,
                 "only_once": false,
                 "interrupt_move": false,

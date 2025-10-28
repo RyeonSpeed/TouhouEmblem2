@@ -8,12 +8,22 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "add_group;Turn6;Turn6;immediate;closest",
-            "move_cursor;150",
-            "move_cursor;155",
-            "move_cursor;160",
-            "move_cursor;165",
-            "wait;350"
+            "center_cursor;0,14;150",
+            "wait;200",
+            "add_group;Turn6A;Turn6A;immediate;closest",
+            "wait;400",
+            "center_cursor;25,12;150",
+            "wait;200",
+            "add_group;Turn6B;Turn6B;immediate;closest",
+            "wait;400",
+            "center_cursor;0,26;150",
+            "wait;200",
+            "add_group;Turn6C;Turn6C;immediate;closest",
+            "wait;400",
+            "center_cursor;23,28;150",
+            "wait;200",
+            "add_group;Turn6D;Turn6D;immediate;closest",
+            "wait;500"
         ],
         "nid": "6 Turn6"
     }

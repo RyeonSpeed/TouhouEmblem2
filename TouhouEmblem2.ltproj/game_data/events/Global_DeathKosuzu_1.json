@@ -5,13 +5,15 @@
         "level_nid": null,
         "condition": "unit1.nid == 'Kosuzu'",
         "commands": [],
-        "only_once": true,
+        "only_once": false,
         "priority": 20,
         "_source": [
             "kill_unit;Kosuzu",
             "wait;100",
             "resurrect;Kosuzu",
-            "change_party;Kosuzu;Dumpster"
+            "if;game.current_mode.permadeath",
+            "    change_party;Kosuzu;Dumpster",
+            "end"
         ],
         "nid": "Global DeathKosuzu_1"
     }

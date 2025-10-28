@@ -107,7 +107,8 @@
                     ]
                 ],
                 "starting_skills": [
-                    "No_Cheating"
+                    "No_Cheating",
+                    "Unimportant"
                 ],
                 "team": "player",
                 "ai": "None",
@@ -137,7 +138,8 @@
                     ]
                 ],
                 "starting_skills": [
-                    "No_Cheating"
+                    "No_Cheating",
+                    "Unimportant"
                 ],
                 "team": "player",
                 "ai": "None",
@@ -167,7 +169,8 @@
                     ]
                 ],
                 "starting_skills": [
-                    "No_Cheating"
+                    "No_Cheating",
+                    "Unimportant"
                 ],
                 "team": "player",
                 "ai": "None",
@@ -197,7 +200,8 @@
                     ]
                 ],
                 "starting_skills": [
-                    "No_Cheating"
+                    "No_Cheating",
+                    "Unimportant"
                 ],
                 "team": "player",
                 "ai": "None",
@@ -227,7 +231,8 @@
                     ]
                 ],
                 "starting_skills": [
-                    "No_Cheating"
+                    "No_Cheating",
+                    "Unimportant"
                 ],
                 "team": "player",
                 "ai": "None",
@@ -257,7 +262,8 @@
                     ]
                 ],
                 "starting_skills": [
-                    "No_Cheating"
+                    "No_Cheating",
+                    "Unimportant"
                 ],
                 "team": "player",
                 "ai": "None",
@@ -287,7 +293,8 @@
                     ]
                 ],
                 "starting_skills": [
-                    "No_Cheating"
+                    "No_Cheating",
+                    "Unimportant"
                 ],
                 "team": "player",
                 "ai": "None",
@@ -313,7 +320,8 @@
                     ]
                 ],
                 "starting_skills": [
-                    "No_Cheating"
+                    "No_Cheating",
+                    "Unimportant"
                 ],
                 "team": "player",
                 "ai": "None",
@@ -339,7 +347,8 @@
                     ]
                 ],
                 "starting_skills": [
-                    "No_Cheating"
+                    "No_Cheating",
+                    "Unimportant"
                 ],
                 "team": "player",
                 "ai": "None",
@@ -365,7 +374,8 @@
                     ]
                 ],
                 "starting_skills": [
-                    "No_Cheating"
+                    "No_Cheating",
+                    "Unimportant"
                 ],
                 "team": "player",
                 "ai": "None",
@@ -391,7 +401,8 @@
                     ]
                 ],
                 "starting_skills": [
-                    "No_Cheating"
+                    "No_Cheating",
+                    "Unimportant"
                 ],
                 "team": "player",
                 "ai": "None",
@@ -425,7 +436,8 @@
                     ]
                 ],
                 "starting_skills": [
-                    "No_Cheating"
+                    "No_Cheating",
+                    "Unimportant"
                 ],
                 "team": "player",
                 "ai": "None",
@@ -451,7 +463,8 @@
                     ]
                 ],
                 "starting_skills": [
-                    "No_Cheating"
+                    "No_Cheating",
+                    "Unimportant"
                 ],
                 "team": "player",
                 "ai": "None",
@@ -477,7 +490,8 @@
                     ]
                 ],
                 "starting_skills": [
-                    "No_Cheating"
+                    "No_Cheating",
+                    "Unimportant"
                 ],
                 "team": "player",
                 "ai": "None",
@@ -507,7 +521,8 @@
                     ]
                 ],
                 "starting_skills": [
-                    "No_Cheating"
+                    "No_Cheating",
+                    "Unimportant"
                 ],
                 "team": "player",
                 "ai": "None",
@@ -537,7 +552,8 @@
                     ]
                 ],
                 "starting_skills": [
-                    "No_Cheating"
+                    "No_Cheating",
+                    "Unimportant"
                 ],
                 "team": "player",
                 "ai": "None",
@@ -2393,7 +2409,7 @@
         "regions": [
             {
                 "nid": "F_1",
-                "region_type": "formation",
+                "region_type": "fog",
                 "position": [
                     12,
                     3
@@ -2799,7 +2815,7 @@
                     3
                 ],
                 "sub_nid": "ThiefEscape",
-                "condition": "True",
+                "condition": "unit.team == 'enemy'",
                 "time_left": null,
                 "only_once": false,
                 "interrupt_move": false,
@@ -2808,16 +2824,11 @@
         ],
         "unit_groups": [
             {
-                "nid": "Turn3",
+                "nid": "Turn3A",
                 "units": [
                     "141",
                     "142",
-                    "143",
-                    "144",
-                    "145",
-                    "146",
-                    "147",
-                    "148"
+                    "143"
                 ],
                 "positions": {
                     "142": [
@@ -2855,25 +2866,14 @@
                 }
             },
             {
-                "nid": "Turn6",
+                "nid": "Turn6A",
                 "units": [
-                    "149",
-                    "150",
-                    "151",
-                    "152",
-                    "153",
-                    "154",
-                    "155",
                     "156",
                     "157",
                     "158",
                     "159",
                     "160",
-                    "161",
-                    "162",
-                    "163",
-                    "164",
-                    "165"
+                    "161"
                 ],
                 "positions": {
                     "149": [
@@ -2991,12 +2991,11 @@
                 }
             },
             {
-                "nid": "Turn8",
+                "nid": "Turn8A",
                 "units": [
                     "168",
                     "169",
-                    "170",
-                    "180"
+                    "170"
                 ],
                 "positions": {
                     "168": [
@@ -3119,6 +3118,133 @@
                     "Chiyuri_Boss_1": [
                         11,
                         16
+                    ]
+                }
+            },
+            {
+                "nid": "Turn3B",
+                "units": [
+                    "144",
+                    "148"
+                ],
+                "positions": {
+                    "144": [
+                        25,
+                        12
+                    ],
+                    "148": [
+                        25,
+                        13
+                    ]
+                }
+            },
+            {
+                "nid": "Turn3C",
+                "units": [
+                    "145",
+                    "146",
+                    "147"
+                ],
+                "positions": {
+                    "145": [
+                        22,
+                        28
+                    ],
+                    "146": [
+                        23,
+                        28
+                    ],
+                    "147": [
+                        24,
+                        28
+                    ]
+                }
+            },
+            {
+                "nid": "Turn6B",
+                "units": [
+                    "149",
+                    "150",
+                    "151"
+                ],
+                "positions": {
+                    "149": [
+                        25,
+                        11
+                    ],
+                    "150": [
+                        25,
+                        12
+                    ],
+                    "151": [
+                        25,
+                        13
+                    ]
+                }
+            },
+            {
+                "nid": "Turn6C",
+                "units": [
+                    "162",
+                    "163",
+                    "164",
+                    "165"
+                ],
+                "positions": {
+                    "162": [
+                        0,
+                        25
+                    ],
+                    "163": [
+                        0,
+                        26
+                    ],
+                    "164": [
+                        0,
+                        27
+                    ],
+                    "165": [
+                        1,
+                        26
+                    ]
+                }
+            },
+            {
+                "nid": "Turn6D",
+                "units": [
+                    "152",
+                    "153",
+                    "154",
+                    "155"
+                ],
+                "positions": {
+                    "152": [
+                        23,
+                        28
+                    ],
+                    "153": [
+                        22,
+                        28
+                    ],
+                    "154": [
+                        24,
+                        28
+                    ],
+                    "155": [
+                        23,
+                        27
+                    ]
+                }
+            },
+            {
+                "nid": "Turn8B",
+                "units": [
+                    "180"
+                ],
+                "positions": {
+                    "180": [
+                        19,
+                        27
                     ]
                 }
             }

@@ -5,7 +5,7 @@
         "level_nid": null,
         "condition": "unit.nid == 'Remilia'",
         "commands": [],
-        "only_once": true,
+        "only_once": false,
         "priority": 20,
         "_source": [
             "add_portrait;Rinnosuke;FarLeft",

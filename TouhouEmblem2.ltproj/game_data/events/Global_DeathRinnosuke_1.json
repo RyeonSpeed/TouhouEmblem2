@@ -5,13 +5,15 @@
         "level_nid": null,
         "condition": "unit1.nid == 'Rinnosuke'",
         "commands": [],
-        "only_once": true,
+        "only_once": false,
         "priority": 20,
         "_source": [
             "kill_unit;Rinnosuke",
             "wait;100",
             "resurrect;Rinnosuke",
-            "change_party;Rinnosuke;Dumpster"
+            "if;game.current_mode.permadeath",
+            "    change_party;Rinnosuke;Dumpster",
+            "end"
         ],
         "nid": "Global DeathRinnosuke_1"
     }

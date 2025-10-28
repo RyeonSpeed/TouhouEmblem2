@@ -5,13 +5,15 @@
         "level_nid": null,
         "condition": "unit1.nid == 'Kasen'",
         "commands": [],
-        "only_once": true,
+        "only_once": false,
         "priority": 20,
         "_source": [
             "kill_unit;Kasen",
             "wait;100",
             "resurrect;Kasen",
-            "change_party;Kasen;Dumpster"
+            "if;game.current_mode.permadeath",
+            "    change_party;Kasen;Dumpster",
+            "end"
         ],
         "nid": "Global DeathKasen_1"
     }

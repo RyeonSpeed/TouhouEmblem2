@@ -36,7 +36,8 @@
             "game_var;baseconvolist;[x for x in v('baseconvolist') if not x == 'Rinnosuke']",
             "add_lore;Rinnosuke",
             "game_var;KusanagiKills;0",
-            "transition;open"
+            "transition;open",
+            "music_fade_back"
         ],
         "nid": "Global BaseRinnosuke"
     }

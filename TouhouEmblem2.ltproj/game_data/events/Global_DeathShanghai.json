@@ -3,12 +3,11 @@
         "name": "DeathShanghai",
         "trigger": "unit_death",
         "level_nid": null,
-        "condition": "unit1.nid == 'Shanghai' and v('ShanghaiDead') == 0",
+        "condition": "unit1.nid == 'Shanghai'",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
-            "level_var;ShanghaiDead;1",
             "kill_unit;Shanghai",
             "wait;100",
             "resurrect;Shanghai",

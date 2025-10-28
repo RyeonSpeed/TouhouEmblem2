@@ -3,21 +3,7 @@
         "unit1": "Reimu",
         "unit2": "Marisa",
         "one_way": false,
-        "requirements": [
-            {
-                "support_rank": "Love",
-                "requirement": 0,
-                "gate": "",
-                "damage": 0.0,
-                "resist": 0.0,
-                "accuracy": 5.0,
-                "avoid": 0.0,
-                "crit": 0.0,
-                "dodge": 5.0,
-                "attack_speed": 2.0,
-                "defense_speed": 0.0
-            }
-        ]
+        "requirements": []
     },
     {
         "unit1": "Kaguya",

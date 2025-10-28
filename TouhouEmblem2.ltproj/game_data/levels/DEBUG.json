@@ -261,8 +261,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    23,
-                    18
+                    13,
+                    19
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -283,13 +283,45 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "Zip_Bomb"
+                ],
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
                     20,
+                    19
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "103",
+                "variant": null,
+                "level": 1,
+                "klass": "Witch_R",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Debug_Crit",
+                        false
+                    ],
+                    [
+                        "Orreries_Sun",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Zip_Bomb"
+                ],
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    19,
                     19
                 ],
                 "starting_traveler": null,
@@ -309,14 +341,14 @@
                 "generic": false
             },
             {
-                "nid": "Cirno",
+                "nid": "Tokiko",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    24,
-                    21
+                    12,
+                    19
                 ],
                 "starting_traveler": null,
                 "generic": false

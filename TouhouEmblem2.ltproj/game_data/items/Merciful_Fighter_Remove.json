@@ -28,6 +28,10 @@
             [
                 "event_after_combat_even_miss",
                 "Global Remove_Mercy"
+            ],
+            [
+                "map_hit_sfx",
+                "Weapon Push"
             ]
         ]
     }
