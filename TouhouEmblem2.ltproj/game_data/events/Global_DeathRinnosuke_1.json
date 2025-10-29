@@ -3,11 +3,12 @@
         "name": "DeathRinnosuke_1",
         "trigger": "unit_death",
         "level_nid": null,
-        "condition": "unit1.nid == 'Rinnosuke'",
+        "condition": "unit1.nid == 'Rinnosuke' and v('RinnosukeDead') == 0",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
+            "level_var;RinnosukeDead;1",
             "kill_unit;Rinnosuke",
             "wait;100",
             "resurrect;Rinnosuke",

@@ -186,6 +186,7 @@
             "speak;Rumia;Sh-shut it!",
             "autolevel_to;Rumia_Boss;5;fixed",
             "level_var;RumiaDead;0",
+            "level_var;RemiliaDead;0",
             "trigger_script;Marisa_Growths",
             ""
         ],

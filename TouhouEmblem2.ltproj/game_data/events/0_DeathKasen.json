@@ -6,7 +6,7 @@
         "condition": "unit.nid == \"Kasen\"",
         "commands": [],
         "only_once": false,
-        "priority": 20,
+        "priority": 19,
         "_source": [
             "lose_game"
         ],

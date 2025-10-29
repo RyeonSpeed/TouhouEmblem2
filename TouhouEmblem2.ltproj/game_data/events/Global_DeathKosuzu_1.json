@@ -3,11 +3,12 @@
         "name": "DeathKosuzu_1",
         "trigger": "unit_death",
         "level_nid": null,
-        "condition": "unit1.nid == 'Kosuzu'",
+        "condition": "unit1.nid == 'Kosuzu' and v('KosuzuDead') == 0",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
+            "level_var;KosuzuDead;1",
             "kill_unit;Kosuzu",
             "wait;100",
             "resurrect;Kosuzu",

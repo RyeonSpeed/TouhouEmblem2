@@ -10,6 +10,10 @@
         "_source": [
             "level_var;MokouRevives;0",
             "level_var;TurnwheelUses;0",
+            "level_var;KasenDead;0",
+            "level_var;RemiliaDead;0",
+            "level_var;RinnosukeDead;0",
+            "level_var;KosuzuDead;0",
             "game_var;SoulCharge;0",
             "for;baseconvo;v('baseconvolist')",
             "add_base_convo;{baseconvo}",

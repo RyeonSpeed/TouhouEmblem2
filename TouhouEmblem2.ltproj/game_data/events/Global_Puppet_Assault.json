@@ -40,7 +40,10 @@
             "else",
             "    give_item;Hourai;Yomi_S;no_banner",
             "end",
-            "end"
+            "end",
+            "level_var;ShanghaiDead;0",
+            "level_var;HouraiDead;0",
+            ""
         ],
         "nid": "Global Puppet Assault"
     }

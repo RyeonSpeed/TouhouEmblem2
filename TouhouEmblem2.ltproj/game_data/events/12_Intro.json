@@ -9,9 +9,8 @@
         "priority": 20,
         "_source": [
             "chapter_title",
-            "trigger_script;Housekeeping3",
-            "trigger_script;Housekeeping1",
-            "trigger_script;Housekeeping2",
+            "trigger_script;Global Housekeeping3",
+            "trigger_script;Global Housekeeping2",
             "autolevel_to;Sara_Boss;18;fixed;no_warn",
             "autolevel_to;Lyrica;11;fixed;no_warn",
             "autolevel_to;Lunasa;11;fixed;no_warn",

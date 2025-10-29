@@ -3,11 +3,12 @@
         "name": "DeathSuzumi",
         "trigger": "unit_death",
         "level_nid": null,
-        "condition": "unit1.nid == 'Suzumi'",
+        "condition": "unit1.nid == 'Suzumi' and v('SuzumiDead') == 0",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
+            "level_var;SuzumiDead;1",
             "kill_unit;Suzumi",
             "        ",
             "        change_music;player_phase;{v:music1}",

@@ -3,11 +3,12 @@
         "name": "DeathKasen_1",
         "trigger": "unit_death",
         "level_nid": null,
-        "condition": "unit1.nid == 'Kasen'",
+        "condition": "unit1.nid == 'Kasen' and v('KasenDead') == 0",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
+            "level_var;KasenDead;1",
             "kill_unit;Kasen",
             "wait;100",
             "resurrect;Kasen",

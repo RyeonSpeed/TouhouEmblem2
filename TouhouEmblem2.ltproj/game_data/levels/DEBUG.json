@@ -120,7 +120,7 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    19,
+                    17,
                     21
                 ],
                 "starting_traveler": null,
@@ -328,27 +328,27 @@
                 "generic": true
             },
             {
-                "nid": "Yuyuko",
+                "nid": "Alice",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    23,
-                    19
+                    20,
+                    22
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
-                "nid": "Tokiko",
+                "nid": "Rinnosuke",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    12,
-                    19
+                    16,
+                    22
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -367,9 +367,9 @@
                 "generic": false
             },
             {
-                "nid": "Rumia_Boss",
+                "nid": "Keine_NPC",
                 "team": "enemy",
-                "ai": "None",
+                "ai": "Guard",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -419,6 +419,11 @@
             }
         ],
         "unit_groups": [],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

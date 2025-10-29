@@ -3,17 +3,24 @@
         "name": "DeathRemilia_1",
         "trigger": "unit_death",
         "level_nid": null,
-        "condition": "unit1.nid == 'Remilia'",
+        "condition": "unit1.nid == 'Remilia' and v('RemiliaDead') == 0",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
+            "level_var;RemiliaDead;1",
             "kill_unit;Remilia",
-            "wait;100",
+            "wait;300",
             "resurrect;Remilia",
             "if;game.current_mode.permadeath",
             "    change_party;Remilia;Dumpster",
-            "end"
+            "end",
+            "",
+            "add_portrait;Rinnosuke;FarLeft",
+            "speak;Rinnosuke;You have severed your tie with fate.",
+            "expression;Rinnosuke;CloseEyes;Smile",
+            "speak;Rinnosuke;Persist in this doomed timeline.",
+            "game_var;_turnwheel;False"
         ],
         "nid": "Global DeathRemilia_1"
     }
