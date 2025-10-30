@@ -20,5 +20,6 @@
     "Unrescuable",
     "Intermission",
     "Unimportant",
-    "DropToConvoy"
+    "DropToConvoy",
+    "PreventConvoy"
 ]
