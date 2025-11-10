@@ -26,7 +26,7 @@
             "multi_remove_portrait;Reimu;Kasen;Kogasa",
             "sound;Item",
             "alert;Kogasa joined the party!",
-            "speak;;You can now repair items! You may access repair by talking to Marisa and opening up|item management.;;;hint",
+            "speak;;You can now repair items! Speak to Kogasa to do so.;;;hint",
             "give_bexp;25;no_banner",
             "add_lore;Kogasa",
             "change_team;Kogasa;player",

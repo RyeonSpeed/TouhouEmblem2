@@ -14,8 +14,6 @@
             "autolevel_to;Mai_Boss;17",
             "autolevel_to;Yumeko_Boss;17",
             "autolevel_to;Alice_Boss;17",
-            "trigger_script;START",
-            "",
             "",
             "transition;close",
             "# For the cutscene later",

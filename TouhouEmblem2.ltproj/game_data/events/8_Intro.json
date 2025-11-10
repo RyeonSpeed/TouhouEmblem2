@@ -20,9 +20,8 @@
             "",
             "music;Drunk as I Like",
             "change_background;Eientei Hallway",
-            "multi_add_portrait;Reimu;CenterLeft;Marisa;CenterRight",
-            "",
             "transition;open",
+            "multi_add_portrait;Reimu;CenterLeft;Marisa;CenterRight",
             "",
             "expression;Marisa;Smile",
             "bop_portrait;Marisa",
@@ -186,7 +185,6 @@
             "add_lore;Miasma",
             "add_talk;Remilia;Sakuya",
             "level_var;LouiseDead;0",
-            "trigger_script;START",
             "prep;1;Sealed Gods"
         ],
         "nid": "8 Intro"

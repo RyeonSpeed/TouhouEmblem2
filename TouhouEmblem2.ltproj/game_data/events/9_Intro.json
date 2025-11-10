@@ -109,7 +109,6 @@
             "level_var;Alice98Dead;0",
             "multi_remove_portrait;Marisa;Reimu;Alice;Kasen",
             "transition;open",
-            "trigger_script;START",
             "prep;1;Trouble!"
         ],
         "nid": "9 Intro"

@@ -21,7 +21,6 @@
             "add_talk;Reimu;Kaguya",
             "",
             "add_lore;Supports",
-            "trigger_script;START",
             "transition;open",
             "",
             ""

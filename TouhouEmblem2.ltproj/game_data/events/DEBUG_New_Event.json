@@ -16,11 +16,7 @@
             "autolevel_to;Keine_NPC;19;fixed",
             "trigger_script;Housekeeping3",
             "trigger_script;Housekeeping1",
-            "trigger_script;Housekeeping2",
-            "",
-            "give_item;Mima;Orreries_Sun",
-            "# HAHA YOU THOUGHT",
-            "remove_item;Mima;Orreries_Sun"
+            "trigger_script;Housekeeping2"
         ],
         "nid": "DEBUG New Event"
     }

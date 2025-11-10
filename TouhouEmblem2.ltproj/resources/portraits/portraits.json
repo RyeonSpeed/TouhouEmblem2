@@ -2074,5 +2074,17 @@
             56
         ],
         "info_offset": 0
+    },
+    {
+        "nid": "Suzumi",
+        "blinking_offset": [
+            32,
+            32
+        ],
+        "smiling_offset": [
+            32,
+            48
+        ],
+        "info_offset": 0
     }
 ]

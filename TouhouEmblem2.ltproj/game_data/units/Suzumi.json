@@ -2,7 +2,7 @@
     {
         "nid": "Suzumi",
         "name": "Suzumi",
-        "desc": "Information Unknown",
+        "desc": "[INFORMATION UNKNOWN]",
         "variant": null,
         "level": 1,
         "klass": "Informant",
@@ -60,7 +60,7 @@
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "Rinssingno",
+        "portrait_nid": "Suzumi",
         "affinity": "Dark",
         "fields": []
     }

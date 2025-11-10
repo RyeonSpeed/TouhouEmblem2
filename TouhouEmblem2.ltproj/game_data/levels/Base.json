@@ -469,7 +469,62 @@
                 "generic": false
             }
         ],
-        "regions": [],
+        "regions": [
+            {
+                "nid": "KosuzuShop",
+                "region_type": "event",
+                "position": [
+                    4,
+                    23
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "Shop",
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false,
+                "hide_time": false
+            },
+            {
+                "nid": "RinnosukeShop",
+                "region_type": "event",
+                "position": [
+                    28,
+                    3
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "Shop",
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false,
+                "hide_time": false
+            },
+            {
+                "nid": "MiyoiShop",
+                "region_type": "event",
+                "position": [
+                    50,
+                    21
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "sub_nid": "Shop",
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false,
+                "hide_time": false
+            }
+        ],
         "unit_groups": [
             {
                 "nid": "Suika",
@@ -992,7 +1047,7 @@
                 ],
                 "positions": {
                     "Miyoi": [
-                        49,
+                        50,
                         19
                     ]
                 }
