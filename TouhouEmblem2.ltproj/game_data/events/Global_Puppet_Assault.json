@@ -3,7 +3,7 @@
         "name": "Puppet Assault",
         "trigger": "turn_change",
         "level_nid": null,
-        "condition": "game.turncount == 1",
+        "condition": "game.turncount == 1 and game.level_nid != 'Base'",
         "commands": [],
         "only_once": false,
         "priority": 20,
@@ -41,6 +41,7 @@
             "    give_item;Hourai;Yomi_S;no_banner",
             "end",
             "end",
+            "level_var;AliceDead;0",
             "level_var;ShanghaiDead;0",
             "level_var;HouraiDead;0",
             ""

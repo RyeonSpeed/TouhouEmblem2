@@ -2,7 +2,7 @@
     {
         "nid": "Razor_Claw",
         "name": "Razor Claw",
-        "desc": "Recurring.",
+        "desc": "Recurring. Prf Revenants, Spiders, Lycanthropes.",
         "icon_nid": "the2icons",
         "icon_index": [
             5,
@@ -75,6 +75,18 @@
             [
                 "value",
                 300
+            ],
+            [
+                "prf_class",
+                [
+                    "Revenant",
+                    "Entombed",
+                    "Spider",
+                    "Spider_Queen",
+                    "Baellista",
+                    "Lycanthrope",
+                    "Werewolf"
+                ]
             ]
         ]
     }

@@ -9,10 +9,9 @@
         "priority": 21,
         "_source": [
             "add_group;Rin;Rin;fade;closest",
-            "add_talk;Reimu;Rin",
             "if;game.get_unit('Rin').team != 'player'",
             "autolevel_to;Rin;{e:{v:chaptercount} + 1};fixed",
-            "else",
+            "add_talk;Reimu;Rin",
             "end"
         ],
         "nid": "Base RinCheck"

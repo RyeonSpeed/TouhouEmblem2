@@ -11,15 +11,15 @@
         "components": [
             [
                 "proc_rate",
-                "CRIT_HIT"
-            ],
-            [
-                "defense_proc",
-                "Parry_Effect"
+                "FORGEMASTER"
             ],
             [
                 "ability_indicator",
                 null
+            ],
+            [
+                "defense_proc",
+                "Parry_Effect"
             ]
         ]
     }

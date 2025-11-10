@@ -5,10 +5,12 @@
         "level_nid": "7",
         "condition": "unit.nid == 'Reimu' and unit2.nid == 'Akyuu'",
         "commands": [],
-        "only_once": false,
+        "only_once": true,
         "priority": 20,
         "_source": [
-            ""
+            "multi_add_portrait;Reimu;Right;{unit2};Left",
+            "multi_remove_portrait;Reimu;{unit2}",
+            "remove_talk;Reimu;{unit2}"
         ],
         "nid": "7 TalkAkyuu"
     }

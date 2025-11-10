@@ -9,16 +9,20 @@
         "priority": 20,
         "_source": [
             "multi_add_portrait;Reimu;Right;{unit2};Left",
+            "expression;Aunn;Smile",
             "speak;Aunn;Ms. Reimu! Ms. Reimu! How are you doing this night?",
             "speak;Reimu;Woah there. I'm doing fine.",
             "speak;Aunn;That's great! If you need anything, I'll be over there!",
             "speak;Reimu;Hmmm...wait.",
+            "expression;Reimu;Smile",
             "speak;Reimu;Go, fetch!",
             "speak;Aunn;On it!",
             "remove_portrait;Aunn",
+            "expression;Reimu;NoSmile",
             "speak;Reimu;Like a dog...",
             "speak;Reimu;I wonder where the lion half of her is.",
-            "multi_remove_portrait;Reimu;{unit2}"
+            "multi_remove_portrait;Reimu;{unit2}",
+            "remove_talk;Reimu;Aunn"
         ],
         "nid": "7 TalkAunn"
     }

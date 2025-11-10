@@ -2,7 +2,7 @@
     {
         "nid": "Hellfang",
         "name": "Hellfang",
-        "desc": "Inflicts Burning on strike. Recurring",
+        "desc": "Inflicts Burning on strike. Recurring.\nPrf Revenants, Lycanthropes.",
         "icon_nid": "the2icons",
         "icon_index": [
             5,
@@ -75,6 +75,15 @@
                     "lose_uses_on_miss": false,
                     "one_loss_per_combat": false
                 }
+            ],
+            [
+                "prf_class",
+                [
+                    "Revenant",
+                    "Entombed",
+                    "Lycanthrope",
+                    "Werewolf"
+                ]
             ]
         ]
     }

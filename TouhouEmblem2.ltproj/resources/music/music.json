@@ -1,6 +1,6 @@
 [
     [
-        "Chapter Sound",
+        "_Chapter Sound",
         false,
         false
     ],
@@ -96,11 +96,6 @@
     ],
     [
         "Comrades",
-        true,
-        false
-    ],
-    [
-        "Victory",
         true,
         false
     ],

@@ -9,8 +9,10 @@
         "priority": 20,
         "_source": [
             "multi_add_portrait;Reimu;Right;{unit2};Left",
+            "expression;Rumia;Smile",
             "speak;Rumia;Here's my chance...",
             "speak;Reimu;You're not even close.",
+            "expression;Rumia;NoSmile",
             "speak;Rumia;Huh?! How did you sense me?",
             "speak;Reimu;You were speaking out loud.",
             "speak;Rumia;",

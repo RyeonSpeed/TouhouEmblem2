@@ -69,7 +69,7 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    23,
+                    26,
                     21
                 ],
                 "starting_traveler": null,
@@ -129,12 +129,12 @@
             {
                 "nid": "101",
                 "variant": null,
-                "level": 20,
-                "klass": "Guard",
+                "level": 30,
+                "klass": "Swordmaster",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Steel_Axe",
+                        "Brave_Sword",
                         false
                     ]
                 ],
@@ -153,19 +153,10 @@
             {
                 "nid": "104",
                 "variant": null,
-                "level": 40,
+                "level": 1,
                 "klass": "Warden",
                 "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Iron_Bow",
-                        false
-                    ],
-                    [
-                        "Lucky_Clover",
-                        false
-                    ]
-                ],
+                "starting_items": [],
                 "starting_skills": [],
                 "team": "enemy",
                 "ai": "None",
@@ -225,7 +216,7 @@
                 "ai_group": "",
                 "starting_position": [
                     25,
-                    18
+                    21
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -248,8 +239,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    20,
-                    15
+                    24,
+                    21
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -261,120 +252,53 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    13,
-                    19
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "102",
-                "variant": null,
-                "level": 1,
-                "klass": "Witch_R",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Debug_Crit",
-                        false
-                    ],
-                    [
-                        "Orreries_Sun",
-                        false
-                    ]
-                ],
-                "starting_skills": [
-                    "Zip_Bomb"
-                ],
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    20,
-                    19
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "103",
-                "variant": null,
-                "level": 1,
-                "klass": "Witch_R",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Debug_Crit",
-                        false
-                    ],
-                    [
-                        "Orreries_Sun",
-                        false
-                    ]
-                ],
-                "starting_skills": [
-                    "Zip_Bomb"
-                ],
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    19,
-                    19
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "Alice",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    20,
-                    22
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Rinnosuke",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    16,
-                    22
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Suika",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    26,
+                    22,
                     21
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
-                "nid": "Keine_NPC",
-                "team": "enemy",
-                "ai": "Guard",
+                "nid": "103",
+                "variant": null,
+                "level": 20,
+                "klass": "Lycanthrope",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Tonfas",
+                        false
+                    ],
+                    [
+                        "Kappatech_Shield",
+                        false
+                    ]
+                ],
+                "starting_skills": [
+                    "Zip_Bomb",
+                    "Anticrit",
+                    "new_1"
+                ],
+                "team": "player",
+                "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    19,
-                    22
+                    18,
+                    16
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Yuyuko",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    20,
+                    19
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -419,6 +343,11 @@
             }
         ],
         "unit_groups": [],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

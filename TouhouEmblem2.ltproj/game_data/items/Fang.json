@@ -2,7 +2,7 @@
     {
         "nid": "Fang",
         "name": "Fang",
-        "desc": "A swift and brutal biting attack.\nSkill% chance to inflict bleeding. Recurring.",
+        "desc": "A swift and brutal biting attack.\nSkill% chance to inflict bleeding. Recurring.\nPrf Revenants, Lycanthropes.",
         "icon_nid": "the2icons",
         "icon_index": [
             5,
@@ -75,6 +75,15 @@
             [
                 "status_on_equip",
                 "Bleeding_Strike"
+            ],
+            [
+                "prf_class",
+                [
+                    "Revenant",
+                    "Entombed",
+                    "Lycanthrope",
+                    "Werewolf"
+                ]
             ]
         ]
     }

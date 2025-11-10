@@ -17,6 +17,7 @@
             "speak;Reisen;That's different.",
             "speak;Reimu;I suppose it is. ",
             "speak;Reisen;Ah well. Enjoy some more sake, courtesy of my masters.",
+            "expression;Reimu;Smile",
             "speak;Reimu;Now you're speaking my language.",
             "multi_remove_portrait;Reimu;{unit2}",
             "remove_talk;Reimu;{unit2}"

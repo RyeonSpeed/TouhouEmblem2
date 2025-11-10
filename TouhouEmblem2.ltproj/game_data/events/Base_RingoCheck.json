@@ -9,10 +9,9 @@
         "priority": 21,
         "_source": [
             "add_group;Ringo;Ringo;fade;closest",
-            "add_talk;Reimu;Ringo",
             "if;game.get_unit('Ringo').team != 'player'",
             "autolevel_to;Ringo;{e:{v:chaptercount} + 1};fixed",
-            "else",
+            "add_talk;Reimu;Ringo",
             "end"
         ],
         "nid": "Base RingoCheck"

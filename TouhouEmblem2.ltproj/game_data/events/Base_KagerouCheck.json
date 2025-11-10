@@ -9,10 +9,9 @@
         "priority": 21,
         "_source": [
             "add_group;Kagerou;Kagerou;fade;closest",
-            "add_talk;Reimu;Kagerou",
             "if;game.get_unit('Kagerou').team != 'player'",
             "autolevel_to;Kagerou;{e:{v:chaptercount} + 1};fixed",
-            "else",
+            "add_talk;Reimu;Kagerou",
             "end"
         ],
         "nid": "Base KagerouCheck"

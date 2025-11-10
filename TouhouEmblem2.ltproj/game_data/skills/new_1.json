@@ -10,8 +10,13 @@
         ],
         "components": [
             [
-                "immune__choose_status",
-                "Bleeding"
+                "stat_multiplier",
+                [
+                    [
+                        "SKL",
+                        3.0
+                    ]
+                ]
             ]
         ]
     }

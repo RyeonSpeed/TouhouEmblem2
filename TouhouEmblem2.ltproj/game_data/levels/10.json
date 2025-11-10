@@ -2521,7 +2521,7 @@
                     4
                 ],
                 "sub_nid": "Secret!",
-                "condition": "unit == \"Marisa\"",
+                "condition": "unit.nid == \"Marisa\"",
                 "time_left": null,
                 "only_once": true,
                 "interrupt_move": false,

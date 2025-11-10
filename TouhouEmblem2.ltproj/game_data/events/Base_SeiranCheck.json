@@ -9,10 +9,9 @@
         "priority": 21,
         "_source": [
             "add_group;Seiran;Seiran;fade;closest",
-            "add_talk;Reimu;Seiran",
             "if;game.get_unit('Seiran').team != 'player'",
             "autolevel_to;Seiran;{e:{v:chaptercount} + 1};fixed",
-            "else",
+            "add_talk;Reimu;Seiran",
             "end"
         ],
         "nid": "Base SeiranCheck"

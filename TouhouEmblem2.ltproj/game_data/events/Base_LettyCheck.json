@@ -9,10 +9,9 @@
         "priority": 21,
         "_source": [
             "add_group;Letty;Letty;fade;closest",
-            "add_talk;Reimu;Letty",
             "if;game.get_unit('Letty').team != 'player'",
             "autolevel_to;Letty;{e:{v:chaptercount} + 1};fixed",
-            "else",
+            "add_talk;Reimu;Letty",
             "end"
         ],
         "nid": "Base LettyCheck"

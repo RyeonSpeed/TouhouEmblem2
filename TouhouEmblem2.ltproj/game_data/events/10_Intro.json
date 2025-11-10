@@ -91,7 +91,7 @@
             "multi_add_portrait;Marisa;Right;Reimu;CenterLeft;Kasen;FarLeft",
             "speak;Marisa;For a snow angel, she doesn't look too happy.",
             "speak;Kasen;...{c:wait;300}{tgm}I think you're thinking of snowmen.",
-            "speak;Reimu;L-lets just get out of here before *we* become snowmen!",
+            "speak;Reimu;L-let's just get out of here before WE become snowmen!",
             "bop_portrait;Marisa",
             "speak;Marisa;You complain too much. Here, take this.",
             "speak;Reimu;...A scarf?",

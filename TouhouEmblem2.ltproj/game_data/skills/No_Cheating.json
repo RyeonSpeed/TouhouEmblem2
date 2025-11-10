@@ -20,7 +20,8 @@
             [
                 "has_tags",
                 [
-                    "DropToConvoy"
+                    "DropToConvoy",
+                    "PreventConvoy"
                 ]
             ]
         ]

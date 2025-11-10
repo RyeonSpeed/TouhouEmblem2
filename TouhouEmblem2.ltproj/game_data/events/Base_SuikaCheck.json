@@ -9,10 +9,9 @@
         "priority": 21,
         "_source": [
             "add_group;Suika;Suika;fade;closest",
-            "add_talk;Reimu;Suika",
             "if;game.get_unit('Suika').team != 'player'",
             "autolevel_to;Suika;{e:{v:chaptercount} + 1};fixed",
-            "else",
+            "add_talk;Reimu;Suika",
             "end"
         ],
         "nid": "Base SuikaCheck"

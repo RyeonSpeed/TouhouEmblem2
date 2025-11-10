@@ -11,6 +11,7 @@
             "multi_add_portrait;Reimu;Right;{unit2};Left",
             "speak;Reimu;How's combat, Kourin?",
             "speak;Rinnosuke;Terrible. I hate it.",
+            "expression;Reimu;Smile",
             "speak;Reimu;You're just weak. Give it a few weeks, you'll be in shape.",
             "speak;Rinnosuke;I'm not sure if I'll have enough energy to be standing in a few weeks...",
             "speak;Reimu;Come on, you just need to work a bit harder.",

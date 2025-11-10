@@ -2,7 +2,7 @@
     {
         "nid": "Rotfang",
         "name": "Rotfang",
-        "desc": "You should really brush your teeth more.|\nSkill% chance to inflict poisoned. Recurring.",
+        "desc": "You should really brush your teeth more.\nSkill% chance to inflict poison. Recurring.\nPrf Revenants, Lycanthropes.",
         "icon_nid": "martials",
         "icon_index": [
             0,
@@ -75,6 +75,15 @@
             [
                 "weapon_type",
                 "Martial"
+            ],
+            [
+                "prf_class",
+                [
+                    "Revenant",
+                    "Entombed",
+                    "Lycanthrope",
+                    "Werewolf"
+                ]
             ]
         ]
     }

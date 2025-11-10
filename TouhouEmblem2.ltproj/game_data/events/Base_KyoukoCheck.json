@@ -9,10 +9,9 @@
         "priority": 21,
         "_source": [
             "add_group;Kyouko;Kyouko;fade;closest",
-            "add_talk;Reimu;Kyouko",
             "if;game.get_unit('Kyouko').team != 'player'",
             "autolevel_to;Kyouko;{e:{v:chaptercount} + 1};fixed",
-            "else",
+            "add_talk;Reimu;Kyouko",
             "end"
         ],
         "nid": "Base KyoukoCheck"

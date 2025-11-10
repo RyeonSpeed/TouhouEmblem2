@@ -9,10 +9,9 @@
         "priority": 21,
         "_source": [
             "add_group;Kokoro;Kokoro;fade;closest",
-            "add_talk;Reimu;Kokoro",
             "if;game.get_unit('Kokoro').team != 'player'",
             "autolevel_to;Kokoro;{e:{v:chaptercount} + 1};fixed",
-            "else",
+            "add_talk;Reimu;Kokoro",
             "end"
         ],
         "nid": "Base KokoroCheck"

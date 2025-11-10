@@ -11,7 +11,7 @@
         "components": [
             [
                 "condition",
-                "unit.get_hp() = unit.get_max_hp() "
+                "unit.get_hp() == unit.get_max_hp() "
             ],
             [
                 "avoid",

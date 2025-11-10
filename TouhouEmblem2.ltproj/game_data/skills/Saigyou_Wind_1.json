@@ -14,7 +14,7 @@
                 {
                     "extra_attacks": 6,
                     "damage_percent": 0.5,
-                    "show_proc_effects": true
+                    "show_proc_effects": false
                 }
             ],
             [
