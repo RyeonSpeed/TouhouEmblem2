@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Youmu Intro",
+        "trigger": "turn_change",
+        "level_nid": "13",
+        "condition": "game.turncount == 1",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "move_cursor;Youmu_Boss",
+            "disp_cursor;t",
+            "wait;500",
+            "disp_cursor;f",
+            "add_portrait;Youmu;Left;;CloseEyes",
+            "",
+            "speak;Youmu;...You won't be going any further.",
+            "expression;Youmu;OpenEyes",
+            "speak;Youmu;Now turn back before I cut you all!",
+            "",
+            "remove_portrait;Youmu",
+            "",
+            "move_cursor;Marisa",
+            "",
+            "wait;300",
+            "",
+            "multi_add_portrait;Marisa;Right;Reimu;Left",
+            "",
+            "speak;Marisa;Yeesh, looks like she's getting serious...",
+            "speak;Reimu;Whatever. She's the last thing standing between me and a nice, warm bath.",
+            "speak;Marisa;Wait, I'm getting a feelin' she's not gonna go down that easy.|We should probably be careful.;;;;;red",
+            "speak;Reimu;Such a hassle. Alright, fine.",
+            "",
+            "multi_remove_portrait;Marisa;Reimu",
+            ""
+        ],
+        "nid": "13 Youmu Intro"
+    }
+]

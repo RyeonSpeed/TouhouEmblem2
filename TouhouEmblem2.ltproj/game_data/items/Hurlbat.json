@@ -2,7 +2,7 @@
     {
         "nid": "Hurlbat",
         "name": "Hurlbat",
-        "desc": "May actually hit your target.",
+        "desc": "Its surplus of points ensures the target is actually harmed.",
         "icon_nid": "Newitem2",
         "icon_index": [
             0,

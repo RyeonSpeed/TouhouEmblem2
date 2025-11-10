@@ -18,7 +18,9 @@
             "trigger_script;Housekeeping1",
             "trigger_script;Housekeeping2",
             "",
-            ""
+            "give_item;Mima;Orreries_Sun",
+            "# HAHA YOU THOUGHT",
+            "remove_item;Mima;Orreries_Sun"
         ],
         "nid": "DEBUG New Event"
     }
