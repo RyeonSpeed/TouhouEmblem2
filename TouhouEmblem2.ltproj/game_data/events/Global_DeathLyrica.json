@@ -12,7 +12,11 @@
             "hide_combat_ui",
             "add_portrait;Lyrica;FarRight",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             "#speak;Lyrica;DEATHQUOTEHERE",
+=======
+            "speak;Lyrica;I knew I should've just stayed in formation.",
+>>>>>>> Stashed changes
 =======
             "speak;Lyrica;I knew I should've just stayed in formation.",
 >>>>>>> Stashed changes

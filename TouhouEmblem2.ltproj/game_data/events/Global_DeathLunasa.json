@@ -12,7 +12,11 @@
             "hide_combat_ui",
             "add_portrait;Lunasa;FarRight",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             "#speak;Lunasa;DEATHQUOTEHERE",
+=======
+            "speak;Lunasa;*Sigh* Looks like I didn't give it my all. Figures.",
+>>>>>>> Stashed changes
 =======
             "speak;Lunasa;*Sigh* Looks like I didn't give it my all. Figures.",
 >>>>>>> Stashed changes

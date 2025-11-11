@@ -12,7 +12,11 @@
             "hide_combat_ui",
             "add_portrait;Kogasa;FarRight",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             "#speak;Kogasa;DEATHQUOTEHERE",
+=======
+            "speak;Kogasa;I really messed up this time, didn't I...?",
+>>>>>>> Stashed changes
 =======
             "speak;Kogasa;I really messed up this time, didn't I...?",
 >>>>>>> Stashed changes

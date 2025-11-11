@@ -12,7 +12,11 @@
             "hide_combat_ui",
             "add_portrait;Mima;FarRight",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             "#speak;Mima;DEATHQUOTEHERE",
+=======
+            "speak;Mima;Well, that's that. I'm taking my leave for now.",
+>>>>>>> Stashed changes
 =======
             "speak;Mima;Well, that's that. I'm taking my leave for now.",
 >>>>>>> Stashed changes
