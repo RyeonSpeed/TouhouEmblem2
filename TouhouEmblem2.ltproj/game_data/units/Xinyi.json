@@ -51,12 +51,7 @@
                 false
             ]
         ],
-        "learned_skills": [
-            [
-                1,
-                "Gale_Sweep"
-            ]
-        ],
+        "learned_skills": [],
         "unit_notes": [],
         "wexp_gain": {
             "Light": [
@@ -91,7 +86,7 @@
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "Miki",
+        "portrait_nid": "Xinyi",
         "affinity": "None",
         "fields": []
     }
