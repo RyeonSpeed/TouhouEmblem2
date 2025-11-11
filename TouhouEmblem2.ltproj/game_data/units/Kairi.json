@@ -54,7 +54,7 @@
         "learned_skills": [
             [
                 1,
-                "Flaming_Forward"
+                "Gallant_Thrust"
             ]
         ],
         "unit_notes": [],
@@ -91,7 +91,7 @@
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "Kabin",
+        "portrait_nid": "Sayuri",
         "affinity": "None",
         "fields": []
     }

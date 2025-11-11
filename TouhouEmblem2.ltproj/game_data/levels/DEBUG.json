@@ -28,20 +28,44 @@
         "tags": [],
         "units": [
             {
+                "nid": "109",
+                "variant": null,
+                "level": 1,
+                "klass": "Lodestar_L",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Lance",
+                        true
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    26,
+                    19
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
                 "nid": "110",
                 "variant": null,
-                "level": 15,
+                "level": 1,
                 "klass": "Lancer",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Brave_Lance",
+                        "Iron_Lance",
                         false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Guard",
+                "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -96,17 +120,69 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    16,
-                    20
+                    17,
+                    21
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
+                "nid": "105",
+                "variant": null,
+                "level": 25,
+                "klass": "Warden",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Punji",
+                        false
+                    ],
+                    [
+                        "Lucky_Clover",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "player",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    22,
+                    20
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "107",
+                "variant": null,
+                "level": 1,
+                "klass": "Miko_Y",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Fire",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    25,
+                    21
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
                 "nid": "106",
                 "variant": null,
                 "level": 10,
-                "klass": "Guard",
+                "klass": "Miko_Y",
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -140,40 +216,14 @@
                 "generic": false
             },
             {
-                "nid": "101",
-                "variant": null,
-                "level": 15,
-                "klass": "Lycanthrope",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Razor_Claw",
-                        false
-                    ]
-                ],
-                "starting_skills": [
-                    "new_1"
-                ],
+                "nid": "Kosuzu",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    24,
-                    22
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "Akyuu",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    25,
-                    17
+                    23,
+                    18
                 ],
                 "starting_traveler": null,
                 "generic": false
