@@ -36,6 +36,7 @@
     "Brave_Bow": "Bows",
     "Brave_Lance": "Lances",
     "Brave_Sword": "Swords",
+    "Burning_On_Hit": "Bullshit",
     "CanineDash": "Bullshit",
     "Cannot_Be_Countered": "Bullshit",
     "Cannot_Counter": "Bullshit",
@@ -206,6 +207,7 @@
     "Nameless_City2": "Youma Books",
     "Ne_Scroll": "Accesories",
     "Nightmare": "Martial",
+    "No_Combat_Anim": "Bullshit",
     "Nosferatu": "Dark Magic",
     "Ofuda": "Light Magic",
     "Omikuji": "Light Magic",
@@ -358,7 +360,6 @@
     "Zanbato": "Swords",
     "aslur": "Bullshit",
     "honshuslashing": "Bullshit",
-    "new_5": "Bullshit",
     "screamout": "Bullshit",
     "slep": "Bullshit"
 }

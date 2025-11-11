@@ -3,7 +3,7 @@
         "name": "DeathSekibanki",
         "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit1.nid == 'Sekibanki'",
+        "condition": "unit1.nid == 'Sekibanki' and game.current_mode.permadeath",
         "commands": [],
         "only_once": false,
         "priority": 20,

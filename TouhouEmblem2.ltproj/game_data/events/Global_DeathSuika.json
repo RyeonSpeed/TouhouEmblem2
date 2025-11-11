@@ -3,16 +3,18 @@
         "name": "DeathSuika",
         "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit1.nid == 'Suika'",
+        "condition": "unit1.nid == 'Suika' and game.current_mode.permadeath",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
             "music;In Sorrows Shroud",
+            "hide_combat_ui",
             "add_portrait;Suika;FarRight",
             "speak;Suika;Aw man...the party ended...so soon...",
             "expression;Suika;CloseEyes",
-            "remove_portrait;Suika"
+            "remove_portrait;Suika",
+            "show_combat_ui"
         ],
         "nid": "Global DeathSuika"
     }

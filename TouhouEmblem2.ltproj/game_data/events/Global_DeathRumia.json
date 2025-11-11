@@ -3,7 +3,7 @@
         "name": "DeathRumia",
         "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit1.nid == 'Rumia' and unit1.team == 'player'",
+        "condition": "unit1.nid == 'Rumia' and unit1.team == 'player' and game.current_mode.permadeath",
         "commands": [],
         "only_once": false,
         "priority": 20,

@@ -351,7 +351,7 @@
     "honshuslashing",
     "screamout",
     "Orreries_Solar_System",
-    "new_5",
+    "Burning_On_Hit",
     "SoulChargeAbility1",
     "Drink",
     "Fatigue",
@@ -361,6 +361,7 @@
     "FatigueN",
     "Merciful_Fighter",
     "Merciful_Fighter_Remove",
+    "No_Combat_Anim",
     "gem_gem",
     "Sear"
 ]

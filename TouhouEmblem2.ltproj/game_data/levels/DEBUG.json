@@ -31,7 +31,7 @@
                 "nid": "109",
                 "variant": null,
                 "level": 1,
-                "klass": "Citizen",
+                "klass": "Lodestar_L",
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -55,22 +55,22 @@
                 "nid": "110",
                 "variant": null,
                 "level": 1,
-                "klass": "Citizen",
+                "klass": "Lancer",
                 "faction": "Youkai",
                 "starting_items": [
                     [
                         "Iron_Lance",
-                        true
+                        false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Guard",
+                "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    26,
-                    21
+                    25,
+                    18
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -127,57 +127,14 @@
                 "generic": false
             },
             {
-                "nid": "101",
-                "variant": null,
-                "level": 30,
-                "klass": "Swordmaster",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Brave_Sword",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Guard",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    19,
-                    16
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "104",
-                "variant": null,
-                "level": 1,
-                "klass": "Warden",
-                "faction": "Youkai",
-                "starting_items": [],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    20,
-                    16
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
                 "nid": "105",
                 "variant": null,
-                "level": 40,
+                "level": 15,
                 "klass": "Warden",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Iron_Bow",
+                        "Iron_Lance",
                         false
                     ],
                     [
@@ -187,7 +144,7 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "None",
+                "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -205,13 +162,13 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Iron_Bow",
+                        "Fire",
                         false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "None",
+                "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
@@ -252,65 +209,20 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    22,
-                    21
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "103",
-                "variant": null,
-                "level": 20,
-                "klass": "Lycanthrope",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Tonfas",
-                        false
-                    ],
-                    [
-                        "Kappatech_Shield",
-                        false
-                    ]
-                ],
-                "starting_skills": [
-                    "Zip_Bomb",
-                    "Anticrit",
-                    "new_1"
-                ],
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    18,
-                    16
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "Yuyuko",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    20,
+                    15,
                     19
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
-                "nid": "Mima",
+                "nid": "Kosuzu",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    17,
+                    23,
                     18
                 ],
                 "starting_traveler": null,

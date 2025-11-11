@@ -3,16 +3,18 @@
         "name": "DeathKokoro",
         "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit1.nid == 'Kokoro'",
+        "condition": "unit1.nid == 'Kokoro' and game.current_mode.permadeath",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
             "music;In Sorrows Shroud",
+            "hide_combat_ui",
             "add_portrait;Kokoro;FarRight",
             "speak;Kokoro;Ah! My masks! My masks are dropping all over the place!",
             "expression;Kokoro;CloseEyes",
-            "remove_portrait;Kokoro"
+            "remove_portrait;Kokoro",
+            "show_combat_ui"
         ],
         "nid": "Global DeathKokoro"
     }

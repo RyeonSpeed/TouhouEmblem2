@@ -3,7 +3,7 @@
         "name": "DeathMusic",
         "trigger": "combat_end",
         "level_nid": null,
-        "condition": "(unit1.team == 'player' and game.check_dead(unit1.nid)) or (unit2.team == 'player' and game.check_dead(unit2.nid))",
+        "condition": "game.current_mode.permadeath and ((unit1.team == 'player' and game.check_dead(unit1.nid)) or (unit2.team == 'player' and game.check_dead(unit2.nid)))",
         "commands": [],
         "only_once": false,
         "priority": 20,

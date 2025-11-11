@@ -28,6 +28,10 @@
             [
                 "resist_multiplier",
                 0
+            ],
+            [
+                "item_override",
+                "No_Combat_Anim"
             ]
         ]
     }

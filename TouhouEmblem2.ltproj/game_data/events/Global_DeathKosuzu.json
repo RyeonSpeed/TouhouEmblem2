@@ -3,16 +3,18 @@
         "name": "DeathKosuzu",
         "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit1.nid == 'Kosuzu'",
+        "condition": "unit1.nid == 'Kosuzu' and game.current_mode.permadeath",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
             "music;In Sorrows Shroud",
+            "hide_combat_ui",
             "add_portrait;Kosuzu;FarRight",
             "speak;Kosuzu;But I wanted to...find more books...",
             "expression;Kosuzu;CloseEyes",
-            "remove_portrait;Kosuzu"
+            "remove_portrait;Kosuzu",
+            "show_combat_ui"
         ],
         "nid": "Global DeathKosuzu"
     }

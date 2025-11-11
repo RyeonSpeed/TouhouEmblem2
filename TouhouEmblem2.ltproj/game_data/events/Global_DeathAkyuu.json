@@ -1,0 +1,21 @@
+[
+    {
+        "name": "DeathAkyuu",
+        "trigger": "combat_death",
+        "level_nid": null,
+        "condition": "unit1.nid == 'Akyuu' and game.current_mode.permadeath",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "music;In Sorrows Shroud",
+            "hide_combat_ui",
+            "add_portrait;Akyuu;FarRight",
+            "speak;Akyuu;DEATHQUOTEHERE",
+            "expression;Akyuu;CloseEyes",
+            "remove_portrait;Akyuu",
+            "show_combat_ui"
+        ],
+        "nid": "Global DeathAkyuu"
+    }
+]

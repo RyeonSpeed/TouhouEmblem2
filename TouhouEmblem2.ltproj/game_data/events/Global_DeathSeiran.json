@@ -3,7 +3,7 @@
         "name": "DeathSeiran",
         "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit1.nid == 'Seiran'",
+        "condition": "unit1.nid == 'Seiran' and game.current_mode.permadeath",
         "commands": [],
         "only_once": false,
         "priority": 20,

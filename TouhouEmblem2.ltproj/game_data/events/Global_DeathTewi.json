@@ -3,16 +3,18 @@
         "name": "DeathTewi",
         "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit1.nid == 'Tewi'",
+        "condition": "unit1.nid == 'Tewi' and game.current_mode.permadeath",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
             "music;In Sorrows Shroud",
+            "hide_combat_ui",
             "add_portrait;Tewi;FarRight",
             "speak;Tewi;Rats, didn't think my luck would run out today!",
             "expression;Tewi;CloseEyes",
-            "remove_portrait;Tewi"
+            "remove_portrait;Tewi",
+            "show_combat_ui"
         ],
         "nid": "Global DeathTewi"
     }

@@ -3,16 +3,18 @@
         "name": "DeathMystia",
         "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit1.nid == 'Mystia' and unit1.team == 'player'",
+        "condition": "unit1.nid == 'Mystia' and unit1.team == 'player' and game.current_mode.permadeath",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
             "music;In Sorrows Shroud",
+            "hide_combat_ui",
             "add_portrait;Mystia;FarRight",
             "speak;Mystia;I'd rather not be attacked! Begone! I'm going!",
             "expression;Mystia;CloseEyes",
-            "remove_portrait;Mystia"
+            "remove_portrait;Mystia",
+            "show_combat_ui"
         ],
         "nid": "Global DeathMystia"
     }

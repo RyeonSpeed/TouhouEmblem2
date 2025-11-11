@@ -3,7 +3,7 @@
         "name": "DeathNarumi",
         "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit1.nid == 'Narumi'",
+        "condition": "unit1.nid == 'Narumi' and game.current_mode.permadeath",
         "commands": [],
         "only_once": false,
         "priority": 20,

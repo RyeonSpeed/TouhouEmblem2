@@ -3,16 +3,18 @@
         "name": "DeathReisen",
         "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit1.nid == 'Reisen'",
+        "condition": "unit1.nid == 'Reisen' and game.current_mode.permadeath",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
             "music;In Sorrows Shroud",
+            "hide_combat_ui",
             "add_portrait;Reisen;FarRight",
             "speak;Reisen;This is too much for me to handle. I'm falling back!",
             "expression;Reisen;CloseEyes",
-            "remove_portrait;Reisen"
+            "remove_portrait;Reisen",
+            "show_combat_ui"
         ],
         "nid": "Global DeathReisen"
     }

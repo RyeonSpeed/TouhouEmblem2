@@ -3,16 +3,18 @@
         "name": "DeathWriggle",
         "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit1.nid == 'Wriggle' and unit1.team == 'player'",
+        "condition": "unit1.nid == 'Wriggle' and unit1.team == 'player' and game.current_mode.permadeath",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
             "music;In Sorrows Shroud",
+            "hide_combat_ui",
             "add_portrait;Wriggle;FarRight",
             "speak;Wriggle;You know, I think the power of insects won't solve this issue.",
             "expression;Wriggle;CloseEyes",
-            "remove_portrait;Wriggle"
+            "remove_portrait;Wriggle",
+            "show_combat_ui"
         ],
         "nid": "Global DeathWriggle"
     }

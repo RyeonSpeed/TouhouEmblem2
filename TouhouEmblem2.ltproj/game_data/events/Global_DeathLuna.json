@@ -3,16 +3,18 @@
         "name": "DeathLuna",
         "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit1.nid == 'Luna'",
+        "condition": "unit1.nid == 'Luna' and game.current_mode.permadeath",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
             "music;In Sorrows Shroud",
+            "hide_combat_ui",
             "add_portrait;Luna;FarRight",
             "speak;Luna;Oh...fun time's over, I guess.",
             "expression;Luna;CloseEyes",
-            "remove_portrait;Luna"
+            "remove_portrait;Luna",
+            "show_combat_ui"
         ],
         "nid": "Global DeathLuna"
     }

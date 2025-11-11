@@ -3,7 +3,7 @@
         "name": "DeathKasen",
         "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit1.nid == 'Kasen'",
+        "condition": "unit1.nid == 'Kasen' and game.current_mode.permadeath",
         "commands": [],
         "only_once": false,
         "priority": 20,

@@ -1,0 +1,21 @@
+[
+    {
+        "name": "DeathLyrica",
+        "trigger": "combat_death",
+        "level_nid": null,
+        "condition": "unit1.nid == 'Lyrica' and game.current_mode.permadeath",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "music;In Sorrows Shroud",
+            "hide_combat_ui",
+            "add_portrait;Lyrica;FarRight",
+            "speak;Lyrica;DEATHQUOTEHERE",
+            "expression;Lyrica;CloseEyes",
+            "remove_portrait;Lyrica",
+            "show_combat_ui"
+        ],
+        "nid": "Global DeathLyrica"
+    }
+]

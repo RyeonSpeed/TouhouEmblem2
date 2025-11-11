@@ -3,7 +3,7 @@
         "name": "DeathKaguya",
         "trigger": "combat_death",
         "level_nid": null,
-        "condition": "unit1.nid == 'Kaguya'",
+        "condition": "unit1.nid == 'Kaguya' and game.current_mode.permadeath",
         "commands": [],
         "only_once": false,
         "priority": 20,

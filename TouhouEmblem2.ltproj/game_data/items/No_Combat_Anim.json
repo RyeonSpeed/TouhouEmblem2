@@ -1,7 +1,7 @@
 [
     {
-        "nid": "new_5",
-        "name": "new_5",
+        "nid": "No_Combat_Anim",
+        "name": "No Combat Anim",
         "desc": "",
         "icon_nid": null,
         "icon_index": [
@@ -10,8 +10,8 @@
         ],
         "components": [
             [
-                "status_after_combat_on_hit",
-                "Burning"
+                "never_use_battle_animation",
+                null
             ]
         ]
     }
