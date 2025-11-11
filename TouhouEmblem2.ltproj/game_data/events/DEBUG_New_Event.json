@@ -16,7 +16,8 @@
             "autolevel_to;Keine_NPC;19;fixed",
             "trigger_script;Housekeeping3",
             "trigger_script;Housekeeping1",
-            "trigger_script;Housekeeping2"
+            "trigger_script;Housekeeping2",
+            "speak;;{e:game.current_mode.permadeath}"
         ],
         "nid": "DEBUG New Event"
     }

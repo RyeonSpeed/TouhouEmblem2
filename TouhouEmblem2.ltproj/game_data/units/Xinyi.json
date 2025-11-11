@@ -54,7 +54,7 @@
         "learned_skills": [
             [
                 1,
-                "Crush_Blade"
+                "Gale_Sweep"
             ]
         ],
         "unit_notes": [],
@@ -91,7 +91,7 @@
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "Sayuri",
+        "portrait_nid": "Miki",
         "affinity": "None",
         "fields": []
     }

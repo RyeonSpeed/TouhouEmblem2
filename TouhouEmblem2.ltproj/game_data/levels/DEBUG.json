@@ -41,35 +41,11 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Attack",
+                "ai": "Guard",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
                     25,
-                    18
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "113",
-                "variant": null,
-                "level": 15,
-                "klass": "Lancer",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Brave_Lance",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    26,
                     18
                 ],
                 "starting_traveler": null,
@@ -120,8 +96,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    23,
-                    21
+                    16,
+                    20
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -130,7 +106,7 @@
                 "nid": "106",
                 "variant": null,
                 "level": 10,
-                "klass": "Miko_Y",
+                "klass": "Guard",
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -166,12 +142,12 @@
             {
                 "nid": "101",
                 "variant": null,
-                "level": 5,
+                "level": 15,
                 "klass": "Lycanthrope",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Tonfas",
+                        "Razor_Claw",
                         false
                     ]
                 ],
@@ -184,10 +160,23 @@
                 "ai_group": "",
                 "starting_position": [
                     24,
-                    18
+                    22
                 ],
                 "starting_traveler": null,
                 "generic": true
+            },
+            {
+                "nid": "Akyuu",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    25,
+                    17
+                ],
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [

@@ -11,7 +11,7 @@
             "music;In Sorrows Shroud",
             "hide_combat_ui",
             "add_portrait;Kyouko;FarRight",
-            "speak;Kyouko;DEATHQUOTEHERE",
+            "#speak;Kyouko;DEATHQUOTEHERE",
             "expression;Kyouko;CloseEyes",
             "remove_portrait;Kyouko",
             "show_combat_ui"

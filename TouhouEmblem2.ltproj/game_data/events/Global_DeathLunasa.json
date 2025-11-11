@@ -11,7 +11,7 @@
             "music;In Sorrows Shroud",
             "hide_combat_ui",
             "add_portrait;Lunasa;FarRight",
-            "speak;Lunasa;DEATHQUOTEHERE",
+            "#speak;Lunasa;DEATHQUOTEHERE",
             "expression;Lunasa;CloseEyes",
             "remove_portrait;Lunasa",
             "show_combat_ui"
