@@ -3,10 +3,10 @@
         "nid": "Studious",
         "name": "Studious",
         "desc": "Halved Exp gain, +15% to all growths.",
-        "icon_nid": "skillicons3",
+        "icon_nid": "2025nov11",
         "icon_index": [
-            0,
-            4
+            2,
+            6
         ],
         "components": [
             [

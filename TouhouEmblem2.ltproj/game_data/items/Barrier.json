@@ -3,10 +3,10 @@
         "nid": "Barrier",
         "name": "Barrier",
         "desc": "Gives +2 Res for 1 turn.",
-        "icon_nid": "Staff",
+        "icon_nid": "2025nov11",
         "icon_index": [
             0,
-            14
+            7
         ],
         "components": [
             [

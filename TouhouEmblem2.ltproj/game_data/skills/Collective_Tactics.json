@@ -3,10 +3,10 @@
         "nid": "Collective_Tactics",
         "name": "Collective Tactics",
         "desc": "All EXP that Alice and her dolls gain is applied to all three units.",
-        "icon_nid": "skillicons_1",
+        "icon_nid": "2025nov11",
         "icon_index": [
-            0,
-            0
+            2,
+            3
         ],
         "components": [
             [

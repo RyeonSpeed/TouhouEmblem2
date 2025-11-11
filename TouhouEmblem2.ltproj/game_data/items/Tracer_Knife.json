@@ -3,10 +3,10 @@
         "nid": "Tracer_Knife",
         "name": "Tracer Knife",
         "desc": "Give up. Give up. Give up. Give up. Give up. Give up. Give up.\nBrave.",
-        "icon_nid": "NewItem1",
+        "icon_nid": "2025nov11",
         "icon_index": [
-            0,
-            0
+            3,
+            3
         ],
         "components": [
             [

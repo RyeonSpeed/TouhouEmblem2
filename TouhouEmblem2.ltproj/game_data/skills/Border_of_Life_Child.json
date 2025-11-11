@@ -3,9 +3,9 @@
         "nid": "Border_of_Life_Child",
         "name": "Border of Life Child",
         "desc": "<blue>[On Use]</blue> Kill a non-boss enemy.",
-        "icon_nid": "skillicons102524(1)",
+        "icon_nid": "2025nov11",
         "icon_index": [
-            1,
+            2,
             2
         ],
         "components": [

@@ -3,10 +3,10 @@
         "nid": "Lancesmasher",
         "name": "Lancesmasher",
         "desc": "Doubles weapon triangle effects.",
-        "icon_nid": "the2icons",
+        "icon_nid": "2025nov11",
         "icon_index": [
-            2,
-            10
+            3,
+            2
         ],
         "components": [
             [

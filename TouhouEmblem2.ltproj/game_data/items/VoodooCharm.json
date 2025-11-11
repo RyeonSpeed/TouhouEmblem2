@@ -3,10 +3,10 @@
         "nid": "VoodooCharm",
         "name": "Voodoo Charm",
         "desc": "Enemies that attack the user take 25% of damage dealt.",
-        "icon_nid": "accessories",
+        "icon_nid": "2025nov11",
         "icon_index": [
-            0,
-            1
+            1,
+            4
         ],
         "components": [
             [

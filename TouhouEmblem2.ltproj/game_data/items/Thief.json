@@ -3,10 +3,10 @@
         "nid": "Thief",
         "name": "Thief",
         "desc": "Steal items from enemies.",
-        "icon_nid": "Staff",
+        "icon_nid": "2025nov11",
         "icon_index": [
             0,
-            12
+            0
         ],
         "components": [
             [

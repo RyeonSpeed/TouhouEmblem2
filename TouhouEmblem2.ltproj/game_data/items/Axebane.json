@@ -3,10 +3,10 @@
         "nid": "Axebane",
         "name": "Axebane",
         "desc": "Now with double the axe slaying action!\nDoubles weapon triangle effects.",
-        "icon_nid": "the2icons",
+        "icon_nid": "2025nov11",
         "icon_index": [
-            0,
-            10
+            3,
+            0
         ],
         "components": [
             [

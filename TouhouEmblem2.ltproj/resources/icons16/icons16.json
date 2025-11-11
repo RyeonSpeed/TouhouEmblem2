@@ -788,26 +788,6 @@
         "subicon_dict": {}
     },
     {
-        "nid": "persecutor_1",
-        "subicon_dict": {}
-    },
-    {
-        "nid": "persecutor_2",
-        "subicon_dict": {}
-    },
-    {
-        "nid": "persecutor_3",
-        "subicon_dict": {}
-    },
-    {
-        "nid": "persecutor_4",
-        "subicon_dict": {}
-    },
-    {
-        "nid": "persecutor_5",
-        "subicon_dict": {}
-    },
-    {
         "nid": "persecutor_6",
         "subicon_dict": {}
     },
@@ -861,6 +841,10 @@
     },
     {
         "nid": "martials",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "2025nov11",
         "subicon_dict": {}
     }
 ]

@@ -3,10 +3,10 @@
         "nid": "Oni_Charm",
         "name": "Oni Charm",
         "desc": "1.5x DMG, however take 33% Recoil after each round of combat.",
-        "icon_nid": "accessories",
+        "icon_nid": "2025nov11",
         "icon_index": [
-            0,
-            1
+            1,
+            2
         ],
         "components": [
             [

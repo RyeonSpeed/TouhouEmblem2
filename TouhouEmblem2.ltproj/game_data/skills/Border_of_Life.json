@@ -3,9 +3,9 @@
         "nid": "Border_of_Life",
         "name": "Border of Life",
         "desc": "<blue>[On Use]</blue> Kill a non-boss enemy. Consumes 4 Soul Charge.",
-        "icon_nid": "skillicons102524(1)",
+        "icon_nid": "2025nov11",
         "icon_index": [
-            1,
+            2,
             2
         ],
         "components": [

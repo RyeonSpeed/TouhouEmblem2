@@ -3,10 +3,10 @@
         "nid": "DrunkenFlailing",
         "name": "Drunken Flailing",
         "desc": "1.3x DMG, -10% Hit, 1.3x DMG Taken. Stacks up to 5 times.",
-        "icon_nid": "skillicons102724(2)",
+        "icon_nid": "2025nov11",
         "icon_index": [
             2,
-            2
+            5
         ],
         "components": [
             [
