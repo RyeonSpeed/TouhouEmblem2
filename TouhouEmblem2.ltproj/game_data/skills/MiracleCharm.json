@@ -3,10 +3,10 @@
         "nid": "MiracleCharm",
         "name": "Miracle Charm",
         "desc": "",
-        "icon_nid": null,
+        "icon_nid": "2025nov11",
         "icon_index": [
-            0,
-            0
+            1,
+            1
         ],
         "components": [
             [

@@ -3,10 +3,10 @@
         "nid": "Falcon_Eye",
         "name": "Falcon Eye",
         "desc": "Gives +2 Skl for 1 turn.",
-        "icon_nid": "Staff",
+        "icon_nid": "2025nov11",
         "icon_index": [
             0,
-            14
+            4
         ],
         "components": [
             [

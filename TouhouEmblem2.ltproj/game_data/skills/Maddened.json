@@ -3,10 +3,10 @@
         "nid": "Maddened",
         "name": "Maddened",
         "desc": "1.5x DMG, +5 Speed.",
-        "icon_nid": "skillicons102724(1)",
+        "icon_nid": "2025nov11",
         "icon_index": [
-            0,
-            2
+            2,
+            4
         ],
         "components": [
             [

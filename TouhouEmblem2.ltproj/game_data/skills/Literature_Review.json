@@ -3,10 +3,10 @@
         "nid": "Literature_Review",
         "name": "Literature Review",
         "desc": "Can toggle \"Studious\" mode, which halves exp gains and raises all growths by +15%.",
-        "icon_nid": "skillicons3",
+        "icon_nid": "2025nov11",
         "icon_index": [
-            0,
-            4
+            2,
+            6
         ],
         "components": [
             [

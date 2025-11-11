@@ -3,10 +3,10 @@
         "nid": "Shield",
         "name": "Shield",
         "desc": "Gives +2 Def for 1 turn.",
-        "icon_nid": "Staff",
+        "icon_nid": "2025nov11",
         "icon_index": [
             0,
-            14
+            6
         ],
         "components": [
             [

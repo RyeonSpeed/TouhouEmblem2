@@ -3,10 +3,10 @@
         "nid": "Enchanted_Arrows",
         "name": "Enchanted Arrows",
         "desc": "+1 Bowrange. Lose one durability for each time user hits the enemy.",
-        "icon_nid": "accessories",
+        "icon_nid": "2025nov11",
         "icon_index": [
-            0,
-            1
+            1,
+            0
         ],
         "components": [
             [

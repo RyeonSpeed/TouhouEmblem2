@@ -3,10 +3,10 @@
         "nid": "Fortune",
         "name": "Fortune",
         "desc": "Gives +2 Lck for 1 turn.",
-        "icon_nid": "Staff",
+        "icon_nid": "2025nov11",
         "icon_index": [
             0,
-            14
+            5
         ],
         "components": [
             [

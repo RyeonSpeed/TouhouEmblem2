@@ -3,10 +3,10 @@
         "nid": "Vampire_Charm",
         "name": "Vampire Charm",
         "desc": "User recovers 20% of damage dealt in HP.",
-        "icon_nid": "accessories",
+        "icon_nid": "2025nov11",
         "icon_index": [
-            0,
-            1
+            1,
+            3
         ],
         "components": [
             [

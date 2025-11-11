@@ -3,10 +3,10 @@
         "nid": "Swordcatcher",
         "name": "Swordcatcher",
         "desc": "Who even brings a sword to a lance fight?\nDoubles weapon triangle effects.",
-        "icon_nid": "the2icons",
+        "icon_nid": "2025nov11",
         "icon_index": [
-            1,
-            10
+            3,
+            1
         ],
         "components": [
             [

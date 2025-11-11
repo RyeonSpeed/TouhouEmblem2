@@ -3,10 +3,10 @@
         "nid": "Bolting",
         "name": "Bolting",
         "desc": "Sends a bolt of sky-piercing, divine lightning.",
-        "icon_nid": "the2icons",
+        "icon_nid": "2025nov11",
         "icon_index": [
-            8,
-            7
+            2,
+            0
         ],
         "components": [
             [

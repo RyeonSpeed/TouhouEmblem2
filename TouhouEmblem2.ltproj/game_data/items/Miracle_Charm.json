@@ -3,9 +3,9 @@
         "nid": "Miracle_Charm",
         "name": "Miracle Charm",
         "desc": "Allows user to survive one fatal hit.",
-        "icon_nid": "accessories",
+        "icon_nid": "2025nov11",
         "icon_index": [
-            0,
+            1,
             1
         ],
         "components": [
