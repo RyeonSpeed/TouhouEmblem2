@@ -11,8 +11,9 @@
             "music;In Sorrows Shroud",
             "hide_combat_ui",
             "add_portrait;Merlin;FarRight",
-            "speak;Merlin;Hehe, I guess I had enough then.",
+            "expression;Merlin;Smile",
             "expression;Merlin;CloseEyes",
+            "speak;Merlin;Hehe, I guess I've had enough then.",
             "remove_portrait;Merlin",
             "show_combat_ui"
         ],

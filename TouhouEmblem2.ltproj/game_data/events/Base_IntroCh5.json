@@ -22,8 +22,8 @@
             "for;Shop;[x for x in ['Rinnosuke', 'Miyoi', 'Kosuzu'] if u(x) and  game.check_alive(x)]",
             "    add_group;{Shop};{Shop};immediate",
             "endf",
-            "game_var;ARMORY_ENTRY;['Iron_Sword', 'Iron_Axe', 'Iron_Lance', 'Iron_Bow', 'Ofuda', 'Heal', 'Slim_Sword', 'Slim_Lance', 'Slim_Axe', 'Slim_Bow', 'Flamberge', 'Flame_Lance', 'Flame_Axe']",
             "game_var;SHOP_ENTRY;['Fire',  'Flux', 'Life_Gem', 'Poppet', 'Maple_Shield', 'Lucky_Clover', 'Miracle_Charm', 'Lantern', 'Torch', 'Gust']",
+            "game_var;ARMORY_ENTRY;['Iron_Sword', 'Iron_Axe', 'Iron_Lance', 'Iron_Bow', 'Ofuda', 'Heal', 'Slim_Sword', 'Slim_Lance', 'Slim_Axe', 'Slim_Bow', 'Flamberge', 'Flame_Lance', 'Flame_Axe']",
             "game_var;hireable_guys;v('hireable_guys') + ['Kana','Haruka']"
         ],
         "nid": "Base IntroCh5"
