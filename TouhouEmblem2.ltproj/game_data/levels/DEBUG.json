@@ -129,12 +129,12 @@
             {
                 "nid": "105",
                 "variant": null,
-                "level": 15,
+                "level": 25,
                 "klass": "Warden",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Iron_Lance",
+                        "Punji",
                         false
                     ],
                     [
@@ -143,13 +143,13 @@
                     ]
                 ],
                 "starting_skills": [],
-                "team": "enemy",
+                "team": "player",
                 "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    21,
-                    16
+                    22,
+                    20
                 ],
                 "starting_traveler": null,
                 "generic": true
