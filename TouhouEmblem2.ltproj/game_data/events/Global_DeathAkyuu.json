@@ -11,7 +11,11 @@
             "music;In Sorrows Shroud",
             "hide_combat_ui",
             "add_portrait;Akyuu;FarRight",
+<<<<<<< Updated upstream
             "#speak;Akyuu;DEATHQUOTEHERE",
+=======
+            "speak;Akyuu;Agh! I don't think I'm built for the battlefield.",
+>>>>>>> Stashed changes
             "expression;Akyuu;CloseEyes",
             "remove_portrait;Akyuu",
             "show_combat_ui"

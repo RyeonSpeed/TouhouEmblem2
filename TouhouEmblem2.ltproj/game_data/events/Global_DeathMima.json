@@ -11,7 +11,11 @@
             "music;In Sorrows Shroud",
             "hide_combat_ui",
             "add_portrait;Mima;FarRight",
+<<<<<<< Updated upstream
             "#speak;Mima;DEATHQUOTEHERE",
+=======
+            "speak;Mima;Well, that's that. I'm taking my leave for now.",
+>>>>>>> Stashed changes
             "expression;Mima;CloseEyes",
             "remove_portrait;Mima",
             "show_combat_ui"

@@ -11,7 +11,11 @@
             "music;In Sorrows Shroud",
             "hide_combat_ui",
             "add_portrait;Kogasa;FarRight",
+<<<<<<< Updated upstream
             "#speak;Kogasa;DEATHQUOTEHERE",
+=======
+            "speak;Kogasa;I really messed up this time, didn't I...?",
+>>>>>>> Stashed changes
             "expression;Kogasa;CloseEyes",
             "remove_portrait;Kogasa",
             "show_combat_ui"

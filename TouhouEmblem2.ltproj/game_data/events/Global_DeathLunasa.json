@@ -11,7 +11,11 @@
             "music;In Sorrows Shroud",
             "hide_combat_ui",
             "add_portrait;Lunasa;FarRight",
+<<<<<<< Updated upstream
             "#speak;Lunasa;DEATHQUOTEHERE",
+=======
+            "speak;Lunasa;*Sigh* Looks like I didn't give it my all. Figures.",
+>>>>>>> Stashed changes
             "expression;Lunasa;CloseEyes",
             "remove_portrait;Lunasa",
             "show_combat_ui"
