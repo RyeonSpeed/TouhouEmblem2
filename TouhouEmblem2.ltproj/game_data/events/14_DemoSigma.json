@@ -1,0 +1,17 @@
+[
+    {
+        "name": "DemoSigma",
+        "trigger": "turn_change",
+        "level_nid": "14",
+        "condition": "game.turncount == 1",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;SigmaRaven;Right",
+            "speak;SigmaRaven;\u2028As this is the last chapter\u2028of the current demo,{w}\u2028I recommend suspending your\u2028game before finishing.{w}\u2028If you decide to finish the\u2028chapter anyway, well,{w}\u2028don't say I didn't warn you.;;150",
+            "remove_portrait;SigmaRaven"
+        ],
+        "nid": "14 DemoSigma"
+    }
+]
