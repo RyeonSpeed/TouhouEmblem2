@@ -203,7 +203,11 @@
             "level_var;ShinkiDead2;0",
             "level_var;ShinkiDead3;0",
             "",
-            "prep;1;Spirit of Avarice"
+            "prep;1;Spirit of Avarice",
+            "",
+            "add_portrait;SigmaRaven;Right",
+            "speak;SigmaRaven;\u2028As this is the last chapter\u2028of the current demo,{w}\u2028I recommend suspending your\u2028game before finishing.{w}\u2028If you decide to finish the\u2028chapter anyway, well,{w}\u2028don't say I didn't warn you.",
+            "remove_portrait;SigmaRaven"
         ],
         "nid": "14 Intro"
     }
