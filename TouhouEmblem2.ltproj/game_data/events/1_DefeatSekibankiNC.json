@@ -3,7 +3,7 @@
         "name": "DefeatSekibankiNC",
         "trigger": "unit_death",
         "level_nid": "1",
-        "condition": "game.check_dead(\"Sekibanki_Boss\") and unit2 == None",
+        "condition": "unit1.nid == \"Sekibanki_Boss\" and unit2 == None",
         "commands": [],
         "only_once": true,
         "priority": 20,

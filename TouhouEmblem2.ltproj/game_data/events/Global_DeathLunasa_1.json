@@ -1,0 +1,25 @@
+[
+    {
+        "name": "DeathLunasa_1",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "unit1.nid == 'Lunasa' and v('LunasaDead') == 0",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "level_var;LunasaDead;1",
+            "kill_unit;Lunasa",
+            "wait;100",
+            "resurrect;Lunasa",
+            "",
+            "if;game.current_mode.permadeath",
+            "for;BRUH;[x.nid for x in u('Lunasa').items]",
+            "    move_item;Lunasa;convoy;{BRUH}",
+            "endf",
+            "change_party;Lunasa;Dumpster",
+            "end"
+        ],
+        "nid": "Global DeathLunasa_1"
+    }
+]

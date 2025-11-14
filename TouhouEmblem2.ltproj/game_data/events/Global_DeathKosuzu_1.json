@@ -12,8 +12,12 @@
             "kill_unit;Kosuzu",
             "wait;100",
             "resurrect;Kosuzu",
+            "",
             "if;game.current_mode.permadeath",
-            "    change_party;Kosuzu;Dumpster",
+            "for;BRUH;[x.nid for x in u('Kosuzu').items]",
+            "    move_item;Kosuzu;convoy;{BRUH}",
+            "endf",
+            "change_party;Kosuzu;Dumpster",
             "end"
         ],
         "nid": "Global DeathKosuzu_1"

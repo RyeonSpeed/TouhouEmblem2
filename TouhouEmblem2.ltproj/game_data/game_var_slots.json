@@ -16,7 +16,7 @@
         "desc": "Can be set to the nid of the overworld to go to next."
     },
     {
-        "nid": "_current_turnwheel_use",
+        "nid": "_current_turnwheel_uses",
         "desc": "# of turnwheel uses left in level. Automatically sets to max upon winning level."
     },
     {

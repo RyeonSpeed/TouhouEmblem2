@@ -1,0 +1,25 @@
+[
+    {
+        "name": "DeathMima_1",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "unit1.nid == 'Mima' and v('MimaDead') == 0",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "level_var;MimaDead;1",
+            "kill_unit;Mima",
+            "wait;100",
+            "resurrect;Mima",
+            "",
+            "if;game.current_mode.permadeath",
+            "for;BRUH;[x.nid for x in u('Mima').items]",
+            "    move_item;Mima;convoy;{BRUH}",
+            "endf",
+            "change_party;Mima;Dumpster",
+            "end"
+        ],
+        "nid": "Global DeathMima_1"
+    }
+]

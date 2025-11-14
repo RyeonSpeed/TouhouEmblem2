@@ -12,8 +12,12 @@
             "kill_unit;Kasen",
             "wait;100",
             "resurrect;Kasen",
+            "",
             "if;game.current_mode.permadeath",
-            "    change_party;Kasen;Dumpster",
+            "for;BRUH;[x.nid for x in u('Kasen').items]",
+            "    move_item;Kasen;convoy;{BRUH}",
+            "endf",
+            "change_party;Kasen;Dumpster",
             "end"
         ],
         "nid": "Global DeathKasen_1"

@@ -1,0 +1,25 @@
+[
+    {
+        "name": "DeathSunny_1",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "unit1.nid == 'Sunny' and v('SunnyDead') == 0",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "level_var;SunnyDead;1",
+            "kill_unit;Sunny",
+            "wait;100",
+            "resurrect;Sunny",
+            "",
+            "if;game.current_mode.permadeath",
+            "for;BRUH;[x.nid for x in u('Sunny').items]",
+            "    move_item;Sunny;convoy;{BRUH}",
+            "endf",
+            "change_party;Sunny;Dumpster",
+            "end"
+        ],
+        "nid": "Global DeathSunny_1"
+    }
+]

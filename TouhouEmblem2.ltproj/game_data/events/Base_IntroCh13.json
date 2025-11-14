@@ -17,7 +17,7 @@
             "for;SHITASS;[x for x in ['Wriggle', 'Mystia', 'Cirno', 'Rumia', 'Daiyousei', 'SigmaRaven', 'Tewi', 'Reisen', 'Aunn', 'Merlin', 'Lunasa', 'Lyrica', 'Youmu', 'Yuyuko', 'Star', 'Sunny', 'Luna', 'Koakuma', 'Sakuya', 'Kaguya', 'Mokou', 'Kyouko', 'Narumi', 'Akyuu'] if u(x) and u(x).team == 'player' and u(x).party == 'Reimu' and game.check_alive(x)]",
             "    add_group;{SHITASS};{SHITASS};fade;closest",
             "endf",
-            "for;Important;[x for x in ['Kasen', 'Alice', 'Mima', 'Remilia'] if u(x) and u(x).team == 'player' and game.check_alive(x)]",
+            "for;Important;[x for x in ['Kasen', 'Alice', 'Mima', 'Remilia', 'Lyrica', 'Lunasa', 'Merlin'] if u(x) and u(x).team == 'player' and game.check_alive(x)]",
             "    add_group;{Important};{Important};fade;closest",
             "endf",
             "for;Shop;[x for x in ['Rinnosuke', 'Miyoi', 'Kosuzu'] if u(x) and  game.check_alive(x)]",

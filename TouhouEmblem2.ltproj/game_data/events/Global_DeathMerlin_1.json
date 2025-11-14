@@ -1,0 +1,25 @@
+[
+    {
+        "name": "DeathMerlin_1",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "unit1.nid == 'Merlin' and v('MerlinDead') == 0",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "level_var;MerlinDead;1",
+            "kill_unit;Merlin",
+            "wait;100",
+            "resurrect;Merlin",
+            "",
+            "if;game.current_mode.permadeath",
+            "for;BRUH;[x.nid for x in u('Merlin').items]",
+            "    move_item;Merlin;convoy;{BRUH}",
+            "endf",
+            "change_party;Merlin;Dumpster",
+            "end"
+        ],
+        "nid": "Global DeathMerlin_1"
+    }
+]

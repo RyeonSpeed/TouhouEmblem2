@@ -1,0 +1,25 @@
+[
+    {
+        "name": "DeathLyrica_1",
+        "trigger": "unit_death",
+        "level_nid": null,
+        "condition": "unit1.nid == 'Lyrica' and v('LyricaDead') == 0",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "level_var;LyricaDead;1",
+            "kill_unit;Lyrica",
+            "wait;100",
+            "resurrect;Lyrica",
+            "",
+            "if;game.current_mode.permadeath",
+            "for;BRUH;[x.nid for x in u('Lyrica').items]",
+            "    move_item;Lyrica;convoy;{BRUH}",
+            "endf",
+            "change_party;Lyrica;Dumpster",
+            "end"
+        ],
+        "nid": "Global DeathLyrica_1"
+    }
+]
