@@ -8,8 +8,10 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "center_cursor;0,0",
+            "wait;200",
             "add_group;Turn3;Turn3;fade;closest",
-            ""
+            "wait;500"
         ],
         "nid": "0 Turn3"
     }

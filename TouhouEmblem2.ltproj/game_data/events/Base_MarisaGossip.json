@@ -10,7 +10,7 @@
         "_source": [
             "if;{v:chaptercount} == 0",
             "add_portrait;Marisa;Left",
-            "speak;Marisa;I dunno bout' you Reimu, but I think you'll definitely need to do some heavy liftin' with|yer Sealing Needles. Those things are potent!",
+            "speak;Marisa;I dunno about you Reimu, but I think you'll definitely need to do some heavy liftin' with|yer Sealing Needles. Those things are potent!",
             "remove_portrait;Marisa",
             "elif;{v:chaptercount} == 1",
             "add_portrait;Marisa;Left",

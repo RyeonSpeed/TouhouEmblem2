@@ -8,12 +8,12 @@
         "music": {
             "player_phase": "Lunate Elf",
             "enemy_phase": "Lunate Elf",
-            "other_phase": null,
-            "enemy2_phase": null,
+            "other_phase": "A Popular Location",
+            "enemy2_phase": "A Popular Location",
             "player_battle": "Lunate Elf",
             "enemy_battle": "Lunate Elf",
-            "other_battle": null,
-            "enemy2_battle": null,
+            "other_battle": "A Popular Location",
+            "enemy2_battle": "A Popular Location",
             "boss_battle": "Dullahan Under the Willows"
         },
         "objective": {

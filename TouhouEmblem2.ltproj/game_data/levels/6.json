@@ -12,7 +12,8 @@
             "player_battle": "Lunatic Princess",
             "enemy_battle": "Sailor of Time",
             "other_battle": "History of the Moon",
-            "boss_battle": "Strawberry Crisis"
+            "boss_battle": "Strawberry Crisis",
+            "enemy2_phase": null
         },
         "objective": {
             "simple": "Survive <blue>{e:game.turncount}</>/10 turns",
