@@ -1,0 +1,29 @@
+[
+    {
+        "name": "KogasaShop_Child",
+        "trigger": null,
+        "level_nid": "Base",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "level_var;NoRepair;1",
+            "for;BRUH;[x.nid for x in u('{v:RepairChoice}').items]",
+            "    if;'starting_uses' in get_item('{v:RepairChoice}','{BRUH}').data",
+            "        if;get_item('{v:RepairChoice}','{BRUH}').data['starting_uses'] != get_item('{v:RepairChoice}','{BRUH}').data['uses']",
+            "            level_var;NoRepair;0",
+            "        end",
+            "    end",
+            "endf",
+            "",
+            "if;{v:NoRepair} == 0",
+            "    repair_shop;{v:RepairChoice}",
+            "else",
+            "    speak;Kogasa;There's nothing for me to repair!",
+            "end",
+            "unchoice"
+        ],
+        "nid": "Base KogasaShop_Child"
+    }
+]
