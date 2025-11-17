@@ -1,0 +1,16 @@
+[
+    {
+        "name": "BossMusic",
+        "trigger": "combat_start",
+        "level_nid": "1",
+        "condition": "unit1.nid in ['Kagerou_Boss', 'Sekibanki_Boss'] or unit2.nid in ['Kagerou_Boss', 'Sekibanki_Boss']",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "music;Dullahan Under the Willows;FadeIn=50",
+            "wait;452"
+        ],
+        "nid": "1 BossMusic"
+    }
+]

@@ -30,7 +30,6 @@
     "1_House1",
     "1_House2",
     "1_House3",
-    "1_Seize",
     "1_Outro",
     "2_Intro",
     "2_Village1",
@@ -66,8 +65,6 @@
     "1_Destroy3",
     "3_DefeatSeiran_1",
     "3_DefeatSeiran_1NC",
-    "1_ShopArmory",
-    "1_ShopVendor",
     "1_ReimuRumiaTalk",
     "1_MarisaRumiaTalk",
     "2_Fog",
@@ -615,5 +612,6 @@
     "14_DeathYuki_1",
     "13_Youmu_Intro",
     "3_ThiefEscape",
-    "14_DemoSigma"
+    "14_DemoSigma",
+    "1_BossMusic"
 ]

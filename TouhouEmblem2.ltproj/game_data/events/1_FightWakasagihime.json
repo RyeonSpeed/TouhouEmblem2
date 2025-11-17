@@ -11,7 +11,7 @@
             "hide_combat_ui",
             "music;Dullahan Under the Willows",
             "add_portrait;Wakasagihime;Left",
-            "speak;Wakasagihime;I won't let my friends down!! Take that!!",
+            "speak;Wakasagihime;I won't let my friends down!! Take this!!",
             "remove_portrait;Wakasagihime",
             "show_combat_ui"
         ],

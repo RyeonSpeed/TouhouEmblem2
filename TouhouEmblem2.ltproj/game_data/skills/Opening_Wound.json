@@ -11,7 +11,7 @@
         "components": [
             [
                 "combat_condition",
-                "(unit2.get_hp() >= unit2.get_stat('HP')*0.8) and (unit2.team not in ['player', 'other']) and (mode == 'attack' or (mode != 'attack' and combat_calcs.can_counterattack(unit2, unit2.get_weapon(), unit1, unit1.get_weapon())))"
+                "(unit2.get_hp() >= unit2.get_stat('HP')*0.8) and (unit2.team not in ['player', 'other']) and (mode == 'attack' or (mode != 'attack' and combat_calcs.can_counterattack(unit2, unit2.get_weapon(), unit1, unit1.get_weapon()) and not unit2.get_weapon().is_spell() ))"
             ],
             [
                 "damage_multiplier",
