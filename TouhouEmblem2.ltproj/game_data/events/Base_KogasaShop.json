@@ -13,7 +13,7 @@
             "speak;Kogasa;Hey! Do you need anything from me today?",
             "choice;Blacksmith;What do you need?;Repair,Forge;backable",
             "if;'{v:Blacksmith}' == 'Repair'",
-            "    choice;RepairChoice;Whose items need fixing?;[x.nid for x in game.get_units_in_party('Reimu')];Alignment=top_left;EntryType=type_unit;Dimensions=6,1;scroll_bar;backable;expression",
+            "    choice;RepairChoice;Whose items need fixing?;[x.nid for x in game.get_units_in_party('Reimu')];Alignment=top_left;EventNid=KogasaShop_Child;EntryType=type_unit;Dimensions=6,1;scroll_bar;backable;expression",
             "elif;'{v:Blacksmith}' == 'Forge'",
             "speak;Kogasa;Not available at the moment.",
             "end"

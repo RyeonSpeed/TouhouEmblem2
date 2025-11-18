@@ -77,7 +77,7 @@
     },
     {
         "nid": "animation_desc",
-        "text": "Show combat animations"
+        "text": "Show combat animations."
     },
     {
         "nid": "text_speed_desc",
@@ -281,7 +281,7 @@
     },
     {
         "nid": "shop_buy",
-        "text": "What can I get for you?"
+        "text": "Anything else?"
     },
     {
         "nid": "vendor_back",
