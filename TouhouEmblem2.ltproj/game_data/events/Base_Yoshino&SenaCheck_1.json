@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Yoshino&SenaCheck_1",
+        "trigger": "level_start",
+        "level_nid": "Base",
+        "condition": "game.game_vars['chaptercount'] == 13",
+        "commands": [],
+        "only_once": false,
+        "priority": 21,
+        "_source": [
+            "add_group;Chapter7Elites;Chapter14Elites;fade;closest",
+            "autolevel_to;Yoshino;{e:{v:chaptercount} + 1};fixed",
+            "autolevel_to;Sena;{e:{v:chaptercount} + 1};fixed",
+            "add_talk;Reimu;Yoshino",
+            "add_talk;Reimu;Sena"
+        ],
+        "nid": "Base Yoshino&SenaCheck_1"
+    }
+]

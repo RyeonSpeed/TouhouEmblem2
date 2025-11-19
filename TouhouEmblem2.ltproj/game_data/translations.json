@@ -454,5 +454,9 @@
     {
         "nid": "Hard_desc",
         "text": "For FE players. +3 autolevels."
+    },
+    {
+        "nid": "Combat Arts_desc",
+        "text": "Use a special attack."
     }
 ]

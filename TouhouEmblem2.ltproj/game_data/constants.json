@@ -337,11 +337,11 @@
     ],
     [
         "gexp_min",
-        1
+        0.0
     ],
     [
         "gexp_slope",
-        0.1
+        0.2
     ],
     [
         "gexp_intercept",
