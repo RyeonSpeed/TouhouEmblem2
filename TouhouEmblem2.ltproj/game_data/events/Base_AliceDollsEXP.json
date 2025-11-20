@@ -1,0 +1,24 @@
+[
+    {
+        "name": "AliceDollsEXP",
+        "trigger": "unit_exp",
+        "level_nid": "Base",
+        "condition": "unit1.nid == 'Alice'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "set_exp;Shanghai;unit1.exp",
+            "set_exp;Hourai;unit1.exp",
+            "",
+            "if;u('Shanghai').level != unit1.level",
+            "    autolevel_to;Shanghai;unit1.level;random",
+            "end",
+            "",
+            "if;u('Hourai').level != unit1.level",
+            "    autolevel_to;Hourai;unit1.level;random",
+            "end"
+        ],
+        "nid": "Base AliceDollsEXP"
+    }
+]
