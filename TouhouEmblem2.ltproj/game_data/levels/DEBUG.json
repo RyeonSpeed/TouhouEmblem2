@@ -33,15 +33,20 @@
                 "level": 10,
                 "klass": "Thief",
                 "faction": "Youkai",
-                "starting_items": [],
+                "starting_items": [
+                    [
+                        "Shine_Knife",
+                        false
+                    ]
+                ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "SimpleThief",
+                "ai": "Guard",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    18,
-                    21
+                    19,
+                    23
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -53,7 +58,7 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    17,
+                    19,
                     21
                 ],
                 "starting_traveler": null,
@@ -67,17 +72,17 @@
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Iron_Bow",
+                        "Javelin",
                         false
                     ]
                 ],
                 "starting_skills": [],
-                "team": "enemy",
+                "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    24,
+                    20,
                     21
                 ],
                 "starting_traveler": null,
@@ -99,12 +104,12 @@
             {
                 "nid": "Kosuzu",
                 "team": "player",
-                "ai": "None",
+                "ai": "Guard",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    23,
-                    15
+                    19,
+                    19
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -149,6 +154,11 @@
             }
         ],
         "unit_groups": [],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

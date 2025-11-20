@@ -15,7 +15,10 @@
             "autolevel_to;Keine_NPC;19;fixed",
             "trigger_script;Housekeeping3",
             "trigger_script;Housekeeping1",
-            "trigger_script;Housekeeping2"
+            "trigger_script;Housekeeping2",
+            "change_team;Kosuzu;enemy",
+            "remove_item;Kosuzu;Dagon;no_banner",
+            "remove_item;Kosuzu;Carcosa;no_banner"
         ],
         "nid": "DEBUG New Event"
     }
