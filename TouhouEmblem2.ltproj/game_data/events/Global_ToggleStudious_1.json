@@ -1,0 +1,19 @@
+[
+    {
+        "name": "ToggleStudious_1",
+        "trigger": "level_end",
+        "level_nid": null,
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "if;game.get_unit('Akyuu').get_skill('Studious')",
+            "remove_skill;{unit};Studious;no_banner",
+            "remove_skill;{unit};Literature_Review_1;no_banner",
+            "give_skill;{unit};Literature_Review;no_banner",
+            "end"
+        ],
+        "nid": "Global ToggleStudious_1"
+    }
+]

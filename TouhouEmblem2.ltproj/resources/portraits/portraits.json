@@ -888,7 +888,7 @@
         "info_offset": 0
     },
     {
-        "nid": "RinWitch",
+        "nid": "RinWitch_R",
         "blinking_offset": [
             24,
             32
@@ -2108,6 +2108,42 @@
         "smiling_offset": [
             24,
             48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "RinLodestar_L",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "RinLodestar_S",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "snailrisa",
+        "blinking_offset": [
+            16,
+            48
+        ],
+        "smiling_offset": [
+            16,
+            32
         ],
         "info_offset": 0
     }
