@@ -1,24 +1,20 @@
 [
     {
         "name": "DeathAlice",
-        "trigger": "combat_end",
+        "trigger": "combat_death",
         "level_nid": null,
-        "condition": "game.check_dead(\"Alice\")",
+        "condition": "unit1.nid == 'Alice' and game.current_mode.permadeath",
         "commands": [],
         "only_once": false,
-        "priority": 21,
+        "priority": 20,
         "_source": [
-            "if;(u('Shanghai').position) or (x for x in game.units if x.traveler == 'Shanghai')",
-            "    center_cursor;Shanghai;150",
-            "    wait;200",
-            "    kill_unit;Shanghai",
-            "end",
-            "if;(u('Hourai').position) or (x for x in game.units if x.traveler == 'Hourai')",
-            "    center_cursor;Hourai;150",
-            "    wait;200",
-            "    kill_unit;Hourai",
-            "end",
-            "wait;100"
+            "music;In Sorrows Shroud",
+            "hide_combat_ui",
+            "add_portrait;Alice;FarRight",
+            "speak;Alice;Why did I even agree to this?",
+            "expression;Alice;CloseEyes",
+            "show_combat_ui",
+            "remove_portrait;Alice"
         ],
         "nid": "Global DeathAlice"
     }

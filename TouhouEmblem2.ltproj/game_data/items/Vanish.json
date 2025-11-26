@@ -18,20 +18,19 @@
                 0
             ],
             [
-                "self_status_on_hit",
-                "Vanished"
-            ],
-            [
-                "event_after_combat_on_hit",
-                "Global Refresh"
-            ],
-            [
                 "map_hit_sfx",
                 "Aura2"
             ],
             [
                 "fatigue",
                 1
+            ],
+            [
+                "statuses_on_hit",
+                [
+                    "Vanished",
+                    "RefreshOnWait"
+                ]
             ]
         ]
     }

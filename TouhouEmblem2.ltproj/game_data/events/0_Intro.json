@@ -15,7 +15,7 @@
             "game_var;difficultybonus;0",
             "elif;game.current_mode.nid == 'Classic_Normal'",
             "game_var;difficultybonus;3",
-            "elif;game.current_mode.nid == 'Normal'",
+            "elif;game.current_mode.nid == 'Hard'",
             "game_var;difficultybonus;3",
             "elif;game.current_mode.nid == 'Lunatic'",
             "game_var;difficultybonus;4",

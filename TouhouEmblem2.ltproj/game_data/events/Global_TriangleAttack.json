@@ -8,7 +8,7 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "if;len([x.nid for x in get_allies_within_distance(unit2.position) if has_skill(x, 'Staking_Your_Life_on_a_Prank')]) == 3;",
+            "if;len([x.nid for x in get_allies_within_distance(unit2.position) if has_skill(x, 'Staking_Your_Life_on_a_Prank')]) == 3 and unit2.team not in ['player', 'other'];",
             "    if;unit1.nid == \"Star\";",
             "        hide_combat_ui",
             "        add_portrait;Star;Left;normal;Smile",

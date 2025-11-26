@@ -22,20 +22,19 @@
                 null
             ],
             [
-                "self_status_on_hit",
-                "Luna_Dial"
-            ],
-            [
-                "event_after_combat_even_miss",
-                "Global Refresh"
-            ],
-            [
                 "map_hit_sfx",
                 "Aura2"
             ],
             [
                 "fatigue",
                 1
+            ],
+            [
+                "statuses_on_hit",
+                [
+                    "Luna_Dial",
+                    "RefreshOnWait"
+                ]
             ]
         ]
     }

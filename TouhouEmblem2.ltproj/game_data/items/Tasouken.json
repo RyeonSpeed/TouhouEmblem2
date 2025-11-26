@@ -99,6 +99,10 @@
                     "Kusanagi_Gold",
                     "KusanagiGrowths_3"
                 ]
+            ],
+            [
+                "pre_combat_effect",
+                "LegendaryShine"
             ]
         ]
     }

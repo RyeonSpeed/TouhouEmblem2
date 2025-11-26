@@ -1,6 +1,6 @@
 [
     {
-        "nid": "new_1",
+        "nid": "new_2",
         "name": "new_1",
         "desc": "",
         "icon_nid": null,
@@ -10,8 +10,12 @@
         ],
         "components": [
             [
-                "hit",
-                100
+                "ability",
+                "Iron_Sword"
+            ],
+            [
+                "expression_growth_change",
+                []
             ]
         ]
     }

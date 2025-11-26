@@ -11,14 +11,14 @@
             "game_var;_fatigue;1",
             "game_var;_turnwheel;True",
             "game_var;_current_turnwheel_uses;-1",
-            "autolevel_to;Yuyuko;19;fixed",
+            "game_var;KusanagiKills;0",
             "autolevel_to;Keine_NPC;19;fixed",
             "trigger_script;Housekeeping3",
             "trigger_script;Housekeeping1",
             "trigger_script;Housekeeping2",
-            "change_team;Kosuzu;enemy",
-            "remove_item;Kosuzu;Dagon;no_banner",
-            "remove_item;Kosuzu;Carcosa;no_banner"
+            "game_var;SoulCharge;4",
+            "enable_fog_of_war;1",
+            "give_skill;114;Bleeding;no_banner"
         ],
         "nid": "DEBUG New Event"
     }

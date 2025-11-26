@@ -1,13 +1,18 @@
 [
     {
         "name": "Refresh",
-        "trigger": null,
+        "trigger": "unit_wait",
         "level_nid": null,
-        "condition": "False",
+        "condition": "has_skill(unit1, 'RefreshOnWait')",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
+            "remove_skill;{unit};RefreshOnWait;no_banner",
+            "if;has_skill(unit1, 'SFXOnRefresh')",
+            "    sound;RefreshDance",
+            "    remove_skill;{unit};SFXOnRefresh;no_banner",
+            "end",
             "reset;{unit}"
         ],
         "nid": "Global Refresh"
