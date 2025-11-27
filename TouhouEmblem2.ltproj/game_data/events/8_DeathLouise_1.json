@@ -11,6 +11,7 @@
             "hide_combat_ui",
             "add_portrait;Louise;Left",
             "speak;Louise;Ugh, what terrible service. I'm leaving.",
+            "expression;Louise;CloseEyes",
             "remove_portrait;Louise",
             "show_combat_ui"
         ],

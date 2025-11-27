@@ -141,7 +141,7 @@
             "bop_portrait;Yukari",
             "speak;Reimu;What will some old books and sticks do to help us?",
             "speak;Yukari;You'll see in time.",
-            "speak;Yukari;Well, I would love to stay and chat, but I sensed a disturbance in the boundary recently, so I will be looking into that.|Good luck!",
+            "speak;Yukari;Well, I would love to stay and chat,|but I sensed a disturbance in the boundary recently, so I will be looking into that.|Good luck!",
             "remove_portrait;Yukari",
             "speak;Reimu;Damn gap youkai, always pushing responsibility onto me.",
             "speak;Marisa;Well, if we don't know who it is, why don't we just take care of everybody one by one?",
