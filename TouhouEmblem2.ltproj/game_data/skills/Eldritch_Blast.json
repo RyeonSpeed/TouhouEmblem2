@@ -2,7 +2,7 @@
     {
         "nid": "Eldritch_Blast",
         "name": "Eldritch Blast",
-        "desc": "Blast 2, Range 3-7. Consumes 4 Soul Charge.",
+        "desc": "Blast 2, Range 3-7. Consumes 4 Soul Charge. Cannot be used with AoE weapons.",
         "icon_nid": "icons",
         "icon_index": [
             3,
@@ -20,6 +20,10 @@
             [
                 "combat_art",
                 "EldritchBlast"
+            ],
+            [
+                "allowed_weapons",
+                "item_system.weapon_type(unit, item) in ['Anima', 'Dark'] and not any([c for c in item.components if c.tag.value == 'aoe'])"
             ]
         ]
     }

@@ -162,5 +162,501 @@
     {
         "nid": "Generic_Portrait_Wyvern_Rider",
         "subicon_dict": {}
+    },
+    {
+        "nid": "Acolyte",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Archdemon",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Archer",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "AxeCav",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Battlesage",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Berserker_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Boneguard",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "BoneguardBow",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "BowCav",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Brigand",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Cataphract",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Centaur",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Charger",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "CursedArmor",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "DarkFlier",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "DarkKnight1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "DarkKnight2",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Demon",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Doll",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Dracorider",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Druid",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Dryad1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Dryad2",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Exorcist",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Fencer",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Fighter",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Gendarme",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Hexblade",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "KappaMech",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "LanceCav",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Lancer",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "LodestarLance",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "LodestarSword",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Lycanthrope",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Mage",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Medic",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Mermaid",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Outlaw",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Pirate",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Rogue",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Ronin",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Sage",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Shaman",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "SkeletonBow",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Sniper",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Spearmaster",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Spellsword",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Spider",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "SpiderQueen",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "SpyM",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "SwordCav",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Swordmaster",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Thief",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "TsukumogamiSword",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "TsukumogamiTome",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "VagrantAxe",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "VagrantSword2",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Veteran",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "WarMonk",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Warrior",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Acolyte_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Archdemon_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Archer_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "AxeCav_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Battlesage_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Berserker_2",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Boneguard_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "BoneguardBow_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "BowCav_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Brigand_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Cataphract_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Centaur_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Charger_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "CursedArmor_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "DarkFlier_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "DarkKnight1_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "DarkKnight2_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Demon_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Doll_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Dracorider_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Druid_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Dryad1_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Dryad2_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Exorcist_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Fencer_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Fighter_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Gendarme_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Hexblade_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "KappaMech_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "LanceCav_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Lancer_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "LodestarLance_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "LodestarSword_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Lycanthrope_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Mage_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Medic_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Mermaid_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Outlaw_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Pirate_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Rogue_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Ronin_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Sage_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Shaman_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "SkeletonBow_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Sniper_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Spearmaster_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Spellsword_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Spider_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "SpiderQueen_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "SpyM_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "SwordCav_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Swordmaster_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Thief_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "TsukumogamiSword_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "TsukumogamiTome_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "VagrantAxe_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "VagrantSword2_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Veteran_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "WarMonk_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Warrior_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "BowCav_2",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "TsukumogamiSword_2",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Gendarme_2",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "CursedArmor_2",
+        "subicon_dict": {}
     }
 ]

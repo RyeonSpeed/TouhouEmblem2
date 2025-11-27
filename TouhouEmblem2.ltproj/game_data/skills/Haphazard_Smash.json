@@ -2,7 +2,7 @@
     {
         "nid": "Haphazard_Smash",
         "name": "Haphazard Smash",
-        "desc": "<blue>[Combat Start]</blue> Per weapon WT above Con, +1 DMG",
+        "desc": "<blue>[Combat Start]</blue> Per weapon WT above Con, +1 DMG.",
         "icon_nid": "skillicons3",
         "icon_index": [
             0,

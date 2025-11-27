@@ -1172,11 +1172,11 @@
                 "variant": null,
                 "level": 8,
                 "klass": "Snag20",
-                "faction": "Youkai",
+                "faction": "Snag",
                 "starting_items": [],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Pursue",
+                "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [

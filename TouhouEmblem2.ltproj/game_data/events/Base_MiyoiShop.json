@@ -8,9 +8,8 @@
         "only_once": false,
         "priority": 20,
         "_source": [
-            "add_portrait;Miyoi;Left",
+            "add_portrait;Miyoi;Left;;Smile",
             "add_portrait;Reimu;Right",
-            "expression;Miyoi;Smile",
             "speak;Miyoi;Welcome to Geidontei! What sort of services do you require?",
             "choice;MiyoiServices;What do you need?;Mercenary Camp,Special Orders;backable",
             "if;'{v:MiyoiServices}' == 'Mercenary Camp'",

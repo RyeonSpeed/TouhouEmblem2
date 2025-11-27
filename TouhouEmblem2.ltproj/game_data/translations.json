@@ -77,7 +77,7 @@
     },
     {
         "nid": "animation_desc",
-        "text": "Show combat animations"
+        "text": "Show combat animations."
     },
     {
         "nid": "text_speed_desc",
@@ -281,7 +281,7 @@
     },
     {
         "nid": "shop_buy",
-        "text": "What can I get for you?"
+        "text": "Anything else?"
     },
     {
         "nid": "vendor_back",
@@ -409,7 +409,7 @@
     },
     {
         "nid": "Baby Mode_desc",
-        "text": "Coward. +3 PLAYER autolevels."
+        "text": "Coward. +2 PLAYER autolevels."
     },
     {
         "nid": "Normal_desc",
@@ -454,5 +454,9 @@
     {
         "nid": "Hard_desc",
         "text": "For FE players. +3 autolevels."
+    },
+    {
+        "nid": "Combat Arts_desc",
+        "text": "Use a special attack."
     }
 ]

@@ -258,5 +258,10 @@
         "Border of Life",
         true,
         false
+    ],
+    [
+        "Beware the Umbrella",
+        false,
+        false
     ]
 ]

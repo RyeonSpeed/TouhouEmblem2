@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "new_2",
+        "name": "new_1",
+        "desc": "",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "ability",
+                "Iron_Sword"
+            ],
+            [
+                "expression_growth_change",
+                []
+            ]
+        ]
+    }
+]

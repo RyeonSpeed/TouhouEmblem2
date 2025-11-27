@@ -12,10 +12,9 @@
             "add_portrait;{unit};Right;ExpressionList=Smile",
             "speak;{unit};ZA...WARUDO!",
             "remove_portrait;{unit}",
-            "sound;RefreshDance",
             "give_skill;{unit};Cooldown;;no_banner",
-            "reset;{unit}",
-            "else",
+            "give_skill;{unit};RefreshOnWait;no_banner",
+            "give_skill;{unit};SFXOnRefresh;no_banner",
             "end"
         ],
         "nid": "Global JackTheRipper"

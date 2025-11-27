@@ -11,11 +11,11 @@
         "components": [
             [
                 "dynamic_crit_accuracy",
-                "100 if len([x.nid for x in get_allies_within_distance(unit2.position) if has_skill(x, 'Staking_Your_Life_on_a_Prank')]) == 3 else 0"
+                "100 if len([x.nid for x in get_allies_within_distance(unit2.position) if has_skill(x, 'Staking_Your_Life_on_a_Prank')]) == 3 and (unit2.team not in ['player', 'other']) and (mode == 'attack') else 0"
             ],
             [
                 "dynamic_accuracy",
-                "100 if len([x.nid for x in get_allies_within_distance(unit2.position) if has_skill(x, 'Staking_Your_Life_on_a_Prank')]) == 3 else 0"
+                "100 if len([x.nid for x in get_allies_within_distance(unit2.position) if has_skill(x, 'Staking_Your_Life_on_a_Prank')]) == 3 and (unit2.team not in ['player', 'other']) and (mode == 'attack') else 0"
             ],
             [
                 "ability_indicator",

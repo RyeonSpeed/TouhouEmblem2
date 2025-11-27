@@ -3,11 +3,13 @@
         "name": "KusanagiKills",
         "trigger": null,
         "level_nid": null,
-        "condition": "unit2.get_hp() == 0",
+        "condition": "True",
         "commands": [],
         "only_once": false,
         "priority": 20,
         "_source": [
+            "if;unit2.klass not in ['Wall25', 'Wall100', 'Snag20']",
+            "",
             "if;unit2.get_hp() == 0 and {v:KusanagiKills} < 4",
             "inc_game_var;KusanagiKills;1",
             "elif;unit2.get_hp() == 0 and {v:KusanagiKills} == 4",
@@ -46,6 +48,8 @@
             "inc_game_var;KusanagiKills;1",
             "elif;unit2.get_hp() == 0 and {v:KusanagiKills} > 49",
             "inc_game_var;KusanagiKills;1",
+            "end",
+            "",
             "end"
         ],
         "nid": "Global KusanagiKills"

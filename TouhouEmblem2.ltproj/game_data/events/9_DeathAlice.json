@@ -3,12 +3,19 @@
         "name": "DeathAlice",
         "trigger": "unit_death",
         "level_nid": "9",
-        "condition": "unit.nid == \"Alice\"",
+        "condition": "unit.nid == \"Alice\" and v('AliceDead') == 0",
         "commands": [],
         "only_once": false,
-        "priority": 20,
+        "priority": 22,
         "_source": [
-            "lose_game"
+            "level_var;AliceDead;1",
+            "kill_unit;Alice",
+            "",
+            "if;{v:_turnwheel} == True",
+            "activate_turnwheel;t",
+            "else",
+            "lose_game",
+            "end"
         ],
         "nid": "9 DeathAlice"
     }

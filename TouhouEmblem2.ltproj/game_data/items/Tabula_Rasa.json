@@ -2,7 +2,7 @@
     {
         "nid": "Tabula_Rasa",
         "name": "Tabula Rasa",
-        "desc": "Clones the opponent's equipped magic weapon (e.g. Fire) and stores 1 use in the item. Once a magical weapon has been stolen 5 times, an infinite use copy of the weapon will be created in the Tabula Rasa.",
+        "desc": "Steals the opponent's equipped magic weapon (e.g. Fire). Once a magical weapon has been stolen 5 times, an copy of the weapon will be created in the Tabula Rasa with per chapter uses of (original weapon uses/5) rounded down.",
         "icon_nid": "tabularasa",
         "icon_index": [
             0,

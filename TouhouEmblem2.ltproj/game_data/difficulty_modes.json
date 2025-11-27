@@ -3,7 +3,7 @@
         "nid": "Normal",
         "name": "Normal",
         "color": "blue",
-        "permadeath_choice": "Player Choice",
+        "permadeath_choice": "Classic",
         "growths_choice": "Player Choice",
         "rng_choice": "True Hit",
         "player_bases": {

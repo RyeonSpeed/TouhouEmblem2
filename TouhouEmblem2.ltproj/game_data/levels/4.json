@@ -1367,7 +1367,7 @@
                 "variant": null,
                 "level": 1,
                 "klass": "Wall25",
-                "faction": "Youkai",
+                "faction": "Wall",
                 "starting_items": [],
                 "starting_skills": [],
                 "team": "enemy",

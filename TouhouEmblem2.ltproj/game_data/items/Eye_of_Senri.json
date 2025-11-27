@@ -3,10 +3,10 @@
         "nid": "Eye_of_Senri",
         "name": "Eye of Senri",
         "desc": "A mysterious crest from a parallel world. Use to make enemies more likely to target the user. Only one accessory can be equipped at a time.",
-        "icon_nid": "Neutral",
+        "icon_nid": "2025nov17",
         "icon_index": [
             0,
-            14
+            2
         ],
         "components": [
             [

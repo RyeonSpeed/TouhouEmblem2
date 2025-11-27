@@ -2,7 +2,7 @@
     {
         "nid": "Bloodlust",
         "name": "Bloodlust",
-        "desc": "<blue>[On Kill]</blue> If target was Bleeding, refreshes self.",
+        "desc": "<blue>[On Kill]</blue> If target was Bleeding, refreshes self (once per turn).",
         "icon_nid": "skillicons102724(1)",
         "icon_index": [
             1,
@@ -19,7 +19,7 @@
             ],
             [
                 "combat_condition",
-                "unit1.item == 'Gungnir'"
+                "item.nid == 'Gungnir'"
             ]
         ]
     }

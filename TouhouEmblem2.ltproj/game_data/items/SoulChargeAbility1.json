@@ -10,10 +10,6 @@
         ],
         "components": [
             [
-                "blast_aoe",
-                2
-            ],
-            [
                 "min_range",
                 3
             ],
@@ -24,6 +20,10 @@
             [
                 "event_after_combat_even_miss",
                 "Global SoulCharge1"
+            ],
+            [
+                "enemy_blast_aoe",
+                2
             ]
         ]
     }

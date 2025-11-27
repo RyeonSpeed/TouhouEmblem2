@@ -8,7 +8,11 @@
         "only_once": false,
         "priority": 19,
         "_source": [
-            "lose_game"
+            "if;{v:_turnwheel} == True",
+            "activate_turnwheel;t",
+            "else",
+            "lose_game",
+            "end"
         ],
         "nid": "0 DeathKasen"
     }

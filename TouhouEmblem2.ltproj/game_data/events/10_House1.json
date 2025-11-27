@@ -19,7 +19,11 @@
             "transition;Close",
             "change_background",
             "transition;Open",
-            "give_item;{unit};Mire",
+            "if;'DropToConvoy' in unit.tags",
+            "    give_item;convoy;Mire",
+            "else",
+            "    give_item;{unit};Mire",
+            "end",
             "give_bexp;30;no_banner",
             "show_layer;House1",
             "has_traded;{unit}"

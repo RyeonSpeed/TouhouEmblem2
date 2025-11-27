@@ -3,10 +3,10 @@
         "nid": "Curry",
         "name": "Curry",
         "desc": "Mildly spicy curry. Heals all HP, 50% chance to gain \"Too Hot\". Recurring.\n\"Too Hot\"\n- While active, unit gains Burning\n- When hitting enemy, [20 + SKL]% chance to inflict Burning",
-        "icon_nid": "the2icons",
+        "icon_nid": "2025nov17",
         "icon_index": [
-            5,
-            3
+            0,
+            1
         ],
         "components": [
             [

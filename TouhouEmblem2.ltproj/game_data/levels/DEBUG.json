@@ -8,12 +8,12 @@
         "music": {
             "player_phase": "Lunate Elf",
             "enemy_phase": "Lunate Elf",
-            "other_phase": null,
-            "enemy2_phase": null,
+            "other_phase": "A Popular Location",
+            "enemy2_phase": "A Popular Location",
             "player_battle": "Lunate Elf",
             "enemy_battle": "Lunate Elf",
-            "other_battle": null,
-            "enemy2_battle": null,
+            "other_battle": "A Popular Location",
+            "enemy2_battle": "A Popular Location",
             "boss_battle": "Dullahan Under the Willows"
         },
         "objective": {
@@ -28,34 +28,58 @@
         "tags": [],
         "units": [
             {
-                "nid": "109",
+                "nid": "113",
                 "variant": null,
-                "level": 1,
-                "klass": "Lodestar_L",
+                "level": 10,
+                "klass": "Thief",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Iron_Lance",
-                        true
+                        "Iron_Sword",
+                        false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Attack",
+                "ai": "Guard",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
                     26,
-                    19
+                    17
                 ],
                 "starting_traveler": null,
                 "generic": true
             },
             {
-                "nid": "110",
+                "nid": "114",
                 "variant": null,
-                "level": 1,
-                "klass": "Lancer",
+                "level": 10,
+                "klass": "Thief",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    23,
+                    17
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "115",
+                "variant": null,
+                "level": 5,
+                "klass": "Guard",
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -65,50 +89,12 @@
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Attack",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    25,
-                    18
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "111",
-                "variant": null,
-                "level": 1,
-                "klass": "Citizen",
-                "faction": "Youkai",
-                "starting_items": [],
-                "starting_skills": [],
-                "team": "enemy",
                 "ai": "Guard",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    26,
-                    20
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "112",
-                "variant": null,
-                "level": 1,
-                "klass": "Citizen",
-                "faction": "Youkai",
-                "starting_items": [],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Guard",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    25,
-                    19
+                    20,
+                    17
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -120,84 +106,46 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    17,
-                    21
+                    21,
+                    19
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
-                "nid": "105",
-                "variant": null,
-                "level": 25,
-                "klass": "Warden",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Punji",
-                        false
-                    ],
-                    [
-                        "Lucky_Clover",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "player",
-                "ai": "Attack",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    22,
-                    20
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "107",
-                "variant": null,
-                "level": 1,
-                "klass": "Miko_Y",
-                "faction": "Youkai",
-                "starting_items": [
-                    [
-                        "Fire",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Attack",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    25,
-                    21
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
                 "nid": "106",
                 "variant": null,
                 "level": 10,
-                "klass": "Miko_Y",
+                "klass": "Lancer",
                 "faction": "Youkai",
                 "starting_items": [
                     [
-                        "Iron_Bow",
+                        "Iron_Lance",
+                        false
+                    ],
+                    [
+                        "Full_Power",
+                        false
+                    ],
+                    [
+                        "Gungnir",
+                        false
+                    ],
+                    [
+                        "Debug_Crit",
                         false
                     ]
                 ],
-                "starting_skills": [],
-                "team": "enemy",
+                "starting_skills": [
+                    "new_2"
+                ],
+                "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    24,
-                    21
+                    18,
+                    19
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -210,19 +158,90 @@
                 "ai_group": "",
                 "starting_position": [
                     15,
-                    19
+                    15
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
-                "nid": "Kosuzu",
+                "nid": "Sunny",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    23,
+                    19,
+                    22
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Sakuya",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    20
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "101",
+                "variant": null,
+                "level": 1,
+                "klass": "Citizen",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    21,
+                    23
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Wall1",
+                "variant": null,
+                "level": 1,
+                "klass": "Wall25",
+                "faction": "Youkai",
+                "starting_items": [
+                    [
+                        "Iron_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": null,
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Star",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    17,
                     18
                 ],
                 "starting_traveler": null,

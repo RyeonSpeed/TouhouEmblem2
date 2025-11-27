@@ -16,6 +16,7 @@
             "add_portrait;Rumia;Left",
             "enable_fog_of_war;t",
             "set_fog_of_war;thracia;3;3;3",
+            "music;Dullahan Under the Willows",
             "speak;;Darkness Sign \"Demarcation\";center;150;hint;;red;;;1;;;;;Warp",
             "add_group;RumiaStage2;RumiaStage2;warp;closest",
             "autolevel_to;Rumia_Boss_1;5;fixed",
