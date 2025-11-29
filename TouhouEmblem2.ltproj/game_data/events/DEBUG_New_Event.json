@@ -16,9 +16,7 @@
             "trigger_script;Housekeeping3",
             "trigger_script;Housekeeping1",
             "trigger_script;Housekeeping2",
-            "game_var;SoulCharge;4",
-            "enable_fog_of_war;1",
-            "give_skill;114;Bleeding;no_banner"
+            "game_var;SoulCharge;4"
         ],
         "nid": "DEBUG New Event"
     }

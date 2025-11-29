@@ -46,7 +46,7 @@
                 "ai_group": "",
                 "starting_position": [
                     26,
-                    17
+                    18
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -177,14 +177,14 @@
                 "generic": false
             },
             {
-                "nid": "Sakuya",
+                "nid": "Yuyuko",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    14,
-                    20
+                    23,
+                    21
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -246,6 +246,19 @@
                 ],
                 "starting_traveler": null,
                 "generic": false
+            },
+            {
+                "nid": "Alice_Boss_2",
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    26,
+                    19
+                ],
+                "starting_traveler": null,
+                "generic": false
             }
         ],
         "regions": [
@@ -287,6 +300,11 @@
             }
         ],
         "unit_groups": [],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]

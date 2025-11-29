@@ -10,7 +10,7 @@
         "_source": [
             "remove_skill;{unit};RefreshOnWait;no_banner",
             "if;has_skill(unit1, 'SFXOnRefresh')",
-            "    sound;RefreshDance",
+            "    sound;RefreshDanceMap",
             "    remove_skill;{unit};SFXOnRefresh;no_banner",
             "end",
             "reset;{unit}"

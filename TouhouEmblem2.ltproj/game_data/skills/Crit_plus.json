@@ -2,7 +2,7 @@
     {
         "nid": "Crit_plus",
         "name": "Crit Plus",
-        "desc": "Gives +50% crit.",
+        "desc": "Gives +100% crit.",
         "icon_nid": "Skills",
         "icon_index": [
             10,
@@ -15,7 +15,7 @@
             ],
             [
                 "crit",
-                50
+                100
             ]
         ]
     }
