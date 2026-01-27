@@ -164,6 +164,14 @@ class CannotUseSpecificItem(SkillComponent):
     def available(self, unit, item) -> bool:
         return item.uid != self.value
         
+class CanOnlyUseUsables(SkillComponent):
+    nid = 'can_only_use_usables'
+    desc = "Fucked up component title smh"
+    tag = SkillTags.BASE
+
+    def available(self, unit, item) -> bool:
+        return item_system.can_use(unit, item)
+        
 class EventBeforeCombat(SkillComponent):
     nid = 'event_before_combat'
     desc = 'Calls event before any combat'
