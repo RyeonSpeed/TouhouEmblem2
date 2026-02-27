@@ -132,6 +132,53 @@
         "roam_ai": false
     },
     {
+        "nid": "Pursue_Green",
+        "behaviours": [
+            {
+                "action": "Attack",
+                "target": "Enemy",
+                "target_spec": [
+                    "Team",
+                    "player"
+                ],
+                "view_range": -4,
+                "invert_targeting": true,
+                "roam_speed": 100,
+                "desired_proximity": 0,
+                "condition": ""
+            },
+            {
+                "action": "Move_to",
+                "target": "Enemy",
+                "target_spec": [
+                    "Team",
+                    "player"
+                ],
+                "view_range": -4,
+                "invert_targeting": true,
+                "roam_speed": 100,
+                "desired_proximity": 0,
+                "condition": ""
+            },
+            {
+                "action": "None",
+                "target": "None",
+                "target_spec": [
+                    "ID",
+                    "Keine_NPC"
+                ],
+                "view_range": -3,
+                "invert_targeting": false,
+                "roam_speed": 100,
+                "desired_proximity": 0,
+                "condition": ""
+            }
+        ],
+        "priority": 20,
+        "offense_bias": 2.0,
+        "roam_ai": false
+    },
+    {
         "nid": "Pursue_2",
         "behaviours": [
             {

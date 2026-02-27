@@ -11,7 +11,7 @@
         "components": [
             [
                 "dynamic_damage",
-                "unit2.get_stat('RES') * 0.5 if item_funcs.is_magic(unit, item) else unit2.get_stat('DEF') * 0.25"
+                "unit2.get_stat('RES') * 0.25 if item_funcs.is_magic(unit, item) else unit2.get_stat('DEF') * 0.25"
             ]
         ]
     }

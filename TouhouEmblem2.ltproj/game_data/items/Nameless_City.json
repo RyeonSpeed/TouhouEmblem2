@@ -17,8 +17,10 @@
                 ]
             ],
             [
-                "multi_item_hides_unavailable",
-                null
+                "prf_unit",
+                [
+                    "Kosuzu"
+                ]
             ]
         ]
     }

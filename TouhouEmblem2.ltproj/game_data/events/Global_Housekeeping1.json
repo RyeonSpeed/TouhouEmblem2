@@ -47,7 +47,12 @@
             "game_var;difficultybonus;4",
             "elif;game.current_mode.nid == 'Tezukant'",
             "game_var;difficultybonus;5",
-            "end"
+            "end",
+            "",
+            "game_var;Reimu_Fatigue;u('Reimu').get_fatigue()",
+            "add_fatigue;Reimu;-{v:Reimu_Fatigue}",
+            "game_var;Marisa_Fatigue;u('Marisa').get_fatigue()",
+            "add_fatigue;Marisa;-{v:Marisa_Fatigue}"
         ],
         "nid": "Global Housekeeping1"
     }

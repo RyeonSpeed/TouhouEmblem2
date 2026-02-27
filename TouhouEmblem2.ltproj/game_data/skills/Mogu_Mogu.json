@@ -10,12 +10,20 @@
         ],
         "components": [
             [
+                "condition",
+                "not 'Mogu_Mogu_1' in [skill.nid for skill in unit.skills] "
+            ],
+            [
                 "item_override",
-                "Menu_After_Combat"
+                "Attack_After_Combat"
             ],
             [
                 "ability_indicator",
                 null
+            ],
+            [
+                "gain_skill_after_attack",
+                "Mogu_Mogu_1"
             ]
         ]
     }

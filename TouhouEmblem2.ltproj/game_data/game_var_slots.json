@@ -138,5 +138,13 @@
     {
         "nid": "Dark",
         "desc": null
+    },
+    {
+        "nid": "Reimu_Fatigue",
+        "desc": null
+    },
+    {
+        "nid": "Marisa_Fatigue",
+        "desc": null
     }
 ]

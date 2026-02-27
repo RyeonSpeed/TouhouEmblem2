@@ -20,7 +20,8 @@
             "remove_item;{unit};Curry",
             "add_group;SigmaRaven;SigmaRaven;fade",
             "autolevel_to;SigmaRaven;4;random",
-            "change_team;SigmaRaven;player"
+            "change_team;SigmaRaven;player",
+            "has_traded;{unit}"
         ],
         "nid": "4 SigmaRaven"
     }

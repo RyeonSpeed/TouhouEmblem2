@@ -3,7 +3,7 @@
         "name": "DefeatAlice",
         "trigger": "combat_end",
         "level_nid": "11",
-        "condition": "game.check_dead(\"Alice_Boss_3\") and v('AliceDead') == 0",
+        "condition": "game.check_dead(\"Alice_Boss_3\") and v('Alice98Dead') == 0",
         "commands": [],
         "only_once": true,
         "priority": 20,

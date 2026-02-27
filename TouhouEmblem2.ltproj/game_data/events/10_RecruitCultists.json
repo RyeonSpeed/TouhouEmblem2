@@ -9,8 +9,8 @@
         "priority": 20,
         "_source": [
             "change_ai;201;Heal",
-            "change_ai;202;Pursue",
-            "change_ai;203;Pursue",
+            "change_ai;202;Pursue_Green",
+            "change_ai;203;Pursue_Green",
             "remove_talk;Rin;201"
         ],
         "nid": "10 RecruitCultists"

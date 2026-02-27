@@ -1145,7 +1145,7 @@
             {
                 "nid": "Mokou_NPC",
                 "team": "other",
-                "ai": "Pursue",
+                "ai": "Pursue_Green",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": null,

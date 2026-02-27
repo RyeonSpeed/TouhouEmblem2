@@ -9,6 +9,7 @@
         "priority": 20,
         "_source": [
             "multi_add_portrait;Reimu;Right;{unit2};Left",
+            "speak;{unit2};Please enjoy yourself. Feel free to retire to the spare bedrooms whenever you see fit.",
             "multi_remove_portrait;Reimu;{unit2}",
             "give_item;Reimu;Scroll_Moonbow",
             "remove_talk;Reimu;Eirin_NPC",

@@ -45,8 +45,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    26,
-                    18
+                    20,
+                    16
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -69,8 +69,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    23,
-                    17
+                    20,
+                    15
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -106,8 +106,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    21,
-                    19
+                    18,
+                    18
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -164,14 +164,14 @@
                 "generic": false
             },
             {
-                "nid": "Sunny",
+                "nid": "Mystia",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    19,
-                    22
+                    17,
+                    17
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -235,14 +235,14 @@
                 "generic": true
             },
             {
-                "nid": "Star",
+                "nid": "Ringo",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    17,
-                    18
+                    18,
+                    17
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -254,8 +254,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    26,
-                    19
+                    23,
+                    16
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -300,11 +300,6 @@
             }
         ],
         "unit_groups": [],
-        "ai_groups": [
-            {
-                "nid": "",
-                "trigger_threshold": 1
-            }
-        ]
+        "ai_groups": []
     }
 ]
