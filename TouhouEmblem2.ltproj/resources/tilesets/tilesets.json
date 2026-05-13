@@ -280,5 +280,35 @@
         "nid": "bruh",
         "terrain_grid": {},
         "autotiles": {}
+    },
+    {
+        "nid": "Flasuban Castle V2_1",
+        "terrain_grid": {},
+        "autotiles": {}
+    },
+    {
+        "nid": "SNES - Secret of Mana - Forest of Seasons Spring",
+        "terrain_grid": {},
+        "autotiles": {}
+    },
+    {
+        "nid": "SNES - Secret of Mana - Northtown Ruins Exterior (Sky Modified)",
+        "terrain_grid": {},
+        "autotiles": {}
+    },
+    {
+        "nid": "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+        "terrain_grid": {},
+        "autotiles": {}
+    },
+    {
+        "nid": "Zoramine_Snow_Fields_Water_1",
+        "terrain_grid": {},
+        "autotiles": {}
+    },
+    {
+        "nid": "Scarlet_Mana",
+        "terrain_grid": {},
+        "autotiles": {}
     }
 ]

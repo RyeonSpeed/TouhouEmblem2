@@ -3,7 +3,7 @@
         "nid": "Miki",
         "name": "Miki",
         "desc": "A gallavanting human who is backed by immense faith in an Arthurian legends.",
-        "variant": null,
+        "variant": "",
         "level": 1,
         "klass": "Lance_Rider",
         "tags": [

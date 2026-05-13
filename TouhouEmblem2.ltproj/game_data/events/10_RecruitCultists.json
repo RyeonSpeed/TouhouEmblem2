@@ -8,6 +8,12 @@
         "only_once": false,
         "priority": 20,
         "_source": [
+            "multi_add_portrait;zun_cultist;CenterLeft;Rin;CenterRight",
+            "music;_MO-NA-D-1",
+            "",
+            "speak;Rin;...",
+            "speak;zun_cultist;...",
+            "",
             "change_ai;201;Heal",
             "change_ai;202;Pursue_Green",
             "change_ai;203;Pursue_Green",

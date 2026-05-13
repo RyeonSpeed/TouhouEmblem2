@@ -1,0 +1,5778 @@
+[
+    {
+        "nid": "Scarlet Devil Mansion: Foyer",
+        "size": [
+            21,
+            29
+        ],
+        "autotile_fps": 29,
+        "layers": [
+            {
+                "nid": "base",
+                "visible": true,
+                "foreground": false,
+                "terrain_grid": {},
+                "sprite_grid": {
+                    "7,4": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            10
+                        ]
+                    ],
+                    "13,4": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "7,2": [
+                        "Zoramine_Snow_Fields_Water_1",
+                        [
+                            9,
+                            22
+                        ]
+                    ],
+                    "7,1": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            12
+                        ]
+                    ],
+                    "7,0": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            10
+                        ]
+                    ],
+                    "13,3": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "13,2": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "13,1": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "13,0": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            10
+                        ]
+                    ],
+                    "8,0": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "9,0": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "10,0": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "11,0": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "12,0": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "7,5": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "13,5": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "8,5": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            10
+                        ]
+                    ],
+                    "12,5": [
+                        "Scarlet_Mana",
+                        [
+                            21,
+                            10
+                        ]
+                    ],
+                    "8,1": [
+                        "Flasuban Castle V2_1",
+                        [
+                            3,
+                            16
+                        ]
+                    ],
+                    "7,6": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "8,6": [
+                        "Scarlet_Mana",
+                        [
+                            24,
+                            11
+                        ]
+                    ],
+                    "12,6": [
+                        "Scarlet_Mana",
+                        [
+                            25,
+                            11
+                        ]
+                    ],
+                    "13,6": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "12,1": [
+                        "Flasuban Castle V2_1",
+                        [
+                            5,
+                            16
+                        ]
+                    ],
+                    "0,0": [
+                        "Flasuban Castle V2_1",
+                        [
+                            3,
+                            10
+                        ]
+                    ],
+                    "1,0": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "2,0": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "3,0": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "4,0": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "5,0": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "6,0": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "0,1": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "0,2": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "0,3": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "0,4": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "0,5": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "9,10": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "10,10": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "11,10": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "3,5": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "4,5": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "5,5": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "6,5": [
+                        "Scarlet_Mana",
+                        [
+                            21,
+                            10
+                        ]
+                    ],
+                    "0,6": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "3,6": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            10
+                        ]
+                    ],
+                    "4,6": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            10
+                        ]
+                    ],
+                    "5,6": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            10
+                        ]
+                    ],
+                    "6,6": [
+                        "Scarlet_Mana",
+                        [
+                            25,
+                            11
+                        ]
+                    ],
+                    "1,1": [
+                        "Flasuban Castle V2_1",
+                        [
+                            3,
+                            16
+                        ]
+                    ],
+                    "6,1": [
+                        "Flasuban Castle V2_1",
+                        [
+                            5,
+                            16
+                        ]
+                    ],
+                    "2,1": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            16
+                        ]
+                    ],
+                    "3,1": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            16
+                        ]
+                    ],
+                    "4,1": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            16
+                        ]
+                    ],
+                    "5,1": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            16
+                        ]
+                    ],
+                    "9,11": [
+                        "Flasuban Castle V2_1",
+                        [
+                            9,
+                            14
+                        ]
+                    ],
+                    "10,11": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            14
+                        ]
+                    ],
+                    "11,11": [
+                        "Flasuban Castle V2_1",
+                        [
+                            11,
+                            14
+                        ]
+                    ],
+                    "9,1": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            16
+                        ]
+                    ],
+                    "10,1": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            16
+                        ]
+                    ],
+                    "11,1": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            16
+                        ]
+                    ],
+                    "8,3": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            10
+                        ]
+                    ],
+                    "9,6": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            10
+                        ]
+                    ],
+                    "10,6": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            10
+                        ]
+                    ],
+                    "11,6": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            10
+                        ]
+                    ],
+                    "11,7": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "10,7": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "9,7": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "8,4": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            10
+                        ]
+                    ],
+                    "12,4": [
+                        "Scarlet_Mana",
+                        [
+                            21,
+                            10
+                        ]
+                    ],
+                    "8,2": [
+                        "Scarlet_Mana",
+                        [
+                            24,
+                            10
+                        ]
+                    ],
+                    "12,2": [
+                        "Scarlet_Mana",
+                        [
+                            25,
+                            10
+                        ]
+                    ],
+                    "9,4": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "10,4": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "11,4": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "9,2": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            10
+                        ]
+                    ],
+                    "10,2": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            10
+                        ]
+                    ],
+                    "11,2": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            10
+                        ]
+                    ],
+                    "12,3": [
+                        "Scarlet_Mana",
+                        [
+                            21,
+                            10
+                        ]
+                    ],
+                    "9,3": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "10,3": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "11,3": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "9,5": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "10,5": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "11,5": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "6,2": [
+                        "Scarlet_Mana",
+                        [
+                            25,
+                            10
+                        ]
+                    ],
+                    "6,3": [
+                        "Scarlet_Mana",
+                        [
+                            21,
+                            10
+                        ]
+                    ],
+                    "6,4": [
+                        "Scarlet_Mana",
+                        [
+                            21,
+                            10
+                        ]
+                    ],
+                    "5,2": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            10
+                        ]
+                    ],
+                    "5,3": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "5,4": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "4,2": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            10
+                        ]
+                    ],
+                    "4,3": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "4,4": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "3,2": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            10
+                        ]
+                    ],
+                    "3,3": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "3,4": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "2,2": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            10
+                        ]
+                    ],
+                    "2,3": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "2,4": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "1,2": [
+                        "Scarlet_Mana",
+                        [
+                            24,
+                            10
+                        ]
+                    ],
+                    "1,3": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            10
+                        ]
+                    ],
+                    "1,4": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            10
+                        ]
+                    ],
+                    "1,5": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            10
+                        ]
+                    ],
+                    "1,6": [
+                        "Scarlet_Mana",
+                        [
+                            24,
+                            11
+                        ]
+                    ],
+                    "7,7": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            12
+                        ]
+                    ],
+                    "8,7": [
+                        "Flasuban Castle V2_1",
+                        [
+                            15,
+                            12
+                        ]
+                    ],
+                    "7,8": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            16
+                        ]
+                    ],
+                    "8,8": [
+                        "Flasuban Castle V2_1",
+                        [
+                            5,
+                            16
+                        ]
+                    ],
+                    "9,8": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "10,8": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "11,8": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "12,8": [
+                        "Flasuban Castle V2_1",
+                        [
+                            3,
+                            16
+                        ]
+                    ],
+                    "13,8": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            16
+                        ]
+                    ],
+                    "12,7": [
+                        "Flasuban Castle V2_1",
+                        [
+                            12,
+                            12
+                        ]
+                    ],
+                    "13,7": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            12
+                        ]
+                    ],
+                    "7,9": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "8,9": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "9,9": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "10,9": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "11,9": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "12,9": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "13,9": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "6,7": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "6,8": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            16
+                        ]
+                    ],
+                    "6,9": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "5,7": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "5,8": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            16
+                        ]
+                    ],
+                    "5,9": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "4,7": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "4,8": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            16
+                        ]
+                    ],
+                    "4,9": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "3,7": [
+                        "Flasuban Castle V2_1",
+                        [
+                            12,
+                            12
+                        ]
+                    ],
+                    "3,8": [
+                        "Flasuban Castle V2_1",
+                        [
+                            3,
+                            16
+                        ]
+                    ],
+                    "3,9": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            11
+                        ]
+                    ],
+                    "2,7": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "2,8": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "2,9": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "1,7": [
+                        "Flasuban Castle V2_1",
+                        [
+                            15,
+                            12
+                        ]
+                    ],
+                    "1,8": [
+                        "Flasuban Castle V2_1",
+                        [
+                            5,
+                            16
+                        ]
+                    ],
+                    "1,9": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "0,7": [
+                        "Flasuban Castle V2_1",
+                        [
+                            3,
+                            12
+                        ]
+                    ],
+                    "0,8": [
+                        "Flasuban Castle V2_1",
+                        [
+                            3,
+                            16
+                        ]
+                    ],
+                    "0,9": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            11
+                        ]
+                    ],
+                    "14,7": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "14,8": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            16
+                        ]
+                    ],
+                    "14,9": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "15,7": [
+                        "Flasuban Castle V2_1",
+                        [
+                            15,
+                            12
+                        ]
+                    ],
+                    "15,8": [
+                        "Flasuban Castle V2_1",
+                        [
+                            5,
+                            16
+                        ]
+                    ],
+                    "15,9": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "16,9": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "17,7": [
+                        "Flasuban Castle V2_1",
+                        [
+                            12,
+                            12
+                        ]
+                    ],
+                    "17,8": [
+                        "Flasuban Castle V2_1",
+                        [
+                            3,
+                            16
+                        ]
+                    ],
+                    "17,9": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "18,7": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "18,8": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            16
+                        ]
+                    ],
+                    "18,9": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "19,7": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "19,8": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            16
+                        ]
+                    ],
+                    "19,9": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "20,7": [
+                        "Flasuban Castle V2_1",
+                        [
+                            9,
+                            12
+                        ]
+                    ],
+                    "20,8": [
+                        "Flasuban Castle V2_1",
+                        [
+                            5,
+                            16
+                        ]
+                    ],
+                    "20,9": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "2,5": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "2,6": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            10
+                        ]
+                    ],
+                    "9,13": [
+                        "Flasuban Castle V2_1",
+                        [
+                            9,
+                            14
+                        ]
+                    ],
+                    "10,13": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            14
+                        ]
+                    ],
+                    "11,13": [
+                        "Flasuban Castle V2_1",
+                        [
+                            11,
+                            14
+                        ]
+                    ],
+                    "8,10": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "7,10": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "6,10": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "5,10": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "4,10": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "3,10": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "2,10": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "1,10": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "0,10": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "12,10": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "13,10": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "14,10": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "15,10": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "16,10": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "17,10": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "18,10": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "19,10": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "20,10": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "7,3": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "4,11": [
+                        "Flasuban Castle V2_1",
+                        [
+                            3,
+                            10
+                        ]
+                    ],
+                    "5,11": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "6,11": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "8,11": [
+                        "Flasuban Castle V2_1",
+                        [
+                            15,
+                            12
+                        ]
+                    ],
+                    "7,11": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "12,11": [
+                        "Flasuban Castle V2_1",
+                        [
+                            12,
+                            12
+                        ]
+                    ],
+                    "13,11": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "14,11": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "15,11": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "16,11": [
+                        "Flasuban Castle V2_1",
+                        [
+                            9,
+                            10
+                        ]
+                    ],
+                    "4,12": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "4,13": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "4,14": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "4,15": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "4,16": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "4,17": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "4,18": [
+                        "Flasuban Castle V2_1",
+                        [
+                            9,
+                            12
+                        ]
+                    ],
+                    "16,12": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "16,13": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "16,14": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "16,15": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "16,16": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "16,17": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "16,18": [
+                        "Flasuban Castle V2_1",
+                        [
+                            3,
+                            11
+                        ]
+                    ],
+                    "3,18": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "2,18": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "1,18": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "0,18": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "17,18": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "18,18": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "19,18": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "20,18": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "9,12": [
+                        "Flasuban Castle V2_1",
+                        [
+                            9,
+                            14
+                        ]
+                    ],
+                    "10,12": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            14
+                        ]
+                    ],
+                    "11,12": [
+                        "Flasuban Castle V2_1",
+                        [
+                            11,
+                            14
+                        ]
+                    ],
+                    "5,13": [
+                        "Flasuban Castle V2_1",
+                        [
+                            13,
+                            17
+                        ]
+                    ],
+                    "8,13": [
+                        "Flasuban Castle V2_1",
+                        [
+                            16,
+                            17
+                        ]
+                    ],
+                    "6,13": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            17
+                        ]
+                    ],
+                    "7,13": [
+                        "Flasuban Castle V2_1",
+                        [
+                            15,
+                            17
+                        ]
+                    ],
+                    "6,12": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            16
+                        ]
+                    ],
+                    "7,12": [
+                        "Flasuban Castle V2_1",
+                        [
+                            15,
+                            16
+                        ]
+                    ],
+                    "8,12": [
+                        "Flasuban Castle V2_1",
+                        [
+                            16,
+                            16
+                        ]
+                    ],
+                    "5,12": [
+                        "Flasuban Castle V2_1",
+                        [
+                            13,
+                            16
+                        ]
+                    ],
+                    "12,12": [
+                        "Flasuban Castle V2_1",
+                        [
+                            13,
+                            16
+                        ]
+                    ],
+                    "12,13": [
+                        "Flasuban Castle V2_1",
+                        [
+                            13,
+                            17
+                        ]
+                    ],
+                    "13,12": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            16
+                        ]
+                    ],
+                    "13,13": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            17
+                        ]
+                    ],
+                    "14,12": [
+                        "Flasuban Castle V2_1",
+                        [
+                            15,
+                            16
+                        ]
+                    ],
+                    "14,13": [
+                        "Flasuban Castle V2_1",
+                        [
+                            15,
+                            17
+                        ]
+                    ],
+                    "15,12": [
+                        "Flasuban Castle V2_1",
+                        [
+                            16,
+                            16
+                        ]
+                    ],
+                    "15,13": [
+                        "Flasuban Castle V2_1",
+                        [
+                            16,
+                            17
+                        ]
+                    ],
+                    "4,19": [
+                        "Flasuban Castle V2_1",
+                        [
+                            5,
+                            16
+                        ]
+                    ],
+                    "4,20": [
+                        "Flasuban Castle V2_1",
+                        [
+                            5,
+                            17
+                        ]
+                    ],
+                    "0,19": [
+                        "Flasuban Castle V2_1",
+                        [
+                            3,
+                            16
+                        ]
+                    ],
+                    "0,20": [
+                        "Flasuban Castle V2_1",
+                        [
+                            3,
+                            17
+                        ]
+                    ],
+                    "1,19": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            16
+                        ]
+                    ],
+                    "1,20": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            17
+                        ]
+                    ],
+                    "2,19": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            16
+                        ]
+                    ],
+                    "2,20": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            17
+                        ]
+                    ],
+                    "3,19": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            16
+                        ]
+                    ],
+                    "3,20": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            17
+                        ]
+                    ],
+                    "17,19": [
+                        "Flasuban Castle V2_1",
+                        [
+                            3,
+                            16
+                        ]
+                    ],
+                    "17,20": [
+                        "Flasuban Castle V2_1",
+                        [
+                            3,
+                            17
+                        ]
+                    ],
+                    "18,19": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            16
+                        ]
+                    ],
+                    "18,20": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            17
+                        ]
+                    ],
+                    "19,19": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            16
+                        ]
+                    ],
+                    "19,20": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            17
+                        ]
+                    ],
+                    "16,19": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "16,20": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "20,19": [
+                        "Flasuban Castle V2_1",
+                        [
+                            5,
+                            16
+                        ]
+                    ],
+                    "20,20": [
+                        "Flasuban Castle V2_1",
+                        [
+                            5,
+                            17
+                        ]
+                    ],
+                    "0,11": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "1,11": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "2,11": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "3,11": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "0,12": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "1,12": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "2,12": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "3,12": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "0,13": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "1,13": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "2,13": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "3,13": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "0,14": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "1,14": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "2,14": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "3,14": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "0,15": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "1,15": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "2,15": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "3,15": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "0,16": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "1,16": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "2,16": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "3,16": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "0,17": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "1,17": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "2,17": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "3,17": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "17,11": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "18,11": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "19,11": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "20,11": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "17,12": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "18,12": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "19,12": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "20,12": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "17,13": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "18,13": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "19,13": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "20,13": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "17,14": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "18,14": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "19,14": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "20,14": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "17,15": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "18,15": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "19,15": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "20,15": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "17,16": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "18,16": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "19,16": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "20,16": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "17,17": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "18,17": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "19,17": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "20,17": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "5,14": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "6,14": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "7,14": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "8,14": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "5,15": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "6,15": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "7,15": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "8,15": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "5,16": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "6,16": [
+                        "Scarlet_Mana",
+                        [
+                            24,
+                            10
+                        ]
+                    ],
+                    "7,16": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            10
+                        ]
+                    ],
+                    "8,16": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            10
+                        ]
+                    ],
+                    "9,16": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            10
+                        ]
+                    ],
+                    "6,17": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            10
+                        ]
+                    ],
+                    "7,17": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "8,17": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "9,17": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "6,18": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            10
+                        ]
+                    ],
+                    "7,18": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "8,18": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "9,18": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "5,18": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "5,17": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "5,19": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "6,19": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            10
+                        ]
+                    ],
+                    "7,19": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "8,19": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "9,19": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "6,20": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            10
+                        ]
+                    ],
+                    "7,20": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "8,20": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "9,20": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "5,20": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "5,21": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "6,21": [
+                        "Scarlet_Mana",
+                        [
+                            24,
+                            11
+                        ]
+                    ],
+                    "7,21": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            10
+                        ]
+                    ],
+                    "8,21": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            10
+                        ]
+                    ],
+                    "9,21": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            10
+                        ]
+                    ],
+                    "6,22": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "7,22": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "8,22": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "9,22": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "5,22": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "4,22": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "4,21": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "3,21": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "2,21": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "1,21": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "0,21": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "0,22": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "1,22": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "2,22": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "3,22": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "0,23": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "1,23": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "2,23": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "3,23": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "0,24": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "1,24": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "2,24": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "3,24": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "0,25": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "1,25": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "2,25": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "3,25": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "0,26": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "1,26": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "2,26": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "3,26": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "0,27": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "1,27": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "2,27": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "3,27": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "4,27": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "5,27": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "6,27": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "4,26": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "5,26": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "6,26": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "7,26": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "4,25": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "5,25": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "6,25": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "7,25": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "4,24": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "5,24": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "6,24": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "7,24": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "4,23": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "5,23": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "6,23": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "7,23": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "8,23": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "9,23": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "8,24": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "9,24": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "8,25": [
+                        "Scarlet_Mana",
+                        [
+                            24,
+                            10
+                        ]
+                    ],
+                    "9,25": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            10
+                        ]
+                    ],
+                    "8,26": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            10
+                        ]
+                    ],
+                    "7,27": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "8,27": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            10
+                        ]
+                    ],
+                    "9,27": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "10,27": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "11,27": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "12,27": [
+                        "Scarlet_Mana",
+                        [
+                            21,
+                            10
+                        ]
+                    ],
+                    "9,26": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "10,26": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "11,26": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "12,26": [
+                        "Scarlet_Mana",
+                        [
+                            21,
+                            10
+                        ]
+                    ],
+                    "10,25": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            10
+                        ]
+                    ],
+                    "11,25": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            10
+                        ]
+                    ],
+                    "12,25": [
+                        "Scarlet_Mana",
+                        [
+                            25,
+                            10
+                        ]
+                    ],
+                    "10,24": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "11,24": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "12,24": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "13,24": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "13,25": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "14,25": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "15,25": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "16,25": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "13,26": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "14,26": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "15,26": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "16,26": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "17,26": [
+                        "Flasuban Castle V2_1",
+                        [
+                            22,
+                            30
+                        ]
+                    ],
+                    "18,26": [
+                        "Flasuban Castle V2_1",
+                        [
+                            23,
+                            30
+                        ]
+                    ],
+                    "14,27": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "15,27": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "16,27": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "17,27": [
+                        "Flasuban Castle V2_1",
+                        [
+                            22,
+                            31
+                        ]
+                    ],
+                    "13,27": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "17,25": [
+                        "Flasuban Castle V2_1",
+                        [
+                            22,
+                            30
+                        ]
+                    ],
+                    "18,25": [
+                        "Flasuban Castle V2_1",
+                        [
+                            23,
+                            30
+                        ]
+                    ],
+                    "15,24": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "16,24": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "17,24": [
+                        "Flasuban Castle V2_1",
+                        [
+                            22,
+                            30
+                        ]
+                    ],
+                    "18,24": [
+                        "Flasuban Castle V2_1",
+                        [
+                            23,
+                            30
+                        ]
+                    ],
+                    "19,24": [
+                        "Flasuban Castle V2_1",
+                        [
+                            23,
+                            30
+                        ]
+                    ],
+                    "19,25": [
+                        "Flasuban Castle V2_1",
+                        [
+                            23,
+                            30
+                        ]
+                    ],
+                    "19,26": [
+                        "Flasuban Castle V2_1",
+                        [
+                            23,
+                            30
+                        ]
+                    ],
+                    "14,24": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "14,23": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "15,23": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "16,23": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "17,23": [
+                        "Flasuban Castle V2_1",
+                        [
+                            22,
+                            30
+                        ]
+                    ],
+                    "20,26": [
+                        "Flasuban Castle V2_1",
+                        [
+                            24,
+                            30
+                        ]
+                    ],
+                    "20,25": [
+                        "Flasuban Castle V2_1",
+                        [
+                            24,
+                            30
+                        ]
+                    ],
+                    "20,24": [
+                        "Flasuban Castle V2_1",
+                        [
+                            24,
+                            30
+                        ]
+                    ],
+                    "18,27": [
+                        "Flasuban Castle V2_1",
+                        [
+                            23,
+                            31
+                        ]
+                    ],
+                    "19,27": [
+                        "Flasuban Castle V2_1",
+                        [
+                            23,
+                            31
+                        ]
+                    ],
+                    "20,27": [
+                        "Flasuban Castle V2_1",
+                        [
+                            24,
+                            31
+                        ]
+                    ],
+                    "18,23": [
+                        "Flasuban Castle V2_1",
+                        [
+                            23,
+                            30
+                        ]
+                    ],
+                    "19,23": [
+                        "Flasuban Castle V2_1",
+                        [
+                            23,
+                            30
+                        ]
+                    ],
+                    "20,23": [
+                        "Flasuban Castle V2_1",
+                        [
+                            24,
+                            30
+                        ]
+                    ],
+                    "18,22": [
+                        "Flasuban Castle V2_1",
+                        [
+                            23,
+                            30
+                        ]
+                    ],
+                    "19,22": [
+                        "Flasuban Castle V2_1",
+                        [
+                            23,
+                            30
+                        ]
+                    ],
+                    "20,22": [
+                        "Flasuban Castle V2_1",
+                        [
+                            24,
+                            30
+                        ]
+                    ],
+                    "18,21": [
+                        "Flasuban Castle V2_1",
+                        [
+                            23,
+                            29
+                        ]
+                    ],
+                    "19,21": [
+                        "Flasuban Castle V2_1",
+                        [
+                            23,
+                            29
+                        ]
+                    ],
+                    "20,21": [
+                        "Flasuban Castle V2_1",
+                        [
+                            24,
+                            29
+                        ]
+                    ],
+                    "17,21": [
+                        "Flasuban Castle V2_1",
+                        [
+                            22,
+                            29
+                        ]
+                    ],
+                    "16,21": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            12
+                        ]
+                    ],
+                    "15,21": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "14,21": [
+                        "Scarlet_Mana",
+                        [
+                            25,
+                            11
+                        ]
+                    ],
+                    "14,22": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "15,22": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "16,22": [
+                        "Flasuban Castle V2_1",
+                        [
+                            15,
+                            15
+                        ]
+                    ],
+                    "17,22": [
+                        "Flasuban Castle V2_1",
+                        [
+                            22,
+                            30
+                        ]
+                    ],
+                    "11,23": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "12,23": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "13,23": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "10,23": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "10,22": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "11,22": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "12,22": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "13,22": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "10,21": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            10
+                        ]
+                    ],
+                    "11,21": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            10
+                        ]
+                    ],
+                    "12,21": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            10
+                        ]
+                    ],
+                    "13,21": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            10
+                        ]
+                    ],
+                    "10,20": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "11,20": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "12,20": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "13,20": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "10,19": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "11,19": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "12,19": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "13,19": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "10,18": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "11,18": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "12,18": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "13,18": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "10,17": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "11,17": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "12,17": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "13,17": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "10,16": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            10
+                        ]
+                    ],
+                    "11,16": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            10
+                        ]
+                    ],
+                    "12,16": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            10
+                        ]
+                    ],
+                    "13,16": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            10
+                        ]
+                    ],
+                    "10,15": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "11,15": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "12,15": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "13,15": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "10,14": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "11,14": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "12,14": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "13,14": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "9,14": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "9,15": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "14,16": [
+                        "Scarlet_Mana",
+                        [
+                            25,
+                            10
+                        ]
+                    ],
+                    "15,16": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "14,15": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "15,15": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "14,14": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "15,14": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "14,17": [
+                        "Scarlet_Mana",
+                        [
+                            21,
+                            10
+                        ]
+                    ],
+                    "15,17": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "14,18": [
+                        "Scarlet_Mana",
+                        [
+                            21,
+                            10
+                        ]
+                    ],
+                    "15,18": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "14,19": [
+                        "Scarlet_Mana",
+                        [
+                            21,
+                            10
+                        ]
+                    ],
+                    "15,19": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "14,20": [
+                        "Scarlet_Mana",
+                        [
+                            21,
+                            10
+                        ]
+                    ],
+                    "15,20": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "0,28": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "1,28": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "2,28": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "3,28": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "4,28": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "5,28": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "6,28": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "7,28": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "8,28": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            10
+                        ]
+                    ],
+                    "9,28": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "10,28": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "11,28": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "12,28": [
+                        "Scarlet_Mana",
+                        [
+                            21,
+                            10
+                        ]
+                    ],
+                    "13,28": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "14,28": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "15,28": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "16,28": [
+                        "Flasuban Castle V2_1",
+                        [
+                            3,
+                            12
+                        ]
+                    ],
+                    "17,28": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "18,28": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "19,28": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "20,28": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "14,6": [
+                        "Scarlet_Mana",
+                        [
+                            24,
+                            11
+                        ]
+                    ],
+                    "14,5": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            10
+                        ]
+                    ],
+                    "14,4": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            10
+                        ]
+                    ],
+                    "14,3": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            10
+                        ]
+                    ],
+                    "14,2": [
+                        "Scarlet_Mana",
+                        [
+                            24,
+                            10
+                        ]
+                    ],
+                    "20,6": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "20,5": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "20,4": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "20,3": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "20,2": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "20,1": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "20,0": [
+                        "Flasuban Castle V2_1",
+                        [
+                            9,
+                            10
+                        ]
+                    ],
+                    "14,0": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "15,0": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "16,0": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "17,0": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "18,0": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "19,0": [
+                        "Flasuban Castle V2_1",
+                        [
+                            14,
+                            12
+                        ]
+                    ],
+                    "14,1": [
+                        "Flasuban Castle V2_1",
+                        [
+                            3,
+                            16
+                        ]
+                    ],
+                    "15,1": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            16
+                        ]
+                    ],
+                    "16,1": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            16
+                        ]
+                    ],
+                    "17,1": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            16
+                        ]
+                    ],
+                    "18,1": [
+                        "Flasuban Castle V2_1",
+                        [
+                            4,
+                            16
+                        ]
+                    ],
+                    "19,1": [
+                        "Flasuban Castle V2_1",
+                        [
+                            5,
+                            16
+                        ]
+                    ],
+                    "15,2": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            10
+                        ]
+                    ],
+                    "16,2": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            10
+                        ]
+                    ],
+                    "15,3": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "15,4": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "15,5": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "16,3": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "16,4": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "16,5": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "17,3": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "17,4": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "17,5": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "18,3": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "18,4": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "18,5": [
+                        "Scarlet_Mana",
+                        [
+                            20,
+                            10
+                        ]
+                    ],
+                    "19,3": [
+                        "Scarlet_Mana",
+                        [
+                            21,
+                            10
+                        ]
+                    ],
+                    "19,4": [
+                        "Scarlet_Mana",
+                        [
+                            21,
+                            10
+                        ]
+                    ],
+                    "19,5": [
+                        "Scarlet_Mana",
+                        [
+                            21,
+                            10
+                        ]
+                    ],
+                    "17,2": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            10
+                        ]
+                    ],
+                    "18,2": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            10
+                        ]
+                    ],
+                    "19,2": [
+                        "Scarlet_Mana",
+                        [
+                            25,
+                            10
+                        ]
+                    ],
+                    "19,6": [
+                        "Scarlet_Mana",
+                        [
+                            25,
+                            11
+                        ]
+                    ],
+                    "15,6": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            10
+                        ]
+                    ],
+                    "16,6": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            10
+                        ]
+                    ],
+                    "17,6": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            10
+                        ]
+                    ],
+                    "18,6": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            10
+                        ]
+                    ],
+                    "16,7": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "16,8": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ]
+                }
+            },
+            {
+                "nid": "Furniture",
+                "visible": true,
+                "foreground": false,
+                "terrain_grid": {},
+                "sprite_grid": {
+                    "1,1": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            25,
+                            16
+                        ]
+                    ],
+                    "7,7": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            27,
+                            17
+                        ]
+                    ],
+                    "8,7": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            28,
+                            17
+                        ]
+                    ],
+                    "12,7": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            27,
+                            17
+                        ]
+                    ],
+                    "13,7": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            28,
+                            17
+                        ]
+                    ],
+                    "9,12": [
+                        "Zoramine_Snow_Fields_Water_1",
+                        [
+                            4,
+                            14
+                        ]
+                    ],
+                    "10,12": [
+                        "Zoramine_Snow_Fields_Water_1",
+                        [
+                            6,
+                            14
+                        ]
+                    ],
+                    "11,12": [
+                        "Zoramine_Snow_Fields_Water_1",
+                        [
+                            5,
+                            14
+                        ]
+                    ],
+                    "8,8": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            28,
+                            18
+                        ]
+                    ],
+                    "7,8": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            27,
+                            18
+                        ]
+                    ],
+                    "13,8": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            28,
+                            18
+                        ]
+                    ],
+                    "12,8": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            27,
+                            18
+                        ]
+                    ],
+                    "1,4": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            25,
+                            19
+                        ]
+                    ],
+                    "2,2": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            26,
+                            17
+                        ]
+                    ],
+                    "2,1": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            26,
+                            16
+                        ]
+                    ],
+                    "1,3": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            25,
+                            18
+                        ]
+                    ],
+                    "2,4": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            26,
+                            19
+                        ]
+                    ],
+                    "1,2": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            25,
+                            17
+                        ]
+                    ],
+                    "2,3": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            26,
+                            18
+                        ]
+                    ],
+                    "3,1": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            21,
+                            2
+                        ]
+                    ],
+                    "3,2": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            21,
+                            3
+                        ]
+                    ],
+                    "8,13": [
+                        "Scarlet_Mana",
+                        [
+                            4,
+                            18
+                        ]
+                    ],
+                    "8,14": [
+                        "Scarlet_Mana",
+                        [
+                            4,
+                            19
+                        ]
+                    ],
+                    "12,13": [
+                        "Scarlet_Mana",
+                        [
+                            4,
+                            18
+                        ]
+                    ],
+                    "12,14": [
+                        "Scarlet_Mana",
+                        [
+                            4,
+                            19
+                        ]
+                    ],
+                    "6,12": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            1
+                        ]
+                    ],
+                    "7,12": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            1
+                        ]
+                    ],
+                    "14,12": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            1
+                        ]
+                    ],
+                    "1,20": [
+                        "Scarlet_Mana",
+                        [
+                            1,
+                            18
+                        ]
+                    ],
+                    "2,21": [
+                        "Scarlet_Mana",
+                        [
+                            2,
+                            19
+                        ]
+                    ],
+                    "3,21": [
+                        "Scarlet_Mana",
+                        [
+                            3,
+                            19
+                        ]
+                    ],
+                    "2,20": [
+                        "Scarlet_Mana",
+                        [
+                            2,
+                            18
+                        ]
+                    ],
+                    "3,20": [
+                        "Scarlet_Mana",
+                        [
+                            3,
+                            18
+                        ]
+                    ],
+                    "1,21": [
+                        "Scarlet_Mana",
+                        [
+                            1,
+                            19
+                        ]
+                    ],
+                    "7,16": [
+                        "Scarlet_Mana",
+                        [
+                            13,
+                            16
+                        ]
+                    ],
+                    "7,20": [
+                        "Scarlet_Mana",
+                        [
+                            13,
+                            18
+                        ]
+                    ],
+                    "7,19": [
+                        "Scarlet_Mana",
+                        [
+                            1,
+                            9
+                        ]
+                    ],
+                    "7,18": [
+                        "Scarlet_Mana",
+                        [
+                            1,
+                            9
+                        ]
+                    ],
+                    "7,17": [
+                        "Scarlet_Mana",
+                        [
+                            1,
+                            9
+                        ]
+                    ],
+                    "8,16": [
+                        "Scarlet_Mana",
+                        [
+                            16,
+                            16
+                        ]
+                    ],
+                    "8,17": [
+                        "Scarlet_Mana",
+                        [
+                            4,
+                            9
+                        ]
+                    ],
+                    "8,18": [
+                        "Scarlet_Mana",
+                        [
+                            4,
+                            9
+                        ]
+                    ],
+                    "8,19": [
+                        "Scarlet_Mana",
+                        [
+                            4,
+                            9
+                        ]
+                    ],
+                    "8,20": [
+                        "Scarlet_Mana",
+                        [
+                            15,
+                            18
+                        ]
+                    ],
+                    "12,16": [
+                        "Scarlet_Mana",
+                        [
+                            13,
+                            16
+                        ]
+                    ],
+                    "12,17": [
+                        "Scarlet_Mana",
+                        [
+                            1,
+                            9
+                        ]
+                    ],
+                    "12,18": [
+                        "Scarlet_Mana",
+                        [
+                            1,
+                            9
+                        ]
+                    ],
+                    "12,19": [
+                        "Scarlet_Mana",
+                        [
+                            1,
+                            9
+                        ]
+                    ],
+                    "12,20": [
+                        "Scarlet_Mana",
+                        [
+                            13,
+                            18
+                        ]
+                    ],
+                    "13,16": [
+                        "Scarlet_Mana",
+                        [
+                            16,
+                            16
+                        ]
+                    ],
+                    "13,17": [
+                        "Scarlet_Mana",
+                        [
+                            4,
+                            9
+                        ]
+                    ],
+                    "13,18": [
+                        "Scarlet_Mana",
+                        [
+                            4,
+                            9
+                        ]
+                    ],
+                    "13,19": [
+                        "Scarlet_Mana",
+                        [
+                            4,
+                            9
+                        ]
+                    ],
+                    "13,20": [
+                        "Scarlet_Mana",
+                        [
+                            15,
+                            18
+                        ]
+                    ],
+                    "9,22": [
+                        "Scarlet_Mana",
+                        [
+                            13,
+                            16
+                        ]
+                    ],
+                    "11,22": [
+                        "Scarlet_Mana",
+                        [
+                            16,
+                            16
+                        ]
+                    ],
+                    "10,22": [
+                        "Scarlet_Mana",
+                        [
+                            14,
+                            16
+                        ]
+                    ],
+                    "10,24": [
+                        "Scarlet_Mana",
+                        [
+                            14,
+                            18
+                        ]
+                    ],
+                    "11,24": [
+                        "Scarlet_Mana",
+                        [
+                            15,
+                            18
+                        ]
+                    ],
+                    "9,24": [
+                        "Scarlet_Mana",
+                        [
+                            13,
+                            18
+                        ]
+                    ],
+                    "10,23": [
+                        "Scarlet_Mana",
+                        [
+                            5,
+                            9
+                        ]
+                    ],
+                    "9,23": [
+                        "Scarlet_Mana",
+                        [
+                            1,
+                            9
+                        ]
+                    ],
+                    "11,23": [
+                        "Scarlet_Mana",
+                        [
+                            4,
+                            9
+                        ]
+                    ],
+                    "18,19": [
+                        "Scarlet_Mana",
+                        [
+                            16,
+                            2
+                        ]
+                    ],
+                    "18,20": [
+                        "Scarlet_Mana",
+                        [
+                            16,
+                            3
+                        ]
+                    ],
+                    "17,20": [
+                        "Scarlet_Mana",
+                        [
+                            29,
+                            14
+                        ]
+                    ],
+                    "17,21": [
+                        "Scarlet_Mana",
+                        [
+                            29,
+                            15
+                        ]
+                    ],
+                    "18,21": [
+                        "Scarlet_Mana",
+                        [
+                            16,
+                            4
+                        ]
+                    ],
+                    "19,21": [
+                        "Scarlet_Mana",
+                        [
+                            13,
+                            9
+                        ]
+                    ],
+                    "20,21": [
+                        "Scarlet_Mana",
+                        [
+                            15,
+                            4
+                        ]
+                    ],
+                    "20,23": [
+                        "Scarlet_Mana",
+                        [
+                            29,
+                            16
+                        ]
+                    ],
+                    "20,22": [
+                        "Scarlet_Mana",
+                        [
+                            29,
+                            16
+                        ]
+                    ],
+                    "16,24": [
+                        "Flasuban Castle V2_1",
+                        [
+                            10,
+                            10
+                        ]
+                    ],
+                    "19,20": [
+                        "Scarlet_Mana",
+                        [
+                            31,
+                            15
+                        ]
+                    ],
+                    "17,17": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            11
+                        ]
+                    ],
+                    "17,16": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            11
+                        ]
+                    ],
+                    "17,15": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            11
+                        ]
+                    ],
+                    "17,14": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            11
+                        ]
+                    ],
+                    "17,13": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            11
+                        ]
+                    ],
+                    "17,12": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            11
+                        ]
+                    ],
+                    "17,11": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            11
+                        ]
+                    ],
+                    "5,19": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            11
+                        ]
+                    ],
+                    "5,18": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            11
+                        ]
+                    ],
+                    "5,17": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            11
+                        ]
+                    ],
+                    "5,16": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            11
+                        ]
+                    ],
+                    "5,15": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            11
+                        ]
+                    ],
+                    "5,21": [
+                        "Scarlet_Mana",
+                        [
+                            28,
+                            12
+                        ]
+                    ],
+                    "5,20": [
+                        "Scarlet_Mana",
+                        [
+                            19,
+                            11
+                        ]
+                    ],
+                    "6,13": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            2
+                        ]
+                    ],
+                    "7,14": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            3
+                        ]
+                    ],
+                    "7,13": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            2
+                        ]
+                    ],
+                    "6,14": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            3
+                        ]
+                    ],
+                    "13,13": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            2
+                        ]
+                    ],
+                    "14,14": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            3
+                        ]
+                    ],
+                    "14,13": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            2
+                        ]
+                    ],
+                    "13,14": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            3
+                        ]
+                    ],
+                    "13,12": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            1
+                        ]
+                    ],
+                    "17,19": [
+                        "Scarlet_Mana",
+                        [
+                            26,
+                            14
+                        ]
+                    ],
+                    "4,19": [
+                        "Scarlet_Mana",
+                        [
+                            6,
+                            14
+                        ]
+                    ],
+                    "4,20": [
+                        "Scarlet_Mana",
+                        [
+                            6,
+                            15
+                        ]
+                    ],
+                    "0,19": [
+                        "Scarlet_Mana",
+                        [
+                            5,
+                            14
+                        ]
+                    ],
+                    "0,20": [
+                        "Scarlet_Mana",
+                        [
+                            5,
+                            15
+                        ]
+                    ],
+                    "8,11": [
+                        "Scarlet_Mana",
+                        [
+                            6,
+                            14
+                        ]
+                    ],
+                    "8,12": [
+                        "Scarlet_Mana",
+                        [
+                            6,
+                            15
+                        ]
+                    ],
+                    "12,11": [
+                        "Scarlet_Mana",
+                        [
+                            5,
+                            14
+                        ]
+                    ],
+                    "12,12": [
+                        "Scarlet_Mana",
+                        [
+                            5,
+                            15
+                        ]
+                    ],
+                    "15,1": [
+                        "Scarlet_Mana",
+                        [
+                            11,
+                            19
+                        ]
+                    ],
+                    "14,1": [
+                        "Scarlet_Mana",
+                        [
+                            10,
+                            19
+                        ]
+                    ],
+                    "19,1": [
+                        "Scarlet_Mana",
+                        [
+                            11,
+                            19
+                        ]
+                    ],
+                    "18,1": [
+                        "Scarlet_Mana",
+                        [
+                            10,
+                            19
+                        ]
+                    ],
+                    "16,1": [
+                        "Scarlet_Mana",
+                        [
+                            32,
+                            14
+                        ]
+                    ],
+                    "16,2": [
+                        "Scarlet_Mana",
+                        [
+                            32,
+                            15
+                        ]
+                    ],
+                    "17,1": [
+                        "Scarlet_Mana",
+                        [
+                            33,
+                            14
+                        ]
+                    ],
+                    "17,2": [
+                        "Scarlet_Mana",
+                        [
+                            33,
+                            15
+                        ]
+                    ],
+                    "15,4": [
+                        "Zoramine Castle",
+                        [
+                            1,
+                            1
+                        ]
+                    ],
+                    "18,4": [
+                        "Zoramine Castle",
+                        [
+                            1,
+                            1
+                        ]
+                    ],
+                    "0,23": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "0,24": [
+                        "Scarlet_Mana",
+                        [
+                            22,
+                            11
+                        ]
+                    ],
+                    "0,25": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            29,
+                            12
+                        ]
+                    ],
+                    "1,23": [
+                        "Scarlet_Mana",
+                        [
+                            10,
+                            11
+                        ]
+                    ],
+                    "3,23": [
+                        "Scarlet_Mana",
+                        [
+                            13,
+                            11
+                        ]
+                    ],
+                    "2,23": [
+                        "Scarlet_Mana",
+                        [
+                            11,
+                            11
+                        ]
+                    ],
+                    "2,24": [
+                        "Scarlet_Mana",
+                        [
+                            14,
+                            18
+                        ]
+                    ],
+                    "3,24": [
+                        "Scarlet_Mana",
+                        [
+                            15,
+                            18
+                        ]
+                    ],
+                    "1,24": [
+                        "Scarlet_Mana",
+                        [
+                            13,
+                            18
+                        ]
+                    ],
+                    "20,24": [
+                        "Scarlet_Mana",
+                        [
+                            29,
+                            16
+                        ]
+                    ],
+                    "10,1": [
+                        "Flasuban Castle V2_1",
+                        [
+                            23,
+                            25
+                        ]
+                    ],
+                    "10,2": [
+                        "Flasuban Castle V2_1",
+                        [
+                            23,
+                            26
+                        ]
+                    ],
+                    "9,0": [
+                        "Scarlet_Mana",
+                        [
+                            28,
+                            17
+                        ]
+                    ],
+                    "9,1": [
+                        "Scarlet_Mana",
+                        [
+                            28,
+                            18
+                        ]
+                    ],
+                    "8,0": [
+                        "Scarlet_Mana",
+                        [
+                            27,
+                            17
+                        ]
+                    ],
+                    "8,1": [
+                        "Scarlet_Mana",
+                        [
+                            27,
+                            18
+                        ]
+                    ],
+                    "12,0": [
+                        "Scarlet_Mana",
+                        [
+                            28,
+                            17
+                        ]
+                    ],
+                    "12,1": [
+                        "Scarlet_Mana",
+                        [
+                            28,
+                            18
+                        ]
+                    ],
+                    "11,0": [
+                        "Scarlet_Mana",
+                        [
+                            27,
+                            17
+                        ]
+                    ],
+                    "11,1": [
+                        "Scarlet_Mana",
+                        [
+                            27,
+                            18
+                        ]
+                    ],
+                    "18,12": [
+                        "Scarlet_Mana",
+                        [
+                            13,
+                            16
+                        ]
+                    ],
+                    "18,13": [
+                        "Scarlet_Mana",
+                        [
+                            1,
+                            9
+                        ]
+                    ],
+                    "18,14": [
+                        "Scarlet_Mana",
+                        [
+                            1,
+                            9
+                        ]
+                    ],
+                    "18,15": [
+                        "Scarlet_Mana",
+                        [
+                            1,
+                            9
+                        ]
+                    ],
+                    "18,16": [
+                        "Scarlet_Mana",
+                        [
+                            13,
+                            18
+                        ]
+                    ],
+                    "19,12": [
+                        "Scarlet_Mana",
+                        [
+                            16,
+                            16
+                        ]
+                    ],
+                    "19,13": [
+                        "Scarlet_Mana",
+                        [
+                            4,
+                            9
+                        ]
+                    ],
+                    "19,14": [
+                        "Scarlet_Mana",
+                        [
+                            4,
+                            9
+                        ]
+                    ],
+                    "19,15": [
+                        "Scarlet_Mana",
+                        [
+                            4,
+                            9
+                        ]
+                    ],
+                    "19,16": [
+                        "Scarlet_Mana",
+                        [
+                            15,
+                            18
+                        ]
+                    ],
+                    "1,13": [
+                        "Scarlet_Mana",
+                        [
+                            1,
+                            9
+                        ]
+                    ],
+                    "1,14": [
+                        "Scarlet_Mana",
+                        [
+                            1,
+                            9
+                        ]
+                    ],
+                    "1,15": [
+                        "Scarlet_Mana",
+                        [
+                            1,
+                            9
+                        ]
+                    ],
+                    "1,16": [
+                        "Scarlet_Mana",
+                        [
+                            13,
+                            18
+                        ]
+                    ],
+                    "2,13": [
+                        "Scarlet_Mana",
+                        [
+                            4,
+                            9
+                        ]
+                    ],
+                    "2,14": [
+                        "Scarlet_Mana",
+                        [
+                            4,
+                            9
+                        ]
+                    ],
+                    "2,15": [
+                        "Scarlet_Mana",
+                        [
+                            4,
+                            9
+                        ]
+                    ],
+                    "2,16": [
+                        "Scarlet_Mana",
+                        [
+                            15,
+                            18
+                        ]
+                    ],
+                    "1,12": [
+                        "Scarlet_Mana",
+                        [
+                            13,
+                            16
+                        ]
+                    ],
+                    "2,12": [
+                        "Scarlet_Mana",
+                        [
+                            16,
+                            16
+                        ]
+                    ],
+                    "7,25": [
+                        "Scarlet_Mana",
+                        [
+                            4,
+                            18
+                        ]
+                    ],
+                    "7,26": [
+                        "Scarlet_Mana",
+                        [
+                            4,
+                            19
+                        ]
+                    ],
+                    "13,25": [
+                        "Scarlet_Mana",
+                        [
+                            4,
+                            18
+                        ]
+                    ],
+                    "13,26": [
+                        "Scarlet_Mana",
+                        [
+                            4,
+                            19
+                        ]
+                    ]
+                }
+            },
+            {
+                "nid": "Furniture 2",
+                "visible": true,
+                "foreground": false,
+                "terrain_grid": {},
+                "sprite_grid": {
+                    "7,8": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            23,
+                            16
+                        ]
+                    ],
+                    "7,9": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            23,
+                            17
+                        ]
+                    ],
+                    "8,8": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            24,
+                            16
+                        ]
+                    ],
+                    "8,9": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            24,
+                            17
+                        ]
+                    ],
+                    "12,8": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            23,
+                            16
+                        ]
+                    ],
+                    "12,9": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            23,
+                            17
+                        ]
+                    ],
+                    "13,8": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            24,
+                            16
+                        ]
+                    ],
+                    "13,9": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            24,
+                            17
+                        ]
+                    ],
+                    "3,0": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            11,
+                            14
+                        ]
+                    ],
+                    "3,1": [
+                        "Secrets_of_Mana_Tileset_ripped_by_Barack_Obama_1",
+                        [
+                            11,
+                            15
+                        ]
+                    ],
+                    "9,23": [
+                        "Scarlet_Mana",
+                        [
+                            27,
+                            15
+                        ]
+                    ],
+                    "10,22": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            18
+                        ]
+                    ],
+                    "10,23": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            19
+                        ]
+                    ],
+                    "11,23": [
+                        "Scarlet_Mana",
+                        [
+                            28,
+                            15
+                        ]
+                    ],
+                    "7,19": [
+                        "Scarlet_Mana",
+                        [
+                            28,
+                            15
+                        ]
+                    ],
+                    "7,17": [
+                        "Scarlet_Mana",
+                        [
+                            30,
+                            14
+                        ]
+                    ],
+                    "8,19": [
+                        "Scarlet_Mana",
+                        [
+                            30,
+                            14
+                        ]
+                    ],
+                    "12,17": [
+                        "Scarlet_Mana",
+                        [
+                            27,
+                            14
+                        ]
+                    ],
+                    "13,17": [
+                        "Scarlet_Mana",
+                        [
+                            28,
+                            14
+                        ]
+                    ],
+                    "13,18": [
+                        "Scarlet_Mana",
+                        [
+                            30,
+                            14
+                        ]
+                    ],
+                    "12,19": [
+                        "Scarlet_Mana",
+                        [
+                            27,
+                            15
+                        ]
+                    ],
+                    "1,23": [
+                        "Scarlet_Mana",
+                        [
+                            14,
+                            14
+                        ]
+                    ],
+                    "4,21": [
+                        "Scarlet_Mana",
+                        [
+                            14,
+                            14
+                        ]
+                    ],
+                    "3,22": [
+                        "Scarlet_Mana",
+                        [
+                            13,
+                            14
+                        ]
+                    ],
+                    "0,21": [
+                        "Scarlet_Mana",
+                        [
+                            13,
+                            14
+                        ]
+                    ],
+                    "3,21": [
+                        "Scarlet_Mana",
+                        [
+                            14,
+                            14
+                        ]
+                    ],
+                    "3,23": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            18
+                        ]
+                    ],
+                    "3,24": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            19
+                        ]
+                    ],
+                    "1,19": [
+                        "Scarlet_Mana",
+                        [
+                            31,
+                            15
+                        ]
+                    ],
+                    "2,24": [
+                        "Scarlet_Mana",
+                        [
+                            3,
+                            14
+                        ]
+                    ],
+                    "2,25": [
+                        "Scarlet_Mana",
+                        [
+                            3,
+                            15
+                        ]
+                    ],
+                    "20,24": [
+                        "Scarlet_Mana",
+                        [
+                            29,
+                            14
+                        ]
+                    ],
+                    "20,25": [
+                        "Scarlet_Mana",
+                        [
+                            29,
+                            15
+                        ]
+                    ],
+                    "8,1": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            16
+                        ]
+                    ],
+                    "8,2": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            17
+                        ]
+                    ],
+                    "9,1": [
+                        "Scarlet_Mana",
+                        [
+                            24,
+                            16
+                        ]
+                    ],
+                    "9,2": [
+                        "Scarlet_Mana",
+                        [
+                            24,
+                            17
+                        ]
+                    ],
+                    "11,1": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            16
+                        ]
+                    ],
+                    "11,2": [
+                        "Scarlet_Mana",
+                        [
+                            23,
+                            17
+                        ]
+                    ],
+                    "12,1": [
+                        "Scarlet_Mana",
+                        [
+                            24,
+                            16
+                        ]
+                    ],
+                    "12,2": [
+                        "Scarlet_Mana",
+                        [
+                            24,
+                            17
+                        ]
+                    ],
+                    "18,13": [
+                        "Scarlet_Mana",
+                        [
+                            27,
+                            15
+                        ]
+                    ],
+                    "1,15": [
+                        "Scarlet_Mana",
+                        [
+                            24,
+                            19
+                        ]
+                    ],
+                    "1,14": [
+                        "Scarlet_Mana",
+                        [
+                            24,
+                            18
+                        ]
+                    ]
+                }
+            },
+            {
+                "nid": "Furniture 3",
+                "visible": true,
+                "foreground": false,
+                "terrain_grid": {},
+                "sprite_grid": {
+                    "1,23": [
+                        "Scarlet_Mana",
+                        [
+                            13,
+                            14
+                        ]
+                    ],
+                    "3,23": [
+                        "Scarlet_Mana",
+                        [
+                            14,
+                            14
+                        ]
+                    ]
+                }
+            },
+            {
+                "nid": "Open Chests",
+                "visible": true,
+                "foreground": false,
+                "terrain_grid": {},
+                "sprite_grid": {
+                    "15,4": [
+                        "Zoramine Castle",
+                        [
+                            1,
+                            0
+                        ]
+                    ],
+                    "18,4": [
+                        "Zoramine Castle",
+                        [
+                            1,
+                            0
+                        ]
+                    ]
+                }
+            }
+        ],
+        "tilesets": [
+            "Zoramine Castle",
+            "Flasuban Castle V2_1",
+            "SNES - Secret of Mana - Forest of Seasons Spring",
+            "Zoramine_Snow_Fields_Water_1",
+            "Scarlet_Mana"
+        ]
+    }
+]
