@@ -100,10 +100,7 @@
                 "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": [
-                    14,
-                    11
-                ],
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": true
             },
@@ -244,10 +241,7 @@
                 "ai": "Defend",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": [
-                    10,
-                    12
-                ],
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": true
             },
@@ -396,10 +390,7 @@
                 "ai": "Defend",
                 "roam_ai": null,
                 "ai_group": "",
-                "starting_position": [
-                    0,
-                    2
-                ],
+                "starting_position": null,
                 "starting_traveler": null,
                 "generic": true
             },
