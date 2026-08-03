@@ -116,7 +116,7 @@
                 "nid": "106",
                 "variant": null,
                 "level": 10,
-                "klass": "Lancer",
+                "klass": "Fighter",
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -256,6 +256,19 @@
                 "starting_position": [
                     23,
                     16
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Daiyousei",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    18,
+                    20
                 ],
                 "starting_traveler": null,
                 "generic": false

@@ -18,7 +18,7 @@
             "speak;Suika;Heard there was a party goin' on, so I decided to join!",
             "speak;Reimu;Battle party.",
             "speak;Suika;All the same to me! Let's have some fun!",
-            "speak;Kasen;*sigh*",
+            "speak;Kasen;*sigh*;no_talk",
             "multi_remove_portrait;Reimu;Kasen;Suika",
             "sound;Item",
             "alert;Suika joined the party!",

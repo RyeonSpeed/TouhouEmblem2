@@ -98,6 +98,10 @@
             [
                 "eval_target_restrict_2",
                 "unit.level >= 10"
+            ],
+            [
+                "skip_combat",
+                null
             ]
         ]
     }

@@ -428,6 +428,7 @@
     "SniperFemale_GenericGreen",
     "SniperFemale_GenericRed",
     "SniperFemale_Mamizou",
+    "SniperFemale_Daiyousei",
     "Demon_Koakuma",
     "BowCav_Lyrica",
     "Boneguard_Generic",
@@ -479,5 +480,6 @@
     "BlackScreen_Image",
     "BorderofLife_Image",
     "Saigyou_Image",
-    "LegendaryShine_Image"
+    "LegendaryShine_Image",
+    "Bigler_GenericRed"
 ]
