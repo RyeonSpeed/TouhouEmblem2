@@ -7,7 +7,7 @@
         "movement_group": "Bandits",
         "promotes_from": null,
         "turns_into": [
-            "Berserker"
+            "Oni"
         ],
         "tags": [],
         "max_level": 40,

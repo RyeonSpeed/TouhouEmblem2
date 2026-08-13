@@ -140,8 +140,8 @@
             0,
             0
         ],
-        "map_sprite_nid": "Wolf (U) Mauthe Doog T3 {EldritchAbomination}-stand",
-        "combat_anim_nid": "Herald_1",
+        "map_sprite_nid": "Wolf (U) Gwyllgi {IS}-stand",
+        "combat_anim_nid": "Werewolf",
         "fields": []
     }
 ]

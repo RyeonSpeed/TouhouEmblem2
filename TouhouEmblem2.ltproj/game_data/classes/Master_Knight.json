@@ -146,7 +146,7 @@
             0
         ],
         "map_sprite_nid": "Master Knight (F) Lance {Unknown}-stand",
-        "combat_anim_nid": "Miko",
+        "combat_anim_nid": "MasterKnight",
         "fields": []
     }
 ]

@@ -140,7 +140,7 @@
             0
         ],
         "map_sprite_nid": "Summoner (F) {VelvetKitsune}-stand",
-        "combat_anim_nid": "Shaman",
+        "combat_anim_nid": "Summoner",
         "fields": []
     }
 ]

@@ -12,7 +12,10 @@
             "game_var;_turnwheel;True",
             "game_var;_current_turnwheel_uses;-1",
             "game_var;KusanagiKills;0",
-            "autolevel_to;Daiyousei;10;fixed",
+            "for;PARTY_UNIT;[unit.nid for unit in game.get_units_in_party()]",
+            "    autolevel_to;{PARTY_UNIT};10;fixed",
+            "endf",
+            "autolevel_to;Kasen;40;fixed",
             "trigger_script;Housekeeping3",
             "trigger_script;Housekeeping2",
             "game_var;SoulCharge;4"

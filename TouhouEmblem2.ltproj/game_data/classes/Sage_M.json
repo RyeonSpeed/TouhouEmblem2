@@ -134,8 +134,8 @@
             0,
             0
         ],
-        "map_sprite_nid": "SageFemale",
-        "combat_anim_nid": "SageFemale",
+        "map_sprite_nid": "Sage (F) Battle Sage Magic {Smug_Mug, Unknown}-stand",
+        "combat_anim_nid": "Battlesage",
         "fields": []
     }
 ]

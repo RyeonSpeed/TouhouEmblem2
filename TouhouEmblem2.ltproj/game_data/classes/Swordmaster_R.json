@@ -2,7 +2,7 @@
     {
         "nid": "Swordmaster_R",
         "name": "Swordmaster",
-        "desc": "Master swordswomen who fight with precise and deadly swiftness.\nTags: Sword",
+        "desc": "Master swordsmen who fight with precise and deadly swiftness.\nTags: Sword",
         "tier": 2,
         "movement_group": "Light Foot",
         "promotes_from": "Fencer_R",

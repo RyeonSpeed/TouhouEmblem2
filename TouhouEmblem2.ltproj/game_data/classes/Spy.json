@@ -140,7 +140,7 @@
             0
         ],
         "map_sprite_nid": "Assassin (M) Hood {Jey the Count}-stand",
-        "combat_anim_nid": "Assassin",
+        "combat_anim_nid": "AssassinFemale",
         "fields": []
     }
 ]

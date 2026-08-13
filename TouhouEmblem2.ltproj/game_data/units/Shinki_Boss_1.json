@@ -3,7 +3,7 @@
         "nid": "Shinki_Boss_1",
         "name": "Shinki",
         "desc": "",
-        "variant": null,
+        "variant": "Shinki",
         "level": 1,
         "klass": "Hexblade",
         "tags": [

@@ -76,10 +76,10 @@
                 "generic": true
             },
             {
-                "nid": "115",
+                "nid": "116",
                 "variant": null,
-                "level": 5,
-                "klass": "Guard",
+                "level": 40,
+                "klass": "Warden",
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -94,7 +94,7 @@
                 "ai_group": "",
                 "starting_position": [
                     20,
-                    17
+                    20
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -116,7 +116,7 @@
                 "nid": "106",
                 "variant": null,
                 "level": 10,
-                "klass": "Fighter",
+                "klass": "Lance_Rider",
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -128,7 +128,7 @@
                         false
                     ],
                     [
-                        "Gungnir",
+                        "Killer_Axe",
                         false
                     ],
                     [
@@ -144,8 +144,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    18,
-                    19
+                    19,
+                    17
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -235,20 +235,20 @@
                 "generic": true
             },
             {
-                "nid": "Ringo",
+                "nid": "SigmaRaven",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    18,
-                    17
+                    19,
+                    16
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
-                "nid": "Alice_Boss_2",
+                "nid": "Shinki_Boss",
                 "team": "enemy",
                 "ai": "None",
                 "roam_ai": null,
@@ -261,14 +261,14 @@
                 "generic": false
             },
             {
-                "nid": "Daiyousei",
+                "nid": "Keine_NPC",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    18,
-                    20
+                    19,
+                    15
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -313,6 +313,11 @@
             }
         ],
         "unit_groups": [],
-        "ai_groups": []
+        "ai_groups": [
+            {
+                "nid": "",
+                "trigger_threshold": 1
+            }
+        ]
     }
 ]
