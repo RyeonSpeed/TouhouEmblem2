@@ -453,3 +453,14 @@ class GiveStatusBeforeCrit(SkillComponent):
                 action.do(action.RemoveSkill(target, self.value))
                 self._did_action = False
 
+class EventOnActiveWait(SkillComponent):
+    nid = 'event_on_active_wait'
+    desc = 'Calls event when Wait command is used'
+    tag = SkillTags.ADVANCED
+
+    expose = ComponentType.Event
+    value = ''
+
+    def on_wait(self, unit, actively_chosen):
+        if actively_chosen:
+            game.events.trigger_specific_event(self.value, unit, unit, unit.position, {'item': item, 'mode': mode})
