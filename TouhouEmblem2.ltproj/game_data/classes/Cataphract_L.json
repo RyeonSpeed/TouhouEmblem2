@@ -5,7 +5,7 @@
         "desc": "The most heavily armored riders, physical attacks find it hard to penetrate their armor.\nTags: Mounted, Armor, Beast",
         "tier": 2,
         "movement_group": "Heavy Cav",
-        "promotes_from": "Axe_Rider",
+        "promotes_from": "Axe_Rider_L",
         "turns_into": [],
         "tags": [
             "Mounted",

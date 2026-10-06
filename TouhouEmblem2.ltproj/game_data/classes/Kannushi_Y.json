@@ -5,7 +5,7 @@
         "desc": "A promoted shrine maiden who now wields greater divine favor.\nTags: Lord, Magic",
         "tier": 2,
         "movement_group": "Heavy Cav",
-        "promotes_from": "Miko",
+        "promotes_from": "Miko_Y",
         "turns_into": [],
         "tags": [
             "Lord",
@@ -106,7 +106,7 @@
             ],
             "Light": [
                 false,
-                31,
+                0,
                 251
             ],
             "Anima": [
@@ -145,8 +145,8 @@
             0,
             0
         ],
-        "map_sprite_nid": "Miko",
-        "combat_anim_nid": "Herald_1",
+        "map_sprite_nid": "MikoBlue",
+        "combat_anim_nid": "Kannushi",
         "fields": []
     }
 ]

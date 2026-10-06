@@ -105,7 +105,7 @@
             ],
             "Staff": [
                 true,
-                0,
+                1,
                 121
             ],
             "Light": [
@@ -150,7 +150,7 @@
             0
         ],
         "map_sprite_nid": "Seraph Knight (F) Lance {CamusZekeSirius, flasuban}-stand",
-        "combat_anim_nid": "Herald_1",
+        "combat_anim_nid": "Seraphknight",
         "fields": []
     }
 ]

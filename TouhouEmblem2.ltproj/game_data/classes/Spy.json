@@ -5,7 +5,7 @@
         "desc": "Experts in espionage who can pick locks and steal important items as needed.\nTags: Sword",
         "tier": 2,
         "movement_group": "Light Foot",
-        "promotes_from": "Thief",
+        "promotes_from": "Outlaw",
         "turns_into": [],
         "tags": [
             "Sword"
