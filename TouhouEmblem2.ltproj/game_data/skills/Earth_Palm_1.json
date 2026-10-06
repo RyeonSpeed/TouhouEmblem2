@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Earth_Palm_1",
+        "name": "Earth Palm",
+        "desc": "",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "gain_skill_after_combat",
+                "Earth_Palm_2"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "nid": "Earth_Palm_2",
+        "name": "Earth Wall",
+        "desc": "+50% DEF.",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "stat_multiplier",
+                [
+                    [
+                        "DEF",
+                        1.5
+                    ]
+                ]
+            ],
+            [
+                "time",
+                1
+            ],
+            [
+                "limit_maximum_range",
+                1
+            ]
+        ]
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "nid": "Oarfish_Chainthunder",
+        "name": "Oarfish Chainthunder",
+        "desc": "<blue>[Combat Start]</blue> <violet>Splash</> <violet>2</>. Cannot Double.\n<blue>[After Combat]</blue> Inflicts Shock for 2 turns. ",
+        "icon_nid": "skillicons102724(1)",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": []
+    }
+]

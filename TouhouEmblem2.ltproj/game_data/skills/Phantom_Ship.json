@@ -1,0 +1,13 @@
+[
+    {
+        "nid": "Phantom_Ship",
+        "name": "Phantom Ship",
+        "desc": "Murasa summons a sailship to assist her in combat. Also transforms her anchor into a cannon for firing grapeshot at the opponent.",
+        "icon_nid": "skillicons102724(2)",
+        "icon_index": [
+            2,
+            2
+        ],
+        "components": []
+    }
+]

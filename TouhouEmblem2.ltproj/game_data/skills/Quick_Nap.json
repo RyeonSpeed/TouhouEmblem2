@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Quick_Nap",
+        "name": "Quick Nap",
+        "desc": "When choosing \"Wait\", restore 20% HP and gain 3 charge on skills.",
+        "icon_nid": "skillicons102724(1)",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    }
+]
