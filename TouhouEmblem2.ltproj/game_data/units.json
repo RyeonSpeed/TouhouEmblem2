@@ -856,7 +856,7 @@
         "nid": "Tokiko",
         "name": "Tokiko",
         "desc": "A bird youkai who mostly minds her own business. Likes reading.",
-        "variant": "",
+        "variant": "Tokiko",
         "level": 1,
         "klass": "Peg_Rider",
         "tags": [],
@@ -3278,7 +3278,7 @@
         "nid": "Kaguya",
         "name": "Kaguya",
         "desc": "A princess from the Lunarian Kingdom on the Moon, Kaguya is a fairly curious person and shares a rivalry with Mokou.",
-        "variant": "",
+        "variant": "Kaguya",
         "level": 1,
         "klass": "Mage",
         "tags": [],
@@ -4143,7 +4143,7 @@
         "nid": "Lyrica",
         "name": "Lyrica",
         "desc": "Youngest sister of the Prismriver Ensemble. Level headed, smart, and has a bit of a pragmatic streak.",
-        "variant": "",
+        "variant": "Lyrica",
         "level": 1,
         "klass": "Bow_Rider_L",
         "tags": [],
@@ -4649,27 +4649,27 @@
         "klass": "Fighter",
         "tags": [],
         "bases": {
-            "HP": 22,
-            "STR": 7,
+            "HP": 6,
+            "STR": 2,
             "MAG": 0,
             "SKL": 2,
-            "SPD": 4,
-            "LCK": 0,
-            "DEF": 3,
+            "SPD": 2,
+            "LCK": 5,
+            "DEF": 1,
             "RES": 0,
-            "CON": 11,
-            "MOV": 5
+            "CON": 1,
+            "MOV": 0
         },
         "growths": {
-            "HP": 90,
-            "STR": 55,
-            "MAG": 10,
-            "SKL": 20,
-            "SPD": 35,
+            "HP": 10,
+            "STR": 5,
+            "MAG": 0,
+            "SKL": 5,
+            "SPD": 5,
             "LCK": 15,
-            "DEF": 15,
+            "DEF": 10,
             "RES": 15,
-            "CON": 0,
+            "CON": 10,
             "MOV": 0
         },
         "stat_cap_modifiers": {
@@ -4684,10 +4684,46 @@
             "RES": 0,
             "DEF": 0
         },
-        "starting_items": [],
-        "learned_skills": [],
+        "starting_items": [
+            [
+                "Killer_Axe",
+                false
+            ],
+            [
+                "Swordreaver",
+                false
+            ],
+            [
+                "Life_Gem",
+                false
+            ]
+        ],
+        "learned_skills": [
+            [
+                1,
+                "Quick_Nap"
+            ],
+            [
+                1,
+                "Blazing_Chi_Strike"
+            ],
+            [
+                1,
+                "Earth_Palm"
+            ],
+            [
+                1,
+                "Swiftwind_Lotus"
+            ]
+        ],
         "unit_notes": [],
-        "wexp_gain": {},
+        "wexp_gain": {
+            "Axe": [
+                false,
+                121,
+                null
+            ]
+        },
         "alternate_classes": [],
         "portrait_nid": "Meiling",
         "affinity": "Wind",
@@ -9598,7 +9634,7 @@
         "nid": "Karin",
         "name": "Karin",
         "desc": "A studious human trying to become a magician. Tends to be a bit clumsy.",
-        "variant": "",
+        "variant": "Kaguya",
         "level": 1,
         "klass": "Mage",
         "tags": [
@@ -14030,7 +14066,7 @@
         "nid": "Shinki_Boss",
         "name": "Shinki",
         "desc": "",
-        "variant": null,
+        "variant": "Shinki",
         "level": 1,
         "klass": "Hexblade",
         "tags": [
@@ -14098,7 +14134,7 @@
         "nid": "Shinki_Boss_1",
         "name": "Shinki",
         "desc": "",
-        "variant": null,
+        "variant": "Shinki",
         "level": 1,
         "klass": "Hexblade",
         "tags": [
@@ -14160,7 +14196,7 @@
         "nid": "Shinki_Boss_2",
         "name": "Shinki",
         "desc": "",
-        "variant": null,
+        "variant": "Shinki",
         "level": 1,
         "klass": "Hexblade",
         "tags": [
@@ -14226,7 +14262,7 @@
         "nid": "Shinki_Boss_3",
         "name": "Shinki",
         "desc": "",
-        "variant": null,
+        "variant": "Shinki",
         "level": 1,
         "klass": "Hexblade",
         "tags": [

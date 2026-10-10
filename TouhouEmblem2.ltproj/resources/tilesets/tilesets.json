@@ -310,5 +310,20 @@
         "nid": "Scarlet_Mana",
         "terrain_grid": {},
         "autotiles": {}
+    },
+    {
+        "nid": "Village v2 - Standard Tileset_1",
+        "terrain_grid": {},
+        "autotiles": {}
+    },
+    {
+        "nid": "Green Raw Tiles_1",
+        "terrain_grid": {},
+        "autotiles": {}
+    },
+    {
+        "nid": "Zoramine Thracia Village",
+        "terrain_grid": {},
+        "autotiles": {}
     }
 ]

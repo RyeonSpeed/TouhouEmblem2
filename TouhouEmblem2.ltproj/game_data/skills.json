@@ -5285,6 +5285,267 @@
         ]
     },
     {
+        "nid": "Quick_Nap",
+        "name": "Quick Nap",
+        "desc": "When choosing \"Wait\", restore 20% HP and gain 3 charge on skills.",
+        "icon_nid": "skillicons102724(1)",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "ability_indicator",
+                null
+            ]
+        ]
+    },
+    {
+        "nid": "Blazing_Chi_Strike",
+        "name": "Blazing Chi Strike",
+        "desc": "1.5x DMG, Inflicts Burning. Locked to 1 Range.",
+        "icon_nid": "skillicons102724(1)",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "combat_art_indicator",
+                null
+            ],
+            [
+                "combat_art",
+                "Blazing_Chi_Strike_Art"
+            ],
+            [
+                "allowed_weapons",
+                "item_system.weapon_type(unit, item) in ['Sword', 'Lance', 'Axe', 'Anima', 'Dark', 'Light', 'Martial']"
+            ],
+            [
+                "build_charge_start_charged",
+                7
+            ],
+            [
+                "upkeep_charge_increase",
+                1
+            ],
+            [
+                "combat_charge_increase",
+                1
+            ]
+        ]
+    },
+    {
+        "nid": "Blazing_Chi_Strike_Art",
+        "name": "Blazing Chi Strike",
+        "desc": "1.5x DMG, Inflicts Burning.",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "damage_multiplier",
+                1.5
+            ],
+            [
+                "give_status_after_combat",
+                "Burning"
+            ],
+            [
+                "limit_maximum_range",
+                1
+            ]
+        ]
+    },
+    {
+        "nid": "Earth_Palm",
+        "name": "Earth Palm",
+        "desc": "On strike, increases user's DEF by 50% for 1 turn. Locked to 1 Range.",
+        "icon_nid": "skillicons102724(1)",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "combat_art_indicator",
+                null
+            ],
+            [
+                "combat_art",
+                "Earth_Palm_1"
+            ],
+            [
+                "allowed_weapons",
+                "item_system.weapon_type(unit, item) in ['Sword', 'Lance', 'Axe', 'Anima', 'Dark', 'Light', 'Martial']"
+            ],
+            [
+                "build_charge_start_charged",
+                7
+            ],
+            [
+                "upkeep_charge_increase",
+                1
+            ],
+            [
+                "combat_charge_increase",
+                1
+            ]
+        ]
+    },
+    {
+        "nid": "Earth_Palm_1",
+        "name": "Earth Palm",
+        "desc": "",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "gain_skill_after_combat",
+                "Earth_Palm_2"
+            ]
+        ]
+    },
+    {
+        "nid": "Earth_Palm_2",
+        "name": "Earth Wall",
+        "desc": "+50% DEF.",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "stat_multiplier",
+                [
+                    [
+                        "DEF",
+                        1.5
+                    ]
+                ]
+            ],
+            [
+                "time",
+                1
+            ],
+            [
+                "limit_maximum_range",
+                1
+            ]
+        ]
+    },
+    {
+        "nid": "Swiftwind_Lotus",
+        "name": "Swiftwind Lotus",
+        "desc": "Applies Brave to next attack, but damage taken is also doubled. Locked to 1 Range.",
+        "icon_nid": "skillicons102724(1)",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "combat_art",
+                "Swiftwind_Lotus_1"
+            ],
+            [
+                "combat_art_indicator",
+                null
+            ],
+            [
+                "allowed_weapons",
+                "item_system.weapon_type(unit, item) in ['Sword', 'Lance', 'Axe', 'Anima', 'Dark', 'Light', 'Martial']"
+            ],
+            [
+                "build_charge_start_charged",
+                7
+            ],
+            [
+                "upkeep_charge_increase",
+                1
+            ],
+            [
+                "combat_charge_increase",
+                1
+            ]
+        ]
+    },
+    {
+        "nid": "Swiftwind_Lotus_1",
+        "name": "Swiftwind Lotus",
+        "desc": "Applies Brave to next attack.",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "all_brave",
+                null
+            ],
+            [
+                "resist_multiplier",
+                2.0
+            ],
+            [
+                "limit_maximum_range",
+                1
+            ]
+        ]
+    },
+    {
+        "nid": "Flexible_Reading",
+        "name": "Flexible Reading",
+        "desc": "When opponent's HP is >=50%, +40 Avoid. When opponent's HP is <50%, +40% Crit.",
+        "icon_nid": "skillicons102724(1)",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": []
+    },
+    {
+        "nid": "Oarfish_Chainthunder",
+        "name": "Oarfish Chainthunder",
+        "desc": "<blue>[Combat Start]</blue> <violet>Splash</> <violet>2</>. Cannot Double.\n<blue>[After Combat]</blue> Inflicts Shock for 2 turns. ",
+        "icon_nid": "skillicons102724(1)",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": []
+    },
+    {
+        "nid": "Called_By_The_Watery_Grave",
+        "name": "Called By The Watery Grave",
+        "desc": "Enemies within 2 tiles receive -3 SPD/MOV.",
+        "icon_nid": "skillicons102724(2)",
+        "icon_index": [
+            2,
+            2
+        ],
+        "components": []
+    },
+    {
+        "nid": "Phantom_Ship",
+        "name": "Phantom Ship",
+        "desc": "Murasa summons a sailship to assist her in combat. Also transforms her anchor into a cannon for firing grapeshot at the opponent.",
+        "icon_nid": "skillicons102724(2)",
+        "icon_index": [
+            2,
+            2
+        ],
+        "components": []
+    },
+    {
         "nid": "Fleetfoot_Whack",
         "name": "Fleetfoot Whack",
         "desc": "<blue>[Combat Start]</blue> +3 Spd. Axes only.",

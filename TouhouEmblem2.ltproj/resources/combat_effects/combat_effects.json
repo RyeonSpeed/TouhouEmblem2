@@ -2977,6 +2977,34 @@
                         null
                     ],
                     [
+                        "frame",
+                        [
+                            1,
+                            "Javelin5"
+                        ]
+                    ],
+                    [
+                        "frame",
+                        [
+                            2,
+                            "Javelin6"
+                        ]
+                    ],
+                    [
+                        "frame",
+                        [
+                            2,
+                            "Javelin7"
+                        ]
+                    ],
+                    [
+                        "frame",
+                        [
+                            1,
+                            "Javelin8"
+                        ]
+                    ],
+                    [
                         "static",
                         [
                             true
@@ -3092,6 +3120,34 @@
                         [
                             2,
                             "Javelin4"
+                        ]
+                    ],
+                    [
+                        "frame",
+                        [
+                            1,
+                            "Javelin5"
+                        ]
+                    ],
+                    [
+                        "frame",
+                        [
+                            2,
+                            "Javelin6"
+                        ]
+                    ],
+                    [
+                        "frame",
+                        [
+                            2,
+                            "Javelin7"
+                        ]
+                    ],
+                    [
+                        "frame",
+                        [
+                            1,
+                            "Javelin8"
                         ]
                     ],
                     [
@@ -120555,10 +120611,6 @@
                                 255
                             ]
                         ]
-                    ],
-                    [
-                        "spell_hit_2",
-                        null
                     ],
                     [
                         "wait",

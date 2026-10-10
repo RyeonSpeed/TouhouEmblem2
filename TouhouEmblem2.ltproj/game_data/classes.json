@@ -392,7 +392,7 @@
             ],
             "Light": [
                 false,
-                1,
+                0,
                 181
             ],
             "Anima": [
@@ -443,7 +443,7 @@
         "movement_group": "Light Foot",
         "promotes_from": null,
         "turns_into": [
-            "Kannushi"
+            "Kannushi_R"
         ],
         "tags": [
             "Lord",
@@ -729,7 +729,7 @@
             0
         ],
         "map_sprite_nid": "Miko",
-        "combat_anim_nid": "Herald_1",
+        "combat_anim_nid": "Kannushi",
         "fields": []
     },
     {
@@ -738,7 +738,7 @@
         "desc": "A promoted shrine maiden who now wields greater divine favor.\nTags: Lord, Magic",
         "tier": 2,
         "movement_group": "Heavy Cav",
-        "promotes_from": "Miko",
+        "promotes_from": "Miko_Y",
         "turns_into": [],
         "tags": [
             "Lord",
@@ -839,7 +839,7 @@
             ],
             "Light": [
                 false,
-                31,
+                0,
                 251
             ],
             "Anima": [
@@ -878,8 +878,158 @@
             0,
             0
         ],
-        "map_sprite_nid": "Miko",
-        "combat_anim_nid": "Herald_1",
+        "map_sprite_nid": "MikoBlue",
+        "combat_anim_nid": "Kannushi",
+        "fields": []
+    },
+    {
+        "nid": "Kannushi_R",
+        "name": "Kannushi",
+        "desc": "qggw_mS1caJ?..U[-PQ78dH-V?Jz=d\ndi1xrhPWnuB,TA1pu}p6PV7b$29;\n:]5Z:=h7pY_:%;a#YwZkhK+XdwtEi",
+        "tier": 2,
+        "movement_group": "Heavy Cav",
+        "promotes_from": "Miko_R",
+        "turns_into": [],
+        "tags": [
+            "Lord",
+            "Magic"
+        ],
+        "max_level": 40,
+        "bases": {
+            "HP": 20,
+            "STR": 6,
+            "MAG": 7,
+            "SKL": 7,
+            "SPD": 7,
+            "LCK": 0,
+            "DEF": 6,
+            "RES": 7,
+            "CON": 7,
+            "MOV": 6
+        },
+        "growths": {
+            "HP": 65,
+            "STR": 35,
+            "MAG": 35,
+            "SKL": 40,
+            "SPD": 25,
+            "LCK": 40,
+            "DEF": 20,
+            "RES": 30,
+            "CON": 0,
+            "MOV": 0
+        },
+        "growth_bonus": {
+            "HP": 0,
+            "STR": 0,
+            "MAG": 0,
+            "SKL": 0,
+            "SPD": 0,
+            "LCK": 0,
+            "DEF": 0,
+            "RES": 0,
+            "CON": 0,
+            "MOV": 0
+        },
+        "promotion": {
+            "HP": 4,
+            "STR": 2,
+            "MAG": 2,
+            "SKL": 2,
+            "SPD": 2,
+            "LCK": 0,
+            "DEF": 2,
+            "RES": 2,
+            "CON": 2,
+            "MOV": -99
+        },
+        "max_stats": {
+            "HP": 80,
+            "STR": 29,
+            "MAG": 29,
+            "SKL": 32,
+            "SPD": 26,
+            "LCK": 30,
+            "DEF": 24,
+            "RES": 27,
+            "CON": 25,
+            "MOV": 15
+        },
+        "learned_skills": [
+            [
+                1,
+                "Canto"
+            ]
+        ],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0,
+                251
+            ],
+            "Lance": [
+                true,
+                1,
+                251
+            ],
+            "Axe": [
+                false,
+                0,
+                251
+            ],
+            "Bow": [
+                true,
+                1,
+                251
+            ],
+            "Staff": [
+                true,
+                1,
+                181
+            ],
+            "Light": [
+                true,
+                31,
+                251
+            ],
+            "Anima": [
+                false,
+                0,
+                251
+            ],
+            "Dark": [
+                false,
+                0,
+                251
+            ],
+            "Martial": [
+                false,
+                0,
+                null
+            ],
+            "Default": [
+                false,
+                0,
+                251
+            ],
+            "Knife": [
+                false,
+                0,
+                null
+            ],
+            "Monster": [
+                false,
+                0,
+                null
+            ]
+        },
+        "icon_nid": "Generic_Portrait_Citizen",
+        "icon_index": [
+            0,
+            0
+        ],
+        "map_sprite_nid": "MikoBlue",
+        "combat_anim_nid": "Kannushi",
         "fields": []
     },
     {
@@ -1042,7 +1192,7 @@
         "movement_group": "Light Foot",
         "promotes_from": null,
         "turns_into": [
-            "Magus"
+            "Magus_R"
         ],
         "tags": [
             "Lord",
@@ -1338,7 +1488,162 @@
             0
         ],
         "map_sprite_nid": "Magus",
-        "combat_anim_nid": "Herald_1",
+        "combat_anim_nid": "Magus",
+        "fields": []
+    },
+    {
+        "nid": "Magus_R",
+        "name": "Magus",
+        "desc": "ton m\u0113 gnonta hamartian hyper h\u0113m\u014dn hamartian epoi\u0113sen hina h\u0113meis gen\u014dmetha dikaiosyn\u0113 Theou en aut\u014d",
+        "tier": 2,
+        "movement_group": "Heavy Cav",
+        "promotes_from": "Witch_R",
+        "turns_into": [],
+        "tags": [
+            "Lord",
+            "Flying",
+            "Magic"
+        ],
+        "max_level": 40,
+        "bases": {
+            "HP": 22,
+            "STR": 3,
+            "MAG": 7,
+            "SKL": 4,
+            "SPD": 8,
+            "LCK": 0,
+            "DEF": 5,
+            "RES": 7,
+            "CON": 6,
+            "MOV": 7
+        },
+        "growths": {
+            "HP": 60,
+            "STR": 20,
+            "MAG": 30,
+            "SKL": 40,
+            "SPD": 45,
+            "LCK": 40,
+            "DEF": 15,
+            "RES": 25,
+            "CON": 0,
+            "MOV": 0
+        },
+        "growth_bonus": {
+            "HP": 0,
+            "STR": 0,
+            "MAG": 0,
+            "SKL": 0,
+            "SPD": 0,
+            "LCK": 0,
+            "DEF": 0,
+            "RES": 0,
+            "CON": 0,
+            "MOV": 0
+        },
+        "promotion": {
+            "HP": 4,
+            "STR": 1,
+            "MAG": 3,
+            "SKL": 1,
+            "SPD": 2,
+            "LCK": 0,
+            "DEF": 2,
+            "RES": 3,
+            "CON": 1,
+            "MOV": -99
+        },
+        "max_stats": {
+            "HP": 80,
+            "STR": 22,
+            "MAG": 27,
+            "SKL": 28,
+            "SPD": 33,
+            "LCK": 30,
+            "DEF": 23,
+            "RES": 29,
+            "CON": 25,
+            "MOV": 15
+        },
+        "learned_skills": [
+            [
+                1,
+                "Canto"
+            ],
+            [
+                1,
+                "Thief"
+            ]
+        ],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0,
+                251
+            ],
+            "Lance": [
+                false,
+                0,
+                251
+            ],
+            "Axe": [
+                false,
+                0,
+                251
+            ],
+            "Bow": [
+                false,
+                0,
+                251
+            ],
+            "Staff": [
+                false,
+                0,
+                251
+            ],
+            "Light": [
+                true,
+                1,
+                251
+            ],
+            "Anima": [
+                true,
+                31,
+                251
+            ],
+            "Dark": [
+                true,
+                1,
+                251
+            ],
+            "Martial": [
+                false,
+                0,
+                null
+            ],
+            "Default": [
+                false,
+                0,
+                251
+            ],
+            "Knife": [
+                true,
+                0,
+                null
+            ],
+            "Monster": [
+                false,
+                0,
+                null
+            ]
+        },
+        "icon_nid": "Generic_Portrait_Citizen",
+        "icon_index": [
+            0,
+            0
+        ],
+        "map_sprite_nid": "Witch (F) {Aruka, Kenpuhu}-stand",
+        "combat_anim_nid": "Magus",
         "fields": []
     },
     {
@@ -2220,7 +2525,7 @@
             0
         ],
         "map_sprite_nid": "Master Knight (F) Lance {Unknown}-stand",
-        "combat_anim_nid": "Miko",
+        "combat_anim_nid": "MasterKnight",
         "fields": []
     },
     {
@@ -2663,7 +2968,7 @@
         "movement_group": "Light Foot",
         "promotes_from": null,
         "turns_into": [
-            "Swordmaster"
+            "Swordmaster_R"
         ],
         "tags": [
             "Sword"
@@ -3232,7 +3537,7 @@
                 null
             ]
         },
-        "icon_nid": "Generic_Portrait_Swordmaster",
+        "icon_nid": "Swordmaster",
         "icon_index": [
             0,
             0
@@ -3244,7 +3549,7 @@
     {
         "nid": "Swordmaster_R",
         "name": "Swordmaster",
-        "desc": "Master swordswomen who fight with precise and deadly swiftness.\nTags: Sword",
+        "desc": "Master swordsmen who fight with precise and deadly swiftness.\nTags: Sword",
         "tier": 2,
         "movement_group": "Light Foot",
         "promotes_from": "Fencer_R",
@@ -3965,7 +4270,7 @@
             0
         ],
         "map_sprite_nid": "Hero (F) Blue Shield Sword {Pikmin}-stand",
-        "combat_anim_nid": "Vanguard",
+        "combat_anim_nid": "Veteran",
         "fields": []
     },
     {
@@ -4105,13 +4410,13 @@
                 null
             ]
         },
-        "icon_nid": "Generic_Portrait_Vanguard",
+        "icon_nid": "Veteran",
         "icon_index": [
             0,
             0
         ],
         "map_sprite_nid": "Hero (F) Blue Shield Sword {Pikmin}-stand",
-        "combat_anim_nid": "HeroFemale",
+        "combat_anim_nid": "Veteran",
         "fields": []
     },
     {
@@ -4250,7 +4555,7 @@
             0
         ],
         "map_sprite_nid": "Hero (F) Blue Shield Sword {Pikmin}-stand",
-        "combat_anim_nid": "Vanguard",
+        "combat_anim_nid": "Veteran",
         "fields": []
     },
     {
@@ -4686,7 +4991,6 @@
         "movement_group": "Regular",
         "promotes_from": null,
         "turns_into": [
-            "Veteran_A",
             "Warrior"
         ],
         "tags": [],
@@ -4973,7 +5277,7 @@
         "movement_group": "Bandits",
         "promotes_from": null,
         "turns_into": [
-            "Berserker"
+            "Oni"
         ],
         "tags": [],
         "max_level": 40,
@@ -6712,7 +7016,151 @@
         "desc": "Experts in espionage who can pick locks and steal important items as needed.\nTags: Sword",
         "tier": 2,
         "movement_group": "Light Foot",
-        "promotes_from": "Thief",
+        "promotes_from": "Outlaw",
+        "turns_into": [],
+        "tags": [
+            "Sword"
+        ],
+        "max_level": 40,
+        "bases": {
+            "HP": 19,
+            "STR": 7,
+            "MAG": 5,
+            "SKL": 5,
+            "SPD": 9,
+            "LCK": 0,
+            "DEF": 5,
+            "RES": 4,
+            "CON": 8,
+            "MOV": 6
+        },
+        "growths": {
+            "HP": 60,
+            "STR": 35,
+            "MAG": 25,
+            "SKL": 45,
+            "SPD": 40,
+            "LCK": 40,
+            "DEF": 10,
+            "RES": 10,
+            "CON": 0,
+            "MOV": 0
+        },
+        "growth_bonus": {
+            "HP": 0,
+            "STR": 0,
+            "MAG": 0,
+            "SKL": 0,
+            "SPD": 0,
+            "LCK": 0,
+            "DEF": 0,
+            "RES": 0,
+            "CON": 0,
+            "MOV": 0
+        },
+        "promotion": {
+            "HP": 3,
+            "STR": 3,
+            "MAG": 1,
+            "SKL": 1,
+            "SPD": 2,
+            "LCK": 0,
+            "DEF": 2,
+            "RES": 2,
+            "CON": 2,
+            "MOV": -99
+        },
+        "max_stats": {
+            "HP": 60,
+            "STR": 27,
+            "MAG": 25,
+            "SKL": 30,
+            "SPD": 32,
+            "LCK": 30,
+            "DEF": 23,
+            "RES": 23,
+            "CON": 20,
+            "MOV": 15
+        },
+        "learned_skills": [
+            [
+                1,
+                "Thief"
+            ]
+        ],
+        "wexp_gain": {
+            "Sword": [
+                true,
+                1,
+                251
+            ],
+            "Lance": [
+                false,
+                0,
+                251
+            ],
+            "Axe": [
+                false,
+                0,
+                251
+            ],
+            "Bow": [
+                true,
+                31,
+                251
+            ],
+            "Staff": [
+                false,
+                0,
+                251
+            ],
+            "Light": [
+                false,
+                0,
+                251
+            ],
+            "Anima": [
+                false,
+                0,
+                251
+            ],
+            "Dark": [
+                false,
+                0,
+                251
+            ],
+            "Martial": [
+                false,
+                0,
+                null
+            ],
+            "Default": [
+                false,
+                0,
+                251
+            ],
+            "Knife": [
+                false,
+                0,
+                null
+            ]
+        },
+        "icon_nid": "SpyM",
+        "icon_index": [
+            0,
+            0
+        ],
+        "map_sprite_nid": "Assassin (M) Hood {Jey the Count}-stand",
+        "combat_anim_nid": "AssassinFemale",
+        "fields": []
+    },
+    {
+        "nid": "Spy_M",
+        "name": "Spy",
+        "desc": "Experts in espionage who can pick locks and steal important items as needed.\nTags: Sword",
+        "tier": 2,
+        "movement_group": "Light Foot",
+        "promotes_from": "Outlaw",
         "turns_into": [],
         "tags": [
             "Sword"
@@ -7849,7 +8297,7 @@
             0
         ],
         "map_sprite_nid": "Knight (U) Bow {SALVAGED}-stand",
-        "combat_anim_nid": "General",
+        "combat_anim_nid": "SuperMech",
         "fields": []
     },
     {
@@ -8166,6 +8614,158 @@
         "promotes_from": null,
         "turns_into": [
             "Cataphract"
+        ],
+        "tags": [
+            "Mounted",
+            "Beast"
+        ],
+        "max_level": 40,
+        "bases": {
+            "HP": 20,
+            "STR": 7,
+            "MAG": 0,
+            "SKL": 4,
+            "SPD": 5,
+            "LCK": 0,
+            "DEF": 6,
+            "CON": 11,
+            "MOV": 7,
+            "RES": 0
+        },
+        "growths": {
+            "HP": 75,
+            "STR": 45,
+            "MAG": 20,
+            "SKL": 35,
+            "SPD": 25,
+            "LCK": 30,
+            "DEF": 35,
+            "CON": 0,
+            "MOV": 0,
+            "RES": 15
+        },
+        "growth_bonus": {
+            "HP": 0,
+            "STR": 0,
+            "MAG": 0,
+            "SKL": 0,
+            "SPD": 0,
+            "LCK": 0,
+            "DEF": 0,
+            "CON": 0,
+            "MOV": 0,
+            "RES": 0
+        },
+        "promotion": {
+            "HP": 20,
+            "STR": 7,
+            "MAG": 0,
+            "SKL": 4,
+            "SPD": 5,
+            "LCK": 0,
+            "DEF": 6,
+            "CON": 9,
+            "MOV": 7,
+            "RES": 0
+        },
+        "max_stats": {
+            "HP": 60,
+            "STR": 20,
+            "MAG": 20,
+            "SKL": 20,
+            "SPD": 20,
+            "LCK": 30,
+            "DEF": 20,
+            "CON": 25,
+            "MOV": 15,
+            "RES": 20
+        },
+        "learned_skills": [
+            [
+                1,
+                "Canto"
+            ]
+        ],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0,
+                251
+            ],
+            "Lance": [
+                false,
+                0,
+                251
+            ],
+            "Axe": [
+                true,
+                1,
+                181
+            ],
+            "Bow": [
+                false,
+                0,
+                251
+            ],
+            "Staff": [
+                false,
+                0,
+                251
+            ],
+            "Light": [
+                false,
+                0,
+                251
+            ],
+            "Anima": [
+                false,
+                0,
+                251
+            ],
+            "Dark": [
+                false,
+                0,
+                251
+            ],
+            "Martial": [
+                false,
+                0,
+                null
+            ],
+            "Default": [
+                false,
+                0,
+                251
+            ],
+            "Knife": [
+                false,
+                0,
+                null
+            ],
+            "Monster": [
+                false,
+                0,
+                null
+            ]
+        },
+        "icon_nid": "AxeCav",
+        "icon_index": [
+            0,
+            0
+        ],
+        "map_sprite_nid": "Cavalier (F) Axe {SALVAGED, Pikmin}-stand",
+        "combat_anim_nid": "AxeCav",
+        "fields": []
+    },
+    {
+        "nid": "Axe_Rider_L",
+        "name": "Axe Rider",
+        "desc": "Horse riders who use their high movement to charge into the enemy surprisingly.\nTags: Mounted, Beast",
+        "tier": 1,
+        "movement_group": "Heavy Cav",
+        "promotes_from": null,
+        "turns_into": [
+            "Cataphract_L"
         ],
         "tags": [
             "Mounted",
@@ -9056,7 +9656,7 @@
         "desc": "The most heavily armored riders, physical attacks find it hard to penetrate their armor.\nTags: Mounted, Armor, Beast",
         "tier": 2,
         "movement_group": "Heavy Cav",
-        "promotes_from": "Axe_Rider",
+        "promotes_from": "Axe_Rider_L",
         "turns_into": [],
         "tags": [
             "Mounted",
@@ -9338,7 +9938,7 @@
             0
         ],
         "map_sprite_nid": "Nomad Trooper (F) {IS}-stand",
-        "combat_anim_nid": null,
+        "combat_anim_nid": "Nomad",
         "fields": []
     },
     {
@@ -9634,151 +10234,6 @@
         "fields": []
     },
     {
-        "nid": "Tsukumogami_M",
-        "name": "Tsukumogami",
-        "desc": "An item given life through one of various means.\nTags: Monster, Magic",
-        "tier": 2,
-        "movement_group": "Fliers",
-        "promotes_from": "Mage_B",
-        "turns_into": [],
-        "tags": [
-            "Monster",
-            "Magic"
-        ],
-        "max_level": 40,
-        "bases": {
-            "HP": 20,
-            "STR": 1,
-            "MAG": 7,
-            "SKL": 5,
-            "SPD": 7,
-            "LCK": 0,
-            "DEF": 5,
-            "RES": 7,
-            "CON": 7,
-            "MOV": 6
-        },
-        "growths": {
-            "HP": 45,
-            "STR": 0,
-            "MAG": 35,
-            "SKL": 30,
-            "SPD": 30,
-            "LCK": 15,
-            "DEF": 10,
-            "RES": 40,
-            "CON": 0,
-            "MOV": 0
-        },
-        "growth_bonus": {
-            "HP": 0,
-            "STR": 0,
-            "MAG": 0,
-            "SKL": 0,
-            "SPD": 0,
-            "LCK": 0,
-            "DEF": 0,
-            "RES": 0,
-            "CON": 0,
-            "MOV": 0
-        },
-        "promotion": {
-            "HP": 0,
-            "STR": 0,
-            "MAG": 0,
-            "SKL": 0,
-            "SPD": 0,
-            "LCK": 0,
-            "DEF": 0,
-            "RES": 0,
-            "CON": 0,
-            "MOV": 0
-        },
-        "max_stats": {
-            "HP": 60,
-            "STR": 20,
-            "MAG": 28,
-            "SKL": 26,
-            "SPD": 26,
-            "LCK": 30,
-            "DEF": 24,
-            "RES": 30,
-            "CON": 25,
-            "MOV": 15
-        },
-        "learned_skills": [],
-        "wexp_gain": {
-            "Sword": [
-                false,
-                0,
-                null
-            ],
-            "Lance": [
-                false,
-                0,
-                null
-            ],
-            "Axe": [
-                false,
-                0,
-                null
-            ],
-            "Bow": [
-                false,
-                0,
-                null
-            ],
-            "Staff": [
-                false,
-                0,
-                null
-            ],
-            "Light": [
-                true,
-                31,
-                251
-            ],
-            "Anima": [
-                true,
-                31,
-                null
-            ],
-            "Dark": [
-                true,
-                31,
-                251
-            ],
-            "Martial": [
-                false,
-                0,
-                null
-            ],
-            "Default": [
-                false,
-                0,
-                null
-            ],
-            "Knife": [
-                false,
-                0,
-                null
-            ],
-            "Monster": [
-                false,
-                0,
-                null
-            ]
-        },
-        "icon_nid": "TsukumogamiTome",
-        "icon_index": [
-            0,
-            0
-        ],
-        "map_sprite_nid": "Tome (U) Anima {N426}-stand",
-        "combat_anim_nid": "ThunderTome",
-        "fields": []
-    },
-    {
         "nid": "Mage_M",
         "name": "Mage",
         "desc": "Magic users who pull from nature to sling their spells.\nTags: Magic",
@@ -10064,6 +10519,151 @@
         "fields": []
     },
     {
+        "nid": "Tsukumogami_M",
+        "name": "Tsukumogami",
+        "desc": "An item given life through one of various means.\nTags: Monster, Magic",
+        "tier": 2,
+        "movement_group": "Fliers",
+        "promotes_from": "Mage_B",
+        "turns_into": [],
+        "tags": [
+            "Monster",
+            "Magic"
+        ],
+        "max_level": 40,
+        "bases": {
+            "HP": 20,
+            "STR": 1,
+            "MAG": 7,
+            "SKL": 5,
+            "SPD": 7,
+            "LCK": 0,
+            "DEF": 5,
+            "RES": 7,
+            "CON": 7,
+            "MOV": 6
+        },
+        "growths": {
+            "HP": 45,
+            "STR": 0,
+            "MAG": 35,
+            "SKL": 30,
+            "SPD": 30,
+            "LCK": 15,
+            "DEF": 10,
+            "RES": 40,
+            "CON": 0,
+            "MOV": 0
+        },
+        "growth_bonus": {
+            "HP": 0,
+            "STR": 0,
+            "MAG": 0,
+            "SKL": 0,
+            "SPD": 0,
+            "LCK": 0,
+            "DEF": 0,
+            "RES": 0,
+            "CON": 0,
+            "MOV": 0
+        },
+        "promotion": {
+            "HP": 0,
+            "STR": 0,
+            "MAG": 0,
+            "SKL": 0,
+            "SPD": 0,
+            "LCK": 0,
+            "DEF": 0,
+            "RES": 0,
+            "CON": 0,
+            "MOV": 0
+        },
+        "max_stats": {
+            "HP": 60,
+            "STR": 20,
+            "MAG": 28,
+            "SKL": 26,
+            "SPD": 26,
+            "LCK": 30,
+            "DEF": 24,
+            "RES": 30,
+            "CON": 25,
+            "MOV": 15
+        },
+        "learned_skills": [],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0,
+                null
+            ],
+            "Lance": [
+                false,
+                0,
+                null
+            ],
+            "Axe": [
+                false,
+                0,
+                null
+            ],
+            "Bow": [
+                false,
+                0,
+                null
+            ],
+            "Staff": [
+                false,
+                0,
+                null
+            ],
+            "Light": [
+                true,
+                31,
+                251
+            ],
+            "Anima": [
+                true,
+                31,
+                null
+            ],
+            "Dark": [
+                true,
+                31,
+                251
+            ],
+            "Martial": [
+                false,
+                0,
+                null
+            ],
+            "Default": [
+                false,
+                0,
+                null
+            ],
+            "Knife": [
+                false,
+                0,
+                null
+            ],
+            "Monster": [
+                false,
+                0,
+                null
+            ]
+        },
+        "icon_nid": "TsukumogamiTome",
+        "icon_index": [
+            0,
+            0
+        ],
+        "map_sprite_nid": "Tome (U) Anima {N426}-stand",
+        "combat_anim_nid": "ThunderTome",
+        "fields": []
+    },
+    {
         "nid": "Sage_K",
         "name": "Sage",
         "desc": "Casters who know more advanced and deadly spells.\nTags: Magic",
@@ -10208,7 +10808,7 @@
         "desc": "Casters who know more advanced and deadly spells.\nTags: Magic",
         "tier": 2,
         "movement_group": "Mages",
-        "promotes_from": "Mage",
+        "promotes_from": "Mage_M",
         "turns_into": [],
         "tags": [
             "Magic"
@@ -10337,8 +10937,8 @@
             0,
             0
         ],
-        "map_sprite_nid": "SageFemale",
-        "combat_anim_nid": "SageFemale",
+        "map_sprite_nid": "Sage (F) Battle Sage Magic {Smug_Mug, Unknown}-stand",
+        "combat_anim_nid": "Battlesage",
         "fields": []
     },
     {
@@ -11209,7 +11809,7 @@
             0
         ],
         "map_sprite_nid": "Summoner (F) {VelvetKitsune}-stand",
-        "combat_anim_nid": "Shaman",
+        "combat_anim_nid": "Summoner",
         "fields": []
     },
     {
@@ -11650,7 +12250,7 @@
             0
         ],
         "map_sprite_nid": "Bishop (F) {IS}-stand",
-        "combat_anim_nid": "BishopFemale",
+        "combat_anim_nid": "Exorcist",
         "fields": []
     },
     {
@@ -11789,7 +12389,7 @@
             0
         ],
         "map_sprite_nid": "SageFemale",
-        "combat_anim_nid": "Sage",
+        "combat_anim_nid": "SageFemale",
         "fields": []
     },
     {
@@ -12370,7 +12970,7 @@
             0
         ],
         "map_sprite_nid": "Executioner (U) {Huichelaar, IS, Lexou}-stand",
-        "combat_anim_nid": "HexbladeShinki",
+        "combat_anim_nid": "Hexblade",
         "fields": []
     },
     {
@@ -14703,7 +15303,7 @@
             ],
             "Staff": [
                 true,
-                0,
+                1,
                 121
             ],
             "Light": [
@@ -14748,7 +15348,7 @@
             0
         ],
         "map_sprite_nid": "Seraph Knight (F) Lance {CamusZekeSirius, flasuban}-stand",
-        "combat_anim_nid": "Herald_1",
+        "combat_anim_nid": "Seraphknight",
         "fields": []
     },
     {
@@ -15058,7 +15658,7 @@
             0
         ],
         "map_sprite_nid": "Wyvern Lord (F) Lance {SHYUTER}-stand",
-        "combat_anim_nid": "Wyvern Lord",
+        "combat_anim_nid": "Dracolord",
         "fields": []
     },
     {
@@ -18035,8 +18635,8 @@
             0,
             0
         ],
-        "map_sprite_nid": "Wolf (U) Mauthe Doog T3 {EldritchAbomination}-stand",
-        "combat_anim_nid": "Herald_1",
+        "map_sprite_nid": "Wolf (U) Gwyllgi {IS}-stand",
+        "combat_anim_nid": "Werewolf",
         "fields": []
     },
     {

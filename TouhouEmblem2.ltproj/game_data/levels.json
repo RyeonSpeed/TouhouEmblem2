@@ -22136,7 +22136,7 @@
                 "nid": "202",
                 "variant": null,
                 "level": 16,
-                "klass": "Spy",
+                "klass": "Spy_M",
                 "faction": "Cultist",
                 "starting_items": [
                     [
@@ -22164,7 +22164,7 @@
                 "nid": "203",
                 "variant": null,
                 "level": 16,
-                "klass": "Spy",
+                "klass": "Spy_M",
                 "faction": "Cultist",
                 "starting_items": [
                     [
@@ -33937,55 +33937,6 @@
     },
     {
         "nid": "15",
-        "name": "Chapter 15",
-        "tilemap": "Base",
-        "bg_tilemap": null,
-        "party": "Reimu",
-        "music": {},
-        "objective": {
-            "simple": "",
-            "win": "",
-            "loss": ""
-        },
-        "roam": false,
-        "roam_unit": null,
-        "go_to_overworld": false,
-        "should_record": true,
-        "tags": [],
-        "units": [
-            {
-                "nid": "Reimu",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    5,
-                    5
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Marisa",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": "",
-                "starting_position": [
-                    9,
-                    5
-                ],
-                "starting_traveler": null,
-                "generic": false
-            }
-        ],
-        "regions": [],
-        "unit_groups": [],
-        "ai_groups": []
-    },
-    {
-        "nid": "16",
         "name": "Intervallo II: Dinner Party of Scarlet Devil",
         "tilemap": "Scarlet Devil Mansion: Foyer",
         "bg_tilemap": null,
@@ -34417,7 +34368,26 @@
                 "generic": false
             }
         ],
-        "regions": [],
+        "regions": [
+            {
+                "nid": "Onward_",
+                "region_type": "event",
+                "position": [
+                    3,
+                    3
+                ],
+                "size": [
+                    2,
+                    2
+                ],
+                "sub_nid": "Onward!",
+                "condition": "True",
+                "time_left": null,
+                "only_once": false,
+                "interrupt_move": false,
+                "hide_time": false
+            }
+        ],
         "unit_groups": [
             {
                 "nid": "KoakumaNoJoin",
@@ -34876,12 +34846,29 @@
                 }
             }
         ],
-        "ai_groups": [
-            {
-                "nid": "",
-                "trigger_threshold": 1
-            }
-        ]
+        "ai_groups": []
+    },
+    {
+        "nid": "17",
+        "name": "Chapter 16",
+        "tilemap": "Tenshi_Ambush",
+        "bg_tilemap": null,
+        "party": "Reimu",
+        "music": {},
+        "objective": {
+            "simple": "",
+            "win": "",
+            "loss": ""
+        },
+        "roam": false,
+        "roam_unit": null,
+        "go_to_overworld": false,
+        "should_record": true,
+        "tags": [],
+        "units": [],
+        "regions": [],
+        "unit_groups": [],
+        "ai_groups": []
     },
     {
         "nid": "DEBUG",
@@ -34960,10 +34947,10 @@
                 "generic": true
             },
             {
-                "nid": "115",
+                "nid": "116",
                 "variant": null,
-                "level": 5,
-                "klass": "Guard",
+                "level": 40,
+                "klass": "Warden",
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -34978,7 +34965,7 @@
                 "ai_group": "",
                 "starting_position": [
                     20,
-                    17
+                    20
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -35000,7 +34987,7 @@
                 "nid": "106",
                 "variant": null,
                 "level": 10,
-                "klass": "Lancer",
+                "klass": "Lance_Rider",
                 "faction": "Youkai",
                 "starting_items": [
                     [
@@ -35012,7 +34999,7 @@
                         false
                     ],
                     [
-                        "Gungnir",
+                        "Killer_Axe",
                         false
                     ],
                     [
@@ -35028,8 +35015,8 @@
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    18,
-                    19
+                    19,
+                    17
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -35119,20 +35106,20 @@
                 "generic": true
             },
             {
-                "nid": "Ringo",
+                "nid": "SigmaRaven",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
                 "ai_group": "",
                 "starting_position": [
-                    18,
-                    17
+                    19,
+                    16
                 ],
                 "starting_traveler": null,
                 "generic": false
             },
             {
-                "nid": "Alice_Boss_2",
+                "nid": "Shinki_Boss",
                 "team": "enemy",
                 "ai": "None",
                 "roam_ai": null,
@@ -35140,6 +35127,19 @@
                 "starting_position": [
                     23,
                     16
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Keine_NPC",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    19,
+                    15
                 ],
                 "starting_traveler": null,
                 "generic": false

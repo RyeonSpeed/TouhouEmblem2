@@ -20590,7 +20590,9 @@
                     "Lodestar_B",
                     "Lodestar_L",
                     "Miko_Y",
-                    "Miko_R"
+                    "Miko_R",
+                    "Axe_Rider_L",
+                    "Witch_R"
                 ]
             ],
             [
@@ -20600,6 +20602,10 @@
             [
                 "eval_target_restrict_2",
                 "unit.level >= 10"
+            ],
+            [
+                "skip_combat",
+                null
             ]
         ]
     },
